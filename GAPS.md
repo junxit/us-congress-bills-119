@@ -1,12 +1,12 @@
-# Measures without text — 119th Congress
+# What this repository does not hold — 119th Congress
 
-116 measures are recorded in BILLSTATUS but have no bill text
+224 measures are recorded in BILLSTATUS but have no bill text
 linked in any of their `textVersions` entries, so they have no branch in
 this repository.
 
 This is an upstream gap, not a build failure. It is heavily
 concentrated in the older Congresses: govinfo's coverage of bill text
-thins out before the 111th, and House organising resolutions -- electing
+thins out before the 111th, and House organizing resolutions -- electing
 officers, adopting rules -- generally carry no published text in any
 Congress.
 
@@ -14,13 +14,18 @@ Congress.
 
 | Type | Without text |
 |---|---|
-| `s` | 72 |
-| `hr` | 34 |
-| `sjres` | 4 |
-| `sres` | 4 |
+| `s` | 156 |
+| `hr` | 50 |
+| `sres` | 13 |
 | `hres` | 2 |
+| `sconres` | 2 |
+| `sjres` | 1 |
 
-## Every measure
+## The first 50
+
+The complete list of 224 is in [`GAPS.tsv`](GAPS.tsv), which
+is tab-separated so it can be grepped and diffed without a Markdown
+reader.
 
 | Measure | Title |
 |---|---|
@@ -30,6 +35,7 @@ Congress.
 | `H.R. 8` | Reserved for the Speaker. |
 | `H.R. 10` | Reserved for the Speaker. |
 | `H.R. 4584` | To make technical amendments to update statutory references to certain provisions which were formerly classified to chapters 14 and 19 of title 25, United States Code, and to correct related technical errors. |
+| `H.R. 4944` | Ending Qualified Immunity for ICE Agents Act |
 | `H.R. 5182` | To make improvements in the enactment of title 54, United States Code, into a positive law title and to correct related technical errors. |
 | `H.R. 5185` | To make improvements in the enactment of title 41, United States Code, into a positive law title and to improve the Code. |
 | `H.R. 5210` | To make technical amendments to update statutory references to certain provisions classified to title 2, United States Code, title 50, United States Code, and title 52, United States Code, and to correct related technical errors. |
@@ -58,85 +64,168 @@ Congress.
 | `H.R. 10023` | To eliminate asset limits employed by certain federally funded means-tested public assistance programs, and for other purposes. |
 | `H.R. 10025` | To amend the Trademark Act of 1946 to clarify the applicability of Federal trademark law in the area of digital replicas of identifying characteristics of individuals, and for other purposes. |
 | `H.R. 10039` | To amend the Internal Revenue Code of 1986 to exempt individual account plans from certain prohibited transaction rules. |
-| `H.Res. 1378` | Honoring and celebrating National Boys and Girls Club Week of 2026. |
-| `H.Res. 1461` | The Original Resolution honoring the life, public service, and legacy of the Honorable Congressman Craig Anthony Washington, a distinguished legislator, superior attorney, civil rights advocate, and champion for justice. |
-| `S. 5060` | A bill to comprehensively combat child marriage in the United States. |
-| `S. 5066` | A bill to improve the health of minority individuals, and for other purposes. |
-| `S. 5091` | A bill to amend title XIX of the Social Security Act to improve coverage of dental and oral health services for adults under Medicaid, and for other purposes. |
-| `S. 5183` | A bill to establish the Anti-Corruption Bureau, and for other purposes. |
-| `S. 5193` | A bill to amend the Public Health Service Act to expand the capacity to improve health outcomes and increase access to specialized care. |
-| `S. 5197` | A bill to amend the Immigration and Nationality Act to provide for a State-sponsored nonimmigrant pilot program, and for other purposes. |
-| `S. 5201` | A bill to amend title 18, United States Code, to protect more victims of domestic violence by preventing their abusers from possessing or receiving firearms, and for other purposes. |
-| `S. 5207` | A bill to amend the Public Health Service Act to maintain the Rural Communities Opioid Response Program, and for other purposes. |
-| `S. 5208` | A bill to amend title 18, United States Code, to provide concealed carry privileges to qualified special operators. |
-| `S. 5209` | A bill to amend title 39, United States Code, to limit bonuses to the Postmaster General, and for other purposes. |
-| `S. 5210` | A bill to allow Members of Congress to display works of art that are currently held in storage. |
-| `S. 5211` | A bill to require the Under Secretary of Defense for Policy and the Chairman of the Joint Chiefs of Staff to submit a strategy for cyber cooperation in the Indo-Pacific region, and for other purposes. |
-| `S. 5212` | A bill to amend title 18, United States Code, to reform executive clemency. |
-| `S. 5213` | A bill to support programs for mosquito-borne and other vector-borne disease surveillance and control. |
-| `S. 5214` | A bill to amend title 18, United States Code, to punish criminal offenses targeting law enforcement officers, and for other purposes. |
-| `S. 5215` | A bill to amend the Internal Revenue Code of 1986 to extend and enhance certain tax credits for electric vehicles, and for other purposes. |
-| `S. 5216` | A bill to amend the Internal Revenue Code of 1986 to allow a credit against tax for qualified accessible housing expenses, and for other purposes. |
-| `S. 5217` | A bill to amend the Consolidated Appropriations Act, 2017 to extend the availability of identity protection coverage to individuals whose personally identifiable information was compromised during recent data breaches at Federal agencies, and for other purposes. |
-| `S. 5218` | A bill to amend the Agricultural Research, Extension, and Education Reform Act of 1998 to direct the Secretary of Agriculture to establish a program under which the Secretary will award competitive grants to eligible entities for the purpose of establishing and enhancing farming and ranching opportunities for veterans. |
-| `S. 5219` | A bill to improve end-of-life care. |
-| `S. 5220` | A bill to amend the Infrastructure Investment and Jobs Act to reauthorize the battery processing and manufacturing program, and for other purposes. |
-| `S. 5221` | A bill to prohibit the purchase, sale, or exchange of nonpublic information, and for other purposes. |
-| `S. 5222` | A bill to establish the Cleaner Transportation at Recreational Areas to Improve our Landmarks and Sites (Cleaner TRAILS) Initiative to facilitate the installation of zero-emission vehicle fueling infrastructure on National Forest System land, National Park System land, and certain related land, and for other purposes. |
-| `S. 5223` | A bill to prohibit the purchase or sale of securities while aware of nonpublic information contained in certain social media accounts controlled by Government officials, and for other purposes. |
-| `S. 5224` | A bill to improve training for airport drivers in the movement area at commercial service airports through the establishment of a task force and the use of technology, and for other purposes. |
-| `S. 5225` | A bill to amend the Elementary and Secondary Education Act of 1965 to include certain curriculum expenses as permissible use of funds, and for other purposes. |
-| `S. 5226` | A bill to require social media platform providers to obtain parental consent with respect to children creating or maintaining accounts or profiles on their platforms, and for other purposes. |
-| `S. 5227` | A bill to amend the Internal Revenue Code of 1986 to allow certain distributions from long-term qualified tuition programs for first home purchases, and for other purposes. |
-| `S. 5228` | A bill to amend the Revised Statutes to provide that a person who refuses to answer certain questions or is finally convicted of perjury before either House of Congress shall be debarred from Federal employment, and for other purposes. |
-| `S. 5229` | A bill to amend title 18, United States Code, to enhance penalties for certain cases of gift card fraud, and for other purposes. |
-| `S. 5230` | A bill to amend the Pittman-Robertson Wildlife Restoration Act to require the Secretary of the Interior to approve the wildlife conservation and restoration program of a State within a certain period of time, and for other purposes. |
-| `S. 5231` | A bill to remove limitations under Medicaid, Medicare, CHIP, and the Department of Veterans Affairs on benefits for persons in custody pending disposition of charges. |
-| `S. 5232` | A bill to amend the Public Health Service Act to authorize rural residency planning and development grant programs, and for other purposes. |
-| `S. 5233` | A bill to terminate the Yucca Mountain licensing proceeding and require the Director of the Office of Management and Budget to submit to Congress a study on the economic viability and job-creating benefits of alternative uses of the Yucca Mountain site, and for other purposes. |
-| `S. 5234` | A bill to amend the Act of March 2, 1931, to establish a Human-Wildlife Conflict Reduction Program, and for other purposes. |
-| `S. 5235` | A bill to amend the Toxic Substances Control Act to prohibit the manufacture, processing, use, and distribution in commerce of commercial asbestos and mixtures and articles containing commercial asbestos, and for other purposes. |
-| `S. 5236` | A bill to amend title XIX of the Social Security Act to ensure Medicaid coverage of mental health services and primary care services furnished on the same day. |
-| `S. 5237` | A bill to require the Director of the National Institute of Allergy and Infectious Diseases to award a competitive grant for the Antibiotic Resistance Leadership Group for the purpose of facilitating a clinical research network on antibiotic resistance, and for other purposes. |
-| `S. 5238` | A bill to preserve the democratic republic of the United States from the overreach of authoritarian tactics. |
-| `S. 5240` | A bill to amend the Federal Crop Insurance Reform and Department of Agriculture Reorganization Act of 1994 to establish a budgetary Tribal Government consultation process at the Department of Agriculture, and for other purposes. |
-| `S. 5241` | A bill to designate the facility of the United States Postal Service located at 200 1st Avenue Southeast in Austin, Minnesota, as the "John Madden Memorial Post Office". |
-| `S. 5242` | A bill to provide for digital communication of prescribing information for drugs (including biological products), and for other purposes. |
-| `S. 5243` | A bill to provide for the automatic establishment of Trump accounts using information collected under the Enumeration at Birth Program of the Social Security Administration. |
-| `S. 5244` | A bill to amend the Public Health Service Act with respect to the drug discount program, and for other purposes. |
-| `S. 5245` | A bill to establish the Karly Rain Wood Repeat Violent Felon Registration and Notification Program within the Department of Justice, and for other purposes. |
-| `S. 5246` | A bill to amend title XXX of the Public Health Service Act to establish standards and protocols to improve patient matching. |
-| `S. 5247` | A bill to amend title 10, United States Code, to include Indian Tribes in the defense community infrastructure program, and for other purposes. |
-| `S. 5248` | A bill to authorize the Secretary of Health and Human Services to make grants to States to improve the knowledge, credentials, compensation, and professional development of early childhood educators working with children in early childhood education programs. |
-| `S. 5249` | A bill to amend the Atomic Energy Act of 1954 to align the licensing of uranium enrichment facilities with other fuel cycle facilities under that Act, and for other purposes. |
-| `S. 5250` | A bill to amend title XVIII of the Social Security Act to decrease fraud related to home health agencies in Medicare, and for other purposes. |
-| `S. 5251` | A bill to modify the termination of the aviation consumer protection advisory committee, and for other purposes. |
-| `S. 5252` | A bill to prevent foreign adversaries from threatening the national security of the United States by extracting key technical features of closed-source, United States-owned artificial intelligence models, and for other purposes. |
-| `S. 5253` | A bill to amend the Food, Agriculture, Conservation, and Trade Act of 1990 to prioritize emerging tick-borne livestock disease research, and for other purposes. |
-| `S. 5254` | A bill to modify the prohibition on financing of civil nuclear energy by the Export-Import Bank of the United States, and for other purposes. |
-| `S. 5255` | A bill to amend title 10, United States Code, to define the purpose, role, duties, and professional qualification requirements for chaplains in the Armed Forces, and for other purposes. |
-| `S. 5256` | A bill to provide increased oversight of certain pardons, to clarify the applicability of bribery prohibitions to pardons and commutations, and for other purposes. |
-| `S. 5257` | A bill to expedite the provision of humanitarian assistance, including life-saving medical care, to the people of North Korea, and for other purposes. |
-| `S. 5258` | A bill to amend title XI of the Social Security Act to establish a payment model to reimburse providers for furnishing comprehensive breast cancer risk assessments and developing personalized screening and risk-reduction plans, and for other purposes. |
-| `S. 5259` | A bill to prohibit sanctuary jurisdictions from receiving community development block grants, and for other purposes. |
-| `S. 5260` | A bill to require the Secretary of Health and Human Services to carry out research and data collection to improve the quality of stroke care, and for other purposes. |
-| `S. 5261` | A bill to amend the Federal Fire Prevention and Control Act of 1974 to make available under the assistance to firefighters grant program the establishment of cancer prevention programs, and for other purposes. |
-| `S. 5262` | A bill to amend the Federal Water Pollution Control Act to clarify the definition of navigable waters, and for other purposes. |
-| `S. 5263` | A bill to amend the Workforce Innovation and Opportunity Act to provide to States and local areas information on the best practices for addressing the effects that substance use disorder has on the workforce, and to provide local areas with grants to provide training activities related to the treatment and prevention of substance use disorder. |
-| `S. 5264` | A bill to amend title 49, United States Code. to set requirements for certain operator workstations for fixed route buses, and for other purposes. |
-| `S. 5265` | A bill to identify and take action against international trade practices of high income countries that unfairly exploit innovation by deviating from market-based policies and unfairly exploit United States innovation, and for other purposes. |
-| `S. 5266` | A bill to amend title 10, United States Code, to provide flexibility in the recoupment of separation pay, severance pay, and readjustment pay from members of the Armed Forces receiving veterans' disability compensation. |
-| `S. 5267` | A bill to amend title XI of the Social Security Act to require the Center for Medicare and Medicaid Innovation to test a model to reduce chronic diseases by using Accountable Produce is Medicine. |
-| `S. 5268` | A bill to amend the Fair Labor Standards Act of 1938 to adjust the rate employers pay for overtime hours from one and one-half to two times the regular rate. |
-| `S. 5269` | A bill to provide for the establishment of hybrid primary care payments under the Medicare program, and for other purposes. |
-| `S. 5270` | A bill to amend title XVIII of the Social Security Act to establish a Medicare home care benefit, and for other purposes. |
-| `S. 5271` | A bill to amend the Help America Vote Act of 2002 to require voters to provide photo identification. |
-| `S. 5272` | A bill to recover unclaimed pandemic-era unemployment compensation funds held by financial institutions or escheated to State unclaimed property administrators, and for other purposes. |
-| `S.J.Res. 205` | A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to "California State Nonroad Engine Pollution Control Standards; Small Off-Road Engines Regulations; Notice of Decision". |
-| `S.J.Res. 206` | A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to "California State Motor Vehicle Pollution Control Standards; Notice of Decision Granting a Waiver of Clean Air Act Preemption for California's 2009 and Subsequent Model Year Greenhouse Gas Emission Standards for New Motor Vehicles". |
-| `S.J.Res. 207` | A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to "California State Motor Vehicle Pollution Control Standards; Notice of Decision Granting a Waiver of Clean Air Act Preemption for California's Advanced Clean Car Program and a Within the Scope Conformation for California's Zero Emission Vehicle Amendments for 2017 and Earlier Model Years". |
-| `S.J.Res. 208` | A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to "California State Motor Vehicle Pollution Control Standards; Advanced Clean Car Program; Reconsideration of a Previous Withdrawal of a Waiver of Preemption; Notice of Decision". |
-| `S.Res. 828` | A resolution expressing the sense of the Senate that President Trump's lawsuit against the Internal Revenue Service, the resulting settlement from that lawsuit, the purported "Anti-Weaponization Fund", and the purported grant of immunity from tax investigations to the plaintiffs in President Trump's lawsuit, should be rejected, equal protection arguments by others with similar claims should be forestalled, and this settlement should not serve as a precedent and should never be repeated. |
-| `S.Res. 829` | A resolution reaffirming the policy of the United States to support a peaceful democratic transition in Venezuela through free and fair elections. |
-| `S.Res. 830` | A resolution recognizing the 80th anniversary of the Fulbright Program. |
-| `S.Res. 831` | A resolution recognizing the 100th anniversary of Northwest Mississippi Community College and celebrating a century of educational excellence, workforce development, student success, and service to the people of Mississippi and the United States. |
+| `H.R. 10045` | To provide that no Federal funds may be used to carry out the final rule of the Department of Homeland Security entitled "Public Charge Ground of Inadmissibility", and for other purposes. |
+| `H.R. 10048` | To create national standards for labeling of covered materials as recyclable, compostable, reusable, and refillable, and for other purposes. |
+| `H.R. 10051` | To establish and collect fees for an optional program to expedite the processing of forms required to obtain a permanent labor certification, and for other purposes. |
+| `H.R. 10052` | To protect the right to the free exercise of religion. |
+| `H.R. 10053` | To authorize the Secretary of Housing and Urban Development to issue loans to certain public employees, and for other purposes. |
+| `H.R. 10054` | To withdraw certain Federal land in the Rio Chama Watershed area of the State of New Mexico from mineral entry, and for other purposes. |
+| `H.R. 10055` | To amend titles 5, 18, and 40, United States Code, to prohibit the renaming of Federal property except through a provision of law enacted by Congress, and for other purposes. |
+| `H.R. 10056` | To amend title XVIII of the Social Security Act to provide for patient protection by limiting the number of mandatory overtime hours a nurse may be required to work in certain providers of services to which payments are made under the Medicare Program. |
+| `H.R. 10061` | To address wildfire readiness and recovery, safe communities, and wildland firefighter safety. |
+| `H.R. 10063` | To provide economic empowerment opportunities in the United States through the modernization of public housing, and for other purposes. |
+| `H.R. 10065` | To require certain royalties paid for gas produced from Federal land and on the outer Continental Shelf to be assessed on all gas produced, and for other purposes. |
+| `H.R. 10066` | To prohibit the purchase, sale, or exchange of nonpublic information, and for other purposes. |
+| `H.R. 10067` | To prohibit the District of Columbia from requiring a person to wear a protective helmet to operate, or ride on, a motorcycle or motor-driven cycle. |
+| `H.R. 10068` | To amend the Public Health Service Act to provide for a Reducing Youth Use of E-Cigarettes Initiative. |
+| `H.R. 10069` | To amend the Sikes Act to make certain improvements to integrated natural resources management plans of the Department of Defense for military installations, and for other purposes. |
+
+## Roll-call votes taken after the last published text
+
+135 roll calls were taken later than the most recent
+dated text version of their measure, so there is no commit for them to
+sit on. Every record in this repository is the record *as of* the version
+it accompanies -- see the caveat in the README -- and a vote cannot be
+written onto text that predates it.
+
+This is a limit of the shape of this repository, not an upstream gap and
+not a build failure. The votes themselves are published; they are listed
+here with the address the chamber serves them from.
+
+| Measure | Vote | When |
+|---|---|---|
+| `hconres-38` | House 119-2-85 | 2026-03-05, after the last version committed (2025-06-17) |
+| `hconres-40` | House 119-2-114 | 2026-04-16, after the last version committed (2025-06-23) |
+| `hconres-61` | House 119-1-345 | 2025-12-17, after the last version committed (2025-11-17) |
+| `hconres-64` | House 119-1-346 | 2025-12-17, after the last version committed (2025-12-01) |
+| `hconres-68` | House 119-2-48 | 2026-01-22, after the last version committed (2026-01-07) |
+| `hconres-75` | House 119-2-170 | 2026-05-14, after the last version committed (2026-03-04) |
+| `hconres-84` | House 119-2-201 | 2026-06-04, after the last version committed (2026-04-13) |
+| `hconres-108` | House 119-2-232 | 2026-06-30, after the last version committed (2026-06-03) |
+| `hjres-117` | House 119-1-265 | 2025-09-15, after the last version committed (2025-08-29) |
+| `hjres-139` | House 119-2-95 | 2026-03-18, after the last version committed (2026-02-25) |
+| `hr-23` | Senate 119-1-22 | 2025-01-28, after the last version committed (2025-01-13) |
+| `hr-1329` | House 119-2-187 | 2026-05-21, after the last version committed (2026-04-23) |
+| `hr-1329` | House 119-2-188 | 2026-05-21, after the last version committed (2026-04-23) |
+| `hr-2262` | House 119-2-18 | 2026-01-13, after the last version committed (2025-12-30) |
+| `hr-2262` | House 119-2-19 | 2026-01-13, after the last version committed (2025-12-30) |
+| `hr-2270` | House 119-2-20 | 2026-01-13, after the last version committed (2025-12-18) |
+| `hr-2312` | House 119-2-21 | 2026-01-13, after the last version committed (2025-12-30) |
+| `hr-3944` | House 119-1-263 | 2025-09-11, after the last version committed (2025-08-01) |
+| `hr-4016` | Senate 119-1-575 | 2025-10-16, after the last version committed (2025-07-31) |
+| `hr-6703` | House 119-1-348 | 2025-12-17, after the last version committed (2025-12-15) |
+| `hr-6703` | House 119-1-349 | 2025-12-17, after the last version committed (2025-12-15) |
+| `hr-8800` | House 119-2-255 | 2026-07-21, after the last version committed (2026-06-15) |
+| `hr-8800` | House 119-2-256 | 2026-07-21, after the last version committed (2026-06-15) |
+| `hr-8800` | House 119-2-257 | 2026-07-21, after the last version committed (2026-06-15) |
+| `hr-8800` | House 119-2-258 | 2026-07-21, after the last version committed (2026-06-15) |
+| `hr-8800` | House 119-2-259 | 2026-07-21, after the last version committed (2026-06-15) |
+| `hr-8800` | House 119-2-260 | 2026-07-21, after the last version committed (2026-06-15) |
+| `hr-8800` | House 119-2-261 | 2026-07-21, after the last version committed (2026-06-15) |
+| `hr-8800` | House 119-2-262 | 2026-07-21, after the last version committed (2026-06-15) |
+| `hr-8800` | House 119-2-263 | 2026-07-21, after the last version committed (2026-06-15) |
+| `hr-8800` | House 119-2-264 | 2026-07-21, after the last version committed (2026-06-15) |
+| `hr-8800` | House 119-2-265 | 2026-07-21, after the last version committed (2026-06-15) |
+| `hr-8800` | House 119-2-266 | 2026-07-21, after the last version committed (2026-06-15) |
+| `hr-8800` | House 119-2-267 | 2026-07-21, after the last version committed (2026-06-15) |
+| `hr-8800` | House 119-2-268 | 2026-07-21, after the last version committed (2026-06-15) |
+| `hr-8800` | House 119-2-269 | 2026-07-21, after the last version committed (2026-06-15) |
+| `hr-8800` | House 119-2-273 | 2026-07-22, after the last version committed (2026-06-15) |
+| `hr-8800` | House 119-2-274 | 2026-07-22, after the last version committed (2026-06-15) |
+| `hr-8800` | House 119-2-275 | 2026-07-22, after the last version committed (2026-06-15) |
+| `hr-8800` | House 119-2-276 | 2026-07-22, after the last version committed (2026-06-15) |
+| `hr-8800` | House 119-2-277 | 2026-07-22, after the last version committed (2026-06-15) |
+| `hr-8800` | House 119-2-278 | 2026-07-22, after the last version committed (2026-06-15) |
+| `hr-9237` | House 119-2-249 | 2026-07-16, after the last version committed (2026-06-10) |
+| `hr-9238` | House 119-2-221 | 2026-06-11, after the last version committed (2026-06-10) |
+| `hres-530` | House 119-1-176 | 2025-06-24, after the last version committed (2025-06-23) |
+| `hres-530` | House 119-1-177 | 2025-06-24, after the last version committed (2025-06-23) |
+| `hres-539` | House 119-1-223 | 2025-09-03, after the last version committed (2025-06-24) |
+| `hres-713` | House 119-1-276 | 2025-09-17, after the last version committed (2025-09-15) |
+| `hres-939` | House 119-1-322 | 2025-12-11, after the last version committed (2025-12-10) |
+| `hres-1042` | House 119-2-59 | 2026-02-10, after the last version committed (2026-02-09) |
+| `hres-1042` | House 119-2-60 | 2026-02-10, after the last version committed (2026-02-09) |
+| `hres-1175` | House 119-2-122 | 2026-04-17, after the last version committed (2026-04-15) |
+| `hres-1175` | House 119-2-123 | 2026-04-17, after the last version committed (2026-04-15) |
+| `hres-1175` | House 119-2-124 | 2026-04-17, after the last version committed (2026-04-15) |
+| `s-6` | Senate 119-1-11 | 2025-01-22, after the last version committed (2025-01-16) |
+| `s-9` | Senate 119-1-100 | 2025-03-03, after the last version committed (2025-01-08) |
+| `s-1318` | Senate 119-2-164 | 2026-06-05, after the last version committed (2026-04-29) |
+| `s-1383` | Senate 119-2-57 | 2026-03-17, after the last version committed (2026-02-11) |
+| `s-1383` | Senate 119-2-60 | 2026-03-21, after the last version committed (2026-02-11) |
+| `s-1383` | Senate 119-2-61 | 2026-03-21, after the last version committed (2026-02-11) |
+| `s-1383` | Senate 119-2-67 | 2026-03-24, after the last version committed (2026-02-11) |
+| `s-1383` | Senate 119-2-68 | 2026-03-24, after the last version committed (2026-02-11) |
+| `s-1383` | Senate 119-2-73 | 2026-03-26, after the last version committed (2026-02-11) |
+| `s-2503` | House 119-2-72 | 2026-02-24, after the last version committed (2025-12-17) |
+| `s-2806` | Senate 119-1-533 | 2025-09-29, after the last version committed (2025-09-16) |
+| `s-2882` | Senate 119-1-534 | 2025-09-30, after the last version committed (2025-09-19) |
+| `s-2882` | Senate 119-1-536 | 2025-10-01, after the last version committed (2025-09-19) |
+| `s-2882` | Senate 119-1-542 | 2025-10-03, after the last version committed (2025-09-19) |
+| `s-2882` | Senate 119-1-544 | 2025-10-06, after the last version committed (2025-09-19) |
+| `s-2882` | Senate 119-1-550 | 2025-10-08, after the last version committed (2025-09-19) |
+| `s-2882` | Senate 119-1-557 | 2025-10-09, after the last version committed (2025-09-19) |
+| `s-3012` | Senate 119-1-585 | 2025-10-23, after the last version committed (2025-10-16) |
+| `s-3012` | Senate 119-1-609 | 2025-11-07, after the last version committed (2025-10-16) |
+| `s-3385` | Senate 119-1-644 | 2025-12-11, after the last version committed (2025-12-08) |
+| `s-3386` | Senate 119-1-643 | 2025-12-11, after the last version committed (2025-12-08) |
+| `s-3627` | Senate 119-2-12 | 2026-01-27, after the last version committed (2026-01-14) |
+| `s-4784` | Senate 119-2-195 | 2026-07-14, after the last version committed (2026-06-15) |
+| `s-5271` | Senate 119-2-231 | 2026-08-08, after the last version committed (2026-08-06) |
+| `sconres-22` | Senate 119-1-521 | 2025-09-16, after the last version committed (2025-09-15) |
+| `sjres-10` | Senate 119-1-95 | 2025-02-26, after the last version committed (2025-02-03) |
+| `sjres-12` | Senate 119-1-96 | 2025-02-26, after the last version committed (2025-02-20) |
+| `sjres-26` | Senate 119-1-166 | 2025-04-03, after the last version committed (2025-02-25) |
+| `sjres-32` | Senate 119-2-80 | 2026-04-15, after the last version committed (2025-03-10) |
+| `sjres-33` | Senate 119-1-165 | 2025-04-03, after the last version committed (2025-03-10) |
+| `sjres-34` | Senate 119-1-455 | 2025-07-30, after the last version committed (2025-03-10) |
+| `sjres-41` | Senate 119-1-454 | 2025-07-30, after the last version committed (2025-03-27) |
+| `sjres-49` | Senate 119-1-225 | 2025-04-30, after the last version committed (2025-04-10) |
+| `sjres-53` | Senate 119-1-306 | 2025-06-11, after the last version committed (2025-05-15) |
+| `sjres-54` | Senate 119-1-307 | 2025-06-11, after the last version committed (2025-05-15) |
+| `sjres-59` | Senate 119-1-328 | 2025-06-27, after the last version committed (2025-06-16) |
+| `sjres-60` | Senate 119-1-520 | 2025-09-16, after the last version committed (2025-08-01) |
+| `sjres-69` | Senate 119-1-597 | 2025-10-29, after the last version committed (2025-10-15) |
+| `sjres-71` | Senate 119-1-554 | 2025-10-08, after the last version committed (2025-07-31) |
+| `sjres-76` | Senate 119-1-622 | 2025-11-19, after the last version committed (2025-09-16) |
+| `sjres-82` | Senate 119-1-641 | 2025-12-10, after the last version committed (2025-10-22) |
+| `sjres-82` | Senate 119-1-654 | 2025-12-18, after the last version committed (2025-10-22) |
+| `sjres-83` | Senate 119-1-555 | 2025-10-08, after the last version committed (2025-09-18) |
+| `sjres-84` | Senate 119-2-8 | 2026-01-13, after the last version committed (2025-12-09) |
+| `sjres-86` | Senate 119-2-4 | 2026-01-07, after the last version committed (2025-12-09) |
+| `sjres-89` | Senate 119-1-621 | 2025-11-19, after the last version committed (2025-11-18) |
+| `sjres-90` | Senate 119-1-608 | 2025-11-06, after the last version committed (2025-10-16) |
+| `sjres-91` | Senate 119-1-630 | 2025-12-03, after the last version committed (2025-12-02) |
+| `sjres-95` | Senate 119-2-35 | 2026-02-10, after the last version committed (2025-12-18) |
+| `sjres-98` | Senate 119-2-9 | 2026-01-14, after the last version committed (2026-01-08) |
+| `sjres-99` | Senate 119-2-111 | 2026-04-29, after the last version committed (2026-03-24) |
+| `sjres-103` | Senate 119-2-72 | 2026-03-25, after the last version committed (2026-02-12) |
+| `sjres-104` | Senate 119-2-46 | 2026-03-04, after the last version committed (2026-01-29) |
+| `sjres-107` | Senate 119-2-70 | 2026-03-25, after the last version committed (2026-03-19) |
+| `sjres-114` | Senate 119-2-88 | 2026-04-22, after the last version committed (2026-03-05) |
+| `sjres-116` | Senate 119-2-69 | 2026-03-24, after the last version committed (2026-03-05) |
+| `sjres-118` | Senate 119-2-58 | 2026-03-18, after the last version committed (2026-03-05) |
+| `sjres-123` | Senate 119-2-79 | 2026-04-15, after the last version committed (2026-03-10) |
+| `sjres-124` | Senate 119-2-108 | 2026-04-28, after the last version committed (2026-03-12) |
+| `sjres-130` | Senate 119-2-123 | 2026-05-13, after the last version committed (2026-04-27) |
+| `sjres-132` | Senate 119-2-121 | 2026-05-13, after the last version committed (2026-04-27) |
+| `sjres-138` | Senate 119-2-81 | 2026-04-15, after the last version committed (2026-03-19) |
+| `sjres-139` | Senate 119-2-110 | 2026-04-29, after the last version committed (2026-03-19) |
+| `sjres-141` | Senate 119-2-122 | 2026-05-13, after the last version committed (2026-04-27) |
+| `sjres-163` | Senate 119-2-118 | 2026-05-13, after the last version committed (2026-04-13) |
+| `sjres-172` | Senate 119-2-174 | 2026-06-16, after the last version committed (2026-04-13) |
+| `sjres-180` | Senate 119-2-207 | 2026-07-23, after the last version committed (2026-04-13) |
+| `sjres-181` | Senate 119-2-216 | 2026-07-30, after the last version committed (2026-04-13) |
+| `sjres-184` | Senate 119-2-113 | 2026-04-30, after the last version committed (2026-04-16) |
+| `sjres-185` | Senate 119-2-192 | 2026-06-24, after the last version committed (2026-05-19) |
+| `sjres-187` | Senate 119-2-222 | 2026-08-05, after the last version committed (2026-07-28) |
+| `sjres-188` | Senate 119-2-135 | 2026-06-03, after the last version committed (2026-05-12) |
+| `sjres-190` | Senate 119-2-173 | 2026-06-16, after the last version committed (2026-06-03) |
+| `sjres-196` | Senate 119-2-190 | 2026-06-24, after the last version committed (2026-06-10) |
+| `sjres-198` | Senate 119-2-199 | 2026-07-16, after the last version committed (2026-06-24) |
+| `sjres-199` | Senate 119-2-215 | 2026-07-30, after the last version committed (2026-07-28) |
+| `sres-195` | Senate 119-1-259 | 2025-05-15, after the last version committed (2025-05-01) |
+| `sres-520` | Senate 119-1-633 | 2025-12-04, after the last version committed (2025-12-01) |
+| `sres-532` | Senate 119-1-642 | 2025-12-10, after the last version committed (2025-12-04) |
+| `sres-532` | Senate 119-1-645 | 2025-12-11, after the last version committed (2025-12-04) |
+| `sres-616` | Senate 119-2-179 | 2026-06-17, after the last version committed (2026-02-26) |
