@@ -1,6 +1,6 @@
 # Measures without text — 119th Congress
 
-89 measures are recorded in BILLSTATUS but have no bill text
+124 measures are recorded in BILLSTATUS but have no bill text
 linked in any of their `textVersions` entries, so they have no branch in
 this repository.
 
@@ -10,22 +10,29 @@ thins out before the 111th, and House organising resolutions -- electing
 officers, adopting rules -- generally carry no published text in any
 Congress.
 
+## By measure type
+
+| Type | Without text |
+|---|---|
+| `s` | 72 |
+| `hr` | 42 |
+| `sjres` | 4 |
+| `sres` | 4 |
+| `hres` | 2 |
+
+## Every measure
+
 | Measure | Title |
 |---|---|
-| `H.R. 10` | Reserved for the Speaker. |
-| `H.R. 10009` | To amend section 3282 of title 18 to extend the statute of limitations for bribery or theft offenses concerning public officials or federal funds, and other purposes. |
-| `H.R. 10021` | To authorize the President to award the Medal of Honor to Earl L. Nolte for acts of valor as a member of the Army during World War II. |
-| `H.R. 10023` | To eliminate asset limits employed by certain federally funded means-tested public assistance programs, and for other purposes. |
-| `H.R. 10025` | To amend the Trademark Act of 1946 to clarify the applicability of Federal trademark law in the area of digital replicas of identifying characteristics of individuals, and for other purposes. |
-| `H.R. 10039` | To amend the Internal Revenue Code of 1986 to exempt individual account plans from certain prohibited transaction rules. |
 | `H.R. 2` | Reserved for the Speaker. |
 | `H.R. 3` | Reserved for the Speaker. |
-| `H.R. 4584` | To make technical amendments to update statutory references to certain provisions which were formerly classified to chapters 14 and 19 of title 25, United States Code, and to correct related technical errors. |
 | `H.R. 5` | Reserved for the Speaker. |
+| `H.R. 8` | Reserved for the Speaker. |
+| `H.R. 10` | Reserved for the Speaker. |
+| `H.R. 4584` | To make technical amendments to update statutory references to certain provisions which were formerly classified to chapters 14 and 19 of title 25, United States Code, and to correct related technical errors. |
 | `H.R. 5182` | To make improvements in the enactment of title 54, United States Code, into a positive law title and to correct related technical errors. |
 | `H.R. 5185` | To make improvements in the enactment of title 41, United States Code, into a positive law title and to improve the Code. |
 | `H.R. 5210` | To make technical amendments to update statutory references to certain provisions classified to title 2, United States Code, title 50, United States Code, and title 52, United States Code, and to correct related technical errors. |
-| `H.R. 8` | Reserved for the Speaker. |
 | `H.R. 9113` | To require the Secretary of Homeland Security to notify Congress of any serious injury or death of any individual in the custody of the Department of Homeland Security, and for other purposes. |
 | `H.R. 9200` | To secure the borders of the United States, and for other purposes. |
 | `H.R. 9619` | To require artificial intelligence chatbot providers to provide data privacy and security, and for other purposes. |
@@ -54,6 +61,11 @@ Congress.
 | `H.R. 9980` | To amend the Richard B. Russell National School Lunch Act to require a school food authority to make publicly available any waiver of the Buy American requirement, and for other purposes. |
 | `H.R. 9991` | To amend section 102 of the Revised Statutes of the United States to provide that a person who refuses to answer certain questions or is finally convicted of perjury before either House of Congress shall be debarred from Federal employment, and for other purposes. |
 | `H.R. 9992` | To require the Secretary of Housing and Urban Development and the Administrators of the Federal Emergency Management Agency and the Small Business Administration to establish a memorandum of understanding to share disaster relief data and information, and for other purposes. |
+| `H.R. 10009` | To amend section 3282 of title 18 to extend the statute of limitations for bribery or theft offenses concerning public officials or federal funds, and other purposes. |
+| `H.R. 10021` | To authorize the President to award the Medal of Honor to Earl L. Nolte for acts of valor as a member of the Army during World War II. |
+| `H.R. 10023` | To eliminate asset limits employed by certain federally funded means-tested public assistance programs, and for other purposes. |
+| `H.R. 10025` | To amend the Trademark Act of 1946 to clarify the applicability of Federal trademark law in the area of digital replicas of identifying characteristics of individuals, and for other purposes. |
+| `H.R. 10039` | To amend the Internal Revenue Code of 1986 to exempt individual account plans from certain prohibited transaction rules. |
 | `H.Res. 1378` | Honoring and celebrating National Boys and Girls Club Week of 2026. |
 | `H.Res. 1461` | The Original Resolution honoring the life, public service, and legacy of the Honorable Congressman Craig Anthony Washington, a distinguished legislator, superior attorney, civil rights advocate, and champion for justice. |
 | `S. 5060` | A bill to comprehensively combat child marriage in the United States. |
@@ -98,6 +110,41 @@ Congress.
 | `S. 5240` | A bill to amend the Federal Crop Insurance Reform and Department of Agriculture Reorganization Act of 1994 to establish a budgetary Tribal Government consultation process at the Department of Agriculture, and for other purposes. |
 | `S. 5241` | A bill to designate the facility of the United States Postal Service located at 200 1st Avenue Southeast in Austin, Minnesota, as the "John Madden Memorial Post Office". |
 | `S. 5242` | A bill to provide for digital communication of prescribing information for drugs (including biological products), and for other purposes. |
+| `S. 5243` | A bill to provide for the automatic establishment of Trump accounts using information collected under the Enumeration at Birth Program of the Social Security Administration. |
+| `S. 5244` | A bill to amend the Public Health Service Act with respect to the drug discount program, and for other purposes. |
+| `S. 5245` | A bill to establish the Karly Rain Wood Repeat Violent Felon Registration and Notification Program within the Department of Justice, and for other purposes. |
+| `S. 5246` | A bill to amend title XXX of the Public Health Service Act to establish standards and protocols to improve patient matching. |
+| `S. 5247` | A bill to amend title 10, United States Code, to include Indian Tribes in the defense community infrastructure program, and for other purposes. |
+| `S. 5248` | A bill to authorize the Secretary of Health and Human Services to make grants to States to improve the knowledge, credentials, compensation, and professional development of early childhood educators working with children in early childhood education programs. |
+| `S. 5249` | A bill to amend the Atomic Energy Act of 1954 to align the licensing of uranium enrichment facilities with other fuel cycle facilities under that Act, and for other purposes. |
+| `S. 5250` | A bill to amend title XVIII of the Social Security Act to decrease fraud related to home health agencies in Medicare, and for other purposes. |
+| `S. 5251` | A bill to modify the termination of the aviation consumer protection advisory committee, and for other purposes. |
+| `S. 5252` | A bill to prevent foreign adversaries from threatening the national security of the United States by extracting key technical features of closed-source, United States-owned artificial intelligence models, and for other purposes. |
+| `S. 5253` | A bill to amend the Food, Agriculture, Conservation, and Trade Act of 1990 to prioritize emerging tick-borne livestock disease research, and for other purposes. |
+| `S. 5254` | A bill to modify the prohibition on financing of civil nuclear energy by the Export-Import Bank of the United States, and for other purposes. |
+| `S. 5255` | A bill to amend title 10, United States Code, to define the purpose, role, duties, and professional qualification requirements for chaplains in the Armed Forces, and for other purposes. |
+| `S. 5256` | A bill to provide increased oversight of certain pardons, to clarify the applicability of bribery prohibitions to pardons and commutations, and for other purposes. |
+| `S. 5257` | A bill to expedite the provision of humanitarian assistance, including life-saving medical care, to the people of North Korea, and for other purposes. |
+| `S. 5258` | A bill to amend title XI of the Social Security Act to establish a payment model to reimburse providers for furnishing comprehensive breast cancer risk assessments and developing personalized screening and risk-reduction plans, and for other purposes. |
+| `S. 5259` | A bill to prohibit sanctuary jurisdictions from receiving community development block grants, and for other purposes. |
+| `S. 5260` | A bill to require the Secretary of Health and Human Services to carry out research and data collection to improve the quality of stroke care, and for other purposes. |
+| `S. 5261` | A bill to amend the Federal Fire Prevention and Control Act of 1974 to make available under the assistance to firefighters grant program the establishment of cancer prevention programs, and for other purposes. |
+| `S. 5262` | A bill to amend the Federal Water Pollution Control Act to clarify the definition of navigable waters, and for other purposes. |
+| `S. 5263` | A bill to amend the Workforce Innovation and Opportunity Act to provide to States and local areas information on the best practices for addressing the effects that substance use disorder has on the workforce, and to provide local areas with grants to provide training activities related to the treatment and prevention of substance use disorder. |
+| `S. 5264` | A bill to amend title 49, United States Code. to set requirements for certain operator workstations for fixed route buses, and for other purposes. |
+| `S. 5265` | A bill to identify and take action against international trade practices of high income countries that unfairly exploit innovation by deviating from market-based policies and unfairly exploit United States innovation, and for other purposes. |
+| `S. 5266` | A bill to amend title 10, United States Code, to provide flexibility in the recoupment of separation pay, severance pay, and readjustment pay from members of the Armed Forces receiving veterans' disability compensation. |
+| `S. 5267` | A bill to amend title XI of the Social Security Act to require the Center for Medicare and Medicaid Innovation to test a model to reduce chronic diseases by using Accountable Produce is Medicine. |
+| `S. 5268` | A bill to amend the Fair Labor Standards Act of 1938 to adjust the rate employers pay for overtime hours from one and one-half to two times the regular rate. |
+| `S. 5269` | A bill to provide for the establishment of hybrid primary care payments under the Medicare program, and for other purposes. |
+| `S. 5270` | A bill to amend title XVIII of the Social Security Act to establish a Medicare home care benefit, and for other purposes. |
+| `S. 5271` | A bill to amend the Help America Vote Act of 2002 to require voters to provide photo identification. |
+| `S. 5272` | A bill to recover unclaimed pandemic-era unemployment compensation funds held by financial institutions or escheated to State unclaimed property administrators, and for other purposes. |
+| `S.J.Res. 205` | A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to "California State Nonroad Engine Pollution Control Standards; Small Off-Road Engines Regulations; Notice of Decision". |
+| `S.J.Res. 206` | A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to "California State Motor Vehicle Pollution Control Standards; Notice of Decision Granting a Waiver of Clean Air Act Preemption for California's 2009 and Subsequent Model Year Greenhouse Gas Emission Standards for New Motor Vehicles". |
+| `S.J.Res. 207` | A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to "California State Motor Vehicle Pollution Control Standards; Notice of Decision Granting a Waiver of Clean Air Act Preemption for California's Advanced Clean Car Program and a Within the Scope Conformation for California's Zero Emission Vehicle Amendments for 2017 and Earlier Model Years". |
+| `S.J.Res. 208` | A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to "California State Motor Vehicle Pollution Control Standards; Advanced Clean Car Program; Reconsideration of a Previous Withdrawal of a Waiver of Preemption; Notice of Decision". |
 | `S.Res. 828` | A resolution expressing the sense of the Senate that President Trump's lawsuit against the Internal Revenue Service, the resulting settlement from that lawsuit, the purported "Anti-Weaponization Fund", and the purported grant of immunity from tax investigations to the plaintiffs in President Trump's lawsuit, should be rejected, equal protection arguments by others with similar claims should be forestalled, and this settlement should not serve as a precedent and should never be repeated. |
 | `S.Res. 829` | A resolution reaffirming the policy of the United States to support a peaceful democratic transition in Venezuela through free and fair elections. |
 | `S.Res. 830` | A resolution recognizing the 80th anniversary of the Fullbright Program. |
+| `S.Res. 831` | A resolution recognizing the 100th anniversary of Northwest Mississippi Community College and celebrating a century of educational excellence, workforce development, student success, and service to the people of Mississippi and the United States. |
