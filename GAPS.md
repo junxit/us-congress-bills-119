@@ -229,3 +229,40 @@ here with the address the chamber serves them from.
 | `sres-532` | Senate 119-1-642 | 2025-12-10, after the last version committed (2025-12-04) |
 | `sres-532` | Senate 119-1-645 | 2025-12-11, after the last version committed (2025-12-04) |
 | `sres-616` | Senate 119-2-179 | 2026-06-17, after the last version committed (2026-02-26) |
+
+## What the derived amendment execution could not do
+
+106,576 amendatory instructions were read from the measures in this
+repository, and **24,752 of them (23.2%) were
+carried out**. Each measure's `derived/amendments.md` holds its own,
+with the reason beside every one that was not.
+
+This is not a build failure and it is not going to improve much. A bill
+is a list of instructions *about* law, and most of them refer to the law
+by structure — *strike subsection (k)* — so the words being removed are
+in the US Code and not in the bill. Nothing here guesses them. An
+instruction is carried out only where the bill states both the text
+removed and the text inserted, so the result follows from the bill alone
+and can be checked against it.
+
+| Why an instruction was not carried out | Instructions |
+|---|---|
+| the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill | 40,791 |
+| the bill names no machine-readable US Code section | 19,772 |
+| the bill quotes the text inserted but describes where it goes | 11,348 |
+| the bill quotes the text struck but describes what replaces it | 9,819 |
+| the bill quotes text on both sides, but not as a single substitution this could carry out | 94 |
+
+**The rate varies enormously between Congresses, and that is upstream.**
+An instruction can only be placed if GPO tagged the citation it names,
+and whether they did is a fact about the year rather than about the
+bill: sampled at 1,500 documents per Congress, 64% of the 108th's carry
+a machine-readable US Code citation, 55% of the 113th's — and 5% of the
+111th's and 5% of the 112th's. So a Congress here may report a very low
+share carried out while the reading of it worked perfectly. Compare this
+table with a neighbouring Congress before concluding anything about the
+bills themselves.
+
+Counted on each measure's last committed version. An instruction
+usually survives from the introduced text to the enrolled one, so
+counting every version would report the same instruction several times.
