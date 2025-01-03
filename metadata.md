@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 2
 congress: 119
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S.Con.Res. 2
