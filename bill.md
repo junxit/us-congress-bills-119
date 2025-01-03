@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 53
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 53
+
+> To cancel certain proposed changes to credit fees charged by the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Responsible Borrower Protection Act of 2025”.
+
+## § 2. Cancellation of changes
+
+The Federal Housing Finance Agency and the enterprises (as such term is defined in section 1303 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4502)) may not implement the changes to the single-family housing mortgage credit fee pricing framework of the enterprises announced by the Federal Housing Finance Agency on January 19, 2023 (“FHFA Announces Updates to the Enterprises’ Single-Family Pricing Framework”), and set forth in Federal National Mortgage Association Lender Letter LL–2023–01 and Federal Home Loan Mortgage Corporation Bulletin 2023–1, and such changes, Lender Letter, and Bulletin shall have no force or effect.
+
+## § 3. Continuation of risk-based pricing
+
+This Act may not be construed to prohibit the enterprises from applying risk-based pricing for credit fees for single-family housing mortgages.
