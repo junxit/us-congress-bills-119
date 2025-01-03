@@ -1,0 +1,26 @@
+---
+legis-num: H.R. 85
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 85
+
+> To amend the Fair Labor Standards Act of 1938 to allow the pooling of tips among all employees, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Small Business Flexibility Act”.
+
+## § 2. Tip pooling
+
+Section 3(m)(2) of the Fair Labor Standards Act (29 U.S.C. 203(m)(2)) is amended—
+
+- **(1)** in subparagraph (A)(ii), by striking “employees who customarily and regularly receive tips” and inserting “pools of employees described in subparagraph (C)”; and
+- **(2)** by adding at the end the following:
+  > - **(C)** The pools of employees described in this subparagraph are as follows:
+  >   - **(i)** Employees who customarily and regularly receive tips.
+  >   - **(ii)** Employees who—
+  >     - **(I)** customarily and regularly receive tips and receive a cash wage paid by the employer that is not less than the wage in effect under section 6(a)(1); and
+  >     - **(II)** do not customarily and regularly receive tips.
