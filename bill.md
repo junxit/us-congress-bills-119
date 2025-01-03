@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 121
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 121
+
+> To prohibit agencies from issuing vaccine passports, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “No Vaccine Passports Act”.
+
+## § 2. Prohibition on agencies issuing vaccine passports
+
+- **(a)** *In general* An agency may not issue a vaccine passport, vaccine pass, or other standardized documentation for the purpose of certifying the COVID–19 vaccination status of a citizen of the United States to a third party, or otherwise publish or share any COVID–19 vaccination record of a citizen of the United States, or similar health information.
+- **(b)** *Agency defined* In this section, the term agency has the meaning given that term in section 551 of title 5, United States Code.
+
+## § 3. Prohibition on requiring proof of COVID–19 vaccination for Federal access
+
+Proof of COVID–19 vaccination shall not be deemed a requirement for access to Federal property or Federal services, or for access to congressional grounds or services.
