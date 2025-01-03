@@ -1,0 +1,18 @@
+---
+legis-num: S. CON. RES. 1
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. CON. RES. 1
+
+> Extending the life of the Joint Congressional Committee on Inaugural Ceremonies.
+
+## § 1. Reauthorization of Joint Committee
+
+-  Effective from January 3, 2025, the joint committee created by Senate Concurrent Resolution 34 (118th Congress), to make the necessary arrangements for the inauguration of the President-elect and the Vice President-elect of the United States, is continued with the same power and authority provided for in that resolution.
+
+## § 2. Use of Capitol
+
+-  Effective from January 3, 2025, the provisions of Senate Concurrent Resolution 35 (118th Congress), to authorize the use of the rotunda and Emancipation Hall of the Capitol by the Joint Congressional Committee on Inaugural Ceremonies in connection with the proceedings and ceremonies conducted for the inauguration of the President-elect and the Vice President-elect of the United States are continued with the same power and authority provided for in that resolution.
