@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 26
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 26
+
+> To prohibit a moratorium on the use of hydraulic fracturing.
+
+## § 1. Short title
+
+This Act may be cited as the “Protecting American Energy Production Act”.
+
+## § 2. Protecting American energy production
+
+- **(a)** *Sense of Congress* It is the sense of Congress that States should maintain primacy for the regulation of hydraulic fracturing for oil and natural gas production on State and private lands.
+- **(b)** *Prohibition on declaration of a moratorium on hydraulic fracturing* Notwithstanding any other provision of law, the President may not declare a moratorium on the use of hydraulic fracturing unless such moratorium is authorized by an Act of Congress.
