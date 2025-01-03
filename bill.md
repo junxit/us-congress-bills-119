@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 192
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 192
+
+> To amend title 49, United States Code, to require Amtrak to include information on base pay and bonus compensation of certain Amtrak executives, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Amtrak Executive Bonus Disclosure Act”.
+
+## § 2. Amtrak reports and audits
+
+Section 24315(a) of title 49, United States Code, is amended—
+
+- **(1)** by inserting “, and make available to the public on the website of Amtrak,” after “submit to Congress”; and
+- **(2)** by striking paragraph (2) and inserting the following:
+  > - **(2)** provide the annual base pay and any bonus compensation paid to a member of the executive leadership team (including the chief executive officer, president, and officers) of Amtrak, including the criteria and metrics used to determine any such bonus compensation; and
