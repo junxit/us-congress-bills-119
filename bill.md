@@ -1,0 +1,29 @@
+---
+legis-num: H.R. 181
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 181
+
+> To amend the Endangered Species Act of 1973 to provide that artificially propagated animals shall be treated the same under that Act as naturally propagated animals, and for other purposes.
+
+## § 1. Treatment of artificially propagated animals
+
+Section 4 of the Endangered Species Act of 1973 (16 U.S.C. 1533) is amended by adding at the end the following new subsection:
+
+> - **(j)** *Treatment of artificially propagated animals* The Secretary shall not distinguish between naturally propagated animals and artificially propagated animals in making any determination under this Act.
+
+## § 2. Artificial propagation for mitigation purposes
+
+- **(a)** *In general* Section 14 of the Endangered Species Act of 1973 (relating to repeals of provisions of law, which have executed) is amended to read as follows:
+  > ## § 14. Artificial propagation for mitigation purposes
+  >
+  > The Secretary shall authorize the use of artificial propagation of animals of a species for purposes of any mitigation required under this Act with respect to such species.
+
+- **(b)** *Conforming amendment* The table of contents in the first section of such Act is amended by striking the item relating to such section and inserting the following:
+
+## § 3. Application
+
+The amendments made by this Act shall apply with respect to a species without regard to whether the species was determined to be an endangered species or threatened species under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.) before, on, or after the date of enactment of this Act.
