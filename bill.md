@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 63
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 63
+
+> To prohibit Federal funds from being awarded or otherwise made available to the Manhattan District Attorney’s Office.
+
+## § 1. Short title
+
+This Act may be cited as the “Accountability for Lawless Violence In our Neighborhoods Act” or the “ALVIN Act”.
+
+## § 2. Prohibition on Federal funding with respect to Manhattan District Attorney
+
+- **(a)** *Prohibition on Federal funding* Notwithstanding any other provision of law, no Federal funds may be awarded or otherwise made available to the Manhattan District Attorney’s Office.
+- **(b)** *Recision and repayment of Federal funding* The unobligated balances of all amounts allocated for or otherwise made available to the Manhattan District Attorney’s Office is hereby rescinded, and the Attorney General shall take such steps as may be necessary and practicable to require the Manhattan District Attorney’s Office to reimburse the Federal Government for all amounts expended for such Office after the date of January 1, 2022.

@@ -1,0 +1,33 @@
+---
+measure: H.R. 63
+congress: 119
+version: Introduced in House
+---
+
+# H.R. 63
+
+ALVIN Act
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Biggs, Andy [R-AZ-5] (B001302)
+
+## Cosponsors (3)
+
+- Rep. Crane, Elijah [R-AZ-2] (C001132)
+- Rep. Brecheen, Josh [R-OK-2] (B001317)
+- Rep. Luna, Anna Paulina [R-FL-13] (L000596)
+
+## Committees (1)
+
+- House — Judiciary Committee
+
+## Actions
+
+- 2025-01-03 — Introduced in House
+- 2025-01-03 — Introduced in House
+- 2025-01-03 — Referred to the House Committee on the Judiciary.
