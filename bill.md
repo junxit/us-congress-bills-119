@@ -1,0 +1,28 @@
+---
+legis-num: H.R. 215
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 215
+
+> To amend title V of the Social Security Act to require assurances that certain family planning service projects and programs will provide pamphlets containing the contact information of adoption centers.
+
+## § 1. Short title
+
+This Act may be cited as the “Adoption Information Act”.
+
+## § 2. Provision in family planning services of pamphlets containing adoption center contact information
+
+Title V of the Social Security Act (42 U.S.C. 701 et seq.) is amended by adding at the end the following:
+
+> ## § 514. Limitation
+>
+> - **(a)** *In general* Notwithstanding any other provision of this title, a grant may be made or contract entered into under section 501 for a family planning service project or program only upon assurances satisfactory to the Secretary that the project or program will—
+>   - **(1)** provide to each person to whom the medical professional provides family planning medical services, at the time the person inquires about medical or abortion services, a pamphlet that contains—
+>     - **(A)** a comprehensive list of the adoption centers located in the region (as determined by the Secretary) where the adoption services are provided; and
+>     - **(B)** the address and telephone number of each such center; and
+>   - **(2)** provide each such person an opportunity to read the pamphlet.
+> - **(b)** *Pamphlets* The Secretary shall prepare, annually update, and distribute to each project or program referred to in subsection (a) pamphlets described in such subsection.
+> - **(c)** *No additional funds* No funds may be used to carry out this section, except funds that are appropriated to carry out this title.
