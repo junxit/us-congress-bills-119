@@ -1,7 +1,7 @@
 ---
 measure: H.R. 29
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 29
@@ -16,7 +16,7 @@ Laken Riley Act
 
 - Rep. Collins, Mike [R-GA-10] (C001129)
 
-## Cosponsors (39)
+## Cosponsors (54)
 
 - Rep. Allen, Rick W. [R-GA-12] (A000372)
 - Rep. Greene, Marjorie Taylor [R-GA-14] (G000596)
@@ -57,13 +57,40 @@ Laken Riley Act
 - Rep. Harshbarger, Diana [R-TN-1] (H001086)
 - Rep. Joyce, John [R-PA-13] (J000302)
 - Rep. Fischbach, Michelle [R-MN-7] (F000470)
+- Rep. Sessions, Pete [R-TX-17] (S000250)
+- Rep. Moore, Riley [R-WV-2] (M001235)
+- Rep. Hunt, Wesley [R-TX-38] (H001095)
+- Rep. Green, Mark E. [R-TN-7] (G000590)
+- Rep. Langworthy, Nicholas A. [R-NY-23] (L000600)
+- Rep. Cuellar, Henry [D-TX-28] (C001063)
+- Rep. Schmidt, Derek [R-KS-2] (S001228)
+- Rep. Downing, Troy [R-MT-2] (D000634)
+- Rep. McGuire, John [R-VA-5] (M001239)
+- Rep. Ciscomani, Juan [R-AZ-6] (C001133)
+- Rep. Gill, Brandon [R-TX-26] (G000603)
+- Rep. Rose, John W. [R-TN-6] (R000612)
+- Rep. Messmer, Mark [R-IN-8] (M001233)
+- Rep. Miller, Mary E. [R-IL-15] (M001211)
+- Rep. Barr, Andy [R-KY-6] (B001282)
 
 ## Committees (1)
 
 - House — Judiciary Committee
+
+## Recorded votes (1)
+
+- 2025-01-07 — [House 119-1-6](votes/house-119-1-0006.md) — On Passage — **Passed** (264–159)
 
 ## Actions
 
 - 2025-01-03 — Introduced in House
 - 2025-01-03 — Introduced in House
 - 2025-01-03 — Referred to the House Committee on the Judiciary.
+- 2025-01-07 — Considered as unfinished business. (consideration: CR H61)
+- 2025-01-07 — Considered under the provisions of rule H. Res. 5. (consideration: CR H53-61)
+- 2025-01-07 — DEBATE - The House proceeded with one hour of debate on H.R. 29.
+- 2025-01-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-01-07 — On passage Passed by the Yeas and Nays: 264 - 159 (Roll no. 6). (text: CR H53-54)
+- 2025-01-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 29, the Chair put the question on passage of the bill and by voice vote, announced that the ayes had prevailed. Mr. Raskin demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2025-01-07 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 264 - 159 (Roll no. 6). (text: CR H53-54)
+- 2025-01-07 — The previous question was ordered pursuant to the rule.
