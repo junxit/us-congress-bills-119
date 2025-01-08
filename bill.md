@@ -1,0 +1,25 @@
+---
+legis-num: S. 34
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 34
+
+> To address the plea agreements for certain individuals detained at Guantanamo, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Justice for 9/11 Act”.
+
+## § 2. Trial and post-trial matters relating to certain individuals detained at Guantanamo
+
+- **(a)** *Plea agreements and judgments* Notwithstanding the provisions of section 949h of title 10, United States Code, any plea agreement entered into by Khalid Shaikh Mohammad, Walid Muhammad Salih Mubarak Bin ‘Attash, or Mustafa Ahmed Adam al Hawsawi for actions involving the terrorist attack on September 11, 2001, and its related judgment, shall not preclude the trial of such individual under chapter 47A of such title or any other provision of law for that terrorist attack.
+- **(b)** *Sentencing* Notwithstanding any other provision of law, in any trial of Khalid Shaikh Mohammad, Walid Muhammad Salih Mubarak Bin ‘Attash, or Mustafa Ahmed Adam al Hawsawi under chapter 47A of title 10, United States Code, or any other provision of law for the terrorist attack of September 11, 2001, a sentence of death shall be available.
+- **(c)** *Conditions of confinement; transfer* Notwithstanding any other provision of law, in the case of any sentence imposed on Khalid Shaikh Mohammad, Walid Muhammad Salih Mubarak Bin ‘Attash, or Mustafa Ahmed Adam al Hawsawi, such individual—
+  - **(1)** shall be—
+    - **(A)** held at United States Naval Station, Guantanamo Bay, Cuba, in solitary confinement;
+    - **(B)** provided no contact with foreign nationals; and
+    - **(C)** provided no psychological treatment except that specifically authorized by medical authorities at United States Naval Station, Guantanamo Bay; and
+  - **(2)** shall not be transferred to the continental United States or any other country.
