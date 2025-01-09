@@ -1,0 +1,142 @@
+---
+measure: H.Res. 30
+congress: 119
+version: Introduced in House
+---
+
+# H.Res. 30
+
+Honoring the life, achievements, legacy, and public service of former President James Earl "Jimmy" Carter, Jr.
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Williams, Nikema [D-GA-5] (W000788)
+
+## Cosponsors (112)
+
+- Rep. Bishop, Sanford D. [D-GA-2] (B000490)
+- Rep. Carter, Earl L. "Buddy" [R-GA-1] (C001103)
+- Rep. Jack, Brian [R-GA-3] (J000311)
+- Rep. Johnson, Henry C. "Hank" [D-GA-4] (J000288)
+- Rep. McBath, Lucy [D-GA-6] (M001208)
+- Rep. McCormick, Richard [R-GA-7] (M001218)
+- Rep. Scott, Austin [R-GA-8] (S001189)
+- Rep. Clyde, Andrew S. [R-GA-9] (C001116)
+- Rep. Collins, Mike [R-GA-10] (C001129)
+- Rep. Loudermilk, Barry [R-GA-11] (L000583)
+- Rep. Allen, Rick W. [R-GA-12] (A000372)
+- Rep. Scott, David [D-GA-13] (S001157)
+- Rep. Greene, Marjorie Taylor [R-GA-14] (G000596)
+- Rep. Watson Coleman, Bonnie [D-NJ-12] (W000822)
+- Rep. Kennedy, Timothy M. [D-NY-26] (K000402)
+- Rep. Doggett, Lloyd [D-TX-37] (D000399)
+- Rep. McGovern, James P. [D-MA-2] (M000312)
+- Rep. Costa, Jim [D-CA-21] (C001059)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Kaptur, Marcy [D-OH-9] (K000009)
+- Rep. Tonko, Paul [D-NY-20] (T000469)
+- Rep. Thanedar, Shri [D-MI-13] (T000488)
+- Rep. Meng, Grace [D-NY-6] (M001188)
+- Rep. Espaillat, Adriano [D-NY-13] (E000297)
+- Rep. Wilson, Frederica S. [D-FL-24] (W000808)
+- Rep. Tlaib, Rashida [D-MI-12] (T000481)
+- Rep. Moore, Gwen [D-WI-4] (M001160)
+- Rep. Kamlager-Dove, Sydney [D-CA-37] (K000400)
+- Rep. Jackson, Jonathan L. [D-IL-1] (J000309)
+- Rep. Thompson, Bennie G. [D-MS-2] (T000193)
+- Rep. Brown, Shontel M. [D-OH-11] (B001313)
+- Rep. Cherfilus-McCormick, Sheila [D-FL-20] (C001127)
+- Rep. Garamendi, John [D-CA-8] (G000559)
+- Rep. Morelle, Joseph D. [D-NY-25] (M001206)
+- Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
+- Rep. Wasserman Schultz, Debbie [D-FL-25] (W000797)
+- Rep. Barragán, Nanette Diaz [D-CA-44] (B001300)
+- Del. Radewagen, Aumua Amata Coleman [R-AS-At Large] (R000600)
+- Rep. Velázquez, Nydia M. [D-NY-7] (V000081)
+- Rep. Clarke, Yvette D. [D-NY-9] (C001067)
+- Rep. Garcia, Sylvia R. [D-TX-29] (G000587)
+- Rep. Stevens, Haley M. [D-MI-11] (S001215)
+- Rep. McIver, LaMonica [D-NJ-10] (M001229)
+- Rep. Soto, Darren [D-FL-9] (S001200)
+- Rep. Fields, Cleo [D-LA-6] (F000110)
+- Rep. Dean, Madeleine [D-PA-4] (D000631)
+- Rep. Ivey, Glenn [D-MD-4] (I000058)
+- Rep. Green, Al [D-TX-9] (G000553)
+- Rep. Crockett, Jasmine [D-TX-30] (C001130)
+- Rep. Pelosi, Nancy [D-CA-11] (P000197)
+- Rep. Pocan, Mark [D-WI-2] (P000607)
+- Rep. Quigley, Mike [D-IL-5] (Q000023)
+- Rep. Ramirez, Delia C. [D-IL-3] (R000617)
+- Rep. Dingell, Debbie [D-MI-6] (D000624)
+- Rep. Huffman, Jared [D-CA-2] (H001068)
+- Rep. Swalwell, Eric [D-CA-14] (S001193)
+- Rep. Cleaver, Emanuel [D-MO-5] (C001061)
+- Rep. Mullin, Kevin [D-CA-15] (M001225)
+- Rep. Lynch, Stephen F. [D-MA-8] (L000562)
+- Rep. Stanton, Greg [D-AZ-4] (S001211)
+- Rep. Bonamici, Suzanne [D-OR-1] (B001278)
+- Rep. McClellan, Jennifer L. [D-VA-4] (M001227)
+- Rep. Evans, Dwight [D-PA-3] (E000296)
+- Rep. Nadler, Jerrold [D-NY-12] (N000002)
+- Rep. Titus, Dina [D-NV-1] (T000468)
+- Rep. Ocasio-Cortez, Alexandria [D-NY-14] (O000172)
+- Rep. Lieu, Ted [D-CA-36] (L000582)
+- Rep. Norcross, Donald [D-NJ-1] (N000188)
+- Rep. Waters, Maxine [D-CA-43] (W000187)
+- Rep. Olszewski, Johnny [D-MD-2] (O000176)
+- Rep. Neguse, Joe [D-CO-2] (N000191)
+- Rep. Sánchez, Linda T. [D-CA-38] (S001156)
+- Rep. Carter, Troy A. [D-LA-2] (C001125)
+- Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
+- Rep. Jayapal, Pramila [D-WA-7] (J000298)
+- Rep. Goldman, Daniel S. [D-NY-10] (G000599)
+- Rep. McCollum, Betty [D-MN-4] (M001143)
+- Rep. Hayes, Jahana [D-CT-5] (H001081)
+- Rep. Torres, Norma J. [D-CA-35] (T000474)
+- Rep. Veasey, Marc A. [D-TX-33] (V000131)
+- Rep. Castor, Kathy [D-FL-14] (C001066)
+- Rep. Figures, Shomari [D-AL-2] (F000481)
+- Rep. McDonald Rivet, Kristen [D-MI-8] (M001237)
+- Rep. Boyle, Brendan F. [D-PA-2] (B001296)
+- Rep. Krishnamoorthi, Raja [D-IL-8] (K000391)
+- Rep. Menendez, Robert [D-NJ-8] (M001226)
+- Rep. Khanna, Ro [D-CA-17] (K000389)
+- Rep. Moulton, Seth [D-MA-6] (M001196)
+- Rep. Brownley, Julia [D-CA-26] (B001285)
+- Rep. Panetta, Jimmy [D-CA-19] (P000613)
+- Rep. Thompson, Mike [D-CA-4] (T000460)
+- Rep. Clyburn, James E. [D-SC-6] (C000537)
+- Rep. Craig, Angie [D-MN-2] (C001119)
+- Rep. Casten, Sean [D-IL-6] (C001117)
+- Rep. Turner, Sylvester [D-TX-18] (T000489)
+- Rep. Deluzio, Christopher R. [D-PA-17] (D000530)
+- Rep. Friedman, Laura [D-CA-30] (F000483)
+- Rescom. Hernández, Pablo [D-PR-At Large] (H001103)
+- Rep. Takano, Mark [D-CA-39] (T000472)
+- Rep. Trahan, Lori [D-MA-3] (T000482)
+- Rep. Beyer, Donald S. [D-VA-8] (B001292)
+- Rep. Lawler, Michael [R-NY-17] (L000599)
+- Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
+- Rep. Carson, André [D-IN-7] (C001072)
+- Rep. Pou, Nellie [D-NJ-9] (P000621)
+- Rep. Crow, Jason [D-CO-6] (C001121)
+- Rep. Conaway, Herbert [D-NJ-3] (C001136)
+- Rep. Cisneros, Gilbert Ray, Jr. [D-CA-31] (C001123)
+- Rep. Simon, Lateefah [D-CA-12] (S001231)
+- Rep. Carbajal, Salud O. [D-CA-24] (C001112)
+- Rep. Tokuda, Jill N. [D-HI-2] (T000487)
+- Rep. DelBene, Suzan K. [D-WA-1] (D000617)
+
+## Committees (1)
+
+- House — Oversight and Government Reform Committee
+
+## Actions
+
+- 2025-01-09 — Referred to the House Committee on Oversight and Government Reform.
+- 2025-01-09 — Submitted in House
+- 2025-01-09 — Submitted in House
