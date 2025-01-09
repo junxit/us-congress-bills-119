@@ -1,0 +1,14 @@
+---
+legis-num: H.R. 315
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 315
+
+> To waive certain provisions in the case of an emergency declaration under the Robert T. Stafford Disaster Relief and Emergency Assistance Act.
+
+## § 1. Waiver of certain provisions
+
+In the case of an emergency declared pursuant to section 501 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5191), the Administrator of the Federal Emergency Management Agency shall not require the application of chapter 83 of title 41, United States Code, with respect to purchases made or contracts issued by Puerto Rico, the District of Columbia, American Samoa, or the Virgin Islands of the United States.
