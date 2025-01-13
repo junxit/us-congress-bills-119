@@ -1,7 +1,7 @@
 ---
 measure: H.R. 23
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 23
@@ -83,3 +83,4 @@ Illegitimate Court Counteraction Act
 - 2025-01-09 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 243 - 140, 1 Present (Roll no. 7). (text: CR H67-69)
 - 2025-01-09 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2025-01-09 — The previous question was ordered pursuant to the rule.
+- 2025-01-13 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 3.
