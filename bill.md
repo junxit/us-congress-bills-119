@@ -1,0 +1,14 @@
+---
+legis-num: H.R. 334
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 334
+
+> To amend the Communications Act of 1934 to establish technical and procedural standards for artificial or prerecorded voice systems created through generative artificial intelligence, and for other purposes.
+
+## § 1. Technical and procedural standards for artificial or prerecorded voice systems created through generative artificial intelligence
+
+Section 227(d)(3) of the Communications Act of 1934 (47 U.S.C. 227(d)(3)) is amended by inserting “(including those created through generative artificial intelligence (genAI), for example voice cloning, and other subsequent technologies as may be deemed appropriate by the Commission)” after “telephone”.
