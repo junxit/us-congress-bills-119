@@ -1,7 +1,7 @@
 ---
 measure: H.R. 189
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 189
@@ -16,9 +16,10 @@ Securities and Exchange Commission Real Estate Leasing Authority Revocation Act
 
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -33,3 +34,4 @@ Securities and Exchange Commission Real Estate Leasing Authority Revocation Act
 - 2025-01-13 — Mr. Graves moved to suspend the rules and pass the bill.
 - 2025-01-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H104)
 - 2025-01-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H104)
+- 2025-01-14 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
