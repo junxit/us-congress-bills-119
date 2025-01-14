@@ -1,7 +1,7 @@
 ---
 measure: H.R. 28
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 28
@@ -16,7 +16,7 @@ Protection of Women and Girls in Sports Act of 2025
 
 - Rep. Steube, W. Gregory [R-FL-17] (S001214)
 
-## Cosponsors (56)
+## Cosponsors (83)
 
 - Rep. Walberg, Tim [R-MI-5] (W000798)
 - Rep. Estes, Ron [R-KS-4] (E000298)
@@ -74,13 +74,56 @@ Protection of Women and Girls in Sports Act of 2025
 - Rep. De La Cruz, Monica [R-TX-15] (D000594)
 - Rep. Smith, Jason [R-MO-8] (S001195)
 - Rep. Burlison, Eric [R-MO-7] (B001316)
+- Rep. Kelly, Trent [R-MS-1] (K000388)
+- Rep. Dunn, Neal P. [R-FL-2] (D000628)
+- Rep. LaLota, Nick [R-NY-1] (L000598)
+- Rep. Taylor, David [R-OH-2] (T000490)
+- Rep. Rose, John W. [R-TN-6] (R000612)
+- Rep. Grothman, Glenn [R-WI-6] (G000576)
+- Rep. Goldman, Craig [R-TX-12] (G000601)
+- Rep. Tenney, Claudia [R-NY-24] (T000478)
+- Rep. Wied, Tony [R-WI-8] (W000829)
+- Rep. Gill, Brandon [R-TX-26] (G000603)
+- Rep. Gonzales, Tony [R-TX-23] (G000594)
+- Rep. Carter, Earl L. "Buddy" [R-GA-1] (C001103)
+- Rep. Allen, Rick W. [R-GA-12] (A000372)
+- Rep. Griffith, H. Morgan [R-VA-9] (G000568)
+- Rep. McClain, Lisa C. [R-MI-9] (M001136)
+- Rep. Messmer, Mark [R-IN-8] (M001233)
+- Rep. Newhouse, Dan [R-WA-4] (N000189)
+- Rep. Harris, Mark [R-NC-8] (H001102)
+- Rep. Rulli, Michael A. [R-OH-6] (R000619)
+- Rep. Guthrie, Brett [R-KY-2] (G000558)
+- Rep. Barr, Andy [R-KY-6] (B001282)
+- Rep. McGuire, John [R-VA-5] (M001239)
+- Rep. Nunn, Zachary [R-IA-3] (N000193)
+- Rep. Downing, Troy [R-MT-2] (D000634)
+- Rep. Hern, Kevin [R-OK-1] (H001082)
+- Rep. Tiffany, Thomas P. [R-WI-7] (T000165)
+- Rep. Cline, Ben [R-VA-6] (C001118)
 
 ## Committees (1)
 
 - House — Education and Workforce Committee
+
+## Recorded votes (2)
+
+- 2025-01-14 — [House 119-1-11](votes/house-119-1-0011.md) — On Motion to Recommit — **Failed** (208–218)
+- 2025-01-14 — [House 119-1-12](votes/house-119-1-0012.md) — On Passage — **Passed** (218–206)
 
 ## Actions
 
 - 2025-01-03 — Introduced in House
 - 2025-01-03 — Introduced in House
 - 2025-01-03 — Referred to the House Committee on Education and Workforce.
+- 2025-01-14 — Considered as unfinished business. (consideration: CR H139-140)
+- 2025-01-14 — Considered under the provisions of rule H. Res. 5. (consideration: CR H126-138)
+- 2025-01-14 — DEBATE - The House proceeded with one hour of debate on H.R. 28.
+- 2025-01-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-01-14 — Ms. Adams moved to recommit to the Committee on Education and Workforce. (text: CR H137)
+- 2025-01-14 — On motion to recommit Failed by the Yeas and Nays: 208 - 218 (Roll no. 11).
+- 2025-01-14 — On passage Passed by the Yeas and Nays: 218 - 206, 1 Present (Roll no. 12). (text: CR H126)
+- 2025-01-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 28, the Chair put the question on the motion to recommit and announced that the noes had prevailed. Ms. Adams demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2025-01-14 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 218 - 206, 1 Present (Roll no. 12). (text: CR H126)
+- 2025-01-14 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2025-01-14 — The previous question was ordered pursuant to the rule.
