@@ -1,7 +1,7 @@
 ---
 measure: H.R. 152
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 152
@@ -21,9 +21,10 @@ Federal Disaster Assistance Coordination Act
 - Rescom. Hernández, Pablo [D-PR-At Large] (H001103)
 - Del. Plaskett, Stacey E. [D-VI-At Large] (P000610)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -43,3 +44,4 @@ Federal Disaster Assistance Coordination Act
 - 2025-01-13 — Mr. Graves moved to suspend the rules and pass the bill.
 - 2025-01-13 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 405 - 5 (Roll no. 9). (text: CR H100-101)
 - 2025-01-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 405 - 5 (Roll no. 9). (text: CR H100-101)
+- 2025-01-14 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
