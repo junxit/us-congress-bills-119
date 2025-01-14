@@ -1,7 +1,7 @@
 ---
 measure: H.R. 192
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 192
@@ -20,9 +20,10 @@ Amtrak Executive Bonus Disclosure Act
 
 - Rep. Graves, Sam [R-MO-6] (G000546)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -42,3 +43,4 @@ Amtrak Executive Bonus Disclosure Act
 - 2025-01-13 — Mr. Graves moved to suspend the rules and pass the bill.
 - 2025-01-13 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 407 - 0 (Roll no. 8). (text: CR H99)
 - 2025-01-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 407 - 0 (Roll no. 8). (text: CR H99)
+- 2025-01-14 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
