@@ -1,0 +1,26 @@
+---
+legis-num: H.R. 432
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 432
+
+> To authorize the removal of an action from an administrative law judge of any administrative agency to a district court of the United States.
+
+## § 1. Short title
+
+This Act may be cited as the “Seventh Amendment Restoration Act”.
+
+## § 2. Removal of case
+
+Section 702 of title 5, United States Code, is amended—
+
+- **(1)** by striking “A person suffering” and inserting the following:
+  > - **(a)** *In general* A person suffering
+
+- **(2)** by adding at the end the following:
+  > - **(b)** *Removal*
+  >   - **(1)** *In general* If a person against whom an action is brought before an agency hearing officer of any administrative agency desires to remove that action to any district court in which the person resides or has a principal place of business, such person shall file in such district court a notice of removal in the same manner in which a notice of removal from a State court is filed under section 1446 of title 28, United States Code.
+  >   - **(2)** *Agency hearing officer defined* In this subsection, the term “agency hearing officer” means an administrative law judge or another agency employee authorized to hear the action.
