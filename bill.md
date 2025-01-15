@@ -1,0 +1,29 @@
+---
+legis-num: H.R. 461
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 461
+
+> To prohibit the use of Federal funds for any DEI activity in the Armed Forces, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Eliminate DEI in the Military Act”.
+
+## § 2. Prohibition on use of funds for diversity, equity, and inclusion activities in the military
+
+- **(a)** *In general* No Federal funds may be obligated or expended for any DEI activity of—
+  - **(1)** an Armed Force;
+  - **(2)** a national service academy; or
+  - **(3)** the Department of Defense.
+- **(b)** *Definitions* In this section:
+  - **(1)** The term DEI activity includes, with respect to diversity, equity, and inclusion—
+    - **(A)** a training;
+    - **(B)** a program;
+    - **(C)** educational material;
+    - **(D)** a position of employment; and
+    - **(E)** an appointment.
+  - **(2)** The term national service academy means the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, the United States Coast Guard Academy, or the United States Merchant Marine Academy.
