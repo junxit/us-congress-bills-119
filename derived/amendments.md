@@ -1,7 +1,7 @@
 ---
 measure: H.R. 33
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
