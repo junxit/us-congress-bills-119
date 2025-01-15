@@ -1,7 +1,7 @@
 ---
 measure: H.R. 153
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 153
@@ -21,11 +21,12 @@ Post-Disaster Assistance Online Accountability Act
 - Rescom. Hernández, Pablo [D-PR-At Large] (H001103)
 - Del. Plaskett, Stacey E. [D-VI-At Large] (P000610)
 
-## Committees (3)
+## Committees (4)
 
 - House — Transportation and Infrastructure Committee
 - House — Financial Services Committee
 - House — Small Business Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -47,3 +48,4 @@ Post-Disaster Assistance Online Accountability Act
 - 2025-01-14 — Motion to reconsider laid on the table Agreed to without objection.
 - 2025-01-14 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 426 - 0 (Roll no. 10). (text: 1/13/2025 CR H101-102)
 - 2025-01-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 426 - 0 (Roll no. 10). (text: 1/13/2025 CR H101-102)
+- 2025-01-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
