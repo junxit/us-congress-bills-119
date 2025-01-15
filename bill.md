@@ -1,0 +1,10 @@
+---
+legis-num: H. RES. 43
+congress: 119th CONGRESS
+session: 1st Session
+chamber: In the House of Representatives, U. S.,
+---
+
+# H. RES. 43
+
+That at 10:30 a.m. on Monday, January 20, 2025, the House shall proceed to the West Front of the Capitol for the purpose of attending the inaugural ceremonies of the President and Vice President of the United States; and that upon the conclusion of the ceremonies the House stands adjourned until noon on Tuesday, January 21, 2025 for morning-hour debate and 2 p.m. for legislative business.
