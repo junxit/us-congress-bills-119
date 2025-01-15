@@ -1,0 +1,17 @@
+---
+legis-num: H.R. 408
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 408
+
+> To nullify the Presidential memoranda on the withdrawal of certain areas of the outer Continental Shelf from oil or natural gas leasing.
+
+## § 1. Nullification of Presidential memoranda on the withdrawal of certain areas of the outer Continental Shelf
+
+The following Presidential memoranda shall have no force or effect:
+
+- **(1)** The Presidential Memorandum of January 6, 2025, titled “Memorandum on the Withdrawal of Certain Areas of the United States Outer Continental Shelf from Oil or Natural Gas Leasing” (relating to the Gulf of Mexico, Atlantic, and Pacific areas).
+- **(2)** The Presidential Memorandum of January 6, 2025, titled “Memorandum on the Withdrawal of Certain Areas of the United States Outer Continental Shelf from Oil or Natural Gas Leasing” (relating to the Northern Bering Sea Climate Resilience Area).
