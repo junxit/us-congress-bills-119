@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 521
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 521
+
+> To reserve to Congress the authority to establish or extend a national monument.
+
+## § 1. Short title
+
+This Act may be cited as the “Ending Presidential Overreach on Public Lands Act”.
+
+## § 2. National monuments
+
+Section 320301 of title 54, United States Code (commonly referred to as the “Antiquities Act”), is amended to read as follows:
+
+> ## § 320301. National monuments
+>
+> The establishment or extension of a national monument may be undertaken only by express authorization of Congress.
