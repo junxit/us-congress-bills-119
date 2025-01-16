@@ -1,7 +1,7 @@
 ---
 measure: H.R. 164
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 164
@@ -20,9 +20,10 @@ POWER Act of 2025
 
 - Rep. Ezell, Mike [R-MS-4] (E000235)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -42,3 +43,4 @@ POWER Act of 2025
 - 2025-01-15 — Motion to reconsider laid on the table Agreed to without objection.
 - 2025-01-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 2 (Roll no. 13). (text: 1/13/2025 CR H103)
 - 2025-01-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 419 - 2 (Roll no. 13). (text: 1/13/2025 CR H103)
+- 2025-01-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
