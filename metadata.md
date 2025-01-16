@@ -1,7 +1,7 @@
 ---
 measure: H.R. 144
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 144
@@ -20,9 +20,10 @@ Tennessee Valley Authority Salary Transparency Act
 
 - Rep. Burchett, Tim [R-TN-2] (B001309)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (1)
 
@@ -42,3 +43,4 @@ Tennessee Valley Authority Salary Transparency Act
 - 2025-01-15 — Motion to reconsider laid on the table Agreed to without objection.
 - 2025-01-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 14). (text: 1/13/2025 CR H105)
 - 2025-01-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 14). (text: 1/13/2025 CR H105)
+- 2025-01-16 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
