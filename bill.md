@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 549
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 549
+
+> To amend the Internal Revenue Code of 1986 to repeal the clean fuel production credit.
+
+## § 1. Repeal of clean fuel production credit
+
+- **(a)** *In general* Part IV of subchapter A of chapter 1 of the Internal Revenue Code of 1986 is amended by striking section 45Z (and by striking the item relating to such section in the table of sections for such part).
+- **(b)** *Effective date* The amendment made by this section shall apply to taxable years beginning after December 31, 2024.
