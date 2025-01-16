@@ -1,7 +1,7 @@
 ---
 measure: H.R. 33
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 33
@@ -65,10 +65,11 @@ To amend the Internal Revenue Code of 1986 to provide special rules for the taxa
 - Rep. Gooden, Lance [R-TX-5] (G000589)
 - Del. Plaskett, Stacey E. [D-VI-At Large] (P000610)
 
-## Committees (2)
+## Committees (3)
 
 - House — Rules Committee
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Recorded votes (1)
 
@@ -88,3 +89,4 @@ To amend the Internal Revenue Code of 1986 to provide special rules for the taxa
 - 2025-01-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 33, the Chair put the question on passage and by voice vote, announced that the ayes had prevailed. Mr. Smith (MO) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
 - 2025-01-15 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 423 - 1 (Roll no. 15). (text: CR H160-164)
 - 2025-01-15 — The previous question was ordered pursuant to the rule.
+- 2025-01-16 — Received in the Senate and Read twice and referred to the Committee on Finance.
