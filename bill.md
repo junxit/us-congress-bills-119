@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 536
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 536
+
+> To amend the Internal Revenue Code of 1986 to extend the energy credit for qualified biogas property.
+
+## § 1. Short title
+
+This Act may be cited as the “Agricultural Environmental Stewardship Act of 2025”.
+
+## § 2. Extension of energy credit for qualified biogas property
+
+- **(a)** *In general* Section 48(c)(7)(C) of the Internal Revenue Code of 1986 is amended by striking “December 31, 2024” and inserting “December 31, 2025”.
+- **(b)** *Effective date* The amendment made by this section shall apply to property the construction of which begins after December 31, 2024.
