@@ -1,7 +1,7 @@
 ---
 measure: H.R. 30
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 30
@@ -79,9 +79,10 @@ Preventing Violence Against Women by Illegal Aliens Act
 - Rep. Tiffany, Thomas P. [R-WI-7] (T000165)
 - Rep. Begich, Nicholas [R-AK-At Large] (B001323)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (2)
 
@@ -102,3 +103,4 @@ Preventing Violence Against Women by Illegal Aliens Act
 - 2025-01-16 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 274 - 145 (Roll no. 17). (text: CR H191)
 - 2025-01-16 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2025-01-16 — The previous question was ordered pursuant to the rule.
+- 2025-01-17 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
