@@ -1,0 +1,24 @@
+---
+legis-num: S. 151
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 151
+
+> To exclude the authority to impose duties and tariff-rate quotas from the International Emergency Economic Powers Act.
+
+## § 1. Short title
+
+This Act may be cited as the “Protecting Americans from Tax Hikes on Imported Goods Act of 2025”.
+
+## § 2. Exclusion of authority to impose duties and tariff-rate quotas from International Emergency Economic Powers Act
+
+Section 203 of the International Emergency Economic Powers Act (50 U.S.C. 1702) is amended—
+
+- **(1)** by redesignating subsection (c) as subsection (d); and
+- **(2)** by inserting after subsection (b) the following:
+  > - **(c)**
+  >   - **(1)** The authority granted to the President by this section does not include the authority to impose or increase a duty, or to impose a tariff-rate quota, on an article entering the United States.
+  >   - **(2)** The limitation under paragraph (1) does not prohibit the President from excluding all articles, or all of a certain type of article, imported from a country from entering the United States.
