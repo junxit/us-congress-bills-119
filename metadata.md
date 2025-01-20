@@ -1,7 +1,7 @@
 ---
 measure: S. 5
 congress: 119
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 5
@@ -137,8 +137,9 @@ Laken Riley Act
 - Sen. Hickenlooper, John W. [D-CO] (H000273)
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 
-## Recorded votes (7)
+## Recorded votes (8)
 
+- 2025-01-22 — [House 119-1-23](votes/house-119-1-0023.md) — On Passage — **Passed** (263–156)
 - 2025-01-09 — Senate 119-1-1 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00001.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00001.xml answered HTTP 403
 - 2025-01-13 — Senate 119-1-2 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00002.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00002.xml answered HTTP 403
 - 2025-01-15 — Senate 119-1-3 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00003.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00003.xml answered HTTP 403
@@ -376,3 +377,23 @@ Laken Riley Act
 - 2025-01-20 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 64 - 35. Record Vote Number: 7.
 - 2025-01-20 — Roll call votes on amendments in Senate: Amendment SA 8, as amended, agreed to in Senate by Yea-Nay Vote. 75 - 24. Record Vote Number: 6.
 - 2025-01-20 — Senate amendment agreed to: Amendment SA 8, as amended, agreed to in Senate by Yea-Nay Vote. 75 - 24. Record Vote Number: 6.
+- 2025-01-21 — Held at the desk.
+- 2025-01-21 — Message on Senate action sent to the House.
+- 2025-01-21 — Received in the House.
+- 2025-01-21 — Rules Committee Resolution H. Res. 53 Reported to House. Rule provides for consideration of H.R. 471 and S. 5. The resolution provides for consideration of H.R. 471 under a structured rule with one hour of general debate and one motion to recommit. Also, the resolution provides for consideration of S. 5 under a closed rule with one hour of general debate and one motion to commit.
+- 2025-01-22 — Considered as unfinished business. (consideration: CR H285-286)
+- 2025-01-22 — Considered under the provisions of rule H. Res. 53. (consideration: CR H277-284)
+- 2025-01-22 — DEBATE - The House proceeded with one hour of debate on S. 5.
+- 2025-01-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-01-22 — On passage Passed by the Yeas and Nays: 263 - 156 (Roll no. 23). (text: CR H277-278)
+- 2025-01-22 — POSTPONED PROCEEDINGS - At the conclusion of the debate on S. 5, the Chair put the question on passage of the bill and by voice vote announced that the ayes had prevailed. Mr. Raskin demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2025-01-22 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 263 - 156 (Roll no. 23). (text: CR H277-278)
+- 2025-01-22 — Rule H. Res. 53 passed House.
+- 2025-01-22 — Rule provides for consideration of H.R. 471 and S. 5. The resolution provides for consideration of H.R. 471 under a structured rule with one hour of general debate and one motion to recommit. Also, the resolution provides for consideration of S. 5 under a closed rule with one hour of general debate and one motion to commit.
+- 2025-01-22 — The previous question was ordered pursuant to the rule.
+- 2025-01-23 — Presented to President.
+- 2025-01-23 — Presented to President.
+- 2025-01-29 — Became Public Law No: 119-1.
+- 2025-01-29 — Became Public Law No: 119-1.
+- 2025-01-29 — Signed by President.
+- 2025-01-29 — Signed by President.
