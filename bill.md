@@ -21,13 +21,14 @@ Section 236(c) of the Immigration and Nationality Act (8 U.S.C. 1226(c)) is amen
   - **(A)** in subparagraph (C), by striking “or”;
   - **(B)** in subparagraph (D), by striking the comma at the end and inserting “, or”; and
   - **(C)** by inserting after subparagraph (D) the following:
-    > - **(E)**
-    >   - **(i)** is inadmissible under paragraph (6)(A), (6)(C), or (7) of section 212(a); and
-    >   - **(ii)** is charged with, is arrested for, is convicted of, admits having committed, or admits committing acts which constitute the essential elements of any burglary, theft, larceny, or shoplifting offense,
+  - **(E)**
+    - **(i)** is inadmissible under paragraph (6)(A), (6)(C), or (7) of section 212(a); and
+      > - **(ii)** is charged with, is arrested for, is convicted of, admits having committed, or admits committing acts which constitute the essential elements of any burglary, theft, larceny, shoplifting, or assault of a law enforcement officer offense, or any crime that results in death or serious bodily injury to another person,
 
 - **(2)** by redesignating paragraph (2) as paragraph (4); and
 - **(3)** by inserting after paragraph (1) the following:
-  > - **(2)** *Definition* For purposes of paragraph (1)(E), the terms “burglary”, “theft”, “larceny”, and “shoplifting” have the meaning given such terms in the jurisdiction in which the acts occurred.
+  > - **(2)** *Definition* For purposes of paragraph (1)(E), the terms “burglary”, “theft”, “larceny”, “shoplifting”, “assault of a law enforcement officer”, and “serious bodily injury” have the meanings given such terms in the jurisdiction in which the acts occurred.
+
   > - **(3)** *Detainer* The Secretary of Homeland Security shall issue a detainer for an alien described in paragraph (1)(E) and, if the alien is not otherwise detained by Federal, State, or local officials, shall effectively and expeditiously take custody of the alien.
 
 ## § 3. Enforcement by attorney general of a State

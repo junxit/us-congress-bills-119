@@ -1,7 +1,7 @@
 ---
 measure: S. 5
 congress: 119
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S. 5
@@ -16,7 +16,7 @@ Laken Riley Act
 
 - Sen. Britt, Katie Boyd [R-AL] (B001319)
 
-## Cosponsors (33)
+## Cosponsors (118)
 
 - Sen. Risch, James E. [R-ID] (R000584)
 - Sen. Schmitt, Eric [R-MO] (S001227)
@@ -51,9 +51,328 @@ Laken Riley Act
 - Sen. Ernst, Joni [R-IA] (E000295)
 - Sen. Mullin, Markwayne [R-OK] (M001190)
 - Sen. Hagerty, Bill [R-TN] (H000601)
+- Sen. Ricketts, Pete [R-NE] (R000618)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Hawley, Josh [R-MO] (H001089)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Curtis, John R. [R-UT] (C001114)
+- Sen. Hyde-Smith, Cindy [R-MS] (H001079)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Rubio, Marco [R-FL] (R000595)
+- Sen. McCormick, David [R-PA] (M001243)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Vance, J. D. [R-OH] (V000137)
+- Sen. Fetterman, John [D-PA] (F000479)
+- Sen. Gallego, Ruben [D-AZ] (G000574)
+- Sen. Gallego, Ruben [D-AZ] (G000574)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Blunt Rochester, Lisa [D-DE] (B001303)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Fetterman, John [D-PA] (F000479)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Gallego, Ruben [D-AZ] (G000574)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Luján, Ben Ray [D-NM] (L000570)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Blunt Rochester, Lisa [D-DE] (B001303)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Blunt Rochester, Lisa [D-DE] (B001303)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Blunt Rochester, Lisa [D-DE] (B001303)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Luján, Ben Ray [D-NM] (L000570)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Budd, Ted [R-NC] (B001305)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+
+## Recorded votes (7)
+
+- 2025-01-09 — [Senate 119-1-1](votes/senate-119-1-0001.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (84–9)
+- 2025-01-13 — [Senate 119-1-2](votes/senate-119-1-0002.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (82–10)
+- 2025-01-15 — [Senate 119-1-3](votes/senate-119-1-0003.md) — On the Amendment — **Amendment Agreed to** (70–25)
+- 2025-01-15 — [Senate 119-1-4](votes/senate-119-1-0004.md) — On the Amendment — **Amendment Rejected** (46–49)
+- 2025-01-17 — [Senate 119-1-5](votes/senate-119-1-0005.md) — On the Cloture Motion — **Cloture Motion Agreed to** (61–35)
+- 2025-01-20 — [Senate 119-1-6](votes/senate-119-1-0006.md) — On the Amendment — **Amendment Agreed to** (75–24)
+- 2025-01-20 — [Senate 119-1-7](votes/senate-119-1-0007.md) — On Passage of the Bill — **Bill Passed** (64–35)
 
 ## Actions
 
 - 2025-01-06 — Introduced in Senate
 - 2025-01-06 — Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2025-01-07 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 1.
+- 2025-01-08 — Cloture motion on the motion to proceed to the measure presented in Senate. (CR S46)
+- 2025-01-08 — Motion to proceed to consideration of measure made in Senate. (CR S46)
+- 2025-01-09 — Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 84 - 9. Record Vote Number: 1. (CR S73)
+- 2025-01-09 — Motion to proceed to measure considered in Senate. (CR S70)
+- 2025-01-13 — 
+- 2025-01-13 — 
+- 2025-01-13 — 
+- 2025-01-13 — 
+- 2025-01-13 — 
+- 2025-01-13 — 
+- 2025-01-13 — 
+- 2025-01-13 — 
+- 2025-01-13 — 
+- 2025-01-13 — 
+- 2025-01-13 — 
+- 2025-01-13 — 
+- 2025-01-13 — 
+- 2025-01-13 — 
+- 2025-01-13 — 
+- 2025-01-13 — Amendment SA 8 proposed by Senator Thune for Senator Ernst. (CR S87) To include crimes resulting in death or serious bodily injury to the list of offenses that, if committed by an inadmissible alien, require mandatory detention.
+- 2025-01-13 — Measure laid before Senate by motion.
+- 2025-01-13 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 82 - 10. Record Vote Number: 2. (CR S87)
+- 2025-01-13 — Motion to proceed to measure considered in Senate. (CR S83)
+- 2025-01-13 — Senate amendment proposed (on the floor): Amendment SA 8 proposed by Senator Thune for Senator Ernst.
+- 2025-01-13 — Senate amendment submitted
+- 2025-01-13 — Senate amendment submitted
+- 2025-01-13 — Senate amendment submitted
+- 2025-01-13 — Senate amendment submitted
+- 2025-01-13 — Senate amendment submitted
+- 2025-01-13 — Senate amendment submitted
+- 2025-01-13 — Senate amendment submitted
+- 2025-01-13 — Senate amendment submitted
+- 2025-01-13 — Senate amendment submitted
+- 2025-01-13 — Senate amendment submitted
+- 2025-01-13 — Senate amendment submitted
+- 2025-01-13 — Senate amendment submitted
+- 2025-01-13 — Senate amendment submitted
+- 2025-01-13 — Senate amendment submitted
+- 2025-01-13 — Senate amendment submitted
+- 2025-01-14 — 
+- 2025-01-14 — 
+- 2025-01-14 — 
+- 2025-01-14 — 
+- 2025-01-14 — 
+- 2025-01-14 — 
+- 2025-01-14 — 
+- 2025-01-14 — 
+- 2025-01-14 — 
+- 2025-01-14 — 
+- 2025-01-14 — 
+- 2025-01-14 — 
+- 2025-01-14 — 
+- 2025-01-14 — 
+- 2025-01-14 — 
+- 2025-01-14 — 
+- 2025-01-14 — 
+- 2025-01-14 — 
+- 2025-01-14 — 
+- 2025-01-14 — 
+- 2025-01-14 — 
+- 2025-01-14 — 
+- 2025-01-14 — 
+- 2025-01-14 — 
+- 2025-01-14 — 
+- 2025-01-14 — 
+- 2025-01-14 — 
+- 2025-01-14 — 
+- 2025-01-14 — 
+- 2025-01-14 — 
+- 2025-01-14 — 
+- 2025-01-14 — 
+- 2025-01-14 — 
+- 2025-01-14 — 
+- 2025-01-14 — Considered by Senate. (consideration: CR S130)
+- 2025-01-14 — Considered by Senate. (consideration: CR S130)
+- 2025-01-14 — Senate amendment submitted
+- 2025-01-14 — Senate amendment submitted
+- 2025-01-14 — Senate amendment submitted
+- 2025-01-14 — Senate amendment submitted
+- 2025-01-14 — Senate amendment submitted
+- 2025-01-14 — Senate amendment submitted
+- 2025-01-14 — Senate amendment submitted
+- 2025-01-14 — Senate amendment submitted
+- 2025-01-14 — Senate amendment submitted
+- 2025-01-14 — Senate amendment submitted
+- 2025-01-14 — Senate amendment submitted
+- 2025-01-14 — Senate amendment submitted
+- 2025-01-14 — Senate amendment submitted
+- 2025-01-14 — Senate amendment submitted
+- 2025-01-14 — Senate amendment submitted
+- 2025-01-14 — Senate amendment submitted
+- 2025-01-14 — Senate amendment submitted
+- 2025-01-14 — Senate amendment submitted
+- 2025-01-14 — Senate amendment submitted
+- 2025-01-14 — Senate amendment submitted
+- 2025-01-14 — Senate amendment submitted
+- 2025-01-14 — Senate amendment submitted
+- 2025-01-14 — Senate amendment submitted
+- 2025-01-14 — Senate amendment submitted
+- 2025-01-14 — Senate amendment submitted
+- 2025-01-14 — Senate amendment submitted
+- 2025-01-14 — Senate amendment submitted
+- 2025-01-14 — Senate amendment submitted
+- 2025-01-14 — Senate amendment submitted
+- 2025-01-14 — Senate amendment submitted
+- 2025-01-14 — Senate amendment submitted
+- 2025-01-14 — Senate amendment submitted
+- 2025-01-14 — Senate amendment submitted
+- 2025-01-14 — Senate amendment submitted
+- 2025-01-15 — 
+- 2025-01-15 — 
+- 2025-01-15 — 
+- 2025-01-15 — 
+- 2025-01-15 — 
+- 2025-01-15 — 
+- 2025-01-15 — 
+- 2025-01-15 — 
+- 2025-01-15 — 
+- 2025-01-15 — 
+- 2025-01-15 — 
+- 2025-01-15 — 
+- 2025-01-15 — 
+- 2025-01-15 — 
+- 2025-01-15 — 
+- 2025-01-15 — 
+- 2025-01-15 — 
+- 2025-01-15 — 
+- 2025-01-15 — 
+- 2025-01-15 — 
+- 2025-01-15 — 
+- 2025-01-15 — 
+- 2025-01-15 — 
+- 2025-01-15 — 
+- 2025-01-15 — 
+- 2025-01-15 — 
+- 2025-01-15 — 
+- 2025-01-15 — 
+- 2025-01-15 — 
+- 2025-01-15 — Amendment SA 14 agreed to in Senate by Yea-Nay Vote. 70 - 25. Record Vote Number: 3.
+- 2025-01-15 — Amendment SA 14 proposed by Senator Cornyn to Amendment SA 8. (consideration: CR S180-181) To expand the list of criminal offenses that subject inadmissible aliens to mandatory detention.
+- 2025-01-15 — Amendment SA 23 not agreed to in Senate by Yea-Nay Vote. 46 - 49. Record Vote Number: 4.
+- 2025-01-15 — Amendment SA 23 proposed by Senator Coons. (consideration: CR S181-182) To strike the section that authorizes State attorneys general to sue Federal immigration authorities for alleged violations relating to the detention of aliens.
+- 2025-01-15 — Cloture motion on the measure presented in Senate. (CR S182)
+- 2025-01-15 — Considered by Senate. (consideration: CR S161)
+- 2025-01-15 — Considered by Senate. (consideration: CR S161-182)
+- 2025-01-15 — Roll call votes on amendments in Senate: Amendment SA 14 agreed to in Senate by Yea-Nay Vote. 70 - 25. Record Vote Number: 3.
+- 2025-01-15 — Roll call votes on amendments in Senate: Amendment SA 23 not agreed to in Senate by Yea-Nay Vote. 46 - 49. Record Vote Number: 4.
+- 2025-01-15 — Senate amendment agreed to: Amendment SA 14 agreed to in Senate by Yea-Nay Vote. 70 - 25. Record Vote Number: 3.
+- 2025-01-15 — Senate amendment not agreed to: Amendment SA 23 not agreed to in Senate by Yea-Nay Vote. 46 - 49. Record Vote Number: 4.
+- 2025-01-15 — Senate amendment proposed (on the floor): Amendment SA 14 proposed by Senator Cornyn to Amendment SA 8.
+- 2025-01-15 — Senate amendment proposed (on the floor): Amendment SA 23 proposed by Senator Coons.
+- 2025-01-15 — Senate amendment submitted
+- 2025-01-15 — Senate amendment submitted
+- 2025-01-15 — Senate amendment submitted
+- 2025-01-15 — Senate amendment submitted
+- 2025-01-15 — Senate amendment submitted
+- 2025-01-15 — Senate amendment submitted
+- 2025-01-15 — Senate amendment submitted
+- 2025-01-15 — Senate amendment submitted
+- 2025-01-15 — Senate amendment submitted
+- 2025-01-15 — Senate amendment submitted
+- 2025-01-15 — Senate amendment submitted
+- 2025-01-15 — Senate amendment submitted
+- 2025-01-15 — Senate amendment submitted
+- 2025-01-15 — Senate amendment submitted
+- 2025-01-15 — Senate amendment submitted
+- 2025-01-15 — Senate amendment submitted
+- 2025-01-15 — Senate amendment submitted
+- 2025-01-15 — Senate amendment submitted
+- 2025-01-15 — Senate amendment submitted
+- 2025-01-15 — Senate amendment submitted
+- 2025-01-15 — Senate amendment submitted
+- 2025-01-15 — Senate amendment submitted
+- 2025-01-15 — Senate amendment submitted
+- 2025-01-15 — Senate amendment submitted
+- 2025-01-15 — Senate amendment submitted
+- 2025-01-15 — Senate amendment submitted
+- 2025-01-15 — Senate amendment submitted
+- 2025-01-15 — Senate amendment submitted
+- 2025-01-15 — Senate amendment submitted
+- 2025-01-16 — 
+- 2025-01-16 — 
+- 2025-01-16 — 
+- 2025-01-16 — 
+- 2025-01-16 — 
+- 2025-01-16 — 
+- 2025-01-16 — 
+- 2025-01-16 — 
+- 2025-01-16 — 
+- 2025-01-16 — 
+- 2025-01-16 — 
+- 2025-01-16 — 
+- 2025-01-16 — 
+- 2025-01-16 — 
+- 2025-01-16 — Considered by Senate. (consideration: CR S197)
+- 2025-01-16 — Considered by Senate. (consideration: CR S198-218)
+- 2025-01-16 — Senate amendment submitted
+- 2025-01-16 — Senate amendment submitted
+- 2025-01-16 — Senate amendment submitted
+- 2025-01-16 — Senate amendment submitted
+- 2025-01-16 — Senate amendment submitted
+- 2025-01-16 — Senate amendment submitted
+- 2025-01-16 — Senate amendment submitted
+- 2025-01-16 — Senate amendment submitted
+- 2025-01-16 — Senate amendment submitted
+- 2025-01-16 — Senate amendment submitted
+- 2025-01-16 — Senate amendment submitted
+- 2025-01-16 — Senate amendment submitted
+- 2025-01-16 — Senate amendment submitted
+- 2025-01-16 — Senate amendment submitted
+- 2025-01-17 — 
+- 2025-01-17 — 
+- 2025-01-17 — Cloture on the measure invoked in Senate by Yea-Nay Vote. 61 - 35. Record Vote Number: 5. (CR S240)
+- 2025-01-17 — Considered by Senate. (consideration: CR S237)
+- 2025-01-17 — Considered by Senate. (consideration: CR S237-241)
+- 2025-01-17 — Senate amendment submitted
+- 2025-01-17 — Senate amendment submitted
+- 2025-01-20 — Amendment SA 8, as amended, agreed to in Senate by Yea-Nay Vote. 75 - 24. Record Vote Number: 6.
+- 2025-01-20 — Considered by Senate. (consideration: CR S246-251)
+- 2025-01-20 — Considered by Senate. (consideration: CR S250)
+- 2025-01-20 — Passed Senate with an amendment by Yea-Nay Vote. 64 - 35. Record Vote Number: 7. (text: CR S250-251)
+- 2025-01-20 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 64 - 35. Record Vote Number: 7.
+- 2025-01-20 — Roll call votes on amendments in Senate: Amendment SA 8, as amended, agreed to in Senate by Yea-Nay Vote. 75 - 24. Record Vote Number: 6.
+- 2025-01-20 — Senate amendment agreed to: Amendment SA 8, as amended, agreed to in Senate by Yea-Nay Vote. 75 - 24. Record Vote Number: 6.
