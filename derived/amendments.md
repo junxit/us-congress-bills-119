@@ -1,7 +1,7 @@
 ---
 measure: S. 5
 congress: 119
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 derived: true
 ---
 
