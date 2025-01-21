@@ -76,7 +76,7 @@ Not later than 30 months after the date of enactment of this Act, the Secretarie
 
 ## § 5. Cooperation and coordination
 
-- **(a)** *Community partners and third-Party providers* For purposes of carrying out this Act, the Secretaries may—
+- **(a)** *Community partners and third-party providers* For purposes of carrying out this Act, the Secretaries may—
   - **(1)** coordinate and partner with non-Federal agencies and private sector and nonprofit partners, including—
     - **(A)** State natural resource agencies;
     - **(B)** Tribal natural resource agencies;
