@@ -1,7 +1,7 @@
 ---
 measure: H.R. 186
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 186
@@ -16,16 +16,35 @@ Hershel Woody Williams National Medal of Honor Monument Location Act
 
 - Rep. Moore, Blake D. [R-UT-1] (M001213)
 
-## Cosponsors (1)
+## Cosponsors (8)
 
 - Rep. Veasey, Marc A. [D-TX-33] (V000131)
+- Rep. Webster, Daniel [R-FL-11] (W000806)
+- Rep. Ellzey, Jake [R-TX-6] (E000071)
+- Rep. Miller, Carol D. [R-WV-1] (M001205)
+- Rep. Luna, Anna Paulina [R-FL-13] (L000596)
+- Rep. LaLota, Nick [R-NY-1] (L000598)
+- Rep. Hunt, Wesley [R-TX-38] (H001095)
+- Rep. Carbajal, Salud O. [D-CA-24] (C001112)
 
 ## Committees (1)
 
 - House — Natural Resources Committee
+
+## Recorded votes (1)
+
+- 2025-01-21 — [House 119-1-18](votes/house-119-1-0018.md) — On Motion to Suspend the Rules and Pass — **Passed** (414–0)
 
 ## Actions
 
 - 2025-01-03 — Introduced in House
 - 2025-01-03 — Introduced in House
 - 2025-01-03 — Referred to the House Committee on Natural Resources.
+- 2025-01-21 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2025-01-21 — Considered as unfinished business. (consideration: CR H250)
+- 2025-01-21 — Considered under suspension of the rules. (consideration: CR H237-238)
+- 2025-01-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 186.
+- 2025-01-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-01-21 — Mr. Westerman moved to suspend the rules and pass the bill.
+- 2025-01-21 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 18). (text: CR H237)
+- 2025-01-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 18). (text: CR H237)
