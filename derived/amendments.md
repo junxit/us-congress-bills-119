@@ -1,7 +1,7 @@
 ---
 measure: H.R. 207
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
