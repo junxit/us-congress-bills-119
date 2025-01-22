@@ -1,7 +1,7 @@
 ---
 measure: H.R. 187
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 187
@@ -22,10 +22,11 @@ MAPWaters Act of 2025
 - Rep. Fulcher, Russ [R-ID-1] (F000469)
 - Rep. Dingell, Debbie [D-MI-6] (D000624)
 
-## Committees (2)
+## Committees (3)
 
 - House — Agriculture Committee
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -45,3 +46,4 @@ MAPWaters Act of 2025
 - 2025-01-21 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
 - 2025-01-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 19). (text: CR H238-239)
 - 2025-01-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 19). (text: CR H238-239)
+- 2025-01-22 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
