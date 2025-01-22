@@ -1,7 +1,7 @@
 ---
 measure: H.R. 197
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 197
@@ -21,9 +21,10 @@ Lake Winnibigoshish Land Exchange Act of 2025
 - Rep. Finstad, Brad [R-MN-1] (F000475)
 - Rep. Fischbach, Michelle [R-MN-7] (F000470)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ Lake Winnibigoshish Land Exchange Act of 2025
 - 2025-01-21 — Mr. Westerman moved to suspend the rules and pass the bill.
 - 2025-01-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H242-243)
 - 2025-01-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H242-243)
+- 2025-01-22 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
