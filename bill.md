@@ -1,0 +1,21 @@
+---
+legis-num: S. 181
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 181
+
+> To require agencies submit zero-based budgets.
+
+## § 1. Zero-based budgets
+
+- **(a)** *Definition* In this Act:
+  - **(1)** *Agency* The term agency has the meaning given the term in section 551 of title 5, United States Code.
+  - **(2)** *Zero-based budget* The term zero-based budget means a systematic budget analysis in support of decision making in which managers—
+    - **(A)** examine current objectives, operations, and costs;
+    - **(B)** consider alternative ways of carrying out a program or activity; and
+    - **(C)** rank different programs or activities by order of importance to the organization.
+- **(b)** *Zero-Based budgets* Every sixth year, each agency shall submit to the Director of the Office of Management and Budget and the Committee on the Budget of the Senate and the Committee on the Budget of the House of Representatives a zero-based budget for the next fiscal year and each of the 4 ensuing fiscal years.
+- **(c)** *Recommendations* In addition to the zero-based budget required under subsection (b), each agency, except the Department of Defense and the National Nuclear Security Administration shall submit recommendations for which programs Congress should cut or reduce appropriations in an amount that equals not less than a 2-percent reduction from the previous year appropriation in discretionary spending.
