@@ -1,7 +1,7 @@
 ---
 measure: H.R. 187
 congress: 119
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 187
@@ -47,3 +47,14 @@ MAPWaters Act of 2025
 - 2025-01-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 19). (text: CR H238-239)
 - 2025-01-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 19). (text: CR H238-239)
 - 2025-01-22 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2025-12-16 — Passed Senate without amendment by Voice Vote. (consideration: CR S8766-8768)
+- 2025-12-16 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2025-12-16 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
+- 2025-12-16 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
+- 2025-12-17 — Message on Senate action sent to the House.
+- 2025-12-18 — Presented to President.
+- 2025-12-18 — Presented to President.
+- 2025-12-26 — Became Public Law No: 119-62.
+- 2025-12-26 — Became Public Law No: 119-62.
+- 2025-12-26 — Signed by President.
+- 2025-12-26 — Signed by President.
