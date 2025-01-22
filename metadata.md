@@ -1,7 +1,7 @@
 ---
 measure: H.R. 204
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 204
@@ -16,10 +16,11 @@ ACRES Act
 
 - Rep. Tiffany, Thomas P. [R-WI-7] (T000165)
 
-## Committees (2)
+## Committees (3)
 
 - House — Agriculture Committee
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -33,3 +34,4 @@ ACRES Act
 - 2025-01-21 — Mr. Westerman moved to suspend the rules and pass the bill.
 - 2025-01-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H244-245)
 - 2025-01-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H244-245)
+- 2025-01-22 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
