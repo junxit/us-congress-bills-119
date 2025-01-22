@@ -1,7 +1,7 @@
 ---
 measure: H.R. 186
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 186
@@ -27,9 +27,10 @@ Hershel Woody Williams National Medal of Honor Monument Location Act
 - Rep. Hunt, Wesley [R-TX-38] (H001095)
 - Rep. Carbajal, Salud O. [D-CA-24] (C001112)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -48,3 +49,4 @@ Hershel Woody Williams National Medal of Honor Monument Location Act
 - 2025-01-21 — Mr. Westerman moved to suspend the rules and pass the bill.
 - 2025-01-21 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 18). (text: CR H237)
 - 2025-01-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 414 - 0 (Roll no. 18). (text: CR H237)
+- 2025-01-22 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
