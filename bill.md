@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 612
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 612
+
+> To amend the Public Health Service Act to authorize grants to health care providers to enhance the physical and cyber security of their facilities, personnel, and patients.
+
+## § 1. Short title
+
+This Act may be cited as the “Health Care Providers Safety Act of 2025”.
+
+## § 2. Grants to health care providers to enhance security
+
+Part P of title III of the Public Health Service Act (42 U.S.C. 280g et seq.) (as amended by Public Law 117–328) is amended by adding at the end the following:
+
+> ## § 399V–8. Grants to health care providers to enhance security
+>
+> - **(a)** *In general* The Secretary may award grants to health care providers to pay for security services and otherwise enhance the physical and cyber security of their facilities, personnel, and patients to ensure safe access.
+> - **(b)** *Use of funds* A health care provider receiving a grant under this section may use the grant to pay the costs of necessary security services and enhancements to physical access and cyber security, including video surveillance camera systems, data privacy enhancements, and structural improvements.
