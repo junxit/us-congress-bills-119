@@ -1,7 +1,7 @@
 ---
 measure: H.R. 207
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 207
@@ -23,9 +23,10 @@ SHARKED Act of 2025
 - Rep. Veasey, Marc A. [D-TX-33] (V000131)
 - Rep. Donalds, Byron [R-FL-19] (D000032)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ SHARKED Act of 2025
 - 2025-01-21 — Mr. Westerman moved to suspend the rules and pass the bill.
 - 2025-01-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H240-241)
 - 2025-01-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H240-241)
+- 2025-01-22 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
