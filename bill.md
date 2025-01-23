@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 658
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 658
+
+> To amend title 38, United States Code, to establish qualifications for the appointment of a person as a marriage and family therapist, qualified to provide clinical supervision, in the Veterans Health Administration.
+
+## § 1. Establishment of qualifications for the appointment of a person as a marriage and family therapist, qualified to provide clinical supervision, in the Veterans Health Administration
+
+Section 7402(b)(10) of title 38, United States Code, is amended—
+
+- **(1)** by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively;
+- **(2)** by inserting “(A)” before “To be eligible”; and
+- **(3)** by adding at the end the following new subparagraph (B):
+  > - **(B)** To be eligible to be appointed to a marriage and family therapist position and qualified to provide clinical supervision, a person must—
+  >   - **(i)** have the qualifications set forth in subparagraph (A); and
+  >   - **(ii)**
+  >     - **(I)** be authorized to provide clinical supervision in the State described in clause (ii) of such subparagraph; or
+  >     - **(II)** be designated as an approved supervisor by the American Association for Marriage and Family Therapy.
