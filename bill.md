@@ -1,0 +1,14 @@
+---
+legis-num: H.R. 690
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 690
+
+> To prohibit the use of Federal funds to implement Salmonella framework for raw poultry products.
+
+## § 1. Prohibition on use of Federal funds to implement Salmonella framework for raw poultry products
+
+No Federal funds may be used to finalize, implement, administer, or enforce the proposed rule and proposed determination entitled “Salmonella Framework for Raw Poultry Products” published by the Food Safety and Inspection Service of the Department of Agriculture in the Federal Register on August 7, 2024 (89 Fed. Reg. 64678 et seq.).
