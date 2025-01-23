@@ -1,7 +1,7 @@
 ---
 measure: H.R. 165
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 165
@@ -16,9 +16,10 @@ Wounded Knee Massacre Memorial and Sacred Site Act
 
 - Rep. Johnson, Dusty [R-SD-At Large] (J000301)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Recorded votes (1)
 
@@ -37,3 +38,4 @@ Wounded Knee Massacre Memorial and Sacred Site Act
 - 2025-01-22 — Motion to reconsider laid on the table Agreed to without objection.
 - 2025-01-22 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 22). (text: 1/21/2025 CR H246-247)
 - 2025-01-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 22). (text: 1/21/2025 CR H246-247)
+- 2025-01-23 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
