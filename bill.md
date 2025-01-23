@@ -1,0 +1,31 @@
+---
+legis-num: S. 207
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 207
+
+> To prohibit the award of Federal funds to an institution of higher education that hosts or is affiliated with a student-based service site that provides abortion drugs or abortions to students of the institution or to employees of the institution or site, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Protecting Life on College Campus Act of 2025”.
+
+## § 2. Prohibition on award of funds to certain institutions of higher education
+
+- **(a)** *Prohibition* No Federal funds may be awarded (directly or indirectly, including through a contract or subcontract) to any institution of higher education that hosts or is affiliated with any school-based service site that provides abortion drugs or abortions to students of such institution or to employees of such institution or site.
+- **(b)** *Annual reporting* To remain eligible for awards of Federal funds, an institution of higher education that hosts or is affiliated with one or more school-based service sites shall submit an annual report to the Secretary of Education and the Secretary of Health and Human Services certifying that no such site provides abortion drugs or abortions to students of the institution or to employees of such institution or site.
+- **(c)** *Preemption* An institution of higher education that receives Federal funds may not be subject to any penalty under State law solely by reason of compliance with this section.
+- **(d)** *Definitions* In this section:
+  - **(1)** *Abortion drug* The term abortion drug means any drug, substance, or combination of drugs or substances that is intended for use or that is in fact used (irrespective of how the product is labeled)—
+    - **(A)** to intentionally kill the unborn child of a woman known to be pregnant; or
+    - **(B)** to intentionally terminate the pregnancy of a woman known to be pregnant, with an intention other than—
+      - **(i)** to produce a live birth;
+      - **(ii)** to remove a dead unborn child; or
+      - **(iii)** to treat an ectopic pregnancy.
+  - **(2)** *Institution of higher education* The term institution of higher education has the meaning given such term in section 102 of the Higher Education Act of 1965 (20 U.S.C. 1002).
+  - **(3)** *School-based service site* The term school-based service site—
+    - **(A)** means a clinic providing health care services (including primary health services, family planning services, telehealth services, and pharmaceutical services, without regard to whether the services are provided by employees of the clinic or contracted providers) to students that is located on the campus of an institution of higher education that accepts Federal funding; and
+    - **(B)** does not include a hospital (as defined in section 1861(e) of the Social Security Act (42 U.S.C. 1395x(e))).
