@@ -1,7 +1,7 @@
 ---
 measure: H.R. 375
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 375
@@ -20,10 +20,11 @@ Continued Rapid Ohia Death Response Act of 2025
 
 - Rep. Case, Ed [D-HI-1] (C001055)
 
-## Committees (2)
+## Committees (3)
 
 - House — Agriculture Committee
 - House — Natural Resources Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Recorded votes (1)
 
@@ -43,3 +44,4 @@ Continued Rapid Ohia Death Response Act of 2025
 - 2025-01-23 — Motion to reconsider laid on the table Agreed to without objection.
 - 2025-01-23 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 359 - 62 (Roll no. 24). (text: 1/21/2025 CR H248)
 - 2025-01-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 359 - 62 (Roll no. 24). (text: 1/21/2025 CR H248)
+- 2025-01-24 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
