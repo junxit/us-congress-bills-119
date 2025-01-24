@@ -1,7 +1,7 @@
 ---
 measure: H.R. 21
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 21
@@ -182,9 +182,10 @@ Born-Alive Abortion Survivors Protection Act
 - Rep. Gimenez, Carlos A. [R-FL-28] (G000593)
 - Rep. Roy, Chip [R-TX-21] (R000614)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (2)
 
@@ -207,3 +208,4 @@ Born-Alive Abortion Survivors Protection Act
 - 2025-01-23 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 217 - 204, 1 Present (Roll no. 27). (text: CR H335-336)
 - 2025-01-23 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2025-01-23 — The previous question was ordered pursuant to the rule.
+- 2025-01-24 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
