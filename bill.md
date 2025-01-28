@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 764
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 764
+
+> To prohibit the application of certain restrictive eligibility requirements to foreign nongovernmental organizations with respect to the provision of assistance under part I of the Foreign Assistance Act of 1961.
+
+## § 1. Short title
+
+This Act may be cited as the “Global Health, Empowerment and Rights Act”.
+
+## § 2. Assistance for foreign nongovernmental organizations under part I of the Foreign Assistance Act of 1961
+
+Notwithstanding any other provision of law, regulation, or policy, in determining eligibility for assistance authorized under part I of the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.), foreign nongovernmental organizations—
+
+- **(1)** shall not be ineligible for such assistance solely on the basis of health or medical services, including counseling and referral services, provided by such organizations with non-United States Government funds if such services do not violate the laws of the country in which they are being provided; and
+- **(2)** shall not be subject to requirements relating to the use of non-United States Government funds for advocacy and lobbying activities other than those that apply to United States nongovernmental organizations receiving assistance under part I of such Act.
