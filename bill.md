@@ -1,0 +1,25 @@
+---
+legis-num: H.R. 795
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 795
+
+> To prohibit the Department of Health and Human Services from treating pregnancy as an illness for purposes of approving abortion drugs.
+
+## § 1. Short title
+
+This Act may be cited as the “Pregnancy Is Not an Illness Act of 2025”.
+
+## § 2. Prohibition against treating pregnancy as illness for purposes of approving abortion drugs
+
+- **(a)** *Prohibition* The Department of Health and Human Services, including the Food and Drug Administration, shall not treat pregnancy as an illness for purposes of—
+  - **(1)** approving any abortion drug under section 505 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355); or
+  - **(2)** imposing or maintaining any risk evaluation and mitigation strategy for an abortion drug under section 505–1 of such Act (21 U.S.C. 355–1).
+- **(b)** *Nullification of approvals in effect*
+  - **(1)** *In general* Any prohibited approval of an abortion drug is hereby nullified.
+  - **(2)** *Prohibited approval defined* In this subsection, the term prohibited approval of an abortion drug—
+    - **(A)** means any approval of an abortion drug under section 505 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355) that relied in whole or in part on the treatment of pregnancy as illness; and
+    - **(B)** includes the approval of mifepristone in effect under such section 505 on the day before the date of enactment of this Act.
