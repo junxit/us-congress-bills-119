@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 776
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 776
+
+> To reauthorize the Nutria Eradication and Control Act of 2003.
+
+## § 1. Short title
+
+This Act may be cited as the “Nutria Eradication and Control Reauthorization Act of 2025”.
+
+## § 2. Reauthorization of Nutria Eradication and Control Act of 2003
+
+- **(a)** *In general* Section 3(e) of the Nutria Eradication and Control Act of 2003 (16 U.S.C. 8102(e)) is amended by striking “2025” and inserting “2030”.
+- **(b)** *Technical correction* Section 3(a) of the Nutria Eradication and Control Act of 2003 (16 U.S.C. 8102(a)) is amended by striking ““Secretary”),” and inserting ““Secretary”)”.
