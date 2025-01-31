@@ -1,0 +1,28 @@
+---
+legis-num: H.R. 867
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 867
+
+> To amend the Anti-Boycott Act of 2018 to apply the provisions of that Act to international governmental organizations.
+
+## § 1. Short title
+
+This Act may be cited as the “IGO Anti-Boycott Act”.
+
+## § 2. Amendments to the Anti-Boycott Act of 2018
+
+The Anti-Boycott Act of 2018 is amended as follows:
+
+- **(1)** In section 1772 (50 U.S.C. 4841), by inserting “, or international governmental organization,” after “foreign country” each place it appears.
+- **(2)** In section 1773 (50 U.S.C. 4842), in subsection (a)(1)—
+  - **(A)** in the matter preceding subparagraph (A), by inserting “or international governmental organization,” after “foreign country,”;
+  - **(B)** in subparagraph (A), in the first sentence, by inserting “or international governmental organization” after “boycotting country”; and
+  - **(C)** in subparagraph (D), in the first sentence, by inserting “or international governmental organization” after “boycotting country”.
+- **(3)** In section 1773(a) (50 U.S.C. 4842(a)), by adding at the end the following:
+  > - **(6)** *Annual report* The President shall submit to Congress and make available to the public on an annual basis a report that contains—
+  >   - **(A)** a list of those foreign countries and international organizations that foster or impose boycotts and with respect to which this section applies; and
+  >   - **(B)** a description of those boycotts.
