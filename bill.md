@@ -1,0 +1,14 @@
+---
+legis-num: H.R. 840
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 840
+
+> To provide that the final rule of the United States Fish and Wildlife Service titled “Endangered and Threatened Wildlife and Plants; Endangered Species Status With Critical Habitat for Guadalupe Fatmucket, Texas Fatmucket, Guadalupe Orb, Texas Pimpleback, Balcones Spike, and False Spike, and Threatened Species Status With Section 4(d) Rule and Critical Habitat for Texas Fawnsfoot” shall have no force or effect.
+
+## § 1. Rule relating to endangered species and threatened species status of certain species of mussels
+
+The final rule issued by the United States Fish and Wildlife Service titled “Endangered and Threatened Wildlife and Plants; Endangered Species Status With Critical Habitat for Guadalupe Fatmucket, Texas Fatmucket, Guadalupe Orb, Texas Pimpleback, Balcones Spike, and False Spike, and Threatened Species Status With Section 4(d) Rule and Critical Habitat for Texas Fawnsfoot” (89 Fed. Reg. 48034; published June 4, 2024) shall have no force or effect.
