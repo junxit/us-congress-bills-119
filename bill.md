@@ -1,0 +1,28 @@
+---
+legis-num: H.R. 870
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 870
+
+> To amend title XVIII of the Social Security Act to make improvements to the redistribution of residency slots under the Medicare program after a hospital closes.
+
+## § 1. Short title
+
+This Act may be cited as the “Physicians for Underserved Areas Act”.
+
+## § 2. Improvements to the redistribution of residency slots under the Medicare program after a hospital closes
+
+- **(a)** *In general* Section 1886(h)(4)(H)(vi) of the Social Security Act (42 U.S.C. 1395ww(h)(4)(H)(vi)) is amended—
+  - **(1)** in subclause (II)—
+    - **(A)** by striking item (cc) and redesignating item (dd) as item (cc); and
+    - **(B)** in item (cc), as redesignated under subparagraph (A)—
+      - **(i)** by striking “Fourth” and inserting “Third”; and
+      - **(ii)** by striking “item (cc)” and inserting “item (bb)”; and
+  - **(2)** in subclause (III), by striking “likelihood of filling” and all that follows and inserting the following: “likelihood of—
+    > - **(aa)** starting to utilize the positions made available under this clause within 2 years; and
+    > - **(bb)** filling the positions made available under this clause within 5 years.
+
+- **(b)** *Effective date* The amendments made by subsection (a) shall apply to the redistribution of residency slots with respect to hospitals that close on or after the date of enactment of this Act.
