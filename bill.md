@@ -1,0 +1,27 @@
+---
+legis-num: S. 361
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 361
+
+> To strengthen trafficking victim assistance grant funding.
+
+## § 1. Short title
+
+This Act may be cited as the “Supporting Victims of Human Trafficking Act”.
+
+## § 2. Grants to assist victims of trafficking
+
+Section 107(b)(2) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7105(b)(2)) is amended—
+
+- **(1)** in subparagraph (B)—
+  - **(A)** in the matter preceding clause (i), by striking “shall” and insert “may”;
+  - **(B)** in clause (i), by striking “three percent” and inserting “ up to 7 percent”;
+  - **(C)** in clause (ii)—
+    - **(i)** by striking “5 percent” and inserting “up to 10 percent”; and
+    - **(ii)** by inserting “and strengthening program administration and budgeting” after “activities”; and
+  - **(D)** in clause (iii), by striking “one percent” and inserting “up to 1 percent”; and
+- **(2)** in subparagraph (C), strike “75 percent” and insert “95 percent”.
