@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 933
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 933
+
+> To modify the minimum required weight of orange juice soluble solids.
+
+## § 1. Short title
+
+This Act may be cited as the “Defending Domestic Orange Juice Production Act of 2025”.
+
+## § 2. Revision of pasteurized orange juice standards
+
+- **(a)** *In general* Effective on the date of enactment of this Act, the standard of identity for “pasteurized orange juice”, established in section 146.140 of title 21, Code of Federal Regulations (or any successor regulations), shall be deemed to require finished pasteurized orange juice to contain not less than 10.0 percent by weight of orange juice soluble solids, exclusive of the solids of any added optional sweetening ingredients.
+- **(b)** *Regulation authority* Nothing in this section shall be construed to limit the authority of the Secretary of Health and Human Services to promulgate regulations to amend the standard of identity for pasteurized orange juice.
