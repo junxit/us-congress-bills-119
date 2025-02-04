@@ -1,7 +1,7 @@
 ---
 measure: H.R. 835
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 835
@@ -16,7 +16,7 @@ version: Introduced in House
 
 - Rep. LaLota, Nick [R-NY-1] (L000598)
 
-## Cosponsors (16)
+## Cosponsors (19)
 
 - Rep. Goldman, Daniel S. [D-NY-10] (G000599)
 - Rep. Velázquez, Nydia M. [D-NY-7] (V000081)
@@ -34,6 +34,9 @@ version: Introduced in House
 - Rep. Kean, Thomas H. [R-NJ-7] (K000398)
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 - Rep. Lee, Susie [D-NV-3] (L000590)
+- Rep. Langworthy, Nicholas A. [R-NY-23] (L000600)
+- Rep. Valadao, David G. [R-CA-22] (V000129)
+- Rep. Fleischmann, Charles J. "Chuck" [R-TN-3] (F000459)
 
 ## Committees (1)
 
@@ -44,3 +47,9 @@ version: Introduced in House
 - 2025-01-31 — Introduced in House
 - 2025-01-31 — Introduced in House
 - 2025-01-31 — Referred to the House Committee on Natural Resources.
+- 2025-02-04 — Considered under suspension of the rules. (consideration: CR H442-444)
+- 2025-02-04 — DEBATE - The House proceeded with forty minutes of debate on H.R. 835.
+- 2025-02-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-02-04 — Mr. Westerman moved to suspend the rules and pass the bill.
+- 2025-02-04 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H442-443)
+- 2025-02-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H442-443)
