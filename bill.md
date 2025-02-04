@@ -1,0 +1,24 @@
+---
+legis-num: H.R. 913
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 913
+
+> To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to approve a rehabilitation program for a certain veterans with service-connected disabilities that include the pursuit of non-degree flight training programs, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Streamlining Aviation for Eligible Veterans Act of 2025” or the “SAFE Veterans Act of 2025”.
+
+## § 2. Authority of Secretary of Veterans Affair to approve non-degree flight training courses as part of vocational rehabilitation programs for certain veterans with service-connected disabilities
+
+- **(a)** *In general* Section 3104(b) of title 38, United States Code, is amended—
+  - **(1)** by inserting “(1)” before “A rehabilitation program”;
+  - **(2)** by striking “To the maximum extent practicable” and inserting “Except as provided under paragraph (2), to the maximum extent practicable”; and
+  - **(3)** by adding at the end the following new paragraph:
+    > - **(2)** Notwithstanding section 3680A(b) of this title, the Secretary may approve a rehabilitation program for a veteran under this chapter that includes the pursuit of a course of flight training other than one given by an educational institution of higher learning for credit toward a standard college degree the veteran is seeking.
+
+- **(b)** *Applicability* The amendments made by subsection (a) shall apply with respect to a rehabilitation program approved on or after August 1, 2025.
