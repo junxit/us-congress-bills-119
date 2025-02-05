@@ -1,7 +1,7 @@
 ---
 measure: H.R. 42
 congress: 119
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 42
@@ -32,3 +32,12 @@ Alaska Native Settlement Trust Eligibility Act
 - 2025-02-04 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H444)
 - 2025-02-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H444)
 - 2025-02-05 — Received in the Senate, read twice.
+- 2025-06-18 — Passed Senate without amendment by Voice Vote. (consideration: CR S3458)
+- 2025-06-18 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2025-06-23 — Message on Senate action sent to the House.
+- 2025-07-03 — Presented to President.
+- 2025-07-03 — Presented to President.
+- 2025-07-07 — Became Public Law No: 119-22.
+- 2025-07-07 — Became Public Law No: 119-22.
+- 2025-07-07 — Signed by President.
+- 2025-07-07 — Signed by President.
