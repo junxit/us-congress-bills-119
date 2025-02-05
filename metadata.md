@@ -1,7 +1,7 @@
 ---
 measure: H.R. 835
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 835
@@ -38,9 +38,10 @@ version: Engrossed in House
 - Rep. Valadao, David G. [R-CA-22] (V000129)
 - Rep. Fleischmann, Charles J. "Chuck" [R-TN-3] (F000459)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -53,3 +54,4 @@ version: Engrossed in House
 - 2025-02-04 — Mr. Westerman moved to suspend the rules and pass the bill.
 - 2025-02-04 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H442-443)
 - 2025-02-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H442-443)
+- 2025-02-05 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
