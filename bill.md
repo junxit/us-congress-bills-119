@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 1038
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1038
+
+> To direct the Bureau of Labor Statistics to prepare and publish a Consumer Price Index for Rural Consumers, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Combating Rural Inflation Act”.
+
+## § 2. Consumer Price Index for Rural Consumers
+
+The Bureau of Labor Statistics of the Department of Labor shall prepare and publish an index for each calendar month beginning with January 2026 to be known as the Consumer Price Index for Rural Consumers that indicates changes over time in expenditures for consumption which are typical for individuals in the United States who reside in rural communities.
