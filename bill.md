@@ -1,0 +1,33 @@
+---
+legis-num: H.R. 1014
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1014
+
+> To amend title 10, United States Code, to direct the Secretary of Defense to include certain tests as part of the periodic health assessments provided to members of the Armed Forces.
+
+## § 1. Short title
+
+This Act may be cited as the “Specialist Joey Lenz Act of 2025”.
+
+## § 2. Requirements for periodic health assessments
+
+Chapter 55 of title 10, United States Code, is amended by inserting after section 1074o the following new section (and conforming the table of sections accordingly):
+
+> ## § 1074p. Periodic health assessments
+>
+> Beginning in 2026, the Secretary of Defense shall ensure that periodic health assessments provided to a member of the armed forces include the following:
+>
+> - **(1)** On an annual basis—
+>   - **(A)** a sports physical;
+>   - **(B)** an electrocardiogram; and
+>   - **(C)** blood work that includes—
+>     - **(i)** a comprehensive metabolic panel and complete blood count; and
+>     - **(ii)** if necessary—
+>       - **(I)** a thyroid stimulating hormone test; and
+>       - **(II)** a brain natriuretic peptide test.
+> - **(2)** Any test or evaluation required by law with respect to such member, including an evaluation required by section 704 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 10 U.S.C. 1074f note) and a test required by section 707 of such Act (10 U.S.C. 1074 note).
+> - **(3)** Any other test or evaluation determined appropriate by the Secretary.
