@@ -1,7 +1,7 @@
 ---
 measure: H.R. 776
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 776
@@ -22,9 +22,10 @@ Nutria Eradication and Control Reauthorization Act of 2025
 - Rep. Garamendi, John [D-CA-8] (G000559)
 - Rep. Panetta, Jimmy [D-CA-19] (P000613)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (1)
 
@@ -43,3 +44,4 @@ Nutria Eradication and Control Reauthorization Act of 2025
 - 2025-02-04 — Mr. Westerman moved to suspend the rules and pass the bill.
 - 2025-02-04 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 361 - 56 (Roll no. 29). (text: CR H449)
 - 2025-02-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 361 - 56 (Roll no. 29). (text: CR H449)
+- 2025-02-05 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
