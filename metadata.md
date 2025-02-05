@@ -1,7 +1,7 @@
 ---
 measure: H.R. 43
 congress: 119
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 43
@@ -37,3 +37,4 @@ Alaska Native Village Municipal Lands Restoration Act of 2025
 - 2025-02-04 — Mr. Westerman moved to suspend the rules and pass the bill.
 - 2025-02-04 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 1 (Roll no. 28). (text: CR H445-446)
 - 2025-02-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 1 (Roll no. 28). (text: CR H445-446)
+- 2025-02-05 — Received in the Senate, read twice.
