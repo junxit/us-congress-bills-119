@@ -1,0 +1,37 @@
+---
+legis-num: S. 421
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 421
+
+> To amend the Agricultural Marketing Act of 1946 to establish country of origin labeling requirements for beef, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “American Beef Labeling Act of 2025”.
+
+## § 2. Country of origin labeling for beef
+
+- **(a)** *Definitions* Section 281 of the Agricultural Marketing Act of 1946 (7 U.S.C. 1638) is amended—
+  - **(1)** by redesignating paragraphs (1) through (7) as paragraphs (2) through (8), respectively;
+  - **(2)** by inserting before paragraph (2) (as so redesignated) the following:
+    > - **(1)** *Beef* The term beef means meat produced from cattle (including veal).
+
+  - **(3)** in subparagraph (A) of paragraph (2) (as so redesignated)—
+    - **(A)** in clause (i), by inserting “, beef,” after “lamb”; and
+    - **(B)** in clause (ii), by inserting “, ground beef,” after “lamb”.
+- **(b)** *Notice of country of origin* Section 282(a)(2) of the Agricultural Marketing Act of 1946 (7 U.S.C. 1638a(a)(2)) is amended—
+  - **(1)** in the paragraph heading, by inserting “beef,” after “for”;
+  - **(2)** in each of subparagraphs (A) through (D), by inserting “beef,” before “lamb” each place it appears; and
+  - **(3)** in subparagraph (E)—
+    - **(A)** in the subparagraph heading, by inserting “beef,” after “Ground”; and
+    - **(B)** by inserting “ground beef,” before “ground lamb” each place it appears.
+- **(c)** *Means of reinstating MCOOL for beef*
+  - **(1)** *Determination of means* Not later than 180 days after the date of enactment of this Act, the United States Trade Representative, in consultation with the Secretary of Agriculture, shall determine a means of reinstating mandatory country of origin labeling for beef in accordance with the amendments made by subsections (a) and (b) that is in compliance with all applicable rules of the World Trade Organization.
+  - **(2)** *Implementation of means* Not later than 1 year after the date of enactment of this Act, the United States Trade Representative and the Secretary of Agriculture shall implement the means determined under paragraph (1).
+- **(d)** *Effective date* The amendments made by subsections (a) and (b) take effect on the earlier of—
+  - **(1)** the date on which the Secretary of Agriculture publishes a determination in the Federal Register that the means determined under paragraph (1) of subsection (c) have been implemented under paragraph (2) of that subsection; and
+  - **(2)** the date that is 1 year after the date of enactment of this Act.
