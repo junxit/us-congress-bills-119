@@ -85,7 +85,7 @@ Section 202(c) of the Controlled Substances Act (21 U.S.C. 812(c)) is amended by
   - **(2)** *Technical correction* Section 302(c)(3) of the Controlled Substances Act (21 U.S.C. 822(c)(3)) is amended by striking “(25)” and inserting “(27)”.
 - **(c)** *Single registration for related research sites* Section 302(e) of the Controlled Substances Act (21 U.S.C. 822(e)) is amended by adding at the end the following:
   > - **(4)**
-  >   - **(A)** Notwithstanding paragraph (1), a person registered to conduct research with a controlled substance under section 303(f) may conduct the research under a single registration if—
+  >   - **(A)** Notwithstanding paragraph (1), a person registered to conduct research with a controlled substance under section 303(g) may conduct the research under a single registration if—
   >     - **(i)** the research occurs exclusively on sites all of which are—
   >       - **(I)** within the same city or county; and
   >       - **(II)** under the control of the same institution, organization, or agency; and
@@ -122,15 +122,15 @@ Section 202(c) of the Controlled Substances Act (21 U.S.C. 812(c)) is amended by
   >   - **(1)** *In general* Except as provided in paragraph (3), a person who is registered to perform research on a controlled substance may perform manufacturing activities with small quantities of that substance, including activities described in paragraph (2), without being required to obtain a manufacturing registration, if—
   >     - **(A)** the activities are performed for the purpose of the research; and
   >     - **(B)** the activities and the quantities of the substance involved in the activities are stated in—
-  >       - **(i)** a notification submitted to the Attorney General under section 303(l);
-  >       - **(ii)** a research protocol filed with an application for registration approval under section 303(f); or
+  >       - **(i)** a notification submitted to the Attorney General under section 303(n);
+  >       - **(ii)** a research protocol filed with an application for registration approval under section 303(g); or
   >       - **(iii)** a notification to the Attorney General that includes—
   >         - **(I)** the name of the registrant; and
   >         - **(II)** an attestation that the research to be conducted with the small quantities of manufactured substance is consistent with the scope of the research that is the basis for the registration.
   >   - **(2)** *Activities included* Activities permitted under paragraph (1) include—
   >     - **(A)** processing the substance to create extracts, tinctures, oils, solutions, derivatives, or other forms of the substance consistent with—
-  >       - **(i)** the information provided as part of a notification submitted to the Attorney General under section 303(l); or
-  >       - **(ii)** a research protocol filed with an application for registration approval under section 303(f); and
+  >       - **(i)** the information provided as part of a notification submitted to the Attorney General under section 303(n); or
+  >       - **(ii)** a research protocol filed with an application for registration approval under section 303(g); and
   >     - **(B)** dosage form development studies performed for the purpose of requesting an investigational new drug exemption under section 505(i) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(i)).
   >   - **(3)** *Exception regarding marihuana* The authority under paragraph (1) to manufacture substances does not include the authority to grow marihuana.
 
@@ -181,9 +181,11 @@ Effective as if included in the enactment of Public Law 117–328—
 - **(b)** *Importation and exportation* Section 1010(b) of the Controlled Substances Import and Export Act (21 U.S.C. 960(b)) is amended—
   - **(1)** in paragraph (1)(F), by inserting “or a fentanyl-related substance” after “any analogue of N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] propanamide”; and
   - **(2)** in paragraph (2)(F), by inserting “or a fentanyl-related substance” after “any analogue of N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] propanamide”.
+- **(c)** *Definition of fentanyl-related substance* Section 102 of the Controlled Substances Act (21 U.S.C. 802) is amended by adding at the end the following:
+  > - **(60)** The term ‘fentanyl-related substance’ has the meaning given the term in subsection (e)(2) of schedule I of section 202(c).
 
 ## § 7. Applicability; other matters
 
-- **(a)** *In general* Irrespective of the date on which the rules required by section 4 are finalized, the amendments made by this Act apply beginning as of the enactment of this Act.
+- **(a)** *In general* Irrespective of the date on which the rules required by section 5 are finalized, the amendments made by this Act apply beginning as of the enactment of this Act.
 - **(b)** *Rule of construction* Nothing in the amendments made by this Act may be construed as evidence that, in applying sections 401(b)(1) and 1010(b) of the Controlled Substances Act (21 U.S.C. 841(b)(1) and 960(b)) with respect to conduct occurring before the date of the enactment of this Act, a fentanyl-related substance (as defined by such amendments) is not an analogue of N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] propanamide.
 - **(c)** *Sense of congress* The Congress agrees with the interpretation of the Controlled Substances Act (21 U.S.C. 801 et seq.) in United States v. McCray, 346 F. Supp. 3d 363 (2018).

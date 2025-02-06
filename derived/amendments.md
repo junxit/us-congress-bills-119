@@ -1,7 +1,7 @@
 ---
 measure: H.R. 27
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-27 amendatory instructions. 14 executed, 13 stated and not applied.
+28 amendatory instructions. 14 executed, 14 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -172,3 +172,4 @@ complete account of the bill's effect, which it is not.
 | `21 U.S.C. § 841` | insert | in subparagraph (B)(vi), by inserting “or a fentanyl-related substance” after “any analogue of N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] propanamide”. | the bill quotes the text inserted but describes where it goes |
 | `21 U.S.C. § 960` | insert | in paragraph (1)(F), by inserting “or a fentanyl-related substance” after “any analogue of N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] propanamide”; and | the bill quotes the text inserted but describes where it goes |
 | `21 U.S.C. § 960` | insert | in paragraph (2)(F), by inserting “or a fentanyl-related substance” after “any analogue of N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] propanamide”. | the bill quotes the text inserted but describes where it goes |
+| `21 U.S.C. § 802` | add-at-end | Section 102 of the Controlled Substances Act (21 U.S.C. 802) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
