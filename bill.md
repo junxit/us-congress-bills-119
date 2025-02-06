@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 1099
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1099
+
+> To clarify the applicability of the Freedom of Information Act to certain federally established entities, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Consistent Legal Expectations and Access to Records Act” or the “CLEAR Act.”
+
+## § 2. Application of the freedom of information act to certain federally established entities
+
+- **(a)** Section 552(f)(1) of title 5, United States Code, is amended by inserting after “in the Executive Office of the President” the following: “, and any entity established under section 3161 of this title”.
+- **(b)** The amendment made by subsection (a) shall apply to any request made under section 552 of title 5, United States Code, on or after the date of enactment of this Act, regardless of when the records requested were created.
