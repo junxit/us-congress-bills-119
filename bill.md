@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 1088
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1088
+
+> To provide for the use of funds for deportation purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Restoring American Sovereignty Act”.
+
+## § 2. Use of funds for deportation purposes
+
+Notwithstanding any other provision of law, funds paused pursuant to Executive Order 14169 (January 20, 2025; 90 Fed. Reg. 8619) may be made available and used by the President to deport illegal aliens from the United States.
