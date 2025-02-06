@@ -1,7 +1,7 @@
 ---
 measure: H.R. 837
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 837
@@ -16,9 +16,10 @@ To require the Secretary of Agriculture to convey the Pleasant Valley Ranger Dis
 
 - Rep. Crane, Elijah [R-AZ-2] (C001132)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -31,3 +32,4 @@ To require the Secretary of Agriculture to convey the Pleasant Valley Ranger Dis
 - 2025-02-05 — Mr. Westerman moved to suspend the rules and pass the bill.
 - 2025-02-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H480)
 - 2025-02-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H480)
+- 2025-02-06 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
