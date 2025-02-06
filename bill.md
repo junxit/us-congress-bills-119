@@ -1,0 +1,26 @@
+---
+legis-num: H.R. 1058
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1058
+
+> To authorize the use of certain Department of Justice grants to purchase and operate unmanned aircraft systems to benefit public safety.
+
+## § 1. Short title
+
+This Act may be cited as the “Directing Resources for Officers Navigating Emergencies Act of 2025” or the “DRONE Act of 2025”.
+
+## § 2. Use of grant funds for unmanned aircraft
+
+- **(a)** *Byrne grants* Section 501(a)(1) of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10152(a)(1)) is amended by adding at the end the following:
+  > - **(J)** Programs to purchase and operate unmanned aircraft systems (as such term is defined in section 44801 of title 49, United States Code) to benefit public safety.
+
+- **(b)** *COPS grants* Section 1701(b) of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10381(b)) is amended—
+  - **(1)** by redesignating paragraphs (23) and (24) as paragraphs (24) and (25), respectively;
+  - **(2)** by inserting after paragraph (22) the following:
+    > - **(23)** to purchase and operate unmanned aircraft systems (as such term is defined in section 44801 of title 49, United States Code) to benefit public safety;
+
+  - **(3)** in paragraph (24), as so redesignated, by striking “(22)” and inserting “(23)”.
