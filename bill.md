@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 1113
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1113
+
+> To amend the Internal Revenue Code of 1986 to allow a 3-year recovery period for all race horses.
+
+## § 1. Short title
+
+This Act may be cited as the “Race Horse Cost Recovery Act of 2025”.
+
+## § 2. Three-year depreciation for race horses
+
+- **(a)** *In general* Section 168(e)(3)(A)(i) of the Internal Revenue Code of 1986 is amended to read as follows:
+  > - **(i)** any race horse,
+
+- **(b)** *Effective date* The amendments made by this section shall apply to property placed in service after December 31, 2022.
