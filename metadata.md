@@ -1,7 +1,7 @@
 ---
 measure: H.R. 29
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 29
@@ -94,3 +94,6 @@ Laken Riley Act
 - 2025-01-07 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 29, the Chair put the question on passage of the bill and by voice vote, announced that the ayes had prevailed. Mr. Raskin demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
 - 2025-01-07 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 264 - 159 (Roll no. 6). (text: CR H53-54)
 - 2025-01-07 — The previous question was ordered pursuant to the rule.
+- 2025-01-08 — Received in the Senate.
+- 2025-02-06 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2025-02-10 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 10.
