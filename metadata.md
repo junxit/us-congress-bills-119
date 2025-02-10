@@ -1,7 +1,7 @@
 ---
 measure: H.R. 27
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 27
@@ -80,10 +80,11 @@ HALT Fentanyl Act
 - Rep. McGuire, John [R-VA-5] (M001239)
 - Rep. Begich, Nicholas [R-AK-At Large] (B001323)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Energy and Commerce Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (2)
 
@@ -118,3 +119,4 @@ HALT Fentanyl Act
 - 2025-02-06 — Roll call votes on amendments in House
 - 2025-02-06 — Rule provides for consideration of H.R. 27 with 1 hour of general debate. Motion to recommit allowed. The resolution makes in order only the further amendment printed in Part B of the Rules Committee report.
 - 2025-02-06 — The previous question was ordered on the amendment and the bill pursuant to the rule.
+- 2025-02-10 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
