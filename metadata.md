@@ -1,7 +1,7 @@
 ---
 measure: H.R. 386
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 386
@@ -16,6 +16,10 @@ Chinese Currency Accountability Act of 2025
 
 - Rep. Davidson, Warren [R-OH-8] (D000626)
 
+## Cosponsors (1)
+
+- Rep. Meuser, Daniel [R-PA-9] (M001204)
+
 ## Committees (1)
 
 - House — Financial Services Committee
@@ -25,3 +29,9 @@ Chinese Currency Accountability Act of 2025
 - 2025-01-14 — Introduced in House
 - 2025-01-14 — Introduced in House
 - 2025-01-14 — Referred to the House Committee on Financial Services.
+- 2025-02-10 — Considered under suspension of the rules. (consideration: CR H595-596)
+- 2025-02-10 — DEBATE - The House proceeded with forty minutes of debate on H.R. 386.
+- 2025-02-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-02-10 — Mr. Hill (AR) moved to suspend the rules and pass the bill.
+- 2025-02-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H595)
+- 2025-02-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H595)
