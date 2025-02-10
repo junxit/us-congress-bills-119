@@ -1,7 +1,7 @@
 ---
 measure: H.R. 26
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 26
@@ -37,10 +37,11 @@ Protecting American Energy Production Act
 - Rep. Begich, Nicholas [R-AK-At Large] (B001323)
 - Rep. Babin, Brian [R-TX-36] (B001291)
 
-## Committees (2)
+## Committees (3)
 
 - House — Natural Resources Committee
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (2)
 
@@ -62,3 +63,4 @@ Protecting American Energy Production Act
 - 2025-02-07 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 226 - 188 (Roll no. 35).
 - 2025-02-07 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2025-02-07 — The previous question was ordered pursuant to the rule.
+- 2025-02-10 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
