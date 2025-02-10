@@ -1,7 +1,7 @@
 ---
 measure: S. 68
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -26,11 +26,11 @@ to guess them.
 
 ### 15 U.S.C. § 9053
 
-> in subsection (h), by striking “the date 5 years after March 27, 2020” and inserting “September 30, 2030”; and
+> in subsection (h), by striking “the date 5 years after March 27, 2020the enactment of this Act” and inserting “September 30, 2030”; and
 
 | | |
 |---|---|
-| Removed | `the date 5 years after March 27, 2020` |
+| Removed | `the date 5 years after March 27, 2020the enactment of this Act` |
 | Inserted | `September 30, 2030` |
 
 ## Stated, not applied
@@ -42,7 +42,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `15 U.S.C. § 9053` | insert | by inserting “or the Administrator of the Small Business Administration (referred to in this section as the Administrator)” after “the Secretary of the Treasury”; | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 9053` | insert | by inserting “or the Administrator of the Small Business Administration (referred to in this sectionsubsection as the Administrator)” after “the Secretary of the Treasury”; | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 9053` | insert | by inserting “or the Administrator” after “established by the Secretary”; | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 9053` | insert | by inserting “or any assistance provided under any covered program” after “under this Act” each place that term appears; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 9053` | insert | by inserting “or the Administrator” after “management by the Secretary”; | the bill quotes the text inserted but describes where it goes |
