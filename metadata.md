@@ -1,7 +1,7 @@
 ---
 measure: S. 273
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 273
@@ -30,3 +30,7 @@ Small Business Child Care Investment Act
 
 - 2025-01-28 — Introduced in Senate
 - 2025-01-28 — Read twice and referred to the Committee on Small Business and Entrepreneurship.
+- 2025-02-05 — Committee on Small Business and Entrepreneurship. Ordered to be reported with an amendment favorably.
+- 2025-02-10 — Committee on Small Business and Entrepreneurship. Reported by Senator Ernst with an amendment. Without written report.
+- 2025-02-10 — Committee on Small Business and Entrepreneurship. Reported by Senator Ernst with an amendment. Without written report.
+- 2025-02-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 9.

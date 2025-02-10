@@ -44,7 +44,7 @@ This Act may be cited as the “Small Business Child Care Investment Act”.
 
   - **(2)** by adding at the end the following:
     > - **(b)** *Nonprofit child care providers*
-    >   - **(1)** *Definition* In this subsection, the term “covered nonprofit child care provider” has the meaning given that term in section 3(a)(10) of the Small Business Act (15 U.S.C. 636(a)(10)).
+    >   - **(1)** *Definition* In this subsection, the term “covered nonprofit child care provider” has the meaning given that term in section 3(a)(10) of the Small Business Act (15 U.S.C. 636(a)(10)632(a)(10)).
     >   - **(2)** *Eligibility for certain loan programs*
     >     - **(A)** *In general* Notwithstanding any other provision of this title, a covered nonprofit child care provider shall be deemed to be a small business concern for purposes of loans and financings under this title.
     >     - **(B)** *Prohibition on direct lending* A loan or financing to a covered nonprofit child care provider made under the authority under subparagraph (A) shall be made in cooperation with banks, certified development companies, or other financial institutions through agreements to participate on a deferred (guaranteed) basis. The Administrator is prohibited from making a direct loan or financing or entering an agreement to participate on an immediate basis for a loan or financing made to a covered nonprofit child care provider under the authority under subparagraph (A).
