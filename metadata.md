@@ -1,7 +1,7 @@
 ---
 measure: H.R. 224
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 224
@@ -16,7 +16,7 @@ Disabled Veterans Housing Support Act
 
 - Rep. De La Cruz, Monica [R-TX-15] (D000594)
 
-## Cosponsors (8)
+## Cosponsors (11)
 
 - Rep. Sherman, Brad [D-CA-32] (S000344)
 - Rep. Emmer, Tom [R-MN-6] (E000294)
@@ -26,6 +26,9 @@ Disabled Veterans Housing Support Act
 - Rep. Meuser, Daniel [R-PA-9] (M001204)
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 - Rep. Sessions, Pete [R-TX-17] (S000250)
+- Rep. Stauber, Pete [R-MN-8] (S001212)
+- Rep. Nunn, Zachary [R-IA-3] (N000193)
+- Rep. Begich, Nicholas [R-AK-At Large] (B001323)
 
 ## Committees (1)
 
@@ -36,3 +39,9 @@ Disabled Veterans Housing Support Act
 - 2025-01-07 — Introduced in House
 - 2025-01-07 — Introduced in House
 - 2025-01-07 — Referred to the House Committee on Financial Services.
+- 2025-02-10 — Considered under suspension of the rules. (consideration: CR H593-595)
+- 2025-02-10 — DEBATE - The House proceeded with forty minutes of debate on H.R. 224.
+- 2025-02-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-02-10 — Mr. Hill (AR) moved to suspend the rules and pass the bill.
+- 2025-02-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H593)
+- 2025-02-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H593)
