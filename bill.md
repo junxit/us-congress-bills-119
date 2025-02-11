@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 1209
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1209
+
+> To require the Secretary of the Treasury to submit to the Congress completed proposals for the termination of the conservatorships of Fannie Mae and Freddie Mac, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “End of GSE Conservatorship Preparation Act of 2025”.
+
+## § 2. Proposals for termination of conservatorships
+
+- **(a)** *Report* Not later than 30 days after the date of the enactment of this Act, the Secretary of the Treasury shall submit a report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate that identifies whether—
+  - **(1)** the Department of the Treasury completed the proposal described in article IX of the Letter Agreement to the Amended and Restated Preferred Stock Purchase Agreement between the United States Department of the Treasury and the Federal National Mortgage Association, dated January 14, 2021, and the proposal described in article IX of the Letter Agreement to the Amended and Restated Preferred Stock Purchase Agreement between the United States Department of the Treasury and the Federal Home Loan Mortgage Corporation, dated January 14, 2021; and
+  - **(2)** either or both of such proposals were completed and, if so, includes such completed proposal or proposals.
+- **(b)** *Proposals* If the report required under subsection (a) indicates that either or both of such proposals were not completed, the Secretary of the Treasury shall—
+  - **(1)** include in such report the latest incomplete draft or version, if any, of such incomplete proposal or proposals; and
+  - **(2)** not later than 90 days after the date of the enactment of this Act, complete and submit such proposal or proposals to the committees identified in subsection (a).
