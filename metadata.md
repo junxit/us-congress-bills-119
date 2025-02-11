@@ -1,7 +1,7 @@
 ---
 measure: H.R. 224
 congress: 119
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 224
@@ -47,3 +47,14 @@ Disabled Veterans Housing Support Act
 - 2025-02-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H593)
 - 2025-02-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H593)
 - 2025-02-11 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2026-01-06 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S52)
+- 2026-01-06 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2026-01-06 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2026-01-06 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2026-01-07 — Message on Senate action sent to the House.
+- 2026-01-13 — Presented to President.
+- 2026-01-13 — Presented to President.
+- 2026-01-20 — Became Public Law No: 119-70.
+- 2026-01-20 — Became Public Law No: 119-70.
+- 2026-01-20 — Signed by President.
+- 2026-01-20 — Signed by President.
