@@ -1,7 +1,7 @@
 ---
 measure: H.R. 386
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 386
@@ -20,9 +20,10 @@ Chinese Currency Accountability Act of 2025
 
 - Rep. Meuser, Daniel [R-PA-9] (M001204)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -35,3 +36,4 @@ Chinese Currency Accountability Act of 2025
 - 2025-02-10 — Mr. Hill (AR) moved to suspend the rules and pass the bill.
 - 2025-02-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H595)
 - 2025-02-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H595)
+- 2025-02-11 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
