@@ -1,7 +1,7 @@
 ---
 measure: H.R. 975
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 975
@@ -41,9 +41,10 @@ Credit Union Board Modernization Act
 - Rep. Peters, Scott H. [D-CA-50] (P000608)
 - Rep. Lucas, Frank D. [R-OK-3] (L000491)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -56,3 +57,4 @@ Credit Union Board Modernization Act
 - 2025-02-10 — Mr. Hill (AR) moved to suspend the rules and pass the bill.
 - 2025-02-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H601-602)
 - 2025-02-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H601-602)
+- 2025-02-11 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
