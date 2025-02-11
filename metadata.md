@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 11
 congress: 119
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 11
@@ -24,3 +24,6 @@ Providing for a joint session of Congress to receive a message from the Presiden
 - 2025-02-11 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection. (text: CR H631)
 - 2025-02-11 — Received in the Senate.
 - 2025-02-11 — Submitted in House
+- 2025-02-19 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.
+- 2025-02-19 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S1038)
+- 2025-02-20 — Message on Senate action sent to the House.
