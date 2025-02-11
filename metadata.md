@@ -1,7 +1,7 @@
 ---
 measure: H.R. 736
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 736
@@ -31,9 +31,10 @@ Protect Small Businesses from Excessive Paperwork Act of 2025
 - Rep. Meuser, Daniel [R-PA-9] (M001204)
 - Rep. Downing, Troy [R-MT-2] (D000634)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -52,3 +53,4 @@ Protect Small Businesses from Excessive Paperwork Act of 2025
 - 2025-02-10 — Mr. Hill (AR) moved to suspend the rules and pass the bill.
 - 2025-02-10 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 408 - 0 (Roll no. 37). (text: CR H599)
 - 2025-02-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 408 - 0 (Roll no. 37). (text: CR H599)
+- 2025-02-11 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
