@@ -1,7 +1,7 @@
 ---
 measure: H.R. 965
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 965
@@ -65,9 +65,10 @@ Housing Unhoused Disabled Veterans Act
 - Rep. Lawler, Michael [R-NY-17] (L000599)
 - Rep. Friedman, Laura [D-CA-30] (F000483)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -80,3 +81,4 @@ Housing Unhoused Disabled Veterans Act
 - 2025-02-10 — Mr. Hill (AR) moved to suspend the rules and pass the bill.
 - 2025-02-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H603)
 - 2025-02-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H603)
+- 2025-02-11 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
