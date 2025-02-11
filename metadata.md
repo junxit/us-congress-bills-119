@@ -1,7 +1,7 @@
 ---
 measure: H.R. 692
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 692
@@ -29,9 +29,10 @@ China Exchange Rate Transparency Act of 2025
 - Rep. Thompson, Glenn [R-PA-15] (T000467)
 - Rep. Bice, Stephanie I. [R-OK-5] (B000740)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -50,3 +51,4 @@ China Exchange Rate Transparency Act of 2025
 - 2025-02-10 — Mr. Hill (AR) moved to suspend the rules and pass the bill, as amended.
 - 2025-02-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 388 - 7 (Roll no. 36). (text: CR H597)
 - 2025-02-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 388 - 7 (Roll no. 36). (text: CR H597)
+- 2025-02-11 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
