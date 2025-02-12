@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 4
 congress: 119
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 4
@@ -16,7 +16,7 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Sen. Cruz, Ted [R-TX] (C001098)
 
-## Cosponsors (11)
+## Cosponsors (14)
 
 - Sen. Scott, Rick [R-FL] (S001217)
 - Sen. Cassidy, Bill [R-LA] (C001075)
@@ -29,6 +29,9 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 - Sen. Banks, Jim [R-IN] (B001299)
 - Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Justice, James C. [R-WV] (J000312)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
 
 ## Committees (1)
 
@@ -38,3 +41,6 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - 2025-01-23 — Introduced in Senate
 - 2025-01-23 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2025-02-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 12.
+- 2025-02-12 — Senate Committee on Energy and Natural Resources discharged, by petition, pursuant to 5 U.S.C. 802(c).
+- 2025-02-12 — Senate Committee on Energy and Natural Resources discharged, by petition, pursuant to 5 U.S.C. 802(c).
