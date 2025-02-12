@@ -1,0 +1,25 @@
+---
+legis-num: H.R. 1252
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1252
+
+> To direct the Secretary of State to submit to Congress a report on funding provided by the United States to the United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA), and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Uncovering UNRWA’s Terrorist Crimes Act”.
+
+## § 2. Report
+
+Not later than 90 days after the date of the enactment of this Act, the Secretary of State shall submit to Congress a report that—
+
+- **(1)** identifies the total amounts of funding provided by the United States to the United Nations Relief and Works Agency for Palestine Refugees in the Near East (UNRWA) during fiscal years 2020 through 2024, including an identification of such amounts disaggregated by calendar month of such fiscal years; and
+- **(2)** a description of how such funds were spent.
+
+## § 3. Prohibition
+
+Effective beginning on the date of the enactment of this Act, no Federal funds may be used to provide funding, directly or indirectly, to UNRWA.
