@@ -1,7 +1,7 @@
 ---
 measure: S. 32
 congress: 119
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 32
@@ -28,3 +28,7 @@ LACA
 
 - 2025-01-08 — Introduced in Senate
 - 2025-01-08 — Read twice and referred to the Committee on the Judiciary.
+- 2025-02-12 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S932; text: CR S932)
+- 2025-02-12 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2025-02-12 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2025-02-12 — Senate Committee on the Judiciary discharged by Unanimous Consent.
