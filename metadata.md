@@ -1,7 +1,7 @@
 ---
 measure: S. 146
 congress: 119
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 146
@@ -16,7 +16,7 @@ TAKE IT DOWN Act
 
 - Sen. Cruz, Ted [R-TX] (C001098)
 
-## Cosponsors (18)
+## Cosponsors (21)
 
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 - Sen. Capito, Shelley Moore [R-WV] (C001047)
@@ -36,6 +36,9 @@ TAKE IT DOWN Act
 - Sen. Warnock, Raphael G. [D-GA] (W000790)
 - Sen. Heinrich, Martin [D-NM] (H001046)
 - Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
 
 ## Committees (1)
 
@@ -45,3 +48,8 @@ TAKE IT DOWN Act
 
 - 2025-01-16 — Introduced in Senate
 - 2025-01-16 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2025-02-13 — Message on Senate action sent to the House.
+- 2025-02-13 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S988; text: CR S988-990)
+- 2025-02-13 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2025-02-13 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2025-02-13 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
