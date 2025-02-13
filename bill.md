@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 1360
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1360
+
+> To require benefit eligibility determinations to be made within a certain period of time.
+
+## § 1. Short title
+
+This Act may be cited as the “Officer John Barnes Act”.
+
+## § 2. Eligibility determination
+
+Section 1205 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10285) is amended by adding at the end the following:
+
+> - **(f)** Not later than 270 calendar days after receiving a claim filed under this subpart, the Bureau shall inform the claimant of the Bureau’s determination as to the claimant’s benefit eligibility.
