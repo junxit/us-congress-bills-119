@@ -1,0 +1,140 @@
+---
+measure: H.R. 1307
+congress: 119
+version: Introduced in House
+---
+
+# H.R. 1307
+
+Office of Gun Violence Prevention Act of 2025
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Frost, Maxwell [D-FL-10] (F000476)
+
+## Cosponsors (110)
+
+- Rep. Smith, Adam [D-WA-9] (S000510)
+- Rep. Espaillat, Adriano [D-NY-13] (E000297)
+- Rep. Green, Al [D-TX-9] (G000553)
+- Rep. Salinas, Andrea [D-OR-6] (S001226)
+- Rep. Balint, Becca [D-VT-At Large] (B001318)
+- Rep. Thompson, Bennie G. [D-MS-2] (T000193)
+- Rep. Pingree, Chellie [D-ME-1] (P000597)
+- Rep. Deluzio, Christopher R. [D-PA-17] (D000530)
+- Rep. García, Jesús G. "Chuy" [D-IL-4] (G000586)
+- Rep. Fields, Cleo [D-LA-6] (F000110)
+- Rep. Goldman, Daniel S. [D-NY-10] (G000599)
+- Rep. Davis, Danny K. [D-IL-7] (D000096)
+- Rep. Min, Dave [D-CA-47] (M001241)
+- Rep. Dingell, Debbie [D-MI-6] (D000624)
+- Rep. Wasserman Schultz, Debbie [D-FL-25] (W000797)
+- Rep. Ross, Deborah K. [D-NC-2] (R000305)
+- Rep. Ramirez, Delia C. [D-IL-3] (R000617)
+- Rep. DeGette, Diana [D-CO-1] (D000197)
+- Rep. Titus, Dina [D-NV-1] (T000468)
+- Rep. Beyer, Donald S. [D-VA-8] (B001292)
+- Rep. Matsui, Doris O. [D-CA-7] (M001163)
+- Rep. Evans, Dwight [D-PA-3] (E000296)
+- Rep. Case, Ed [D-HI-1] (C001055)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Cleaver, Emanuel [D-MO-5] (C001061)
+- Rep. Sykes, Emilia Strong [D-OH-13] (S001223)
+- Rep. Swalwell, Eric [D-CA-14] (S001193)
+- Rep. Mrvan, Frank J. [D-IN-1] (M001214)
+- Rep. Pallone, Frank [D-NJ-6] (P000034)
+- Rep. Wilson, Frederica S. [D-FL-24] (W000808)
+- Rep. Amo, Gabe [D-RI-1] (A000380)
+- Rep. Cisneros, Gilbert Ray, Jr. [D-CA-31] (C001123)
+- Rep. Meng, Grace [D-NY-6] (M001188)
+- Rep. Casar, Greg [D-TX-35] (C001131)
+- Rep. Moore, Gwen [D-WI-4] (M001160)
+- Rep. Stevens, Haley M. [D-MI-11] (S001215)
+- Rep. Johnson, Henry C. "Hank" [D-GA-4] (J000288)
+- Rep. Scholten, Hillary J. [D-MI-3] (S001221)
+- Rep. Hayes, Jahana [D-CT-5] (H001081)
+- Rep. Raskin, Jamie [D-MD-8] (R000606)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. Moskowitz, Jared [D-FL-23] (M001217)
+- Rep. Crockett, Jasmine [D-TX-30] (C001130)
+- Rep. McClellan, Jennifer L. [D-VA-4] (M001227)
+- Rep. Nadler, Jerrold [D-NY-12] (N000002)
+- Rep. Tokuda, Jill N. [D-HI-2] (T000487)
+- Rep. Costa, Jim [D-CA-21] (C001059)
+- Rep. Gomez, Jimmy [D-CA-34] (G000585)
+- Rep. Castro, Joaquin [D-TX-20] (C001091)
+- Rep. Neguse, Joe [D-CO-2] (N000191)
+- Rep. Larson, John B. [D-CT-1] (L000557)
+- Rep. Garamendi, John [D-CA-8] (G000559)
+- Rep. Olszewski, Johnny [D-MD-2] (O000176)
+- Rep. Beatty, Joyce [D-OH-3] (B001281)
+- Rep. Vargas, Juan [D-CA-52] (V000130)
+- Rep. Brownley, Julia [D-CA-26] (B001285)
+- Rep. Johnson, Julie [D-TX-32] (J000310)
+- Rep. Castor, Kathy [D-FL-14] (C001066)
+- Rep. Morrison, Kelly [D-MN-3] (M001234)
+- Rep. Mullin, Kevin [D-CA-15] (M001225)
+- Rep. Schrier, Kim [D-WA-8] (S001216)
+- Rep. McIver, LaMonica [D-NJ-10] (M001229)
+- Rep. Friedman, Laura [D-CA-30] (F000483)
+- Rep. Underwood, Lauren [D-IL-14] (U000040)
+- Rep. Doggett, Lloyd [D-TX-37] (D000399)
+- Rep. Frankel, Lois [D-FL-22] (F000462)
+- Rep. Trahan, Lori [D-MA-3] (T000482)
+- Rep. McBath, Lucy [D-GA-6] (M001208)
+- Rep. Dean, Madeleine [D-PA-4] (D000631)
+- Rep. DeSaulnier, Mark [D-CA-10] (D000623)
+- Rep. Pocan, Mark [D-WI-2] (P000607)
+- Rep. Takano, Mark [D-CA-39] (T000472)
+- Rep. Scanlon, Mary Gay [D-PA-5] (S001205)
+- Rep. Dexter, Maxine [D-OR-3] (D000635)
+- Rep. Waters, Maxine [D-CA-43] (W000187)
+- Rep. Quigley, Mike [D-IL-5] (Q000023)
+- Rep. McGarvey, Morgan [D-KY-3] (M001220)
+- Rep. Williams, Nikema [D-GA-5] (W000788)
+- Rep. Torres, Norma J. [D-CA-35] (T000474)
+- Rep. Tonko, Paul [D-NY-20] (T000469)
+- Rep. Jayapal, Pramila [D-WA-7] (J000298)
+- Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
+- Rep. Torres, Ritchie [D-NY-15] (T000486)
+- Rep. Garcia, Robert [D-CA-42] (G000598)
+- Rep. Menendez, Robert [D-NJ-8] (M001226)
+- Rep. Kelly, Robin L. [D-IL-2] (K000385)
+- Rep. Jacobs, Sara [D-CA-51] (J000305)
+- Rep. McBride, Sarah [D-DE-At Large] (M001238)
+- Rep. Magaziner, Seth [D-RI-2] (M001223)
+- Rep. Moulton, Seth [D-MA-6] (M001196)
+- Rep. Cherfilus-McCormick, Sheila [D-FL-20] (C001127)
+- Rep. Brown, Shontel M. [D-OH-11] (B001313)
+- Rep. Thanedar, Shri [D-MI-13] (T000488)
+- Rep. Lynch, Stephen F. [D-MA-8] (L000562)
+- Rep. Subramanyam, Suhas [D-VA-10] (S001230)
+- Rep. Lee, Summer L. [D-PA-12] (L000602)
+- Rep. DelBene, Suzan K. [D-WA-1] (D000617)
+- Rep. Bonamici, Suzanne [D-OR-1] (B001278)
+- Rep. Kamlager-Dove, Sydney [D-CA-37] (K000400)
+- Rep. Turner, Sylvester [D-TX-18] (T000489)
+- Rep. Garcia, Sylvia R. [D-TX-29] (G000587)
+- Rep. Lieu, Ted [D-CA-36] (L000582)
+- Rep. Kennedy, Timothy M. [D-NY-26] (K000402)
+- Rep. Carter, Troy A. [D-LA-2] (C001125)
+- Rep. Foushee, Valerie P. [D-NC-4] (F000477)
+- Rep. Escobar, Veronica [D-TX-16] (E000299)
+- Rep. Keating, William R. [D-MA-9] (K000375)
+- Rep. Ansari, Yassamin [D-AZ-3] (A000381)
+- Rep. Clarke, Yvette D. [D-NY-9] (C001067)
+- Rep. Landsman, Greg [D-OH-1] (L000601)
+
+## Committees (1)
+
+- House — Judiciary Committee
+
+## Actions
+
+- 2025-02-13 — Introduced in House
+- 2025-02-13 — Introduced in House
+- 2025-02-13 — Referred to the House Committee on the Judiciary.
