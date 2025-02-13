@@ -1,0 +1,24 @@
+---
+legis-num: H.R. 1310
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1310
+
+> To limit the closure or consolidation of any United States Postal Service processing and distribution center in States, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Postal Operations Stay Timely And Local Act” or the “POSTAL Act”.
+
+## § 2. Limitation on closing or consolidating Postal Service processing and distribution centers in States
+
+- **(a)** *In general* The United States Postal Service may not close, consolidate, downgrade, or take any other similar action with respect to any processing and distribution center in a State if such action would result in no such center being located in that State.
+- **(b)** *Definitions* In this section—
+  - **(1)** the term “processing and distribution center” means a central mail facility that—
+    - **(A)** distributes and dispatches part or all of both incoming mail and outgoing mail for a designated service area;
+    - **(B)** provides instructions on the preparation of collection mail, dispatch schedules, and sorting plan requirements to mailers; and
+    - **(C)** is a sectional center facility, a general mail facility, or a dedicated mail processing facility without a station or branch; and
+  - **(2)** the term “State” means the 50 States and the District of Columbia.
