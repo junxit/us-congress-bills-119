@@ -1,7 +1,7 @@
 ---
 measure: S. 146
 congress: 119
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 146
@@ -44,6 +44,10 @@ TAKE IT DOWN Act
 
 - Senate — Commerce, Science, and Transportation Committee
 
+## Recorded votes (1)
+
+- 2025-04-28 — [House 119-1-104](votes/house-119-1-0104.md) — On Motion to Suspend the Rules and Pass — **Passed** (409–2)
+
 ## Actions
 
 - 2025-01-16 — Introduced in Senate
@@ -53,3 +57,19 @@ TAKE IT DOWN Act
 - 2025-02-13 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
 - 2025-02-13 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
 - 2025-02-13 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2025-02-14 — Held at the desk.
+- 2025-02-14 — Received in the House.
+- 2025-04-28 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2025-04-28 — Considered as unfinished business. (consideration: CR H1669)
+- 2025-04-28 — Considered under suspension of the rules. (consideration: CR H1644-1643)
+- 2025-04-28 — DEBATE - The House proceeded with forty minutes of debate on S. 146.
+- 2025-04-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-04-28 — Mr. Bilirakis moved to suspend the rules and pass the bill.
+- 2025-04-28 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 2 (Roll no. 104). (text: CR H1644-1645)
+- 2025-04-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 2 (Roll no. 104). (text: CR H1644-1645: 1)
+- 2025-05-19 — Became Public Law No: 119-12.
+- 2025-05-19 — Became Public Law No: 119-12.
+- 2025-05-19 — Presented to President.
+- 2025-05-19 — Presented to President.
+- 2025-05-19 — Signed by President.
+- 2025-05-19 — Signed by President.
