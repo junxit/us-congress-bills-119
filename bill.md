@@ -1,0 +1,30 @@
+---
+legis-num: S. 592
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 592
+
+> To amend the Small Business Act to require that plain writing statements regarding the solicitation of subcontractors be included in certain subcontracting plans, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Simplifying Subcontracting Act”.
+
+## § 2. Plain writing application requirements for solicitation of subcontractors
+
+- **(a)** *In general* Section 8(d) of the Small Business Act (15 U.S.C. 637(d)) is amended—
+  - **(1)** in paragraph (6)—
+    - **(A)** in subparagraph (H)(ii), by striking “and” at the end;
+    - **(B)** in subparagraph (I)(ii), by striking the period at the end and inserting “; and”; and
+    - **(C)** by adding at the end the following:
+      > - **(J)** a representation that—
+      >   - **(i)** the offeror or bidder will communicate all solicitations of subcontracts in plain writing (as defined in section 3 of the Plain Writing Act of 2010 (Public Law 111–274; 124 Stat. 2861)) so that the solicitation is easily understood by small business concerns seeking to obtain a subcontracting opportunity from the offeror or bidder; and
+      >   - **(ii)** the offeror or bidder will include the plain writing requirement described in clause (i) in all subcontracts that offer subcontracting opportunities.
+
+  - **(2)** by adding at the end the following:
+    > - **(18)** *Compliance with plain writing requirement* If the Administrator determines that a prime contractor failed to communicate any solicitation of a subcontract in plain writing in accordance with paragraph (6)(J), the prime contractor shall communicate a new solicitation of the subcontract in plain writing not later than 30 days after the date on which the Administrator made that determination.
+
+- **(b)** *Rulemaking* Not later than 90 days after the date of enactment of this Act, the Administrator of the Small Business Administration shall promulgate regulations to carry out paragraphs (6)(J) and (18) of section 8(d) of the Small Business Act (15 U.S.C. 637(d)), as added by subsection (a).
