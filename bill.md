@@ -1,0 +1,33 @@
+---
+legis-num: H.R. 1312
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1312
+
+> To amend the Immigration and Nationality Act to provide that an alien who has been convicted of a crime is ineligible for asylum, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “No Asylum for Criminals Act of 2025”.
+
+## § 2. Aliens convicted of crimes ineligible for asylum
+
+Clause (ii) of section 208(b)(2) of the Immigration and Nationality Act (8 U.S.C. 1158) is amended—
+
+- **(1)** by amending clause (ii) of subparagraph (A) to read as follows:
+  > - **(ii)** except as provided in subparagraph (B), the alien has been finally convicted of a felony or misdemeanor;
+
+- **(2)** by amending subparagraph (B) to read as follows:
+  > - **(B)** *Exception* The Secretary of Homeland Security may designate by regulation political offenses committed outside the United States that will be not considered to be a crime described in clause (ii). The authority under this subparagraph is limited to political offenses committed outside the United States.
+
+- **(3)** by adding at the end the following:
+  > - **(E)** *Definitions* In this paragraph:
+  >   - **(i)** The term “felony” means—
+  >     - **(I)** any crime defined as a felony by the relevant jurisdiction (Federal, State, tribal, or local) of conviction; or
+  >     - **(II)** any crime punishable by more than one year of imprisonment.
+  >   - **(ii)** The term “misdemeanor” means—
+  >     - **(I)** any crime defined as a misdemeanor by the relevant jurisdiction (Federal, State, tribal, or local) of conviction; or
+  >     - **(II)** any crime not punishable by more than one year of imprisonment.
