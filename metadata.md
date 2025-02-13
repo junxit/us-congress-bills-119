@@ -1,7 +1,7 @@
 ---
 measure: H.R. 77
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 77
@@ -31,10 +31,11 @@ Midnight Rules Relief Act
 - Del. Moylan, James C. [R-GU-At Large] (M001219)
 - Rep. Hurd, Jeff [R-CO-3] (H001100)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Rules Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (2)
 
@@ -59,3 +60,4 @@ Midnight Rules Relief Act
 - 2025-02-12 — Rule provides for consideration of H.R. 77 with 1 hour of general debate. Motion to recommit allowed. Bill is closed to amendments.
 - 2025-02-12 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2025-02-12 — The previous question was ordered pursuant to the rule.
+- 2025-02-13 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
