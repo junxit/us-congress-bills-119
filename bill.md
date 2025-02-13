@@ -1,0 +1,35 @@
+---
+legis-num: S. 581
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 581
+
+> To amend the Agricultural Marketing Act of 1946 with respect to mandatory reporting of dairy products processing costs.
+
+## § 1. Short title
+
+This Act may be cited as the “Fair Milk Pricing for Farmers Act”.
+
+## § 2. Mandatory reporting of dairy products processing costs
+
+Section 273 of the Agricultural Marketing Act of 1946 (7 U.S.C. 1637b) is amended—
+
+- **(1)** in subsection (b)—
+  - **(A)** in paragraph (1)—
+    - **(i)** in subparagraph (A)(ii), by striking “and” at the end;
+    - **(ii)** in subparagraph (B), by striking the period at the end and inserting “; and”; and
+    - **(iii)** by adding at the end the following:
+      > - **(C)** for each manufacturer required to report under subparagraph (A) for any product, require that manufacturer to report production cost and product yield information, as determined by the Secretary, for all products processed in the same facility or facilities.
+
+  - **(B)** in paragraph (2)(A), by inserting “products and” after “those”; and
+- **(2)** in subsection (d)—
+  - **(A)** in the subsection heading, by striking “Electronic Reporting” and inserting “Reporting”;
+  - **(B)** in paragraph (1)—
+    - **(i)** in the paragraph heading, by striking “Electronic reporting” and inserting “Reporting”; and
+    - **(ii)** by striking “this section” and inserting “subparagraphs (A) and (B) of subsection (b)(1)”;
+  - **(C)** in paragraph (2), by striking “this section” and inserting “subparagraphs (A) and (B) of subsection (b)(1)”; and
+  - **(D)** by adding at the end the following:
+    > - **(3)** *Dairy products processing costs* Not later than 3 years after the date of enactment of this paragraph, and every 2 years thereafter, the Secretary shall publish a report containing the information obtained under subsection (b)(1)(C).
