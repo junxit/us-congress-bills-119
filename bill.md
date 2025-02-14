@@ -1,0 +1,25 @@
+---
+legis-num: H.R. 1371
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1371
+
+> To redesignate the third Monday in February as Presidents’ Day, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Presidential Legacy Act”.
+
+## § 2. Redesignate the third Monday in February as Presidents’ Day
+
+Section 6103(a) of title 5, United States Code, is amended by striking “Washington’s Birthday” and inserting “Presidents’ Day”.
+
+## § 3. Term “Washington’s Birthday” replaced
+
+- **(a)** *In general* Except as provided in subsection (b), any reference to “Washington’s Birthday” in any law, rule, regulation, or other official paper in effect as of the date of the enactment of this Act shall be deemed to be a reference to “Presidents’ Day”.
+- **(b)** *Conforming amendments*
+  - **(1)** *Title 4* Section 6(d) of title 4, United States Code, is amended by striking “Washington’s Birthday” and inserting “Presidents’ Day”.
+  - **(2)** *Federal Contested Election Act* Section 15(a) of the Federal Contested Election Act (2 U.S.C. 394(a)) is amended by striking “Washington’s Birthday” and inserting “Presidents’ Day”.
