@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 1370
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1370
+
+> To transfer unobligated funds from the United States Agency for International Development to the Disaster Relief Fund.
+
+## § 1. Short title
+
+This Act may be cited as the “Unobligated Spending Adjustment to Focus Investment on Relief and Support for Taxpayers Act” or the “USA FIRST Act”.
+
+## § 2. Transfer of unobligated funds to the disaster relief fund
+
+- **(a)** *In general* Any unobligated covered funds shall be transferred to the Disaster Relief Fund to carry out the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) with respect to major disasters declared under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170).
+- **(b)** *Covered funds defined* In this section, the term “covered funds” means any unobligated funds previously appropriated to the United States Agency for International Development, as of the date of enactment of this Act.
