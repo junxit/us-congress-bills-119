@@ -1,0 +1,34 @@
+---
+legis-num: H.R. 1439
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1439
+
+> To ensure due process protections of individuals in the United States against unlawful detention based solely on a protected characteristic.
+
+## § 1. Short title
+
+This Act may be cited as the “Korematsu-Takai Civil Liberties Protection Act of 2025”.
+
+## § 2. Prohibition against unlawful detention
+
+Section 4001 of title 18, United States Code, is amended—
+
+- **(1)** by redesignating subsection (b) as subsection (c); and
+- **(2)** by inserting after subsection (a) the following:
+  > - **(b)** *Prohibition on detention based on protected characteristics*
+  >   - **(1)** *In general* No individual may be imprisoned or otherwise detained based solely on an actual or perceived protected characteristic of the individual.
+  >   - **(2)** *Definition* In this subsection, the term protected characteristic includes each of the following:
+  >     - **(A)** Race.
+  >     - **(B)** Ethnicity.
+  >     - **(C)** National origin.
+  >     - **(D)** Religion.
+  >     - **(E)** Sex.
+  >     - **(F)** Gender identity.
+  >     - **(G)** Sexual orientation.
+  >     - **(H)** Disability.
+  >     - **(I)** Any additional characteristic that the Attorney General determines to be a protected characteristic.
+  >   - **(3)** *Rule of construction* Nothing in this subsection shall be construed to allow the Attorney General to remove a characteristic described in subparagraphs (A) through (H) of paragraph (2) from the definition of the term protected characteristic under this subsection.
