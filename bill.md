@@ -1,0 +1,24 @@
+---
+legis-num: H.R. 1435
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1435
+
+> To amend title V of the Social Security Act to extend funding for the family-to-family health information centers.
+
+## § 1. Short title
+
+This Act may be cited as the “Family-to-Family Reauthorization Act of 2025”.
+
+## § 2. Five-year extension of funding for family-to-family health information centers
+
+Section 501(c)(1)(A) of the Social Security Act (42 U.S.C. 701(c)(1)(A)) is amended—
+
+- **(1)** in clause (vii), by striking “and” at the end;
+- **(2)** in clause (viii), by striking the period at the end and inserting a semicolon; and
+- **(3)** by adding at the end the following:
+  > - **(ix)** $6,000,000 for the period beginning on April 1, 2025, and ending on September 30, 2025; and
+  > - **(x)** $9,000,000 for each of fiscal years 2026 through 2029.
