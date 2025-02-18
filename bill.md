@@ -1,0 +1,29 @@
+---
+legis-num: H.R. 1413
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1413
+
+> To amend title 38, United States Code, to require that domiciliary facilities of the Department of Veterans Affairs and State homes that provide housing to veterans have resident advocates.
+
+## § 1. Requirement of resident advocate in a domiciliary facility of the Department of Veterans Affairs or State home
+
+- **(a)** *Domiciliary facilities of the Department of Veterans Affairs* Subchapter I of chapter 17 of title 38, United States Code, is amended by adding at the end the following new section (and conforming the table of sections at the beginning of such chapter accordingly):
+  > ## § 1720M. Resident advocates in domiciliary facilities of the Department
+  >
+  > - **(a)** *Requirement* The Secretary shall employ in each domiciliary facility of the Department a resident advocate.
+  > - **(b)** *Duties* A resident advocate shall have duties that include the following:
+  >   - **(1)** To serve as a liaison between veterans in the domiciliary facility and the Secretary.
+  >   - **(2)** To receive complaints from such veterans, transmit such complaints to the director of such domiciliary facility, and respond to such complaints.
+  >   - **(3)** When the resident advocate determines it appropriate, to submit such a complaint to the Secretary, the Inspector General of the Department.
+
+- **(b)** *State homes* Section 1741 of title 38, United States Code, is amended—
+  - **(1)** by redesignating subsection (g) as subsection (h); and
+  - **(2)** by inserting, after subsection (f), the following new subsection (g):
+    > - **(g)** To be eligible for payment for domiciliary care provided to a veteran in a State home under this section, a State shall employ in such State home a resident advocate. A resident advocate shall have duties that include the following:
+    >   - **(1)** To serve as a liaison between veterans in such State home and the State.
+    >   - **(2)** To receive complaints from such veterans, transmit such complaints to the director of the State home, and respond to such complaints.
+    >   - **(3)** When the resident advocate determines it appropriate, to submit such a complaint to the Secretary, the Inspector General of the Department, or an appropriate State official.
