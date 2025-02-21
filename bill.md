@@ -1,0 +1,26 @@
+---
+legis-num: H.R. 1447
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1447
+
+> To amend the Internal Revenue Code of 1986 to maintain the prohibition on allowing any deduction or credit associated with a trade or business involved in trafficking marijuana.
+
+## § 1. Short title
+
+This Act may be cited as the “No Deductions for Marijuana Businesses Act”.
+
+## § 2. Expenditures in connection with the sale of marijuana
+
+- **(a)** *In general* Section 280E of the Internal Revenue Code of 1986 is amended to read as follows:
+  > ## § 280E. Expenditures in connection with the illegal sale of drugs
+  >
+  > No deduction or credit shall be allowed for any amount paid or incurred during the taxable year in carrying on any trade or business if such trade or business (or the activities which comprise such trade or business) consists of trafficking in—
+  >
+  > - **(1)** marijuana (as defined in section 102(16) of the Controlled Substances Act (21 U.S.C. 802(16))), or
+  > - **(2)** controlled substances (within the meaning 16 of schedule I and II of the Controlled Substances 17 Act),
+
+- **(b)** *Effective date* The amendment made by this section shall apply to amounts paid or incurred after the date of the enactment of this Act in taxable years ending after such date.
