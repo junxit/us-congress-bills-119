@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 1488
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1488
+
+> To repeal the authorizations for use of military force against Iraq.
+
+## § 1. Repeal of Authorization for Use of Military Force Against Iraq Resolution
+
+The Authorization for Use of Military Force Against Iraq Resolution (Public Law 102–1; 105 Stat. 3; 50 U.S.C. 1541 note) is hereby repealed.
+
+## § 2. Repeal of Authorization for Use of Military Force Against Iraq Resolution of 2002
+
+The Authorization for Use of Military Force Against Iraq Resolution of 2002 (Public Law 107–243; 116 Stat. 1498; 50 U.S.C. 1541 note) is hereby repealed.
