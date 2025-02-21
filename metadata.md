@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 7
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S.Con.Res. 7
@@ -16,9 +16,371 @@ An original concurrent resolution setting forth the congressional budget for the
 
 - Sen. Graham, Lindsey [R-SC] (G000359)
 
+## Cosponsors (329)
+
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Gallego, Ruben [D-AZ] (G000574)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Slotkin, Elissa [D-MI] (S001208)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Luján, Ben Ray [D-NM] (L000570)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Luján, Ben Ray [D-NM] (L000570)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Luján, Ben Ray [D-NM] (L000570)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Blunt Rochester, Lisa [D-DE] (B001303)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Gallego, Ruben [D-AZ] (G000574)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Blunt Rochester, Lisa [D-DE] (B001303)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Luján, Ben Ray [D-NM] (L000570)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Slotkin, Elissa [D-MI] (S001208)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Slotkin, Elissa [D-MI] (S001208)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Luján, Ben Ray [D-NM] (L000570)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Luján, Ben Ray [D-NM] (L000570)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Blunt Rochester, Lisa [D-DE] (B001303)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Kim, Andy [D-NJ] (K000394)
+
 ## Committees (1)
 
 - Senate — Budget Committee
+
+## Recorded votes (27)
+
+- 2025-02-18 — [Senate 119-1-58](votes/senate-119-1-0058.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (50–47)
+- 2025-02-20 — [Senate 119-1-62](votes/senate-119-1-0062.md) — On the Motion — **Motion Rejected** (47–52)
+- 2025-02-20 — [Senate 119-1-63](votes/senate-119-1-0063.md) — On the Motion — **Motion Rejected** (48–52)
+- 2025-02-20 — [Senate 119-1-64](votes/senate-119-1-0064.md) — On the Amendment — **Amendment Rejected** (48–52)
+- 2025-02-20 — [Senate 119-1-65](votes/senate-119-1-0065.md) — On the Motion — **Motion Rejected** (47–53)
+- 2025-02-20 — [Senate 119-1-66](votes/senate-119-1-0066.md) — On the Amendment — **Amendment Rejected** (47–53)
+- 2025-02-20 — [Senate 119-1-67](votes/senate-119-1-0067.md) — On the Motion — **Motion Rejected** (47–53)
+- 2025-02-20 — [Senate 119-1-68](votes/senate-119-1-0068.md) — On the Amendment — **Amendment Rejected** (48–52)
+- 2025-02-20 — [Senate 119-1-69](votes/senate-119-1-0069.md) — On the Amendment — **Amendment Rejected** (48–52)
+- 2025-02-20 — [Senate 119-1-70](votes/senate-119-1-0070.md) — On the Amendment — **Amendment Agreed to** (51–49)
+- 2025-02-20 — [Senate 119-1-71](votes/senate-119-1-0071.md) — On the Motion — **Motion Rejected** (49–51)
+- 2025-02-20 — [Senate 119-1-72](votes/senate-119-1-0072.md) — On the Amendment — **Amendment Rejected** (49–51)
+- 2025-02-20 — [Senate 119-1-73](votes/senate-119-1-0073.md) — On the Motion — **Motion Rejected** (47–53)
+- 2025-02-20 — [Senate 119-1-74](votes/senate-119-1-0074.md) — On the Motion — **Motion Rejected** (48–52)
+- 2025-02-21 — [Senate 119-1-75](votes/senate-119-1-0075.md) — On the Motion — **Motion Rejected** (49–51)
+- 2025-02-21 — [Senate 119-1-76](votes/senate-119-1-0076.md) — On the Amendment — **Amendment Rejected** (47–53)
+- 2025-02-21 — [Senate 119-1-77](votes/senate-119-1-0077.md) — On the Amendment — **Amendment Rejected** (24–76)
+- 2025-02-21 — [Senate 119-1-78](votes/senate-119-1-0078.md) — On the Amendment — **Amendment Rejected** (47–53)
+- 2025-02-21 — [Senate 119-1-79](votes/senate-119-1-0079.md) — On the Motion — **Motion Rejected** (49–51)
+- 2025-02-21 — [Senate 119-1-80](votes/senate-119-1-0080.md) — On the Amendment — **Amendment Rejected** (48–52)
+- 2025-02-21 — [Senate 119-1-81](votes/senate-119-1-0081.md) — On the Amendment — **Amendment Rejected** (48–52)
+- 2025-02-21 — [Senate 119-1-82](votes/senate-119-1-0082.md) — On the Amendment — **Amendment Rejected** (49–51)
+- 2025-02-21 — [Senate 119-1-83](votes/senate-119-1-0083.md) — On the Amendment — **Amendment Rejected** (47–52)
+- 2025-02-21 — [Senate 119-1-84](votes/senate-119-1-0084.md) — On the Amendment — **Amendment Rejected** (47–53)
+- 2025-02-21 — [Senate 119-1-85](votes/senate-119-1-0085.md) — On the Amendment — **Amendment Agreed to** (53–47)
+- 2025-02-21 — [Senate 119-1-86](votes/senate-119-1-0086.md) — On the Amendment — **Amendment Rejected** (49–51)
+- 2025-02-21 — [Senate 119-1-87](votes/senate-119-1-0087.md) — On the Concurrent Resolution — **Concurrent Resolution Agreed to** (52–48)
 
 ## Actions
 
@@ -26,3 +388,2437 @@ An original concurrent resolution setting forth the congressional budget for the
 - 2025-02-13 — Committee on the Budget. Original measure reported to Senate by Senator Graham. Without written report.
 - 2025-02-13 — Introduced in Senate
 - 2025-02-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 13.
+- 2025-02-18 — Measure laid before Senate by motion.
+- 2025-02-18 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 50 - 47. Record Vote Number: 58. (CR S1006)
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — 
+- 2025-02-19 — Considered by Senate. (consideration: CR S1015-1019)
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-19 — Senate amendment submitted
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — 
+- 2025-02-20 — Amendment SA 1029 agreed to in Senate by Yea-Nay Vote. 51 - 49. Record Vote Number: 70.
+- 2025-02-20 — Amendment SA 1029 proposed by Senator Sullivan. (consideration: CR S1105) To establish a deficit-neutral reserve fund relating to protecting Medicare and Medicaid.
+- 2025-02-20 — Amendment SA 1156 proposed by Senator Wyden. (consideration: CR S1106-1107) To prevent millions of Americans from being kicked off their health coverage, suffering needlessly, getting sicker, and dying sooner.
+- 2025-02-20 — Amendment SA 1156 ruled out of order by the chair.
+- 2025-02-20 — Amendment SA 130 proposed by Senator Warner. (consideration: CR S1101-1102) To create a point of order against any reconciliation bill that would not decrease the cost of housing for American families.
+- 2025-02-20 — Amendment SA 130 ruled out of order by the chair.
+- 2025-02-20 — Amendment SA 276 proposed by Senator Baldwin. (consideration: CR S1107-1108) To create a point of order against legislation that would take away health care from seniors, including those receiving care in nursing homes, through cuts to the Medicaid program.
+- 2025-02-20 — Amendment SA 316 not agreed to in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 69.
+- 2025-02-20 — Amendment SA 316 proposed by Senator Schiff. (consideration: CR S1104) To establish a deficit-neutral reserve fund relating to supporting Federal wildland firefighters and associated personnel.
+- 2025-02-20 — Amendment SA 407 not agreed to in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 72.
+- 2025-02-20 — Amendment SA 407 proposed by Senator Ossoff. (consideration: CR S1106) To establish a deficit-neutral reserve fund relating to protecting access to maternal and pediatric health care through Medicaid.
+- 2025-02-20 — Amendment SA 454 proposed by Senator Schumer. (consideration: CR S1099-1100) To prevent unwarranted tax cuts for the ultra-rich.
+- 2025-02-20 — Amendment SA 454 ruled out of order by the chair.
+- 2025-02-20 — Amendment SA 473 not agreed to in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 64.
+- 2025-02-20 — Amendment SA 473 proposed by Senator Merkley. (consideration: CR S1100-1101) To establish a deficit-neutral reserve fund relating to the impacts of hedge fund ownership of single-family homes and rent prices.
+- 2025-02-20 — Amendment SA 494 proposed by Senator Klobuchar. (consideration: CR S1100) To stop tax cuts for the ultra-rich while families struggle to put food on the table.
+- 2025-02-20 — Amendment SA 494 ruled out of order by the chair.
+- 2025-02-20 — Amendment SA 540 not agreed to in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 68.
+- 2025-02-20 — Amendment SA 540 proposed by Senator Bennet. (consideration: CR S1103-1104) To establish a deficit-neutral reserve fund relating to reinstating the fired Federal employees at the Forest Service, National Park Service, United States Fish and Wildlife Service, and Bureau of Land Management.
+- 2025-02-20 — Amendment SA 776 proposed by Senator Schumer. (consideration: CR S1105-1106) To prevent tax cuts for the wealthy if a single dollar of Medicaid funding is cut.
+- 2025-02-20 — Amendment SA 776 ruled out of order by the chair.
+- 2025-02-20 — Amendment SA 878 not agreed to in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 66.
+- 2025-02-20 — Amendment SA 878 proposed by Senator Murray. (consideration: CR S1102) To strike the reconciliation instructions and create a reserve fund to implement a bipartisan, multi-year agreement to provide up to $171,000,000,000 in discretionary funding for defense and up to $171,000,000,000 in discretionary funding for other programs, accounts, and activities to address border, veterans, farmers, food and nutrition, disaster relief, and other needs.
+- 2025-02-20 — Amendment SA 925 proposed by Senator Hickenlooper. (consideration: CR S1103) To create a point of order against legislation that would raise energy costs for Americans, including higher monthly electricity bills, building material expenses, and transportation costs.
+- 2025-02-20 — Amendment SA 925 ruled out of order by the chair.
+- 2025-02-20 — Considered by Senate. (consideration: CR S1061-1063, S1075-1119)
+- 2025-02-20 — Motion to waive all applicable budgetary discipline with respect to amendment SA 1156 rejected in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 73.
+- 2025-02-20 — Motion to waive all applicable budgetary discipline with respect to amendment SA 130 rejected in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 65.
+- 2025-02-20 — Motion to waive all applicable budgetary discipline with respect to amendment SA 454 rejected in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 62.
+- 2025-02-20 — Motion to waive all applicable budgetary discipline with respect to amendment SA 494 rejected in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 63.
+- 2025-02-20 — Motion to waive all applicable budgetary discipline with respect to amendment SA 776 rejected in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 71.
+- 2025-02-20 — Motion to waive all applicable budgetary discipline with respect to amendment SA 925 rejected in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 67.
+- 2025-02-20 — Point of order that the amendment violates section 305(b)(2) of the CBA raised in Senate with respect to amendment SA 1156.
+- 2025-02-20 — Point of order that the amendment violates section 305(b)(2) of the CBA raised in Senate with respect to amendment SA 130.
+- 2025-02-20 — Point of order that the amendment violates section 305(b)(2) of the CBA raised in Senate with respect to amendment SA 276.
+- 2025-02-20 — Point of order that the amendment violates section 305(b)(2) of the CBA raised in Senate with respect to amendment SA 454.
+- 2025-02-20 — Point of order that the amendment violates section 305(b)(2) of the CBA raised in Senate with respect to amendment SA 494.
+- 2025-02-20 — Point of order that the amendment violates section 305(b)(2) of the CBA raised in Senate with respect to amendment SA 776.
+- 2025-02-20 — Point of order that the amendment violates section 305(b)(2) of the CBA raised in Senate with respect to amendment SA 925.
+- 2025-02-20 — Roll call votes on amendments in Senate: Amendment SA 1029 agreed to in Senate by Yea-Nay Vote. 51 - 49. Record Vote Number: 70.
+- 2025-02-20 — Roll call votes on amendments in Senate: Amendment SA 316 not agreed to in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 69.
+- 2025-02-20 — Roll call votes on amendments in Senate: Amendment SA 407 not agreed to in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 72.
+- 2025-02-20 — Roll call votes on amendments in Senate: Amendment SA 473 not agreed to in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 64.
+- 2025-02-20 — Roll call votes on amendments in Senate: Amendment SA 540 not agreed to in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 68.
+- 2025-02-20 — Roll call votes on amendments in Senate: Amendment SA 878 not agreed to in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 66.
+- 2025-02-20 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 1156 rejected in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 73.
+- 2025-02-20 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 130 rejected in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 65.
+- 2025-02-20 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 454 rejected in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 62.
+- 2025-02-20 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 494 rejected in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 63.
+- 2025-02-20 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 776 rejected in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 71.
+- 2025-02-20 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 925 rejected in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 67.
+- 2025-02-20 — Senate amendment agreed to: Amendment SA 1029 agreed to in Senate by Yea-Nay Vote. 51 - 49. Record Vote Number: 70.
+- 2025-02-20 — Senate amendment not agreed to: Amendment SA 316 not agreed to in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 69.
+- 2025-02-20 — Senate amendment not agreed to: Amendment SA 407 not agreed to in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 72.
+- 2025-02-20 — Senate amendment not agreed to: Amendment SA 473 not agreed to in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 64.
+- 2025-02-20 — Senate amendment not agreed to: Amendment SA 540 not agreed to in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 68.
+- 2025-02-20 — Senate amendment not agreed to: Amendment SA 878 not agreed to in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 66.
+- 2025-02-20 — Senate amendment proposed (on the floor): Amendment SA 1029 proposed by Senator Sullivan.
+- 2025-02-20 — Senate amendment proposed (on the floor): Amendment SA 1156 proposed by Senator Wyden.
+- 2025-02-20 — Senate amendment proposed (on the floor): Amendment SA 130 proposed by Senator Warner.
+- 2025-02-20 — Senate amendment proposed (on the floor): Amendment SA 276 proposed by Senator Baldwin.
+- 2025-02-20 — Senate amendment proposed (on the floor): Amendment SA 316 proposed by Senator Schiff.
+- 2025-02-20 — Senate amendment proposed (on the floor): Amendment SA 407 proposed by Senator Ossoff.
+- 2025-02-20 — Senate amendment proposed (on the floor): Amendment SA 454 proposed by Senator Schumer.
+- 2025-02-20 — Senate amendment proposed (on the floor): Amendment SA 473 proposed by Senator Merkley.
+- 2025-02-20 — Senate amendment proposed (on the floor): Amendment SA 494 proposed by Senator Klobuchar.
+- 2025-02-20 — Senate amendment proposed (on the floor): Amendment SA 540 proposed by Senator Bennet.
+- 2025-02-20 — Senate amendment proposed (on the floor): Amendment SA 776 proposed by Senator Schumer.
+- 2025-02-20 — Senate amendment proposed (on the floor): Amendment SA 878 proposed by Senator Murray.
+- 2025-02-20 — Senate amendment proposed (on the floor): Amendment SA 925 proposed by Senator Hickenlooper.
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-20 — Senate amendment submitted
+- 2025-02-21 — 
+- 2025-02-21 — 
+- 2025-02-21 — 
+- 2025-02-21 — 
+- 2025-02-21 — 
+- 2025-02-21 — 
+- 2025-02-21 — 
+- 2025-02-21 — 
+- 2025-02-21 — 
+- 2025-02-21 — 
+- 2025-02-21 — 
+- 2025-02-21 — 
+- 2025-02-21 — 
+- 2025-02-21 — 
+- 2025-02-21 — 
+- 2025-02-21 — 
+- 2025-02-21 — 
+- 2025-02-21 — Amendment SA 101 not agreed to in Senate by Voice Vote.
+- 2025-02-21 — Amendment SA 101 proposed by Senator Heinrich. (consideration: CR S1113) To establish a deficit-neutral reserve fund relating to funding for grants awarded by the Office on Violence Against Women.
+- 2025-02-21 — Amendment SA 1207 not agreed to in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 86.
+- 2025-02-21 — Amendment SA 1207 proposed by Senator Merkley. (consideration: CR S1118-1119) To establish a deficit-neutral reserve fund relating to ending price gouging on prescription drugs.
+- 2025-02-21 — Amendment SA 1223 not agreed to in Senate by Voice Vote.
+- 2025-02-21 — Amendment SA 1223 proposed by Senator Coons. (consideration: CR S1114-1115) To protect Americans' privacy from unauthorized access by DOGE.
+- 2025-02-21 — Amendment SA 172 proposed by Senator Reed. (consideration: CR S1108) To create a point of order against legislation that would reduce Medicare and Medicaid benefits for Americans.
+- 2025-02-21 — Amendment SA 172 ruled out of order by the chair.
+- 2025-02-21 — Amendment SA 198 not agreed to in Senate by Voice Vote.
+- 2025-02-21 — Amendment SA 198 proposed by Senator King. (consideration: CR S1116-1117) To modify the provision relating to the general reserve fund.
+- 2025-02-21 — Amendment SA 233 proposed by Senator Van Hollen. (consideration: CR S1110-1111) To create a point of order against legislation that would cut funding from the school lunch or school breakfast programs.
+- 2025-02-21 — Amendment SA 233 ruled out of order by the chair.
+- 2025-02-21 — Amendment SA 276 ruled out of order by the chair.
+- 2025-02-21 — Amendment SA 299 not agreed to in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 76.
+- 2025-02-21 — Amendment SA 299 proposed by Senator Reed. (consideration: CR S1108-1109) To ensure continued United States support for the Government of Ukraine to stand firm against aggression by the Government of Russia in Europe.
+- 2025-02-21 — Amendment SA 311 not agreed to in Senate by Voice Vote.
+- 2025-02-21 — Amendment SA 311 proposed by Senator Blunt Rochester. (consideration: CR S1117-1118) To establish a deficit-neutral reserve fund relating to preventing the indiscriminate termination of Federal employees who protect the health or safety of Americans, which may include scientists, emergency preparedness staff, frontline health care workers, drug or medical device reviewers, or other employees at the Department of Health and Human Services.
+- 2025-02-21 — Amendment SA 436 not agreed to in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 80.
+- 2025-02-21 — Amendment SA 436 proposed by Senator Shaheen. (consideration: CR S1111-1112) To establish a deficit-neutral reserve fund relating to preserving and extending vital tax credits enacted under the Patient Protection and Affordable Care Act, which make heath care accessible and affordable and that have led to the lowest uninsured rate in our Nation's history.
+- 2025-02-21 — Amendment SA 659 not agreed to in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 83.
+- 2025-02-21 — Amendment SA 659 proposed by Senator Blumenthal. (consideration: CR S1113-1114) To ensure full and uninterrupted funding for Department of Veterans Affairs health care and benefits provided by the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act of 2022 (Public Law 117-168), also known as the "PACT Act", preventing any cuts or delays.
+- 2025-02-21 — Amendment SA 664 not agreed to in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 78.
+- 2025-02-21 — Amendment SA 664 proposed by Senator Slotkin. (consideration: CR S1110) To establish a deficit-neutral reserve fund relating to preventing reductions in funding and staffing necessary to respond to, control, and prevent avian flu.
+- 2025-02-21 — Amendment SA 699 not agreed to in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 81.
+- 2025-02-21 — Amendment SA 699 proposed by Senator Lujan. (consideration: CR S1112) To establish a deficit-neutral reserve fund relating to supporting police, which may include initiatives that provide funding directly to law enforcement agencies to hire or rehire additional career law enforcement officers in an effort to increase their community policing capacity and crime prevention efforts.
+- 2025-02-21 — Amendment SA 734 not agreed to in Senate by Voice Vote.
+- 2025-02-21 — Amendment SA 734 proposed by Senator Warren. (consideration: CR S1116) To modify the provision relating to the general reserve fund.
+- 2025-02-21 — Amendment SA 880 not agreed to in Senate by Voice Vote.
+- 2025-02-21 — Amendment SA 880 proposed by Senator Murray. (consideration: CR S1118) To establish a deficit-neutral reserve fund relating to reversing the Trump Administration's indiscriminate cut to biomedical research and the lifesaving work supported by the National Institutes of Health at research institutions across the country.
+- 2025-02-21 — Amendment SA 911 not agreed to in Senate by Voice Vote.
+- 2025-02-21 — Amendment SA 911 proposed by Senator Markey. (consideration: CR S1114) To establish a deficit-neutral reserve fund relating to increasing funding for research on Alzheimer's disease and related dementias.
+- 2025-02-21 — Amendment SA 922 agreed to in Senate by Yea-Nay Vote. 53 - 47. Record Vote Number: 85.
+- 2025-02-21 — Amendment SA 922 proposed by Senator Lee. (consideration: CR S1117) To establish a deficit-neutral reserve fund relating to Congress continuing its work to rein in the administrative state by supporting legislation that prevents Federal agencies from finalizing major rules without congressional approval, strengthens the Article 1 law-making powers of Congress, cuts spending resulting from costly regulations, reduces inflation, and unleashes economic growth.
+- 2025-02-21 — Amendment SA 957 not agreed to in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 84.
+- 2025-02-21 — Amendment SA 957 proposed by Senator Lujan. (consideration: CR S1115-1116) To strike reconciliation instructions requiring damaging cuts to programs critical to rural Americans and food assistance for American families.
+- 2025-02-21 — Amendment SA 971 not agreed to in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 82.
+- 2025-02-21 — Amendment SA 971 proposed by Senator Duckworth. (consideration: CR S1112-1113) To establish a deficit-neutral reserve fund relating to protecting access to fertility services, and eliminating barriers for families in need of high-quality, affordable fertility services by expanding nationwide coverage for in vitro fertilization.
+- 2025-02-21 — Amendment SA 984 not agreed to in Senate by Voice Vote.
+- 2025-02-21 — Amendment SA 984 proposed by Senator Kelly. (consideration: CR S1116) To modify the provision relating to the general reserve fund.
+- 2025-02-21 — Amendment SA 999 not agreed to in Senate by Yea-Nay Vote. 24 - 76. Record Vote Number: 77.
+- 2025-02-21 — Amendment SA 999 proposed by Senator Paul. (consideration: CR S1109-1110) To require an adequate amount of deficit reduction as part of reconciliation.
+- 2025-02-21 — Motion to waive all applicable budgetary discipline with respect to amendment SA 172 rejected in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 75.
+- 2025-02-21 — Motion to waive all applicable budgetary discipline with respect to amendment SA 233 rejected in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 79.
+- 2025-02-21 — Motion to waive all applicable budgetary discipline with respect to amendment SA 276 rejected in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 74.
+- 2025-02-21 — Passed/agreed to in Senate: Resolution agreed to in Senate with amendments by Yea-Nay Vote. 52 - 48. Record Vote Number: 87.
+- 2025-02-21 — Point of order that the amendment violates section 305(b)(2) of the CBA raised in Senate with respect to amendment SA 172.
+- 2025-02-21 — Point of order that the amendment violates section 305(b)(2) of the CBA raised in Senate with respect to amendment SA 233.
+- 2025-02-21 — Resolution agreed to in Senate with amendments by Yea-Nay Vote. 52 - 48. Record Vote Number: 87. (text: CR S1119-1125)
+- 2025-02-21 — Roll call votes on amendments in Senate: Amendment SA 1207 not agreed to in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 86.
+- 2025-02-21 — Roll call votes on amendments in Senate: Amendment SA 299 not agreed to in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 76.
+- 2025-02-21 — Roll call votes on amendments in Senate: Amendment SA 436 not agreed to in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 80.
+- 2025-02-21 — Roll call votes on amendments in Senate: Amendment SA 659 not agreed to in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 83.
+- 2025-02-21 — Roll call votes on amendments in Senate: Amendment SA 664 not agreed to in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 78.
+- 2025-02-21 — Roll call votes on amendments in Senate: Amendment SA 699 not agreed to in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 81.
+- 2025-02-21 — Roll call votes on amendments in Senate: Amendment SA 922 agreed to in Senate by Yea-Nay Vote. 53 - 47. Record Vote Number: 85.
+- 2025-02-21 — Roll call votes on amendments in Senate: Amendment SA 957 not agreed to in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 84.
+- 2025-02-21 — Roll call votes on amendments in Senate: Amendment SA 971 not agreed to in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 82.
+- 2025-02-21 — Roll call votes on amendments in Senate: Amendment SA 999 not agreed to in Senate by Yea-Nay Vote. 24 - 76. Record Vote Number: 77.
+- 2025-02-21 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 172 rejected in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 75.
+- 2025-02-21 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 233 rejected in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 79.
+- 2025-02-21 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 276 rejected in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 74.
+- 2025-02-21 — Senate amendment agreed to: Amendment SA 922 agreed to in Senate by Yea-Nay Vote. 53 - 47. Record Vote Number: 85.
+- 2025-02-21 — Senate amendment not agreed to: Amendment SA 101 not agreed to in Senate by Voice Vote.
+- 2025-02-21 — Senate amendment not agreed to: Amendment SA 1207 not agreed to in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 86.
+- 2025-02-21 — Senate amendment not agreed to: Amendment SA 1223 not agreed to in Senate by Voice Vote.
+- 2025-02-21 — Senate amendment not agreed to: Amendment SA 198 not agreed to in Senate by Voice Vote.
+- 2025-02-21 — Senate amendment not agreed to: Amendment SA 299 not agreed to in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 76.
+- 2025-02-21 — Senate amendment not agreed to: Amendment SA 311 not agreed to in Senate by Voice Vote.
+- 2025-02-21 — Senate amendment not agreed to: Amendment SA 436 not agreed to in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 80.
+- 2025-02-21 — Senate amendment not agreed to: Amendment SA 659 not agreed to in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 83.
+- 2025-02-21 — Senate amendment not agreed to: Amendment SA 664 not agreed to in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 78.
+- 2025-02-21 — Senate amendment not agreed to: Amendment SA 699 not agreed to in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 81.
+- 2025-02-21 — Senate amendment not agreed to: Amendment SA 734 not agreed to in Senate by Voice Vote.
+- 2025-02-21 — Senate amendment not agreed to: Amendment SA 880 not agreed to in Senate by Voice Vote.
+- 2025-02-21 — Senate amendment not agreed to: Amendment SA 911 not agreed to in Senate by Voice Vote.
+- 2025-02-21 — Senate amendment not agreed to: Amendment SA 957 not agreed to in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 84.
+- 2025-02-21 — Senate amendment not agreed to: Amendment SA 971 not agreed to in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 82.
+- 2025-02-21 — Senate amendment not agreed to: Amendment SA 984 not agreed to in Senate by Voice Vote.
+- 2025-02-21 — Senate amendment not agreed to: Amendment SA 999 not agreed to in Senate by Yea-Nay Vote. 24 - 76. Record Vote Number: 77.
+- 2025-02-21 — Senate amendment proposed (on the floor): Amendment SA 101 proposed by Senator Heinrich.
+- 2025-02-21 — Senate amendment proposed (on the floor): Amendment SA 1207 proposed by Senator Merkley.
+- 2025-02-21 — Senate amendment proposed (on the floor): Amendment SA 1223 proposed by Senator Coons.
+- 2025-02-21 — Senate amendment proposed (on the floor): Amendment SA 172 proposed by Senator Reed.
+- 2025-02-21 — Senate amendment proposed (on the floor): Amendment SA 198 proposed by Senator King.
+- 2025-02-21 — Senate amendment proposed (on the floor): Amendment SA 233 proposed by Senator Van Hollen.
+- 2025-02-21 — Senate amendment proposed (on the floor): Amendment SA 299 proposed by Senator Reed.
+- 2025-02-21 — Senate amendment proposed (on the floor): Amendment SA 311 proposed by Senator Blunt Rochester.
+- 2025-02-21 — Senate amendment proposed (on the floor): Amendment SA 436 proposed by Senator Shaheen.
+- 2025-02-21 — Senate amendment proposed (on the floor): Amendment SA 659 proposed by Senator Blumenthal.
+- 2025-02-21 — Senate amendment proposed (on the floor): Amendment SA 664 proposed by Senator Slotkin.
+- 2025-02-21 — Senate amendment proposed (on the floor): Amendment SA 699 proposed by Senator Lujan.
+- 2025-02-21 — Senate amendment proposed (on the floor): Amendment SA 734 proposed by Senator Warren.
+- 2025-02-21 — Senate amendment proposed (on the floor): Amendment SA 880 proposed by Senator Murray.
+- 2025-02-21 — Senate amendment proposed (on the floor): Amendment SA 911 proposed by Senator Markey.
+- 2025-02-21 — Senate amendment proposed (on the floor): Amendment SA 922 proposed by Senator Lee.
+- 2025-02-21 — Senate amendment proposed (on the floor): Amendment SA 957 proposed by Senator Lujan.
+- 2025-02-21 — Senate amendment proposed (on the floor): Amendment SA 971 proposed by Senator Duckworth.
+- 2025-02-21 — Senate amendment proposed (on the floor): Amendment SA 984 proposed by Senator Kelly.
+- 2025-02-21 — Senate amendment proposed (on the floor): Amendment SA 999 proposed by Senator Paul.
+- 2025-02-21 — Senate amendment submitted
+- 2025-02-21 — Senate amendment submitted
+- 2025-02-21 — Senate amendment submitted
+- 2025-02-21 — Senate amendment submitted
+- 2025-02-21 — Senate amendment submitted
+- 2025-02-21 — Senate amendment submitted
+- 2025-02-21 — Senate amendment submitted
+- 2025-02-21 — Senate amendment submitted
+- 2025-02-21 — Senate amendment submitted
+- 2025-02-21 — Senate amendment submitted
+- 2025-02-21 — Senate amendment submitted
+- 2025-02-21 — Senate amendment submitted
+- 2025-02-21 — Senate amendment submitted
+- 2025-02-21 — Senate amendment submitted
+- 2025-02-21 — Senate amendment submitted
+- 2025-02-21 — Senate amendment submitted
+- 2025-02-21 — Senate amendment submitted
