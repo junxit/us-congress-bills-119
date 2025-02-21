@@ -1,0 +1,32 @@
+---
+legis-num: H.R. 1513
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1513
+
+> To repeal programs relating to funding for electric vehicle charging infrastructure, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Unplug the Electric Vehicle Charging Stations Program Act”.
+
+## § 2. Repeal of charging and fueling infrastructure grants
+
+- **(a)** *Authorization of appropriations* Section 11101(b) of the Infrastructure Investment and Jobs Act (Public Law 117–58; 135 Stat. 444) is amended—
+  - **(1)** in paragraph (1)—
+    - **(A)** by striking subparagraph (C); and
+    - **(B)** by redesignating subparagraphs (D) through (G) as subparagraphs (C) through (F), respectively; and
+  - **(2)** in paragraph (2)(B), by striking “paragraph (1)(G)” and inserting “paragraph (1)(F)”.
+- **(b)** *Grant program* Section 151 of title 23, United States Code, is amended—
+  - **(1)** in subsection (e)(2), by striking “, including through funds awarded through the grant program under subsection (f),”; and
+  - **(2)** by striking subsection (f).
+
+## § 3. Repeal of National Electric Vehicle Infrastructure Formula Program
+
+- **(a)** *Rescission* The unobligated amounts made available under paragraph (2) in the matter under the heading “highway infrastructure programs” under the heading “Federal Highway Administration” under the heading “Department of Transportation” in title VIII of division J of the Infrastructure Investment and Jobs Act (Public Law 117–58; 135 Stat. 1419) are rescinded.
+- **(b)** *Termination* Notwithstanding any other provision of law, beginning on the date of enactment of this Act—
+  - **(1)** the program under paragraph (2) in the matter under the heading “highway infrastructure programs” under the heading “Federal Highway Administration” under the heading “Department of Transportation” in title VIII of division J of the Infrastructure Investment and Jobs Act (Public Law 117–58; 135 Stat. 1419) is terminated; and
+  - **(2)** no funds may used to carry out that program.
