@@ -1,7 +1,7 @@
 ---
 measure: H.R. 825
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 825
@@ -16,17 +16,30 @@ Assisting Small Businesses Not Fraudsters Act
 
 - Rep. Williams, Roger [R-TX-25] (W000816)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Rep. Mfume, Kweisi [D-MD-7] (M000687)
 - Rep. Simon, Lateefah [D-CA-12] (S001231)
+- Rep. Goodlander, Maggie [D-NH-2] (G000604)
 
 ## Committees (1)
 
 - House — Small Business Committee
+
+## Recorded votes (1)
+
+- 2025-02-24 — [House 119-1-43](votes/house-119-1-0043.md) — On Motion to Suspend the Rules and Pass — **Passed** (405–0)
 
 ## Actions
 
 - 2025-01-28 — Introduced in House
 - 2025-01-28 — Introduced in House
 - 2025-01-28 — Referred to the House Committee on Small Business.
+- 2025-02-24 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2025-02-24 — Considered as unfinished business. (consideration: CR H748)
+- 2025-02-24 — Considered under suspension of the rules. (consideration: CR H737-739)
+- 2025-02-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 825.
+- 2025-02-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-02-24 — Mr. Williams (TX) moved to suspend the rules and pass the bill.
+- 2025-02-24 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 405 - 0 (Roll no. 43). (text: CR H737)
+- 2025-02-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 405 - 0 (Roll no. 43). (text: CR H737)
