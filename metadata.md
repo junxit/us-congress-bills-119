@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 11
 congress: 119
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 11
@@ -16,9 +16,10 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Sen. Kennedy, John [R-LA] (K000393)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Hyde-Smith, Cindy [R-MS] (H001079)
+- Sen. Crapo, Mike [R-ID] (C000880)
 
 ## Committees (1)
 
@@ -28,3 +29,6 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - 2025-02-04 — Introduced in Senate
 - 2025-02-04 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2025-02-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 15.
+- 2025-02-24 — Senate Committee on Energy and Natural Resources discharged, by petition, pursuant to 5 U.S.C. 802(c).
+- 2025-02-24 — Senate Committee on Energy and Natural Resources discharged, by petition, pursuant to 5 U.S.C. 802(c).
