@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1156
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1156
@@ -53,3 +53,8 @@ Pandemic Unemployment Fraud Enforcement Act
 - 2025-02-10 — Introduced in House
 - 2025-02-10 — Introduced in House
 - 2025-02-10 — Referred to the House Committee on Ways and Means.
+- 2025-02-12 — Committee Consideration and Mark-up Session Held
+- 2025-02-12 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 24 - 18.
+- 2025-02-25 — Placed on the Union Calendar, Calendar No. 2.
+- 2025-02-25 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-6.
+- 2025-02-25 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-6.

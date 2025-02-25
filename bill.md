@@ -29,7 +29,7 @@ This Act may be cited as the “Pandemic Unemployment Fraud Enforcement Act”.
 
 - **(c)** *Pandemic emergency unemployment compensation* Section 2107(e) of the CARES Act (15 U.S.C. 9025(e)) is amended by adding at the end the following new paragraph:
   > - **(5)** *Statute of Limitations*
-  >   - **(A)** *In general* Notwithstanding any other provision of law and subject to subparagraph (B), any criminal prosecution or civil enforcement action for a violation of, or conspiracy to violate, section 371, 641, 1028A, 1029, 1341, 1343, 1344, 1349, 1956, or 1957 of title 18, United States Code, or section 3729 or 3801 of title 31, United States Code, with respect to any unemployment compensation claim funded in whole or in part by pandemic emergency unemployment compensation under this section shall be brought not later than 10 years after the date of the violation or conspiracy.
+  >   - **(A)** *In general* Notwithstanding any other provision of law and subject to subparagraph (B), any criminal prosecution or civil enforcement action for a violation of, or conspiracy to violate, section 371, 641, 1028A, 1029, 1341, 1343, 1344, 1349, 1956, or 1957 of title 18, United States Code, or section 3729 or 3801 of title 31, United States Code, with respect to any unemployment compensation claim funded in whole or in part by Pandemic Emergency Unemployment Compensation under this section shall be brought not later than 10 years after the date of the violation or conspiracy.
   >   - **(B)** *Exception* Subparagraph (A) shall not apply with respect to a criminal prosecution or civil enforcement action if the statute of limitations applicable to such criminal prosecution or civil enforcement action expired prior to the date of enactment of the Pandemic Unemployment Fraud Enforcement Act.
 
 ## § 3. Budget offset
@@ -38,4 +38,4 @@ Out of the unobligated balances of amounts made available by section 2118(a) of 
 
 ## § 4. Effective date
 
-This amendments made by this Act shall take effect on the date of enactment of this Act.
+The amendments made by this Act shall take effect on the date of enactment of this Act.
