@@ -1,7 +1,7 @@
 ---
 measure: H.R. 832
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 832
@@ -22,9 +22,10 @@ Small Business Advocacy Improvements Act of 2025
 - Rep. Van Drew, Jefferson [R-NJ-2] (V000133)
 - Rep. Goodlander, Maggie [D-NH-2] (G000604)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Recorded votes (1)
 
@@ -43,3 +44,4 @@ Small Business Advocacy Improvements Act of 2025
 - 2025-02-24 — Mr. Williams (TX) moved to suspend the rules and pass the bill.
 - 2025-02-24 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 396 - 15 (Roll no. 44). (text: CR H739)
 - 2025-02-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 396 - 15 (Roll no. 44). (text: CR H739)
+- 2025-02-25 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
