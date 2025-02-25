@@ -1,7 +1,7 @@
 ---
 measure: H.R. 828
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 828
@@ -22,9 +22,10 @@ SERV Act
 - Rep. Conaway, Herbert [D-NJ-3] (C001136)
 - Rep. Goodlander, Maggie [D-NH-2] (G000604)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ SERV Act
 - 2025-02-24 — Mr. Williams (TX) moved to suspend the rules and pass the bill.
 - 2025-02-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H746)
 - 2025-02-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H746)
+- 2025-02-25 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
