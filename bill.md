@@ -1,0 +1,42 @@
+---
+legis-num: H.R. 1561
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1561
+
+> To require research with respect to fentanyl and xylazine test strips, to authorize the use of grant funds for such test strips, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Advancing Lifesaving Efforts with Rapid Test strips for Communities Act” or the “ALERT Communities Act”.
+
+## § 2. First responder training
+
+Section 546(c) of the Public Health Service Act (42 U.S.C. 290ee–1(c)) is amended—
+
+- **(1)** in paragraph (3), by striking “; and” and inserting a semicolon;
+- **(2)** in paragraph (4), by striking the period and inserting “; and”; and
+- **(3)** by adding at the end the following:
+  > - **(5)** train and provide resources for first responders and members of other relevant community sectors on carrying and facilitating access to fentanyl or xylazine test strips (as defined in section 5 of the Advancing Lifesaving Efforts with Rapid Test strips for Communities Act).
+
+## § 3. Research and marketing frameworks for test strip technology
+
+The Secretary of Health and Human Services, in consultation with the Director of the National Institutes of Health, the Director of the Office of National Drug Control Policy, the Commissioner of Food and Drugs, and the Administrator of the Drug Enforcement Administration, shall develop and make publicly available research and marketing frameworks for developing, improving, and evaluating test strip technology for detecting fentanyl and other dangerous substances. Such frameworks shall—
+
+- **(1)** include standards and guidance for manufacturers seeking to develop and test new test strip technology;
+- **(2)** emphasize bringing new test strip technology intended for testing human specimens in clinical settings to support on-site clinical decision-making; and
+- **(3)** include guidance on available authorization pathways for test strips described in paragraphs (1) and (2).
+
+## § 4. Study on fentanyl test strip interventions
+
+The Secretary of Health and Human Services shall—
+
+- **(1)** conduct a study on the impact of the availability, accessibility, and usage of drug checking supplies, including test strips, on frequency of overdose, overdose deaths, and engagement in substance use disorder treatment; and
+- **(2)** not later than 2 years after the date of enactment of this Act, submit to Congress a report on the study conducted under paragraph (1).
+
+## § 5. Definition
+
+In this Act, the term test strip means a rapid response, single use diagnostic that can be used to detect the adulteration of a drug with, or the presence in a human specimen of, any substance that may lead to increased morbidity or mortality, such as fentanyl, xylazine, or another synthetic opioid or emerging substance.
