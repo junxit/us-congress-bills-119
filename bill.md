@@ -1,0 +1,15 @@
+---
+legis-num: S. RES. 93
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. RES. 93
+
+> Expressing the sense of the Senate that the operations of the National Institutes of Health should not experience any interruption, delay, or funding disruption in violation of the law and that the workforce of the National Institutes of Health is essential to sustaining medical progress.
+
+That it is the sense of the Senate that—
+
+- **(1)** to protect the health, economic vitality, and national security of the people of the United States, the operations of the National Institutes of Health, including funding research on childhood cancers, Alzheimer’s disease, diabetes, heart disease, infectious disease, amyotrophic lateral sclerosis, and other diseases and conditions, should not be subject to any interruption, delay, or funding disruption in violation of the law; and
+- **(2)** the workforce of the National Institutes of Health, comprised of scientists, researchers, and medical professionals, is essential to sustaining medical progress, and any interference with its work undermines efforts to develop life-saving treatments, weakens the biomedical research enterprise, and threatens the Nation’s ability to respond to public health challenges.
