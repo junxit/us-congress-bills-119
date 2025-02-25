@@ -1,7 +1,7 @@
 ---
 measure: H.R. 818
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 818
@@ -24,9 +24,10 @@ SPUR Act
 - Rep. Meuser, Daniel [R-PA-9] (M001204)
 - Rep. LaLota, Nick [R-NY-1] (L000598)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Recorded votes (1)
 
@@ -45,3 +46,4 @@ SPUR Act
 - 2025-02-24 — Mr. Williams (TX) moved to suspend the rules and pass the bill.
 - 2025-02-24 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 384 - 25 (Roll no. 45). (text: CR H740)
 - 2025-02-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 384 - 25 (Roll no. 45). (text: CR H740)
+- 2025-02-25 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
