@@ -1,0 +1,31 @@
+---
+legis-num: S. 736
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 736
+
+> To increase the penalty for prohibited provision of a phone in a correctional facility, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Lieutenant Osvaldo Albarati Stopping Prison Contraband Act”.
+
+## § 2. Prohibited provision of a phone
+
+Section 1791(b) of title 18, United States Code, is amended—
+
+- **(1)** by redesignating paragraphs (4) and (5) as paragraphs (5) and (6), respectively;
+- **(2)** by inserting after paragraph (3) the following:
+  > - **(4)** in the case of a violation of subsection (a)(1), imprisonment for not more than 2 years, or both, if the object is specified in subsection (d)(1)(F) of this section;
+
+- **(3)** in paragraph (5), as so redesignated, by inserting “, in the case of a violation of subsection (a)(2),” before “(d)(1)(F)”.
+
+## § 3. Review of policies
+
+Not later than 1 year after the date of enactment of this Act, the Director of the Bureau of Prisons shall—
+
+- **(1)** conduct a review of the policies of the Bureau of Prisons pertaining to inmates who make, possess, obtain, or attempt to make or obtain a prohibited object, as defined in section 1791(d)(1) of title 18, United States Code; and
+- **(2)** update those policies as needed to improve protections for incarcerated individuals and staff.
