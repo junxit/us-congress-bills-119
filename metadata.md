@@ -1,7 +1,7 @@
 ---
 measure: H.R. 804
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 804
@@ -23,9 +23,10 @@ Rural Small Business Resilience Act
 - Rep. Bean, Aaron [R-FL-4] (B001314)
 - Rep. Goodlander, Maggie [D-NH-2] (G000604)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Recorded votes (1)
 
@@ -44,3 +45,4 @@ Rural Small Business Resilience Act
 - 2025-02-25 — Motion to reconsider laid on the table Agreed to without objection.
 - 2025-02-25 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 415 - 8 (Roll no. 49). (text: 2/24/2025 CR H746)
 - 2025-02-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 415 - 8 (Roll no. 49). (text: 2/24/2025 CR H746)
+- 2025-02-26 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
