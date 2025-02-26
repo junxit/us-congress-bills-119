@@ -1,7 +1,7 @@
 ---
 measure: H.R. 695
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+7 amendatory instructions. 0 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,10 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 1562(a)(1) of title 38, United States Code, is amended by striking “$1,406.73” and inserting “$8,333.33”. | the bill names no machine-readable US Code section |
-| — | replace | by striking “special pension under this section” and inserting “monthly”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by striking the period and adding at the end the following: “a special pension under this section at the rate of $1,406.73, as adjusted from time to time under subsection (e).”. | the bill names no machine-readable US Code section |
+| — | insert | by inserting “(A)” before “The Secretary”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “the rate of $1,406.73” and inserting “the rate described in subparagraph (B)”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | insert | by inserting “(1)” before “Effective”; | the bill names no machine-readable US Code section |
+| — | insert | by inserting “, subject to paragraph (2),” before “shall”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph (2): | the bill names no machine-readable US Code section |
+| — | replace | Section 5503(d)(7) of title 38, United States Code, is amended by striking “November 30, 2031” and inserting “January 31, 2033”. | the bill names no machine-readable US Code section |

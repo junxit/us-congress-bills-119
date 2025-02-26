@@ -26,7 +26,20 @@ Congress finds the following:
 
 ## § 3. Increase in Department of Veterans Affairs special pension payable to Medal of Honor recipients
 
-- **(a)** *Increase in special pension payable to living Medal of Honor recipients* Section 1562(a)(1) of title 38, United States Code, is amended by striking “$1,406.73” and inserting “$8,333.33”.
-- **(b)** *Amount of special pension payable to surviving spouses* Section 1562(a)(2)(A) of title 38, United States Code, is amended—
-  - **(1)** by striking “special pension under this section” and inserting “monthly”; and
-  - **(2)** by striking the period and adding at the end the following: “a special pension under this section at the rate of $1,406.73, as adjusted from time to time under subsection (e).”.
+Section 1562 of title 38, United States Code, is amended—
+
+- **(1)** in subsection (a)(1)—
+  - **(A)** by inserting “(A)” before “The Secretary”;
+  - **(B)** by striking “the rate of $1,406.73” and inserting “the rate described in subparagraph (B)”; and
+  - **(C)** by adding at the end the following new subparagraph:
+    > - **(B)** The rate described in this subparagraph is equal to the amount of monthly compensation paid to a veteran without dependents under subsection (m) of section 1114 of this title, increased to the next intermediate rate under subsection (p) of such section.
+
+- **(2)** in subsection (e)—
+  - **(A)** by inserting “(1)” before “Effective”;
+  - **(B)** by inserting “, subject to paragraph (2),” before “shall”; and
+  - **(C)** by adding at the end the following new paragraph (2):
+    > - **(2)** The Secretary shall not, under paragraph (1), increase the amount of monthly special pension payable under subsection (a) in a year if such amount was otherwise increased during such year.
+
+## § 4. Extension of certain limits on payments of pension
+
+Section 5503(d)(7) of title 38, United States Code, is amended by striking “November 30, 2031” and inserting “January 31, 2033”.
