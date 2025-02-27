@@ -1,7 +1,7 @@
 ---
 measure: H.R. 250
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 250
@@ -53,9 +53,10 @@ To direct the Joint Committee on the Library to procure a statue of Benjamin Fra
 - Rep. Kelly, Mike [R-PA-16] (K000376)
 - Rep. Latta, Robert E. [R-OH-5] (L000566)
 
-## Committees (1)
+## Committees (2)
 
 - House — Committee on House Administration
+- Senate — Rules and Administration Committee
 
 ## Actions
 
@@ -68,3 +69,4 @@ To direct the Joint Committee on the Library to procure a statue of Benjamin Fra
 - 2025-02-26 — Mr. Steil moved to suspend the rules and pass the bill.
 - 2025-02-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H854)
 - 2025-02-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H854)
+- 2025-02-27 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
