@@ -2,7 +2,7 @@
 legis-num: H.J. RES. 35
 congress: 119th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.J. RES. 35
