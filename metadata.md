@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 35
 congress: 119
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.J.Res. 35
@@ -42,9 +42,10 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 
 - House — Energy and Commerce Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2025-02-26 — [House 119-1-52](votes/house-119-1-0052.md) — On Passage — **Passed** (220–206)
+- 2025-02-27 — [Senate 119-1-97](votes/senate-119-1-0097.md) — On the Joint Resolution — **Joint Resolution Passed** (52–47)
 
 ## Actions
 
@@ -62,3 +63,6 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2025-02-26 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 220 - 206, 1 Present (Roll no. 52). (text: CR H846)
 - 2025-02-26 — Rule provides for consideration of H.J. Res. 20, H.J. Res. 35 and H. Con. Res. 14. The resolution provides for consideration of two joint resolutions, H.J.Res.20, under a closed rule and H.J.Res. 35, under a closed rule. Also, the resolution provides for consideration of H. Con. Res. 14, under a closed rule. The joint resolutions are debated for one hour each and the concurrent resolution is debated for 3 hours.
 - 2025-02-26 — The previous question was ordered pursuant to the rule.
+- 2025-02-27 — Message on Senate action sent to the House.
+- 2025-02-27 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Yea-Nay Vote. 52 - 47. Record Vote Number: 97.
+- 2025-02-27 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Yea-Nay Vote. 52 - 47. Record Vote Number: 97. (consideration: CR S1419)
