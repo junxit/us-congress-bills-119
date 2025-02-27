@@ -1,0 +1,20 @@
+---
+legis-num: S. 781
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 781
+
+> To reauthorize Long Island Sound programs, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Long Island Sound Restoration and Stewardship Reauthorization Act of 2025”.
+
+## § 2. Reauthorization of Long Island Sound Programs
+
+- **(a)** *Long island sound grants* Section 119(h) of the Federal Water Pollution Control Act (33 U.S.C. 1269(h)) is amended by striking “2019 through 2023” and inserting “2025 through 2029”.
+- **(b)** *Long island sound stewardship grants* Section 11(a) of the Long Island Sound Stewardship Act of 2006 (33 U.S.C. 1269 note; Public Law 109–359) is amended, in the matter preceding paragraph (1), by striking “2019 through 2023” and inserting “2025 through 2029”.
+- **(c)** *Technical amendment* Section 119(g) of the Federal Water Pollution Control Act (33 U.S.C. 1269(g)) is amended by redesignating paragraph (4) as paragraph (3).
