@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 94
 congress: 119
-version: Reported to Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 94
@@ -26,3 +26,5 @@ An original resolution authorizing expenditures by committees of the Senate for 
 - 2025-02-25 — Committee on Rules and Administration. Original measure reported to Senate by Senator McConnell. Without written report.
 - 2025-02-25 — Introduced in Senate
 - 2025-02-25 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 16.
+- 2025-02-27 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.
+- 2025-02-27 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S1434; text: 02/25/2025 CR S1352-1358)
