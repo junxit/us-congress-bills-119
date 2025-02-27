@@ -1,0 +1,25 @@
+---
+legis-num: H.R. 1741
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1741
+
+> To amend title 38, United States Code, to require the online publication of the docket of the Board of Veterans’ Appeals, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Veteran Appeals Transparency Act of 2025”.
+
+## § 2. Board of Veterans’ Appeals publication of dates of docket activity
+
+Section 7107 of title 38, United States Code, is amended by adding at the end the following new subsection:
+
+> - **(f)** *Publication of expected actions*
+>   - **(1)** On a weekly basis, for each docket, the Board shall publish, on a website of the Department, notice of the docket dates of the cases assigned to a Board member for a decision for that week.
+>   - **(2)** Each notice published under paragraph (1) shall include a statement that an assignment described in such paragraph does not require the Board to issue a decision regarding the case during such week.
+>   - **(3)** Paragraph (1) shall not apply to a case—
+>     - **(A)** that has been advanced under subsection (b); or
+>     - **(B)** remanded by the United States Court of Appeals for Veterans Claims.
