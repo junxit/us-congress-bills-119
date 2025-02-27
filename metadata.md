@@ -1,7 +1,7 @@
 ---
 measure: H.R. 469
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 469
@@ -45,10 +45,11 @@ Semiquincentennial Congressional Time Capsule Act
 - Rep. Costa, Jim [D-CA-21] (C001059)
 - Rep. Thompson, Glenn [R-PA-15] (T000467)
 
-## Committees (2)
+## Committees (3)
 
 - House — Transportation and Infrastructure Committee
 - House — Committee on House Administration
+- Senate — Rules and Administration Committee
 
 ## Actions
 
@@ -63,3 +64,4 @@ Semiquincentennial Congressional Time Capsule Act
 - 2025-02-26 — Mr. Steil moved to suspend the rules and pass the bill.
 - 2025-02-26 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H855-856)
 - 2025-02-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H855-856)
+- 2025-02-27 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
