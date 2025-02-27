@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 35
 congress: 119
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 35
@@ -66,3 +66,9 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2025-02-27 — Message on Senate action sent to the House.
 - 2025-02-27 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed without amendment by Yea-Nay Vote. 52 - 47. Record Vote Number: 97.
 - 2025-02-27 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Yea-Nay Vote. 52 - 47. Record Vote Number: 97. (consideration: CR S1419)
+- 2025-03-04 — Presented to President.
+- 2025-03-04 — Presented to President.
+- 2025-03-14 — Became Public Law No: 119-2.
+- 2025-03-14 — Became Public Law No: 119-2.
+- 2025-03-14 — Signed by President.
+- 2025-03-14 — Signed by President.
