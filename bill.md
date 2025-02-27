@@ -1,0 +1,25 @@
+---
+legis-num: S. 769
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 769
+
+> To amend the Research and Development, Competition, and Innovation Act to clarify the definition of foreign country for purposes of malign foreign talent recruitment restriction, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “United States Research Protection Act of 2025”.
+
+## § 2. Clarification of definition of foreign country for purposes of malign foreign talent recruitment restriction
+
+Paragraph (4) of section 10638 of title VI of division B of the Research and Development, Competition, and Innovation Act (42 U.S.C. 19237) is amended—
+
+- **(1)** by inserting “of concern” after “foreign country” each place such term appears;
+- **(2)** by striking “means—” and all that follows through “any program, position, or activity” and inserting “means any program, position, or activity”;
+- **(3)** by striking subparagraph (B);
+- **(4)** by redesignating clauses (i) through (ix) as subparagraphs (A) through (I), respectively, and moving such subparagraphs, as so redesignated, two ems to the left;
+- **(5)** in the matter preceding subparagraph (A), as so redesignated, by striking “directly provided” and inserting “whether directly or indirectly provided”; and
+- **(6)** in subparagraph (I), as so redesignated, by striking “; and” and inserting a period.
