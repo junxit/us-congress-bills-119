@@ -1,7 +1,7 @@
 ---
 measure: H.R. 695
 congress: 119
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 695
@@ -44,3 +44,14 @@ Medal of Honor Act
 - 2025-02-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 424 - 0 (Roll no. 51). (text: CR H857)
 - 2025-02-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 424 - 0 (Roll no. 51). (text: CR H857)
 - 2025-02-27 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2025-11-07 — Message on Senate action sent to the House.
+- 2025-11-07 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7976-7977)
+- 2025-11-07 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2025-11-07 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2025-11-07 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2025-11-25 — Presented to President.
+- 2025-11-25 — Presented to President.
+- 2025-12-01 — Became Public Law No: 119-43.
+- 2025-12-01 — Became Public Law No: 119-43.
+- 2025-12-01 — Signed by President.
+- 2025-12-01 — Signed by President.
