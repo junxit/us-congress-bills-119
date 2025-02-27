@@ -1,0 +1,19 @@
+---
+legis-num: S. 772
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 772
+
+> To amend the Internal Revenue Code of 1986 to make the exclusion for certain employer payments of student loans under educational assistance programs permanent.
+
+## § 1. Short title
+
+This Act may be cited as the “Employer Participation in Repayment Act”.
+
+## § 2. Exclusion for certain employer payments of student loans under educational assistance programs made permanent
+
+- **(a)** *In general* Section 127(c)(1)(B) of the Internal Revenue Code of 1986 is amended by striking “in the case of payments made before January 1, 2026,”.
+- **(b)** *Effective date* The amendment made by this section shall apply to payments made after the date of the enactment of this Act.
