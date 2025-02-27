@@ -1,7 +1,7 @@
 ---
 measure: H.R. 695
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 695
@@ -23,9 +23,10 @@ Medal of Honor Act
 - Rep. De La Cruz, Monica [R-TX-15] (D000594)
 - Rep. Van Drew, Jefferson [R-NJ-2] (V000133)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -42,3 +43,4 @@ Medal of Honor Act
 - 2025-02-26 — Mr. Bost moved to suspend the rules and pass the bill, as amended.
 - 2025-02-26 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 424 - 0 (Roll no. 51). (text: CR H857)
 - 2025-02-26 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 424 - 0 (Roll no. 51). (text: CR H857)
+- 2025-02-27 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
