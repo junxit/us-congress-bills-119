@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 1813
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1813
+
+> To amend the Child Nutrition Act of 1966 to set maximum monthly allowances for milk under the special supplemental nutrition program for women, infants, and children.
+
+## § 1. Maximum monthly allowances of milk under WIC
+
+Section 17 of the Child Nutrition Act of 1966 (42 U.S.C. 1786) is amended by adding at the end the following:
+
+> - **(t)** *Maximum monthly allowances of milk* The maximum monthly allowances of milk for the following food packages described in section 246.10(e) of title 7, Code of Federal Regulations are:
+>   - **(1)** For Food Package IV, 16 quarts.
+>   - **(2)** For Food Package V, 22 quarts.
+>   - **(3)** For Food Package VI, 22 quarts.
+>   - **(4)** For Food Package VII, 24 quarts.
