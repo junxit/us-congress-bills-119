@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 1779
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1779
+
+> To direct the Administrator of General Services to sell the property known as the Speaker Nancy Pelosi Federal Building, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Stop Wasteful Allocations of Money for Pelosi Act” or the “SWAMP Act”.
+
+## § 2. Sale of Speaker Nancy Pelosi Federal Building
+
+- **(a)** *Sale* Not later than May 31, 2025, the Administrator of General Services shall—
+  - **(1)** dispose of the property described in subsection (b) pursuant to subchapter III of chapter 5 of title 40, United States Code; or
+  - **(2)** if a disposal pursuant to paragraph (1) is not feasible, in the determination of the Administrator, sell the property described in that subsection at fair market value and for the highest and best use.
+- **(b)** *Property described* The property referred to in subsection (a) is the property generally consisting of 90 7th St, San Francisco, California 94103, including the building known as the Speaker Nancy Pelosi Federal Building, subject to a survey, as determined appropriate by the Administrator.
