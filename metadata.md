@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 20
 congress: 119
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 20
@@ -52,9 +52,11 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 
 - House — Energy and Commerce Committee
 
-## Recorded votes (1)
+## Recorded votes (3)
 
 - 2025-02-27 — [House 119-1-53](votes/house-119-1-0053.md) — On Passage — **Passed** (221–198)
+- 2025-04-09 — [Senate 119-1-206](votes/senate-119-1-0206.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (52–42)
+- 2025-04-10 — [Senate 119-1-207](votes/senate-119-1-0207.md) — On the Joint Resolution — **Joint Resolution Passed** (53–44)
 
 ## Actions
 
@@ -70,3 +72,15 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2025-02-27 — Rule provides for consideration of H.J. Res. 20, H.J. Res. 35 and H. Con. Res. 14. The resolution provides for consideration of two joint resolutions, H.J.Res.20, under a closed rule and H.J.Res. 35, under a closed rule. Also, the resolution provides for consideration of H. Con. Res. 14, under a closed rule. The joint resolutions are debated for one hour each and the concurrent resolution is debated for 3 hours.
 - 2025-02-27 — The previous question was ordered pursuant to the rule.
 - 2025-03-03 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 17.
+- 2025-04-09 — Measure laid before Senate by motion. (consideration: CR S2506)
+- 2025-04-09 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 52 - 42. Record Vote Number: 206.
+- 2025-04-10 — Considered by Senate. (consideration: CR S2533, S2537-2538)
+- 2025-04-10 — Message on Senate action sent to the House.
+- 2025-04-10 — Passed Senate without amendment by Yea-Nay Vote. 53 - 44. Record Vote Number: 207.
+- 2025-04-10 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 53 - 44. Record Vote Number: 207.
+- 2025-05-09 — Became Public Law No: 119-6.
+- 2025-05-09 — Became Public Law No: 119-6.
+- 2025-05-09 — Presented to President.
+- 2025-05-09 — Presented to President.
+- 2025-05-09 — Signed by President.
+- 2025-05-09 — Signed by President.
