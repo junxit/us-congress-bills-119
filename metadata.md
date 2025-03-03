@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 20
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.J.Res. 20
@@ -69,3 +69,4 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2025-02-27 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 221 - 198, 2 Present (Roll no. 53). (text: CR H884)
 - 2025-02-27 — Rule provides for consideration of H.J. Res. 20, H.J. Res. 35 and H. Con. Res. 14. The resolution provides for consideration of two joint resolutions, H.J.Res.20, under a closed rule and H.J.Res. 35, under a closed rule. Also, the resolution provides for consideration of H. Con. Res. 14, under a closed rule. The joint resolutions are debated for one hour each and the concurrent resolution is debated for 3 hours.
 - 2025-02-27 — The previous question was ordered pursuant to the rule.
+- 2025-03-03 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 17.
