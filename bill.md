@@ -1,0 +1,24 @@
+---
+legis-num: H.R. 1774
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1774
+
+> To amend title 23, United States Code, to withhold certain apportionment funds from the District of Columbia unless the Mayor of the District of Columbia removes the phrase Black Lives Matter from the street symbolically designated as Black Lives Matter Plaza, redesignates such street as Liberty Plaza, and removes such phrase from each website, document, and other material under the jurisdiction of the District of Columbia.
+
+## § 1. Redesignation of Black Lives Matter Plaza and removal of Black Lives Matter phrase from each website, document, and other material under the jurisdiction of the District of Columbia
+
+- **(a)** *In general* Chapter 1 of title 23, United States Code, is amended by adding at the end the following:
+  > ## § 180. Redesignation of Black Lives Matter Plaza and removal of Black Lives Matter phrase from each website, document, and other material under the jurisdiction of the District of Columbia
+  >
+  > - **(a)** *Withholding of funds for noncompliance* The Secretary shall withhold 50 percent of the amount required to be apportioned to the District of Columbia under section 104(b) on the first day of each fiscal year beginning after the date of enactment of this section in which the Mayor of the District of Columbia has not complied with the requirements of subsection (b).
+  > - **(b)** *In general* To be in compliance with this section, the Mayor of the District of Columbia, not later than 60 days after the date of the enactment of this section, shall—
+  >   - **(1)** remove the phrase “Black Lives Matter” from—
+  >     - **(A)** 16th Street, N.W., between H Street, N.W., and K Street, N.W., in the District of Columbia (symbolically designated as “Black Lives Matter Plaza” under the Black Lives Matter Plaza Designation Act of 2020 (sec. 9–204.01 note, D.C. Official Code); and
+  >     - **(B)** each website, document, and other material under the jurisdiction of the District of Columbia; and
+  >   - **(2)** redesignate such street as “Liberty Plaza”.
+
+- **(b)** *Clerical amendment* The analysis for chapter 1 of title 23, United States Code, is amended by adding at the end the following:
