@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 153
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 153
@@ -16,7 +16,7 @@ Expressing condolences to the families, friends, and loved ones of the victims o
 
 - Rep. Estes, Ron [R-KS-4] (E000298)
 
-## Cosponsors (87)
+## Cosponsors (93)
 
 - Rep. Graves, Sam [R-MO-6] (G000546)
 - Rep. Larsen, Rick [D-WA-2] (L000560)
@@ -105,6 +105,12 @@ Expressing condolences to the families, friends, and loved ones of the victims o
 - Rep. Babin, Brian [R-TX-36] (B001291)
 - Rep. Amo, Gabe [D-RI-1] (A000380)
 - Rep. Lawler, Michael [R-NY-17] (L000599)
+- Rep. Pou, Nellie [D-NJ-9] (P000621)
+- Rep. Raskin, Jamie [D-MD-8] (R000606)
+- Rep. Davis, Donald G. [D-NC-1] (D000230)
+- Rep. Carey, Mike [R-OH-15] (C001126)
+- Rep. Friedman, Laura [D-CA-30] (F000483)
+- Rep. Issa, Darrell [R-CA-48] (I000056)
 
 ## Committees (2)
 
@@ -116,3 +122,9 @@ Expressing condolences to the families, friends, and loved ones of the victims o
 - 2025-02-24 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2025-02-24 — Referred to the Committee on Transportation and Infrastructure, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2025-02-24 — Referred to the Subcommittee on Aviation.
+- 2025-03-03 — Considered under suspension of the rules. (consideration: CR H935-937)
+- 2025-03-03 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 153.
+- 2025-03-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-03-03 — Mr. Mann moved to suspend the rules and agree to the resolution.
+- 2025-03-03 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H935)
+- 2025-03-03 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H935)
