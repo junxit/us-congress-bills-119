@@ -1,7 +1,7 @@
 ---
 measure: S. 371
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 371
@@ -16,12 +16,13 @@ SBA Disaster Transparency Act
 
 - Sen. Scott, Tim [R-SC] (S001184)
 
-## Cosponsors (4)
+## Cosponsors (5)
 
 - Sen. Schiff, Adam B. [D-CA] (S001150)
 - Sen. Budd, Ted [R-NC] (B001305)
 - Sen. Blackburn, Marsha [R-TN] (B001243)
 - Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Warner, Mark R. [D-VA] (W000805)
 
 ## Committees (1)
 
@@ -31,3 +32,7 @@ SBA Disaster Transparency Act
 
 - 2025-02-03 — Introduced in Senate
 - 2025-02-03 — Read twice and referred to the Committee on Small Business and Entrepreneurship.
+- 2025-02-12 — Committee on Small Business and Entrepreneurship. Ordered to be reported without amendment favorably.
+- 2025-03-04 — Committee on Small Business and Entrepreneurship. Reported by Senator Ernst without amendment. Without written report.
+- 2025-03-04 — Committee on Small Business and Entrepreneurship. Reported by Senator Ernst without amendment. Without written report.
+- 2025-03-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 23.
