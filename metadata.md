@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 30
 congress: 119
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 30
@@ -28,3 +28,6 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - 2025-03-03 — Introduced in Senate
 - 2025-03-03 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2025-03-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 19.
+- 2025-03-04 — Senate Committee on Energy and Natural Resources discharged, by petition, pursuant to 5 U.S.C. 802(c).
+- 2025-03-04 — Senate Committee on Energy and Natural Resources discharged, by petition, pursuant to 5 U.S.C. 802(c).
