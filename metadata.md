@@ -1,7 +1,7 @@
 ---
 measure: H.R. 856
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 856
@@ -20,9 +20,10 @@ Safe and Smart Federal Purchasing Act
 
 - Rep. Connolly, Gerald E. [D-VA-11] (C001078)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -41,3 +42,4 @@ Safe and Smart Federal Purchasing Act
 - 2025-03-03 — Mr. Comer moved to suspend the rules and pass the bill.
 - 2025-03-03 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 54). (text: CR H932)
 - 2025-03-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 417 - 0 (Roll no. 54). (text: CR H932)
+- 2025-03-04 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
