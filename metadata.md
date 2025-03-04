@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1515
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1515
@@ -21,9 +21,10 @@ GOOD Act
 - Rep. Khanna, Ro [D-CA-17] (K000389)
 - Rep. Kiley, Kevin [R-CA-3] (K000401)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ GOOD Act
 - 2025-03-03 — Mr. Comer moved to suspend the rules and pass the bill.
 - 2025-03-03 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H928-929)
 - 2025-03-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H928-929)
+- 2025-03-04 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
