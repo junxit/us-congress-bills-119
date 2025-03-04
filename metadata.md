@@ -1,7 +1,7 @@
 ---
 measure: H.R. 872
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 872
@@ -20,10 +20,11 @@ Federal Contractor Cybersecurity Vulnerability Reduction Act of 2025
 
 - Rep. Brown, Shontel M. [D-OH-11] (B001313)
 
-## Committees (2)
+## Committees (3)
 
 - House — Armed Services Committee
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ Federal Contractor Cybersecurity Vulnerability Reduction Act of 2025
 - 2025-03-03 — Mr. Comer moved to suspend the rules and pass the bill, as amended.
 - 2025-03-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H930-931)
 - 2025-03-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H930-931)
+- 2025-03-04 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
