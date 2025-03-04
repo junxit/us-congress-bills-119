@@ -1,7 +1,7 @@
 ---
 measure: H.R. 758
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 758
@@ -22,9 +22,10 @@ Mail Traffic Deaths Reporting Act of 2025
 - Rep. Tlaib, Rashida [D-MI-12] (T000481)
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -43,3 +44,4 @@ Mail Traffic Deaths Reporting Act of 2025
 - 2025-03-03 — Mr. Comer moved to suspend the rules and pass the bill.
 - 2025-03-03 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 402 - 16 (Roll no. 55). (text: CR H933-934)
 - 2025-03-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 402 - 16 (Roll no. 55). (text: CR H933-934)
+- 2025-03-04 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
