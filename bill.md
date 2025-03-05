@@ -1,0 +1,23 @@
+---
+legis-num: S. 856
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 856
+
+> To amend the Lobbying Disclosure Act of 1995 to clarify a provision relating to certain contents of registrations under that Act.
+
+## § 1. Short title
+
+This Act may be cited as the “Disclosing Foreign Influence in Lobbying Act”.
+
+## § 2. Clarification of contents of registration
+
+Section 4(b) of the Lobbying Disclosure Act of 1995 (2 U.S.C. 1603(b)) is amended—
+
+- **(1)** in paragraph (6), by striking “and” at the end; and
+- **(2)** in paragraph (7), by striking “the offense.” and inserting the following:
+  > the offense; and
+  > - **(8)** notwithstanding paragraph (4), the name and address of each government of a foreign country (including any agency or subdivision of a government of a foreign country, such as a regional or municipal unit of government) and foreign political party, other than the client, that participates in the direction, planning, supervision, or control of any lobbying activities of the registrant.
