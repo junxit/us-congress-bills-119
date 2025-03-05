@@ -13,29 +13,16 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Combating the Lies of Authoritarians in School Systems Act” or the “CLASS Act”.
 
-## § 2. Prohibition on funding from and contracts with the Government of the People’s Republic of China and the Chinese Communist Party
+## § 2. Disclosure of foreign funding and contracts
 
-As a condition on receipt of Federal financial assistance under any applicable program by a public elementary school or public secondary school, the school may not accept funds from or enter into a contract with—
-
-- **(1)** the Government of the People’s Republic of China;
-- **(2)** the Chinese Communist Party; or
-- **(3)** any individual or entity acting directly or indirectly on behalf of such Government or Party.
-
-## § 3. Disclosure of foreign funding and contracts
-
-As a condition on receipt of Federal financial assistance under any applicable program by a public elementary school or public secondary school, the school shall, not later than 30 days after receiving funds or entering into a contract with a foreign source, submit to the Secretary of Education a written disclosure that identifies—
-
-- **(1)** the name and country of origin of the foreign source;
-- **(2)** in a case in which a school receives funds from a foreign source—
-  - **(A)** the amount of funds received from that source; and
-  - **(B)** any terms or conditions applicable to the receipt of such funds; and
-- **(3)** in a case in which a school enters into a contract with a foreign source, the terms and conditions of such contract.
-
-## § 4. Definitions
-
-In this Act:
-
-- **(1)** The term applicable program has the meaning given that term in section 400 of the General Education Provisions Act (20 U.S.C. 1221).
-- **(2)** The terms elementary school and secondary school have the meanings given those terms in section 8101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
-- **(3)** The term Federal financial assistance has the meaning given that term in section 7501(a)(5) of title 31, United States Code.
-- **(4)** The term “foreign source” has the meaning given that term in section 117(h) of the Higher Education Act of 1965 (20 U.S.C. 1011f(h)).
+- **(a)** *In general* As a condition on receipt of Federal financial assistance under any applicable program by a public elementary school or a public secondary school, the school, not later than 30 days after receiving funds in excess of $10,000 in the aggregate from a foreign source, or entering into one or more contracts with an aggregate value in excess of $10,000 with a foreign source, shall submit to the Secretary of Education a written disclosure that identifies—
+  - **(1)** the name and country of origin of the foreign source;
+  - **(2)** in a case in which a school receives funds from a foreign source—
+    - **(A)** the amount of funds received from that source; and
+    - **(B)** any terms or conditions applicable to the receipt of such funds; and
+  - **(3)** in a case in which a school enters into a contract with a foreign source, the terms and conditions of such contract.
+- **(b)** *Definitions* In this section:
+  - **(1)** The term applicable program has the meaning given that term in section 400 of the General Education Provisions Act (20 U.S.C. 1221).
+  - **(2)** The terms elementary school and secondary school have the meanings given those terms in section 8101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
+  - **(3)** The term Federal financial assistance has the meaning given that term in section 7501(a)(5) of title 31, United States Code.
+  - **(4)** The term “foreign source” has the meaning given that term in section 117(h) of the Higher Education Act of 1965 (20 U.S.C. 1011f(h)).
