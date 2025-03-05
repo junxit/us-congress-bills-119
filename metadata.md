@@ -1,7 +1,7 @@
 ---
 measure: H.R. 919
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 919
@@ -21,9 +21,10 @@ Chronic Disease Flexible Coverage Act
 - Rep. Panetta, Jimmy [D-CA-19] (P000613)
 - Rep. Tenney, Claudia [R-NY-24] (T000478)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ Chronic Disease Flexible Coverage Act
 - 2025-03-04 — Mr. Smith (MO) moved to suspend the rules and pass the bill.
 - 2025-03-04 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H964)
 - 2025-03-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H964)
+- 2025-03-05 — Received in the Senate and Read twice and referred to the Committee on Finance.
