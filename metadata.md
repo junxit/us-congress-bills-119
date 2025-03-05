@@ -1,7 +1,7 @@
 ---
 measure: S. 524
 congress: 119
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 524
@@ -30,3 +30,7 @@ Coast Guard Authorization Act of 2025
 
 - 2025-02-11 — Introduced in Senate
 - 2025-02-11 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2025-03-05 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S1521-1568; text: CR S1522-1568)
+- 2025-03-05 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2025-03-05 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2025-03-05 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.

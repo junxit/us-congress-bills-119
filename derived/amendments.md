@@ -1,7 +1,7 @@
 ---
 measure: S. 524
 congress: 119
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -1247,7 +1247,7 @@ complete account of the bill's effect, which it is not.
 | `43 U.S.C. § 1474b` | strike | by striking paragraph (5); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 1474b` | redesignate | by redesignating paragraphs (2), (3), (4), (6), and (7) as subsections (c), (d), (e), (f), and (g), respectively, and indenting the subsections appropriately; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 1474b` | replace | by striking “(1) Notwithstanding any other provision of law and subject to the provisions of paragraphs (5) and (7)” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `43 U.S.C. § 1474b` | strike | in the matter preceding subparagraph (A) by striking “issued in United States v. Exxon Corporation, et al. (No. A91-082 CIV) and State of Alaska v. Exxon Corporation, et al. (No. A91-083 CIV) (hereafter referred to as the Consent Decree),”; | the bill quotes the text struck but describes what replaces it |
+| `43 U.S.C. § 1474b` | strike | in the matter preceding subparagraph (A) by striking “issued in United States v. Exxon Corporation, et al. (No. A91–082 CIV) and State of Alaska v. Exxon Corporation, et al. (No. A91–083 CIV) (hereafter referred to as the Consent Decree),”; | the bill quotes the text struck but describes what replaces it |
 | `43 U.S.C. § 1474b` | replace | by striking subparagraphs (A) and (B) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 1474b` | replace | by striking “Any funds” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `43 U.S.C. § 1474b` | redesignate | in subsection (c) (as redesignated by paragraph (2)) by striking “(c) Joint” and inserting the following: | the bill quotes the text struck but describes what replaces it |
