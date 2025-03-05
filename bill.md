@@ -16,8 +16,8 @@ This Act may be cited as the “Promoting Responsible Oversight To Eliminate Com
 ## § 2. Prohibition on availability of funds
 
 - **(a)** *Prohibition* Notwithstanding any other provision of law, no funds may be made available under an applicable program to any elementary school or secondary school that—
-  - **(1)** has a partnership in effect with a cultural or language institute directly or indirectly funded by the Government of the People's Republic of China, including a Confucius Institute;
-  - **(2)** operates a learning center directly or indirectly supported by the Government of the People's Republic of China (commonly referred to as a “Confucius Classroom”); or
+  - **(1)** has a partnership in effect with a cultural or language institute directly or indirectly funded by the Government of the People’s Republic of China, including a Confucius Institute;
+  - **(2)** operates a learning center directly or indirectly supported by the Government of the People’s Republic of China (commonly referred to as a “Confucius Classroom”); or
   - **(3)** otherwise receives support from an individual or entity acting directly or indirectly on behalf of the Government of the People’s Republic of China, including support in the form of teaching materials, personnel, funds, or other resources.
 - **(b)** *Effective date* The prohibition under subsection (a) shall take effect on the date that is one year after the date of the enactment of this Act.
 - **(c)** *Contracts made prior to date of enactment*
@@ -31,6 +31,10 @@ This Act may be cited as the “Promoting Responsible Oversight To Eliminate Com
     - **(B)** continues to be effective after the effective date specified in subsection (b); and
     - **(C)** relates to at least one of the circumstances described in paragraph (1), (2), or (3) of subsection (a).
 - **(d)** *Notice to affected schools* Not later than 90 days after the date of the enactment of this Act, the Secretary shall provide notice to elementary and secondary schools of the requirements of this section together with guidance for achieving compliance with such requirements.
-- **(e)** *Definitions* In this section:
-  - **(1)** *Applicable program* The term “applicable program” has the meaning given that term in section 400(c)(1) of the General Education Provisions Act (20 U.S.C. 1221(c)(1)).
-  - **(2)** *ESEA Terms* The terms elementary school, secondary school, and “Secretary” have the meanings given those terms in section 8101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
+
+## § 3. Definitions
+
+In this Act:
+
+- **(1)** *Applicable program* The term “applicable program” has the meaning given that term in section 400(c)(1) of the General Education Provisions Act (20 U.S.C. 1221(c)(1)).
+- **(2)** *Esea terms* The terms “elementary school”, “secondary school”, and “Secretary” have the meanings given those terms in section 8101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
