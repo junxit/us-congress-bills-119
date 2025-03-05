@@ -1,7 +1,7 @@
 ---
 measure: H.R. 579
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 579
@@ -21,9 +21,10 @@ Recruiting Families Using Data Act of 2025
 - Rep. Boyle, Brendan F. [D-PA-2] (B001296)
 - Rep. Nunn, Zachary [R-IA-3] (N000193)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ Recruiting Families Using Data Act of 2025
 - 2025-03-04 — Mr. Smith (MO) moved to suspend the rules and pass the bill.
 - 2025-03-04 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H962-963)
 - 2025-03-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H962-963)
+- 2025-03-05 — Received in the Senate and Read twice and referred to the Committee on Finance.
