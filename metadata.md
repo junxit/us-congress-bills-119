@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1049
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1049
@@ -16,9 +16,11 @@ Transparency in Reporting of Adversarial Contributions to Education Act
 
 - Rep. Bean, Aaron [R-FL-4] (B001314)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Rep. Mackenzie, Ryan [R-PA-7] (M001230)
+- Rep. Barr, Andy [R-KY-6] (B001282)
+- Rep. Houchin, Erin [R-IN-9] (H001093)
 
 ## Committees (1)
 
@@ -29,3 +31,8 @@ Transparency in Reporting of Adversarial Contributions to Education Act
 - 2025-02-06 — Introduced in House
 - 2025-02-06 — Introduced in House
 - 2025-02-06 — Referred to the House Committee on Education and Workforce.
+- 2025-02-12 — Committee Consideration and Mark-up Session Held
+- 2025-02-12 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 20 - 13.
+- 2025-03-05 — Placed on the Union Calendar, Calendar No. 7.
+- 2025-03-05 — Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-13.
+- 2025-03-05 — Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-13.

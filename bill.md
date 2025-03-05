@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Transparency in Reporting of Adversarial Contributions to Education Act”.
+This Act may be cited as the “Transparency in Reporting of Adversarial Contributions to Education Act” or the “TRACE Act”.
 
 ## § 2. Parents’ right to know about foreign influence
 
