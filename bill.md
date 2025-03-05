@@ -1,0 +1,24 @@
+---
+legis-num: H. RES. 197
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 197
+
+> Censuring Representative Al Green of Texas.
+
+## Preamble
+
+- Whereas, on March 4, 2025, during the joint session of Congress convened by the invitation of the House and Senate, Representative Al Green of Texas engaged in behavior that interrupted President Donald J. Trump’s address to a joint session of Congress, violating decorum and order expected of Members of Congress;
+- Whereas pursuant to Rule I of the One Hundred Nineteenth Congress of the House of Representatives, the Speaker of the House of Representatives shall preserve order and decorum in the chamber;
+- Whereas Members of Congress were advised by the Speaker of the House to maintain decorum;
+- Whereas Representative Green willfully disrupted the joint session, remained defiant, and was subsequently removed by the House Sergeant at Arms from the chamber; and
+- Whereas the actions of Representative Green brought disrepute to the United States Congress: Now, therefore, be it
+
+That—
+
+- **(1)** Representative Al Green of Texas be censured;
+- **(2)** Representative Al Green forthwith present himself in the well of the House of Representatives for the pronouncement of censure; and
+- **(3)** Representative Al Green be censured with the public reading of this resolution by the Speaker.
