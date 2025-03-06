@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 190
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 190
@@ -28,3 +28,10 @@ Electing Members to the Joint Committee of Congress on the Library and the Joint
 
 - 2025-03-05 — Referred to the House Committee on House Administration.
 - 2025-03-05 — Submitted in House
+- 2025-03-06 — Committee on House Administration discharged.
+- 2025-03-06 — Committee on House Administration discharged.
+- 2025-03-06 — Considered by unanimous consent. (consideration: CR H1020)
+- 2025-03-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-03-06 — Mrs. Miller (IL) asked unanimous consent to discharge from committee and consider.
+- 2025-03-06 — On agreeing to the resolution Agreed to without objection. (text: CR H1020)
+- 2025-03-06 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.  (text: CR H1020)
