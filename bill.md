@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 1916
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1916
+
+> Making appropriations for the salaries and expenses of certain U.S. Customs and Border Protection employees working during a Government shutdown in fiscal year 2025, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Pay Our Border Patrol and Customs Agents Act of 2025”.
+
+## § 2. Payment of salaries of certain CBP employees working during a Government shutdown
+
+There are appropriated for fiscal year 2025, out of any money in the Treasury not otherwise appropriated, such sums as are necessary to pay, during any period of a lapse in discretionary appropriations during such fiscal year beginning on or after the date of the enactment of this section, the salaries and expenses of any Agents of the U.S. Border Patrol and officers of the Office of Field Operations within U.S. Customs and Border Protection excepted from furlough during such lapse.
