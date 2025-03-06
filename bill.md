@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 1952
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 1952
+
+> To amend the National Agricultural Research, Extension, and Teaching Policy Act of 1977 to extend grants and fellowships for food and agricultural sciences education.
+
+## § 1. Short title
+
+This Act may be cited as the “Future Funding for Agricultural Research, Mentorship, and Education Reauthorization Act” or the “Future FARMER Act”.
+
+## § 2. Extension of grants and fellowships for food and agricultural sciences education
+
+Section 1417(m) of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3152(m)) is amended—
+
+- **(1)** in paragraph (1), by striking “and” at the end;
+- **(2)** in paragraph (2), by striking the period at the end and adding “; and”; and
+- **(3)** by adding at the end the following:
+  > - **(3)** $40,000,000 for each of fiscal years 2025 through 2029.
