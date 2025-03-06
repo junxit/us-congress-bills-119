@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 61
 congress: 119
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 61
@@ -43,9 +43,11 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 
 - House — Energy and Commerce Committee
 
-## Recorded votes (1)
+## Recorded votes (3)
 
 - 2025-03-05 — [House 119-1-58](votes/house-119-1-0058.md) — On Passage — **Passed** (216–202)
+- 2025-05-05 — [Senate 119-1-231](votes/senate-119-1-0231.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (51–43)
+- 2025-05-06 — [Senate 119-1-232](votes/senate-119-1-0232.md) — On the Joint Resolution — **Joint Resolution Passed** (55–45)
 
 ## Actions
 
@@ -63,3 +65,15 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2025-03-05 — Rule provides for consideration of H.J. Res. 42, H.J. Res. 61 and S.J. Res. 11. The resolution provides for consideration of H.J. Res. 42, H.J. Res. 61, and S.J. Res. 11 under a closed rule with one hour of general debate on each measure. The resolution also provides for one motion to recommit on H.J. Res. 42 and H.J. Res. 61 and one motion to commit on S.J. Res. 11.
 - 2025-03-05 — The previous question was ordered pursuant to the rule.
 - 2025-03-06 — Received in the Senate, read twice.
+- 2025-05-05 — Measure laid before Senate by motion. (consideration: CR S2751)
+- 2025-05-05 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 51 - 43. Record Vote Number: 231.
+- 2025-05-06 — Considered by Senate. (consideration: CR S2763, S2767-2768)
+- 2025-05-06 — Passed Senate without amendment by Yea-Nay Vote. 55 - 45. Record Vote Number: 232.
+- 2025-05-06 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 55 - 45. Record Vote Number: 232.
+- 2025-05-07 — Message on Senate action sent to the House.
+- 2025-05-16 — Presented to President.
+- 2025-05-16 — Presented to President.
+- 2025-05-23 — Became Public Law No: 119-14.
+- 2025-05-23 — Became Public Law No: 119-14.
+- 2025-05-23 — Signed by President.
+- 2025-05-23 — Signed by President.
