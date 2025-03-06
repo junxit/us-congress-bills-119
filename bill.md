@@ -2,7 +2,7 @@
 legis-num: H. RES. 189
 congress: 119th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 189
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## Preamble
 
-- Whereas, on March 4, 2025, during the joint session of Congress convened pursuant to House Concurrent Resolution 11, the President of the United States, speaking at the invitation of the House and Senate, had his remarks interrupted by the Representative from Texas, Mr. Green;
+- Whereas on March 4, 2025, during the joint session of Congress convened pursuant to House Concurrent Resolution 11, the President of the United States, speaking at the invitation of the House and Senate, had his remarks interrupted by the Representative from Texas, Mr. Green;
 - Whereas the conduct of the Representative from Texas disrupted the proceedings of the joint address and was a breach of proper conduct; and
 - Whereas after numerous disruptions, the Representative from Texas had to be removed from the chamber by the Sergeant at Arms: Now, therefore, be it
 

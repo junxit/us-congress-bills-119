@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 189
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 189
@@ -57,9 +57,10 @@ Censuring Representative Al Green of Texas.
 
 - House — Ethics Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2025-03-05 — [House 119-1-60](votes/house-119-1-0060.md) — On Motion to Table — **Failed** (209–211)
+- 2025-03-06 — [House 119-1-62](votes/house-119-1-0062.md) — On Agreeing to the Resolution — **Passed** (224–198)
 
 ## Actions
 
@@ -73,3 +74,7 @@ Censuring Representative Al Green of Texas.
 - 2025-03-05 — Referred to the House Committee on Ethics.
 - 2025-03-05 — Submitted in House
 - 2025-03-05 — The previous question was ordered without objection.
+- 2025-03-06 — Considered as unfinished business. (consideration: CR H1019-1020)
+- 2025-03-06 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-03-06 — On agreeing to the resolution Agreed to by the Yeas and Nays: 224 - 198, 2 Present (Roll no. 62). (text: 03/05/2025 CR H998)
+- 2025-03-06 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 224 - 198, 2 Present (Roll no. 62). (text: 03/05/2025 CR H998)
