@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 42
 congress: 119
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.J.Res. 42
@@ -48,3 +48,4 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2025-03-05 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 222 - 203 (Roll no. 59). (text: CR H991)
 - 2025-03-05 — Rule provides for consideration of H.J. Res. 42, H.J. Res. 61 and S.J. Res. 11. The resolution provides for consideration of H.J. Res. 42, H.J. Res. 61, and S.J. Res. 11 under a closed rule with one hour of general debate on each measure. The resolution also provides for one motion to recommit on H.J. Res. 42 and H.J. Res. 61 and one motion to commit on S.J. Res. 11.
 - 2025-03-05 — The previous question was ordered pursuant to the rule.
+- 2025-03-06 — Received in the Senate, read twice.
