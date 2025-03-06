@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 42
 congress: 119
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 42
@@ -29,9 +29,11 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 
 - House — Energy and Commerce Committee
 
-## Recorded votes (1)
+## Recorded votes (3)
 
 - 2025-03-05 — [House 119-1-59](votes/house-119-1-0059.md) — On Passage — **Passed** (222–203)
+- 2025-04-29 — [Senate 119-1-222](votes/senate-119-1-0222.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (52–46)
+- 2025-04-30 — [Senate 119-1-223](votes/senate-119-1-0223.md) — On the Joint Resolution — **Joint Resolution Passed** (52–46)
 
 ## Actions
 
@@ -49,3 +51,15 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2025-03-05 — Rule provides for consideration of H.J. Res. 42, H.J. Res. 61 and S.J. Res. 11. The resolution provides for consideration of H.J. Res. 42, H.J. Res. 61, and S.J. Res. 11 under a closed rule with one hour of general debate on each measure. The resolution also provides for one motion to recommit on H.J. Res. 42 and H.J. Res. 61 and one motion to commit on S.J. Res. 11.
 - 2025-03-05 — The previous question was ordered pursuant to the rule.
 - 2025-03-06 — Received in the Senate, read twice.
+- 2025-04-29 — Measure laid before Senate by motion. (consideration: CR S2644)
+- 2025-04-29 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 52 - 46. Record Vote Number: 222. (CR S2644)
+- 2025-04-30 — Considered by Senate. (consideration: CR S2680-2683)
+- 2025-04-30 — Passed Senate without amendment by Yea-Nay Vote. 52 - 46. Record Vote Number: 223.
+- 2025-04-30 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 52 - 46. Record Vote Number: 223.
+- 2025-05-01 — Message on Senate action sent to the House.
+- 2025-05-06 — Presented to President.
+- 2025-05-06 — Presented to President.
+- 2025-05-09 — Became Public Law No: 119-8.
+- 2025-05-09 — Became Public Law No: 119-8.
+- 2025-05-09 — Signed by President.
+- 2025-05-09 — Signed by President.
