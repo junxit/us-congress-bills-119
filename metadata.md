@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1166
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1166
@@ -33,3 +33,9 @@ Decoupling from Foreign Adversarial Battery Dependence Act
 - 2025-02-10 — Introduced in House
 - 2025-02-10 — Referred to the House Committee on Homeland Security.
 - 2025-02-10 — Referred to the Subcommittee on Counterterrorism and Intelligence.
+- 2025-03-10 — Considered under suspension of the rules. (consideration: CR H1053-1054)
+- 2025-03-10 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1166.
+- 2025-03-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-03-10 — Mr. Green (TN) moved to suspend the rules and pass the bill.
+- 2025-03-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1053-1054)
+- 2025-03-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1053-1054)
