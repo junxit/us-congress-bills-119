@@ -1,7 +1,7 @@
 ---
 measure: H.R. 708
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 708
@@ -27,12 +27,13 @@ SHIELD Against CCP Act
 - Rep. Moolenaar, John R. [R-MI-2] (M001194)
 - Rep. Pfluger, August [R-TX-11] (P000048)
 
-## Committees (4)
+## Committees (5)
 
 - House — Homeland Security Committee
 - House — Judiciary Committee
 - House — Financial Services Committee
 - House — Ways and Means Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ SHIELD Against CCP Act
 - 2025-03-10 — Mr. Green (TN) moved to suspend the rules and pass the bill.
 - 2025-03-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1049-1050)
 - 2025-03-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1049-1050)
+- 2025-03-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
