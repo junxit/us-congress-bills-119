@@ -1,0 +1,28 @@
+---
+legis-num: H.R. 2090
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2090
+
+> To amend section 236A of the Immigration and Nationality Act with respect to the requirement to cross reference the terrorist screening database.
+
+## § 1. Short title
+
+This Act may be cited as the “Identifying Potential Terrorist at the Border Act of 2025”.
+
+## § 2. Requirement to review Federal terrorist screening database
+
+Section 236A of the Immigration and Nationality Act (8 U.S.C. 1226A) is amended—
+
+- **(1)** in subsection (a)(3)—
+  - **(A)** in subparagraph (A), by striking “; or”;
+  - **(B)** in subparagraph (B), by striking the period at the end and insert “; or”; and
+  - **(C)** by adding at the end the following:
+    > - **(C)** is on the terrorist screening database.
+
+- **(2)** by adding at the end the following:
+  > - **(d)** *Requirement To review Federal terrorist screening database* Notwithstanding any other provision of law, the Commissioner of U.S. Customs and Border Protection shall take into and maintain custody over an alien until the Commissioner cross references the name of such alien with the terrorist screening database and a result for such cross reference is received by the Commissioner.
+  > - **(e)** *Terrorist screening database defined* In this section, the term “terrorist screening database” shall have the meaning given such term in section 2101 of the Homeland Security Act of 2002.
