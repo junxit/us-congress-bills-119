@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1156
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1156
@@ -48,6 +48,10 @@ Pandemic Unemployment Fraud Enforcement Act
 
 - House — Ways and Means Committee
 
+## Recorded votes (1)
+
+- 2025-03-11 — [House 119-1-68](votes/house-119-1-0068.md) — On Passage — **Passed** (295–127)
+
 ## Actions
 
 - 2025-02-10 — Introduced in House
@@ -58,3 +62,17 @@ Pandemic Unemployment Fraud Enforcement Act
 - 2025-02-25 — Placed on the Union Calendar, Calendar No. 2.
 - 2025-02-25 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-6.
 - 2025-02-25 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-6.
+- 2025-03-11 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2025-03-11 — Considered as unfinished business. (consideration: CR H1124)
+- 2025-03-11 — Considered under the provisions of rule H. Res. 211. (consideration: CR H1093-1099)
+- 2025-03-11 — DEBATE - The House proceeded with one hour of debate on H.R. 1156.
+- 2025-03-11 — House amendment considered as adopted: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2025-03-11 — House amendment offered/reported by: Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2025-03-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-03-11 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2025-03-11 — On passage Passed by the Yeas and Nays: 295 - 127 (Roll no. 68). (text of amendment in the nature of a substitute: CR H1093-1094)
+- 2025-03-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 1156, the Chair put the question on passage of the bill and by voice vote announced that the ayes had prevailed. Mr. Davis (IL) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2025-03-11 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 295 - 127 (Roll no. 68). (text of amendment in the nature of a substitute: CR H1093-1094)
+- 2025-03-11 — Rule provides for consideration of H.J. Res. 25, H.R. 1156 and H.R. 1968. The resolution provides for consideration of H.J. Res. 25, H.R. 1156, and H.R. 1968 under a closed rule. Also, the resolution provides for one hour of general debate and one motion to recommit on each measure.
+- 2025-03-11 — Rules Committee Resolution H. Res. 211 Reported to House. Rule provides for consideration of H.J. Res. 25, H.R. 1156 and H.R. 1968. The resolution provides for consideration of H.J. Res. 25, H.R. 1156, and H.R. 1968 under a closed rule. Also, the resolution provides for one hour of general debate and one motion to recommit on each measure.
+- 2025-03-11 — The previous question was ordered pursuant to the rule.
