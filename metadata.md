@@ -1,7 +1,7 @@
 ---
 measure: H.R. 862
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 862
@@ -27,9 +27,10 @@ TSA Commuting Fairness Act
 - Rep. McBride, Sarah [D-DE-At Large] (M001238)
 - Rep. Gillen, Laura [D-NY-4] (G000602)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ TSA Commuting Fairness Act
 - 2025-03-10 — Mr. Green (TN) moved to suspend the rules and pass the bill.
 - 2025-03-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1048)
 - 2025-03-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1048)
+- 2025-03-11 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
