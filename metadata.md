@@ -1,7 +1,7 @@
 ---
 measure: H.R. 993
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 993
@@ -21,9 +21,10 @@ Emerging Innovative Border Technologies Act
 - Rep. Luttrell, Morgan [R-TX-8] (L000603)
 - Rep. Gillen, Laura [D-NY-4] (G000602)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -43,3 +44,4 @@ Emerging Innovative Border Technologies Act
 - 2025-03-10 — Mr. Green (TN) moved to suspend the rules and pass the bill.
 - 2025-03-10 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 406 - 9 (Roll no. 65). (text: CR H1052-1053)
 - 2025-03-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 406 - 9 (Roll no. 65). (text: CR H1052-1053)
+- 2025-03-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
