@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1968
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-98 amendatory instructions. 63 executed, 35 stated and not applied.
+96 amendatory instructions. 61 executed, 35 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -71,30 +71,12 @@ to guess them.
 
 ### 8 U.S.C. § 1101
 
-> in the heading, by striking “2024” and inserting “2025”;
+> The heading of subparagraph (F) of section 602(b)(3) of the Afghan Allies Protection Act of 2009 (8 U.S.C. 1101 note) is amended by striking “2024” and inserting “2025”.
 
 | | |
 |---|---|
 | Removed | `2024` |
 | Inserted | `2025` |
-
-### 8 U.S.C. § 1101
-
-> in the matter preceding clause (i), in the first sentence, by striking “50,500” and inserting “70,500”; and
-
-| | |
-|---|---|
-| Removed | `50,500` |
-| Inserted | `70,500` |
-
-### 8 U.S.C. § 1101
-
-> in clause (ii), by striking “December 31, 2025” and inserting “December 31, 2027”.
-
-| | |
-|---|---|
-| Removed | `December 31, 2025` |
-| Inserted | `December 31, 2027` |
 
 ### 8 U.S.C. § 1157
 
@@ -634,4 +616,4 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1396r-4` | strike | by striking “for the period beginning April 1, 2025, and ending September 30, 2025, and”; and | the bill quotes the text struck but describes what replaces it |
 | — | replace | Section 1(b) of Public Law 117–25 (135 Stat. 297; 136 Stat. 2133; 136 Stat. 5984) is amended in each of paragraphs (3) and (4) by striking “March 14, 2025” and inserting “September 30, 2025”. | the bill names no machine-readable US Code section |
 | — | replace | Section 3014 of title 18, United States Code, is amended by striking “March 14, 2025” and inserting “September 30, 2025”. | the bill names no machine-readable US Code section |
-| — | replace | Effective as if included in the enactment of the Temporary Reauthorization and Study of the Emergency Scheduling of Fentanyl Analogues Act (Public Law 116–114), section 2 of such Act is amended by striking “March 14, 2025” and inserting … | the bill names no machine-readable US Code section |
+| — | replace | Effective as if included in the enactment of the Temporary Reauthorization and Study of the Emergency Scheduling of Fentanyl Analogues Act (Public Law 116–114), section 2 of such Act is amended by striking “March 31, 2025” and inserting … | the bill names no machine-readable US Code section |
