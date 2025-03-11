@@ -1,7 +1,7 @@
 ---
 measure: H.R. 901
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 901
@@ -21,9 +21,10 @@ Research Security and Accountability in DHS Act
 - Rep. Green, Mark E. [R-TN-7] (G000590)
 - Rep. Evans, Gabe [R-CO-8] (E000300)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -43,3 +44,4 @@ Research Security and Accountability in DHS Act
 - 2025-03-10 — Mr. Green (TN) moved to suspend the rules and pass the bill.
 - 2025-03-10 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 410 - 1 (Roll no. 64). (text: CR H1051)
 - 2025-03-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 410 - 1 (Roll no. 64). (text: CR H1051)
+- 2025-03-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
