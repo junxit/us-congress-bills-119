@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1166
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1166
@@ -23,9 +23,10 @@ Decoupling from Foreign Adversarial Battery Dependence Act
 - Rep. Pfluger, August [R-TX-11] (P000048)
 - Rep. Meuser, Daniel [R-PA-9] (M001204)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Decoupling from Foreign Adversarial Battery Dependence Act
 - 2025-03-10 — Mr. Green (TN) moved to suspend the rules and pass the bill.
 - 2025-03-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1053-1054)
 - 2025-03-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1053-1054)
+- 2025-03-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
