@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1374
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1374
@@ -21,9 +21,10 @@ Securing the Cities Improvement Act
 - Rep. Higgins, Clay [R-LA-3] (H001077)
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ Securing the Cities Improvement Act
 - 2025-03-10 — Mr. Green (TN) moved to suspend the rules and pass the bill.
 - 2025-03-10 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1056)
 - 2025-03-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1056)
+- 2025-03-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
