@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 25
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.J.Res. 25
@@ -56,3 +56,4 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2025-03-11 — Rule provides for consideration of H.J. Res. 25, H.R. 1156 and H.R. 1968. The resolution provides for consideration of H.J. Res. 25, H.R. 1156, and H.R. 1968 under a closed rule. Also, the resolution provides for one hour of general debate and one motion to recommit on each measure.
 - 2025-03-11 — Rules Committee Resolution H. Res. 211 Reported to House. Rule provides for consideration of H.J. Res. 25, H.R. 1156 and H.R. 1968. The resolution provides for consideration of H.J. Res. 25, H.R. 1156, and H.R. 1968 under a closed rule. Also, the resolution provides for one hour of general debate and one motion to recommit on each measure.
 - 2025-03-11 — The previous question was ordered pursuant to the rule.
+- 2025-03-12 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 27.
