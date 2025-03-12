@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 25
 congress: 119
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 25
@@ -32,9 +32,11 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 
 - House — Ways and Means Committee
 
-## Recorded votes (1)
+## Recorded votes (3)
 
 - 2025-03-11 — [House 119-1-71](votes/house-119-1-0071.md) — On Passage — **Passed** (292–132)
+- 2025-03-26 — [Senate 119-1-150](votes/senate-119-1-0150.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (70–28)
+- 2025-03-26 — [Senate 119-1-151](votes/senate-119-1-0151.md) — On the Joint Resolution — **Joint Resolution Passed** (70–28)
 
 ## Actions
 
@@ -57,3 +59,14 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2025-03-11 — Rules Committee Resolution H. Res. 211 Reported to House. Rule provides for consideration of H.J. Res. 25, H.R. 1156 and H.R. 1968. The resolution provides for consideration of H.J. Res. 25, H.R. 1156, and H.R. 1968 under a closed rule. Also, the resolution provides for one hour of general debate and one motion to recommit on each measure.
 - 2025-03-11 — The previous question was ordered pursuant to the rule.
 - 2025-03-12 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 27.
+- 2025-03-26 — Measure laid before Senate by motion. (consideration: CR S1856-1864)
+- 2025-03-26 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 70 - 28. Record Vote Number: 150.
+- 2025-03-26 — Passed Senate without amendment by Yea-Nay Vote. 70 - 28. Record Vote Number: 151.
+- 2025-03-26 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 70 - 28. Record Vote Number: 151.
+- 2025-03-27 — Message on Senate action sent to the House.
+- 2025-04-01 — Presented to President.
+- 2025-04-01 — Presented to President.
+- 2025-04-10 — Became Public Law No: 119-5.
+- 2025-04-10 — Became Public Law No: 119-5.
+- 2025-04-10 — Signed by President.
+- 2025-04-10 — Signed by President.
