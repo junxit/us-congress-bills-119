@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1692
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1692
@@ -20,9 +20,10 @@ PATHS Act
 
 - Rep. Thanedar, Shri [D-MI-13] (T000488)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ PATHS Act
 - 2025-03-11 — Motion to reconsider laid on the table Agreed to without objection.
 - 2025-03-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: 3/10/2025 CR H1055)
 - 2025-03-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: 3/10/2025 CR H1055)
+- 2025-03-12 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
