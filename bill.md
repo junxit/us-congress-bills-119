@@ -1,0 +1,32 @@
+---
+legis-num: S. 1038
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1038
+
+> To direct the Attorney General to include a data field in the National Missing and Unidentified Persons System to indicate whether the last known location of a missing person was confirmed or was suspected to have been on Federal land, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Tracking and Reporting Absent Community-Members Everywhere Act” or the “TRACE Act”.
+
+## § 2. Definitions
+
+In this Act:
+
+- **(1)** *Attorney General* The term Attorney General means the Attorney General, acting through the Director of the National Institute of Justice.
+- **(2)** *Federal land* The term Federal land means land owned by the United States that is under the administrative jurisdiction of—
+  - **(A)** the Secretary of Agriculture;
+  - **(B)** the Secretary of the Interior (except land held in trust for the benefit of an Indian Tribe); or
+  - **(C)** the Secretary of Defense only with respect to land and water resources projects administered by the Corps of Engineers.
+
+## § 3. Data field in the National Missing and Unidentified Persons System related to Federal land
+
+The Attorney General shall include in the National Missing and Unidentified Persons System a data field to indicate whether the last known location of the missing person was confirmed or was suspected to have been on Federal land, including any specific location details about the unit of Federal land that was the last known location of the missing person.
+
+## § 4. Report
+
+Not later than January 15 of the second calendar year that begins after the date of enactment of this Act, and annually thereafter, the Attorney General shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report that contains, for the previous calendar year, the number of cases in the National Missing and Unidentified Persons System for which the missing person’s last known location was confirmed or was suspected to have been on Federal land.
