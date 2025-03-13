@@ -1,0 +1,22 @@
+---
+legis-num: S. 1022
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1022
+
+> To reauthorize the program for strengthening communities of recovery for individuals with substance use disorders.
+
+## § 1. Short title
+
+This Act may be cited as the “Strengthening Communities of Recovery Act”.
+
+## § 2. Strengthening communities of recovery
+
+Section 547 of the Public Health Service Act (42 U.S.C. 290ee–2) is amended—
+
+- **(1)** in the section heading, by striking “Building” and inserting “Strengthening”;
+- **(2)** in subsection (d)(2)(A), in the matter preceding clause (i), by inserting “or strengthen” after “build”; and
+- **(3)** in subsection (f), by striking “$5,000,000 for each of fiscal years 2019 through 2023” and inserting “$16,000,000 for each of fiscal years 2025 through 2029”.
