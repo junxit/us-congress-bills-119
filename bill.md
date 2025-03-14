@@ -1,0 +1,25 @@
+---
+legis-num: H.R. 2109
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2109
+
+> To include cybersecurity technical assistance in the national rural water and wastewater circuit rider program of Department of Agriculture.
+
+## § 1. Short title
+
+This Act may be cited as the “Cybersecurity for Rural Water Systems Act”.
+
+## § 2. Inclusion of cybersecurity technical assistance in the national rural water and wastewater circuit rider program
+
+- **(a)** *In general* Section 306(a)(22)(A) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1926(a)(22)(A)) is amended—
+  - **(1)** by striking “and” at the end of clause (i); and
+  - **(2)** by redesignating clause (ii) as clause (iii) and inserting after clause (i) the following:
+    > - **(ii)** shall include cybersecurity technical assistance for rural water systems serving fewer than 10,000 persons, to—
+    >   - **(I)** assess system efficacy in protecting against cyber threats; and
+    >   - **(II)** implement cybersecurity plans, procedures, and technologies to protect against cyber threats; and
+
+- **(b)** *Extension of program* Section 306(a)(22)(B) of such Act (7 U.S.C. 1926(a)(22)(B)) is amended by striking “$25,000,000 for each of fiscal years 2019 through 2023” and inserting “$32,500,000 for each of fiscal years 2026 through 2030, of which $7,500,000 for each of the fiscal years shall be used to provide cybersecurity technical assistance in accordance with subparagraph (A)(ii)”.
