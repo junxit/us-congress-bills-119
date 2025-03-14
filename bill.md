@@ -1,0 +1,24 @@
+---
+legis-num: H.R. 2131
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2131
+
+> To amend title 18, United States Code, to authorize Secret Service to reimburse State and local governments for the use of services, personnel, equipment, and facilities.
+
+## § 1. Short title
+
+This Act may be cited as the “Presidential Security Resources Reimbursement Act of 2025”.
+
+## § 2. Authorization for reimbursement of State and local governments for the use of services, personnel, equipment, and facilities
+
+Section 3056 of title 18, United States Code, is amended by adding at the end the following:
+
+> - **(h)** In carrying out the functions pursuant to paragraphs (3) and (7) of subsection (a), the Secretary of Homeland Security may utilize, with their consent, on a reimbursable basis, the services, personnel, equipment, and facilities of State and local governments, and is authorized to reimburse such State and local governments for the utilization of such services, personnel, equipment, and facilities.
+
+## § 3. Retroactive application
+
+For purposes of the application of section 3056(h) of title 18, United States Code, the Secretary of Homeland Security may in addition provide reimbursement for any utilization, for purposes of carrying out the functions pursuant to paragraphs (3) and (7) of section 3056(a) of such title, of the services, personnel, equipment, and facilities of State and local governments that occurred during the period beginning July 12, 2024, and ending on the effective date of this section.
