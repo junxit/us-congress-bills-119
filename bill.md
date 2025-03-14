@@ -42,7 +42,7 @@ This Act may be cited as the “Defending Education Transparency and Ending Rogu
   >         - **(I)** the total fair market dollar amount or dollar value of the contract, as of the date of submission of such report;
   >         - **(II)** the date on which the institution enters into such contract;
   >         - **(III)** the date on which such contract first takes effect;
-  >         - **(IV)** as applicable, the date on which such contract terminates; and
+  >         - **(IV)** if the contract has a termination date, such termination date; and
   >         - **(V)** an assurance that the institution will—
   >           - **(aa)** maintain an unredacted copy of the contract until the latest of—
   >             - **(AA)** the date that is 5 years after the date on which such contract first takes effect;
@@ -55,10 +55,10 @@ This Act may be cited as the “Defending Education Transparency and Ending Rogu
   >       - **(ii)** the department, agency, office, or division of such foreign government that approved such gift or contract, as applicable; and
   >       - **(iii)** the physical mailing address of such department, agency, office, or division.
   >     - **(C)** With respect to a gift received from, or contract entered into with, a foreign source (other than a foreign government subject to the requirements of subparagraph (B))—
-  >       - **(i)** the legal name of the foreign source, or, if such name is not available, a statement certified by the compliance officer in accordance with section 117D(c) that the institution has reasonably attempted to obtain such name;
+  >       - **(i)** the legal name of the foreign source, or, if such name is not available, a statement certified by a compliance officer in accordance with section 117D(c) that the institution has reasonably attempted to obtain such name;
   >       - **(ii)** in the case of a foreign source that is a natural person, the country of citizenship of such person, or, if such country is not known, the principal country of residence of such person;
   >       - **(iii)** in the case of a foreign source that is a legal entity, the country in which such entity is incorporated, or, if such information is not available, the principal place of business of such entity;
-  >       - **(iv)** the physical mailing address of such foreign source, or, if such address is not available, a statement certified by the compliance officer in accordance with section 117D(c) that the institution has reasonably attempted to obtain such address; and
+  >       - **(iv)** the physical mailing address of such foreign source, or, if such address is not available, a statement certified by a compliance officer in accordance with section 117D(c) that the institution has reasonably attempted to obtain such address; and
   >       - **(v)** any affiliation of the foreign source to an organization that is designated as a foreign terrorist organization pursuant to section 219 of the Immigration and Nationality Act (8 U.S.C. 1189).
   >     - **(D)** With respect to a contract entered into with a foreign source that is a foreign country of concern or a foreign entity of concern—
   >       - **(i)** a complete and unredacted text of the original contract, and if such original contract is not in English, a translated copy in accordance with subsection (c);
@@ -112,7 +112,7 @@ This Act may be cited as the “Defending Education Transparency and Ending Rogu
   >     - **(E)** an agent of a foreign source, including—
   >       - **(i)** a subsidiary or affiliate of a foreign legal entity, acting on behalf of a foreign source;
   >       - **(ii)** a person that operates primarily for the benefit of, or under the auspices of, a foreign source, including a foundation or a related entity (such as any educational, cultural, or language entity); and
-  >       - **(iii)** a person who is an agent of a foreign principal (as such term is defined in section 1 of the Foreign Agents Registration Act of 1938 (22 U.S.C. 611); and
+  >       - **(iii)** a person who is an agent of a foreign principal (as such term is defined in section 1 of the Foreign Agents Registration Act of 1938 (22 U.S.C. 611)); and
   >     - **(F)** an international organization (as such term is defined in the International Organizations Immunities Act (22 U.S.C. 288)).
   >   - **(5)** *Gift* The term gift—
   >     - **(A)** means any gift of money, property, resources, staff, or services; and
@@ -141,7 +141,7 @@ This Act may be cited as the “Defending Education Transparency and Ending Rogu
   >       - **(ii)** *Contents of waiver request* A waiver request submitted by an institution under clause (i) shall include—
   >         - **(I)** the complete and unredacted text of the proposed contract for which the waiver is being requested, and if such original contract is not in English, a translated copy of the text into English (in a manner that complies with section 117(c)); and
   >         - **(II)** a statement that—
-  >           - **(aa)** is certified by the compliance officer of the institution designated in accordance with section 117D(c); and
+  >           - **(aa)** is certified by a compliance officer of the institution designated in accordance with section 117D(c); and
   >           - **(bb)** includes information that demonstrates that such contract—
   >             - **(AA)** is for the benefit of the institution’s mission and students; and
   >             - **(BB)** will promote the security, stability, and economic vitality of the United States.
@@ -178,7 +178,7 @@ The Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), as amended by the pre
 
 > ## § 117B. Institutional policy regarding foreign gifts and contracts to faculty and staff
 >
-> - **(a)** *Requirement To maintain policy and database* Beginning not later than 90 days after the date of enactment of the DETERRENT Act, each institution described in subsection (b) shall maintain—
+> - **(a)** *Requirement to maintain policy and database* Beginning not later than 90 days after the date of enactment of the DETERRENT Act, each institution described in subsection (b) shall maintain—
 >   - **(1)** a policy requiring covered individuals employed at the institution to disclose in a report to such institution on July 31 of each calendar year that begins after the year in which such enactment date occurs—
 >     - **(A)** any gift received from a foreign source in the previous calendar year, the value of which is greater than the minimal value (as such term is defined in section 7342(a) of title 5, United States Code) or is of undetermined value, and including the date on which the gift was received;
 >     - **(B)** any contract with a foreign source (other than a foreign country of concern or foreign entity of concern) entered into or in effect during the previous calendar year, the value of which is $5,000 or more, considered alone or in combination with all other contracts with that foreign source within the calendar year, and including the date on which such contract is entered into, the date on which the contract first takes effect, and, as applicable, the date on which such contract terminates;
@@ -186,7 +186,7 @@ The Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), as amended by the pre
 >     - **(D)** any contract entered into or in effect with a foreign country of concern or foreign entity of concern during the previous calendar year, the value of which is $0 or more or which has an undetermined monetary value, and including—
 >       - **(i)** the date on which such contract is entered into;
 >       - **(ii)** the date on which the contract first takes effect;
->       - **(iii)** as applicable, the date on which such contract terminates; and
+>       - **(iii)** if the contract has a termination date, such termination date; and
 >       - **(iv)** the full text of such contract and any addenda;
 >   - **(2)** a publicly available and searchable database (in electronic and downloadable format), on a website of the institution, of the information required to be disclosed under paragraph (1) (other than the name or any other personally identifiable information of a covered individual) that—
 >     - **(A)** makes available the information disclosed under paragraph (1) (other than the name or any other personally identifiable information of a covered individual) beginning on the date that is 30 days after receipt of the report under such paragraph containing such information and until the latest of—
@@ -262,11 +262,11 @@ The Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), as amended by this Ac
 >       - **(ii)** debt issued by such entity; and
 >       - **(iii)** any contract or derivative with respect to any property described in clause (i) or (ii).
 >   - **(2)** *Specified institution*
->     - **(A)** *In general* The term specified institution, as determined with respect to any calendar year, means an institution if—
->       - **(i)** such institution is not a public institution; and
->       - **(ii)** the aggregate fair market value of—
->         - **(I)** the assets held by such institution at the end of such calendar year (other than those assets which are used directly in carrying out the institution’s exempt purpose) is in excess of $6,000,000,000; or
->         - **(II)** the investments of concern held by such institution at the end of such calendar year is in excess of $250,000,000.
+>     - **(A)** *In general* The term specified institution, as determined with respect to any calendar year, means an institution that—
+>       - **(i)** is not a public institution; and
+>       - **(ii)** at the close of such calendar year, holds—
+>         - **(I)** assets (other than those assets which are used directly in carrying out the institution’s exempt purpose) the aggregate fair market value of which is in excess of $6,000,000,000; and
+>         - **(II)** investments of concern the aggregate fair market value of which is in excess of $250,000,000.
 >     - **(B)** *References to certain terms* For the purpose of applying the definition under subparagraph (A), the terms aggregate fair market value and assets which are used directly in carrying out the institution’s exempt purpose shall be applied in the same manner as such terms are applied for the purposes of section 4968(b)(1)(D) of the Internal Revenue Code of 1986.
 
 ## § 5. Enforcement and other general provisions
@@ -275,11 +275,11 @@ The Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), as amended by this Ac
   > ## § 117D. Enforcement; single point-of-contact; institutional requirements
   >
   > - **(a)** *Enforcement*
-  >   - **(1)** *Investigation* The Secretary (acting through the General Counsel of the Department) shall conduct investigations of possible violations of sections 117, 117A, 117B, 117C, and subsection (c) by institutions and, whenever it appears that an institution has knowingly or willfully failed to comply with a requirement of any of such sections (including any rule or regulation promulgated under any such section), shall request that the Attorney General bring a civil action in accordance with paragraph (2).
-  >   - **(2)** *Civil action* Whenever it appears that an institution has knowingly or willfully failed to comply with a requirement of any of the sections listed in paragraph (1) (including any rule or regulation promulgated under any such section) based on an investigation under such paragraph, a civil action shall be brought by the Attorney General, at the request of the Secretary, in an appropriate district court of the United States, or the appropriate United States court of any territory or other place subject to the jurisdiction of the United States, to request such court to compel compliance with the requirement of the section that has been violated.
-  >   - **(3)** *Costs and other fines* An institution that is compelled to comply with a requirement of a section listed in paragraph (1) pursuant to paragraph (2) shall—
-  >     - **(A)** pay to the Treasury of the United States the full costs to the United States of obtaining compliance with the requirement of such section, including all associated costs of investigation and enforcement; and
-  >     - **(B)** be subject to the applicable fines described in paragraph (4).
+  >   - **(1)** *Investigation* The Secretary (acting through the General Counsel of the Department) shall conduct investigations of possible violations of sections 117, 117A, 117B, 117C, and subsection (c) of this section by institutions and, whenever it appears that an institution has knowingly or willfully failed to comply with a requirement of any of such provisions (including any rule or regulation promulgated under any such provision), shall request that the Attorney General bring a civil action in accordance with paragraph (2).
+  >   - **(2)** *Civil action* Whenever it appears that an institution has knowingly or willfully failed to comply with a requirement of any of the provisions listed in paragraph (1) (including any rule or regulation promulgated under any such provision) based on an investigation under such paragraph, a civil action shall be brought by the Attorney General, at the request of the Secretary, in an appropriate district court of the United States, or the appropriate United States court of any territory or other place subject to the jurisdiction of the United States, to request such court to compel compliance with the requirement of the provision that has been violated.
+  >   - **(3)** *Costs and other fines* An institution that is compelled to comply with a requirement of a provision listed in paragraph (1) pursuant to paragraph (2) shall—
+  >     - **(A)** pay to the Treasury of the United States the full costs to the United States of obtaining compliance with the requirement of such provision, including all associated costs of investigation and enforcement; and
+  >     - **(B)** if applicable, be subject to the applicable fines described in paragraph (4).
   >   - **(4)** *Fines for violations* The Secretary shall impose a fine on an institution that is compelled to comply with a requirement of a section listed in paragraph (1) pursuant to paragraph (2) as follows:
   >     - **(A)** *Section 117*
   >       - **(i)** *First-time violations* In the case of an institution that is compelled to comply with a requirement of section 117 pursuant to a civil action described in paragraph (2), and that has not previously been compelled to comply with any such requirement pursuant to such a civil action, the Secretary shall impose a fine on the institution for such violation as follows:
@@ -314,7 +314,7 @@ The Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), as amended by this Ac
   >         - **(I)** the aggregate fair market value of all investments of concern held by such institution as of the close of the final calendar year for which the institution is compelled to comply with such requirement pursuant to such subsequent civil action; and
   >         - **(II)** the combined value of all investments of concern over the course of all the calendar years for which the institution is compelled to comply with such requirement pursuant to such subsequent civil action, as measured by the fair market value of such investments at the time of the sale.
   >     - **(E)** *Ineligibilty for waiver* In the case of an institution that is fined pursuant to subparagraph (A)(ii), (B)(ii), (C)(ii), or (D)(ii), the Secretary shall prohibit the institution from obtaining a waiver, or a renewal of a waiver, under section 117A.
-  > - **(b)** *Single point-of-Contact at the Department* The Secretary shall maintain a single point-of-contact at the Department to—
+  > - **(b)** *Single point-of-contact at the Department* The Secretary shall maintain a single point-of-contact at the Department to—
   >   - **(1)** receive and respond to inquiries and requests for technical assistance from institutions regarding compliance with the requirements of sections 117, 117A, 117B, 117C, and subsection (c) of this section;
   >   - **(2)** coordinate and implement technical improvements to the database described in section 117(d)(1), including—
   >     - **(A)** improving upload functionality by allowing for batch reporting, including by allowing institutions to upload one file with all required information into the database;
@@ -324,7 +324,7 @@ The Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), as amended by this Ac
   >         - **(I)** 3 members representing public institutions with high or very high levels of research activity (as defined by the National Center for Education Statistics);
   >         - **(II)** 2 members representing private, nonprofit institutions with high or very high levels of research activity (as so defined);
   >         - **(III)** 2 members representing proprietary institutions of higher education (as defined in section 102(b)); and
-  >         - **(IV)** 2 members representing area career and technical education schools (as defined in subparagraph (C) or (D) of section 3(3) of the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2302(3)); and
+  >         - **(IV)** 2 members representing area career and technical education schools (as defined in subparagraph (C) or (D) of section 3(3) of the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2302(3))); and
   >       - **(ii)** meet at least twice a year with officials from the Department to discuss possible database improvements;
   >     - **(D)** publishing, on a publicly available website, recommended database improvements following each meeting described in subparagraph (C)(ii); and
   >     - **(E)** responding, on a publicly available website, to each recommendation published under subparagraph (D) as to whether or not the Department will implement the recommendation, including the rationale for either approving or rejecting the recommendation;
@@ -335,25 +335,31 @@ The Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), as amended by this Ac
   >     - **(A)** a full comprehensive list of all foreign countries of concern and foreign entities of concern; and
   >     - **(B)** the date on which the last update was made to such list; and
   >   - **(5)** not later than 7 days after making an update to the list maintained under paragraph (4)(A), notify each institution required to comply with the sections listed in paragraph (1) of such update.
-  > - **(c)** *Institutional requirements for compliance officer and established policy for filing reports*
+  > - **(c)** *Institutional requirements for compliance officers and institutional policy requirements*
   >   - **(1)** *In general* An institution that is required to file a report under section 117 or 117C, that is seeking a waiver under section 117A, or that is subject to the requirements of section 117B, shall, not later than the earlier of the date on which the institution files the first report under such a section, requests the institution’s first waiver under section 117A, or first fulfills the requirements of section 117C—
-  >     - **(A)** establish an institutional policy that the institution shall follow in meeting the requirements of section 117, 117A, 117B, and 117C; and
-  >     - **(B)** designate and maintain a current employee or legally authorized agent of such institution to serve as a compliance officer to carry out the requirements listed in paragraph (2).
-  >   - **(2)** *Duties of compliance officers* A compliance officer designated under paragraph (1) shall certify—
+  >     - **(A)** establish an institutional policy that the institution shall follow in meeting the requirements of sections 117, 117A, 117B, and 117C; and
+  >     - **(B)** designate and maintain at least one, but not more than three, current employees or legally authorized agents of such institution to serve as compliance officers to carry out the requirements listed in paragraph (2).
+  >   - **(2)** *Duties of compliance officers* A compliance officer designated by an institution under paragraph (1)(B) shall certify—
   >     - **(A)** whenever the institution is required to file a report under section 117 or 117C—
   >       - **(i)** the institution’s accurate compliance with the reporting requirements under such section;
-  >       - **(ii)** that the institution, in filing such report—
-  >         - **(I)** followed the institutional policy established under paragraph (1)(A); and
+  >       - **(ii)** that the institution, in filing such report under section 117 or 117C—
+  >         - **(I)** followed the institutional policy established under paragraph (1)(A) applicable to such section; and
   >         - **(II)** conducted good faith efforts and reasonable due diligence to ensure that accurate information is provided in such report, including with respect to the valuations of any assets that are disclosed in a report submitted under section 117C; and
-  >       - **(iii)** in the case of a report under section 117, any statements by the institution required to be certified by such officer under clause (i) or (iv) of section 117(b)(1)(C); and
-  >     - **(B)** whenever the institution requests a waiver under section 117A, the statement by the institution required to be certified by such officer under section 117A(b)(2)(A)(ii)(II); and
-  >     - **(C)** in the case of an institution subject to the requirements of section 117B, that the institution is in compliance with such requirements.
+  >       - **(iii)** in the case of a report under section 117, any statements by the institution required to be certified by such an officer under clause (i) or (iv) of section 117(b)(1)(C); and
+  >     - **(B)** whenever the institution requests a waiver under section 117A—
+  >       - **(i)** that the institution—
+  >         - **(I)** is in compliance with the requirements of such section; and
+  >         - **(II)** followed the institutional policy established under paragraph (1)(A) applicable to such section; and
+  >       - **(ii)** the statement by the institution required to be certified by such an officer under section 117A(b)(2)(A)(ii)(II); and
+  >     - **(C)** whenever the institution is subject to the requirements of section 117B, that the institution—
+  >       - **(i)** is in compliance with the requirements of such section; and
+  >       - **(ii)** followed the institutional policy established under paragraph (1)(A) applicable to such section.
   > - **(d)** *Definitions* For purposes of sections 117, 117A, 117B, 117C, and this section:
   >   - **(1)** *Foreign country of concern* The term foreign country of concern means the following:
   >     - **(A)** Any covered nation defined in section 4872 of title 10, United States Code.
   >     - **(B)** Any country the Secretary, in consultation with the Secretary of Defense, the Secretary of State, and the Director of National Intelligence, determines, for purposes of sections 117, 117A, 117B, 117C, or this section, to be engaged in conduct that is detrimental to the national security or foreign policy of the United States.
   >   - **(2)** *Foreign entity of concern* The term foreign entity of concern has the meaning given such term in section 10612(a) of the Research and Development, Competition, and Innovation Act (42 U.S.C. 19221(a)) and includes a foreign entity that is identified on the list published under section 1286(c)(8)(A) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (10 U.S.C. 22 4001 note; Public Law 115–232).
-  >   - **(3)** *Institution* The term institution means an institution of higher education (as such term is defined in section 102, other than an institution described in subsection (a)(1)(c) of such section).
+  >   - **(3)** *Institution* The term institution means an institution of higher education (as such term is defined in section 102, other than an institution described in subsection (a)(1)(C) of such section).
 
 - **(b)** *Program participation agreement* Section 487(a) of the Higher Education Act of 1965 (20 U.S.C. 1094) is amended by adding at the end the following:
   > - **(30)**
