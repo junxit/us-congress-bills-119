@@ -24,7 +24,7 @@ Section 202(c) of the Controlled Substances Act (21 U.S.C. 812(c)) is amended by
 >     - **(B)** By substitution in or on the phenethyl group with alkyl, alkenyl, alkoxyl, hydroxyl, halo, haloalkyl, amino, or nitro groups.
 >     - **(C)** By substitution in or on the piperidine ring with alkyl, alkenyl, alkoxyl, ester, ether, hydroxyl, halo, haloalkyl, amino, or nitro groups.
 >     - **(D)** By replacement of the aniline ring with any aromatic monocycle whether or not further substituted in or on the aromatic monocycle.
->     - **(E)** By replacement of the N–propionyl group with another acyl group.
+>     - **(E)** By replacement of the N-propionyl group with another acyl group.
 >   - **(3)** A substance that satisfies the definition of the term fentanyl-related substance in paragraph (2) shall nonetheless not be treated as a fentanyl-related substance subject to this schedule if the substance—
 >     - **(A)** is controlled by action of the Attorney General under section 201; or
 >     - **(B)** is otherwise expressly listed in a schedule other than this schedule.
@@ -169,7 +169,7 @@ Effective as if included in the enactment of Public Law 117–328—
   - **(1)** shall, not later than 6 months after the date of enactment of this Act, issue rules to implement this Act and the amendments made by this Act; and
   - **(2)** may issue the rules under paragraph (1) as interim final rules.
 - **(b)** *Procedure for final rule*
-  - **(1)** *Effectiveness of interim final rules* A rule issued by the Attorney General as an interim final rule under subsection (a) shall become immediately effective as an interim final rule without requiring the Attorney General to demonstrate good cause therefor, notwithstanding subparagraph (B) of section 553(b) of title 5, United States Code.
+  - **(1)** *Effectiveness of interim final rules* A rule issued by the Attorney General as an interim final rule under subsection (a) shall become immediately effective as an interim final rule without requiring the Attorney General to demonstrate good cause therefor, notwithstanding subparagraph (B) of the undesignated matter following paragraph (4) of section 553(b) of title 5, United States Code.
   - **(2)** *Opportunity for comment and hearing* An interim final rule issued under subsection (a) shall give interested persons the opportunity to comment and to request a hearing.
   - **(3)** *Final rule* After the conclusion of such proceedings, the Attorney General shall issue a final rule to implement this Act and the amendments made by this Act in accordance with section 553 of title 5, United States Code.
 
@@ -181,11 +181,11 @@ Effective as if included in the enactment of Public Law 117–328—
 - **(b)** *Importation and exportation* Section 1010(b) of the Controlled Substances Import and Export Act (21 U.S.C. 960(b)) is amended—
   - **(1)** in paragraph (1)(F), by inserting “or a fentanyl-related substance” after “any analogue of N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] propanamide”; and
   - **(2)** in paragraph (2)(F), by inserting “or a fentanyl-related substance” after “any analogue of N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] propanamide”.
-- **(c)** *Definition of fentanyl-Related substance* Section 102 of the Controlled Substances Act (21 U.S.C. 802) is amended by adding at the end the following:
+- **(c)** *Definition of fentanyl-related substance* Section 102 of the Controlled Substances Act (21 U.S.C. 802) is amended by adding at the end the following:
   > - **(60)** The term fentanyl-related substance has the meaning given the term in subsection (e)(2) of schedule I of section 202(c).
 
 ## § 7. Applicability; other matters
 
-- **(a)** *In general* Irrespective of the date on which the rules required by section 4 are finalized, the amendments made by this Act apply beginning as of the date of enactment of this Act.
-- **(b)** *Rule of construction* Nothing in the amendments made by this Act may be construed as evidence that, in applying sections 401(b)(1) and 1010(b) of the Controlled Substances Act (21 U.S.C. 841(b)(1), 960(b)) with respect to conduct occurring before the date of the enactment of this Act, a fentanyl-related substance (as defined by such amendments) is not an analogue of N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] propanamide.
+- **(a)** *In general* Irrespective of the date on which the rules required by section 5 are finalized, the amendments made by this Act apply beginning as of the date of enactment of this Act.
+- **(b)** *Rule of construction* Nothing in the amendments made by this Act may be construed as evidence that, in applying sections 401(b)(1) of the Controlled Substances Act (21 U.S.C. 841(b)(1)) and 1010(b) of the Controlled Substances Import and Export Act (21 U.S.C. 960(b)) with respect to conduct occurring before the date of the enactment of this Act, a fentanyl-related substance (as defined by such amendments) is not an analogue of N-phenyl-N-[1-(2-phenylethyl)-4-piperidinyl] propanamide.
 - **(c)** *Sense of Congress* Congress agrees with the interpretation of the Controlled Substances Act (21 U.S.C. 801 et seq.) in United States v. McCray, 346 F. Supp. 3d 363 (W.D.N.Y. 2018).

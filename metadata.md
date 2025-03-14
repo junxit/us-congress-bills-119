@@ -1,7 +1,7 @@
 ---
 measure: S. 331
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 331
@@ -16,7 +16,7 @@ HALT Fentanyl Act
 
 - Sen. Cassidy, Bill [R-LA] (C001075)
 
-## Cosponsors (24)
+## Cosponsors (74)
 
 - Sen. Heinrich, Martin [D-NM] (H001046)
 - Sen. Grassley, Chuck [R-IA] (G000386)
@@ -42,10 +42,66 @@ HALT Fentanyl Act
 - Sen. Blackburn, Marsha [R-TN] (B001243)
 - Sen. Lee, Mike [R-UT] (L000577)
 - Sen. Moody, Ashley [R-FL] (M001244)
+- Sen. McCormick, David [R-PA] (M001243)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Justice, James C. [R-WV] (J000312)
+- Sen. Ricketts, Pete [R-NE] (R000618)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Hyde-Smith, Cindy [R-MS] (H001079)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Blunt Rochester, Lisa [D-DE] (B001303)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Blunt Rochester, Lisa [D-DE] (B001303)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Blunt Rochester, Lisa [D-DE] (B001303)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Blunt Rochester, Lisa [D-DE] (B001303)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Ossoff, Jon [D-GA] (O000174)
 
 ## Committees (1)
 
 - Senate — Judiciary Committee
+
+## Recorded votes (3)
+
+- 2025-03-06 — [Senate 119-1-110](votes/senate-119-1-0110.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (82–12)
+- 2025-03-13 — [Senate 119-1-124](votes/senate-119-1-0124.md) — On the Cloture Motion — **Cloture Motion Agreed to** (84–15)
+- 2025-03-14 — [Senate 119-1-127](votes/senate-119-1-0127.md) — On Passage of the Bill — **Bill Passed** (84–16)
 
 ## Actions
 
@@ -55,3 +111,96 @@ HALT Fentanyl Act
 - 2025-03-03 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
 - 2025-03-03 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
 - 2025-03-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 18.
+- 2025-03-04 — Cloture motion on the motion to proceed to the measure presented in Senate. (CR S1488)
+- 2025-03-04 — Motion to proceed to consideration of measure made in Senate. (CR S1488)
+- 2025-03-05 — Motion to proceed to measure considered in Senate. (CR S1521)
+- 2025-03-06 — 
+- 2025-03-06 — 
+- 2025-03-06 — 
+- 2025-03-06 — 
+- 2025-03-06 — 
+- 2025-03-06 — 
+- 2025-03-06 — Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 82 - 12. Record Vote Number: 110. (CR S1596)
+- 2025-03-06 — Motion to proceed to measure considered in Senate. (CR S1596)
+- 2025-03-06 — Senate amendment submitted
+- 2025-03-06 — Senate amendment submitted
+- 2025-03-06 — Senate amendment submitted
+- 2025-03-06 — Senate amendment submitted
+- 2025-03-06 — Senate amendment submitted
+- 2025-03-06 — Senate amendment submitted
+- 2025-03-10 — 
+- 2025-03-10 — 
+- 2025-03-10 — 
+- 2025-03-10 — 
+- 2025-03-10 — 
+- 2025-03-10 — 
+- 2025-03-10 — 
+- 2025-03-10 — 
+- 2025-03-10 — Amendment SA 1237 proposed by Senator Thune for Senator Grassley. (consideration: CR S1623) To improve the bill.
+- 2025-03-10 — Measure laid before Senate by motion.
+- 2025-03-10 — Motion to proceed to consideration of measure agreed to in Senate by Voice Vote. (consideration: CR S1623)
+- 2025-03-10 — Motion to proceed to measure considered in Senate. (CR S1623)
+- 2025-03-10 — Senate amendment proposed (on the floor): Amendment SA 1237 proposed by Senator Thune for Senator Grassley.
+- 2025-03-10 — Senate amendment submitted
+- 2025-03-10 — Senate amendment submitted
+- 2025-03-10 — Senate amendment submitted
+- 2025-03-10 — Senate amendment submitted
+- 2025-03-10 — Senate amendment submitted
+- 2025-03-10 — Senate amendment submitted
+- 2025-03-10 — Senate amendment submitted
+- 2025-03-10 — Senate amendment submitted
+- 2025-03-11 — 
+- 2025-03-11 — 
+- 2025-03-11 — 
+- 2025-03-11 — 
+- 2025-03-11 — 
+- 2025-03-11 — 
+- 2025-03-11 — 
+- 2025-03-11 — 
+- 2025-03-11 — 
+- 2025-03-11 — 
+- 2025-03-11 — 
+- 2025-03-11 — 
+- 2025-03-11 — 
+- 2025-03-11 — 
+- 2025-03-11 — Cloture motion on the measure presented in Senate. (CR S1659)
+- 2025-03-11 — Considered by Senate. (consideration: CR S1659)
+- 2025-03-11 — Considered by Senate. (consideration: CR S1659)
+- 2025-03-11 — Senate amendment submitted
+- 2025-03-11 — Senate amendment submitted
+- 2025-03-11 — Senate amendment submitted
+- 2025-03-11 — Senate amendment submitted
+- 2025-03-11 — Senate amendment submitted
+- 2025-03-11 — Senate amendment submitted
+- 2025-03-11 — Senate amendment submitted
+- 2025-03-11 — Senate amendment submitted
+- 2025-03-11 — Senate amendment submitted
+- 2025-03-11 — Senate amendment submitted
+- 2025-03-11 — Senate amendment submitted
+- 2025-03-11 — Senate amendment submitted
+- 2025-03-11 — Senate amendment submitted
+- 2025-03-11 — Senate amendment submitted
+- 2025-03-12 — 
+- 2025-03-12 — 
+- 2025-03-12 — 
+- 2025-03-12 — 
+- 2025-03-12 — 
+- 2025-03-12 — 
+- 2025-03-12 — 
+- 2025-03-12 — Senate amendment submitted
+- 2025-03-12 — Senate amendment submitted
+- 2025-03-12 — Senate amendment submitted
+- 2025-03-12 — Senate amendment submitted
+- 2025-03-12 — Senate amendment submitted
+- 2025-03-12 — Senate amendment submitted
+- 2025-03-12 — Senate amendment submitted
+- 2025-03-13 — Cloture on the measure invoked in Senate by Yea-Nay Vote. 84 - 15. Record Vote Number: 124. (CR S1735)
+- 2025-03-13 — Considered by Senate. (consideration: CR S1735)
+- 2025-03-13 — Considered by Senate. (consideration: CR S1735)
+- 2025-03-14 — Considered by Senate. (consideration: CR S1762-1765)
+- 2025-03-14 — Considered by Senate. (consideration: CR S1765)
+- 2025-03-14 — Message on Senate action sent to the House.
+- 2025-03-14 — Passed Senate with an amendment by Yea-Nay Vote. 84 - 16. Record Vote Number: 127.
+- 2025-03-14 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 84 - 16. Record Vote Number: 127.
+- 2025-03-14 — Proposed amendment SA 1237 withdrawn in Senate.
+- 2025-03-14 — The committee substitute agreed to by Unanimous Consent.
