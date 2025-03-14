@@ -1,0 +1,20 @@
+---
+legis-num: S. 1086
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1086
+
+> To amend the Immigration and Nationality Act to prohibit the admission of Chinese nationals as nonimmigrant students, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Stop Chinese Communist Prying by Vindicating Intellectual Safeguards in Academia Act of 2025” or the “Stop CCP VISAs Act of 2025”.
+
+## § 2. Prohibition on admission of Chinese nationals as nonimmigrant students
+
+Section 214 of the Immigration and Nationality Act (8 U.S.C. 1184) is amended by adding at the end the following:
+
+> - **(s)** *Prohibition on admission of Chinese nationals as nonimmigrant students* An alien who is a national of the People's Republic of China may not be issued a visa or otherwise provided status as a nonimmigrant under section 101(a)(15)(F), (J), or (M), for the purpose of conducting research or pursuing a course of study.
