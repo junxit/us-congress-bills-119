@@ -1,7 +1,7 @@
 ---
 measure: S. 195
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 195
@@ -28,3 +28,7 @@ American Music Tourism Act of 2025
 
 - 2025-01-22 — Introduced in Senate
 - 2025-01-22 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2025-02-05 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2025-03-14 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-4.
+- 2025-03-14 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-4.
+- 2025-03-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 30.
