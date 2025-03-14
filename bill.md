@@ -1,0 +1,26 @@
+---
+legis-num: H.R. 2166
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2166
+
+> To amend title 23, United States Code, with respect to vehicle weight limitations for certain logging vehicles, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Safe Routes Act of 2025”.
+
+## § 2. Vehicle weight exemptions
+
+Section 127 of title 23, United States Code, is amended by adding at the end the following:
+
+> - **(z)** *Certain logging vehicles*
+>   - **(1)** *In general* The Secretary shall waive, with respect to a covered logging vehicle, the application of any vehicle weight limit established under this section.
+>   - **(2)** *Covered logging vehicle defined* In this subsection, the term covered logging vehicle means a vehicle that—
+>     - **(A)** is transporting raw or unfinished forest products, including logs, pulpwood, biomass, or wood chips;
+>     - **(B)** is traveling a distance not greater than 150 air miles on the Interstate from origin to a storage or processing facility; and
+>     - **(C)** meets State legal weight tolerances and vehicle configurations for transporting raw or unfinished forest products within the State boundaries in which the vehicle is operating.
+>   - **(3)** *Application of weight tolerances* The waiver in this subsection shall only apply with respect to a State legal weight tolerance in effect on the date of enactment of this subsection.
