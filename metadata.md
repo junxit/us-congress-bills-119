@@ -1,0 +1,34 @@
+---
+measure: H.R. 2115
+congress: 119
+version: Introduced in House
+---
+
+# H.R. 2115
+
+Ending China’s Unfair Advantage Act of 2025
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Dunn, Neal P. [R-FL-2] (D000628)
+
+## Cosponsors (2)
+
+- Rep. Hinson, Ashley [R-IA-2] (H001091)
+- Rep. Moolenaar, John R. [R-MI-2] (M001194)
+
+## Committees (2)
+
+- House — Energy and Commerce Committee
+- House — Foreign Affairs Committee
+
+## Actions
+
+- 2025-03-14 — Introduced in House
+- 2025-03-14 — Introduced in House
+- 2025-03-14 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-03-14 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
