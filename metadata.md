@@ -1,7 +1,7 @@
 ---
 measure: S. 331
 congress: 119
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 331
@@ -97,8 +97,9 @@ HALT Fentanyl Act
 
 - Senate — Judiciary Committee
 
-## Recorded votes (3)
+## Recorded votes (4)
 
+- 2025-06-12 — [House 119-1-166](votes/house-119-1-0166.md) — On Passage — **Passed** (321–104)
 - 2025-03-06 — Senate 119-1-110 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00110.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00110.xml answered HTTP 403
 - 2025-03-13 — Senate 119-1-124 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00124.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00124.xml answered HTTP 403
 - 2025-03-14 — Senate 119-1-127 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00127.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00127.xml answered HTTP 403
@@ -204,3 +205,22 @@ HALT Fentanyl Act
 - 2025-03-14 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 84 - 16. Record Vote Number: 127.
 - 2025-03-14 — Proposed amendment SA 1237 withdrawn in Senate.
 - 2025-03-14 — The committee substitute agreed to by Unanimous Consent.
+- 2025-03-18 — Held at the desk.
+- 2025-03-18 — Received in the House.
+- 2025-06-09 — Rules Committee Resolution H. Res. 489 Reported to House. Rule provides for consideration of H.R. 884, H.R. 2056, H.R. 2096 and S. 331. The resolution provides for consideration of H.R. 884, H.R. 2056, H.R. 2096, and S. 331 under a closed rule with one hour of general debate for each bill. The resolution provides for one motion to recommit on H.R. 884, H.R. 2056, and H.R. 2096, and one motion to commit on S. 331.
+- 2025-06-10 — Rule H. Res. 489 passed House.
+- 2025-06-11 — Considered under the provisions of rule H. Res. 489. (consideration: CR H2625-2633)
+- 2025-06-11 — DEBATE - The House proceeded with one hour of debate on S. 331.
+- 2025-06-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on S. 331, the Chair put the question on passage of the bill and by voice vote, announced that the ayes had prevailed. Mr. Pallone demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2025-06-11 — Rule provides for consideration of H.R. 884, H.R. 2056, H.R. 2096 and S. 331. The resolution provides for consideration of H.R. 884, H.R. 2056, H.R. 2096, and S. 331 under a closed rule with one hour of general debate for each bill. The resolution provides for one motion to recommit on H.R. 884, H.R. 2056, and H.R. 2096, and one motion to commit on S. 331.
+- 2025-06-11 — The previous question was ordered pursuant to the rule.
+- 2025-06-12 — Considered as unfinished business. (consideration: CR H2806)
+- 2025-06-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-06-12 — On passage Passed by the Yeas and Nays: 321 - 104 (Roll no. 166). (text: 6/11/2025 CR H2625-2627)
+- 2025-06-12 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 321 - 104 (Roll no. 166). (text: 6/11/2025 CR H2625-2627)
+- 2025-07-08 — Presented to President.
+- 2025-07-08 — Presented to President.
+- 2025-07-16 — Became Public Law No: 119-26.
+- 2025-07-16 — Became Public Law No: 119-26.
+- 2025-07-16 — Signed by President.
+- 2025-07-16 — Signed by President.
