@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 31
 congress: 119
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 31
@@ -30,3 +30,6 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - 2025-03-06 — Introduced in Senate
 - 2025-03-06 — Read twice and referred to the Committee on Environment and Public Works.
+- 2025-03-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 31.
+- 2025-03-14 — Senate Committee on Environment and Public Works discharged, by petition, pursuant to 5 U.S.C. 802(c).
+- 2025-03-14 — Senate Committee on Environment and Public Works discharged, by petition, pursuant to 5 U.S.C. 802(c).
