@@ -1,0 +1,25 @@
+---
+legis-num: H.R. 2233
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2233
+
+> To amend the Internal Revenue Code of 1986 to increase the information reporting threshold for slot winnings.
+
+## § 1. Short title
+
+This Act may be cited as the “Shifting Limits on Thresholds Act of 2025” or the “SLOT Act of 2025”.
+
+## § 2. Reporting threshold for slot machines
+
+- **(a)** *In general* Section 6041 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subsection:
+  > - **(h)** *Slot machines*
+  >   - **(1)** *In general* No return shall be required under subsection (a) in the case of a payment in the course of a trade or business of winnings from one slot machine play unless the winnings from one such play are at least $5,000 (without reduction for the amount wagered).
+  >   - **(2)** *Inflation adjustment* In the case of payments in any calendar year beginning after 2026, the $5,000 amount in paragraph (1) shall be increased by an amount equal to—
+  >     - **(A)** such dollar amount, multiplied by
+  >     - **(B)** the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “2025” for “2016” in subparagraph (A)(ii) thereof.
+
+- **(b)** *Effective date* The amendment made by this section shall apply to payments after December 31, 2025.
