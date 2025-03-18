@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 127
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 127
@@ -45,3 +45,8 @@ Of inquiry requesting the President and directing the Secretary of the Treasury 
 
 - 2025-02-12 — Referred to the House Committee on Ways and Means.
 - 2025-02-12 — Submitted in House
+- 2025-03-12 — Committee Consideration and Mark-up Session Held
+- 2025-03-12 — Ordered to be Reported Adversely by the Yeas and Nays: 25 - 18.
+- 2025-03-18 — Placed on the House Calendar, Calendar No. 10.
+- 2025-03-18 — Reported adversely by the Committee on Ways and Means. H. Rept. 119-18.
+- 2025-03-18 — Reported adversely by the Committee on Ways and Means. H. Rept. 119-18.
