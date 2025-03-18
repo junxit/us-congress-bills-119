@@ -1,0 +1,31 @@
+---
+legis-num: H.R. 2174
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2174
+
+> To amend title 5, United States Code, to provide that agencies may not deduct labor organization dues from the pay of Federal employees, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Paycheck Protection Act”.
+
+## § 2. Labor organization dues not deductible from pay
+
+- **(a)** *Federal agencies*
+  - **(1)** *In general* Section 7115 of title 5, United States Code, is amended to read as follows:
+    > ## § 7115. Labor organization dues not deductible from pay
+    >
+    > An agency may not deduct any amount from the pay of an employee for labor organization dues, fees, or political contributions.
+
+  - **(2)** *Clerical amendment* The table of sections at the beginning of chapter 71 of title 5, United States Code, is amended by striking the item relating to section 7115 and inserting the following:
+- **(b)** *Postal Service*
+  - **(1)** *In general* Section 1205 of title 39, United States Code, is amended to read as follows:
+    > ## § 1205. Labor organization dues not deductible from pay
+    >
+    > The Postal Service may not deduct any amount from the pay of an employee for labor organization dues, fees, or political contributions.
+
+  - **(2)** *Clerical amendment* The table of sections at the beginning of chapter 12 of title 39, United States Code, is amended by striking the item relating to section 1205 and inserting the following:
