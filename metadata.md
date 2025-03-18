@@ -1,7 +1,7 @@
 ---
 measure: S. 875
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 875
@@ -39,3 +39,7 @@ FIRM Act
 
 - 2025-03-06 — Introduced in Senate
 - 2025-03-06 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2025-03-13 — Committee on Banking, Housing, and Urban Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2025-03-18 — Committee on Banking, Housing, and Urban Affairs. Reported by Senator Scott SC, under authority of the order of the Senate of 03/14/2025 with an amendment in the nature of a substitute. Without written report.
+- 2025-03-18 — Committee on Banking, Housing, and Urban Affairs. Reported by Senator Scott SC, under authority of the order of the Senate of 03/14/2025 with an amendment in the nature of a substitute. Without written report.
+- 2025-03-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 32.

@@ -21,7 +21,7 @@ This Act may be cited as the “Financial Integrity and Regulation Management Ac
   - **(3)** financial service providers are private entities entitled to provide services to whichever customers they so choose, provided that those decisions do not violate the law;
   - **(4)** financial service providers should strive to ensure that all business decisions are based on factors free from unlawful prejudice or political influence;
   - **(5)** the use of reputational risk in supervisory frameworks encourages Federal banking agencies to regulate depository institutions based on the subjective view of negative publicity and provides cover for the agencies to implement their own political agenda unrelated to the safety and soundness of a depository institution;
-  - **(6)** Federal banking agencies have in fact used reputational risk to limit access of federally legal businesses and law-abiding citizens to financial services in 2018 when the Federal Deposit Insurance Corporation acknowledged that the agency used reputational risk reviews to limit access to financial services by certain industries, commonly known as “Operation Choke Point”; and
+  - **(6)** Federal banking agencies have in fact used reputational risk to limit access of federally legal businesses and law-abiding citizens to financial services in 2018 when the Federal Deposit Insurance Corporation acknowledged that the agency used reputational risk reviews to limit access to financial services by certain industries, commonly known as “Operation Choke Point”;
   - **(7)** reputational risk does not appear in any statute and is an unnecessary and improper use of supervisory authority that does not contribute to the safety and soundness of the financial system.
 
 ## § 3. Definitions
