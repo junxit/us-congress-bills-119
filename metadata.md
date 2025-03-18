@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 198
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 198
@@ -29,3 +29,8 @@ Providing for the expenses of certain committees of the House of Representatives
 - 2025-03-06 — Referred to the House Committee on House Administration.
 - 2025-03-06 — Submitted in House
 - 2025-03-06 — Submitted in House
+- 2025-03-11 — Committee Consideration and Mark-up Session Held
+- 2025-03-11 — Ordered to be Reported (Amended) by Voice Vote.
+- 2025-03-18 — Placed on the House Calendar, Calendar No. 9.
+- 2025-03-18 — Reported (Amended) by the Committee on House Administration. H. Rept. 119-17.
+- 2025-03-18 — Reported (Amended) by the Committee on House Administration. H. Rept. 119-17.
