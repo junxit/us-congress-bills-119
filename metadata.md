@@ -1,7 +1,7 @@
 ---
 measure: S. 919
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 919
@@ -31,3 +31,7 @@ GENIUS Act of 2025
 
 - 2025-03-10 — Introduced in Senate
 - 2025-03-10 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2025-03-13 — Committee on Banking, Housing, and Urban Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2025-03-18 — Committee on Banking, Housing, and Urban Affairs. Reported by Senator Scott SC, under authority of the order of the Senate of 03/14/2025 with an amendment in the nature of a substitute. Without written report.
+- 2025-03-18 — Committee on Banking, Housing, and Urban Affairs. Reported by Senator Scott SC, under authority of the order of the Senate of 03/14/2025 with an amendment in the nature of a substitute. Without written report.
+- 2025-03-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 33.
