@@ -26,8 +26,8 @@ This Act may be cited as the “Stop Fentanyl Money Laundering Act of 2025”.
 
 Not later than one year following the date of the enactment of this Act, the Financial Crimes Enforcement Network shall update and issue a new advisory to financial institutions on identifying Chinese professional money laundering facilitating the trafficking of fentanyl and other synthetic opioids. Such advisory shall incorporate the following advisories:
 
-- **(1)** FIN–2014–A005, entitled “Update on U.S. Currency Restrictions in Mexico: Funnel Accounts and TBML”;
-- **(2)** FIN–2010–A001, entitled “Advisory to Financial Institutions on Filing Suspicious Activity Reports regarding Trade-Based Money Laundering”; and
+- **(1)** FIN–2014–A005, entitled “Update on U.S. Currency Restrictions in Mexico: Funnel Accounts and TBML”.
+- **(2)** FIN–2010–A001, entitled “Advisory to Financial Institutions on Filing Suspicious Activity Reports regarding Trade-Based Money Laundering”.
 - **(3)** FIN–2019–A006, entitled “Advisory to Financial Institutions on Illicit Financial Schemes and Methods Related to the Trafficking of Fentanyl and Other Synthetic Opioids”.
 
 ## § 4. Treatment of transnational criminal organizations in suspicious transactions
@@ -35,3 +35,12 @@ Not later than one year following the date of the enactment of this Act, the Fin
 - **(a)** *Filing instructions* Not later than 180 days after the date of the enactment of this Act, the Director of the Financial Crimes Enforcement Network shall issue guidance or instructions to United States financial institutions for filing reports on suspicious transactions required by section 5318(g) of title 31, United States Code, related to suspected narcotics trafficking by transnational criminal organizations.
 - **(b)** *Prioritization of reports relating to narcotics trafficking or transnational criminal organizations* The Director shall prioritize research into reports described in subsection (a) that indicate a connection to trafficking of narcotics.
 - **(c)** *Briefing to Congress* Not later than one year after the date of enactment of this Act, the Director shall brief the Committees on Financial Services and Foreign Affairs of the House of Representatives and the Committees on Banking, Housing, and Urban Affairs and Foreign Relations of the Senate on the usefulness of the guidance or instructions issued under subsection (a).
+
+## § 5. Report on lessons learned from previous drug crises
+
+Not later than 360 days after the date of enactment of this Act, the Comptroller General of the United States, in consultation with the Department of the Treasury and other relevant agencies, shall provide the Committees on Financial Services and Foreign Affairs of the House of Representatives and the Committees on Banking, Housing, and Urban Affairs and Foreign Relations of the Senate with an unclassified report and briefing on the lessons learned from previous drug crises, including the crack cocaine crisis of the 1980s, with respect to—
+
+- **(1)** how transnational criminal organizations target individual and community victims;
+- **(2)** the negative impacts on those victims, including financial and health effects;
+- **(3)** mitigation activities that were effective in lessening the targeting of these victims or the negative impacts on such victims; and
+- **(4)** recommendations to confront such targeting, based on findings described under paragraphs (1), (2), and (3), that may be applied to the ongoing opioid crisis.
