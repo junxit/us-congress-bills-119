@@ -1,7 +1,7 @@
 ---
 measure: H.R. 910
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 910
@@ -16,9 +16,11 @@ Taiwan Non-Discrimination Act of 2025
 
 - Rep. Kim, Young [R-CA-40] (K000397)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Rep. Green, Al [D-TX-9] (G000553)
+- Rep. Lawler, Michael [R-NY-17] (L000599)
+- Rep. Lieu, Ted [D-CA-36] (L000582)
 
 ## Committees (1)
 
@@ -29,3 +31,8 @@ Taiwan Non-Discrimination Act of 2025
 - 2025-02-04 — Introduced in House
 - 2025-02-04 — Introduced in House
 - 2025-02-04 — Referred to the House Committee on Financial Services.
+- 2025-03-05 — Committee Consideration and Mark-up Session Held
+- 2025-03-05 — Ordered to be Reported (Amended) by the Yeas and Nays: 48 - 0.
+- 2025-03-21 — Placed on the Union Calendar, Calendar No. 10.
+- 2025-03-21 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-20.
+- 2025-03-21 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-20.

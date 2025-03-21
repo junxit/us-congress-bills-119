@@ -48,11 +48,11 @@ It is the sense of the Congress that—
   - **(3)** employment opportunities for Taiwan nationals, without regard to any consideration that, in the determination of the United States Governor, does not generally restrict the employment of nationals of member countries of the Fund; and
   - **(4)** the ability of Taiwan to receive appropriate technical assistance and training by the Fund.
 - **(b)** *United States policy* It is the policy of the United States not to discourage or otherwise deter Taiwan from seeking admission as a member of the Fund.
-- **(c)** *Waiver* The Secretary of the Treasury may waive any requirement of subsection (a) for up to 1 year at a time on reporting to Congress that providing the waiver will substantially promote the objective of securing the meaningful participation of Taiwan at each international financial institution (as defined in section 1701(c)(2) of the International Financial Institutions Act).
+- **(c)** *Waiver* The Secretary of the Treasury may waive any requirement of subsection (a) for up to 1 year at a time on reporting to Congress that providing the waiver will substantially promote the objective of securing the meaningful participation of Taiwan at each international financial institution (as defined in section 1701(c)(2) of the International Financial Institutions Act (22 U.S.C. 262r(c)(2))).
 - **(d)** *Sunset* This section shall have no force or effect on the earlier of—
   - **(1)** the date of approval by the Board of Governors of the Fund for the admission of Taiwan as a member of the Fund; or
   - **(2)** the date that is 10 years after the date of the enactment of this Act.
 
 ## § 5. Testimony requirement
 
-In each of the next 7 years in which the Secretary of the Treasury is required by section 1705(b) of the International Financial Institutions Act to present testimony, the Secretary shall include in the testimony a description of the efforts of the United States to support the greatest participation practicable by Taiwan at each international financial institution (as defined in section 1701(c)(2) of such Act).
+In each of the next 7 years in which the Secretary of the Treasury is required by section 1705(b) of the International Financial Institutions Act to present testimony, the Secretary shall include in the testimony a description of the efforts of the United States to support the greatest participation practicable by Taiwan at each international financial institution (as defined in section 1701(c)(2) of such Act (22 U.S.C. 262r(c)(2))).
