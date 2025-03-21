@@ -25,20 +25,20 @@ Congress finds the following:
 
 ## § 3. Multilateral development bank support for nuclear energy
 
-Title XV of the International Financial Institutions Act (22 U.S.C. 262o–262o–4) is amended by adding at the end the following:
+Title XV of the International Financial Institutions Act (22 U.S.C. 262o et seq.) is amended by adding at the end the following:
 
 > ## § 1506. Multilateral development bank support for nuclear energy
 >
 > The Secretary of the Treasury shall instruct the United States Executive Director at the International Bank for Reconstruction and Development, the European Bank for Reconstruction and Development, and, as the Secretary finds appropriate, any other multilateral development bank (as defined in section 1307(g)) to use the voice, vote, and influence of the United States to advocate for—
 >
-> - **(1)** the removal of prohibitions at the respective bank against financial and technical assistance for the generation and distribution of nuclear energy; and
+> - **(1)** the removal of prohibitions at the respective bank against financial and technical assistance for the generation and distribution of nuclear energy, to the extent that the prohibitions apply to nuclear technologies that meet or exceed the quality standards prevalent in the United States or a country allied with the United States; and
 > - **(2)** increased internal capacity-building at the respective bank for the purpose of assessing—
 >   - **(A)** the potential role of nuclear energy in the energy systems of client countries; and
 >   - **(B)** the delivery of financial and technical assistance described in paragraph (1) to the countries.
 
 ## § 4. Establishment of nuclear energy assistance trust funds
 
-Title XV of the International Financial Institutions Act (22 U.S.C. 262o–262o–4) is further amended by adding at the end the following:
+Title XV of the International Financial Institutions Act (22 U.S.C. 262o et seq.) is further amended by adding at the end the following:
 
 > ## § 1507. Establishment of nuclear energy assistance trust funds
 >
@@ -53,7 +53,7 @@ Title XV of the International Financial Institutions Act (22 U.S.C. 262o–262o�
 
 ## § 5. Inclusion in annual report
 
-During the 7-year period that begins with the date of enactment of this Act, the Chairman of the National Advisory Council on International Monetary and Financial Policies shall, include in the annual report required by section 1701 of the International Financial Institutions Act a description of any progress made—
+During the 7-year period that begins with the date of enactment of this Act, the Chairman of the National Advisory Council on International Monetary and Financial Policies shall include in the annual report required by section 1701 of the International Financial Institutions Act a description of any progress made—
 
 - **(1)** to promote multilateral development bank (as defined in such section) assistance for nuclear energy; and
 - **(2)** to establish a trust fund pursuant to section 1507 of such Act or, as the case may be, a summary of the activities of any such trust fund.
