@@ -1,0 +1,24 @@
+---
+legis-num: H.R. 2264
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2264
+
+> To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to automatically pay dependency and indemnity compensation to a survivor of a veteran with a service-connected mental disorder who dies by suicide.
+
+## § 1. Short title
+
+This Act may be cited as the “Service-Connected Suicide Compensation Act”.
+
+## § 2. Automatic dependency and indemnity compensation for survivors of a veteran with a service-connected mental disorder who dies by suicide
+
+Section 1310(a) of title 38, United States Code, is amended—
+
+- **(1)** by inserting “(1)” before “When”; and
+- **(2)** by adding at the end the following new paragraph:
+  > - **(2)** The Secretary shall pay dependency and indemnity compensation to the surviving spouse, children, and parents of a veteran who the Secretary determines—
+  >   - **(A)** has a mental disorder that is a service-connected disability; and
+  >   - **(B)** dies by suicide.
