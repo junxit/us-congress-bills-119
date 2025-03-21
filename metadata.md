@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 59
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.J.Res. 59
@@ -16,7 +16,7 @@ Disapproving the rule submitted by the Bureau of Consumer Financial Protection r
 
 - Rep. Hill, J. French [R-AR-2] (H001072)
 
-## Cosponsors (14)
+## Cosponsors (17)
 
 - Rep. Meuser, Daniel [R-PA-9] (M001204)
 - Rep. Ogles, Andrew [R-TN-5] (O000175)
@@ -32,6 +32,9 @@ Disapproving the rule submitted by the Bureau of Consumer Financial Protection r
 - Rep. Downing, Troy [R-MT-2] (D000634)
 - Rep. Norman, Ralph [R-SC-5] (N000190)
 - Rep. Grothman, Glenn [R-WI-6] (G000576)
+- Rep. Ezell, Mike [R-MS-4] (E000235)
+- Rep. Loudermilk, Barry [R-GA-11] (L000583)
+- Rep. Johnson, Dusty [R-SD-At Large] (J000301)
 
 ## Committees (1)
 
@@ -42,3 +45,8 @@ Disapproving the rule submitted by the Bureau of Consumer Financial Protection r
 - 2025-02-13 — Introduced in House
 - 2025-02-13 — Introduced in House
 - 2025-02-13 — Referred to the House Committee on Financial Services.
+- 2025-03-05 — Committee Consideration and Mark-up Session Held
+- 2025-03-05 — Ordered to be Reported by the Yeas and Nays: 30 - 19.
+- 2025-03-21 — Placed on the Union Calendar, Calendar No. 16.
+- 2025-03-21 — Reported by the Committee on Financial Services. H. Rept. 119-26.
+- 2025-03-21 — Reported by the Committee on Financial Services. H. Rept. 119-26.
