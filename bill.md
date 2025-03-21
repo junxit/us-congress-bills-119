@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Protect Our Communities from DUIs Act”.
+This Act may be cited as the “Jeremy and Angel Seay and Sergeant Brandon Mendoza Protect Our Communities from DUIs Act of 2025”.
 
 ## § 2. Inadmissibility and deportability related to driving while intoxicated or impaired
 

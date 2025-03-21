@@ -1,7 +1,7 @@
 ---
 measure: H.R. 875
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 875
@@ -16,7 +16,7 @@ Jeremy and Angel Seay and Sergeant Brandon Mendoza Protect Our Communities from 
 
 - Rep. Moore, Barry [R-AL-1] (M001212)
 
-## Cosponsors (19)
+## Cosponsors (23)
 
 - Rep. Burlison, Eric [R-MO-7] (B001316)
 - Rep. Downing, Troy [R-MT-2] (D000634)
@@ -37,6 +37,10 @@ Jeremy and Angel Seay and Sergeant Brandon Mendoza Protect Our Communities from 
 - Rep. Harris, Mark [R-NC-8] (H001102)
 - Rep. Feenstra, Randy [R-IA-4] (F000446)
 - Rep. Gill, Brandon [R-TX-26] (G000603)
+- Rep. Brecheen, Josh [R-OK-2] (B001317)
+- Rep. Biggs, Andy [R-AZ-5] (B001302)
+- Rep. Tiffany, Thomas P. [R-WI-7] (T000165)
+- Rep. Cline, Ben [R-VA-6] (C001118)
 
 ## Committees (1)
 
@@ -47,3 +51,8 @@ Jeremy and Angel Seay and Sergeant Brandon Mendoza Protect Our Communities from 
 - 2025-01-31 — Introduced in House
 - 2025-01-31 — Introduced in House
 - 2025-01-31 — Referred to the House Committee on the Judiciary.
+- 2025-02-26 — Committee Consideration and Mark-up Session Held
+- 2025-02-26 — Ordered to be Reported (Amended) by Voice Vote.
+- 2025-03-21 — Placed on the Union Calendar, Calendar No. 19.
+- 2025-03-21 — Reported (Amended) by the Committee on Judiciary. H. Rept. 119-30.
+- 2025-03-21 — Reported (Amended) by the Committee on Judiciary. H. Rept. 119-30.
