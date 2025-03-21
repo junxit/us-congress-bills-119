@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1764
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1764
@@ -25,3 +25,8 @@ Aligning SEC Regulations for the World Bank’s International Development Associ
 - 2025-03-03 — Introduced in House
 - 2025-03-03 — Introduced in House
 - 2025-03-03 — Referred to the House Committee on Financial Services.
+- 2025-03-05 — Committee Consideration and Mark-up Session Held
+- 2025-03-05 — Ordered to be Reported (Amended) by the Yeas and Nays: 49 - 0.
+- 2025-03-21 — Placed on the Union Calendar, Calendar No. 15.
+- 2025-03-21 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-25.
+- 2025-03-21 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-25.
