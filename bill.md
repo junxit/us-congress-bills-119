@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “No Immigration Benefits for Hamas Terrorists Act”.
+This Act may be cited as the “No Immigration Benefits for Hamas Terrorists Act of 2025”.
 
 ## § 2. Aliens who carried out, participated in, planned, financed, supported, or otherwise facilitated attacks against Israel
 
