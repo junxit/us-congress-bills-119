@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 195
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 195
@@ -16,7 +16,7 @@ Of inquiry requesting the President of the United States to furnish certain info
 
 - Rep. Larson, John B. [D-CT-1] (L000557)
 
-## Cosponsors (18)
+## Cosponsors (19)
 
 - Rep. Neal, Richard E. [D-MA-1] (N000015)
 - Rep. Sánchez, Linda T. [D-CA-38] (S001156)
@@ -36,6 +36,7 @@ Of inquiry requesting the President of the United States to furnish certain info
 - Rep. DelBene, Suzan K. [D-WA-1] (D000617)
 - Rep. Schneider, Bradley Scott [D-IL-10] (S001190)
 - Del. Plaskett, Stacey E. [D-VI-At Large] (P000610)
+- Rep. Lynch, Stephen F. [D-MA-8] (L000562)
 
 ## Committees (1)
 
@@ -45,3 +46,8 @@ Of inquiry requesting the President of the United States to furnish certain info
 
 - 2025-03-05 — Referred to the House Committee on Ways and Means.
 - 2025-03-05 — Submitted in House
+- 2025-03-12 — Committee Consideration and Mark-up Session Held
+- 2025-03-12 — Ordered to be Reported Adversely by the Yeas and Nays: 24 - 18.
+- 2025-03-21 — Placed on the House Calendar, Calendar No. 11.
+- 2025-03-21 — Reported adversely by the Committee on Ways and Means. H. Rept. 119-29.
+- 2025-03-21 — Reported adversely by the Committee on Ways and Means. H. Rept. 119-29.
