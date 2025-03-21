@@ -41,7 +41,7 @@ The Congress finds the following:
     >   - **(3)** protecting fully the legal rights of all United States persons, including freedoms, civil liberties, and privacy rights guaranteed by Federal law.
     > - **(c)** *Congressional requests; notice of changes*
     >   - **(1)** *Requests for information* Upon request of the chair or ranking member of the Committee on Financial Services of the House of Representatives or the Committee on Banking, Housing, and Urban Affairs of the Senate, the Secretary shall provide a copy of any written protocols or guidance described in subsection (a)(3).
-    >   - **(2)** *Notice of changes* Not later than 30 days after revising any written protocols or guidance described in subsection (a)(3), the Secretary shall provide a copy of such revised written protocols or guidance to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+    >   - **(2)** *Notice of revisions* Not later than 30 days after revising any written protocols or guidance described in subsection (a)(3), the Secretary shall provide a copy of such revised written protocols or guidance to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
 
   - **(2)** in the table of contents for such chapter, by inserting after the item relating to section 5326 the following:
 - **(b)** *Sunset* On the date that is the end of the 7-year period beginning on the date of enactment of this Act—

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1602
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1602
@@ -29,3 +29,8 @@ Financial Privacy Act of 2025
 - 2025-02-26 — Introduced in House
 - 2025-02-26 — Introduced in House
 - 2025-02-26 — Referred to the House Committee on Financial Services.
+- 2025-03-05 — Committee Consideration and Mark-up Session Held
+- 2025-03-05 — Ordered to be Reported (Amended) by the Yeas and Nays: 48 - 0.
+- 2025-03-21 — Placed on the Union Calendar, Calendar No. 14.
+- 2025-03-21 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-24.
+- 2025-03-21 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-24.
