@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1789
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-12 amendatory instructions. 0 executed, 12 stated and not applied.
+13 amendatory instructions. 0 executed, 13 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -43,3 +43,4 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting “including dismissal under section 1456” after “require”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “or dismissal ordered” after “permitted”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 89 of title 28, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections for such chapter is amended by adding at the end the following: | the bill names no machine-readable US Code section |

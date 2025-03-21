@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Promptly Ending Political Prosecutions and Executive Retaliation Act”.
+This Act may be cited as the “Promptly Ending Political Prosecutions and Executive Retaliation Act of 2025”.
 
 ## § 2. Removal of certain actions
 
@@ -56,4 +56,5 @@ This Act may be cited as the “Promptly Ending Political Prosecutions and Execu
   > - **(d)** *Prohibition on limitation of scope* No court may define or limit the scope of the duties of an official of the Executive Office of the President.
   > - **(e)** *Dismissal* In any action subject to removal under paragraph (5) or (6) of section 1442(a), such case shall be dismissed unless rebutted by clear and convincing evidence establishing that the continued pendency of the State claim or charge would not in any way interfere, hinder, burden, or delay the execution of the duties of the President or Vice President.
 
-- **(b)** *Application* The amendments made by this section shall apply to civil actions or criminal prosecutions pending on the date of enactment of this Act or commenced on or after such date.
+- **(b)** *Table of sections* The table of sections for such chapter is amended by adding at the end the following:
+- **(c)** *Application* The amendments made by this section shall apply to civil actions or criminal prosecutions pending on the date of enactment of this Act or commenced on or after such date.
