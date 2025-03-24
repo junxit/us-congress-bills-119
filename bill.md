@@ -1,0 +1,35 @@
+---
+legis-num: H.R. 2294
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2294
+
+> To reauthorize the Integrated Coastal and Ocean Observation System Act of 2009.
+
+## § 1. Reauthorization of Integrated Coastal and Ocean Observation System Act of 2009
+
+The Integrated Coastal and Ocean Observation System Act of 2009 (33 U.S.C. 3601 et seq.) is amended—
+
+- **(1)** by striking “Council” each place it appears and inserting “Committee”;
+- **(2)** in section 12303 (33 U.S.C. 3602)—
+  - **(A)** in paragraph (2)—
+    - **(i)** in the heading, by striking “Council” and inserting “Committee”; and
+    - **(ii)** by striking “National Ocean Research Leadership Council” and inserting “Ocean Policy Committee”; and
+  - **(B)** in paragraph (6), by inserting “conduct operational oceanography measurements and” after “in order to”;
+- **(3)** in section 12304 (33 U.S.C. 3603)—
+  - **(A)** by inserting “and ocean” after “weather” each place it appears; and
+  - **(B)** in subsection (c)—
+    - **(i)** in the heading of paragraph (1), by striking “Council” and inserting “Committee”; and
+    - **(ii)** in paragraph (2)(B)—
+      - **(I)** by redesignating clauses (vi) through (x) as clauses (vii) through (xi), respectively; and
+      - **(II)** by inserting after clause (v) the following:
+        > - **(vi)** develop requirements and processes for regional offices and federally funded projects of the agencies of the Interagency Ocean Observation Committee to collaborate with the regional coastal observing systems for data sharing at regional levels;
+
+- **(4)** in section 12311 (33 U.S.C. 3610)—
+  - **(A)** in paragraph (4), by striking “and” at the end;
+  - **(B)** in paragraph (5), by striking the period at the end and inserting “; and”; and
+  - **(C)** by adding at the end the following:
+    > - **(6)** $56,000,000 for each of fiscal years 2026 through 2030.
