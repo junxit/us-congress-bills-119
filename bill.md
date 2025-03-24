@@ -78,11 +78,11 @@ This Act may be cited as the “Mathematical and Statistical Modeling Education 
   - **(2)** *Report on evaluations* Not later than 180 days after the completion of the evaluation under paragraph (1), the Director shall submit to Congress and make widely available to the public a report that includes the following:
     - **(A)** The results of the evaluation.
     - **(B)** Any recommendations for administrative and legislative action that could optimize the effectiveness of the awards made under this section.
-- **(i)** *Funding* From amounts appropriated or otherwise made available for the Directorate for STEM Education of the National Science Foundation, the Director shall allocate $10,000,000 for each of the fiscal years 2026 through 2030 to carry out this section.
+- **(i)** *Funding* $10,000,000 for each of the fiscal years 2026 through 2030 is authorized to be used by the Directorate for STEM Education of the National Science Foundation to carry out this section.
 
 ## § 3. NASEM report on mathematical and statistical modeling education in prekindergarten through 12th grade
 
-- **(a)** *Study* Not later than 180 days after the date of the enactment of this Act, the Director shall seek to enter into an agreement with the National Academies of Sciences, Engineering and Medicine (in this section referred to as “NASEM”) (or if NASEM declines to enter into such an agreement, another appropriate entity) under which NASEM, or such other appropriate entity, agrees to conduct a study on the following:
+- **(a)** *Study* Not later than 180 days after the date of the enactment of this Act, the Director of the National Science Foundation (in this section referred to as the “Director”) shall seek to enter into an agreement with the National Academies of Sciences, Engineering and Medicine (in this section referred to as “NASEM”) (or if NASEM declines to enter into such an agreement, another appropriate entity) under which NASEM, or such other appropriate entity, agrees to conduct a study on the following:
   - **(1)** Factors that enhance or barriers to the implementation of mathematical modeling and statistical modeling in elementary and secondary education, including opportunities for and barriers to use modeling to integrate mathematical and statistical ideas across the curriculum, including the following:
     - **(A)** Pathways in mathematical modeling and statistical problem solving from kindergarten to the workplace so students are able to identify opportunities to use their school mathematics and statistics in a variety of jobs and life situations and so employers can benefit from students’ school learning of data science, computational thinking, mathematics, statistics, and related subjects.
     - **(B)** The role of community-based problems, service-based learning. and internships for connecting students with career preparatory experiences.
@@ -94,7 +94,7 @@ This Act may be cited as the “Mathematical and Statistical Modeling Education 
   - **(1)** The results of the study conducted under subsection (a).
   - **(2)** Recommendations to modernize the processes described in subsection (a)(1).
   - **(3)** Recommendations for such legislative and administrative action as NASEM, or such other appropriate entity, determines appropriate.
-- **(d)** *Funding* From amounts appropriated or otherwise made available for the Directorate for STEM Education of the National Science Foundation, the Director shall allocate up to $1,000,000 for fiscal year 2026 to carry out this section.
+- **(d)** *Funding* $1,000,000 for each of the fiscal years 2026 through 2030 is authorized to be used by the Directorate for STEM Education of the National Science Foundation to carry out this section.
 
 ## § 4. Limitations
 

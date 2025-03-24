@@ -1,7 +1,7 @@
 ---
 measure: H.R. 730
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 730
@@ -16,9 +16,10 @@ Mathematical and Statistical Modeling Education Act
 
 - Rep. Houlahan, Chrissy [D-PA-6] (H001085)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Baird, James R. [R-IN-4] (B001307)
+- Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 
 ## Committees (1)
 
@@ -29,3 +30,9 @@ Mathematical and Statistical Modeling Education Act
 - 2025-01-24 — Introduced in House
 - 2025-01-24 — Introduced in House
 - 2025-01-24 — Referred to the House Committee on Science, Space, and Technology.
+- 2025-03-24 — Considered under suspension of the rules. (consideration: CR H1197-1201)
+- 2025-03-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 730.
+- 2025-03-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-03-24 — Mr. Babin moved to suspend the rules and pass the bill, as amended.
+- 2025-03-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1197-1199)
+- 2025-03-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1197-1199)
