@@ -15,9 +15,11 @@ This Act may be cited as the “Plain Language in Contracting Act”.
 
 ## § 2. Accessibility and clarity in covered notices for small business concerns
 
-- **(a)** *In general* Each covered notice shall be written—
-  - **(1)** in a manner that is clear, concise, and accessible to a small business concern; and
-  - **(2)** in a manner consistent, to the extent practicable, with the Federal plain language guidelines established pursuant to the Plain Writing Act of 2010 (5 U.S.C. 301 note).
+- **(a)** *In general* Each covered notice shall be written in a manner—
+  - **(1)** such that a small business concern can easily understand the intent of the covered notice; and
+  - **(2)** that—
+    - **(A)** is clear, concise, and well-organized; and
+    - **(B)** to the maximum extent practicable, follows other best practices appropriate to the subject or field of the covered notice and the intended audience of the covered notice.
 - **(b)** *Inclusion of key words in covered notices* Each covered notice shall, to the maximum extent practicable, include key words in the description of the covered notice such that a small business concern seeking contract opportunities using the single Government-wide point of entry described under section 1708 of title 41, United States Code, can easily identify and understand such covered notice.
 - **(c)** *Rulemaking* Not later than 90 days after the date of the enactment of this Act, the Administrator of the Small Business Administration shall issue rules to carry out this section.
 - **(d)** *Definitions* In this section:
