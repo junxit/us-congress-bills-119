@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1804
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1804
@@ -29,3 +29,8 @@ version: Introduced in House
 - 2025-03-03 — Introduced in House
 - 2025-03-03 — Introduced in House
 - 2025-03-03 — Referred to the House Committee on Small Business.
+- 2025-03-05 — Committee Consideration and Mark-up Session Held
+- 2025-03-05 — Ordered to be Reported by the Yeas and Nays: 25 - 0.
+- 2025-03-24 — Placed on the Union Calendar, Calendar No. 22.
+- 2025-03-24 — Reported by the Committee on Small Business. H. Rept. 119-33.
+- 2025-03-24 — Reported by the Committee on Small Business. H. Rept. 119-33.
