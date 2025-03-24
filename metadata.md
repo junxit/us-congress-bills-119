@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 198
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 198
@@ -34,3 +34,12 @@ Providing for the expenses of certain committees of the House of Representatives
 - 2025-03-18 — Placed on the House Calendar, Calendar No. 9.
 - 2025-03-18 — Reported (Amended) by the Committee on House Administration. H. Rept. 119-17.
 - 2025-03-18 — Reported (Amended) by the Committee on House Administration. H. Rept. 119-17.
+- 2025-03-24 — Amendment (A001) in the nature of a substitute offered by Mr. Steil. (consideration: CR H1215-1216; text: CR H1215-1216)
+- 2025-03-24 — Considered by unanimous consent. (consideration: CR H1215-1216)
+- 2025-03-24 — House Amendment Offered
+- 2025-03-24 — House amendment agreed to: On agreeing to the Steil amendment (A001) Agreed to without objection.
+- 2025-03-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-03-24 — Mr. Steil asked unanimous consent to take from the Speaker's table and consider.
+- 2025-03-24 — On agreeing to the Steil amendment (A001) Agreed to without objection.
+- 2025-03-24 — On agreeing to the resolution, as amended Agreed to without objection. (text of amendment in the nature of a substitute: CR H1215-1216)
+- 2025-03-24 — Passed/agreed to in House: On agreeing to the resolution, as amended Agreed to without objection. (text of amendment in the nature of a substitute: CR H1215-1216)
