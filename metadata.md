@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 242
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 242
@@ -20,9 +20,22 @@ Providing for consideration of the joint resolution (H.J. Res. 24) providing for
 
 - House — Rules Committee
 
+## Recorded votes (2)
+
+- 2025-03-25 — [House 119-1-75](votes/house-119-1-0075.md) — On Ordering the Previous Question — **Passed** (215–208)
+- 2025-03-25 — [House 119-1-76](votes/house-119-1-0076.md) — On Agreeing to the Resolution — **Passed** (214–207)
+
 ## Actions
 
 - 2025-03-24 — Placed on the House Calendar, Calendar No. 12.
 - 2025-03-24 — The House Committee on Rules reported an original measure, H. Rept. 119-38, by Ms. Foxx.
 - 2025-03-24 — The House Committee on Rules reported an original measure, H. Rept. 119-38, by Ms. Foxx.
 - 2025-03-24 — The resolution provides for consideration of H.J. Res. 24 and H.J. Res. 75 under a closed rule, and provides for consideration of H.R. 1048 under a structured rule. Also, the resolution provides for one hour of general debate and one motion to recommit on each measure.
+- 2025-03-25 — Considered as privileged matter. (consideration: CR H1232-1238)
+- 2025-03-25 — Considered as unfinished business. (consideration: CR H1239-1241)
+- 2025-03-25 — DEBATE - The House proceeded with one hour of debate on H. Res. 242.
+- 2025-03-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-03-25 — On agreeing to the resolution Agreed to by recorded vote: 214 - 207 (Roll no. 76). (text: CR H1232)
+- 2025-03-25 — On ordering the previous question Agreed to by the Yeas and Nays: 215 - 208 (Roll no. 75).
+- 2025-03-25 — POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 242, the Chair put the question on ordering the previous question and by voice vote, announced that the ayes had prevailed. Mr. Neguse demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2025-03-25 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 214 - 207 (Roll no. 76). (text: CR H1232)
