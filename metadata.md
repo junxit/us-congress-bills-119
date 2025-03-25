@@ -1,7 +1,7 @@
 ---
 measure: H.R. 359
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 359
@@ -20,9 +20,10 @@ Cost-Share Accountability Act of 2025
 
 - Rep. Foster, Bill [D-IL-11] (F000454)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -41,3 +42,4 @@ Cost-Share Accountability Act of 2025
 - 2025-03-24 — Mr. Babin moved to suspend the rules and pass the bill.
 - 2025-03-24 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 405 - 0 (Roll no. 72). (text: CR H1196)
 - 2025-03-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 405 - 0 (Roll no. 72). (text: CR H1196)
+- 2025-03-25 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
