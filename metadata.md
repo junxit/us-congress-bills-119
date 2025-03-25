@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1325
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1325
@@ -20,9 +20,10 @@ Commercial Remote Sensing Amendment Act of 2025
 
 - Rep. Lofgren, Zoe [D-CA-18] (L000397)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -35,3 +36,4 @@ Commercial Remote Sensing Amendment Act of 2025
 - 2025-03-24 — Mr. Babin moved to suspend the rules and pass the bill.
 - 2025-03-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1202-1203)
 - 2025-03-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1202-1203)
+- 2025-03-25 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
