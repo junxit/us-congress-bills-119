@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1326
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1326
@@ -21,10 +21,11 @@ DOE and USDA Interagency Research Act
 - Rep. Lofgren, Zoe [D-CA-18] (L000397)
 - Rep. Tenney, Claudia [R-NY-24] (T000478)
 
-## Committees (2)
+## Committees (3)
 
 - House — Agriculture Committee
 - House — Science, Space, and Technology Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -45,3 +46,4 @@ DOE and USDA Interagency Research Act
 - 2025-03-24 — Mr. Babin moved to suspend the rules and pass the bill.
 - 2025-03-24 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 372 - 35 (Roll no. 73). (text: CR H1204)
 - 2025-03-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 372 - 35 (Roll no. 73). (text: CR H1204)
+- 2025-03-25 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
