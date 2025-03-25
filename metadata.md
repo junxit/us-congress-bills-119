@@ -1,7 +1,7 @@
 ---
 measure: H.R. 730
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 730
@@ -21,9 +21,10 @@ Mathematical and Statistical Modeling Education Act
 - Rep. Baird, James R. [R-IN-4] (B001307)
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ Mathematical and Statistical Modeling Education Act
 - 2025-03-24 — Mr. Babin moved to suspend the rules and pass the bill, as amended.
 - 2025-03-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1197-1199)
 - 2025-03-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1197-1199)
+- 2025-03-25 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
