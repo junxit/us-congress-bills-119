@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 9
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Con.Res. 9
@@ -28,3 +28,9 @@ Authorizing the use of the Capitol Grounds for the National Peace Officers Memor
 
 - 2025-02-06 — Referred to the House Committee on Transportation and Infrastructure.
 - 2025-02-06 — Submitted in House
+- 2025-02-26 — Committee Consideration and Mark-up Session Held
+- 2025-02-26 — Ordered to be Reported by Voice Vote.
+- 2025-02-26 — Subcommittee on Economic Development, Public Buildings, and Emergency Management Discharged
+- 2025-03-25 — Placed on the House Calendar, Calendar No. 13.
+- 2025-03-25 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 119-39.
+- 2025-03-25 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 119-39.
