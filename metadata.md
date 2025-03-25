@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1318
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1318
@@ -20,9 +20,10 @@ United States Research Protection Act
 
 - Rep. Stevens, Haley M. [D-MI-11] (S001215)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -35,3 +36,4 @@ United States Research Protection Act
 - 2025-03-24 — Mr. Babin moved to suspend the rules and pass the bill.
 - 2025-03-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1201)
 - 2025-03-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1201)
+- 2025-03-25 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
