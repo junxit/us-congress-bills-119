@@ -1,0 +1,21 @@
+---
+legis-num: S. 1128
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1128
+
+> To prohibit any direct or indirect United States funding for the territory of Gaza unless certain conditions are met.
+
+## § 1. Short title
+
+This Act may be cited as the “Stop Taxpayer Funding of Hamas Act”.
+
+## § 2. Restriction on the expenditure for Federal funds in Gaza
+
+- **(a)** *In general* No United States Government funds may be obligated or expended in the territory of Gaza until after the President certifies to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives that such funds will be expended without benefitting any organization or persons that is—
+  - **(1)** a member of Hamas, Palestinian Islamic Jihad, or any other organization designated by the Secretary of State as a foreign terrorist organization under section 219 of the Immigration and Nationality Act (8 U.S.C. 1189); or
+  - **(2)** controlled or influenced by Hamas, Palestinian Islamic Jihad, or any such foreign terrorist organization.
+- **(b)** *United Nations entities* No United States Government funds may be obligated or expended in the territory of Gaza through any United Nations entity or office unless the President certifies to the congressional committees referred to in subsection (a) that such entity or office is not encouraging or teaching anti-Israel or anti-Semitic ideas or propaganda.
