@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 120
 congress: 119
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 120
@@ -34,3 +34,7 @@ A resolution recognizing Girl Scouts of the United States of America on its 113t
 
 - 2025-03-10 — Introduced in Senate
 - 2025-03-10 — Referred to the Committee on the Judiciary.
+- 2025-03-26 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2025-03-26 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S1864; text: 03/10/2025 CR S1632)
+- 2025-03-26 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2025-03-26 — Senate Committee on the Judiciary discharged by Unanimous Consent.
