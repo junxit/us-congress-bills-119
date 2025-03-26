@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 2380
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2380
+
+> To amend the Workforce Innovation and Opportunity Act to authorize the use of individual training accounts for certain youth.
+
+## § 1. Short title
+
+This Act may be cited as the “Building Youth Workforce Skills Act”.
+
+## § 2. Youth workforce investment activities
+
+Section 129(c) of the Workforce Innovation and Opportunity Act (29 U.S.C. 3164(c)) is amended by adding at the end the following:
+
+> - **(9)** *Individual training accounts* Funds allocated pursuant to paragraph (1) to a local area may be used to pay, through an individual training account, an eligible provider of training services described in section 122(d) for training services described in section 134(c)(3) provided to an in-school youth who is not younger than age 16 and not older than age 21, or any out-of-school youth, in the same manner that an individual training account is used to pay an eligible provider of training services under section 134(c)(3)(F)(iii) for training services provided to an adult or dislocated worker.
