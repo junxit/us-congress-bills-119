@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1534
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1534
@@ -20,9 +20,10 @@ IMPACT Act
 
 - Rep. Foushee, Valerie P. [D-NC-4] (F000477)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -41,3 +42,4 @@ IMPACT Act
 - 2025-03-25 — Motion to reconsider laid on the table Agreed to without objection.
 - 2025-03-25 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 350 - 73 (Roll no. 74). (text: 3/24/2025 CR H1209-1211)
 - 2025-03-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 350 - 73 (Roll no. 74). (text: 3/24/2025 CR H1209-1211)
+- 2025-03-26 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
