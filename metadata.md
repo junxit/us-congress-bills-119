@@ -1,7 +1,7 @@
 ---
 measure: H.R. 517
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 517
@@ -29,3 +29,8 @@ Filing Relief for Natural Disasters Act
 - 2025-01-16 — Introduced in House
 - 2025-01-16 — Introduced in House
 - 2025-01-16 — Referred to the House Committee on Ways and Means.
+- 2025-02-26 — Committee Consideration and Mark-up Session Held
+- 2025-02-26 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 42 - 0.
+- 2025-03-27 — Placed on the Union Calendar, Calendar No. 31.
+- 2025-03-27 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-44.
+- 2025-03-27 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-44.
