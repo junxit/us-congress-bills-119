@@ -40,7 +40,7 @@ This Act may be cited as the “Taiwan Conflict Deterrence Act of 2025”.
     - **(A)** is none of the foregoing; and
     - **(B)** performs any official duty that directly or indirectly affects Taiwan.
 - **(c)** *Form of reports; public availability*
-  - **(1)** *Form* The reports required under paragraphs (1) and (4) of subsection (a) shall be submitted in unclassified form but may contain a classified annex.
+  - **(1)** *Form of reports* The reports required under paragraphs (1) and (4) of subsection (a) shall be submitted in unclassified form but may contain a classified annex.
   - **(2)** *Public availability* The Secretary of the Treasury shall make the unclassified portion of the report required under subsection (a)(1) available to the public on the website and social media accounts of the Department of the Treasury—
     - **(A)** in English, Chinese, and any other language that the Secretary finds appropriate; and
     - **(B)** in precompressed, easily downloadable versions that are made available in all appropriate formats.
