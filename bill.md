@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1048
 
-> To amend the Higher Education Act of 1965 to strengthen disclosure requirements relating to foreign gifts and contracts, to prohibit contracts between institutions of higher education and certain foreign entities and countries of concern, and for other purposes.
+> To amend the Higher Education Act of 1965 to strengthen disclosure requirements relating to foreign gifts and con- tracts, to prohibit contracts between institutions of high- er education and certain foreign entities and countries of concern, and for other purposes.
 
 ## § 1. Short title
 
@@ -22,23 +22,22 @@ This Act may be cited as the “Defending Education Transparency and Ending Rogu
   >   - **(1)** *Aggregate gifts and contract disclosures* An institution shall file with the Secretary, in accordance with subsection (b)(1), a disclosure report on July 31 of the calendar year immediately following any calendar year in which—
   >     - **(A)** the institution receives a gift from, or enters into a contract with, a foreign source (other than a foreign country of concern or foreign entity of concern)—
   >       - **(i)** the value of which is $50,000 or more, considered alone or in combination with all other gifts from, or contracts with, that foreign source within the calendar year; or
-  >       - **(ii)** the value of which is undetermined; or
+  >       - **(ii)** the value of which is indeterminate; or
   >     - **(B)** the institution—
-  >       - **(i)** receives a gift from a foreign country of concern or foreign entity of concern; or
-  >       - **(ii)** upon receiving a waiver under section 117A to enter into a contract with such a country or entity, enters into such contract, without regard to the value of such gift or contract.
+  >       - **(i)** receives a gift from a foreign country of concern or foreign entity of concern, without regard to the value of such gift; or
+  >       - **(ii)** upon receiving a waiver under section 117A to enter into a contract with such a country or entity, enters into such contract, without regard to the value of such contract.
   >   - **(2)** *Foreign source ownership or control disclosures* Notwithstanding paragraph (1), in the case of an institution that is substantially controlled (as described in section 668.174(c)(3) of title 34, Code of Federal Regulations) (or successor regulations)) by a foreign source, the institution shall file with the Secretary, in accordance with subsection (b)(2), a disclosure report on July 31 of each year.
   >   - **(3)** *Treatment of affiliated entities* For purposes of this section, any gift to, or contract with, an affiliated entity of an institution shall be considered a gift to, or contract with, respectively, such institution.
   > - **(b)** *Contents of report*
-  >   - **(1)** *Gifts and contracts* Each report to the Secretary required under subsection (a)(1) shall contain the following:
+  >   - **(1)** *Gifts and contracts* Each report to the Secretary required under subsection (a)(1) shall include the following:
   >     - **(A)** With respect to a gift received from, or a contract entered into with, any foreign source—
-  >       - **(i)** the terms of such gift or contract, including—
-  >         - **(I)** the name of the individual, department, or other entity at the institution receiving the gift or carrying out the contract on behalf of the institution;
-  >         - **(II)** the foreign source’s intended purpose of such gift or contract, or, in the absence of such a purpose, the manner in which the institution intends to use such gift or contract; and
-  >         - **(III)** in the case of a restricted or conditional gift or contract, a description of the restrictions or conditions of such gift or contract;
-  >       - **(ii)** with respect to a gift—
+  >       - **(i)** the name of the individual, department, or other entity at the institution receiving the gift or carrying out the contract on behalf of the institution;
+  >       - **(ii)** any intended purpose of the gift or contract communicated to the institution by the foreign source, and, as of the date of filing such report, the manner in which the institution intends to use such gift or contract;
+  >       - **(iii)** in the case of a restricted or conditional gift or contract, a description of each restriction or condition that meets the definition of the term restricted or conditional gift or contract in subsection (f);
+  >       - **(iv)** with respect to such a gift—
   >         - **(I)** the total fair market dollar amount or dollar value of the gift, as of the date of submission of such report; and
   >         - **(II)** the date on which the institution received such gift;
-  >       - **(iii)** with respect to a contract—
+  >       - **(v)** with respect to such a contract—
   >         - **(I)** the total fair market dollar amount or dollar value of the contract, as of the date of submission of such report;
   >         - **(II)** the date on which the institution enters into such contract;
   >         - **(III)** the date on which such contract first takes effect;
@@ -48,40 +47,51 @@ This Act may be cited as the “Defending Education Transparency and Ending Rogu
   >             - **(AA)** the date that is 5 years after the date on which such contract first takes effect;
   >             - **(BB)** the date on which the contract terminates; or
   >             - **(CC)** the last day of any period that applicable State law requires a copy of such contract to be maintained; and
-  >           - **(bb)** upon request of the Secretary during an investigation under section 117D(a)(1), produce such an unredacted copy of the contract; and
-  >       - **(iv)** an assurance that in a case in which information is required to be disclosed under this section with respect to a gift or contract that is not in English, such information is translated into English in accordance with subsection (c).
+  >           - **(bb)** upon request of the Secretary during an investigation under section 117D(a)(1), produce such an unredacted copy of the contract.
   >     - **(B)** With respect to a gift received from, or a contract entered into with, a foreign source that is a foreign government (other than the government of a foreign country of concern)—
   >       - **(i)** the name of such foreign government;
   >       - **(ii)** the department, agency, office, or division of such foreign government that approved such gift or contract, as applicable; and
   >       - **(iii)** the physical mailing address of such department, agency, office, or division.
-  >     - **(C)** With respect to a gift received from, or contract entered into with, a foreign source (other than a foreign government subject to the requirements of subparagraph (B))—
-  >       - **(i)** the legal name of the foreign source, or, if such name is not available, a statement certified by a compliance officer in accordance with section 117D(c) that the institution has reasonably attempted to obtain such name;
-  >       - **(ii)** in the case of a foreign source that is a natural person, the country of citizenship of such person, or, if such country is not known, the principal country of residence of such person;
+  >     - **(C)** With respect to a gift received from, or contract entered into with, a foreign source other than a foreign government subject to the requirements of subparagraph (B)—
+  >       - **(i)**
+  >         - **(I)** the legal name of the foreign source; or
+  >         - **(II)** in the case of a gift received from a foreign source that awarded such gift to the institution as an agent described in subsection (f)(4)(G) on behalf of another foreign source—
+  >           - **(aa)** the legal name of the foreign source that awarded such gift; and
+  >           - **(bb)** the legal name of the foreign source on whose behalf the gift was awarded, or a statement certified by a compliance officer in accordance with section 117D(c) that the institution has reasonably attempted to obtain such name;
+  >       - **(ii)** in the case of a foreign source that is a natural person, each country of citizenship of such person, or, if no such country is known, the principal country of residence of such person;
   >       - **(iii)** in the case of a foreign source that is a legal entity, the country in which such entity is incorporated, or, if such information is not available, the principal place of business of such entity;
   >       - **(iv)** the physical mailing address of such foreign source, or, if such address is not available, a statement certified by a compliance officer in accordance with section 117D(c) that the institution has reasonably attempted to obtain such address; and
   >       - **(v)** any affiliation of the foreign source to an organization that is designated as a foreign terrorist organization pursuant to section 219 of the Immigration and Nationality Act (8 U.S.C. 1189).
   >     - **(D)** With respect to a contract entered into with a foreign source that is a foreign country of concern or a foreign entity of concern—
-  >       - **(i)** a complete and unredacted text of the original contract, and if such original contract is not in English, a translated copy in accordance with subsection (c);
+  >       - **(i)** a complete and unredacted copy of the original contract, and if such original contract is not in English, a translated copy in accordance with subsection (c);
   >       - **(ii)** a copy of the waiver received under section 117A for such contract; and
   >       - **(iii)** the statement submitted by the institution for purposes of receiving such a waiver under section 117A(b)(2).
+  >     - **(E)** With respect to a gift received from a foreign source that is a foreign country of concern or a foreign entity of concern, an assurance that the institution will—
+  >       - **(i)** in a case in which the institution received documentation relating to such gift, maintain such documentation until the latest of—
+  >         - **(I)** the date that is 5 years after the date such gift was received by the institution; or
+  >         - **(II)** the last day of any period that applicable State law requires a copy of such documentation to be maintained; and
+  >       - **(ii)** upon request of the Secretary during an investigation under section 117D(a)(1), produce such documentation;
   >   - **(2)** *Foreign source ownership or control* Each report to the Secretary required under subsection (a)(2) shall contain—
-  >     - **(A)** the legal name and address of the foreign source that owns or controls the institution;
-  >     - **(B)** the date on which the foreign source assumed ownership or control; and
-  >     - **(C)** any changes in program or structure resulting from the change in ownership or control.
-  > - **(c)** *Translation requirements* Any information required to be disclosed under this section with respect to a gift or contract that is not in English shall be translated, for purposes of such disclosure, by a person that is not an affiliated entity or agent of the foreign source involved with such gift or contract.
+  >     - **(A)** the information required under paragraph (1) of this subsection;
+  >     - **(B)** the legal name and the mailing address of the foreign source that substantially controls the institution as described in such subsection;
+  >     - **(C)** the date on which the foreign source assumed such substantial control; and
+  >     - **(D)** any changes in program or structure of the institution of higher education resulting from such substantial control.
+  > - **(c)** *Translation requirements* Any information required to be disclosed under this section, or requested by the Secretary pursuant to an investigation under section 117D(a)(1), with respect to a gift or contract that is not in English shall be translated into English, for purposes of such disclosure or such investigation, by a person that is not—
+  >   - **(1)** a foreign source that awarded such gift or entered into such contract; or
+  >   - **(2)** any other foreign source from an attributable country of a foreign source referred to in paragraph (1).
   > - **(d)** *Public inspection*
   >   - **(1)** *Database requirement* Beginning not later than May 31 of the calendar year following the date of enactment of the DETERRENT Act, the Secretary shall—
-  >     - **(A)** establish and maintain a searchable database on a website of the Department, under which all reports submitted under this section (including any report submitted under this section before the date of enactment of the DETERRENT Act)—
+  >     - **(A)** establish and maintain a searchable database on a website of the Department, under which all reports submitted under this section (including, to the extent practicable, any report submitted under this section before the date of enactment of the DETERRENT Act)—
   >       - **(i)** are made publicly available (in electronic and downloadable format), including any information provided in such reports (other than the information prohibited from being publicly disclosed pursuant to paragraph (2));
   >       - **(ii)** can be individually identified and compared; and
-  >       - **(iii)** are searchable and sortable—
+  >       - **(iii)** to the extent practicable, are searchable and sortable—
   >         - **(I)** by the institution that filed such report;
   >         - **(II)** by the date on which the institution filed such report;
   >         - **(III)** by the date on which the institution received the gift which is the subject of the report;
   >         - **(IV)** by the date on which the institution enters into the contract which is the subject of the report;
   >         - **(V)** by the date on which such contract first takes effect;
   >         - **(VI)** by the attributable country of such gift or contract;
-  >         - **(VII)** by the name of the foreign source (other than a foreign source that is a natural person);
+  >         - **(VII)** by the name of the foreign source;
   >         - **(VIII)** by the information described in subparagraph (C)(i); and
   >         - **(IX)** by the information described in subparagraph (C)(ii);
   >     - **(B)** not later than 30 days after receipt of a disclosure report under this section, include such report in such database;
@@ -89,43 +99,49 @@ This Act may be cited as the “Defending Education Transparency and Ending Rogu
   >       - **(i)** a foreign source that is a foreign government; or
   >       - **(ii)** a foreign source that is not a foreign government; and
   >     - **(D)** with respect to a disclosure report that does not include the name or address of a foreign source, indicate, as part of the public record of such report included in such database, that such report did not include such information.
-  >   - **(2)** *Name and address of foreign source* The Secretary shall not disclose the name or address of a foreign source that is a natural person (other than the attributable country of such foreign source) included in a disclosure report—
-  >     - **(A)** as part of the public record of such disclosure report described in paragraph (1); or
-  >     - **(B)** in response to a request under section 552 of title 5, United States Code (commonly known as the “Freedom of Information Act”), pursuant to subsection (b)(3) of such section.
-  > - **(e)** *Interagency information sharing* Not later than 30 days after receiving a disclosure report from an institution in compliance with this section, the Secretary shall transmit an unredacted copy of such report (that includes the name and address of a foreign source disclosed in such report) to the Director of the Federal Bureau of Investigation, the Director of National Intelligence, the Director of the Central Intelligence Agency, the Secretary of State, the Secretary of Defense, the Attorney General, the Secretary of Commerce, the Secretary of Homeland Security, the Secretary of Energy, the Director of the National Science Foundation, and the Director of the National Institutes of Health.
+  >   - **(2)** *Application of Federal privacy law; protections for natural persons*
+  >     - **(A)** *Application of Federal privacy law* Except as provided in subparagraph (B), a disclosure report filed pursuant to this section is not subject to Federal privacy law (including any exemption from disclosure described in section 552(b) of title 5, United States Code)).
+  >     - **(B)** *Protections for natural persons*
+  >       - **(i)** *In general* Except as provided in clause (ii), with respect to a disclosure report filed under this section, the name or address (other than the attributable country) of a foreign source that is a natural person—
+  >         - **(I)** may not be publicly disclosed; and
+  >         - **(II)** is exempt from disclosure under subsection (b)(3) of section 552 of title 5, United States Code (commonly referred to as the Freedom of Information Act).
+  >       - **(ii)** *Exceptions for contracts with a foreign country of concern or foreign entity of concern* Clause (i) shall not apply to a disclosure report filed pursuant to this section that contains information with respect to a contract described in subsection (a)(1)(B)(ii) entered into with a foreign country of concern or foreign entity of concern.
+  > - **(e)** *Interagency information sharing* Notwithstanding any other provision of law, not later than 30 days after receiving a disclosure report from an institution in compliance with this section, the Secretary shall transmit an unredacted copy of such report (including the name and address of a foreign source disclosed in such report) to the Director of the Federal Bureau of Investigation, the Director of National Intelligence, the Director of the Central Intelligence Agency, the Secretary of State, the Secretary of Defense, the Attorney General, the Secretary of Commerce, the Secretary of Homeland Security, the Secretary of Energy, the Director of the National Science Foundation, and the Director of the National Institutes of Health.
   > - **(f)** *Definitions* In this section:
-  >   - **(1)** *Affiliated entity* The term affiliated entity, when used with respect to an institution, means an entity or organization that operates primarily for the benefit of, or under the auspices of, such institution, including a foundation of the institution or a related entity (such as any educational, cultural, or language entity).
+  >   - **(1)** *Affiliated entity* The term affiliated entity, when used with respect to an institution, means an entity or organization that operates primarily for the benefit of, or under the auspices of, such institution, such as a foundation of the institution, or an educational, cultural, or language entity.
   >   - **(2)** *Attributable country* The term attributable country means—
-  >     - **(A)** the country of citizenship of a foreign source who is a natural person, or, if such country is unknown, the principal residence (as applicable) of such foreign source; or
+  >     - **(A)** the country of citizenship of a foreign source who is a natural person, or, if such country is unknown, the principal residence of such foreign source; or
   >     - **(B)** the country of incorporation of a foreign source that is a legal entity, or, if such country is unknown, the principal place of business (as applicable) of such foreign source.
   >   - **(3)** *Contract* The term contract—
   >     - **(A)** means—
-  >       - **(i)** any agreement for the acquisition by purchase, lease, or barter of property or services by the foreign source;
-  >       - **(ii)** any affiliation, agreement, or similar transaction with a foreign source that involves the use or exchange of an institution’s name, likeness, time, services, or resources; and
-  >       - **(iii)** any agreement for the acquisition by purchase, lease, or barter, of property or services from a foreign source (other than an arms-length agreement for such acquisition from a foreign source that is not a foreign country of concern or a foreign entity of concern); and
-  >     - **(B)** does not include an agreement made between an institution and a foreign source regarding any payment of one or more elements of a student’s cost of attendance (as such term is defined in section 472), unless such an agreement is made for more than 15 students or is made under a restricted or conditional contract.
+  >       - **(i)** any agreement for the acquisition by purchase, lease, or barter of property (including intellectual property) or services by the foreign source;
+  >       - **(ii)** except as provided in subparagraph (B)(ii), any agreement for the acquisition by purchase, lease, or barter of property (including intellectual property) or services from a foreign source; and
+  >       - **(iii)** any affiliation, agreement, or similar transaction with a foreign source that involves the use or exchange of an institution’s name, likeness, time, services, or resources; and
+  >     - **(B)** does not include—
+  >       - **(i)** an agreement made between an institution and a foreign source regarding any payment of one or more elements of a student’s cost of attendance (as such term is defined in section 472), unless such an agreement is made for more than 15 students or is made under a restricted or conditional contract;
+  >       - **(ii)** an arms-length agreement for the acquisition by purchase, lease, or barter of property (including intellectual property) or services from a foreign source that is not a foreign country of concern or a foreign entity of concern; or
+  >       - **(iii)** any assignment or license of a granted intellectual property right (including a patent, trademark, or copyright) that is not associated with a category listed in the Commerce Control List maintained by the Bureau of Industry and Security of the Department of Commerce and set forth in Supplement No. 1 to part 774 of title 15, Code of Federal Regulations (or successor regulations).
   >   - **(4)** *Foreign source* The term foreign source means—
   >     - **(A)** a foreign government, including an agency of a foreign government;
   >     - **(B)** a legal entity, governmental or otherwise, created under the laws of a foreign state or states;
   >     - **(C)** a legal entity, governmental or otherwise, substantially controlled (as described in section 668.174(c)(3) of title 34, Code of Federal Regulations) (or successor regulations)) by a foreign source;
   >     - **(D)** a natural person who is not a citizen or a national of the United States or a trust territory or protectorate thereof;
-  >     - **(E)** an agent of a foreign source, including—
-  >       - **(i)** a subsidiary or affiliate of a foreign legal entity, acting on behalf of a foreign source;
-  >       - **(ii)** a person that operates primarily for the benefit of, or under the auspices of, a foreign source, including a foundation or a related entity (such as any educational, cultural, or language entity); and
-  >       - **(iii)** a person who is an agent of a foreign principal (as such term is defined in section 1 of the Foreign Agents Registration Act of 1938 (22 U.S.C. 611)); and
-  >     - **(F)** an international organization (as such term is defined in the International Organizations Immunities Act (22 U.S.C. 288)).
+  >     - **(E)** an international organization (as such term is defined in the International Organizations Immunities Act (22 U.S.C. 288));
+  >     - **(F)** a person who is an agent of a foreign principal (as such term is defined in section 1 of the Foreign Agents Registration Act of 1938 (22 U.S.C. 611)); and
+  >     - **(G)** an agent of any of the entities described in subparagraphs (A) through (F), including—
+  >       - **(i)** a subsidiary or affiliate of a foreign legal entity, acting on behalf of such an entity; and
+  >       - **(ii)** a person that operates primarily for the benefit of, or under the auspices of, such an entity, such as a foundation of such entity, or an educational, cultural, or language entity.
   >   - **(5)** *Gift* The term gift—
-  >     - **(A)** means any gift of money, property, resources, staff, or services; and
+  >     - **(A)** means any gift of money, property (including intellectual property), resources, staff, or services; and
   >     - **(B)** does not include—
-  >       - **(i)** any payment of one or more elements of a student’s cost of attendance (as such term is defined in section 472) to an institution by, or scholarship from, a foreign source who is a natural person, acting in their individual capacity and not as an agent for, at the request or direction of, or on behalf of, any person or entity (except the student), made for not more than 15 students, and that is not made under a restricted or conditional contract with such foreign source; or
-  >       - **(ii)** assignment or license of registered industrial and intellectual property rights, such as patents, utility models, trademarks, or copyrights, or technical assistance, that are not associated with a category listed in the Commerce Control List maintained by the Bureau of Industry and Security of the Department of Commerce and set forth in Supplement No. 1 to part 774 of title 15, Code of Federal Regulations (or successor regulations); or
+  >       - **(i)** any payment of one or more elements of a student’s cost of attendance (as such term is defined in section 472) to an institution by, or scholarship from, a foreign source who is a natural person, acting in their individual capacity and not as an agent for, at the request or direction of, or on behalf of, any person or entity (except the student), made for not more than 15 students, and that is not made under a restricted or conditional contract with such foreign source;
+  >       - **(ii)** any assignment or license of a granted intellectual property right (including a patent, trademark, or copyright) that is not associated with a category listed in the Commerce Control List maintained by the Bureau of Industry and Security of the Department of Commerce and set forth in Supplement No. 1 to part 774 of title 15, Code of Federal Regulations (or successor regulations); or
   >       - **(iii)** decorations (as such term is defined in section 7342(a) of title 5, United States Code).
-  >   - **(6)** *Restricted or conditional gift or contract* The term restricted or conditional gift or contract means any endowment, gift, grant, contract, award, present, or property of any kind which includes provisions regarding—
+  >   - **(6)** *Restricted or conditional gift or contract* The term restricted or conditional gift or contract means any endowment, gift, grant, contract, award, present, or property (including intellectual property) of any kind which includes provisions regarding—
   >     - **(A)** the employment, assignment, or termination of faculty;
-  >     - **(B)** the establishment of departments, centers, institutes, instructional programs, research or lecture programs, or new faculty positions;
-  >     - **(C)** the selection, admission, or education of students;
-  >     - **(D)** the award of grants, loans, scholarships, fellowships, or other forms of financial aid restricted to students of a specified country, religion, sex, ethnic origin, or political opinion; or
-  >     - **(E)** any other restriction on the use of a gift or contract.
+  >     - **(B)** the establishment of, or the provision of funding for, departments, centers, institutes, instructional programs, research or lecture programs, or new faculty positions;
+  >     - **(C)** the selection, admission, or education of students; or
+  >     - **(D)** the award of grants, loans, scholarships, fellowships, or other forms of financial aid restricted to students of a specified country, religion, sex, ethnic origin, or political opinion.
 
 - **(b)** *Prohibition on contracts with certain foreign entities and countries* Part B of title I of the Higher Education Act of 1965 (20 U.S.C. 1011 et seq.) is amended by inserting after section 117 the following:
   > ## § 117A. Prohibition on contracts with certain foreign entities and countries
@@ -166,8 +182,8 @@ This Act may be cited as the “Defending Education Transparency and Ending Rogu
   >   - **(2)** *Renewal* An institution that has entered into a contract described in paragraph (1), the term of which is longer than the waiver period described in subparagraph (B) of such paragraph and the terms and conditions of which remain the same as the contract submitted as part of the request required under subparagraph (A) of such paragraph, may submit a request for renewal of the waiver issued under such paragraph in accordance with subsection (b)(2)(B).
   > - **(e)** *Contract defined* The term contract has the meaning given such term in section 117(f).
 
-- **(c)** *Interagency information sharing* Not later than 90 days after the date of enactment of this Act, the Secretary of Education shall transmit to each individual listed in section 117(e) of the Higher Education Act of 1965, as amended by this Act—
-  - **(1)** any report received by the Department of Education under section 117 of the Higher Education Act of 1965 (20 U.S.C. 1011f) prior to the date of enactment of this Act; and
+- **(c)** *Interagency information sharing* Notwithstanding any other provision of law, not later than 90 days after the date of enactment of this Act, the Secretary of Education shall transmit to each individual listed in section 117(e) of the Higher Education Act of 1965, as amended by this Act—
+  - **(1)** an unredacted copy of each report (including the name and address of a foreign source disclosed in such report) received by the Department of Education under section 117 of the Higher Education Act of 1965 (20 U.S.C. 1011f) prior to the date of enactment of this Act); and
   - **(2)** any report, document, or other record generated by the Department of Education in the course of an investigation—
     - **(A)** of an institution with respect to the compliance of such institution with such section; and
     - **(B)** initiated prior to the date of enactment of this Act.
@@ -179,45 +195,57 @@ The Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), as amended by the pre
 > ## § 117B. Institutional policy regarding foreign gifts and contracts to faculty and staff
 >
 > - **(a)** *Requirement to maintain policy and database* Beginning not later than 90 days after the date of enactment of the DETERRENT Act, each institution described in subsection (b) shall maintain—
->   - **(1)** a policy requiring covered individuals employed at the institution to disclose in a report to such institution on July 31 of each calendar year that begins after the year in which such enactment date occurs—
->     - **(A)** any gift received from a foreign source in the previous calendar year, the value of which is greater than the minimal value (as such term is defined in section 7342(a) of title 5, United States Code) or is of undetermined value, and including the date on which the gift was received;
+>   - **(1)** a policy requiring covered individuals at the institution and covered individuals at affiliated entities of the institution to disclose in a report to such institution by July 31 of each calendar year that begins after the year in which such enactment date occurs—
+>     - **(A)** any gift received from a foreign source in the previous calendar year, the value of which is greater than the minimal value (as such term is defined in section 7342(a) of title 5, United States Code) or is of indeterminate value, and including the date on which the gift was received;
 >     - **(B)** any contract with a foreign source (other than a foreign country of concern or foreign entity of concern) entered into or in effect during the previous calendar year, the value of which is $5,000 or more, considered alone or in combination with all other contracts with that foreign source within the calendar year, and including the date on which such contract is entered into, the date on which the contract first takes effect, and, as applicable, the date on which such contract terminates;
->     - **(C)** any contract with a foreign source (other than a foreign country of concern or foreign entity of concern) entered into or in effect during the previous calendar year that has an undetermined monetary value, and including the date on which such contract is entered into, the date on which the contract first takes effect, and, as applicable, the date on which such contract terminates; and
->     - **(D)** any contract entered into or in effect with a foreign country of concern or foreign entity of concern during the previous calendar year, the value of which is $0 or more or which has an undetermined monetary value, and including—
+>     - **(C)** any contract with a foreign source (other than a foreign country of concern or foreign entity of concern) entered into or in effect during the previous calendar year that has an indeterminate monetary value, and including the date on which such contract is entered into, the date on which the contract first takes effect, and, as applicable, the date on which such contract terminates; and
+>     - **(D)** any contract entered into or in effect with a foreign country of concern or foreign entity of concern during the previous calendar year, the value of which is $0 or more or which has an indeterminate monetary value, and including—
 >       - **(i)** the date on which such contract is entered into;
 >       - **(ii)** the date on which the contract first takes effect;
 >       - **(iii)** if the contract has a termination date, such termination date; and
 >       - **(iv)** the full text of such contract and any addenda;
->   - **(2)** a publicly available and searchable database (in electronic and downloadable format), on a website of the institution, of the information required to be disclosed under paragraph (1) (other than the name or any other personally identifiable information of a covered individual) that—
->     - **(A)** makes available the information disclosed under paragraph (1) (other than the name or any other personally identifiable information of a covered individual) beginning on the date that is 30 days after receipt of the report under such paragraph containing such information and until the latest of—
+>   - **(2)** a publicly available and searchable database (in electronic and downloadable format), on a website of the institution, of the information required to be disclosed under paragraph (1) (other than the information prohibited from public disclosure pursuant to subsection (c)) that—
+>     - **(A)** makes available the information disclosed under paragraph (1) (other than the information prohibited from public disclosure pursuant to subsection (c)) beginning on the date that is 30 days after receipt of the report under such paragraph containing such information and until the latest of—
 >       - **(i)** the date that is 5 years after the date on which—
 >         - **(I)** a gift referred to in paragraph (1)(A) is received; or
->         - **(II)** a contract referred to in subparagraph (B), (C) or (D) of paragraph (1) first takes effect; or
->       - **(ii)** the date on which a contract referred to in subparagraph (B), (C) or (D) of paragraph (1) terminates; and
+>         - **(II)** a contract referred to in subparagraph (B), (C) or (D) of paragraph (1) first takes effect;
+>       - **(ii)** the date on which a contract referred to in subparagraph (B), (C) or (D) of paragraph (1) terminates; or
+>       - **(iii)** the last day of any period that applicable State law requires a copy of such contract to be maintained; and
 >     - **(B)** is searchable and sortable—
 >       - **(i)** if the subject of the disclosure is a gift, by the date on which the gift is received;
 >       - **(ii)** if the subject of the disclosure is a contract—
 >         - **(I)** by the date on which such contract is entered into; and
 >         - **(II)** by the date on which such contract first takes effect;
 >       - **(iii)** by the attributable country with respect to which information is being disclosed;
->       - **(iv)** by the narrowest of the department, school, or college of the institution, as applicable, for which the individual making the disclosure works; and
->       - **(v)** by the name of the foreign source (other than a foreign source who is a natural person); and
+>       - **(iv)**
+>         - **(I)** if the covered individual at an institution is making the disclosure, by the most specific division of the institution (such as the department, school, or college) that the covered individual is at; and
+>         - **(II)** if the covered individual at the affiliated entity of the institution is making the disclosure, by the name of such affiliated entity;
+>       - **(v)** by the name of the foreign source; and
 >   - **(3)** an effective plan to identify and manage potential information gathering by foreign sources through espionage targeting covered individuals that may arise from gifts received from, or contracts entered into with, a foreign source, including through the use of—
 >     - **(A)** periodic communications;
 >     - **(B)** accurate reporting under paragraph (2) of the information required to be disclosed under paragraph (1); and
 >     - **(C)** enforcement of the policy described in paragraph (1); and
->   - **(4)** for purposes of investigations under section 117D(a)(1) or responses to requests under section 552 of title 5, United States Code (commonly known as the “Freedom of Information Act”), a record of the names of the individuals making disclosures under paragraph (1).
+>   - **(4)** for purposes of investigations under section 117D(a)(1), a record of the name of each individual who makes a disclosure under paragraph (1) and each report disclosed under such paragraph.
 > - **(b)** *Institutions* An institution shall be subject to the requirements of this section if such institution—
->   - **(1)** is an eligible institution for the purposes of any program authorized under title IV; and
->   - **(2)**
->     - **(A)** received more than $50,000,000 in Federal funds in any of the previous five calendar years to support (in whole or in part) research and development (as determined by the institution and measured by the Higher Education Research and Development Survey of the National Center for Science and Engineering Statistics); or
->     - **(B)** receives funds under title VI.
-> - **(c)** *Definitions* In this section—
->   - **(1)** the terms attributable country, foreign source, and gift have the meanings given such terms in section 117(f);
->   - **(2)** the term contract means—
->     - **(A)** any agreement for the acquisition by purchase, lease, or barter of property or services by the foreign source;
->     - **(B)** any affiliation, agreement, or similar transaction with a foreign source that involves the use or exchange of an institution’s name, likeness, time, services, or resources; and
->     - **(C)** any agreement for the acquisition by purchase, lease, or barter, of property or services from a foreign source (other than an arms-length agreement for such acquisition from a foreign source that is not a foreign country of concern or a foreign entity of concern); and
+>   - **(1)** received more than $50,000,000 in Federal funds in any of the previous five calendar years to support (in whole or in part) research and development (as determined by the institution and measured by the Higher Education Research and Development Survey of the National Center for Science and Engineering Statistics); or
+>   - **(2)** receives funds under title VI.
+> - **(c)** *Application of Federal privacy law; protections for natural persons*
+>   - **(1)** *Application of Federal privacy law* Except as provided in paragraph (2), a disclosure made pursuant to this section is not subject to Federal privacy law.
+>   - **(2)** *Protections for natural persons*
+>     - **(A)** *In general* Except as provided in subparagraph (B), with respect to a disclosure made pursuant to this section, the following may not be publicly disclosed:
+>       - **(i)** The name or address (other than the attributable country) of a foreign source that is a natural person.
+>       - **(ii)** The name or any other personally identifiable information of a covered individual making such disclosure.
+>     - **(B)** *Exceptions for contracts with a foreign country of concern or foreign entity of concern* Subparagraph (A) shall not apply to a disclosure made pursuant to this section that contains information with respect to a contract entered into with a foreign country of concern or foreign entity of concern.
+> - **(d)** *Definitions* In this section—
+>   - **(1)** the terms affiliated entity, attributable country, foreign source, and gift have the meanings given such terms in section 117(f);
+>   - **(2)** the term contract—
+>     - **(A)** means—
+>       - **(i)** any agreement for the acquisition by purchase, lease, or barter of property (including intellectual property) or services by the foreign source;
+>       - **(ii)** except as provided in subparagraph (B), any agreement for the acquisition by purchase, lease, or barter of property (including intellectual property) or services from a foreign source; and
+>       - **(iii)** any affiliation, agreement, or similar transaction with a foreign source that involves the use or exchange of a covered individual’s name, likeness, time, services, or resources; and
+>     - **(B)** does not include—
+>       - **(i)** an arms-length agreement for the acquisition by purchase, lease, or barter of property (including intellectual property) or services from a foreign source that is not a foreign country of concern or a foreign entity of concern; and
+>       - **(ii)** any assignment or license of a granted intellectual property right (including a patent, trademark, or copyright) that is not associated with a category listed in the Commerce Control List maintained by the Bureau of Industry and Security of the Department of Commerce and set forth in Supplement No. 1 to part 774 of title 15, Code of Federal Regulations (or successor regulations); and
 >   - **(3)** the term covered individual—
 >     - **(A)** has the meaning given such term in section 223(d) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (42 U.S.C. 6605); and
 >     - **(B)** shall be interpreted in accordance with the Guidance for Implementing National Security Presidential Memorandum 33 (NSPM–33) on National Security Strategy for United States Government-Supported Research and Development published by the Subcommittee on Research Security and the Joint Committee on the Research Environment in January 2022 (or any successor guidance).
@@ -244,7 +272,7 @@ The Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), as amended by this Ac
 > - **(d)** *Treatment of related organizations* For purposes of this section, assets held by any related organization (as defined in section 4968(d)(2) of the Internal Revenue Code of 1986) with respect to a specified institution shall be treated as held by such specified institution, except that—
 >   - **(1)** such assets shall not be taken into account with respect to more than 1 specified institution; and
 >   - **(2)** unless such organization is controlled by such institution or is described in section 509(a)(3) of the Internal Revenue Code of 1986 with respect to such institution, assets which are not intended or available for the use or benefit of such specified institution shall not be taken into account.
-> - **(e)** *Valuation of debt* For purposes of this section, the fair market value of any debt shall be the principal amount of such debt.
+> - **(e)** *Valuation of debt* For purposes of this section, the fair market value of any debt shall be the outstanding principal amount of such debt.
 > - **(f)** *Regulations* The Secretary, after consultation with the Secretary of the Treasury and the Securities and Exchange Commission, may issue such regulations or other guidance as may be necessary or appropriate to carry out the purposes of this section, including regulations or other guidance providing for the proper application of this section with respect to certain regulated investment companies, exchange traded funds, and pooled investments.
 > - **(g)** *Database requirement* Beginning not later than May 31 of the calendar year following the date of enactment of the DETERRENT Act, the Secretary shall—
 >   - **(1)** establish and maintain a searchable database on a website of the Department, under which all reports submitted under this section—
@@ -313,12 +341,12 @@ The Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), as amended by this Ac
   >       - **(ii)** *Subsequent violations* In the case of an institution that has previously been compelled to comply with a requirement of section 117C pursuant to a civil action described in paragraph (2), and is subsequently compelled to comply with such a requirement pursuant to a subsequent civil action described in paragraph (2), the Secretary shall impose a fine on the institution in an amount that is not less than 100 percent and not more than 200 percent of the sum of—
   >         - **(I)** the aggregate fair market value of all investments of concern held by such institution as of the close of the final calendar year for which the institution is compelled to comply with such requirement pursuant to such subsequent civil action; and
   >         - **(II)** the combined value of all investments of concern over the course of all the calendar years for which the institution is compelled to comply with such requirement pursuant to such subsequent civil action, as measured by the fair market value of such investments at the time of the sale.
-  >     - **(E)** *Ineligibilty for waiver* In the case of an institution that is fined pursuant to subparagraph (A)(ii), (B)(ii), (C)(ii), or (D)(ii), the Secretary shall prohibit the institution from obtaining a waiver, or a renewal of a waiver, under section 117A.
+  >     - **(E)** *Ineligibility for waiver* In the case of an institution that is fined pursuant to subparagraph (A)(ii), (B)(ii), (C)(ii), or (D)(ii), the Secretary shall prohibit the institution from obtaining a waiver, or a renewal of a waiver, under section 117A.
   > - **(b)** *Single point-of-contact at the Department* The Secretary shall maintain a single point-of-contact at the Department to—
   >   - **(1)** receive and respond to inquiries and requests for technical assistance from institutions regarding compliance with the requirements of sections 117, 117A, 117B, 117C, and subsection (c) of this section;
   >   - **(2)** coordinate and implement technical improvements to the database described in section 117(d)(1), including—
   >     - **(A)** improving upload functionality by allowing for batch reporting, including by allowing institutions to upload one file with all required information into the database;
-  >     - **(B)** publishing and maintaining a database users guide annually, including information on how to edit an entry and how to report errors;
+  >     - **(B)** publishing and maintaining a database users guide, which shall be reviewed and updated as practicable but not less than annually, including information on how to edit an entry and how to report errors;
   >     - **(C)** creating a standing user group (to which chapter 10 of title 5, United States Code, shall not apply) to discuss possible database improvements, which group shall—
   >       - **(i)** include at least—
   >         - **(I)** 3 members representing public institutions with high or very high levels of research activity (as defined by the National Center for Education Statistics);
@@ -336,7 +364,7 @@ The Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), as amended by this Ac
   >     - **(B)** the date on which the last update was made to such list; and
   >   - **(5)** not later than 7 days after making an update to the list maintained under paragraph (4)(A), notify each institution required to comply with the sections listed in paragraph (1) of such update.
   > - **(c)** *Institutional requirements for compliance officers and institutional policy requirements*
-  >   - **(1)** *In general* An institution that is required to file a report under section 117 or 117C, that is seeking a waiver under section 117A, or that is subject to the requirements of section 117B, shall, not later than the earlier of the date on which the institution files the first report under such a section, requests the institution’s first waiver under section 117A, or first fulfills the requirements of section 117C—
+  >   - **(1)** *In general* An institution that is required to file a report under section 117 or 117C, that is seeking a waiver under section 117A, or that is subject to the requirements of section 117B, shall, not later than the earlier of the date on which the institution files the first report under section 117 or 117C, requests the institution’s first waiver under section 117A, or first fulfills the requirements of section 117B—
   >     - **(A)** establish an institutional policy that the institution shall follow in meeting the requirements of sections 117, 117A, 117B, and 117C; and
   >     - **(B)** designate and maintain at least one, but not more than three, current employees or legally authorized agents of such institution to serve as compliance officers to carry out the requirements listed in paragraph (2).
   >   - **(2)** *Duties of compliance officers* A compliance officer designated by an institution under paragraph (1)(B) shall certify—
@@ -356,10 +384,12 @@ The Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), as amended by this Ac
   >       - **(ii)** followed the institutional policy established under paragraph (1)(A) applicable to such section.
   > - **(d)** *Definitions* For purposes of sections 117, 117A, 117B, 117C, and this section:
   >   - **(1)** *Foreign country of concern* The term foreign country of concern means the following:
-  >     - **(A)** Any covered nation defined in section 4872 of title 10, United States Code.
+  >     - **(A)** Any covered nation defined in section 4872 of title 10, United States Code, including any special administrative region within such a covered nation or any other territory that the United States recognizes as being under the control of such a covered nation on or after the date of the enactment of this subsection.
   >     - **(B)** Any country the Secretary, in consultation with the Secretary of Defense, the Secretary of State, and the Director of National Intelligence, determines, for purposes of sections 117, 117A, 117B, 117C, or this section, to be engaged in conduct that is detrimental to the national security or foreign policy of the United States.
-  >   - **(2)** *Foreign entity of concern* The term foreign entity of concern has the meaning given such term in section 10612(a) of the Research and Development, Competition, and Innovation Act (42 U.S.C. 19221(a)) and includes a foreign entity that is identified on the list published under section 1286(c)(8)(A) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (10 U.S.C. 22 4001 note; Public Law 115–232).
-  >   - **(3)** *Institution* The term institution means an institution of higher education (as such term is defined in section 102, other than an institution described in subsection (a)(1)(C) of such section).
+  >   - **(2)** *Foreign entity of concern* The term foreign entity of concern has the meaning given such term in section 10612(a) of the Research and Development, Competition, and Innovation Act (42 U.S.C. 19221(a)) and includes—
+  >     - **(A)** a foreign entity that is identified on the list published under section 1286(c)(9)(A) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (10 U.S.C. 4001 note; Public Law 115–232); and
+  >     - **(B)** a Chinese military company that is identified on the list required by section 1260H of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (10 U.S.C. 113 note; Public Law 116–283).
+  >   - **(3)** *Institution* The term institution means an institution of higher education (as such term is defined in section 102, other than an institution described in subsection (a)(1)(C) of such section) with a program participation agreement under section 487.
 
 - **(b)** *Program participation agreement* Section 487(a) of the Higher Education Act of 1965 (20 U.S.C. 1094) is amended by adding at the end the following:
   > - **(30)**
@@ -367,10 +397,10 @@ The Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), as amended by this Ac
   >   - **(B)** In the case of an institution described in subparagraph (C), the institution will—
   >     - **(i)** be ineligible to participate in the programs authorized by this title for a period of not less than 2 institutional fiscal years; and
   >     - **(ii)** in order to regain eligibility to participate in such programs, demonstrate compliance with all requirements of each such section for not less than 2 institutional fiscal years after the institutional fiscal year in which such institution became ineligible.
-  >   - **(C)** An institution described in this subparagraph is an institution that—
-  >     - **(i)** has been subject to 3 separate civil actions described in section 117D(a)(2) that have each resulted in the institution being compelled to comply with one or more requirements of section 117, 117A, 117B, 117C, or 117D(c); and
-  >     - **(ii)** pursuant to section 117D(a)(4)(E), is prohibited from obtaining a waiver, or a renewal of a waiver, under section 117A.
+  >   - **(C)** An institution described in this subparagraph is an institution—
+  >     - **(i)** against which judgment has been granted in 3 separate civil actions described in section 117D(a)(2) that have each resulted in the institution being compelled to comply with one or more requirements of section 117, 117A, 117B, 117C, or 117D(c); and
+  >     - **(ii)** that pursuant to section 117D(a)(4)(E), is prohibited from obtaining a waiver, or a renewal of a waiver, under section 117A.
 
 - **(c)** *GAO Study and Report*
-  - **(1)** *Study* Not later than 180 days after the date of enactment of this Act, the Comptroller General of the United States shall initiate a study to identify ways to improve intergovernmental agency coordination regarding implementation and enforcement of sections 117, 117A, 117B, 117C, and 117D(c) of the Higher Education Act of 1965 (20 U.S.C. 1011f), as amended or added by this Act, including increasing information sharing, increasing compliance rates, and establishing processes for enforcement.
-  - **(2)** *Report* Not later than 3 years after the date of enactment of this Act, the Comptroller General of the United States shall submit to Congress, and make public, a report containing the results of the study described in paragraph (1).
+  - **(1)** *Study* Not later than January 31 of the second calendar year that begins after the date of enactment of this Act, the Comptroller General of the United States shall initiate a study to identify ways to improve intergovernmental agency coordination regarding implementation and enforcement of sections 117, 117A, 117B, 117C, and 117D(c) of the Higher Education Act of 1965 (20 U.S.C. 1011f), as amended or added by this Act, including increasing information sharing, increasing compliance rates, and establishing processes for enforcement.
+  - **(2)** *Report* Not later than 3 years after the date of the initiation of the study under paragraph (1), the Comptroller General of the United States shall submit to Congress, and make public, a report containing the results of the study described in paragraph (1).
