@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 75
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.J.Res. 75
@@ -16,12 +16,42 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 
 - Rep. Goldman, Craig [R-TX-12] (G000601)
 
+## Cosponsors (13)
+
+- Rep. Dunn, Neal P. [R-FL-2] (D000628)
+- Rep. Palmer, Gary J. [R-AL-6] (P000609)
+- Rep. Houchin, Erin [R-IN-9] (H001093)
+- Rep. Balderson, Troy [R-OH-12] (B001306)
+- Rep. Newhouse, Dan [R-WA-4] (N000189)
+- Rep. Carter, Earl L. "Buddy" [R-GA-1] (C001103)
+- Rep. Lawler, Michael [R-NY-17] (L000599)
+- Rep. Messmer, Mark [R-IN-8] (M001233)
+- Rep. Moore, Riley [R-WV-2] (M001235)
+- Rep. Gill, Brandon [R-TX-26] (G000603)
+- Rep. Perry, Scott [R-PA-10] (P000605)
+- Rep. Crenshaw, Dan [R-TX-2] (C001120)
+- Rep. Tenney, Claudia [R-NY-24] (T000478)
+
 ## Committees (1)
 
 - House — Energy and Commerce Committee
+
+## Recorded votes (1)
+
+- 2025-03-27 — [House 119-1-78](votes/house-119-1-0078.md) — On Passage — **Passed** (214–193)
 
 ## Actions
 
 - 2025-03-10 — Introduced in House
 - 2025-03-10 — Introduced in House
 - 2025-03-10 — Referred to the House Committee on Energy and Commerce.
+- 2025-03-24 — Rules Committee Resolution H. Res. 242 Reported to House. Rule provides for consideration of H.J. Res. 24, H.J. Res. 75 and H.R. 1048. The resolution provides for consideration of H.J. Res. 24 and H.J. Res. 75 under a closed rule, and provides for consideration of H.R. 1048 under a structured rule. Also, the resolution provides for one hour of general debate and one motion to recommit on each measure.
+- 2025-03-26 — Considered under the provisions of rule H. Res. 242. (consideration: CR H1284-1290)
+- 2025-03-26 — DEBATE - The House proceeded with one hour of debate on H.J. Res. 75.
+- 2025-03-26 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.J. Res. 75, the Chair put the question on passage of the joint resolution and by voice vote, announced that the ayes had prevailed. Mr. Pallone demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2025-03-26 — Rule provides for consideration of H.J. Res. 24, H.J. Res. 75 and H.R. 1048. The resolution provides for consideration of H.J. Res. 24 and H.J. Res. 75 under a closed rule, and provides for consideration of H.R. 1048 under a structured rule. Also, the resolution provides for one hour of general debate and one motion to recommit on each measure.
+- 2025-03-26 — The previous question was ordered pursuant to the rule.
+- 2025-03-27 — Considered as unfinished business. (consideration: CR H1312)
+- 2025-03-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-03-27 — On passage Passed by the Yeas and Nays: 214 - 193 (Roll no. 78). (text: 3/26/2024 CR H1284)
+- 2025-03-27 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 214 - 193 (Roll no. 78). (text: 3/26/2024 CR H1284)
