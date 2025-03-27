@@ -19,4 +19,4 @@ This Act may be cited as the “National Taxpayer Advocate Enhancement Act of 20
   > - **(II)** appoint counsel in the Office of the Taxpayer Advocate to report directly to the National Taxpayer Advocate, or delegate thereof; and
 
 - **(b)** *Conforming amendment* Section 7803(c)(2)(D)(i)(III) of such Code, as redesignated by subsection (a), is amended by striking “any employee of any local office of a taxpayer advocate described in subclause (I)” and inserting “any employee of the Office of the Taxpayer Advocate”.
-- **(c)** *Effective date* The amendment made by this section shall take effect as if included in the enactment of section 1102 of the Internal Revenue Service Restructuring and Reform Act of 1998.
+- **(c)** *Effective date* The amendments made by this section shall take effect as if included in the enactment of section 1102 of the Internal Revenue Service Restructuring and Reform Act of 1998.
