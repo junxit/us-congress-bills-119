@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 18
 congress: 119
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 18
@@ -39,9 +39,10 @@ A joint resolution disapproving the rule submitted by the Bureau of Consumer Fin
 
 - Senate — Banking, Housing, and Urban Affairs Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2025-03-26 — [Senate 119-1-152](votes/senate-119-1-0152.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (52–47)
+- 2025-03-27 — [Senate 119-1-153](votes/senate-119-1-0153.md) — On the Joint Resolution — **Joint Resolution Passed** (52–48)
 
 ## Actions
 
@@ -52,3 +53,6 @@ A joint resolution disapproving the rule submitted by the Bureau of Consumer Fin
 - 2025-03-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 34.
 - 2025-03-26 — Senate Committee on Banking, Housing, and Urban Affairs discharged, by petition, pursuant to 5 U.S.C. 802(c).
 - 2025-03-26 — Senate Committee on Banking, Housing, and Urban Affairs discharged, by petition, pursuant to 5 U.S.C. 802(c).
+- 2025-03-27 — Considered by Senate. (consideration: CR S1879, S1884)
+- 2025-03-27 — Passed Senate without amendment by Yea-Nay Vote. 52 - 48. Record Vote Number: 153. (text: CR S1884)
+- 2025-03-27 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 52 - 48. Record Vote Number: 153.
