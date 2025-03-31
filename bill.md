@@ -1,0 +1,14 @@
+---
+legis-num: H.J. RES. 83
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.J. RES. 83
+
+> Providing for congressional disapproval of the proposed foreign military sale to Israel of certain defense articles and services.
+
+That the following proposed foreign military sale to Israel is prohibited:
+
+- **(1)** The sale of the following defense articles and services, described in Transmittal No. 25–34, submitted to Congress pursuant to section 36(b)(1) of the Arms Export Control Act (22 U.S.C. 2776(b)(1)), and published in the Congressional Record on March 3, 2025: thirty-five thousand five hundred twenty-nine (35,529) MK 84 or BLU–117 General Purpose (GP) bomb bodies, or a combination of both; and four thousand (4,000) I–2000 Penetrator warheads.
