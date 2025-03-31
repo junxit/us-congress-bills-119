@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 24
 congress: 119
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.J.Res. 24
@@ -50,3 +50,4 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2025-03-27 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 203 - 182 (Roll no. 77). (text: CR H1307)
 - 2025-03-27 — Rule provides for consideration of H.J. Res. 24, H.J. Res. 75 and H.R. 1048. The resolution provides for consideration of H.J. Res. 24 and H.J. Res. 75 under a closed rule, and provides for consideration of H.R. 1048 under a structured rule. Also, the resolution provides for one hour of general debate and one motion to recommit on each measure.
 - 2025-03-27 — The previous question was ordered pursuant to the rule.
+- 2025-03-31 — Received in the Senate, read twice.
