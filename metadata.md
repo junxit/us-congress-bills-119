@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1048
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1048
@@ -40,9 +40,10 @@ DETERRENT Act
 - Rep. James, John [R-MI-10] (J000307)
 - Rep. Moolenaar, John R. [R-MI-2] (M001194)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (5)
 
@@ -122,3 +123,4 @@ DETERRENT Act
 - 2025-03-27 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
 - 2025-03-27 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 1048.
 - 2025-03-27 — The previous question was ordered pursuant to the rule.
+- 2025-03-31 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
