@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 75
 congress: 119
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 75
@@ -36,9 +36,11 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 
 - House — Energy and Commerce Committee
 
-## Recorded votes (1)
+## Recorded votes (3)
 
 - 2025-03-27 — [House 119-1-78](votes/house-119-1-0078.md) — On Passage — **Passed** (214–193)
+- 2025-04-30 — [Senate 119-1-224](votes/senate-119-1-0224.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (52–46)
+- 2025-05-01 — [Senate 119-1-228](votes/senate-119-1-0228.md) — On the Joint Resolution — **Joint Resolution Passed** (52–45)
 
 ## Actions
 
@@ -56,3 +58,14 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2025-03-27 — On passage Passed by the Yeas and Nays: 214 - 193 (Roll no. 78). (text: 3/26/2024 CR H1284)
 - 2025-03-27 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 214 - 193 (Roll no. 78). (text: 3/26/2024 CR H1284)
 - 2025-03-31 — Received in the Senate, read twice.
+- 2025-04-30 — Measure laid before Senate by motion. (consideration: CR S2683, S2695-2696)
+- 2025-04-30 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 52 - 46. Record Vote Number: 224.
+- 2025-05-01 — Message on Senate action sent to the House.
+- 2025-05-01 — Passed Senate without amendment by Yea-Nay Vote. 52 - 45. Record Vote Number: 228. (consideration: CR S2726-2727)
+- 2025-05-01 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 52 - 45. Record Vote Number: 228.
+- 2025-05-06 — Presented to President.
+- 2025-05-06 — Presented to President.
+- 2025-05-09 — Became Public Law No: 119-9.
+- 2025-05-09 — Became Public Law No: 119-9.
+- 2025-05-09 — Signed by President.
+- 2025-05-09 — Signed by President.
