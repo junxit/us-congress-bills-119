@@ -1,0 +1,14 @@
+---
+legis-num: H.J. RES. 84
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.J. RES. 84
+
+> Providing for congressional disapproval of the proposed foreign military sale to Israel of certain defense articles and services.
+
+That the following proposed foreign military sale to Israel is prohibited:
+
+- **(1)** The sale of the following defense articles and services, described in Transmittal No. 24–38, submitted to Congress pursuant to section 36(b)(1) of the Arms Export Control Act (22 U.S.C. 2776(b)(1)), and published in the Congressional Record on March 3, 2025: D9R and D9T Caterpillar bulldozers; spare and repair parts; corrosion protection; publications and technical documentation; pre-delivery inspections; U.S. Government and contractor support; technical and logistics support services; storage; and other related elements of logistics and program support.
