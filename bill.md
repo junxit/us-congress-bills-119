@@ -1,0 +1,24 @@
+---
+legis-num: H.R. 2521
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2521
+
+> To amend the Higher Education Act of 1965 to protect opportunities for families in the Federal student aid process, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “American Family FAFSA Opportunity Act of 2025”.
+
+## § 2. Eliminating the sibling penalty
+
+Paragraph (3) of section 475(b) of the Higher Education Act of 1965 (20 U.S.C. 1087oo(b)(3)) is amended to read as follows:
+
+> - **(3)** dividing the assessment resulting under paragraph (2) by the number of the family members, excluding student’s parents, who are enrolled or accepted for enrollment, on at least a half-time basis, in a degree, certificate, or other program leading to a recognized educational credential at an institution of higher education that is an eligible institution in accordance with the provisions of section 487 during the award period for which assistance under the title is requested;
+
+## § 3. Effective date
+
+The amendment made by this Act shall take effect on the date of enactment of this Act, and shall apply with respect to award year 2025–2026 and each subsequent award year, as determined under the Higher Education Act of 1965.
