@@ -1,0 +1,40 @@
+---
+measure: H.R. 2495
+congress: 119
+version: Introduced in House
+derived: true
+---
+
+# What H.R. 2495 would do to existing law
+
+> **Derived, unofficial, and not law.** This file is generated from the
+> bill's own amendatory instructions. It is not published by any
+> government body, it has not been reviewed, and it is wrong wherever
+> the instruction was more subtle than the reading of it. Nothing here
+> should be relied on; read `bill.md` beside it, and the US Code for the
+> text being amended.
+
+7 amendatory instructions. 0 executed, 7 stated and not applied.
+
+An instruction is executed here only when the bill states **both** the
+text removed and the text inserted, so the result follows from this
+document alone. Where a bill says *strike subsection (k)*, the words it
+removes are in the US Code and not in the bill, and no attempt is made
+to guess them.
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| `42 U.S.C. § 1395x` | redesignate | by redesignating clauses (i) through (iii) as subclauses (I) through (III), respectively, and adjusting the margins accordingly; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395x` | redesignate | in subclause (III), as so redesignated, by striking the semicolon at the end and inserting “; or”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395x` | replace | by striking “beneficiary with diabetes” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1395x` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395x` | insert | by inserting “(including management of an eating disorder (as defined for purposes of subsection (s)(2)(V)(ii)))” after “disease management”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1395x` | replace | by striking “which are furnished by” and all that follows through the period and inserting “which are furnished— | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1395x` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
