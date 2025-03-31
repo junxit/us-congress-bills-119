@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 75
 congress: 119
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.J.Res. 75
@@ -55,3 +55,4 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2025-03-27 — Motion to reconsider laid on the table Agreed to without objection.
 - 2025-03-27 — On passage Passed by the Yeas and Nays: 214 - 193 (Roll no. 78). (text: 3/26/2024 CR H1284)
 - 2025-03-27 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 214 - 193 (Roll no. 78). (text: 3/26/2024 CR H1284)
+- 2025-03-31 — Received in the Senate, read twice.
