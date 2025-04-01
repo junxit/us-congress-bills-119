@@ -1,7 +1,7 @@
 ---
 measure: S. 1047
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1047
@@ -16,6 +16,10 @@ Assisting Small Businesses Not Fraudsters Act
 
 - Sen. Young, Todd [R-IN] (Y000064)
 
+## Cosponsors (1)
+
+- Sen. Ernst, Joni [R-IA] (E000295)
+
 ## Committees (1)
 
 - Senate — Small Business and Entrepreneurship Committee
@@ -24,3 +28,7 @@ Assisting Small Businesses Not Fraudsters Act
 
 - 2025-03-13 — Introduced in Senate
 - 2025-03-13 — Read twice and referred to the Committee on Small Business and Entrepreneurship.
+- 2025-03-27 — Committee on Small Business and Entrepreneurship. Ordered to be reported without amendment favorably.
+- 2025-04-01 — Committee on Small Business and Entrepreneurship. Reported by Senator Ernst without amendment. Without written report.
+- 2025-04-01 — Committee on Small Business and Entrepreneurship. Reported by Senator Ernst without amendment. Without written report.
+- 2025-04-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 36.
