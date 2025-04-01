@@ -1,7 +1,7 @@
 ---
 measure: S. 1093
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1093
@@ -28,3 +28,7 @@ Coordinated Support for Rural Small Businesses Act
 
 - 2025-03-24 — Introduced in Senate
 - 2025-03-24 — Read twice and referred to the Committee on Small Business and Entrepreneurship.
+- 2025-03-27 — Committee on Small Business and Entrepreneurship. Ordered to be reported without amendment favorably.
+- 2025-04-01 — Committee on Small Business and Entrepreneurship. Reported by Senator Ernst without amendment. Without written report.
+- 2025-04-01 — Committee on Small Business and Entrepreneurship. Reported by Senator Ernst without amendment. Without written report.
+- 2025-04-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 37.
