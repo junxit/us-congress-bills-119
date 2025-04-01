@@ -1,7 +1,7 @@
 ---
 measure: H.R. 998
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 998
@@ -20,9 +20,10 @@ Internal Revenue Service Math and Taxpayer Help Act
 
 - Rep. Schneider, Bradley Scott [D-IL-10] (S001190)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Internal Revenue Service Math and Taxpayer Help Act
 - 2025-03-31 — Mr. Smith (MO) moved to suspend the rules and pass the bill, as amended.
 - 2025-03-31 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1348-1349)
 - 2025-03-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1348-1349)
+- 2025-04-01 — Received in the Senate and Read twice and referred to the Committee on Finance.
