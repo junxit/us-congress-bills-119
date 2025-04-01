@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1234
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1234
@@ -22,9 +22,10 @@ To direct the Librarian of Congress to promote the more cost-effective, efficien
 - Rep. Carey, Mike [R-OH-15] (C001126)
 - Rep. Torres, Norma J. [D-CA-35] (T000474)
 
-## Committees (1)
+## Committees (2)
 
 - House — Committee on House Administration
+- Senate — Rules and Administration Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ To direct the Librarian of Congress to promote the more cost-effective, efficien
 - 2025-03-31 — Mrs. Bice moved to suspend the rules and pass the bill.
 - 2025-03-31 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1345-1346)
 - 2025-03-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2025-04-01 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
