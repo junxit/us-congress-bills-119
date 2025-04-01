@@ -1,7 +1,7 @@
 ---
 measure: H.R. 517
 congress: 119
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 517
@@ -48,3 +48,14 @@ Filing Relief for Natural Disasters Act
 - 2025-03-31 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 388 - 0 (Roll no. 84). (text: CR H1347)
 - 2025-03-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 388 - 0 (Roll no. 84). (text: CR H1347: 1)
 - 2025-04-01 — Received in the Senate and Read twice and referred to the Committee on Finance.
+- 2025-07-10 — Passed Senate without amendment by Unanimous Consent.
+- 2025-07-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2025-07-10 — Senate Committee on Finance discharged by Unanimous Consent.
+- 2025-07-10 — Senate Committee on Finance discharged by Unanimous Consent. (consideration: CR S4321)
+- 2025-07-14 — Message on Senate action sent to the House.
+- 2025-07-17 — Presented to President.
+- 2025-07-17 — Presented to President.
+- 2025-07-24 — Became Public Law No: 119-29.
+- 2025-07-24 — Became Public Law No: 119-29.
+- 2025-07-24 — Signed by President.
+- 2025-07-24 — Signed by President.
