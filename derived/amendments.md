@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1152
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 

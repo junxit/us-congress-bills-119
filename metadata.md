@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1152
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1152
@@ -24,9 +24,10 @@ Electronic Filing and Payment Fairness Act
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 - Rep. Panetta, Jimmy [D-CA-19] (P000613)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Electronic Filing and Payment Fairness Act
 - 2025-03-31 — Mr. Smith (MO) moved to suspend the rules and pass the bill, as amended.
 - 2025-03-31 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1355)
 - 2025-03-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2025-04-01 — Received in the Senate and Read twice and referred to the Committee on Finance.
