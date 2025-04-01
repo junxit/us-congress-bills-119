@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1155
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1155
@@ -22,9 +22,10 @@ Recovery of Stolen Checks Act
 - Rep. Kustoff, David [R-TN-8] (K000392)
 - Rep. Issa, Darrell [R-CA-48] (I000056)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Recovery of Stolen Checks Act
 - 2025-03-31 — Mr. Smith (MO) moved to suspend the rules and pass the bill, as amended.
 - 2025-03-31 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1351)
 - 2025-03-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2025-04-01 — Received in the Senate and Read twice and referred to the Committee on Finance.
