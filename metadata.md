@@ -1,7 +1,7 @@
 ---
 measure: H.R. 998
 congress: 119
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 998
@@ -42,3 +42,14 @@ Internal Revenue Service Math and Taxpayer Help Act
 - 2025-03-31 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1348-1349)
 - 2025-03-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1348-1349)
 - 2025-04-01 — Received in the Senate and Read twice and referred to the Committee on Finance.
+- 2025-10-20 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7168-7169)
+- 2025-10-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2025-10-20 — Senate Committee on Finance discharged by Unanimous Consent.
+- 2025-10-20 — Senate Committee on Finance discharged by Unanimous Consent.
+- 2025-10-23 — Message on Senate action sent to the House.
+- 2025-11-25 — Became Public Law No: 119-39.
+- 2025-11-25 — Became Public Law No: 119-39.
+- 2025-11-25 — Presented to President.
+- 2025-11-25 — Presented to President.
+- 2025-11-25 — Signed by President.
+- 2025-11-25 — Signed by President.
