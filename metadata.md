@@ -1,7 +1,7 @@
 ---
 measure: H.R. 997
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 997
@@ -20,9 +20,10 @@ National Taxpayer Advocate Enhancement Act of 2025
 
 - Rep. Davis, Danny K. [D-IL-7] (D000096)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ National Taxpayer Advocate Enhancement Act of 2025
 - 2025-03-31 — Mr. Smith (MO) moved to suspend the rules and pass the bill, as amended.
 - 2025-03-31 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 385 - 0 (Roll no. 85). (text: CR H1349-1350)
 - 2025-03-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 385 - 0 (Roll no. 85).
+- 2025-04-01 — Received in the Senate and Read twice and referred to the Committee on Finance.
