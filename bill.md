@@ -1,0 +1,28 @@
+---
+legis-num: S. 1238
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1238
+
+> To ensure an equitable geographic distribution of projects selected through the Port Infrastructure Development Program.
+
+## § 1. Short title
+
+This Act may be cited as the “Securing Smart Investments in our Ports Act”.
+
+## § 2. Port Infrastructure Development Program
+
+- **(a)** *Port and intermodal improvement program* Section 54301(a)(6)(B) of title 46, United States Code, is amended—
+  - **(1)** in clause (ii), by striking “and” after the semicolon;
+  - **(2)** in clause (iii), by striking the period and inserting “; and”; and
+  - **(3)** by adding at the end the following:
+    > - **(iv)** ensuring equitable geographic distribution among regions of the United States with regard to the projects selected.
+
+- **(b)** *Assistance for small inland river and coastal ports and terminals* Section 54301(b)(4) of title 46, United States Code, is amended—
+  - **(1)** in subparagraph (B), by striking “; and”;
+  - **(2)** in subparagraph (C), by striking the period at the end and inserting “; and”; and
+  - **(3)** by adding at the end the following:
+    > - **(D)** ensure equitable geographic distribution among regions of the United States with regard to the projects selected.
