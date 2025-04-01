@@ -1,0 +1,17 @@
+---
+legis-num: H.R. 2532
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2532
+
+> To prohibit certain removals of employees of the Department of Health and Human Services and sub-agencies and operating divisions thereof, and for other purposes.
+
+## § 1. Prohibition on certain removals of employees for Department of Health and Human Services and sub-agencies and divisions
+
+No Federal funds may be obligated or expended to remove any employee of the Department of Health and Human Services or any sub-agency or operating division of the Department of Health and Human Services under any agency action (including any reduction in force conducted pursuant to subchapter I of chapter 35 of title 5, United States Code or any agency reorganization) that provides for—
+
+- **(1)** the removal of 3 percent or more of the total number of employees at the Department of Health and Human Services within a 60-day period; or
+- **(2)** the removal of 3 percent or more of the total number of employees at each sub-agency or operating division within the Department of Health and Human Services within a 60-day period.
