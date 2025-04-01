@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1491
 congress: 119
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1491
@@ -49,3 +49,14 @@ Disaster Related Extension of Deadlines Act
 - 2025-04-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 88). (text: 03/31/2025 CR H1353)
 - 2025-04-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 423 - 0 (Roll no. 88). (text: 03/31/2025 CR H1353)
 - 2025-04-01 — Received in the Senate and Read twice and referred to the Committee on Finance.
+- 2025-12-11 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8694; text: CR S8694)
+- 2025-12-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2025-12-11 — Senate Committee on Finance discharged by Unanimous Consent.
+- 2025-12-11 — Senate Committee on Finance discharged by Unanimous Consent.
+- 2025-12-15 — Message on Senate action sent to the House.
+- 2025-12-18 — Presented to President.
+- 2025-12-18 — Presented to President.
+- 2025-12-26 — Became Public Law No: 119-64.
+- 2025-12-26 — Became Public Law No: 119-64.
+- 2025-12-26 — Signed by President.
+- 2025-12-26 — Signed by President.
