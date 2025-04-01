@@ -1,7 +1,7 @@
 ---
 measure: H.R. 997
 congress: 119
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 997
@@ -48,3 +48,7 @@ National Taxpayer Advocate Enhancement Act of 2025
 - 2025-03-31 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 385 - 0 (Roll no. 85). (text: CR H1349-1350)
 - 2025-03-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 385 - 0 (Roll no. 85).
 - 2025-04-01 — Received in the Senate and Read twice and referred to the Committee on Finance.
+- 2026-09-28 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5123)
+- 2026-09-28 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (consideration: CR S5123)
+- 2026-09-28 — Senate Committee on Finance discharged by Unanimous Consent.
+- 2026-09-28 — Senate Committee on Finance discharged by Unanimous Consent.
