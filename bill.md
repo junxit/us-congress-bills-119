@@ -1,0 +1,24 @@
+---
+legis-num: H. RES. 287
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 287
+
+> Providing for the consideration of S.J. Res. 18, S.J. Res 24, H.R. 1526, and H.R. 22.
+
+That upon adoption of this resolution it shall be in order to consider in the House the joint resolution (S.J. Res. 18) disapproving the rule submitted by the Bureau of Consumer Financial Protection relating to ‘‘Overdraft Lending: Very Large Financial Institutions’’. All points of order against consideration of the joint resolution are waived. The joint resolution shall be considered as read. All points of order against provisions in the joint resolution are waived. The previous question shall be considered as ordered on the joint resolution and on any amendment thereto to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on Financial Services or their respective designees; and (2) one motion to commit.
+
+## § 2.
+
+Upon adoption of this resolution it shall be in order to consider in the House the joint resolution (S.J. Res. 28) disapproving the rule submitted by the Bureau of Consumer Financial Protection relating to ‘‘Defining Larger Participants of a Market for General-Use Digital Consumer Payment Applications’’. All points of order against consideration of the joint resolution are waived. The joint resolution shall be considered as read. All points of order against provisions in the joint resolution are waived. The previous question shall be considered as ordered on the joint resolution and on any amendment thereto to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on Financial Services or their respective designees; and (2) one motion to commit.
+
+## § 3.
+
+Upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 1526) to amend title 28, United States Code, to limit the authority of district courts to provide injunctive relief, and for other purposes. All points of order against consideration of the bill are waived. The amendment in the nature of a substitute recommended by the Committee on the Judiciary now printed in the bill shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on the Judiciary or their respective designees; and (2) one motion to recommit.
+
+## § 4.
+
+Upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 22) to amend the National Voter Registration Act of 1993 to require proof of United States citizenship to register an individual to vote in elections for Federal office, and for other purposes. All points of order against consideration of the bill are waived. The bill shall be considered as read. All points of order against provisions in the bill are waived. The previous question shall be considered as ordered on the bill and on any amendment thereto to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on House Administration or their respective designees; and (2) one motion to recommit.
