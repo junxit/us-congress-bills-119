@@ -1,7 +1,7 @@
 ---
 measure: S. 315
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 315
@@ -16,7 +16,7 @@ AM Radio for Every Vehicle Act of 2025
 
 - Sen. Markey, Edward J. [D-MA] (M000133)
 
-## Cosponsors (43)
+## Cosponsors (59)
 
 - Sen. Cruz, Ted [R-TX] (C001098)
 - Sen. Baldwin, Tammy [D-WI] (B001230)
@@ -61,6 +61,22 @@ AM Radio for Every Vehicle Act of 2025
 - Sen. Wyden, Ron [D-OR] (W000779)
 - Sen. Young, Todd [R-IN] (Y000064)
 - Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Moreno, Bernie [R-OH] (M001242)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Mullin, Markwayne [R-OK] (M001190)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. McCormick, David [R-PA] (M001243)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Tuberville, Tommy [R-AL] (T000278)
+- Sen. Moody, Ashley [R-FL] (M001244)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
 
 ## Committees (1)
 
@@ -70,3 +86,7 @@ AM Radio for Every Vehicle Act of 2025
 
 - 2025-01-29 — Introduced in Senate
 - 2025-01-29 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2025-02-05 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2025-04-03 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-11.
+- 2025-04-03 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-11.
+- 2025-04-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 39.
