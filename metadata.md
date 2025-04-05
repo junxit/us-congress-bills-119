@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 14
 congress: 119
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.Con.Res. 14
@@ -16,13 +16,791 @@ Establishing the congressional budget for the United States Government for fisca
 
 - Rep. Arrington, Jodey C. [R-TX-19] (A000375)
 
+## Cosponsors (752)
+
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Gallego, Ruben [D-AZ] (G000574)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Blunt Rochester, Lisa [D-DE] (B001303)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Slotkin, Elissa [D-MI] (S001208)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Hawley, Josh [R-MO] (H001089)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Gallego, Ruben [D-AZ] (G000574)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Blunt Rochester, Lisa [D-DE] (B001303)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Blunt Rochester, Lisa [D-DE] (B001303)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Blunt Rochester, Lisa [D-DE] (B001303)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Blunt Rochester, Lisa [D-DE] (B001303)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Slotkin, Elissa [D-MI] (S001208)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Gallego, Ruben [D-AZ] (G000574)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Blunt Rochester, Lisa [D-DE] (B001303)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Blunt Rochester, Lisa [D-DE] (B001303)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Blunt Rochester, Lisa [D-DE] (B001303)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Blunt Rochester, Lisa [D-DE] (B001303)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Blunt Rochester, Lisa [D-DE] (B001303)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Blunt Rochester, Lisa [D-DE] (B001303)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Blunt Rochester, Lisa [D-DE] (B001303)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Gallego, Ruben [D-AZ] (G000574)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Blunt Rochester, Lisa [D-DE] (B001303)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Gallego, Ruben [D-AZ] (G000574)
+- Sen. Lujan, Ben Ray [D-NM] (L000570)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+
 ## Committees (1)
 
 - House — Budget Committee
 
-## Recorded votes (1)
+## Recorded votes (24)
 
 - 2025-02-25 — [House 119-1-50](votes/house-119-1-0050.md) — On Agreeing to the Resolution, as Amended — **Passed** (217–215)
+- 2025-04-03 — [Senate 119-1-169](votes/senate-119-1-0169.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (52–48)
+- 2025-04-04 — [Senate 119-1-170](votes/senate-119-1-0170.md) — On the Amendment — **Amendment Agreed to** (51–48)
+- 2025-04-04 — [Senate 119-1-171](votes/senate-119-1-0171.md) — On the Amendment — **Amendment Rejected** (46–53)
+- 2025-04-04 — [Senate 119-1-172](votes/senate-119-1-0172.md) — On the Amendment — **Amendment Rejected** (48–51)
+- 2025-04-04 — [Senate 119-1-173](votes/senate-119-1-0173.md) — On the Amendment — **Amendment Rejected** (47–51)
+- 2025-04-04 — [Senate 119-1-174](votes/senate-119-1-0174.md) — On the Amendment — **Amendment Rejected** (46–53)
+- 2025-04-04 — [Senate 119-1-175](votes/senate-119-1-0175.md) — On the Amendment — **Amendment Rejected** (48–51)
+- 2025-04-04 — [Senate 119-1-176](votes/senate-119-1-0176.md) — On the Amendment — **Amendment Rejected** (46–53)
+- 2025-04-04 — [Senate 119-1-177](votes/senate-119-1-0177.md) — On the Amendment — **Amendment Rejected** (48–51)
+- 2025-04-04 — [Senate 119-1-178](votes/senate-119-1-0178.md) — On the Amendment — **Amendment Rejected** (48–51)
+- 2025-04-04 — [Senate 119-1-179](votes/senate-119-1-0179.md) — On the Amendment — **Amendment Rejected** (5–94)
+- 2025-04-04 — [Senate 119-1-180](votes/senate-119-1-0180.md) — On the Amendment — **Amendment Rejected** (49–50)
+- 2025-04-05 — [Senate 119-1-181](votes/senate-119-1-0181.md) — On the Amendment — **Amendment Rejected** (48–51)
+- 2025-04-05 — [Senate 119-1-182](votes/senate-119-1-0182.md) — On the Amendment — **Amendment Rejected** (48–51)
+- 2025-04-05 — [Senate 119-1-183](votes/senate-119-1-0183.md) — On the Amendment — **Amendment Rejected** (49–50)
+- 2025-04-05 — [Senate 119-1-184](votes/senate-119-1-0184.md) — On the Amendment — **Amendment Rejected** (47–52)
+- 2025-04-05 — [Senate 119-1-185](votes/senate-119-1-0185.md) — On the Motion — **Motion Rejected** (49–50)
+- 2025-04-05 — [Senate 119-1-186](votes/senate-119-1-0186.md) — On the Amendment — **Amendment Rejected** (49–50)
+- 2025-04-05 — [Senate 119-1-187](votes/senate-119-1-0187.md) — On the Amendment — **Amendment Rejected** (48–51)
+- 2025-04-05 — [Senate 119-1-188](votes/senate-119-1-0188.md) — On the Amendment — **Amendment Rejected** (48–51)
+- 2025-04-05 — [Senate 119-1-189](votes/senate-119-1-0189.md) — On the Amendment — **Amendment Rejected** (49–50)
+- 2025-04-05 — [Senate 119-1-190](votes/senate-119-1-0190.md) — On the Amendment — **Amendment Rejected** (47–52)
+- 2025-04-05 — [Senate 119-1-191](votes/senate-119-1-0191.md) — On the Concurrent Resolution — **Concurrent Resolution Agreed to** (51–48)
 
 ## Actions
 
@@ -47,3 +825,2014 @@ Establishing the congressional budget for the United States Government for fisca
 - 2025-02-25 — The Speaker designated the Honorable Steve Womack to act as Chairman of the Committee.
 - 2025-02-25 — The previous question was ordered pursuant to the rule.
 - 2025-04-02 — Received in the Senate. Placed on Senate Legislative Calendar under General Orders. Calendar No. 38.
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — 
+- 2025-04-03 — Amendment SA 1717 proposed by Senator Graham. (consideration: CR S2159; text: CR S2250-2257)
+- 2025-04-03 — Measure laid before Senate by motion. (consideration: CR S2159-2168)
+- 2025-04-03 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 52 - 48. Record Vote Number: 169.
+- 2025-04-03 — Motion to proceed to consideration of measure made in Senate. (CR S2159)
+- 2025-04-03 — Senate amendment proposed (on the floor): Amendment SA 1717 proposed by Senator Graham.
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-03 — Senate amendment submitted
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — 
+- 2025-04-04 — Amendment SA 1310 not agreed to in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 174.
+- 2025-04-04 — Amendment SA 1310 proposed by Senator Warner to Amendment SA 1717. (consideration: CR S2345-2346)
+- 2025-04-04 — Amendment SA 1466 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 175.
+- 2025-04-04 — Amendment SA 1466 proposed by Senator Alsobrooks to Amendment SA 1717. (consideration: CR S2346-2347)
+- 2025-04-04 — Amendment SA 1645 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 172.
+- 2025-04-04 — Amendment SA 1645 proposed by Senator Reed to Amendment SA 1717. (consideration: CR S2344-2345)
+- 2025-04-04 — Amendment SA 1646 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 178.
+- 2025-04-04 — Amendment SA 1646 proposed by Senator Bennet to Amendment SA 1717. (consideration: CR S2350-2351)
+- 2025-04-04 — Amendment SA 1647 not agreed to in Senate by Voice Vote.
+- 2025-04-04 — Amendment SA 1647 proposed by Senator Warren to Amendment SA 1717. (consideration: CR S2348)
+- 2025-04-04 — Amendment SA 1726 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 173.
+- 2025-04-04 — Amendment SA 1726 proposed by Senator Lujan to Amendment SA 1717. (consideration: CR S2345)
+- 2025-04-04 — Amendment SA 1737 not agreed to in Senate by Voice Vote.
+- 2025-04-04 — Amendment SA 1737 proposed by Senator Kelly to Amendment SA 1717. (consideration: CR S2347)
+- 2025-04-04 — Amendment SA 1758 not agreed to in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 171.
+- 2025-04-04 — Amendment SA 1758 proposed by Senator Merkley to Amendment SA 1717. (consideration: CR S2343-2344)
+- 2025-04-04 — Amendment SA 1760 not agreed to in Senate by Yea-Nay Vote. 5 - 94. Record Vote Number: 179.
+- 2025-04-04 — Amendment SA 1760 proposed by Senator Paul to Amendment SA 1717. (consideration: CR S2351)
+- 2025-04-04 — Amendment SA 1773 not agreed to in Senate by Voice Vote.
+- 2025-04-04 — Amendment SA 1773 proposed by Senator King to Amendment SA 1717. (consideration: CR S2348)
+- 2025-04-04 — Amendment SA 1774 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 177.
+- 2025-04-04 — Amendment SA 1774 proposed by Senator Padilla to Amendment SA 1717. (consideration: CR S2349-2350)
+- 2025-04-04 — Amendment SA 1884 not agreed to in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 176.
+- 2025-04-04 — Amendment SA 1884 proposed by Senator Schumer to Amendment SA 1717. (consideration: CR S2349)
+- 2025-04-04 — Amendment SA 1977 not agreed to in Senate by Voice Vote.
+- 2025-04-04 — Amendment SA 1977 proposed by Senator Murphy to Amendment SA 1717. (consideration: CR S2347-2348)
+- 2025-04-04 — Amendment SA 2035 agreed to in Senate by Yea-Nay Vote. 51 - 48. Record Vote Number: 170.
+- 2025-04-04 — Amendment SA 2035 proposed by Senator Sullivan to Amendment SA 1717. (consideration: CR S2343)
+- 2025-04-04 — Amendment SA 2107 proposed by Senator Hickenlooper to Amendment SA 1717. (consideration: CR S2352-2353)
+- 2025-04-04 — Amendment SA 2186 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 180.
+- 2025-04-04 — Amendment SA 2186 proposed by Senator Ossoff to Amendment SA 1717. (consideration: CR S2351-2352)
+- 2025-04-04 — Considered by Senate. (consideration: CR S2275, S2360)
+- 2025-04-04 — Considered by Senate. (consideration: CR S2275-2360)
+- 2025-04-04 — Roll call votes on amendments in Senate: Amendment SA 1310 not agreed to in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 174.
+- 2025-04-04 — Roll call votes on amendments in Senate: Amendment SA 1466 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 175.
+- 2025-04-04 — Roll call votes on amendments in Senate: Amendment SA 1645 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 172.
+- 2025-04-04 — Roll call votes on amendments in Senate: Amendment SA 1646 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 178.
+- 2025-04-04 — Roll call votes on amendments in Senate: Amendment SA 1726 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 173.
+- 2025-04-04 — Roll call votes on amendments in Senate: Amendment SA 1758 not agreed to in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 171.
+- 2025-04-04 — Roll call votes on amendments in Senate: Amendment SA 1760 not agreed to in Senate by Yea-Nay Vote. 5 - 94. Record Vote Number: 179.
+- 2025-04-04 — Roll call votes on amendments in Senate: Amendment SA 1774 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 177.
+- 2025-04-04 — Roll call votes on amendments in Senate: Amendment SA 1884 not agreed to in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 176.
+- 2025-04-04 — Roll call votes on amendments in Senate: Amendment SA 2035 agreed to in Senate by Yea-Nay Vote. 51 - 48. Record Vote Number: 170.
+- 2025-04-04 — Roll call votes on amendments in Senate: Amendment SA 2186 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 180.
+- 2025-04-04 — Senate amendment agreed to: Amendment SA 2035 agreed to in Senate by Yea-Nay Vote. 51 - 48. Record Vote Number: 170.
+- 2025-04-04 — Senate amendment not agreed to: Amendment SA 1310 not agreed to in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 174.
+- 2025-04-04 — Senate amendment not agreed to: Amendment SA 1466 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 175.
+- 2025-04-04 — Senate amendment not agreed to: Amendment SA 1645 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 172.
+- 2025-04-04 — Senate amendment not agreed to: Amendment SA 1646 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 178.
+- 2025-04-04 — Senate amendment not agreed to: Amendment SA 1647 not agreed to in Senate by Voice Vote.
+- 2025-04-04 — Senate amendment not agreed to: Amendment SA 1726 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 173.
+- 2025-04-04 — Senate amendment not agreed to: Amendment SA 1737 not agreed to in Senate by Voice Vote.
+- 2025-04-04 — Senate amendment not agreed to: Amendment SA 1758 not agreed to in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 171.
+- 2025-04-04 — Senate amendment not agreed to: Amendment SA 1760 not agreed to in Senate by Yea-Nay Vote. 5 - 94. Record Vote Number: 179.
+- 2025-04-04 — Senate amendment not agreed to: Amendment SA 1773 not agreed to in Senate by Voice Vote.
+- 2025-04-04 — Senate amendment not agreed to: Amendment SA 1774 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 177.
+- 2025-04-04 — Senate amendment not agreed to: Amendment SA 1884 not agreed to in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 176.
+- 2025-04-04 — Senate amendment not agreed to: Amendment SA 1977 not agreed to in Senate by Voice Vote.
+- 2025-04-04 — Senate amendment not agreed to: Amendment SA 2186 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 180.
+- 2025-04-04 — Senate amendment proposed (on the floor): Amendment SA 1310 proposed by Senator Warner to Amendment SA 1717.
+- 2025-04-04 — Senate amendment proposed (on the floor): Amendment SA 1466 proposed by Senator Alsobrooks to Amendment SA 1717.
+- 2025-04-04 — Senate amendment proposed (on the floor): Amendment SA 1645 proposed by Senator Reed to Amendment SA 1717.
+- 2025-04-04 — Senate amendment proposed (on the floor): Amendment SA 1646 proposed by Senator Bennet to Amendment SA 1717.
+- 2025-04-04 — Senate amendment proposed (on the floor): Amendment SA 1647 proposed by Senator Warren to Amendment SA 1717.
+- 2025-04-04 — Senate amendment proposed (on the floor): Amendment SA 1726 proposed by Senator Lujan to Amendment SA 1717.
+- 2025-04-04 — Senate amendment proposed (on the floor): Amendment SA 1737 proposed by Senator Kelly to Amendment SA 1717.
+- 2025-04-04 — Senate amendment proposed (on the floor): Amendment SA 1758 proposed by Senator Merkley to Amendment SA 1717.
+- 2025-04-04 — Senate amendment proposed (on the floor): Amendment SA 1760 proposed by Senator Paul to Amendment SA 1717.
+- 2025-04-04 — Senate amendment proposed (on the floor): Amendment SA 1773 proposed by Senator King to Amendment SA 1717.
+- 2025-04-04 — Senate amendment proposed (on the floor): Amendment SA 1774 proposed by Senator Padilla to Amendment SA 1717.
+- 2025-04-04 — Senate amendment proposed (on the floor): Amendment SA 1884 proposed by Senator Schumer to Amendment SA 1717.
+- 2025-04-04 — Senate amendment proposed (on the floor): Amendment SA 1977 proposed by Senator Murphy to Amendment SA 1717.
+- 2025-04-04 — Senate amendment proposed (on the floor): Amendment SA 2035 proposed by Senator Sullivan to Amendment SA 1717.
+- 2025-04-04 — Senate amendment proposed (on the floor): Amendment SA 2107 proposed by Senator Hickenlooper to Amendment SA 1717.
+- 2025-04-04 — Senate amendment proposed (on the floor): Amendment SA 2186 proposed by Senator Ossoff to Amendment SA 1717.
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-04 — Senate amendment submitted
+- 2025-04-05 — Amendment SA 1441 not agreed to in Senate by Voice Vote.
+- 2025-04-05 — Amendment SA 1441 proposed by Senator Booker to Amendment SA 1717. (consideration: CR S2353)
+- 2025-04-05 — Amendment SA 1529 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 187.
+- 2025-04-05 — Amendment SA 1529 proposed by Senator Markey to Amendment SA 1717. (consideration: CR S2357-2358)
+- 2025-04-05 — Amendment SA 1602 not agreed to in Senate by Voice Vote.
+- 2025-04-05 — Amendment SA 1602 proposed by Senator Shaheen to Amendment SA 1717. (consideration: CR S2358)
+- 2025-04-05 — Amendment SA 1644 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 183.
+- 2025-04-05 — Amendment SA 1644 proposed by Senator Kim to Amendment SA 1717. (consideration: CR S2354)
+- 2025-04-05 — Amendment SA 1661 not agreed to in Senate by Voice Vote.
+- 2025-04-05 — Amendment SA 1661 proposed by Senator Welch to Amendment SA 1717. (consideration: CR S2356-2357)
+- 2025-04-05 — Amendment SA 1690 proposed by Senator Cortez Masto to Amendment SA 1717. (consideration: CR S2355-2356)
+- 2025-04-05 — Amendment SA 1690 ruled out of order by the chair.
+- 2025-04-05 — Amendment SA 1693 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 186.
+- 2025-04-05 — Amendment SA 1693 proposed by Senator Baldwin to Amendment SA 1717. (consideration: CR S2356)
+- 2025-04-05 — Amendment SA 1717, as amended, agreed to in Senate by Unanimous Consent.
+- 2025-04-05 — Amendment SA 1989 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 189.
+- 2025-04-05 — Amendment SA 1989 proposed by Senator Wyden to Amendment SA 1717. (consideration: CR S2359)
+- 2025-04-05 — Amendment SA 2107 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 181.
+- 2025-04-05 — Amendment SA 2126 not agreed to in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 184.
+- 2025-04-05 — Amendment SA 2126 proposed by Senator Sanders to Amendment SA 1717. (consideration: CR S2354-2355)
+- 2025-04-05 — Amendment SA 2152 not agreed to in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 190.
+- 2025-04-05 — Amendment SA 2152 proposed by Senator Rosen to Amendment SA 1717. (consideration: CR S2359-2360)
+- 2025-04-05 — Amendment SA 2177 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 188.
+- 2025-04-05 — Amendment SA 2177 proposed by Senator Warnock to Amendment SA 1717. (consideration: CR S2358)
+- 2025-04-05 — Amendment SA 2180 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 182.
+- 2025-04-05 — Amendment SA 2180 proposed by Senator Hirono to Amendment SA 1717. (consideration: CR S2353-2354)
+- 2025-04-05 — Motion to waive all applicable budgetary discipline with respect to amendment SA 1690 rejected in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 185.
+- 2025-04-05 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment by Yea-Nay Vote. 51 - 48. Record Vote Number: 191.
+- 2025-04-05 — Point of order that the amendment violates section 305(b)(2) of the CBA raised in Senate with respect to amendment SA 1690.
+- 2025-04-05 — Resolution agreed to in Senate with an amendment by Yea-Nay Vote. 51 - 48. Record Vote Number: 191.
+- 2025-04-05 — Roll call votes on amendments in Senate: Amendment SA 1529 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 187.
+- 2025-04-05 — Roll call votes on amendments in Senate: Amendment SA 1644 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 183.
+- 2025-04-05 — Roll call votes on amendments in Senate: Amendment SA 1693 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 186.
+- 2025-04-05 — Roll call votes on amendments in Senate: Amendment SA 1989 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 189.
+- 2025-04-05 — Roll call votes on amendments in Senate: Amendment SA 2107 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 181.
+- 2025-04-05 — Roll call votes on amendments in Senate: Amendment SA 2126 not agreed to in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 184.
+- 2025-04-05 — Roll call votes on amendments in Senate: Amendment SA 2152 not agreed to in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 190.
+- 2025-04-05 — Roll call votes on amendments in Senate: Amendment SA 2177 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 188.
+- 2025-04-05 — Roll call votes on amendments in Senate: Amendment SA 2180 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 182.
+- 2025-04-05 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 1690 rejected in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 185.
+- 2025-04-05 — Senate amendment agreed to: Amendment SA 1717, as amended, agreed to in Senate by Unanimous Consent.
+- 2025-04-05 — Senate amendment not agreed to: Amendment SA 1441 not agreed to in Senate by Voice Vote.
+- 2025-04-05 — Senate amendment not agreed to: Amendment SA 1529 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 187.
+- 2025-04-05 — Senate amendment not agreed to: Amendment SA 1602 not agreed to in Senate by Voice Vote.
+- 2025-04-05 — Senate amendment not agreed to: Amendment SA 1644 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 183.
+- 2025-04-05 — Senate amendment not agreed to: Amendment SA 1661 not agreed to in Senate by Voice Vote.
+- 2025-04-05 — Senate amendment not agreed to: Amendment SA 1693 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 186.
+- 2025-04-05 — Senate amendment not agreed to: Amendment SA 1989 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 189.
+- 2025-04-05 — Senate amendment not agreed to: Amendment SA 2107 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 181.
+- 2025-04-05 — Senate amendment not agreed to: Amendment SA 2126 not agreed to in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 184.
+- 2025-04-05 — Senate amendment not agreed to: Amendment SA 2152 not agreed to in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 190.
+- 2025-04-05 — Senate amendment not agreed to: Amendment SA 2177 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 188.
+- 2025-04-05 — Senate amendment not agreed to: Amendment SA 2180 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 182.
+- 2025-04-05 — Senate amendment proposed (on the floor): Amendment SA 1441 proposed by Senator Booker to Amendment SA 1717.
+- 2025-04-05 — Senate amendment proposed (on the floor): Amendment SA 1529 proposed by Senator Markey to Amendment SA 1717.
+- 2025-04-05 — Senate amendment proposed (on the floor): Amendment SA 1602 proposed by Senator Shaheen to Amendment SA 1717.
+- 2025-04-05 — Senate amendment proposed (on the floor): Amendment SA 1644 proposed by Senator Kim to Amendment SA 1717.
+- 2025-04-05 — Senate amendment proposed (on the floor): Amendment SA 1661 proposed by Senator Welch to Amendment SA 1717.
+- 2025-04-05 — Senate amendment proposed (on the floor): Amendment SA 1690 proposed by Senator Cortez Masto to Amendment SA 1717.
+- 2025-04-05 — Senate amendment proposed (on the floor): Amendment SA 1693 proposed by Senator Baldwin to Amendment SA 1717.
+- 2025-04-05 — Senate amendment proposed (on the floor): Amendment SA 1989 proposed by Senator Wyden to Amendment SA 1717.
+- 2025-04-05 — Senate amendment proposed (on the floor): Amendment SA 2126 proposed by Senator Sanders to Amendment SA 1717.
+- 2025-04-05 — Senate amendment proposed (on the floor): Amendment SA 2152 proposed by Senator Rosen to Amendment SA 1717.
+- 2025-04-05 — Senate amendment proposed (on the floor): Amendment SA 2177 proposed by Senator Warnock to Amendment SA 1717.
+- 2025-04-05 — Senate amendment proposed (on the floor): Amendment SA 2180 proposed by Senator Hirono to Amendment SA 1717.
