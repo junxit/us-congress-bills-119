@@ -1,15 +1,13 @@
 ---
 legis-num: H. CON. RES. 14
-congress: 119th CONGRESS
-session: 1st Session
-chamber: In the Senate of the United States,
+congress: One Hundred Nineteenth Congress of the United States of America
+session: At the First Session
+chamber: 
 ---
 
 # H. CON. RES. 14
 
-That the resolution from the House of Representatives (H. Con. Res. 14) entitled “Concurrent resolution establishing the congressional budget for the United States Government for fiscal year 2025 and setting forth the appropriate budgetary levels for fiscal years 2026 through 2034.”, do pass with the following
-
-*Strike all after the resolving clause and insert the following:*
+> Establishing the congressional budget for the United States Government for fiscal year 2025 and setting forth the appropriate budgetary levels for fiscal years 2026 through 2034.
 
 ## § 1. Concurrent resolution on the budget for fiscal year 2025
 

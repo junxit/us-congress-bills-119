@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 14
 congress: 119
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 14
@@ -775,9 +775,10 @@ Establishing the congressional budget for the United States Government for fisca
 
 - House — Budget Committee
 
-## Recorded votes (24)
+## Recorded votes (25)
 
 - 2025-02-25 — [House 119-1-50](votes/house-119-1-0050.md) — On Agreeing to the Resolution, as Amended — **Passed** (217–215)
+- 2025-04-10 — [House 119-1-100](votes/house-119-1-0100.md) — On Motion to Concur in the Senate Amendment — **Passed** (216–214)
 - 2025-04-03 — Senate 119-1-169 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00169.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00169.xml answered HTTP 403
 - 2025-04-05 — Senate 119-1-170 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00170.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00170.xml answered HTTP 403
 - 2025-04-05 — Senate 119-1-171 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00171.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00171.xml answered HTTP 403
@@ -2836,3 +2837,15 @@ Establishing the congressional budget for the United States Government for fisca
 - 2025-04-05 — Senate amendment proposed (on the floor): Amendment SA 2152 proposed by Senator Rosen to Amendment SA 1717.
 - 2025-04-05 — Senate amendment proposed (on the floor): Amendment SA 2177 proposed by Senator Warnock to Amendment SA 1717.
 - 2025-04-05 — Senate amendment proposed (on the floor): Amendment SA 2180 proposed by Senator Hirono to Amendment SA 1717.
+- 2025-04-07 — Message on Senate action sent to the House.
+- 2025-04-09 — DEBATE - Pursuant to the provisions of H. Res. 313, the House proceeded with one hour of debate on the motion to agree to the Senate amendment to H. Con. Res. 14.
+- 2025-04-09 — Mr. Arrington moved that the House agree to the Senate amendment to H. Con. Res. 14.
+- 2025-04-09 — Mr. Arrington moved that the House agree to the Senate amendment. (consideration: CR H1533-1550)
+- 2025-04-09 — POSTPONED PROCEEDINGS - Pursuant to clause 1(c) of rule XIX, the Chair announced further proceedings on H. Con. Res. 14 would be postponed.
+- 2025-04-09 — Pursuant to the provisions of H. Res. 313, Mr. Arrington called up the Senate amendment to H. Con. Res. 14.
+- 2025-04-09 — The previous question was ordered pursuant to the rule.
+- 2025-04-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-04-10 — On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 216 - 214 (Roll no. 100). (text: 4/9/2025 CR H1533-1540)
+- 2025-04-10 — Pursuant to clause 1(c) of rule XIX, the House resumed consideration of H. Con. Res. 14. (consideration: CR H1579-1580)
+- 2025-04-10 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 216 - 214 (Roll no. 100).
+- 2025-05-20 — Star Print ordered on the reported concurrent resolution.
