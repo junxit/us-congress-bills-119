@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1039
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking “June 9, 2034” each place it appears and inserting “June 23, 2034”. | the bill names no machine-readable US Code section |
+| — | replace | Section 5503(d)(7) of title 38, United States Code, is amended by striking “November 30, 2031” and inserting “December 31, 2031”. | the bill names no machine-readable US Code section |
