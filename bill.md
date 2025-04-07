@@ -27,3 +27,7 @@ This Act may be cited as the “Vietnam Veterans Liver Fluke Cancer Study Act”
 - **(d)** *Definitions* In this section:
   - **(1)** The term Vietnam era has the meaning given such term in section 101 of title 38, United States Code.
   - **(2)** The term covered veterans of the Vietnam era means veterans who served in the Vietnam theater of operations during the Vietnam era.
+
+## § 3. Extension of certain limitation of pension payments
+
+Section 5503(d)(7) of title 38, United States Code, is amended by striking “November 30, 2031” and inserting “December 31, 2031”.
