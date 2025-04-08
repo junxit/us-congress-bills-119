@@ -1,7 +1,7 @@
 ---
 measure: H.R. 970
 congress: 119
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 970
@@ -16,9 +16,10 @@ Fairness for Servicemembers and their Families Act of 2025
 
 - Rep. Strickland, Marilyn [D-WA-10] (S001159)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Self, Keith [R-TX-3] (S001224)
+- Rep. Ruiz, Raul [D-CA-25] (R000599)
 
 ## Committees (2)
 
@@ -38,3 +39,14 @@ Fairness for Servicemembers and their Families Act of 2025
 - 2025-04-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1440)
 - 2025-04-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1440)
 - 2025-04-08 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2025-11-20 — Message on Senate action sent to the House.
+- 2025-11-20 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8399-8400)
+- 2025-11-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2025-11-20 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2025-11-20 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2025-12-03 — Presented to President.
+- 2025-12-03 — Presented to President.
+- 2025-12-12 — Became Public Law No: 119-54.
+- 2025-12-12 — Became Public Law No: 119-54.
+- 2025-12-12 — Signed by President.
+- 2025-12-12 — Signed by President.
