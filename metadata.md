@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 9
 congress: 119
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 9
@@ -41,3 +41,4 @@ Authorizing the use of the Capitol Grounds for the National Peace Officers Memor
 - 2025-04-07 — Mr. Perry moved to suspend the rules and agree to the resolution.
 - 2025-04-07 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H1429)
 - 2025-04-07 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H1429)
+- 2025-04-08 — Received in the Senate.
