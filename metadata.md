@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 293
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 293
@@ -25,3 +25,5 @@ Providing for the announcement of pairs from a written list furnished to the Cle
 - 2025-04-07 — Referred to the House Committee on Rules.
 - 2025-04-07 — Submitted in House
 - 2025-04-07 — Submitted in House
+- 2025-04-08 — Passed/agreed to in House: Pursuant to the provisions of H. Res. 294, H. Res. 293 is considered passed House.
+- 2025-04-08 — Pursuant to the provisions of H. Res. 294, H. Res. 293 is considered passed House. (consideration: CR H1481; text: CR H1481)
