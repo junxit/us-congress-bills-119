@@ -1,7 +1,7 @@
 ---
 measure: S. 423
 congress: 119
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 423
@@ -51,3 +51,18 @@ PRO Veterans Act of 2025
 - 2025-04-08 — Senate amendment agreed to: Amendment SA 2222 agreed to in Senate by Unanimous Consent.
 - 2025-04-08 — Senate amendment proposed (on the floor): Amendment SA 2222 proposed by Senator Lummis for Senator Moran.
 - 2025-04-08 — Senate amendment submitted
+- 2025-04-09 — Held at the desk.
+- 2025-04-09 — Message on Senate action sent to the House.
+- 2025-04-09 — Received in the House.
+- 2025-07-21 — Considered under suspension of the rules. (consideration: CR H3484-3487)
+- 2025-07-21 — DEBATE - The House proceeded with forty minutes of debate on S. 423.
+- 2025-07-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-07-21 — Mr. Bost moved to suspend the rules and pass the bill.
+- 2025-07-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3484-3485)
+- 2025-07-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3484-3485)
+- 2025-08-12 — Presented to President.
+- 2025-08-12 — Presented to President.
+- 2025-08-14 — Became Public Law No: 119-33.
+- 2025-08-14 — Became Public Law No: 119-33.
+- 2025-08-14 — Signed by President.
+- 2025-08-14 — Signed by President.
