@@ -1,7 +1,7 @@
 ---
 measure: S. 160
 congress: 119
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 160
@@ -46,3 +46,18 @@ Aerial Firefighting Enhancement Act of 2025
 - 2025-04-08 — Senate amendment agreed to: Amendment SA 2223 agreed to in Senate by Unanimous Consent.
 - 2025-04-08 — Senate amendment proposed (on the floor): Amendment SA 2223 proposed by Senator Lummis for Senator Sheehy.
 - 2025-04-08 — Senate amendment submitted
+- 2025-04-09 — Held at the desk.
+- 2025-04-09 — Message on Senate action sent to the House.
+- 2025-04-09 — Received in the House.
+- 2025-06-03 — Considered under suspension of the rules. (consideration: CR H2390)
+- 2025-06-03 — DEBATE - The House proceeded with forty minutes of debate on S. 160.
+- 2025-06-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-06-03 — Mr. Comer moved to suspend the rules and pass the bill.
+- 2025-06-03 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2390)
+- 2025-06-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2390)
+- 2025-06-10 — Presented to President.
+- 2025-06-10 — Presented to President.
+- 2025-06-12 — Became Public Law No: 119-18.
+- 2025-06-12 — Became Public Law No: 119-18.
+- 2025-06-12 — Signed by President.
+- 2025-06-12 — Signed by President.
