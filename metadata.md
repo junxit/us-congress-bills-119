@@ -1,7 +1,7 @@
 ---
 measure: H.R. 983
 congress: 119
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 983
@@ -36,3 +36,14 @@ Montgomery GI Bill Selected Reserves Tuition Fairness Act of 2025
 - 2025-04-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1432)
 - 2025-04-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1432)
 - 2025-04-08 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2025-11-20 — Message on Senate action sent to the House.
+- 2025-11-20 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8400)
+- 2025-11-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2025-11-20 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2025-11-20 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2025-12-03 — Presented to President.
+- 2025-12-03 — Presented to President.
+- 2025-12-12 — Became Public Law No: 119-55.
+- 2025-12-12 — Became Public Law No: 119-55.
+- 2025-12-12 — Signed by President.
+- 2025-12-12 — Signed by President.
