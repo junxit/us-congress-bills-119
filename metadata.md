@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 9
 congress: 119
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 9
@@ -42,3 +42,6 @@ Authorizing the use of the Capitol Grounds for the National Peace Officers Memor
 - 2025-04-07 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H1429)
 - 2025-04-07 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H1429)
 - 2025-04-08 — Received in the Senate.
+- 2025-04-30 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.
+- 2025-04-30 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S2710)
+- 2025-05-01 — Message on Senate action sent to the House.
