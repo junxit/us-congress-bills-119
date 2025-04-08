@@ -24,4 +24,4 @@ Section 2 of the Wildfire Suppression Aircraft Transfer Act of 1996 (Public Law 
 - **(3)** in subsection (c), by inserting “or water” after “fire retardant”;
 - **(4)** in subsection (d)(1), in the second sentence, by striking “subsection (a)(1)” and inserting “subsection (g)”; and
 - **(5)** by striking subsection (g) and inserting the following:
-  > - **(g)** *Period for exercise of authority* The period specified in this subsection is the period beginning on October 1, 2025, and ending on October 1, 2035.
+  > - **(g)** *Period for exercise of authority* The period specified in this subsection is the period beginning on the date of the enactment of the Aerial Firefighting Enhancement Act of 2025 and ending on October 1, 2035.
