@@ -1,7 +1,7 @@
 ---
 measure: H.R. 877
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 877
@@ -27,9 +27,10 @@ Deliver for Veterans Act
 - Rep. Langworthy, Nicholas A. [R-NY-23] (L000600)
 - Rep. Case, Ed [D-HI-1] (C001055)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Deliver for Veterans Act
 - 2025-04-07 — Mr. Bost moved to suspend the rules and pass the bill, as amended.
 - 2025-04-07 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1439)
 - 2025-04-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1439)
+- 2025-04-08 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
