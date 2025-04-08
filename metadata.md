@@ -1,7 +1,7 @@
 ---
 measure: H.R. 983
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 983
@@ -16,10 +16,11 @@ Montgomery GI Bill Selected Reserves Tuition Fairness Act of 2025
 
 - Rep. Van Orden, Derrick [R-WI-3] (V000135)
 
-## Committees (2)
+## Committees (3)
 
 - House — Veterans' Affairs Committee
 - House — Armed Services Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -34,3 +35,4 @@ Montgomery GI Bill Selected Reserves Tuition Fairness Act of 2025
 - 2025-04-07 — Mr. Bost moved to suspend the rules and pass the bill.
 - 2025-04-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1432)
 - 2025-04-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1432)
+- 2025-04-08 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
