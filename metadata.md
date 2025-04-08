@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 22
 congress: 119
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 22
@@ -32,3 +32,4 @@ Authorizing the use of Emancipation Hall in the Capitol Visitor Center for a cer
 - 2025-04-07 — Mr. Steil asked unanimous consent to discharge from committee and consider.
 - 2025-04-07 — On agreeing to the resolution Agreed to without objection. (text: CR H1443)
 - 2025-04-07 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection. (text: CR H1443)
+- 2025-04-08 — Received in the Senate.
