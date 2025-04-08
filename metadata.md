@@ -1,7 +1,7 @@
 ---
 measure: H.R. 970
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 970
@@ -20,9 +20,10 @@ Fairness for Servicemembers and their Families Act of 2025
 
 - Rep. Self, Keith [R-TX-3] (S001224)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ Fairness for Servicemembers and their Families Act of 2025
 - 2025-04-07 — Mr. Bost moved to suspend the rules and pass the bill.
 - 2025-04-07 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1440)
 - 2025-04-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1440)
+- 2025-04-08 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
