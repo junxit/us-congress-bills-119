@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1228
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
