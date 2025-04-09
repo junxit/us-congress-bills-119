@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 2795
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2795
+
+> To amend title 28, United States Code, to prohibit the issuance of nationwide injunctions from single-judge divisions of U.S. District Courts.
+
+## § 1. Short title
+
+This Act may be cited as the “End Judge Shopping Act”.
+
+## § 2. Orders purporting to restrain enforcement against non-parties
+
+- **(a)** *In general* Chapter 87 of title 28, United States Code, is amended by adding at the end the following:
+  > ## § 1414. Civil actions seeking nationwide injunctions
+  >
+  > A civil action which seeks an order enforceable in each district and division of the United States shall be brought only in a division of a judicial district which has two or more active judges assigned.
+
+- **(b)** *Clerical amendment* The table of sections for such chapter is amended by adding at the end the following:
