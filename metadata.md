@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 187
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 187
@@ -46,3 +46,10 @@ Of inquiry requesting the President to transmit certain information to the House
 ## Actions
 
 - 2025-03-04 — Referred to the House Committee on Oversight and Government Reform.
+- 2025-03-25 — Committee Consideration and Mark-up Session Held
+- 2025-03-25 — Motion to Report Measure Defeated by the Yeas and Nays: 21 - 23.
+- 2025-04-09 — Committee Consideration and Mark-up Session Held
+- 2025-04-09 — Ordered to be Reported Unfavorably by the Yeas and Nays: 20 - 15.
+- 2025-04-09 — Placed on the House Calendar, Calendar No. 23.
+- 2025-04-09 — Reported adversely by the Committee on Oversight and Government Reform. H. Rept. 119-58.
+- 2025-04-09 — Reported adversely by the Committee on Oversight and Government Reform. H. Rept. 119-58.
