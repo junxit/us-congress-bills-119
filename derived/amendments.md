@@ -1,7 +1,7 @@
 ---
 measure: S. 1040
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
