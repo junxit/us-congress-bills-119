@@ -1,7 +1,7 @@
 ---
 measure: S. 1097
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1097
@@ -31,3 +31,7 @@ Interagency Patent Coordination and Improvement Act of 2025
 
 - 2025-03-24 — Introduced in Senate
 - 2025-03-24 — Read twice and referred to the Committee on the Judiciary. (text: CR S1804-1805)
+- 2025-04-03 — Committee on the Judiciary. Ordered to be reported with amendments favorably.
+- 2025-04-10 — Committee on the Judiciary. Reported by Senator Grassley with amendments. Without written report.
+- 2025-04-10 — Committee on the Judiciary. Reported by Senator Grassley with amendments. Without written report.
+- 2025-04-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 41.
