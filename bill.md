@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 2835
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2835
+
+> To raise the consolidated assets threshold under the small bank holding company policy statement, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Small Bank Holding Company Relief Act”.
+
+## § 2. Changes required to the Small Bank Holding Company and Savings and Loan Holding Company Policy Statement
+
+Not later than 180 days after the date of enactment of this Act, the Board of Governors of the Federal Reserve System shall revise appendix C to part 225 of title 12, Code of Federal Regulations (commonly known as the “Small Bank Holding Company and Savings and Loan Holding Company Policy Statement”), to raise the consolidated asset threshold under that appendix to $25,000,000,000 for any bank holding company or savings and loan holding company.
