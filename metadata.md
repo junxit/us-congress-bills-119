@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1228
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1228
@@ -20,9 +20,10 @@ Prioritizing Veterans’ Survivors Act
 
 - Rep. Bost, Mike [R-IL-12] (B001295)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -43,3 +44,4 @@ Prioritizing Veterans’ Survivors Act
 - 2025-04-09 — Motion to reconsider laid on the table Agreed to without objection.
 - 2025-04-09 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 424 - 0 (Roll no. 99). (text: 4/7/2025 CR H1433-1434)
 - 2025-04-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 424 - 0 (Roll no. 99).
+- 2025-04-10 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
