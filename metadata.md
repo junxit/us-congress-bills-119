@@ -1,7 +1,7 @@
 ---
 measure: S. 1096
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1096
@@ -35,3 +35,7 @@ Preserve Access to Affordable Generics and Biosimilars Act
 
 - 2025-03-24 — Introduced in Senate
 - 2025-03-24 — Read twice and referred to the Committee on the Judiciary.
+- 2025-04-03 — Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2025-04-10 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
+- 2025-04-10 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
+- 2025-04-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 46.
