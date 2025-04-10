@@ -1,7 +1,7 @@
 ---
 measure: S. 1041
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1041
@@ -30,3 +30,7 @@ Affordable Prescriptions for Patients Act
 
 - 2025-03-13 — Introduced in Senate
 - 2025-03-13 — Read twice and referred to the Committee on the Judiciary.
+- 2025-04-03 — Committee on the Judiciary. Ordered to be reported with amendments favorably.
+- 2025-04-10 — Committee on the Judiciary. Reported by Senator Grassley with amendments. Without written report.
+- 2025-04-10 — Committee on the Judiciary. Reported by Senator Grassley with amendments. Without written report.
+- 2025-04-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 44.
