@@ -1,7 +1,7 @@
 ---
 measure: S. 527
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 527
@@ -16,7 +16,7 @@ Prescription Pricing for the People Act of 2025
 
 - Sen. Grassley, Chuck [R-IA] (G000386)
 
-## Cosponsors (10)
+## Cosponsors (12)
 
 - Sen. Cantwell, Maria [D-WA] (C000127)
 - Sen. Marshall, Roger [R-KS] (M001198)
@@ -28,6 +28,8 @@ Prescription Pricing for the People Act of 2025
 - Sen. Capito, Shelley Moore [R-WV] (C001047)
 - Sen. Hirono, Mazie K. [D-HI] (H001042)
 - Sen. Lankford, James [R-OK] (L000575)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
 
 ## Committees (1)
 
@@ -37,3 +39,7 @@ Prescription Pricing for the People Act of 2025
 
 - 2025-02-11 — Introduced in Senate
 - 2025-02-11 — Read twice and referred to the Committee on the Judiciary.
+- 2025-04-03 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2025-04-10 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
+- 2025-04-10 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
+- 2025-04-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 42.
