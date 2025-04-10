@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1526
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1526
@@ -33,9 +33,10 @@ NORRA of 2025
 - Rep. Babin, Brian [R-TX-36] (B001291)
 - Rep. LaLota, Nick [R-NY-1] (L000598)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (2)
 
@@ -71,3 +72,4 @@ NORRA of 2025
 - 2025-04-09 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 219 - 213 (Roll no. 98).
 - 2025-04-09 — Pursuant to clause 1(c) of rule XIX, the House resumed consideration of H.R. 1526.
 - 2025-04-09 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2025-04-10 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
