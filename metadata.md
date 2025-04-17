@@ -1,7 +1,7 @@
 ---
 measure: H.R. 331
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 331
@@ -29,3 +29,11 @@ To amend the Aquifer Recharge Flexibility Act to clarify a provision relating to
 - 2025-01-13 — Introduced in House
 - 2025-01-13 — Introduced in House
 - 2025-01-13 — Referred to the House Committee on Natural Resources.
+- 2025-01-21 — Referred to the Subcommittee on Water, Wildlife and Fisheries.
+- 2025-01-23 — Subcommittee Hearings Held
+- 2025-02-12 — Committee Consideration and Mark-up Session Held.
+- 2025-02-12 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2025-02-12 — Subcommittee on Water, Wildlife and Fisheries Discharged
+- 2025-04-17 — Placed on the Union Calendar, Calendar No. 37.
+- 2025-04-17 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-60.
+- 2025-04-17 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-60.

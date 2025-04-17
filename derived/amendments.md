@@ -1,7 +1,7 @@
 ---
 measure: H.R. 331
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,12 +26,12 @@ to guess them.
 
 ### 43 U.S.C. § 390g-9
 
-> in subparagraph (A) (as so designated), by striking “may transport water for aquifer recharge purposes without requiring additional authorization from the Secretary where the use does not expand or modify the operation” and inserting “may, acting for the holder or on behalf of a State, political subdivision of a State, Indian Tribe, or public entity and subject to subparagraphs (B) and (C), use the existing right-of-way, easement, permit, or other authorization for the purpose of aquifer recharge and the transport and use of water rights for aquifer recharge without requiring additional authorization from the Secretary, which use shall not be considered an expansion, modification, major Federal action, or substantial deviation”; and
+> in subparagraph (A) (as so designated), by striking “may transport water for aquifer recharge purposes without requiring additional authorization from the Secretary where the use does not expand or modify the operation” and inserting “may, acting for the holder or on behalf of a State, political subdivision of a State, Indian Tribe, or public entity and subject to subparagraphs (B) and (C), use the existing right-of-way, easement, permit, or other authorization for the purpose of aquifer recharge and the transport and use of water rights for aquifer recharge without requiring additional authorization from the Secretary, which use shall not be considered an expansion, modification, or substantial deviation”; and
 
 | | |
 |---|---|
 | Removed | `may transport water for aquifer recharge purposes without requiring additional authorization from the Secretary where the use does not expand or modify the operation` |
-| Inserted | `may, acting for the holder or on behalf of a State, political subdivision of a State, Indian Tribe, or public entity and subject to subparagraphs (B) and (C), use the existing right-of-way, easement, permit, or other authorization for the purpose of aquifer recharge and the transport and use of water rights for aquifer recharge without requiring additional authorization from the Secretary, which use shall not be considered an expansion, modification, major Federal action, or substantial deviation` |
+| Inserted | `may, acting for the holder or on behalf of a State, political subdivision of a State, Indian Tribe, or public entity and subject to subparagraphs (B) and (C), use the existing right-of-way, easement, permit, or other authorization for the purpose of aquifer recharge and the transport and use of water rights for aquifer recharge without requiring additional authorization from the Secretary, which use shall not be considered an expansion, modification, or substantial deviation` |
 
 ### 43 U.S.C. § 390g-9
 
@@ -55,4 +55,4 @@ complete account of the bill's effect, which it is not.
 | `43 U.S.C. § 661` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 390g-9` | replace | by striking “Act creates” and inserting | the bill quotes the text struck but describes what replaces it |
 | `43 U.S.C. § 390g-9` | replace | in subparagraph (A) (as so designated), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 1251` | add-at-end | by adding at the end of the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 390g-9` | add-at-end | by adding at the end of the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
