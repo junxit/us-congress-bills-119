@@ -1,7 +1,7 @@
 ---
 measure: H.R. 249
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 249
@@ -39,3 +39,8 @@ To redesignate certain facilities at Paterson Great Falls National Historical Pa
 - 2025-01-09 — Introduced in House
 - 2025-01-09 — Introduced in House
 - 2025-01-09 — Referred to the House Committee on Natural Resources.
+- 2025-02-12 — Committee Consideration and Mark-up Session Held
+- 2025-02-12 — Ordered to be Reported by Unanimous Consent.
+- 2025-04-17 — Placed on the Union Calendar, Calendar No. 39.
+- 2025-04-17 — Reported by the Committee on Natural Resources. H. Rept. 119-62.
+- 2025-04-17 — Reported by the Committee on Natural Resources. H. Rept. 119-62.
