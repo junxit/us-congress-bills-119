@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 2972
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2972
+
+> To amend the Internal Revenue Code of 1986 to repeal the upper age limit on eligibility for the earned income tax credit.
+
+## § 1. Short title
+
+This Act may be cited as the “EITC for Older Workers Act of 2025”.
+
+## § 2. Repeal of upper age limit on eligibility for earned income tax credit
+
+- **(a)** *In general* Subclause (II) of section 32(c)(1)(A)(ii) of the Internal Revenue Code of 1986 is amended by striking “but not attained age 65”.
+- **(b)** *Effective date* The amendment made by subsection (a) shall apply to taxable years beginning after December 31, 2025.
