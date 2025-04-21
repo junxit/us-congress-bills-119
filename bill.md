@@ -1,0 +1,24 @@
+---
+legis-num: H. RES. 343
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 343
+
+> Supporting the goals and ideals of San Jacinto Day in recognition of April 21, 1836, the date on which General Sam Houston and the Texan Army defeated the Mexican Army winning Texas independence from Mexico.
+
+## Preamble
+
+- Whereas, 189 years ago, General Sam Houston launched an attack against Santa Anna and his Mexican Army achieving the deciding victory over Mexico securing Texas independence;
+- Whereas General Sam Houston said, “We must now act or abandon all hope. Rally to the standard and be no longer the scoff of mercenary tongues. Be men, be free men, that your children may bless their father’s name”;
+- Whereas the battle lasted only 18 minutes before the Texan Army claimed their victory;
+- Whereas the victory at San Jacinto led to the independence of Texas from Mexico, giving Texas the autonomy needed for its eventual admission into the United States nine years later; and
+- Whereas the legacy of the Texan Army, remembered for its courage and sacrifice continues to inspire national pride in Texans and Americans alike: Now therefore be it
+
+That the House of Representatives—
+
+- **(1)** supports the goals and ideals of San Jacinto Day, marking the 189th anniversary of the Battle of San Jacinto, the day outnumbered Texan soldiers defeated the Mexican Army and solidified Texas independence;
+- **(2)** honors the bravery and honor of those who fought in the Texas revolution for their commitment to freedom and liberty; and
+- **(3)** encourages all Americans to reflect on the importance of freedom and the spirit of those who fight to uphold freedom and American ideals.
