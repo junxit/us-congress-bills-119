@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1664
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1664
@@ -29,3 +29,8 @@ Deploying American Blockchains Act of 2025
 - 2025-02-27 — Introduced in House
 - 2025-02-27 — Introduced in House
 - 2025-02-27 — Referred to the House Committee on Energy and Commerce.
+- 2025-04-08 — Committee Consideration and Mark-up Session Held
+- 2025-04-08 — Ordered to be Reported by Voice Vote.
+- 2025-04-24 — Placed on the Union Calendar, Calendar No. 47.
+- 2025-04-24 — Reported by the Committee on Energy and Commerce. H. Rept. 119-70.
+- 2025-04-24 — Reported by the Committee on Energy and Commerce. H. Rept. 119-70.
