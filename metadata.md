@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2480
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2480
@@ -16,9 +16,10 @@ Securing Semiconductor Supply Chains Act of 2025
 
 - Rep. Landsman, Greg [D-OH-1] (L000601)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Bentz, Cliff [R-OR-2] (B000668)
+- Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 
 ## Committees (1)
 
@@ -29,3 +30,8 @@ Securing Semiconductor Supply Chains Act of 2025
 - 2025-03-31 — Introduced in House
 - 2025-03-31 — Introduced in House
 - 2025-03-31 — Referred to the House Committee on Energy and Commerce.
+- 2025-04-08 — Committee Consideration and Mark-up Session Held
+- 2025-04-08 — Ordered to be Reported by Voice Vote.
+- 2025-04-24 — Placed on the Union Calendar, Calendar No. 41.
+- 2025-04-24 — Reported by the Committee on Energy and Commerce. H. Rept. 119-64.
+- 2025-04-24 — Reported by the Committee on Energy and Commerce. H. Rept. 119-64.
