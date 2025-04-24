@@ -1,0 +1,28 @@
+---
+legis-num: H.R. 3026
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3026
+
+> To reinstate employees removed from the Cybersecurity and Infrastructure Security Agency, to limit the removal of employees from such Agency, to prohibit DOGE employees from working at such Agency, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Protecting America’s Cybersecurity Act”.
+
+## § 2. Reinstatement and limitation on removal of CISA employees
+
+- **(a)** *Reinstatement* Any individual who was involuntarily removed from a position in the Cybersecurity and Infrastructure Security Agency between the period beginning on January 25, 2025, and ending on March 1, 2025 shall, at the election of such individual, be reinstated to the individual’s former position with backpay in accordance with section 5596 of title 5, United States Code.
+- **(b)** *Limitations on reduction in resources* No employee may be involuntarily removed from, or transferred to a position outside of, the Cybersecurity and Infrastructure Security Agency, and no appropriations available for the Agency may be impounded, transferred, or reprogrammed unless Congress enacts a law after the date of the enactment of this Act providing for such a removal or transfer, unless such transfer authority is specifically provided by Acts making appropriations for the Agency.
+- **(c)** *Exceptions* Subsection (a) shall not apply to any individual removed from a political position, any individual involuntarily removed for misconduct or delinquency, or any individual involuntarily removed and whose most recent performance review before such removal was unacceptable or less than fully successful, and the limitation in subsection (b) on removal and transfer of employees shall not apply to any employee occupying a political position.
+- **(d)** *Political position defined* In this section, the term “political position” means—
+  - **(1)** a position described under sections 5312 through 5316 of title 5, United States Code (relating to the Executive Schedule);
+  - **(2)** an individual in a Senior Executive Service position who is not a career appointee (as that term is defined under section 3132(a) of such title); or
+  - **(3)** a position in the executive branch of the Government of a confidential or policy-determining character under schedule C of subpart C of part 213 of title 5, Code of Federal Regulations.
+
+## § 3. Limitation on DOGE employees working at CISA
+
+No Federal funds may be obligated or expended for the salary or expenses of any employee of the Department of the United States DOGE Service (commonly referred to as the “Department of Government Efficiency” or “DOGE”) or any employee of a DOGE agency team transferred, detailed, or otherwise working at the Cybersecurity and Infrastructure Security Agency.
