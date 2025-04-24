@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2458
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2458
@@ -29,3 +29,8 @@ Secure Space Act of 2025
 - 2025-03-27 — Introduced in House
 - 2025-03-27 — Introduced in House
 - 2025-03-27 — Referred to the House Committee on Energy and Commerce.
+- 2025-04-08 — Committee Consideration and Mark-up Session Held
+- 2025-04-08 — Ordered to be Reported by the Yeas and Nays: 52 - 1.
+- 2025-04-24 — Placed on the Union Calendar, Calendar No. 42.
+- 2025-04-24 — Reported by the Committee on Energy and Commerce. H. Rept. 119-65.
+- 2025-04-24 — Reported by the Committee on Energy and Commerce. H. Rept. 119-65.
