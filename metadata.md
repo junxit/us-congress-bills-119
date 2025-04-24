@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1721
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1721
@@ -16,9 +16,10 @@ Critical Infrastructure Manufacturing Feasibility Act
 
 - Rep. Miller-Meeks, Mariannette [R-IA-1] (M001215)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Schrier, Kim [D-WA-8] (S001216)
+- Rep. Houchin, Erin [R-IN-9] (H001093)
 
 ## Committees (1)
 
@@ -29,3 +30,8 @@ Critical Infrastructure Manufacturing Feasibility Act
 - 2025-02-27 — Introduced in House
 - 2025-02-27 — Introduced in House
 - 2025-02-27 — Referred to the House Committee on Energy and Commerce.
+- 2025-03-04 — Committee Consideration and Mark-up Session Held
+- 2025-03-04 — Ordered to be Reported by Voice Vote.
+- 2025-04-24 — Placed on the Union Calendar, Calendar No. 53.
+- 2025-04-24 — Reported by the Committee on Energy and Commerce. H. Rept. 119-76.
+- 2025-04-24 — Reported by the Committee on Energy and Commerce. H. Rept. 119-76.
