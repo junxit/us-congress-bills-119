@@ -1,7 +1,7 @@
 ---
 measure: H.R. 906
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 906
@@ -16,11 +16,12 @@ Foreign Adversary Communications Transparency Act
 
 - Rep. Wittman, Robert J. [R-VA-1] (W000804)
 
-## Cosponsors (3)
+## Cosponsors (4)
 
 - Rep. Kean, Thomas H. [R-NJ-7] (K000398)
 - Rep. Khanna, Ro [D-CA-17] (K000389)
 - Rep. Castor, Kathy [D-FL-14] (C001066)
+- Rep. Stefanik, Elise M. [R-NY-21] (S001196)
 
 ## Committees (1)
 
@@ -31,3 +32,8 @@ Foreign Adversary Communications Transparency Act
 - 2025-01-31 — Introduced in House
 - 2025-01-31 — Introduced in House
 - 2025-01-31 — Referred to the House Committee on Energy and Commerce.
+- 2025-04-08 — Committee Consideration and Mark-up Session Held
+- 2025-04-08 — Ordered to be Reported by Voice Vote.
+- 2025-04-24 — Placed on the Union Calendar, Calendar No. 50.
+- 2025-04-24 — Reported by the Committee on Energy and Commerce. H. Rept. 119-73.
+- 2025-04-24 — Reported by the Committee on Energy and Commerce. H. Rept. 119-73.
