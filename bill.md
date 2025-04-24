@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 2999
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 2999
+
+> To amend title II of the Social Security Act to provide that not more than 10 percent of a monthly benefit may be withheld on account of overpayments.
+
+## § 1. Withholding for recovery of overpayments
+
+- **(a)** *In general* Subparagraph (A) of section 204(a)(1) of the Social Security Act is amended—
+  - **(1)** by striking “With” and inserting “(i) Subject to clause (ii), with”; and
+  - **(2)** by adding at the end the following:
+    > - **(ii)** In the case of a payment to a person of more than the correct amount which the Commissioner does not have reason to believe was due to fraud or similar fault on the part of the individual, the Commissioner may not decrease the amount of a monthly benefit payable to an individual by more than 10 percent of the amount payable, unless such individual requests a higher recovery rate.
+
+- **(b)** *Effective date* The amendments made by this Act shall take effect on the date of enactment of this Act, and shall be effective with respect to overpayments under title II of the Social Security Act that are outstanding on or after such date.
