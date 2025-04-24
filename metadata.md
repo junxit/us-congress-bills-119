@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1402
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1402
@@ -16,9 +16,10 @@ TICKET Act
 
 - Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. Goldman, Craig [R-TX-12] (G000601)
 
 ## Committees (1)
 
@@ -29,3 +30,8 @@ TICKET Act
 - 2025-02-18 — Introduced in House
 - 2025-02-18 — Introduced in House
 - 2025-02-18 — Referred to the House Committee on Energy and Commerce.
+- 2025-04-08 — Committee Consideration and Mark-up Session Held
+- 2025-04-08 — Ordered to be Reported by Voice Vote.
+- 2025-04-24 — Placed on the Union Calendar, Calendar No. 43.
+- 2025-04-24 — Reported by the Committee on Energy and Commerce. H. Rept. 119-66.
+- 2025-04-24 — Reported by the Committee on Energy and Commerce. H. Rept. 119-66.
