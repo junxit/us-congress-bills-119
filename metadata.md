@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2449
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2449
@@ -30,3 +30,8 @@ FUTURE Networks Act
 - 2025-03-27 — Introduced in House
 - 2025-03-27 — Introduced in House
 - 2025-03-27 — Referred to the House Committee on Energy and Commerce.
+- 2025-04-08 — Committee Consideration and Mark-up Session Held
+- 2025-04-08 — Ordered to be Reported by Voice Vote.
+- 2025-04-24 — Placed on the Union Calendar, Calendar No. 51.
+- 2025-04-24 — Reported by the Committee on Energy and Commerce. H. Rept. 119-74.
+- 2025-04-24 — Reported by the Committee on Energy and Commerce. H. Rept. 119-74.
