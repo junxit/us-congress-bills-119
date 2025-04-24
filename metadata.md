@@ -1,7 +1,7 @@
 ---
 measure: H.R. 617
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 617
@@ -16,9 +16,18 @@ American Music Tourism Act of 2025
 
 - Rep. Harshbarger, Diana [R-TN-1] (H001086)
 
-## Cosponsors (1)
+## Cosponsors (10)
 
 - Rep. Barragán, Nanette Diaz [D-CA-44] (B001300)
+- Rep. Doggett, Lloyd [D-TX-37] (D000399)
+- Rep. Case, Ed [D-HI-1] (C001055)
+- Rep. Neguse, Joe [D-CO-2] (N000191)
+- Rep. Lee, Susie [D-NV-3] (L000590)
+- Rep. Latta, Robert E. [R-OH-5] (L000566)
+- Rep. Valadao, David G. [R-CA-22] (V000129)
+- Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
+- Rep. Griffith, H. Morgan [R-VA-9] (G000568)
+- Rep. Amo, Gabe [D-RI-1] (A000380)
 
 ## Committees (1)
 
@@ -29,3 +38,8 @@ American Music Tourism Act of 2025
 - 2025-01-22 — Introduced in House
 - 2025-01-22 — Introduced in House
 - 2025-01-22 — Referred to the House Committee on Energy and Commerce.
+- 2025-04-08 — Committee Consideration and Mark-up Session Held
+- 2025-04-08 — Ordered to be Reported by the Yeas and Nays: 52 - 1.
+- 2025-04-24 — Placed on the Union Calendar, Calendar No. 46.
+- 2025-04-24 — Reported by the Committee on Energy and Commerce. H. Rept. 119-69.
+- 2025-04-24 — Reported by the Committee on Energy and Commerce. H. Rept. 119-69.
