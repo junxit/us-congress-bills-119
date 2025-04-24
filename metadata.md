@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2482
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2482
@@ -29,3 +29,8 @@ NTIA Reauthorization Act of 2025
 - 2025-03-31 — Introduced in House
 - 2025-03-31 — Introduced in House
 - 2025-03-31 — Referred to the House Committee on Energy and Commerce.
+- 2025-04-08 — Committee Consideration and Mark-up Session Held
+- 2025-04-08 — Ordered to be Reported by Voice Vote.
+- 2025-04-24 — Placed on the Union Calendar, Calendar No. 40.
+- 2025-04-24 — Reported by the Committee on Energy and Commerce. H. Rept. 119-63.
+- 2025-04-24 — Reported by the Committee on Energy and Commerce. H. Rept. 119-63.
