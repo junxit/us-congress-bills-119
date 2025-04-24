@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1442
 
-> A bill to ban the sale of products with a high concentration of sodium nitrate to individuals, and for other purposes.
+> To ban the sale of products with a high concentration of sodium nitr ite to individuals, and for other purposes.
 
 ## § 1. Short title
 

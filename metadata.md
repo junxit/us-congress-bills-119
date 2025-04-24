@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1442
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1442
@@ -30,3 +30,8 @@ To ban the sale of products with a high concentration of sodium nitrite to indiv
 - 2025-02-18 — Introduced in House
 - 2025-02-18 — Introduced in House
 - 2025-02-18 — Referred to the House Committee on Energy and Commerce.
+- 2025-04-08 — Committee Consideration and Mark-up Session Held
+- 2025-04-08 — Ordered to be Reported by the Yeas and Nays: 50 - 1.
+- 2025-04-24 — Placed on the Union Calendar, Calendar No. 44.
+- 2025-04-24 — Reported by the Committee on Energy and Commerce. H. Rept. 119-67.
+- 2025-04-24 — Reported by the Committee on Energy and Commerce. H. Rept. 119-67.
