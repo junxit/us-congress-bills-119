@@ -1,7 +1,7 @@
 ---
 measure: H.R. 866
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 866
@@ -29,3 +29,8 @@ ROUTERS Act
 - 2025-01-31 — Introduced in House
 - 2025-01-31 — Introduced in House
 - 2025-01-31 — Referred to the House Committee on Energy and Commerce.
+- 2025-04-08 — Committee Consideration and Mark-up Session Held
+- 2025-04-08 — Ordered to be Reported (Amended) by Voice Vote.
+- 2025-04-24 — Placed on the Union Calendar, Calendar No. 52.
+- 2025-04-24 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-75.
+- 2025-04-24 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-75.
