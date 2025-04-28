@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2482
 congress: 119
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-65 amendatory instructions. 41 executed, 24 stated and not applied.
+65 amendatory instructions. 40 executed, 25 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -251,15 +251,6 @@ to guess them.
 
 ### 5 U.S.C. § 5316
 
-> by striking “Assistant Secretary” each place the term appears and inserting “Under Secretary”; and
-
-| | |
-|---|---|
-| Removed | `Assistant Secretary` |
-| Inserted | `Under Secretary` |
-
-### 5 U.S.C. § 5316
-
 > in section 903(g)(2), in the heading, by striking “Assistant secretary” and inserting “Under secretary”; and
 
 | | |
@@ -412,6 +403,7 @@ complete account of the bill's effect, which it is not.
 | `47 U.S.C. § 1401` | strike | by striking paragraph (4); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 1401` | redesignate | by redesignating paragraphs (5) through (32) as paragraphs (4) through (31), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `47 U.S.C. § 1401` | redesignate | by inserting after paragraph (31), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 5316` | replace | by striking “Assistant Secretary” each place the term appears (except the place such term appears in section 905(a)(13)(E)) and inserting “Under Secretary”; and | the bill quotes text on both sides, but not as a single substitution this could carry out |
 | `47 U.S.C. § 1305` | replace | in paragraph (2), by striking the semicolon at the end and inserting “; and”; | the bill quotes the text inserted but describes where it goes |
 | `47 U.S.C. § 1305` | replace | in paragraph (3), by striking “; and” and inserting a period; and | the bill quotes the text struck but describes what replaces it |
 | `47 U.S.C. § 1305` | strike | by striking paragraph (4). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

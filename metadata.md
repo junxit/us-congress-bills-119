@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2482
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2482
@@ -34,3 +34,9 @@ NTIA Reauthorization Act of 2025
 - 2025-04-24 — Placed on the Union Calendar, Calendar No. 40.
 - 2025-04-24 — Reported by the Committee on Energy and Commerce. H. Rept. 119-63.
 - 2025-04-24 — Reported by the Committee on Energy and Commerce. H. Rept. 119-63.
+- 2025-04-28 — Considered under suspension of the rules. (consideration: CR H1657-1661)
+- 2025-04-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2482.
+- 2025-04-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-04-28 — Mr. Bilirakis moved to suspend the rules and pass the bill, as amended.
+- 2025-04-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1657-1660)
+- 2025-04-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1657-1660)
