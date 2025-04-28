@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 106
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 106
@@ -28,3 +28,7 @@ A resolution supporting the goals of International Women's Day.
 
 - 2025-03-05 — Introduced in Senate
 - 2025-03-05 — Referred to the Committee on Foreign Relations. (text: CR S1581-1583)
+- 2025-03-27 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2025-04-28 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with a preamble. Without written report.
+- 2025-04-28 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with a preamble. Without written report.
+- 2025-04-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 58.
