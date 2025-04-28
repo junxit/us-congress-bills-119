@@ -1,0 +1,29 @@
+---
+legis-num: H.R. 3033
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3033
+
+> To amend title 18, United States Code, to protect and enhance the interstate shipment of firearms, ammunition, and components thereof.
+
+## § 1. Short title
+
+This Act may be cited as the “Protecting the Mailing of Firearms Act”.
+
+## § 2. Concealable firearms mailable
+
+- **(a)** *In general* Section 1715 of title 18, United States Code, is repealed.
+- **(b)** *Application to pending prosecutions* The repeal made by this section shall apply to any cases under section 1715 of title 18, United States Code, that are pending on the date of enactment of this Act (including on appeal).
+- **(c)** *Clerical amendment* The table of sections for chapter 83 of title 18, United States Code, is amended by repealing item related to section 1715.
+
+## § 3. Limitation on united states postal service rules relating to mailing firearms
+
+The Postmaster General may not make a rule that—
+
+- **(1)** prohibits or materially impedes the mailing of firearms, ammunition, or any component thereof; or
+- **(2)** requires, as a term of mailing a firearm, ammunition, or component thereof—
+  - **(A)** the disclosure of firearm, ammunition, or firearm or ammunition component sales receipts, firearms transaction records, or other customer records kept by Federal firearms licensees or ammunition sellers; or
+  - **(B)** the disclosure of the serial number of any firearm or component thereof contained in the mail.
