@@ -1,7 +1,7 @@
 ---
 measure: S. 860
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -65,4 +65,4 @@ complete account of the bill's effect, which it is not.
 | `21 U.S.C. § 2312` | strike | in paragraph (1), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
 | `21 U.S.C. § 2312` | replace | in paragraph (2), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 2312` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2291` | replace | Section 723(c) of the Combat Methamphetamine Epidemic Act of 2005 (22 U.S.C. 2291 note) is amended by striking the period at the end and inserting the following “, which shall— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2291` | replace | Section 723(c) of the Combat Methamphetamine Epidemic Act of 2005 (22 U.S.C. 2291 note) is amended by striking the period at the end and inserting the following ", which shall— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

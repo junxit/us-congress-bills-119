@@ -1,7 +1,7 @@
 ---
 measure: S. 860
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 860
@@ -16,9 +16,11 @@ BUST FENTANYL Act
 
 - Sen. Risch, James E. [R-ID] (R000584)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Hagerty, Bill [R-TN] (H000601)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
 
 ## Committees (1)
 
@@ -28,3 +30,7 @@ BUST FENTANYL Act
 
 - 2025-03-05 — Introduced in Senate
 - 2025-03-05 — Read twice and referred to the Committee on Foreign Relations.
+- 2025-03-27 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2025-04-28 — Committee on Foreign Relations. Reported by Senator Risch without amendment. Without written report.
+- 2025-04-28 — Committee on Foreign Relations. Reported by Senator Risch without amendment. Without written report.
+- 2025-04-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 54.

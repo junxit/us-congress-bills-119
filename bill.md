@@ -91,7 +91,7 @@ Section 7212 of the Fentanyl Sanctions Act (21 U.S.C. 2312) is amended—
 
 ## § 7. Annual report on efforts to prevent the smuggling of methamphetamine into the United States from Mexico
 
-Section 723(c) of the Combat Methamphetamine Epidemic Act of 2005 (22 U.S.C. 2291 note) is amended by striking the period at the end and inserting the following “, which shall—
+Section 723(c) of the Combat Methamphetamine Epidemic Act of 2005 (22 U.S.C. 2291 note) is amended by striking the period at the end and inserting the following ", which shall—
 
 > - **(1)** identify the significant source countries for methamphetamine that significantly affect the United States, and
 > - **(2)** describe the actions by the governments of the countries identified pursuant to paragraph (1) to combat the diversion of relevant precursor chemicals and the production and trafficking of methamphetamine.
