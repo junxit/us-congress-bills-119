@@ -1,7 +1,7 @@
 ---
 measure: S. 257
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 257
@@ -16,16 +16,23 @@ Promoting Resilient Supply Chains Act of 2025
 
 - Sen. Cantwell, Maria [D-WA] (C000127)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Sen. Blackburn, Marsha [R-TN] (B001243)
 - Sen. Blunt Rochester, Lisa [D-DE] (B001303)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Commerce, Science, and Transportation Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
 - 2025-01-27 — Introduced in Senate
 - 2025-01-27 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2025-02-05 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment favorably.
+- 2025-02-11 — Committee on Banking, Housing, and Urban Affairs. Hearings held.
+- 2025-04-28 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with amendments. With written report No. 119-16.
+- 2025-04-28 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with amendments. With written report No. 119-16.
+- 2025-04-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 50.
