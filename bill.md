@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “LEOSA Reform Act of 2025”.
+This Act may be cited as the “LEOSA Reform Act”.
 
 ## § 2. Conforming the Law Enforcement Officer Safety Act and the Gun-Free School Zones Act of 1990
 
