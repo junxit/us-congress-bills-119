@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Federal Law Enforcement Officer Service Weapon Purchase Act”.
+This Act may be cited as the “Federal Law Enforcement Officer Service Weapon Purchase Act of 2025”.
 
 ## § 2. Purchase of retired firearms by Federal law enforcement officers
 
