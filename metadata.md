@@ -1,7 +1,7 @@
 ---
 measure: S. 842
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 842
@@ -28,3 +28,7 @@ No Hezbollah In Our Hemisphere Act
 
 - 2025-03-04 — Introduced in Senate
 - 2025-03-04 — Read twice and referred to the Committee on Foreign Relations.
+- 2025-03-27 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2025-04-28 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
+- 2025-04-28 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
+- 2025-04-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 53.
