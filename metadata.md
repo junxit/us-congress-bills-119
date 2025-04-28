@@ -1,7 +1,7 @@
 ---
 measure: H.R. 973
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 973
@@ -46,6 +46,10 @@ Setting Consumer Standards for Lithium-Ion Batteries Act
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2025-04-28 — [House 119-1-103](votes/house-119-1-0103.md) — On Motion to Suspend the Rules and Pass — **Passed** (365–42)
+
 ## Actions
 
 - 2025-02-04 — Introduced in House
@@ -56,3 +60,11 @@ Setting Consumer Standards for Lithium-Ion Batteries Act
 - 2025-04-24 — Placed on the Union Calendar, Calendar No. 54.
 - 2025-04-24 — Reported by the Committee on Energy and Commerce. H. Rept. 119-77.
 - 2025-04-24 — Reported by the Committee on Energy and Commerce. H. Rept. 119-77.
+- 2025-04-28 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2025-04-28 — Considered as unfinished business. (consideration: CR H1668)
+- 2025-04-28 — Considered under suspension of the rules. (consideration: CR H1637-1640)
+- 2025-04-28 — DEBATE - The House proceeded with forty minutes of debate on H.R. 973.
+- 2025-04-28 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-04-28 — Mr. Bilirakis moved to suspend the rules and pass the bill.
+- 2025-04-28 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 365 - 42 (Roll no. 103). (text: CR H1637)
+- 2025-04-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 365 - 42 (Roll no. 103). (text: CR H1637: 1)
