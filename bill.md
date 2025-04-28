@@ -70,7 +70,7 @@ It is the policy of the United States—
     - **(D)** the Committee on Foreign Affairs of the House of Representatives;
     - **(E)** the Permanent Select Committee on Intelligence of the House of Representatives; and
     - **(F)** the Committee on Armed Services of the House of Representatives.
-- **(b)** *5-Year United States strategy for bilateral relations with Georgia*
+- **(b)** *5-year United States strategy for bilateral relations with Georgia*
   - **(1)** *In general* Not later than 90 days after the date of the enactment of this Act, the Secretary and the Administrator of the United States Agency for International Development, in coordination with the heads of other relevant Federal departments and agencies, shall submit to the appropriate committees of Congress a detailed strategy that—
     - **(A)** outlines specific objectives for enhancing bilateral ties which reflect the current domestic political environment in Georgia;
     - **(B)** includes a determination of the tools, resources, and funding that should be available to achieve the objectives outlined pursuant to subparagraph (A) and an assessment whether Georgia should remain the second-highest recipient of United States funding in the Europe and Eurasia region;
@@ -167,7 +167,7 @@ It is the policy of the United States—
 
 - **(a)** *In general* Upon submission to Congress of the certification described in subsection (c)—
   - **(1)** the Secretary of State, in consultation with other heads of other relevant Federal departments and agencies, should seek to further enhance people-to-people contacts and academic exchanges between the United States and Georgia; and
-  - **(2)** the President, in consultation with the Secretary of Defense, should maintain, and as appropriate, expand military cooperation with Georgia, including by providing further security and defense equipment ideally suited for territorial defense against Russian aggression and related training, maintenance, and operations support elements.
+  - **(2)** the President, in consultation with the Secretary of Defense, should maintain, and as appropriate, expand military co-operation with Georgia, including by providing further security and defense equipment ideally suited for territorial defense against Russian aggression and related training, maintenance, and operations support elements.
 - **(b)** *Sense of Congress* It is the sense of Congress that, after the submission of the certification described in subsection (c), if the Government of Georgia takes steps to realign itself with its Euro-Atlantic agenda, including significant changes to the foreign influence law, the President should take steps to improve the bilateral relationship between the United States and Georgia, including actions to bolster Georgia’s ability to deter threats from Russia and other malign actors.
 - **(c)** *Certification described* The certification described in this subsection is a certification submitted to Congress by the President that Georgia has shown significant and sustained progress towards reinvigorating its democracy and advancing its Euro-Atlantic integration.
 
