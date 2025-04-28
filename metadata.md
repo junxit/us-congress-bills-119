@@ -1,7 +1,7 @@
 ---
 measure: S. 28
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 28
@@ -29,3 +29,7 @@ Informing Consumers about Smart Devices Act
 
 - 2025-01-07 — Introduced in Senate
 - 2025-01-07 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2025-03-12 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2025-04-28 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-13.
+- 2025-04-28 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-13.
+- 2025-04-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 47.
