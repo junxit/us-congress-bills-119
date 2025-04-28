@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2240
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2240
@@ -16,7 +16,7 @@ Improving Law Enforcement Officer Safety and Wellness Through Data Act
 
 - Rep. Moore, Tim [R-NC-14] (M001236)
 
-## Cosponsors (12)
+## Cosponsors (22)
 
 - Rep. Cuellar, Henry [D-TX-28] (C001063)
 - Rep. Weber, Randy K. Sr. [R-TX-14] (W000814)
@@ -30,6 +30,16 @@ Improving Law Enforcement Officer Safety and Wellness Through Data Act
 - Rep. Kiggans, Jennifer A. [R-VA-2] (K000399)
 - Rep. Malliotakis, Nicole [R-NY-11] (M000317)
 - Rep. Bice, Stephanie I. [R-OK-5] (B000740)
+- Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
+- Rep. Davis, Donald G. [D-NC-1] (D000230)
+- Rep. Evans, Gabe [R-CO-8] (E000300)
+- Rep. Rutherford, John H. [R-FL-5] (R000609)
+- Rep. Perez, Marie Gluesenkamp [D-WA-3] (G000600)
+- Rep. Rouzer, David [R-NC-7] (R000603)
+- Rep. Miller, Max L. [R-OH-7] (M001222)
+- Rep. Franklin, Scott [R-FL-18] (F000472)
+- Rep. Begich, Nicholas [R-AK-At Large] (B001323)
+- Rep. McCormick, Richard [R-GA-7] (M001218)
 
 ## Committees (1)
 
@@ -40,3 +50,8 @@ Improving Law Enforcement Officer Safety and Wellness Through Data Act
 - 2025-03-21 — Introduced in House
 - 2025-03-21 — Introduced in House
 - 2025-03-21 — Referred to the House Committee on the Judiciary.
+- 2025-03-25 — Committee Consideration and Mark-up Session Held
+- 2025-03-25 — Ordered to be Reported (Amended) by Voice Vote.
+- 2025-04-28 — Placed on the Union Calendar, Calendar No. 56.
+- 2025-04-28 — Reported (Amended) by the Committee on Judiciary. H. Rept. 119-79.
+- 2025-04-28 — Reported (Amended) by the Committee on Judiciary. H. Rept. 119-79.

@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Improving Law Enforcement Officer Safety and Wellness Through Data Act of 2025”.
+This Act may be cited as the “Improving Law Enforcement Officer Safety and Wellness Through Data Act”.
 
 ## § 2. Findings
 
