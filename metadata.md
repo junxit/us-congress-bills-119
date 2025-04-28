@@ -1,7 +1,7 @@
 ---
 measure: S. 314
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 314
@@ -30,3 +30,7 @@ Hotel Fees Transparency Act of 2025
 
 - 2025-01-29 — Introduced in Senate
 - 2025-01-29 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2025-02-05 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2025-04-28 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment. With written report No. 119-15.
+- 2025-04-28 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment. With written report No. 119-15.
+- 2025-04-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 49.

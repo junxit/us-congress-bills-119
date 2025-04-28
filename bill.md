@@ -97,7 +97,7 @@ This Act may be cited as the “Hotel Fees Transparency Act of 2025”.
     - **(C)** is promoted, advertised, or marketed in interstate commerce or for which such property’s services are sold in interstate commerce.
   - **(10)** *State* The term State means each of the 50 States, the District of Columbia, and any territory or possession of the United States.
   - **(11)** *Third-party online seller* The term third-party online seller means any person other than a hotel or short-term rental that sells covered services or offers for sale covered services with respect to a hotel or short-term rental in a transaction facilitated on the internet.
-  - **(12)** *Total services price* The term total services—
+  - **(12)** *Total services price* The term total services price—
     - **(A)** means, with respect to covered services, the total cost of the covered services, including the base services price and any service fees; and
     - **(B)** does not include—
       - **(i)** any taxes or fees imposed by a government or quasi-government entity;
