@@ -34,7 +34,8 @@ Beginning 180 days after the date of the enactment of this Act, it shall be unla
 A ticket issuer, secondary market ticket issuer, or secondary market ticket exchange—
 
 - **(1)** if offering an event ticket for resale, shall provide a clear and conspicuous statement, before a consumer purchases the event ticket from the ticket issuer, secondary market ticket issuer, or secondary market ticket exchange, that the issuer or exchange is engaged in the secondary sale of event tickets; and
-- **(2)** shall not state that the ticket issuer, secondary market ticket issuer, or secondary market ticket exchange is affiliated with or endorsed by a venue, team, or artist, as applicable, including by using words like “official” in promotional materials, social media promotions, or paid advertising, unless a partnership agreement has been executed or the issuer or exchange has the express written consent of the venue, team, or artist, as applicable.
+- **(2)** shall not state that the ticket issuer, secondary market ticket issuer, or secondary market ticket exchange is affiliated with or endorsed by a venue, team, or artist, as applicable, including by using words like “official” in promotional materials, social media promotions, or paid advertising, unless a partnership agreement has been executed or the issuer or exchange has the express written consent of the venue, team, or artist, as applicable.; and
+- **(3)** shall not include the name of the venue, including any misspellings of any such name, in a domain name, or any subdomain thereof, in the URL of the secondary market ticket issuer or secondary market ticket exchange unless authorized by the owner of the venue.
 
 ## § 5. Refund requirements
 
@@ -79,4 +80,5 @@ In this Act:
 - **(9)** *Secondary market ticket exchange* The term secondary market ticket exchange means any person that in the regular course of trade or business of that person operates a platform or exchange for advertising, listing, or selling resale tickets, on behalf of itself, vendors, or a secondary market ticket issuer.
 - **(10)** *Secondary market ticket issuer* The term secondary market ticket issuer means any person, including a ticket issuer, that resells or makes a secondary sale of an event ticket to the general public in the regular course of the trade or business of the person.
 - **(11)** *Total event ticket price* The term total event ticket price means, with respect to an event ticket, the total cost of the event ticket, including the base event ticket price and any event ticket fee.
-- **(12)** *Venue* The term venue means a physical space at which an event takes place.
+- **(12)** *URL* The term URL means the uniform resource locator associated with an internet website.
+- **(13)** *Venue* The term venue means a physical space at which an event takes place.
