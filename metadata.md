@@ -1,7 +1,7 @@
 ---
 measure: H.R. 452
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 452
@@ -319,9 +319,10 @@ Miracle on Ice Congressional Gold Medal Act
 - Rep. Gillen, Laura [D-NY-4] (G000602)
 - Rep. Leger Fernandez, Teresa [D-NM-3] (L000273)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -334,3 +335,4 @@ Miracle on Ice Congressional Gold Medal Act
 - 2025-04-28 — Mr. Davidson moved to suspend the rules and pass the bill.
 - 2025-04-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1633-1634)
 - 2025-04-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1633-1634)
+- 2025-04-29 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
