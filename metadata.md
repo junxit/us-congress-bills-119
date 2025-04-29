@@ -1,7 +1,7 @@
 ---
 measure: H.R. 973
 congress: 119
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 973
@@ -68,3 +68,4 @@ Setting Consumer Standards for Lithium-Ion Batteries Act
 - 2025-04-28 — Mr. Bilirakis moved to suspend the rules and pass the bill.
 - 2025-04-28 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 365 - 42 (Roll no. 103). (text: CR H1637)
 - 2025-04-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 365 - 42 (Roll no. 103). (text: CR H1637: 1)
+- 2025-04-29 — Received in the Senate, read twice.
