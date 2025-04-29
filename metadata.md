@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1721
 congress: 119
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1721
@@ -43,3 +43,8 @@ Critical Infrastructure Manufacturing Feasibility Act
 - 2025-04-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1651)
 - 2025-04-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1651)
 - 2025-04-29 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2026-09-23 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4892)
+- 2026-09-23 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (consideration: CR S4892)
+- 2026-09-23 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2026-09-23 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2026-09-24 — Message on Senate action sent to the House.
