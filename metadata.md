@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1721
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1721
@@ -21,9 +21,10 @@ Critical Infrastructure Manufacturing Feasibility Act
 - Rep. Schrier, Kim [D-WA-8] (S001216)
 - Rep. Houchin, Erin [R-IN-9] (H001093)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Critical Infrastructure Manufacturing Feasibility Act
 - 2025-04-28 — Mr. Bilirakis moved to suspend the rules and pass the bill.
 - 2025-04-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1651)
 - 2025-04-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1651)
+- 2025-04-29 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
