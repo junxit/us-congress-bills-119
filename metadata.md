@@ -1,7 +1,7 @@
 ---
 measure: H.R. 617
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 617
@@ -49,3 +49,4 @@ American Music Tourism Act of 2025
 - 2025-04-28 — Mr. Bilirakis moved to suspend the rules and pass the bill.
 - 2025-04-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1635-1636)
 - 2025-04-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1635-1636)
+- 2025-04-29 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 59.
