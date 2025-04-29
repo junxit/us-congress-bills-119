@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2449
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2449
@@ -21,9 +21,10 @@ FUTURE Networks Act
 - Rep. Allen, Rick W. [R-GA-12] (A000372)
 - Rep. Walberg, Tim [R-MI-5] (W000798)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ FUTURE Networks Act
 - 2025-04-28 — Mr. Bilirakis moved to suspend the rules and pass the bill.
 - 2025-04-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1663-1664)
 - 2025-04-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1663-1664)
+- 2025-04-29 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
