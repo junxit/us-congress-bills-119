@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 237
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 237
@@ -16,7 +16,7 @@ Of inquiry requesting the President and directing the Secretary of Education to 
 
 - Rep. Scott, Robert C. "Bobby" [D-VA-3] (S000185)
 
-## Cosponsors (14)
+## Cosponsors (15)
 
 - Rep. Courtney, Joe [D-CT-2] (C001069)
 - Rep. Wilson, Frederica S. [D-FL-24] (W000808)
@@ -32,6 +32,7 @@ Of inquiry requesting the President and directing the Secretary of Education to 
 - Rep. Casar, Greg [D-TX-35] (C001131)
 - Rep. Lee, Summer L. [D-PA-12] (L000602)
 - Rep. Mannion, John [D-NY-22] (M001231)
+- Rep. Brownley, Julia [D-CA-26] (B001285)
 
 ## Committees (1)
 
@@ -42,3 +43,8 @@ Of inquiry requesting the President and directing the Secretary of Education to 
 - 2025-03-21 — Referred to the House Committee on Education and Workforce.
 - 2025-03-21 — Submitted in House
 - 2025-03-21 — Submitted in House
+- 2025-04-09 — Committee Consideration and Mark-up Session Held
+- 2025-04-09 — Ordered to be Reported Adversely (Amended) by the Yeas and Nays: 18 - 12.
+- 2025-04-29 — Placed on the House Calendar, Calendar No. 25.
+- 2025-04-29 — Reported adversely (Amended) by the Committee on Education and Workforce. H. Rept. 119-84.
+- 2025-04-29 — Reported adversely (Amended) by the Committee on Education and Workforce. H. Rept. 119-84.
