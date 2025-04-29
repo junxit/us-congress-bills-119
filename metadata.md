@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2482
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2482
@@ -20,9 +20,10 @@ NTIA Reauthorization Act of 2025
 
 - Rep. Matsui, Doris O. [D-CA-7] (M001163)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ NTIA Reauthorization Act of 2025
 - 2025-04-28 — Mr. Bilirakis moved to suspend the rules and pass the bill, as amended.
 - 2025-04-28 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1657-1660)
 - 2025-04-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1657-1660)
+- 2025-04-29 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
