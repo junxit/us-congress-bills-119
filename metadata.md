@@ -1,7 +1,7 @@
 ---
 measure: H.R. 276
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 276
@@ -16,7 +16,7 @@ Gulf of America Act
 
 - Rep. Greene, Marjorie Taylor [R-GA-14] (G000596)
 
-## Cosponsors (14)
+## Cosponsors (17)
 
 - Rep. Miller, Mary E. [R-IL-15] (M001211)
 - Rep. Moore, Barry [R-AL-1] (M001212)
@@ -32,6 +32,9 @@ Gulf of America Act
 - Rep. Babin, Brian [R-TX-36] (B001291)
 - Rep. Rulli, Michael A. [R-OH-6] (R000619)
 - Rep. Nehls, Troy E. [R-TX-22] (N000026)
+- Rep. Langworthy, Nicholas A. [R-NY-23] (L000600)
+- Rep. Webster, Daniel [R-FL-11] (W000806)
+- Rep. McGuire, John [R-VA-5] (M001239)
 
 ## Committees (1)
 
@@ -42,3 +45,11 @@ Gulf of America Act
 - 2025-01-09 — Introduced in House
 - 2025-01-09 — Introduced in House
 - 2025-01-09 — Referred to the House Committee on Natural Resources.
+- 2025-03-18 — Referred to the Subcommittee on Water, Wildlife and Fisheries.
+- 2025-03-25 — Subcommittee Hearings Held
+- 2025-04-09 — Committee Consideration and Mark-up Session Held
+- 2025-04-09 — Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 24 - 17.
+- 2025-04-09 — Subcommittee on Water, Wildlife and Fisheries Discharged
+- 2025-04-30 — Placed on the Union Calendar, Calendar No. 60.
+- 2025-04-30 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-85.
+- 2025-04-30 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-85.

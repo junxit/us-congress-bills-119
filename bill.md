@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Gulf of America Act of 2025”.
+This Act may be cited as the “Gulf of America Act”.
 
 ## § 2. Renaming of Gulf of Mexico as “Gulf of America”
 
