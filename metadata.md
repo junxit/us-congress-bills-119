@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 60
 congress: 119
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 60
@@ -26,9 +26,11 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 
 - House — Natural Resources Committee
 
-## Recorded votes (1)
+## Recorded votes (3)
 
 - 2025-04-29 — [House 119-1-110](votes/house-119-1-0110.md) — On Passage — **Passed** (219–205)
+- 2025-05-06 — [Senate 119-1-236](votes/senate-119-1-0236.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (53–47)
+- 2025-05-08 — [Senate 119-1-239](votes/senate-119-1-0239.md) — On the Joint Resolution — **Joint Resolution Passed** (50–43)
 
 ## Actions
 
@@ -46,3 +48,15 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2025-04-29 — Rule provides for consideration of H.J. Res. 60, H.J. Res. 78, H.J. Res. 87, H.J. Res. 88 and H The resolution provides for consideration of H.J. Res. 60, H.J. Res. 78, H.J. Res. 87, H.J. Res. 88, and H.J. Res. 89 under a closed rule with one hour of debate and one motion to recommit on each joint resolution.
 - 2025-04-29 — The previous question was ordered pursuant to the rule.
 - 2025-04-30 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 65.
+- 2025-05-06 — Measure laid before Senate by motion. (consideration: CR S2772)
+- 2025-05-06 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 53 - 47. Record Vote Number: 236.
+- 2025-05-08 — Considered by Senate. (consideration: CR S2813-2814)
+- 2025-05-08 — Message on Senate action sent to the House.
+- 2025-05-08 — Passed Senate without amendment by Yea-Nay Vote. 50 - 43. Record Vote Number: 239.
+- 2025-05-08 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 50 - 43. Record Vote Number: 239.
+- 2025-05-16 — Presented to President.
+- 2025-05-16 — Presented to President.
+- 2025-05-23 — Became Public Law No: 119-13.
+- 2025-05-23 — Became Public Law No: 119-13.
+- 2025-05-23 — Signed by President.
+- 2025-05-23 — Signed by President.
