@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 60
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.J.Res. 60
@@ -45,3 +45,4 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2025-04-29 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 219 - 205 (Roll no. 110). (text: CR H1706)
 - 2025-04-29 — Rule provides for consideration of H.J. Res. 60, H.J. Res. 78, H.J. Res. 87, H.J. Res. 88 and H The resolution provides for consideration of H.J. Res. 60, H.J. Res. 78, H.J. Res. 87, H.J. Res. 88, and H.J. Res. 89 under a closed rule with one hour of debate and one motion to recommit on each joint resolution.
 - 2025-04-29 — The previous question was ordered pursuant to the rule.
+- 2025-04-30 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 65.
