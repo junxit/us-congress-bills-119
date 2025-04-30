@@ -1,7 +1,7 @@
 ---
 measure: S. 616
 congress: 119
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 616
@@ -28,3 +28,7 @@ Foundation of the Federal Bar Association Charter Amendments Act of 2025
 
 - 2025-02-18 — Introduced in Senate
 - 2025-02-18 — Read twice and referred to the Committee on the Judiciary.
+- 2025-04-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2709-2710; text: CR S2709-2710)
+- 2025-04-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2025-04-30 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2025-04-30 — Senate Committee on the Judiciary discharged by Unanimous Consent.
