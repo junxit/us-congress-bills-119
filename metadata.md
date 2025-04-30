@@ -1,7 +1,7 @@
 ---
 measure: H.R. 859
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 859
@@ -46,3 +46,4 @@ Informing Consumers about Smart Devices Act
 - 2025-04-29 — Motion to reconsider laid on the table Agreed to without objection.
 - 2025-04-29 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 415 - 9 (Roll no. 109). (text: 04/28/2025 CR H1666-1667)
 - 2025-04-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 415 - 9 (Roll no. 109). (text: 04/28/2025 CR H1666-1667)
+- 2025-04-30 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 64.
