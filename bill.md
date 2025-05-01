@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 3145
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3145
+
+> To amend the Internal Revenue Code of 1986 to exclude certain Nurse Corps payments from gross income.
+
+## § 1. Short title
+
+This Act may be cited as the “Nurse Corps Tax Parity Act of 2025”.
+
+## § 2. Tax treatment of certain Nurse Corps payments
+
+- **(a)** *In general* Paragraph (4) of section 108(f) of the Internal Revenue Code of 1986 is amended by striking “338B(g)” and inserting “338B(g) or 846”.
+- **(b)** *Qualified scholarships* Subparagraph (A) of section 117(c)(2) of the Internal Revenue Code of 1986 is amended by striking “the Public Health Service Act” and inserting “the Public Health Service Act or the scholarship program under section 846 of such Act”.
+- **(c)** *Effective date* The amendments made by this section shall apply to amounts received in taxable years beginning after the date of the enactment of this Act.
