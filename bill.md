@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 3165
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3165
+
+> To amend the Higher Education Act of 1965 to eliminate origination fees on Federal Direct loans.
+
+## § 1. Short title
+
+This Act may be cited as the “Student Loan Tax Elimination Act”.
+
+## § 2. Elimination of origination fees on federal direct loans
+
+- **(a)** *Repeal of origination fees* Subsection (c) of section 455 of the Higher Education Act of 1965 (20 U.S.C. 1087e(c)) is repealed.
+- **(b)** *Effective date* The amendment made by subsection (a) shall apply with respect to loans made under part D of title IV of the Higher Education Act of 1965 (20 U.S.C. 1087a et seq.) for which the first disbursement of principal is made, or, in the case of a Federal Direct Consolidation Loan, the application is received, on or after July 1 following the enactment of this Act.
