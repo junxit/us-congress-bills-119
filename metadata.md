@@ -1,7 +1,7 @@
 ---
 measure: H.R. 677
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 677
@@ -25,3 +25,8 @@ EARA
 - 2025-01-23 — Introduced in House
 - 2025-01-23 — Introduced in House
 - 2025-01-23 — Referred to the House Committee on Natural Resources.
+- 2025-04-09 — Committee Consideration and Mark-up Session Held
+- 2025-04-09 — Ordered to be Reported in the Nature of a Substitute by Unanimous Consent.
+- 2025-05-05 — Placed on the Union Calendar, Calendar No. 63.
+- 2025-05-05 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-88.
+- 2025-05-05 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-88.

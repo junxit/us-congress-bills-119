@@ -18,7 +18,8 @@ This Act may be cited as the “Expedited Appeals Review Act” or the “EARA�
 - **(a)** *Request for expedited review* A party that files an appeal of a Department of the Interior decision described under section 4.1(b)(2) of title 43, Code of Federal Regulations (or any successor regulations), with the Board of Land Appeals may submit to the Board of Land Appeals written notice of such party’s intent to seek expedited review of the appeal. If a party submits such written notice, the Board of Land Appeals shall issue a final decision on the appeal by not later than the date that is 6 months after the date on which such written notice is received, except such deadline may not be earlier than the date that is 18 months after the date on which the appeal was initially filed with the Board of Land Appeals.
 - **(b)** *No final decision* If the Board of Land Appeals does not issue a final decision on an appeal by the deadline described in subsection (a)—
   - **(1)** the Department of the Interior decision is deemed to be a final agency action for purposes of section 704 of title 5, United States Code; and
-  - **(2)** judicial review of such decision shall be de novo.
+  - **(2)** notwithstanding section 706 of title 5, United States Code, judicial review of such decision shall be de novo.
 - **(c)** *Applicability* This section shall apply to any appeal described in subsection (a) that—
   - **(1)** is pending before the Board of Land Appeals as of the date of enactment of this Act; or
   - **(2)** is filed with the Board of Land Appeals after the date of enactment of this Act.
+- **(d)** *Conflict* In the event of a conflict between the deadline described in subsection (a) and a deadline under section 115(h) of the Federal Oil and Gas Royalty Management Act of 1982 (30 U.S.C. 1724(h)) or section 525(b) of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1275(b)), the deadline described in subsection (a) shall control.
