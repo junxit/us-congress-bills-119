@@ -1,7 +1,7 @@
 ---
 measure: H.R. 881
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 881
@@ -16,11 +16,13 @@ DHS Restrictions on Confucius Institutes and Chinese Entities of Concern Act
 
 - Rep. Pfluger, August [R-TX-11] (P000048)
 
-## Cosponsors (3)
+## Cosponsors (5)
 
 - Rep. Garbarino, Andrew R. [R-NY-2] (G000597)
 - Rep. Evans, Gabe [R-CO-8] (E000300)
 - Rep. Strong, Dale W. [R-AL-5] (S001220)
+- Rep. Luttrell, Morgan [R-TX-8] (L000603)
+- Rep. Joyce, John [R-PA-13] (J000302)
 
 ## Committees (1)
 
@@ -32,3 +34,10 @@ DHS Restrictions on Confucius Institutes and Chinese Entities of Concern Act
 - 2025-01-31 — Introduced in House
 - 2025-01-31 — Referred to the House Committee on Homeland Security.
 - 2025-01-31 — Referred to the Subcommittee on Counterterrorism and Intelligence.
+- 2025-04-09 — Committee Consideration and Mark-up Session Held
+- 2025-04-09 — Ordered to be Reported in the Nature of a Substitute (Amended).
+- 2025-04-09 — Subcommittee on Counterterrorism and Intelligence Discharged
+- 2025-05-05 — Placed on the Union Calendar, Calendar No. 62.
+- 2025-05-05 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 119-87.
+- 2025-05-05 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 119-87.
+- 2025-05-05 — Rules Committee Resolution H. Res. 377 Reported to House. Rule provides for consideration of H.R. 276 and H.R. 881. The resolution provides for consideration of H.R. 276 and H.R. 881 under a closed rule with one hour of debate and one motion to recommit on each bill.
