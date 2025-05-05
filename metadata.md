@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1316
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1316
@@ -30,3 +30,9 @@ Maintaining American Superiority by Improving Export Control Transparency Act
 - 2025-02-13 — Introduced in House
 - 2025-02-13 — Introduced in House
 - 2025-02-13 — Referred to the House Committee on Foreign Affairs.
+- 2025-05-05 — Considered under suspension of the rules. (consideration: CR H1834-1836)
+- 2025-05-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1316.
+- 2025-05-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-05-05 — Mr. Mast moved to suspend the rules and pass the bill, as amended.
+- 2025-05-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1834-1835)
+- 2025-05-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1834-1835)
