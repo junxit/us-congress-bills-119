@@ -15,7 +15,7 @@ This Act may be cited as the “No Dollars to Uyghur Forced Labor Act”.
 
 ## § 2. Prohibition on use of funds supporting any activities within the Xinjiang Uyghur autonomous region of the People’s Republic of China
 
-- **(a)** *In general* No funds available to the Department of State or the United States Agency for International Development may be used to develop, design, plan, promulgate, implement, or execute a policy, program, or contract that knowingly uses goods, wares, articles, or merchandise mined, produced, or manufactured wholly or in part in the Xinjiang Uyghur Autonomous Region of the People’s Republic of China or produced by a covered entity, unless such activity is specifically authorized pursuant to subsection (b).
+- **(a)** *In general* No funds authorized to be appropriated to the Department of State or the United States Agency for International Development may be used to develop, design, plan, promulgate, implement, or execute a policy, program, or contract that knowingly uses goods, wares, articles, or merchandise mined, produced, or manufactured wholly or in part in the Xinjiang Uyghur Autonomous Region of the People’s Republic of China or produced by a covered entity, unless such activity is specifically authorized pursuant to subsection (b).
 - **(b)** *Specific authorization* The Secretary of State may specifically authorize an activity otherwise prohibited by subsection (a) if—
   - **(1)** the Secretary—
     - **(A)** obtains in writing an assurance from the relevant program partner, implementor, or contractor that such partner, implementor, or contractor—
