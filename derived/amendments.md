@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1512
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | in subsection (c)(1), by adding at the end before “; and” the following: “and any successor document or related document disseminating such guidance”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | in subsection (c)(1), by inserting “and any successor document or related document that includes guidance on relations with Taiwan” after “memorandum”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
