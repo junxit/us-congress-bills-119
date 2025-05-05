@@ -1,15 +1,8 @@
 ---
-legis-num: S. CON. RES. 12
-congress: 119th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+legis-num: S.Con.Res. 12
+congress: 
+session: 
+chamber: 
 ---
 
-# S. CON. RES. 12
-
-> Authorizing the use of Emancipation Hall in the Capitol Visitor Center for a ceremony to present the Congressional Gold Medal, collectively, to the United States Army Rangers Veterans of World War II.
-
-## § 1. Use of Emancipation Hall for ceremony to present the Congressional Gold Medal to the United States Army Rangers Veterans of World War II
-
-- **(a)** *Authorization* Emancipation Hall in the Capitol Visitor Center is authorized to be used on June 26, 2025, for a ceremony to present the Congressional Gold Medal awarded under the United States Army Rangers Veterans of World War II Act (Public Law 117–132; 31 U.S.C. 5111 note).
-- **(b)** *Preparations* Physical preparations for the conduct of the ceremony described in subsection (a) shall be carried out in accordance with such conditions as may be prescribed by the Architect of the Capitol.
+# S.Con.Res. 12
