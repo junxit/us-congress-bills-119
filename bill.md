@@ -75,20 +75,10 @@ Congress finds the following:
     - **(B)** The President shall not be required to submit the annual report described by subparagraph (A) if the President has imposed sanctions as authorized under this section within the previous calendar year.
 - **(g)** *Rule of construction* For purposes of this section, a transaction shall not be construed to include participation in an international standards-setting body or the activities of such a body.
 
-## § 5. Clarifying amendments
+## § 5. Importation of goods exception
 
-Section 203 of the International Emergency Economic Powers Act (50 U.S.C. 1702) is amended—
-
-- **(1)** in subsection (b)—
-  - **(A)** in the matter preceding paragraph (1), by striking “, directly or indirectly”;
-  - **(B)** in paragraph (3)—
-    - **(i)** by striking “including but not limited to” and all that follows through “news wire feeds.” and inserting “except to the extent that the President determines that such imports and exports would seriously impair his ability to deal with any national emergency declared under section 202.”; and
-    - **(ii)** by striking “under section 5 of the Export Administration Act of 1979, or under section 6 of such Act” and inserting “under other statutory or regulatory export control authorities”; and
-  - **(C)** in paragraph (4), by inserting “, except to the extent that the President determines that such imports and exports would seriously impair the ability to deal with any national emergency declared under section 202” before the period at the end; and
-- **(2)** by adding at the end the following:
-  > - **(d)** *Rules of construction relating to sensitive and personal data* The communication, the importation to a country, or the exportation from a country, directly or indirectly, whether commercial or otherwise, of bulk sensitive personal data or of source code used in a connected software application may not be construed to constitute—
-  >   - **(1)** a “postal, telegraphic, telephonic, or other personal communication”, for purposes of subsection (b)(1); or
-  >   - **(2)** an importation from a country, or an exportation to a country, of “information or informational materials”, for purposes of subsection (b)(3).
+- **(a)** *In general* The authorities and requirements to impose sanctions under this Act shall not include the authority or a requirement to impose sanctions on the importation of goods.
+- **(b)** *Good defined* In this section, the term “good” means any article, natural or manmade substance, material, supply, or manufactured product, including inspection and test equipment, and excluding technical data.
 
 ## § 6. Definitions
 
