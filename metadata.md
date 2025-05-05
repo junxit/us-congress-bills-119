@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2416
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2416
@@ -16,7 +16,7 @@ Taiwan International Solidarity Act
 
 - Rep. Connolly, Gerald E. [D-VA-11] (C001078)
 
-## Cosponsors (7)
+## Cosponsors (12)
 
 - Rep. Kim, Young [R-CA-40] (K000397)
 - Rep. Cohen, Steve [D-TN-9] (C001068)
@@ -25,6 +25,11 @@ Taiwan International Solidarity Act
 - Rep. Min, Dave [D-CA-47] (M001241)
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 - Rep. Sherman, Brad [D-CA-32] (S000344)
+- Rep. Bera, Ami [D-CA-6] (B001287)
+- Rep. Lawler, Michael [R-NY-17] (L000599)
+- Rep. Titus, Dina [D-NV-1] (T000468)
+- Rep. Bell, Wesley [D-MO-1] (B001324)
+- Rep. Case, Ed [D-HI-1] (C001055)
 
 ## Committees (1)
 
@@ -35,3 +40,9 @@ Taiwan International Solidarity Act
 - 2025-03-27 — Introduced in House
 - 2025-03-27 — Introduced in House
 - 2025-03-27 — Referred to the House Committee on Foreign Affairs.
+- 2025-05-05 — Considered under suspension of the rules. (consideration: CR H1836-1838)
+- 2025-05-05 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2416.
+- 2025-05-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-05-05 — Mr. Mast moved to suspend the rules and pass the bill.
+- 2025-05-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1836)
+- 2025-05-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1836)
