@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1316
 congress: 119
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1316
@@ -38,3 +38,14 @@ Maintaining American Superiority by Improving Export Control Transparency Act
 - 2025-05-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1834-1835)
 - 2025-05-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1834-1835)
 - 2025-05-06 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2025-07-22 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4573)
+- 2025-07-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2025-07-22 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2025-07-22 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2025-07-23 — Message on Senate action sent to the House.
+- 2025-08-15 — Presented to President.
+- 2025-08-15 — Presented to President.
+- 2025-08-19 — Became Public Law No: 119-34.
+- 2025-08-19 — Became Public Law No: 119-34.
+- 2025-08-19 — Signed by President.
+- 2025-08-19 — Signed by President.
