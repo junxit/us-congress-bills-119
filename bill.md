@@ -13,12 +13,12 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Financial Technology Protection Act of 2025”.
 
-## § 2. Independent financial technology working group to combat terrorism and illicit financing
+## § 2. Independent Financial Technology Working Group to Combat Terrorism and Illicit Financing
 
 - **(a)** *Establishment* There is established the Independent Financial Technology Working Group to Combat Terrorism and Illicit Financing (in this section referred to as the “Working Group”), which shall consist of the following:
   - **(1)** The Secretary of the Treasury, acting through the Under Secretary for Terrorism and Financial Crimes, who shall serve as the chair of the Working Group.
   - **(2)** A senior-level representative from each of the following:
-    - **(A)** The Department of Treasury.
+    - **(A)** The Department of the Treasury.
     - **(B)** The Office of Terrorism and Financial Intelligence.
     - **(C)** The Internal Revenue Service.
     - **(D)** The Department of Justice.
@@ -56,7 +56,7 @@ This Act may be cited as the “Financial Technology Protection Act of 2025”.
     - **(B)** a strategy for the United States to mitigate and prevent the illicit use of digital assets and other related emerging technologies.
   - **(2)** *Form of report; public availability*
     - **(A)** *In general* The report required by paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
-    - **(B)** *Public availability* The unclassified portion of each report required by paragraph (1) shall be made available to the public and posted on a publicly accessible website of the Department of Treasury—
+    - **(B)** *Public availability* The unclassified portion of each report required by paragraph (1) shall be made available to the public and posted on a publicly accessible website of the Department of the Treasury—
       - **(i)** in precompressed, easily downloadable versions, in all appropriate formats; and
       - **(ii)** in machine-readable format, if applicable.
   - **(3)** *Sources of information* In preparing the reports required by paragraph (1), the President may utilize any credible publication, database, or web-based resource, and any credible information compiled by any government agency, nongovernmental organization, or other entity that is made available to the President.
