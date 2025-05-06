@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1540
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1540
@@ -31,10 +31,11 @@ Falun Gong Protection Act
 - Rep. Murphy, Gregory F. [R-NC-3] (M001210)
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Falun Gong Protection Act
 - 2025-05-05 — Mr. Mast moved to suspend the rules and pass the bill.
 - 2025-05-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1830-1831)
 - 2025-05-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1830-1831)
+- 2025-05-06 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
