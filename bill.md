@@ -15,18 +15,18 @@ This Act may be cited as the “Anti-CBDC Surveillance State Act”.
 
 ## § 2. Prohibition on Federal reserve banks relating to certain products or services for individuals and prohibition on directly issuing a central bank digital currency
 
-Section 16 of the Federal Reserve Act is amended by adding at the end the following new paragraph:
+Section 16 of the Federal Reserve Act (12 U.S.C. 411 et seq.) is amended by adding at the end the following new paragraph:
 
 > - **(18)**
 >   - **(A)** A Federal reserve bank may not—
->     - **(i)** offer products or services directly to an individual;
+>     - **(i)** offer financial products or services directly to an individual;
 >     - **(ii)** maintain an account on behalf of an individual; or
 >     - **(iii)** issue a central bank digital currency, or any digital asset that is substantially similar under any other name or label.
 >   - **(B)** In this paragraph, the term “central bank digital currency” has the meaning given that term under section 10(11)(D).
 
 ## § 3. Prohibition on Federal reserve banks indirectly issuing a central bank digital currency
 
-Section 16 of the Federal Reserve Act, as amended by section 2, is further amended by adding at the end the following paragraph:
+Section 16 of the Federal Reserve Act (12 U.S.C. 411 et seq.), as amended by section 2, is further amended by adding at the end the following paragraph:
 
 > - **(19)**
 >   - **(A)** A Federal reserve bank may not offer a central bank digital currency, or any digital asset that is substantially similar under any other name or label, indirectly to an individual through a financial institution or other intermediary.
@@ -47,4 +47,4 @@ Section 10 of the Federal Reserve Act (12 U.S.C. 241 et seq.) is amended by inse
 
 ## § 5. Sense of Congress
 
-It is the sense of Congress that the Board of Governors of the Federal Reserve currently does not have the authority to issue a central bank digital currency, or any digital asset that is substantially similar under any other name or label, and will not have such authority unless Congress grants it under Congress’s Article 1 Section 8 powers.
+It is the sense of Congress that the Board of Governors of the Federal Reserve System currently does not have the authority to issue a central bank digital currency, or any digital asset that is substantially similar under any other name or label, and will not have such authority unless Congress grants it under Congress’s Article 1 Section 8 powers.

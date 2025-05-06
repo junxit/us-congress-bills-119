@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1919
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1919
@@ -16,7 +16,7 @@ Anti-CBDC Surveillance State Act
 
 - Rep. Emmer, Tom [R-MN-6] (E000294)
 
-## Cosponsors (100)
+## Cosponsors (135)
 
 - Rep. Hill, J. French [R-AR-2] (H001072)
 - Rep. Moolenaar, John R. [R-MI-2] (M001194)
@@ -118,6 +118,41 @@ Anti-CBDC Surveillance State Act
 - Rep. Taylor, David [R-OH-2] (T000490)
 - Rep. Gill, Brandon [R-TX-26] (G000603)
 - Rep. Guest, Michael [R-MS-3] (G000591)
+- Rep. Goldman, Craig [R-TX-12] (G000601)
+- Rep. Bentz, Cliff [R-OR-2] (B000668)
+- Rep. Moore, Barry [R-AL-1] (M001212)
+- Rep. Letlow, Julia [R-LA-5] (L000595)
+- Rep. Ezell, Mike [R-MS-4] (E000235)
+- Rep. Cole, Tom [R-OK-4] (C001053)
+- Rep. Feenstra, Randy [R-IA-4] (F000446)
+- Rep. Mann, Tracey [R-KS-1] (M000871)
+- Rep. LaHood, Darin [R-IL-16] (L000585)
+- Rep. Jackson, Ronny [R-TX-13] (J000304)
+- Rep. Cline, Ben [R-VA-6] (C001118)
+- Rep. Moran, Nathaniel [R-TX-1] (M001224)
+- Rep. Guthrie, Brett [R-KY-2] (G000558)
+- Rep. Yakym, Rudy [R-IN-2] (Y000067)
+- Rep. Pfluger, August [R-TX-11] (P000048)
+- Rep. Green, Mark E. [R-TN-7] (G000590)
+- Rep. Stutzman, Marlin A. [R-IN-3] (S001188)
+- Rep. Babin, Brian [R-TX-36] (B001291)
+- Rep. Nehls, Troy E. [R-TX-22] (N000026)
+- Rep. Kean, Thomas H. [R-NJ-7] (K000398)
+- Rep. Van Orden, Derrick [R-WI-3] (V000135)
+- Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
+- Rep. Kennedy, Mike [R-UT-3] (K000403)
+- Rep. Womack, Steve [R-AR-3] (W000809)
+- Rep. Hern, Kevin [R-OK-1] (H001082)
+- Rep. Stauber, Pete [R-MN-8] (S001212)
+- Rep. McGuire, John [R-VA-5] (M001239)
+- Rep. Bresnahan, Robert [R-PA-8] (B001327)
+- Rep. Begich, Nicholas [R-AK-At Large] (B001323)
+- Rep. Scott, Austin [R-GA-8] (S001189)
+- Rep. Edwards, Chuck [R-NC-11] (E000246)
+- Rep. Jack, Brian [R-GA-3] (J000311)
+- Rep. Miller, Mary E. [R-IL-15] (M001211)
+- Rep. Steube, W. Gregory [R-FL-17] (S001214)
+- Rep. Rulli, Michael A. [R-OH-6] (R000619)
 
 ## Committees (1)
 
@@ -128,3 +163,8 @@ Anti-CBDC Surveillance State Act
 - 2025-03-06 — Introduced in House
 - 2025-03-06 — Introduced in House
 - 2025-03-06 — Referred to the House Committee on Financial Services.
+- 2025-04-02 — Committee Consideration and Mark-up Session Held
+- 2025-04-02 — Ordered to be Reported (Amended) by the Yeas and Nays: 27 - 22.
+- 2025-05-06 — Placed on the Union Calendar, Calendar No. 66.
+- 2025-05-06 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-92.
+- 2025-05-06 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-92.

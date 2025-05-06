@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1919
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,6 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Section 16 of the Federal Reserve Act is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
-| — | add-at-end | Section 16 of the Federal Reserve Act, as amended by section 2, is further amended by adding at the end the following paragraph: | the bill names no machine-readable US Code section |
+| `12 U.S.C. § 411` | add-at-end | Section 16 of the Federal Reserve Act (12 U.S.C. 411 et seq.) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 411` | add-at-end | Section 16 of the Federal Reserve Act (12 U.S.C. 411 et seq.), as amended by section 2, is further amended by adding at the end the following paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 241` | insert | Section 10 of the Federal Reserve Act (12 U.S.C. 241 et seq.) is amended by inserting before paragraph (12) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
