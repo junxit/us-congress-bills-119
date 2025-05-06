@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1912
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1912
@@ -26,9 +26,10 @@ Veteran Fraud Reimbursement Act of 2025
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 - Rep. Harder, Josh [D-CA-9] (H001090)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Veteran Fraud Reimbursement Act of 2025
 - 2025-05-05 — Mr. Bergman moved to suspend the rules and pass the bill.
 - 2025-05-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1817-1818)
 - 2025-05-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1817-1818: 1)
+- 2025-05-06 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
