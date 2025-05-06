@@ -38,8 +38,8 @@ In this Act:
     - **(i)** a national currency;
     - **(ii)** a deposit (as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)) that is denominated in a national currency; or
     - **(iii)** an account (as defined in section 101 of the Federal Credit Union Act (12 U.S.C. 1752)); and
-  - **(B)** does not include any agricultural or other physical commodity (as defined in section 1a of the Commodity Exchange Act (7 U.S.C. 1a).
-- **(13)** *National currency* The term “national currency” means a Federal Reserve note, (as the term is used in the first undesignated paragraph of section 16 of the Federal Reserve Act (12 U.S.C. 411)), money standing to the credit of an account with a Federal reserve bank, money issued by a central bank, and money issued by an intergovernmental organization pursuant to an agreement by one or more governments.
+  - **(B)** does not include any agricultural or other physical commodity (as defined in section 1a of the Commodity Exchange Act (7 U.S.C. 1a)).
+- **(13)** *National currency* The term “national currency” means a Federal Reserve note (as the term is used in the first undesignated paragraph of section 16 of the Federal Reserve Act (12 U.S.C. 411)), money standing to the credit of an account with a Federal reserve bank, money issued by a central bank, and money issued by an intergovernmental organization pursuant to an agreement by one or more governments.
 - **(14)** *Nonbank entity* The term “nonbank entity” means a person that is not an insured depository institution or subsidiary of an insured depository institution.
 - **(15)** *Payment stablecoin* The term “payment stablecoin” means a digital asset—
   - **(A)** that is or is designed to be used as a means of payment or settlement;
@@ -51,7 +51,7 @@ In this Act:
     - **(i)** a national currency;
     - **(ii)** a security issued by—
       - **(I)** an investment company registered under section 8(a) of the Investment Company Act of 1940 (15 U.S.C. 80a–8(a)); or
-      - **(II)** a person that would be an investment company under the Investment Company Act of 1940 but for paragraphs (1) and (7) of section 3(c) of that Act (15 U.S.C. 80a–3(c));
+      - **(II)** a person that would be an investment company under the Investment Company Act of 1940 but for paragraphs (1) and (7) of section 3(c) of that Act (15 U.S.C. 80a-3(c));
     - **(iii)** a deposit (as defined under section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)), regardless of the technology used to record such deposit; or
     - **(iv)** an account (as defined in section 101 of the Federal Credit Union Act (12 U.S.C. 1752)), regardless of the technology used to record such account.
 - **(16)** *Permitted payment stablecoin issuer* The term “permitted payment stablecoin issuer” means—
@@ -83,13 +83,13 @@ In this Act:
 - **(23)** *Subsidiary of an insured credit union* With respect to an insured credit union, the term “subsidiary of an insured credit union” means—
   - **(A)** an organization providing services to the insured credit union that are associated with the routine operations of credit unions, as described under section 107(7)(I) of the Federal Credit Union Act (12 U.S.C. 1757(7)(I));
   - **(B)** a credit union service organization, as such term is used under part 712 of title 12, Code of Federal Regulations, with respect to which the insured credit union has an ownership interest or to which the insured credit union has extended a loan; and
-  - **(C)** any subsidiary of an insured credit union that is a State credit union.
+  - **(C)** any subsidiary of the insured credit union that is a State credit union.
 
 ## § 3. Limitation on who may issue a payment stablecoin
 
 - **(a)** *Limitation on issuers* It shall be unlawful for any person other than a permitted payment stablecoin issuer to issue a payment stablecoin in the United States.
 - **(b)** *Limitation on offering or selling*
-  - **(1)** *In general* After the end of the 2-year period beginning on the date of enactment of this Act, it shall be unlawful for any custodial intermediary to offer or sell a payment stablecoin in the United States unless the payment stablecoin was issued by a permitted payment stablecoin issuer.
+  - **(1)** *In general* After the end of the 18-month period beginning on the date of enactment of this Act, it shall be unlawful for any custodial intermediary to offer or sell a payment stablecoin in the United States unless the payment stablecoin was issued by a permitted payment stablecoin issuer.
   - **(2)** *Exceptions for comparable payment stablecoin regimes*
     - **(A)** *In general* Paragraph (1) and subsection (a) shall not apply to the offer or sale of a payment stablecoin if—
       - **(i)** the payment stablecoin was issued by a foreign payment stablecoin issuer;
@@ -112,21 +112,21 @@ In this Act:
   - **(1)** *In general* Each permitted payment stablecoin issuer shall—
     - **(A)** maintain reserves backing the issuer’s outstanding payment stablecoins on an at least 1 to 1 basis, with reserves comprising—
       - **(i)** United States currency (including Federal reserve notes) or money standing to the credit of an account with a Federal reserve bank;
-      - **(ii)** funds held as demand deposits (or other deposits that may be withdrawn upon request at any time) at insured depository institutions (including foreign branches and agencies of insured depository institutions) or approved foreign depository institutions (as defined in paragraph (5)(v)) or share drafts (or other deposits that may be withdrawn upon request at any time) at insured credit unions, subject to limitations established by the Corporation and the National Credit Union Administration, respectively, to address safety and soundness risks of such insured depository institutions;
+      - **(ii)** funds held as demand deposits (or other deposits that may be withdrawn upon request at any time) at insured depository institutions (including foreign branches and agencies of insured depository institutions) or approved foreign depository institutions (as determined in paragraph (5)(A)(v)) or share drafts (or other deposits that may be withdrawn upon request at any time) at insured credit unions, subject to limitations established by the Corporation and the National Credit Union Administration, respectively, to address safety and soundness risks of such insured depository institutions;
       - **(iii)** Treasury bills, notes, or bonds—
         - **(I)** with a remaining maturity of 93 days or less; or
         - **(II)** issued with a maturity of 93 days or less;
       - **(iv)** repurchase agreements, wherein the permitted payment stablecoin issuer is acting as a seller of securities, or reverse repurchase agreements, wherein the permitted payment stablecoin issuer is acting as a purchaser of securities, with an overnight maturity and that are backed by Treasury bills with a maturity of 93 days or less that are—
         - **(I)** centrally cleared through a clearing agency registered with the Securities and Exchange Commission; or
         - **(II)** bilateral, settling either through delivery versus payment or through a tri-party control account, with a counterparty that the issuer has determined to be adequately credit worthy even in the event of severe market stress; or
-      - **(v)** securities issued by an investment company under section 8(a) of the Investment Company Act of 1940 that operates as a money market fund in compliance with Rule 2a–7 under the Investment Company Act of 1940 (or any successor rule) and that are invested solely in the underlying assets described in clauses (i) through (iv) and (vi);
+      - **(v)** securities issued by an investment company under section 8(a) of the Investment Company Act of 1940 (15 U.S.C. 80a-8) that operates as a money market fund in compliance with Rule 2a-7 under the Investment Company Act of 1940 (or any successor rule) and that are invested solely in the underlying assets described in clauses (i) through (iv);
     - **(B)** publicly disclose the issuer’s redemption policy;
     - **(C)** establish procedures for timely redemption of the issuer’s outstanding payment stablecoins; and
     - **(D)** publish a report on the monthly composition of the issuer’s reserves on the website of the issuer, containing—
       - **(i)** the total number of outstanding payment stablecoins issued by the issuer; and
       - **(ii)** the amount and composition of the reserves described under subparagraph (A).
-  - **(2)** *Eligibility* The requirements to maintain reserves under paragraph (1)(A) may not be construed as expanding or contracting eligibility to qualify as a depository institution under section 19(b)(1)(A) of the Federal Reserve Act (12 U.S.C. 461(b)(1)(A)).
-  - **(3)** *Prohibition on rehypothecation* Reserves described under paragraph (1)(A) may not be pledged, rehypothecated, or reused, except for the purpose of satisfying obligations associated with reserves described under paragraph (1)(A)(iv) if the permitted payment stablecoin issuer receives the prior approval of the primary Federal payment stablecoin regulator or the State payment stablecoin regulator.
+  - **(2)** *Eligibility* Nothing in this Act shall be construed as expanding or contracting legal eligibility to make deposits, or hold an account, at a Federal reserve bank.
+  - **(3)** *Prohibition on rehypothecation* Reserves described under paragraph (1)(A) may not be pledged, rehypothecated, or reused, except for the purpose of satisfying obligations associated with reserves described under paragraph (1)(A)(iv).
   - **(4)** *Monthly certification; examination of reports by registered public accounting firm*
     - **(A)** *In general* A permitted payment stablecoin issuer shall, each month, have the information disclosed in the previous month-end report required under paragraph (1)(D) examined by an independent registered public accounting firm.
     - **(B)** *Certification* Each month, the Chief Executive Officer and Chief Financial Officer of a permitted payment stablecoin issuer shall submit to, as applicable, the primary Federal payment stablecoin regulator or, in the case of a State qualified payment stablecoin issuer, the State payment stablecoin regulator, a certification that, based on such officers’ knowledge, the previous month-end report required under paragraph (1)(D)—
@@ -152,10 +152,22 @@ In this Act:
       - **(ii)** the supervisory, regulatory, or enforcement authority of a Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)) or the National Credit Union Administration to further the ability of an institution under the supervision of the Federal banking agency or the National Credit Union Administration to maintain safe and sound operations or comply with this Act.
     - **(C)** *Applicability of existing capital standards*
       - **(i)** *Applicability of the Financial Stability Act of 2010* Section 171 of the Financial Stability Act of 2010 (12 U.S.C. 5371) shall not apply to requirements issued under this paragraph.
-      - **(ii)** *Rules relating to leverage capital requirements or risk-based capital requirements* Where an insured depository institution or depository institution holding company, as defined under section 171(a)(3) of the Financial Stability Act of 2010 (12 U.S.C. 5371(a)(3)), includes, on a consolidated basis, a permitted payment stablecoin issuer, any rule issued by an appropriate Federal banking agency that imposes, on a consolidated basis, a leverage capital requirement or risk-based capital requirement on such insured depository institution or depository institution holding company, shall not require such insured depository institution or depository institution holding company to hold, with respect to the permitted payment stablecoin issuer and its assets and operations, any amount of regulatory capital in excess of the capital that such permitted payment stablecoin issuer must maintain under the capital requirements promulgated pursuant to paragraph (5)(A)(i).
-      - **(iii)** *Rulemaking* Not later than the date the primary Federal payment stablecoin regulators issue regulations to carry out this section, each Federal banking agency, as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813), shall amend or otherwise modify any regulation described in clause (ii) so that it complies with such clause (ii).
-  - **(6)** *Treatment under the Bank Secrecy Act* A permitted payment stablecoin issuer shall be treated as a financial institution for purposes of the Bank Secrecy Act.
-  - **(7)** *Limitation on payment stablecoin activities* A permitted payment stablecoin issuer may only—
+      - **(ii)** *Rules relating to leverage capital requirements or risk-based capital requirements* Where an insured depository institution or depository institution holding company, as defined under section 171(a)(3) of the Financial Stability Act of 2010 (12 U.S.C. 5371(a)(3)), includes, on a consolidated basis, a permitted payment stablecoin issuer, any rule issued by an appropriate Federal banking agency that imposes, on a consolidated basis, a leverage capital requirement or risk-based capital requirement on such insured depository institution or depository institution holding company, shall not require such insured depository institution or depository institution holding company to hold, with respect to the permitted payment stablecoin issuer and its assets and operations, any amount of regulatory capital in excess of the capital that such permitted payment stablecoin issuer must maintain under the capital requirements promulgated pursuant to subparagraph (A)(i).
+      - **(iii)** *Rulemaking* Not later than the date the primary Federal payment stablecoin regulators issue regulations to carry out this section, each Federal banking agency, as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813), shall amend or otherwise modify any rule described in clause (ii) so that it complies with such clause (ii).
+  - **(6)** *Treatment Under the Bank Secrecy Act*
+    - **(A)** *In general* A permitted payment stablecoin issuer shall be treated as a financial institution for purposes of the Bank Secrecy Act.
+    - **(B)** *Regulations* The Secretary of the Treasury, acting through the Director of the Financial Crimes Enforcement Network, and in consultation with the primary Federal payment stablecoin regulators, shall issue regulations to apply the Bank Secrecy Act to permitted payment stablecoin issuers that are tailored to the size and complexity of such issuers, including by requiring each permitted payment stablecoin issuer to—
+      - **(i)** establish and maintain an anti-money laundering and countering the financing of terrorism program, which shall include—
+        - **(I)** an appropriate risk assessment;
+        - **(II)** the development of internal policies, procedures, and controls;
+        - **(III)** the designation of a compliance officer;
+        - **(IV)** an ongoing employee training program; and
+        - **(V)** an independent audit function to test such program;
+      - **(ii)** retain appropriate records of payment stablecoin transactions;
+      - **(iii)** monitor and report suspicious activity, which may include use of appropriate distributed ledger analytics; and
+      - **(iv)** maintain an effective customer identification program to identify and verify initial holders of a payment stablecoin for the purposes of carrying out appropriate customer due diligence.
+  - **(7)** *Compliance with sanctions* A permitted payment stablecoin issuer shall comply with all laws and regulations related to United States sanctions administered by the Office of Foreign Assets Control.
+  - **(8)** *Limitation on payment stablecoin activities* A permitted payment stablecoin issuer may only—
     - **(A)** issue payment stablecoins;
     - **(B)** redeem payment stablecoins;
     - **(C)** manage related reserves (including purchasing, selling, and holding reserve assets);
@@ -163,9 +175,9 @@ In this Act:
     - **(E)** provide custodial or safekeeping services for reserves, consistent with this Act;
     - **(F)** undertake other functions that directly support activities described in subparagraphs (A) through (E); and
     - **(G)** undertake such non-payment stablecoin activities that are allowed by the primary Federal payment stablecoin regulator.
-  - **(8)** *Prohibition on yield* A permitted payment stablecoin issuer may not pay interest or yield to holders of its payment stablecoins.
-  - **(9)** *Regulation of Federal qualified nonbank payment stablecoin issuers by the Comptroller* A Federal qualified nonbank payment stablecoin issuer shall be regulated and supervised exclusively by the Comptroller.
-- **(b)** *State-Level regulatory regimes*
+  - **(9)** *Prohibition on yield* A permitted payment stablecoin issuer may not pay interest or yield to holders of its payment stablecoins.
+  - **(10)** *Regulation of Federal qualified nonbank payment stablecoin issuers by the Comptroller* A Federal qualified nonbank payment stablecoin issuer shall be regulated and supervised exclusively by the Comptroller.
+- **(b)** *State-level regulatory regimes*
   - **(1)** *In general* A State qualified payment stablecoin issuer may only issue payment stablecoins pursuant to the regulation of a State payment stablecoin regulator of a State with a regulatory regime for issuing payment stablecoins that is certified under this subsection as meeting or exceeding the standards and requirements described in subsection (a).
   - **(2)** *Certification*
     - **(A)** *In general* Beginning on the date that is 1 year after the date of enactment of this Act or 60 days after the rulemaking described in subsection (d) is completed, whichever is earlier, a State payment stablecoin regulator may submit to the Secretary of the Treasury a certification that the regulatory regime of the State for issuing payment stablecoins meets or exceeds the standards and requirements described in subsection (a).
@@ -182,7 +194,7 @@ In this Act:
       - **(i)** inform the State payment stablecoin regulator that the proposed law or regulation is consistent with a State regulatory regime for issuing payment stablecoins that meets or exceeds the standards and requirements described in subsection (a); or
       - **(ii)** provide the State payment stablecoin regulator with a detailed explanation of why the proposed law or regulation is not consistent with a State regulatory regime for issuing payment stablecoins that meets or exceeds the standards and requirements described in subsection (a).
   - **(6)** *Regimes that are not substantially similar*
-    - **(A)** *In general* The Secretary of the Treasury may reject a certification under paragraph (3) or a certification with respect to which a State payment stablecoin regulator has submitted an explanation of material changes under paragraph (4), if the Secretary, not later than 30 days after the date on which the initial certification or explanation of material changes is submitted—
+    - **(A)** *In general* The Secretary of the Treasury may reject a certification under paragraph (2) or a certification with respect to which a State payment stablecoin regulator has submitted an explanation of material changes under paragraph (4), if the Secretary, not later than 30 days after the date on which the initial certification or explanation of material changes is submitted—
       - **(i)** determines that the State regulatory regime does not meet or exceed the standards and requirements described in subsection (a); and
       - **(ii)** provides the State payment stablecoin regulator with a written explanation for the rejection, describing the reasoned basis for the rejection with sufficient detail such that the State can bring the State regulatory regime into compliance based on the explanation.
     - **(B)** *Opportunity to cure*
@@ -192,15 +204,15 @@ In this Act:
       - **(ii)** *Rejection* If, after a State payment stablecoin regulator makes changes described under clause (i) during the period described in clause (i), the Secretary of the Treasury determines that the certification should be rejected, the Secretary of the Treasury shall, not later than 30 days after such determination, provide the State payment stablecoin regulator with a written explanation for the determination, describing the reasoned basis for the determination with sufficient detail such that the State can bring its regime into compliance based on the explanation.
     - **(C)** *Appeal of rejection*
       - **(i)** *In general* A State payment stablecoin regulator that has had a certification rejected under this paragraph may, after the cure period described under subparagraph (B)(i), appeal such rejection to the United States Court of Appeals for the District of Columbia Circuit, which shall, upon a determination that the regulatory regime of the State for issuing payment stablecoins meets or exceeds the standards and requirements described in subsection (a), reverse such rejection.
-      - **(ii)** *Review by the Supreme Court* The judgment and decree of the Court of Appeals shall be final, except that the same shall be subject to review by the Supreme Court upon certiorari, as provided in section 1254 of title 28.
+      - **(ii)** *Review by the Supreme Court* The judgment and decree of the Court of Appeals shall be final, except that the same shall be subject to review by the Supreme Court upon certiorari, as provided in section 1254 of title 28, United States Code.
     - **(D)** *Right to resubmit* A State payment stablecoin regulator that has had a certification rejected under this paragraph may resubmit a new certification under paragraph (2).
   - **(7)** *Appropriate exemptive relief* The Secretary of the Treasury shall issue such rules and orders as are necessary to provide appropriate exemptive relief and safe harbors for State qualified payment stablecoin issuers to continue operations during such periods in which any rules promulgated pursuant to subsection (a) materially affect a previously certified State regulatory regime’s ability to meet or exceed the standards and requirements described in subsection (a).
 - **(c)** *Not insured by the Federal Government; misrepresentation of insured status*
   - **(1)** *In general* Payment stablecoins are not backed by the full faith and credit of the United States, guaranteed by the United States Government, subject to deposit insurance by the Corporation, or subject to share insurance by the National Credit Union Administration.
   - **(2)** *Misrepresentation of insured status* It shall be unlawful to represent that a payment stablecoin is backed by the full faith and credit of the United States, guaranteed by the United States Government, or subject to Federal deposit insurance or Federal share insurance.
-  - **(3)** *Disclosure* Permitted payment stablecoin issuers shall clearly and prominently disclose on their website that payment stablecoins issued by such permitted payment stablecoin issuer are not guaranteed by the United States Government, covered by deposit insurance by the Federal Deposit Insurance Corporation, or by share insurance of the National Credit Union Administration.
+  - **(3)** *Disclosure* Permitted payment stablecoin issuers shall clearly and prominently disclose on their website that payment stablecoins issued by such permitted payment stablecoin issuer are not guaranteed by the United States Government, covered by deposit insurance by the Federal Deposit Insurance Corporation, or covered by share insurance of the National Credit Union Administration.
   - **(4)** *Penalties* Any person who violates this subsection may be prosecuted to the fullest extent of the law, including, as applicable, under—
-    - **(A)** section 18(a)(4) of the Federal Deposit Insurance Act (relating to the prohibition on false advertising in connection with deposit insurance, the misuse of FDIC names, and misrepresentations of insured status);
+    - **(A)** section 18(a)(4) of the Federal Deposit Insurance Act (12 U.S.C. 1828(a)(4); relating to the prohibition on false advertising in connection with deposit insurance, the misuse of FDIC names, and misrepresentations of insured status);
     - **(B)** section 709 of title 18, United States Code (relating to false advertising or misuse of names to indicate a Federal agency);
     - **(C)** criminal penalties under title 18, United States Code, related to fraud; and
     - **(D)** other remedies available under the law.
@@ -315,19 +327,19 @@ In this Act:
 ## § 7. State qualified payment stablecoin issuers
 
 - **(a)** *In general* With respect to a State, a State payment stablecoin regulator shall have supervisory, examination, and enforcement authority over a State qualified payment stablecoin issuer of such State.
-- **(b)** *Authority To enter into agreements*
+- **(b)** *Authority to enter into agreements*
   - **(1)** *In general* A State payment stablecoin regulator may enter into a memorandum of understanding with the primary Federal banking agency and Comptroller setting out the manner in which the primary Federal banking agency and Comptroller may participate in the supervision, examination, and enforcement authority with respect to the State qualified payment stablecoin issuers of such State.
   - **(2)** *Rule of construction* Nothing in this subsection or a memorandum entered into under this subsection may be construed to limit the authority of the primary Federal banking agency or Comptroller under subsection (e) or any other provision of law.
 - **(c)** *Sharing of information*
   - **(1)** *In general* A State payment stablecoin regulator and, as applicable, the Comptroller, the Board, the Corporation, or the National Credit Union Administration shall share information on an ongoing basis with respect to each State qualified payment stablecoin issuer of such State, including a copy of all initial applications and any accompanying documents.
   - **(2)** *Privileges not affected by sharing of information* The sharing of information under paragraph (1) shall not be construed as waiving, destroying, or otherwise affecting any privilege applicable to such information under Federal or State law as to any person or entity other than the State payment stablecoin regulator, the Comptroller, the Board, the Corporation, and the National Credit Union Administration.
 - **(d)** *Rulemaking* A State payment stablecoin regulator may, to the same extent as the primary Federal payment stablecoin regulators issue orders and rules under section 4 applicable to a permitted payment stablecoin issuer that is not a State qualified payment stablecoin issuer, issue orders and rules related to the requirements under section 4 applicable to State qualified payment stablecoin issuers.
-- **(e)** *Back-Up enforcement authority*
+- **(e)** *Back-up enforcement authority*
   - **(1)** *By the primary Federal banking agency*
     - **(A)** *In general* Subject to subparagraph (C), the primary Federal banking agency may, after not less than 48 hours prior written notice to any applicable State payment stablecoin regulator, take an enforcement action against a State qualified payment stablecoin issuer that is a subsidiary of an insured depository institution or an institution-affiliated party thereof for violations of this Act if—
       - **(i)** the applicable State payment stablecoin regulator has not commenced an enforcement action to correct such violation; and
       - **(ii)** failure to take such action would create a material risk of loss to holders of such issuer’s stablecoins or create a material threat to U.S. financial stability.
-    - **(B)** *Rulemaking* Not later than the end of the 180-day period beginning on the date of enactment of this Act, the primary Federal banking agencies shall issue rules to set forth the standards that would be used by the primary Federal bank agencies to exercise the back-up authority under this paragraph.
+    - **(B)** *Rulemaking* Not later than the end of the 180-day period beginning on the date of enactment of this Act, the primary Federal banking agencies shall issue rules to set forth the standards that would be used by the primary Federal banking agencies to exercise the back-up authority under this paragraph.
     - **(C)** *Back-up authority under section 6(b)* Solely for purposes of carrying out this paragraph, section 6(b) shall apply to a State qualified payment stablecoin issuer that is a subsidiary of an insured depository institution as if the primary Federal banking agency were the primary Federal payment stablecoin regulator with respect to the State qualified payment stablecoin issuer.
     - **(D)** *Primary Federal banking agency defined* In this section—
       - **(i)** the term “primary Federal banking agency” means—
@@ -347,14 +359,14 @@ In this Act:
     - **(B)** the term “host State” means a State other than that of the State qualified payment stablecoin issuer’s State payment stablecoin regulator.
   - **(2)** *Authority to issue payment stablecoins in host States* Subject to the requirements of paragraph (3), a State qualified payment stablecoin issuer may issue payment stablecoins in a host State without a charter or license to issue payment stablecoins from such host State.
   - **(3)** *State obligations* Where a State qualified payment stablecoin issuer issues a payment stablecoin in a host State pursuant to paragraph (2)—
-    - **(A)** such State qualified payment stablecoin issuer shall notify any State payment stablecoin regulator in such host State of the issuer’s intention to do business in the host State no less than 30 days before such issuer commences business in the host State and in a manner prescribed by the host State’s State payment stablecoin regulator or State banking regulator if such State does not have a regime certified under section 4(b), provided that such notice does not impose a de facto licensure or chartering requirement on such State qualified payment stablecoin issuer;
+    - **(A)** such State qualified payment stablecoin issuer shall notify any State payment stablecoin regulator in such host State of the issuer’s intention to do business in the host State not less than 30 days before such issuer commences business in the host State and in a manner prescribed by the host State’s State payment stablecoin regulator or State banking regulator if such State does not have a regime certified under section 4(b), provided that such notice does not impose a de facto licensure or chartering requirement on such State qualified payment stablecoin issuer;
     - **(B)** such State qualified payment stablecoin issuer shall comply with all requirements of the issuer’s home State regulatory regime when conducting business in the host State, and where the host State maintains a payment stablecoin regulatory regime that is certified under section 4(b), such issuer shall comply with any obligations of the host State’s payment stablecoin regulatory regime that exceed those of such issuer’s home State regulatory regime;
     - **(C)** where the host State does not maintain a payment stablecoin regulatory regime that is certified under section 4(b), such State qualified payment stablecoin issuer shall remain subject to all applicable consumer protection laws of such host State; and
     - **(D)** where the host State maintains a payment stablecoin regulatory regime that is certified under section 4(b), such State qualified payment stablecoin issuer shall remain subject to applicable consumer protection laws of such host State, but only to the same extent as State qualified payment stablecoin issuers chartered or licensed in that host State.
 
 ## § 8. Customer protection
 
-- **(a)** *In general* A person may only engage in the business of providing custodial or safekeeping services for permitted payment stablecoins, reserves described in section 4(a)(1)(A), or private keys of permitted payment stablecoins, if the person—
+- **(a)** *In general* A person may only engage in the business of providing custodial or safekeeping services for payment stablecoins issued by permitted payment stablecoin issuers, reserves described in section 4(a)(1)(A), or private keys of payment stablecoins issued by permitted payment stablecoin issuers, if the person—
   - **(1)** is subject to—
     - **(A)** supervision or regulation by a primary Federal payment stablecoin regulator or a primary financial regulatory agency described under subparagraph (B) or (C) of section 2(12) of the Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5301(12)); or
     - **(B)** supervision by a State bank supervisor, as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813) or a State credit union supervisor, as defined in section 6003 of the Anti-Money Laundering Act of 2020 (31 U.S.C. 5311 note), and such State bank supervisor or State credit union supervisor makes available to the Board such information as the Board determines necessary and relevant to the categories of information under subsection (d); and
@@ -364,19 +376,20 @@ In this Act:
   - **(2)** take such steps as are appropriate to protect the payment stablecoins, private keys, cash, and other property of a customer from the claims of creditors of the person.
 - **(c)** *Commingling prohibited*
   - **(1)** *In general* Payment stablecoins, cash, and other property of a customer shall be separately accounted for by a person described in subsection (a) and shall not be commingled with the funds of the person.
-  - **(2)** *Customer priority* The claims of a customer with respect to property of the customer shall have priority over the claims of a payment stablecoin issuer or any creditor of a payment stablecoin issuer unless the customer expressly consents otherwise.
+  - **(2)** *Customer priority* In any insolvency, claims against reserves of a payment stablecoin issuer from persons holding payment stablecoins issued by the payment stablecoin issuer shall have priority over all other claims, other than for administrative expenses, against the payment stablecoin issuer.
   - **(3)** *Exception* Notwithstanding paragraph (1)—
-    - **(A)** the payment stablecoins, cash, and other property of a customer may be commingled and deposited in an omnibus account holding the payment stablecoins, cash, and other property of more than 1 customer at an insured depository institution or trust company;
-    - **(B)** such share of the payment stablecoins, cash, and other property of the customer that shall be necessary to transfer, adjust, or settle a transaction or transfer of assets may be withdrawn and applied to such purposes, including the payment of commissions, taxes, storage, and other charges lawfully accruing in connection with the provision of services by a person described in subsection (a); and
-    - **(C)** in accordance with such terms and conditions as the Board may prescribe by rule, regulation, or order, any customer payment stablecoin, cash, and other property described in this subsection may be commingled and deposited in customer accounts with payment stablecoins, cash, and other property received by the person and required by the Board to be separately accounted for, treated, and dealt with as belonging to customers.
+    - **(A)** the payment stablecoins, cash, and other property of a customer may be commingled and deposited in an omnibus account holding the payment stablecoins, cash, and other property of more than 1 customer at a depository institution (as defined in section 3 of the Federal Deposit Insurance Act), trust company, Federal credit union, or State credit union;
+    - **(B)** such share of the payment stablecoins, cash, and other property of the customer that shall be necessary to transfer, adjust, or settle a transaction or transfer of assets may be withdrawn and applied to such purposes, including the payment of commissions, taxes, storage, and other charges lawfully accruing in connection with the provision of services by a person described in subsection (a);
+    - **(C)** in accordance with such terms and conditions as the Board may prescribe by rule, regulation, or order, any customer payment stablecoin, cash, and other property described in this subsection may be commingled and deposited in customer accounts with payment stablecoins, cash, and other property received by the person and required by the Board to be separately accounted for, treated, and dealt with as belonging to customers; and
+    - **(D)** an insured depository institution that provides custodial or safekeeping services for payment stablecoin reserves shall be permitted to hold payment stablecoin reserves in the form of cash on deposit.
 - **(d)** *Regulatory information* A person described under subsection (a) shall submit to the primary Federal payment stablecoin regulator (or, if the person does not have a primary Federal payment stablecoin regulator, to the Board) information concerning the person’s business operations and processes to protect customer payment stablecoins, cash, and other property, in such form and manner as the primary Federal payment stablecoin regulator (or, if the person does not have a primary Federal payment stablecoin regulator, the Board) shall determine.
 - **(e)** *Exclusion* The requirements of this section shall not apply to any person solely on the basis that such person engages in the business of providing hardware or software to facilitate a customer’s own custody or safekeeping of the customer’s payment stablecoins or private keys.
 
 ## § 9. Rule of construction
 
-A digital asset shall not be construed to be a payment stablecoin, if it is—
+A digital asset shall not be construed to be a payment stablecoin if it is—
 
-- **(1)** redeemable by the issuer exclusively for other digital assets, provided that such digital assets for which it is redeemable are not primarily—
+- **(1)** redeemable exclusively for other digital assets, provided that such digital assets for which it is redeemable are not primarily—
   - **(A)** payment stablecoins; or
   - **(B)** representations of permissible reserves described under section 4(a)(1)(A) or similar such assets; or
 - **(2)** primarily used within a system controlled by such digital asset’s issuer as a means of accessing products, services, or loyalty rewards.
@@ -385,7 +398,7 @@ A digital asset shall not be construed to be a payment stablecoin, if it is—
 
 - **(a)** *In general* The primary Federal payment stablecoin regulators, in consultation with the National Institute of Standards and Technology, other relevant standard setting organizations, and State governments—
   - **(1)** shall assess compatibility and interoperability standards for permitted payment stablecoin issuers; and
-  - **(2)** if necessary, may, pursuant to section 553 of title 5 and in a manner consistent with the National Technology Transfer and Advancement Act of 1995 (Public Law 104–113), prescribe standards for payment stablecoin issuers to promote compatibility and interoperability.
+  - **(2)** if necessary, may, pursuant to section 553 of title 5, United States Code, and in a manner consistent with the National Technology Transfer and Advancement Act of 1995 (Public Law 104–113), prescribe standards for payment stablecoin issuers to promote compatibility and interoperability.
 - **(b)** *Agreements with foreign regulators* The Secretary of the Treasury shall seek to enter into agreements with foreign jurisdictions with comparable payment stablecoin regulatory regimes to facilitate international transactions and interoperability with any United States dollar-denominated payment stablecoins issued overseas.
 
 ## § 11. Moratorium on endogenously collateralized stablecoins
@@ -405,7 +418,15 @@ A digital asset shall not be construed to be a payment stablecoin, if it is—
   - **(4)** nature of reserve compositions;
   - **(5)** governance structure, including aspects of decentralization;
   - **(6)** nature of public promotion and advertising; and
-  - **(7)** clarity and availability of consumer notices disclosures.
+  - **(7)** clarity and availability of consumer notices and disclosures.
+- **(c)** *Impact study*
+  - **(1)** *In general* The Secretary of the Treasury, in consultation with the Board, the Comptroller, the Corporation, the National Credit Union Administration, and the Securities and Exchange Commission, shall carry out a study on the impact of payment stablecoins.
+  - **(2)** *Report* Not later than 365 days after the date of enactment of this Act, the Secretary shall provide the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report containing all findings made in carrying out the study under paragraph (1), including an analysis of—
+    - **(A)** the impact of payment stablecoins on the cost of domestic and cross-border payments and remittances;
+    - **(B)** the role of payment stablecoins in providing access to a stable currency in the Global South;
+    - **(C)** the use of payment stablecoins by populations in the Global South to mitigate exposure to the effects of inflation;
+    - **(D)** the extent to which payment stablecoin adoption reinforces the role of the United States dollar as the world’s reserve currency; and
+    - **(E)** the extent to which payment stablecoins may expand demand for United States Treasury securities and reduce the cost of United States Government borrowing.
 
 ## § 13. Report on rulemaking status
 
@@ -413,19 +434,19 @@ Not later than 6 months after the date of enactment of this Act, the primary Fed
 
 ## § 14. Authority of banking institutions
 
-- **(a)** *Rule of construction* Nothing in this Act may be construed to limit the authority of a depository institution, Federal credit union, State credit union, or trust company to engage in activities permissible pursuant to applicable State and Federal law, including—
+- **(a)** *Rule of construction* Nothing in this Act may be construed to limit the authority of a depository institution, national bank, Federal credit union, State credit union, or trust company to engage in activities permissible pursuant to applicable State and Federal law, including—
   - **(1)** accepting or receiving deposits and issuing digital assets that represent deposits;
   - **(2)** utilizing a distributed ledger for the books and records of the entity and to affect intrabank transfers; and
   - **(3)** providing custodial services for payment stablecoins, private keys of payment stablecoins, or reserves backing payment stablecoins.
 - **(b)** *Regulatory review* The primary Federal payment stablecoin regulators shall review all existing regulations and guidance and, if necessary, amend such regulations or guidance or issue new regulations or guidance to clarify that regulated entities can engage in the payment stablecoin activities contemplated in, and in accordance with, this Act.
 - **(c)** *Treatment of custody activities* The appropriate Federal banking agency, the National Credit Union Administration (in the case of a credit union), and the Securities and Exchange Commission may not require a depository institution, national bank, Federal credit union, State credit union, or trust company, or any affiliate thereof (the “entity”)—
-  - **(1)** to include assets held in custody that are not owned by the entity as a liability on the financial statement or balance sheet of the entity, including payment stablecoin custody or safekeeping activities;
-  - **(2)** to hold additional regulatory capital against assets in custody or safekeeping, except as necessary to mitigate against operational risks inherent with the custody or safekeeping services, as determined by—
+  - **(1)** to include assets held in custody that are not owned by the entity as a liability on the financial statement or balance sheet of the entity, including payment stablecoin custody or safekeeping services;
+  - **(2)** to hold regulatory capital against assets, including reserves backing such assets described in section 4(a)(1)(A), in custody or safekeeping, except as necessary to mitigate against operational risks inherent with the custody or safekeeping services, as determined by—
     - **(A)** the appropriate Federal banking agency;
     - **(B)** the National Credit Union Administration (in the case of a credit union);
     - **(C)** a State bank supervisor (as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)); or
-    - **(D)** a State credit union supervisor (as defined in section 6003 of the Anti-Money Laundering Act of 2020 (31 U.S.C. 5311 note));
-  - **(3)** to recognize a liability for any obligations related to activities or services performed for digital assets that the entity does not own if that liability would exceed the expense recognized in the income statement as a result of the corresponding obligation.
+    - **(D)** a State credit union supervisor (as defined in section 6003 of the Anti-Money Laundering Act of 2020 (31 U.S.C. 5311 note)); and
+  - **(3)** to recognize a liability for any obligations related to activities or services performed with respect to digital assets that the entity does not own if that liability would exceed the expense recognized in the income statement as a result of the corresponding obligation.
 - **(d)** *Depository institution defined* In this section, the term “depository institution” has the meaning given that term in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813).
 
 ## § 15. Amendments to clarify that payment stablecoins are not securities
