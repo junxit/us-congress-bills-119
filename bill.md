@@ -26,10 +26,10 @@ Congress finds the following:
 
 - **(a)** *In general* Section 704B of the Equal Credit Opportunity Act (15 U.S.C. 1691c–2) is repealed.
 - **(b)** *Conforming amendments*
-  - **(1)** *Dodd-Frank Wall Street Reform and Consumer Protection Act* The Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5301 et seq.) is amended—
+  - **(1)** *Dodd-Frank Wall Street Reform and Consumer Protection Act amendments* The Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5301 et seq.) is amended—
     - **(A)** in the table of contents in section 1(b) of such Act, by striking the item relating to section 1071; and
     - **(B)** by striking section 1071.
-  - **(2)** *Equal Credit Opportunity Act* The Equal Credit Opportunity Act (15 U.S.C. 1691 et seq.) is amended—
+  - **(2)** *Equal Credit Opportunity Act amendments* The Equal Credit Opportunity Act (15 U.S.C. 1691 et seq.) is amended—
     - **(A)** in the table of contents for such Act, by striking the item relating to section 704B; and
     - **(B)** in section 701(b)—
       - **(i)** in paragraph (3), by adding “or” at the end;

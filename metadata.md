@@ -1,7 +1,7 @@
 ---
 measure: H.R. 976
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 976
@@ -16,7 +16,7 @@ version: Introduced in House
 
 - Rep. Williams, Roger [R-TX-25] (W000816)
 
-## Cosponsors (29)
+## Cosponsors (52)
 
 - Rep. Huizenga, Bill [R-MI-4] (H001058)
 - Rep. Flood, Mike [R-NE-1] (F000474)
@@ -47,6 +47,29 @@ version: Introduced in House
 - Rep. Gill, Brandon [R-TX-26] (G000603)
 - Rep. Taylor, David [R-OH-2] (T000490)
 - Rep. Van Duyne, Beth [R-TX-24] (V000134)
+- Rep. Hageman, Harriet M. [R-WY-At Large] (H001096)
+- Rep. Murphy, Gregory F. [R-NC-3] (M001210)
+- Rep. Graves, Sam [R-MO-6] (G000546)
+- Rep. Guest, Michael [R-MS-3] (G000591)
+- Rep. Sessions, Pete [R-TX-17] (S000250)
+- Rep. Schmidt, Derek [R-KS-2] (S001228)
+- Rep. Fitzgerald, Scott [R-WI-5] (F000471)
+- Rep. Palmer, Gary J. [R-AL-6] (P000609)
+- Rep. Stutzman, Marlin A. [R-IN-3] (S001188)
+- Rep. Kelly, Trent [R-MS-1] (K000388)
+- Rep. Johnson, Dusty [R-SD-At Large] (J000301)
+- Rep. Mann, Tracey [R-KS-1] (M000871)
+- Rep. Smith, Adrian [R-NE-3] (S001172)
+- Rep. Cloud, Michael [R-TX-27] (C001115)
+- Rep. Goldman, Craig [R-TX-12] (G000601)
+- Rep. Carter, John R. [R-TX-31] (C001051)
+- Rep. Self, Keith [R-TX-3] (S001224)
+- Rep. Lawler, Michael [R-NY-17] (L000599)
+- Rep. Rose, John W. [R-TN-6] (R000612)
+- Rep. Miller-Meeks, Mariannette [R-IA-1] (M001215)
+- Rep. Van Drew, Jefferson [R-NJ-2] (V000133)
+- Rep. Alford, Mark [R-MO-4] (A000379)
+- Rep. Wied, Tony [R-WI-8] (W000829)
 
 ## Committees (1)
 
@@ -57,3 +80,8 @@ version: Introduced in House
 - 2025-02-04 — Introduced in House
 - 2025-02-04 — Introduced in House
 - 2025-02-04 — Referred to the House Committee on Financial Services.
+- 2025-04-02 — Committee Consideration and Mark-up Session Held
+- 2025-04-02 — Ordered to be Reported (Amended) by the Yeas and Nays: 27 - 22.
+- 2025-05-06 — Placed on the Union Calendar, Calendar No. 65.
+- 2025-05-06 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-91.
+- 2025-05-06 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-91.
