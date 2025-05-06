@@ -23,12 +23,12 @@ The Federal banking agencies shall issue rules that provide for a 3-year phase-i
 ## § 3. Changes to business plans
 
 - **(a)** *In general* During the 3-year period beginning on the date on which a depository institution became an insured depository institution, the insured depository institution or its depository institution holding company may request to deviate from a business plan that has been approved by the appropriate Federal banking agency by submitting a request to such agency pursuant to this section.
-- **(b)** *Review of changes* An appropriate Federal banking agency shall, not later than the end of the 30-day period beginning on the receipt of a request under subsection (a)—
+- **(b)** *Review of changes* The appropriate Federal banking agency shall, not later than the end of the 30-day period beginning on the receipt of a request under subsection (a)—
   - **(1)** approve, conditionally approve, or deny such request; and
   - **(2)** notify the applicant of such decision and, if the agency denies the request—
     - **(A)** provide the applicant with the reason for such denial; and
     - **(B)** suggest changes to the request that, if adopted, would allow the agency to approve such request.
-- **(c)** *Result of failure To act* If an appropriate Federal banking agency fails to approve or deny a request within the 30-day period required under subsection (b), such request shall be deemed to be approved.
+- **(c)** *Result of failure to act* If an appropriate Federal banking agency fails to approve or deny a request within the 30-day period required under subsection (b), such request shall be deemed to be approved.
 
 ## § 4. Rural community depository institution leverage ratio
 
