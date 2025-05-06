@@ -1,7 +1,7 @@
 ---
 measure: H.R. 530
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 530
@@ -53,9 +53,10 @@ ACES Act
 - Rep. Ciscomani, Juan [R-AZ-6] (C001133)
 - Rep. Crow, Jason [D-CO-6] (C001121)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -79,3 +80,4 @@ ACES Act
 - 2025-05-05 — Mr. Bergman moved to suspend the rules and pass the bill, as amended.
 - 2025-05-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 376 - 5 (Roll no. 115). (text: CR H1815)
 - 2025-05-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 376 - 5 (Roll no. 115). (text: CR H1815: 6)
+- 2025-05-06 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
