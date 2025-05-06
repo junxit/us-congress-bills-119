@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 13
 congress: 119
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 13
@@ -16,16 +16,28 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Sen. Kennedy, John [R-LA] (K000393)
 
-## Cosponsors (2)
+## Cosponsors (5)
 
 - Sen. Hagerty, Bill [R-TN] (H000601)
 - Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Moreno, Bernie [R-OH] (M001242)
 
 ## Committees (1)
 
 - Senate — Banking, Housing, and Urban Affairs Committee
 
+## Recorded votes (1)
+
+- 2025-05-06 — [Senate 119-1-233](votes/senate-119-1-0233.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (53–46)
+
 ## Actions
 
 - 2025-02-04 — Introduced in Senate
 - 2025-02-04 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2025-05-06 — Measure laid before Senate by motion. (consideration: CR S2769)
+- 2025-05-06 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 53 - 46. Record Vote Number: 233.
+- 2025-05-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 69.
+- 2025-05-06 — Senate Committee on Banking, Housing, and Urban Affairs discharged by petition pursuant to 5 U.S.C. 802(c).
+- 2025-05-06 — Senate Committee on Banking, Housing, and Urban Affairs discharged by petition pursuant to 5 U.S.C. 802(c).
