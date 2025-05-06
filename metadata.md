@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1512
 congress: 119
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1512
@@ -39,3 +39,14 @@ Taiwan Assurance Implementation Act
 - 2025-05-05 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1822)
 - 2025-05-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1822: 1)
 - 2025-05-06 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
+- 2025-11-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8208)
+- 2025-11-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2025-11-18 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2025-11-18 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2025-11-19 — Message on Senate action sent to the House.
+- 2025-11-21 — Presented to President.
+- 2025-11-21 — Presented to President.
+- 2025-12-02 — Became Public Law No: 119-45.
+- 2025-12-02 — Became Public Law No: 119-45.
+- 2025-12-02 — Signed by President.
+- 2025-12-02 — Signed by President.
