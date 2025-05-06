@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2416
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2416
@@ -31,9 +31,10 @@ Taiwan International Solidarity Act
 - Rep. Bell, Wesley [D-MO-1] (B001324)
 - Rep. Case, Ed [D-HI-1] (C001055)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Taiwan International Solidarity Act
 - 2025-05-05 — Mr. Mast moved to suspend the rules and pass the bill.
 - 2025-05-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1836)
 - 2025-05-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1836)
+- 2025-05-06 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
