@@ -1,0 +1,28 @@
+---
+legis-num: H. CON. RES. 30
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. CON. RES. 30
+
+> Expressing support for local law enforcement officers.
+
+## Preamble
+
+- Whereas the brave men and women in local law enforcement work tirelessly to protect the communities they serve;
+- Whereas local law enforcement officers are tasked with upholding the rule of law and ensuring public safety;
+- Whereas local law enforcement officers selflessly put themselves in harm’s way to fight crime, get drugs off the streets, and protect the innocent;
+- Whereas local law enforcement officers take an oath to never betray the public trust;
+- Whereas the local law enforcement community protects our streets, acknowledges the rights of all Americans, and keeps citizens safe from harm;
+- Whereas local law enforcement officers are recognized for their public service to all, knowing they face extremely dangerous situations while carrying out their duties;
+- Whereas a healthy and collaborative relationship between local law enforcement officers and the communities they serve is essential to creating mutually respectful dialogue; and
+- Whereas local law enforcement officers and their families deserve respect, appreciation, and support for their sacrifices and commitment to public service: Now, therefore, be it
+
+That Congress—
+
+- **(1)** recognizes and appreciates the dedication and devotion demonstrated by the men and women of local law enforcement who keep the Nation’s communities safe;
+- **(2)** extends its gratitude to all local law enforcement officers and their families for their sacrifice and service;
+- **(3)** honors the memory of those local law enforcement officers who have fallen in the line of duty; and
+- **(4)** encourages continued collaboration between local law enforcement agencies and the communities they serve to strengthen public safety and trust.
