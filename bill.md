@@ -1,0 +1,26 @@
+---
+legis-num: H.R. 3208
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3208
+
+> To limit funds to the United Nations and other organizations that provide any status, rights, or privileges beyond observer status to the Palestine Liberation Organization, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “No Official Palestine Entry Act of 2025”.
+
+## § 2. Modification with respect to membership of Palestine Liberation Organization in United Nations agencies
+
+Section 414(a) of the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991 (22 U.S.C. 287e note; Public Law 101–246) is amended by striking “the same standing as member states” and inserting “any status, rights, or privileges beyond observer status”.
+
+## § 3. Amendments to limitations on contributions to the United Nations and affiliated organizations
+
+Section 410 of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 (22 U.S.C. 287e note; Public Law 103–236) is amended by striking “full membership” each place it appears and inserting “any status, rights, or privileges beyond observer status”.
+
+## § 4. Rule of construction
+
+Nothing is this Act shall be construed to apply to Taiwan.
