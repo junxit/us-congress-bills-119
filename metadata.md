@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1800
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1800
@@ -21,13 +21,14 @@ Solidify Iran Sanctions Act of 2025
 - Rep. Gillen, Laura [D-NY-4] (G000602)
 - Rep. Sherman, Brad [D-CA-32] (S000344)
 
-## Committees (5)
+## Committees (6)
 
 - House — Oversight and Government Reform Committee
 - House — Judiciary Committee
 - House — Ways and Means Committee
 - House — Financial Services Committee
 - House — Foreign Affairs Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Solidify Iran Sanctions Act of 2025
 - 2025-05-05 — Mr. Mast moved to suspend the rules and pass the bill.
 - 2025-05-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1838)
 - 2025-05-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1838)
+- 2025-05-06 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
