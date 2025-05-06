@@ -1,7 +1,7 @@
 ---
 measure: H.R. 36
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 36
@@ -60,3 +60,4 @@ MEGOBARI Act
 - 2025-05-05 — Mr. Mast moved to suspend the rules and pass the bill.
 - 2025-05-05 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 349 - 42 (Roll no. 116). (text: CR H1824-1826)
 - 2025-05-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 349 - 42 (Roll no. 116). (text: CR H1824-1826)
+- 2025-05-06 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 70.
