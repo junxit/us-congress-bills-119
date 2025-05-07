@@ -1,0 +1,24 @@
+---
+legis-num: S. 1643
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1643
+
+> To amend title XVIII of the Social Security Act to protect patient access to ground ambulance services under the Medicare program.
+
+## § 1. Short title
+
+This Act may be cited as the “Protecting Access to Ground Ambulance Medical Services Act of 2025”.
+
+## § 2. Protecting patient access to Medicare ground ambulance services
+
+- **(a)** *Super rural ambulance* Section 1834(l)(12)(A) of the Social Security Act (42 U.S.C. 1395m(l)(12)(A)) is amended—
+  - **(1)** in the first sentence, by striking “October 1, 2025” and inserting “January 1, 2028”; and
+  - **(2)** by adding at the end the following new sentence: “In the case of services furnished on or after October 1, 2025, and before January 1, 2028, such percent increase shall be 26.7 percent.”.
+- **(b)** *Ground ambulance* Section 1834(l)(13)(A) of the Social Security Act (42 U.S.C. 1395m(l)(13)(A)) is amended—
+  - **(1)** in the matter preceding clause (i), by striking “October 1, 2025” and inserting “January 1, 2028”;
+  - **(2)** in clause (i), by inserting “, or 4.3 percent if such service is furnished on or after October 1, 2025, and before January 1, 2028” after “2025”; and
+  - **(3)** in clause (ii), by inserting “, or 3.4 percent if such service is furnished on or after October 1, 2025, and before January 1, 2028” after “2025”.
