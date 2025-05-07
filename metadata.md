@@ -1,7 +1,7 @@
 ---
 measure: H.R. 881
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 881
@@ -28,6 +28,10 @@ DHS Restrictions on Confucius Institutes and Chinese Entities of Concern Act
 
 - House — Homeland Security Committee
 
+## Recorded votes (1)
+
+- 2025-05-07 — [House 119-1-120](votes/house-119-1-0120.md) — On Passage — **Passed** (266–153)
+
 ## Actions
 
 - 2025-01-31 — Introduced in House
@@ -41,3 +45,17 @@ DHS Restrictions on Confucius Institutes and Chinese Entities of Concern Act
 - 2025-05-05 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 119-87.
 - 2025-05-05 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 119-87.
 - 2025-05-05 — Rules Committee Resolution H. Res. 377 Reported to House. Rule provides for consideration of H.R. 276 and H.R. 881. The resolution provides for consideration of H.R. 276 and H.R. 881 under a closed rule with one hour of debate and one motion to recommit on each bill.
+- 2025-05-06 — Rule H. Res. 377 passed House.
+- 2025-05-07 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2025-05-07 — Considered as unfinished business. (consideration: CR H1895-1896)
+- 2025-05-07 — Considered under the provisions of rule H. Res. 377. (consideration: CR H1891-1894)
+- 2025-05-07 — DEBATE - The House proceeded with one hour of debate on H.R. 881.
+- 2025-05-07 — House amendment considered as adopted: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2025-05-07 — House amendment offered/reported by: Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2025-05-07 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-05-07 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2025-05-07 — On passage Passed by the Yeas and Nays: 266 - 153 (Roll no. 120). (text of amendment in the nature of a substitute: CR H1891)
+- 2025-05-07 — POSTPONED PROCEEDINGS - At the conclusion of debate of H.R. 881, the Chair put the question on passage of the bill and by voice vote announced that the ayes had prevailed. Mr. Pfluger demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2025-05-07 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 266 - 153 (Roll no. 120). (text of amendment in the nature of a substitute: CR H1891)
+- 2025-05-07 — Rule provides for consideration of H.R. 276 and H.R. 881. The resolution provides for consideration of H.R. 276 and H.R. 881 under a closed rule with one hour of debate and one motion to recommit on each bill.
+- 2025-05-07 — The previous question was ordered pursuant to the rule.
