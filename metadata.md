@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 13
 congress: 119
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 13
@@ -28,9 +28,10 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Senate — Banking, Housing, and Urban Affairs Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2025-05-06 — Senate 119-1-233 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00233.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00233.xml answered HTTP 403
+- 2025-05-07 — Senate 119-1-237 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00237.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00237.xml answered HTTP 403
 
 ## Actions
 
@@ -41,3 +42,6 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - 2025-05-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 69.
 - 2025-05-06 — Senate Committee on Banking, Housing, and Urban Affairs discharged by petition pursuant to 5 U.S.C. 802(c).
 - 2025-05-06 — Senate Committee on Banking, Housing, and Urban Affairs discharged by petition pursuant to 5 U.S.C. 802(c).
+- 2025-05-07 — Considered by Senate. (consideration: CR S2789, S2789-2796)
+- 2025-05-07 — Passed Senate without amendment by Yea-Nay Vote. 52 - 47. Record Vote Number: 237. (text: CR S2793)
+- 2025-05-07 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 52 - 47. Record Vote Number: 237.
