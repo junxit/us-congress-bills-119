@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 7
 congress: 119
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 7
@@ -39,6 +39,11 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Senate — Commerce, Science, and Transportation Committee
 
+## Recorded votes (2)
+
+- 2025-05-06 — [Senate 119-1-235](votes/senate-119-1-0235.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (53–47)
+- 2025-05-08 — [Senate 119-1-238](votes/senate-119-1-0238.md) — On the Joint Resolution — **Joint Resolution Passed** (50–38)
+
 ## Actions
 
 - 2025-01-27 — Introduced in Senate
@@ -46,3 +51,9 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - 2025-03-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 24.
 - 2025-03-05 — Senate Committee on Commerce, Science, and Transportation discharged, by petition, pursuant to 5 U.S.C. 802(c).
 - 2025-03-05 — Senate Committee on Commerce, Science, and Transportation discharged, by petition, pursuant to 5 U.S.C. 802(c).
+- 2025-05-06 — Measure laid before Senate by motion. (consideration: CR S2770-2772)
+- 2025-05-06 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 53 - 47. Record Vote Number: 235.
+- 2025-05-08 — Considered by Senate. (consideration: CR S2807, S2813)
+- 2025-05-08 — Message on Senate action sent to the House.
+- 2025-05-08 — Passed Senate without amendment by Yea-Nay Vote. 50 - 38. Record Vote Number: 238. (text: CR S2813)
+- 2025-05-08 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 50 - 38. Record Vote Number: 238.
