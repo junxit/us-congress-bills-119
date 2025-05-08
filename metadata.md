@@ -1,7 +1,7 @@
 ---
 measure: H.R. 881
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 881
@@ -24,9 +24,10 @@ DHS Restrictions on Confucius Institutes and Chinese Entities of Concern Act
 - Rep. Luttrell, Morgan [R-TX-8] (L000603)
 - Rep. Joyce, John [R-PA-13] (J000302)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -59,3 +60,4 @@ DHS Restrictions on Confucius Institutes and Chinese Entities of Concern Act
 - 2025-05-07 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 266 - 153 (Roll no. 120). (text of amendment in the nature of a substitute: CR H1891)
 - 2025-05-07 — Rule provides for consideration of H.R. 276 and H.R. 881. The resolution provides for consideration of H.R. 276 and H.R. 881 under a closed rule with one hour of debate and one motion to recommit on each bill.
 - 2025-05-07 — The previous question was ordered pursuant to the rule.
+- 2025-05-08 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
