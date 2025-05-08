@@ -1,0 +1,25 @@
+---
+legis-num: S. 1704
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1704
+
+> To amend the Internal Revenue Code of 1986 to conform to the intent of the Internal Revenue Service Restructuring and Reform Act of 1998, as set forth in the joint explanatory statement of the committee of conference accompanying Conference Report 105–599, that the National Taxpayer Advocate be able to hire and consult counsel as appropriate.
+
+## § 1. Short title
+
+This Act may be cited as the “National Taxpayer Advocate Enhancement Act of 2025”.
+
+## § 2. Authority of Taxpayer Advocate to appoint counsel
+
+- **(a)** *In general* Section 7803(c)(2)(D)(i) of the Internal Revenue Code of 1986 is amended—
+  - **(1)** by striking “and” at the end of subclause (I),
+  - **(2)** by redesignating subclause (II) as subclause (III), and
+  - **(3)** by inserting after subclause (I) the following new subclause:
+    > - **(II)** appoint counsel in the Office of the Taxpayer Advocate to report directly to the National Taxpayer Advocate, or delegate thereof; and
+
+- **(b)** *Conforming amendment* Subclause (III) of section 7803(c)(2)(D)(i) of such Code, as redesignated by subsection (a), is amended by striking “any employee of any local office of a taxpayer advocate described in subclause (I)” and inserting “any employee of the Office of the Taxpayer Advocate”.
+- **(c)** *Effective date* The amendments made by this section shall take effect as if included in the enactment of section 1102 of the Internal Revenue Service Restructuring and Reform Act of 1998.
