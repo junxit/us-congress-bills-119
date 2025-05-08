@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 3303
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3303
+
+> To require an exception to the license requirements for the exportation of certain advanced integrated circuits to Israel, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “America—Israel AI Cooperation Act”.
+
+## § 2. Directed rulemaking with respect to advanced integrated circuit exportation to Israel
+
+Notwithstanding any other provision of law, in finalizing the interim rule titled “Framework for Artificial Intelligence Diffusion” (90 Fed. Reg. 4544) the Secretary of Commerce, acting through the Undersecretary of Commerce for Industry and Security, shall modify the rule to—
+
+- **(1)** include Israel in the list of countries set forth in the amendment made by such rule to Supplement No. 5 to part 740 of title 15, Code of Federal Regulations; and
+- **(2)** otherwise ensure that exports to Israel of the items controlled pursuant to such rule are subject to the same requirements and exceptions as exports to any of the countries otherwise included in such supplement pursuant to the amendment made by such rule.
