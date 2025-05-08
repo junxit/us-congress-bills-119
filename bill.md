@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 3290
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3290
+
+> To designate the Museum of Pop Culture in Seattle, Washington, as the “National Museum of Pop Culture”.
+
+## § 1. Short title
+
+This Act may be cited as the “National Museum of Pop Culture Act”.
+
+## § 2. Designation of national museum of pop culture in seattle, washington
+
+- **(a)** *Designation* The Museum of Pop Culture located in Seattle, Washington, is designated as the “National Museum of Pop Culture”.
+- **(b)** *Effect of designation* The National Museum of Pop Culture designated by subsection (a) is not a unit of the National Park System and the designation shall not be construed to require or permit Federal funds to be expended for any purpose related to the museum.
