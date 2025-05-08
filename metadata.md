@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1503
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1503
@@ -20,10 +20,11 @@ Stop Forced Organ Harvesting Act of 2025
 
 - Rep. Keating, William R. [D-MA-9] (K000375)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -43,3 +44,4 @@ Stop Forced Organ Harvesting Act of 2025
 - 2025-05-07 — Motion to reconsider laid on the table Agreed to without objection.
 - 2025-05-07 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 406 - 1 (Roll no. 119). (text: 5/5/2025 CR H1819-1820)
 - 2025-05-07 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 406 - 1 (Roll no. 119). (text: 5/5/2025 CR H1819-1820)
+- 2025-05-08 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
