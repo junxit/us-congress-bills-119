@@ -1,7 +1,7 @@
 ---
 measure: S. 612
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 612
@@ -28,3 +28,7 @@ A bill to amend the Native American Tourism and Improving Visitor Experience Act
 
 - 2025-02-18 — Introduced in Senate
 - 2025-02-18 — Read twice and referred to the Committee on Indian Affairs.
+- 2025-03-05 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2025-05-08 — Committee on Indian Affairs. Reported by Senator Murkowski without amendment. With written report No. 119-20.
+- 2025-05-08 — Committee on Indian Affairs. Reported by Senator Murkowski without amendment. With written report No. 119-20.
+- 2025-05-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 72.
