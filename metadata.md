@@ -1,7 +1,7 @@
 ---
 measure: H.R. 276
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 276
@@ -74,3 +74,4 @@ Gulf of America Act
 - 2025-05-08 — Rule provides for consideration of H.R. 276 and H.R. 881. The resolution provides for consideration of H.R. 276 and H.R. 881 under a closed rule with one hour of debate and one motion to recommit on each bill.
 - 2025-05-08 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2025-05-08 — The previous question was ordered pursuant to the rule.
+- 2025-05-12 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 73.
