@@ -1,7 +1,7 @@
 ---
 measure: S. 719
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 719
@@ -28,3 +28,7 @@ Tribal Forest Protection Act Amendments Act of 2025
 
 - 2025-02-25 — Introduced in Senate
 - 2025-02-25 — Read twice and referred to the Committee on Indian Affairs.
+- 2025-03-05 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2025-05-12 — Committee on Indian Affairs. Reported by Senator Murkowski without amendment. With written report No. 119-23.
+- 2025-05-12 — Committee on Indian Affairs. Reported by Senator Murkowski without amendment. With written report No. 119-23.
+- 2025-05-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 76.
