@@ -116,9 +116,9 @@ Section 7(a) (16 U.S.C. 973e(a)) is amended by striking “section 5(a) (8), (10
     - **(A)** in subparagraph (A), by striking “paragraph 2 of Article 3 of”; and
     - **(B)** in subparagraph (C), by striking “within the Treaty Area” and inserting “under the jurisdiction”; and
   - **(3)** in paragraph (2)—
-    - **(A)** in subparagraph (A), by striking “section 5 (a)(4), (a)(5), (b)(2), or (b)(3)” and inserting “paragraph (4) of section 5(a) or paragraphs (2) or (3) of section 5(b)”;
+    - **(A)** in subparagraph (A), by striking “section 5 (a)(4), (a)(5), (b)(2), or (b)(3)” and inserting “paragraph (3) of section 5(a) or paragraph (2) or (3) of section 5(b)”;
     - **(B)** in subparagraph (B), by striking “(7)” and inserting “(6)”; and
-    - **(C)** in subparagraph (C), by striking “(7)” and inserting “(6)”.
+    - **(C)** in subparagraph (C), by striking “(7)” and inserting “(5)”.
 - **(b)** *Order of vessel To leave waters where Pacific Island Party investigating alleged Treaty infringement* Section 11(b) (16 U.S.C. 973i(b)) is amended by striking “paragraph 7 of Article 5 of”.
 
 ## § 11. Reporting requirements; disclosure of information
@@ -127,7 +127,7 @@ Section 12 (16 U.S.C. 973j) is amended to read as follows:
 
 > ## § 12. Reporting
 >
-> - **(a)** *Prohibited disclosure of certain information* The Secretary shall keep confidential and may not disclose the following information, except in accordance with subsection (b):
+> - **(a)** *Prohibited disclosure of certain information* Except as provided in subsection (b), the Secretary shall keep confidential and may not disclose the following information (and such information shall be exempt from disclosure under section 552(b)(3) of title 5, United States Code):
 >   - **(1)** Information provided to the Secretary by the Administrator that the Administrator has designated confidential.
 >   - **(2)** Information collected by observers.
 >   - **(3)** Information submitted to the Secretary by any person in compliance with the requirements of this Act.
@@ -141,6 +141,9 @@ Section 12 (16 U.S.C. 973j) is amended to read as follows:
 >   - **(5)** to the secretariat or equivalent of an international fisheries management organization of which the United States is a member, in accordance with the requirements or decisions of such organization, and insofar as possible, in accordance with an agreement that prevents public disclosure of the identity of any person that submits such information;
 >   - **(6)** if the Secretary has obtained written authorization from the person providing such information, and disclosure does not violate other requirements of this Act; or
 >   - **(7)** in an aggregate or summary form that does not directly or indirectly disclose the identity of any person that submits such information.
+> - **(c)** *Savings clause*
+>   - **(1)** *In general* Nothing in this section shall be construed to adversely affect the authority of Congress, including a Committee or Member thereof, to obtain any record or information.
+>   - **(2)** *No negative implication* The absence of a provision similar to paragraph (1) in any other provision of law shall not be construed to limit the ability of Congress, including a Committee or Member thereof, to obtain any record or information.
 
 ## § 12. Closed Area stowage requirements
 
@@ -177,9 +180,3 @@ Section 17 (16 U.S.C. 973o) is amended by striking “Article 4 of”.
 ## § 17. Additional agreements
 
 Section 18 (16 U.S.C. 973p) is amended by striking “Within 30 days after” and all that follows and inserting “The Secretary may establish procedures for review of any agreements for additional fishing access entered into pursuant to the Treaty.”.
-
-## § 18. Authorization of appropriations
-
-Section 20(a) (16 U.S.C. 973r(a)) is amended to read as follows:
-
-> - **(a)** There are authorized to be appropriated such sums as may be necessary for carrying out the purposes and provisions of the Treaty and this Act for fiscal year 2025 and each fiscal year thereafter.
