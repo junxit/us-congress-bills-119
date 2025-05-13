@@ -1,7 +1,7 @@
 ---
 measure: H.R. 677
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 677
@@ -30,3 +30,9 @@ EARA
 - 2025-05-05 — Placed on the Union Calendar, Calendar No. 63.
 - 2025-05-05 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-88.
 - 2025-05-05 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-88.
+- 2025-05-13 — Considered under suspension of the rules. (consideration: CR H1973-1974)
+- 2025-05-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 677.
+- 2025-05-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-05-13 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
+- 2025-05-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1973)
+- 2025-05-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1973)
