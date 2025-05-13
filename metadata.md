@@ -1,7 +1,7 @@
 ---
 measure: S. 1596
 congress: 119
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 1596
@@ -28,3 +28,7 @@ Jocelyn Nungaray National Wildlife Refuge Act
 
 - 2025-05-05 — Introduced in Senate
 - 2025-05-05 — Read twice and referred to the Committee on Environment and Public Works.
+- 2025-05-13 — Passed Senate without amendment by Voice Vote. (text: CR S2882)
+- 2025-05-13 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2025-05-13 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.
+- 2025-05-13 — Senate Committee on Environment and Public Works discharged by Unanimous Consent. (consideration: CR S2881-2882)
