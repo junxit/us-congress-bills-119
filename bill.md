@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 3335
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3335
+
+> To amend the Fair Labor Standards Act of 1938 to prohibit employment of children in tobacco-related agriculture by deeming such employment as oppressive child labor.
+
+## § 1. Short title
+
+This Act may be cited as “Children Don't Belong on Tobacco Farms Act”.
+
+## § 2. Tobacco-related agriculture employment of children
+
+Section 3(l) of the Fair Labor Standards Act of 1938 (29 U.S.C. 203(l)) is amended—
+
+- **(1)** in the first sentence—
+  - **(A)** by striking “in any occupation, or (2)” and inserting “in any occupation, (2)”; and
+  - **(B)** by inserting before the semicolon the following: “, or (3) any employee under the age of eighteen years has direct contact with tobacco plants or dried tobacco leaves”; and
+- **(2)** in the second sentence, by striking “other than manufacturing and mining” and inserting “, other than manufacturing, mining, and tobacco-related agriculture as described in paragraph (3) of the first sentence of this subsection,”.
