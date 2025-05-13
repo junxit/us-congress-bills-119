@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1612
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1612
@@ -25,3 +25,9 @@ Flatside Wilderness Additions Act
 - 2025-02-26 — Introduced in House
 - 2025-02-26 — Introduced in House
 - 2025-02-26 — Referred to the House Committee on Natural Resources.
+- 2025-05-13 — Considered under suspension of the rules. (consideration: CR H1966-1969)
+- 2025-05-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1612.
+- 2025-05-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-05-13 — Mr. Westerman moved to suspend the rules and pass the bill.
+- 2025-05-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1967)
+- 2025-05-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1967)
