@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1001
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1001
@@ -35,3 +35,9 @@ To provide for a memorandum of understanding to address the impacts of a certain
 - 2025-04-17 — Placed on the Union Calendar, Calendar No. 38.
 - 2025-04-17 — Reported by the Committee on Natural Resources. H. Rept. 119-61.
 - 2025-04-17 — Reported by the Committee on Natural Resources. H. Rept. 119-61.
+- 2025-05-13 — Considered under suspension of the rules. (consideration: CR H1972-1973)
+- 2025-05-13 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1001.
+- 2025-05-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-05-13 — Mr. Westerman moved to suspend the rules and pass the bill.
+- 2025-05-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1972)
+- 2025-05-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1972)
