@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1550
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1550
@@ -20,9 +20,10 @@ Strengthening America’s Turning Point Act
 
 - Rep. Tonko, Paul [D-NY-20] (T000469)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -35,3 +36,4 @@ Strengthening America’s Turning Point Act
 - 2025-05-13 — Mr. Westerman moved to suspend the rules and pass the bill.
 - 2025-05-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1974)
 - 2025-05-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1974)
+- 2025-05-14 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
