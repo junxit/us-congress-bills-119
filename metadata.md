@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2492
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2492
@@ -22,10 +22,11 @@ Fire Safe Electrical Corridors Act of 2025
 - Rep. Costa, Jim [D-CA-21] (C001059)
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 
-## Committees (2)
+## Committees (3)
 
 - House — Agriculture Committee
 - House — Natural Resources Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Fire Safe Electrical Corridors Act of 2025
 - 2025-05-13 — Mr. Westerman moved to suspend the rules and pass the bill.
 - 2025-05-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1983)
 - 2025-05-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1983)
+- 2025-05-14 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
