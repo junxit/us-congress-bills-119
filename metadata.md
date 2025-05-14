@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 24
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 24
@@ -29,3 +29,10 @@ Authorizing the use of Emancipation Hall in the Capitol Visitor Center for an ev
 - 2025-04-01 — Referred to the House Committee on House Administration.
 - 2025-04-01 — Submitted in House
 - 2025-04-01 — Submitted in House
+- 2025-05-14 — Committee on House Administration discharged.
+- 2025-05-14 — Committee on House Administration discharged.
+- 2025-05-14 — Considered by unanimous consent. (consideration: CR H2033)
+- 2025-05-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-05-14 — Mr. Steil asked unanimous consent to discharge from committee and consider.
+- 2025-05-14 — On agreeing to the resolution Agreed to without objection. (text: CR H2033)
+- 2025-05-14 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection. (text: CR H2033)
