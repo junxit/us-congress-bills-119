@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 3419
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3419
+
+> To amend the Public Health Service Act to reauthorize the telehealth network and telehealth resource centers grant programs.
+
+## § 1. Reauthorization of telehealth network and telehealth resource centers grant programs
+
+Section 330I(q) of the Public Health Service Act (42 U.S.C. 254c–14(q)) is amended—
+
+- **(1)** by striking “section” and inserting the following:
+  > section—
+  > - **(1)**
+
+- **(2)** in paragraph (1), as so inserted, by striking the period at the end and inserting “; and”; and
+- **(3)** by adding at the end the following:
+  > - **(2)** $42,050,000 for each of fiscal years 2026 through 2030.
