@@ -1,7 +1,7 @@
 ---
 measure: S. 260
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 260
@@ -34,3 +34,5 @@ Bottles and Breastfeeding Equipment Screening Enhancement Act
 - 2025-05-06 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-19.
 - 2025-05-06 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-19.
 - 2025-05-06 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 68.
+- 2025-05-14 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2933; text: CR S2933)
+- 2025-05-14 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
