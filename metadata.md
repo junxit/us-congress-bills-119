@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 30
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 30
@@ -54,9 +54,10 @@ Expressing support for local law enforcement officers.
 - Rep. Ciscomani, Juan [R-AZ-6] (C001133)
 - Rep. Perez, Marie Gluesenkamp [D-WA-3] (G000600)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -75,3 +76,4 @@ Expressing support for local law enforcement officers.
 - 2025-05-13 — Mr. Jordan moved to suspend the rules and agree to the resolution.
 - 2025-05-13 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 411 - 1 (Roll no. 123). (text: CR H1961-1962)
 - 2025-05-13 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 411 - 1 (Roll no. 123). (text: CR H1961-1962)
+- 2025-05-14 — Received in the Senate and referred to the Committee on the Judiciary.
