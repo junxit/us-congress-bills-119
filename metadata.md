@@ -1,7 +1,7 @@
 ---
 measure: H.R. 677
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 677
@@ -16,9 +16,10 @@ EARA
 
 - Rep. Hageman, Harriet M. [R-WY-At Large] (H001096)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ EARA
 - 2025-05-13 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
 - 2025-05-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1973)
 - 2025-05-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1973)
+- 2025-05-14 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
