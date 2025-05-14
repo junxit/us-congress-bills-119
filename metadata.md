@@ -1,7 +1,7 @@
 ---
 measure: H.R. 249
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 249
@@ -30,9 +30,10 @@ To redesignate certain facilities at Paterson Great Falls National Historical Pa
 - Rep. Sherrill, Mikie [D-NJ-11] (S001207)
 - Rep. Watson Coleman, Bonnie [D-NJ-12] (W000822)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -56,3 +57,4 @@ To redesignate certain facilities at Paterson Great Falls National Historical Pa
 - 2025-05-13 — Mr. Westerman moved to suspend the rules and pass the bill.
 - 2025-05-13 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 362 - 50, 2 Present (Roll no. 124). (text: CR H1979)
 - 2025-05-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 362 - 50, 2 Present (Roll no. 124). (text: CR H1979)
+- 2025-05-14 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
