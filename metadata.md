@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2243
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2243
@@ -41,6 +41,10 @@ LEOSA Reform Act
 
 - House — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2025-05-14 — [House 119-1-128](votes/house-119-1-0128.md) — On Passage — **Passed** (229–193)
+
 ## Actions
 
 - 2025-03-21 — Introduced in House
@@ -51,3 +55,17 @@ LEOSA Reform Act
 - 2025-04-28 — Placed on the Union Calendar, Calendar No. 58.
 - 2025-04-28 — Reported (Amended) by the Committee on Judiciary. H. Rept. 119-81.
 - 2025-04-28 — Reported (Amended) by the Committee on Judiciary. H. Rept. 119-81.
+- 2025-05-13 — Rules Committee Resolution H. Res. 405 Reported to House. Rule provides for consideration of H.R. 2240, H.R. 2243 and H.R. 2255. The resolution provides for consideration of H.R. 2240, H.R. 2243, and H.R. 2255. All bills are being considered under a closed rule with each bill having one motion to recommit.
+- 2025-05-14 — Amendment reported by the House Committee on Rules.
+- 2025-05-14 — Considered as unfinished business. (consideration: CR H2031-2032)
+- 2025-05-14 — Considered under the provisions of rule H. Res. 405. (consideration: CR H2024-2027)
+- 2025-05-14 — DEBATE - The House proceeded with one hour of debate on H.R. 2243.
+- 2025-05-14 — House amendment considered as adopted: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2025-05-14 — House amendment offered/reported by: Amendment reported by the House Committee on Rules.
+- 2025-05-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-05-14 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2025-05-14 — On passage Passed by the Yeas and Nays: 229 - 193 (Roll no. 128). (text of amendment in the nature of a substitute: CR H2024)
+- 2025-05-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 2243, the Chair put the question passage of the bill and by voice vote announced that the ayes had prevailed. Mr. Raskin demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2025-05-14 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 229 - 193 (Roll no. 128). (text of amendment in the nature of a substitute: CR H2024)
+- 2025-05-14 — Rule provides for consideration of H.R. 2240, H.R. 2243 and H.R. 2255. The resolution provides for consideration of H.R. 2240, H.R. 2243, and H.R. 2255. All bills are being considered under a closed rule with each bill having one motion to recommit.
+- 2025-05-14 — The previous question was ordered pursuant to the rule.
