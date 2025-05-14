@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 3385
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3385
+
+> To direct the Secretary of Transportation to issue certain regulations to update the definition of motorcycle, and for other purposes.
+
+## § 1. Motorcycle definition
+
+- **(a)** *In general* Not later than 120 days after the date of enactment of this Act, the Secretary of Transportation shall issue such regulations as are necessary to amend the definition of the term “motorcycle” in section 571.3 of title 49, Code of Federal Regulations, to match the definition in this section.
+- **(b)** *Motor cycle defined* In this section, the term “motorcycle” means a motor vehicle, as was originally manufactured, with motive power, having a seat or saddle requiring the rider to sit astride, designed to travel on not more than three wheels in contact with the ground, steering controlled by handlebars, acceleration and braking controlled by handlebar and foot controls and capable of reaching speeds in excess of 30 mph.
