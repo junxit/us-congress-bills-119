@@ -1,0 +1,25 @@
+---
+legis-num: S. 1760
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1760
+
+> To amend the Water Infrastructure Finance and Innovation Act of 2014 with respect to budgetary treatment of certain amounts of financial assistance, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Restoring WIFIA Eligibility Act of 2025”.
+
+## § 2. Budgetary treatment of certain amounts of financial assistance
+
+The Water Infrastructure Finance and Innovation Act of 2014 (33 U.S.C. 3901 et seq.) is amended by adding at the end the following:
+
+> ## § 5037. Budgetary treatment of certain amounts of financial assistance
+>
+> If the recipient of financial assistance for a project under this subtitle is an eligible entity other than a Federal entity, agency, or instrumentality, and the dedicated sources of repayment of that financial assistance are non-Federal revenue sources, the financial assistance shall, for purposes of budgetary treatment under the Federal Credit Reform Act of 1990 (2 U.S.C. 661 et seq.)—
+>
+> - **(1)** be deemed to be non-Federal; and
+> - **(2)** be treated as a direct loan or loan guarantee (as those terms are defined in section 502 of that Act (2 U.S.C. 661a)).
