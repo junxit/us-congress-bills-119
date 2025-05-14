@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 178
 congress: 119
-version: Agreed to Senate
+version: Amendment Ordered to be Printed (Senate)
 ---
 
 # S.Res. 178
@@ -25,3 +25,10 @@ A resolution honoring the life and legacy of the late George Foreman.
 - 2025-04-10 — Introduced in Senate
 - 2025-04-10 — Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent.
 - 2025-04-10 — Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Unanimous Consent. (consideration: CR S2577; text: CR S2574)
+- 2025-05-14 — 
+- 2025-05-14 — Amendment SA 2227 agreed to in Senate by Unanimous Consent.
+- 2025-05-14 — Amendment SA 2227 proposed by Senator Thune for Senator Cornyn. (consideration: CR S2932) To amend the preamble.
+- 2025-05-14 — Senate amendment agreed to: Amendment SA 2227 agreed to in Senate by Unanimous Consent.
+- 2025-05-14 — Senate amendment proposed (on the floor): Amendment SA 2227 proposed by Senator Thune for Senator Cornyn.
+- 2025-05-14 — Senate amendment submitted
+- 2025-05-14 — The preamble was amended after adoption by Unanimous Consent.

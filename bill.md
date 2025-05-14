@@ -33,7 +33,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas George Foreman remained a beloved public figure and boxing legend until his death;
 - Whereas George Foreman died in Houston, Texas, on March 21, 2025;
 - Whereas George Foreman was preceded in death by his daughter, Freeda; and
-- Whereas George Foreman is survived by his wife of 40 years, Mary Joan, and 11 of his children and their families: Now, therefore, be it
+- Whereas George Foreman is survived by his wife of 40 years, Mary Joan, and his children and their families: Now, therefore, be it
 
 That the Senate—
 
