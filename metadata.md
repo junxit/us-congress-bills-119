@@ -1,7 +1,7 @@
 ---
 measure: H.R. 331
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 331
@@ -20,9 +20,10 @@ To amend the Aquifer Recharge Flexibility Act to clarify a provision relating to
 
 - Rep. Simpson, Michael K. [R-ID-2] (S001148)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ To amend the Aquifer Recharge Flexibility Act to clarify a provision relating to
 - 2025-05-13 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
 - 2025-05-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1969)
 - 2025-05-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1969)
+- 2025-05-14 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
