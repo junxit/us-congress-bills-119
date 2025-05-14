@@ -1,0 +1,31 @@
+---
+legis-num: H. RES. 411
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 411
+
+> Expressing the sense of the House of Representatives on the enduring alliance between the United States and Israel and the necessity of expanding defense cooperation to address evolving threats.
+
+## Preamble
+
+- Whereas the United States and Israel share a deep and unwavering alliance, built on common values, mutual strategic interests, and a commitment to democracy and security;
+- Whereas Israel is a steadfast ally of the United States and plays a critical role in maintaining stability in the Middle East, a region facing increasing volatility;
+- Whereas both the United States and Israel face growing threats from terrorist organizations, state-sponsored aggression, and technological warfare, which continue to evolve in scale, complexity, and lethality;
+- Whereas Israel has consistently demonstrated resilience and innovation in confronting these challenges, developing cutting-edge defense technologies that enhance the security of both nations;
+- Whereas the longstanding military and intelligence cooperation between the United States and Israel, including joint training exercises and the codevelopment of advanced defense systems like Iron Dome, David’s Sling, and the Arrow missile defense system, has proven essential in protecting innocent lives and maintaining regional stability;
+- Whereas the collaboration between the United States and Israel at the Irregular Warfare Support Directorate, including advancements in anti-tunneling technology and counter-unmanned aircraft systems (C–UAS), has enhanced both nations’ ability to detect and neutralize asymmetric threats, strengthening regional and global security;
+- Whereas strengthening the United States-Israel defense partnership will ensure that both nations remain at the forefront of military technology and national security preparedness; and
+- Whereas leveraging the unique capabilities of the defense industries of both the United States and Israel will bolster our shared ability to counter emerging threats effectively: Now, therefore, be it
+
+That the House of Representatives—
+
+- **(1)** reaffirms the unwavering commitment of the United States to Israel’s security and unequivocally supports Israel’s right to defend itself against all threats;
+- **(2)** calls for the continued expansion of United States-Israel defense cooperation to address the evolving security landscape, including joint research, technology sharing, and military coordination;
+- **(3)** supports additional investments in missile defense, cybersecurity, emerging technology initiatives, and intelligence-sharing initiatives to enhance mutual security capabilities;
+- **(4)** recognizes Israel’s vital role as a key ally in deterring adversaries and promoting peace through strength in the Middle East;
+- **(5)** urges the United States Government to ensure that Israel maintains its qualitative military edge and remains well-equipped to confront growing regional and global threats;
+- **(6)** affirms that during the renegotiation of the United States-Israel Memorandum of Understanding (MOU), cooperation on emerging technologies, including artificial intelligence, cybersecurity, and advanced defense systems, should be a key priority in strengthening the bilateral relationship; and
+- **(7)** stands firmly with Israel and commits to reinforcing the partnership that secures both nations’ futures.
