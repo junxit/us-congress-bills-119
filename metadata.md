@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1001
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1001
@@ -21,9 +21,10 @@ To provide for a memorandum of understanding to address the impacts of a certain
 - Rep. Maloy, Celeste [R-UT-2] (M001228)
 - Rep. Owens, Burgess [R-UT-4] (O000086)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ To provide for a memorandum of understanding to address the impacts of a certain
 - 2025-05-13 — Mr. Westerman moved to suspend the rules and pass the bill.
 - 2025-05-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1972)
 - 2025-05-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1972)
+- 2025-05-14 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
