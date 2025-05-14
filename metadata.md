@@ -1,7 +1,7 @@
 ---
 measure: H.R. 618
 congress: 119
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 618
@@ -42,3 +42,4 @@ Apex Area Technical Corrections Act
 - 2025-05-13 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
 - 2025-05-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1980-1981)
 - 2025-05-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1980-1981)
+- 2025-05-14 — Received in the Senate, read twice.

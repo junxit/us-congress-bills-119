@@ -1,7 +1,7 @@
 ---
 measure: H.R. 618
 congress: 119
-version: Engrossed in House
+version: Received in Senate
 derived: true
 ---
 
