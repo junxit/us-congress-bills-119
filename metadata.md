@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2240
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2240
@@ -45,6 +45,10 @@ Improving Law Enforcement Officer Safety and Wellness Through Data Act
 
 - House — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2025-05-15 — [House 119-1-131](votes/house-119-1-0131.md) — On Passage — **Passed** (403–11)
+
 ## Actions
 
 - 2025-03-21 — Introduced in House
@@ -55,3 +59,17 @@ Improving Law Enforcement Officer Safety and Wellness Through Data Act
 - 2025-04-28 — Placed on the Union Calendar, Calendar No. 56.
 - 2025-04-28 — Reported (Amended) by the Committee on Judiciary. H. Rept. 119-79.
 - 2025-04-28 — Reported (Amended) by the Committee on Judiciary. H. Rept. 119-79.
+- 2025-05-13 — Rules Committee Resolution H. Res. 405 Reported to House. Rule provides for consideration of H.R. 2240, H.R. 2243 and H.R. 2255. The resolution provides for consideration of H.R. 2240, H.R. 2243, and H.R. 2255. All bills are being considered under a closed rule with each bill having one motion to recommit.
+- 2025-05-15 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2025-05-15 — Considered as unfinished business. (consideration: CR H2078-2079)
+- 2025-05-15 — Considered under the provisions of rule H. Res. 405. (consideration: CR H2071-2077)
+- 2025-05-15 — DEBATE - The House proceeded with one hour of debate on H.R. 2240.
+- 2025-05-15 — House amendment considered as adopted: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2025-05-15 — House amendment offered/reported by: Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2025-05-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-05-15 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2025-05-15 — On passage Passed by the Yeas and Nays: 403 - 11 (Roll no. 131). (text of amendment in the nature of a substitute: CR H2071-2072)
+- 2025-05-15 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 2240, the Chair put the question on passage of the bill and by voice vote, announced that the ayes had prevailed. Mrs. McBath demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2025-05-15 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 403 - 11 (Roll no. 131). (text of amendment in the nature of a substitute: CR H2071-2072)
+- 2025-05-15 — Rule provides for consideration of H.R. 2240, H.R. 2243 and H.R. 2255. The resolution provides for consideration of H.R. 2240, H.R. 2243, and H.R. 2255. All bills are being considered under a closed rule with each bill having one motion to recommit.
+- 2025-05-15 — The previous question was ordered pursuant to the rule.
