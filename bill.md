@@ -1,0 +1,25 @@
+---
+legis-num: S. 1776
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1776
+
+> To amend title XVIII of the Social Security Act to limit the coinsurance amount for certain services furnished in an ambulatory surgical center.
+
+## § 1. Short title
+
+This Act may be cited as the “Medicare Beneficiary Co-Pay Fairness Act”.
+
+## § 2. Limitation on coinsurance amount
+
+- **(a)** *In general* Section 1833 of the Social Security Act (42 U.S.C. 1395l) is amended—
+  - **(1)** in subsection (a)(1)(G), by inserting “subject to subsection (ee),” before “with respect to facility services”; and
+  - **(2)** by adding at the end the following new subsection:
+    > - **(ee)** *Limitation on coinsurance amount for certain services furnished in an ambulatory surgical center* In the case that application of subsection (a)(1)(G) would result in the imposition of a coinsurance amount with respect to facility services described in such subsection furnished during a year with respect to a surgical procedure that exceeds the amount of the inpatient hospital deductible established under section 1813(b) for such year, the Secretary shall—
+    >   - **(1)** reduce the amount of such coinsurance to an amount equal to such deductible; and
+    >   - **(2)** pay to the supplier furnishing such services an amount equal to such reduction.
+
+- **(b)** *Effective date* The amendments made by this section shall apply to services furnished on or after January 1, 2026.
