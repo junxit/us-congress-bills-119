@@ -1,0 +1,34 @@
+---
+legis-num: S. 1789
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1789
+
+> To amend the Food and Nutrition Act of 2008 to exclude as income certain payments received by household members from certain employment programs, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Training and Nutrition Stability Act of 2025”.
+
+## § 2. Exclusion of certain income from employment and training programs
+
+- **(a)** *In general* Section 5 of the Food and Nutrition Act of 2008 (7 U.S.C. 2014) is amended—
+  - **(1)** in subsection (d)—
+    - **(A)** in paragraph (18), by striking “and” at the end;
+    - **(B)** in paragraph (19)(B), by striking the period at the end and inserting “; and”; and
+    - **(C)** by adding at the end the following:
+      > - **(20)** any payment, income, allowance, or earnings made to household members derived from—
+      >   - **(A)** any work program (as defined in section 6(o)(1)), unless the work program is established under—
+      >     - **(i)** the Post-9/11 Veterans Educational Assistance Improvements Act of 2010 (Public Law 111–377; 124 Stat. 4106) or amendments made by that Act;
+      >     - **(ii)** the Harry W. Colmery Veterans Educational Assistance Act of 2017 (Public Law 115–48; 131 Stat. 973) or amendments made by that Act; or
+      >     - **(iii)** the COVID–19 Veterans Rapid Retraining Assistance Program;
+      >   - **(B)** any employment and training program (as defined in paragraph (4) of section 6(d)) established pursuant to that section;
+      >   - **(C)** any vocational rehabilitation program (as defined in section 3 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102)); or
+      >   - **(D)** any refugee employment program established under section 412(c) of the Immigration and Nationality Act (8 U.S.C. 1522(c)).
+
+  - **(2)** by striking subsection (l); and
+  - **(3)** by redesignating subsections (m) and (n) as subsections (l) and (m), respectively.
+- **(b)** *Conforming amendment* Section 6(s)(2) of the Food and Nutrition Act of 2008 (7 U.S.C. 2015(s)(2)) is amended by striking “(m), and (n)” and inserting “and (m)”.
