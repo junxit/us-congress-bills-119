@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2215
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2215
@@ -16,9 +16,10 @@ Salem Maritime National Historical Park Redesignation and Boundary Study Act
 
 - Rep. Moulton, Seth [D-MA-6] (M001196)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -37,3 +38,4 @@ Salem Maritime National Historical Park Redesignation and Boundary Study Act
 - 2025-05-14 — Motion to reconsider laid on the table Agreed to without objection.
 - 2025-05-14 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 382 - 31 (Roll no. 125). (text: 5/13/2025 CR H1984)
 - 2025-05-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 382 - 31 (Roll no. 125). (text: 5/13/2025 CR H1984)
+- 2025-05-15 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
