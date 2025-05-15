@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2243
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2243
@@ -37,9 +37,10 @@ LEOSA Reform Act
 - Rep. Fischbach, Michelle [R-MN-7] (F000470)
 - Rep. Van Drew, Jefferson [R-NJ-2] (V000133)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -69,3 +70,4 @@ LEOSA Reform Act
 - 2025-05-14 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 229 - 193 (Roll no. 128). (text of amendment in the nature of a substitute: CR H2024)
 - 2025-05-14 — Rule provides for consideration of H.R. 2240, H.R. 2243 and H.R. 2255. The resolution provides for consideration of H.R. 2240, H.R. 2243, and H.R. 2255. All bills are being considered under a closed rule with each bill having one motion to recommit.
 - 2025-05-14 — The previous question was ordered pursuant to the rule.
+- 2025-05-15 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
