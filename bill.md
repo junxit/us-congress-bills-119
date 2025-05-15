@@ -17,12 +17,16 @@ This Act may be cited as the “Automotive Support Services to Improve Safe Tran
 
 Section 1701(6)(I) of title 38, United States Code, is amended to read as follows:
 
-> - **(I)** The provision of any medically necessary automobile adaptations, including—
+> - **(I)** The provision of any medically necessary automobile adaptations for driver or passenger use, including—
 >   - **(i)** ramp and kneeling systems;
 >   - **(ii)** raised doors or lowered floors;
 >   - **(iii)** raised roofs;
 >   - **(iv)** air conditioning;
->   - **(v)** mobility device lifts;
->   - **(vi)** non-articulating trailers;
->   - **(vii)** ingress or egress accessibility modifications; and
->   - **(viii)** wheelchair tiedowns.
+>   - **(v)** occupied and unoccupied mobility lifts;
+>   - **(vi)** ingress or egress accessibility modifications;
+>   - **(vii)** wheelchair tiedowns; and
+>   - **(viii)** adapted seating.
+
+## § 3. Extension of certain limits on payments of pension
+
+Section 5503(d)(7) of title 38, United States Code, is amended by striking “November 30, 2031” and inserting “September 30, 2032”.
