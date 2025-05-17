@@ -9,9 +9,13 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To direct the Secretary of Veterans Affairs and the Comptroller General of the United States to report on certain funding shortfalls in the Department of Veterans Affairs.
 
-## § 1. Funding shortfalls in certain administrations of the Department of Veterans Affairs: review; report
+## § 1. Short title
 
-- **(a)** *GAO review*
+This Act may be cited as the “VA Budget Shortfall Accountability Act”.
+
+## § 2. Funding shortfalls in certain administrations of the Department of Veterans Affairs: reviews; reports
+
+- **(a)** *First GAO review*
   - **(1)** *Review required* Not later than 30 days after the date of the enactment of this Act, the Comptroller General of the United States shall begin a review regarding the circumstances surrounding, and the causes of—
     - **(A)** the shortfall in the funding of the Veterans Benefits Administration for fiscal year 2024; and
     - **(B)** the expected shortfall in the funding of the Veterans Health Administration in fiscal year 2025.
@@ -24,7 +28,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
       - **(i)** to improve the accuracy of supporting information submitted under section 1105(a) of title 31, United States Code, with respect to the Department; and
       - **(ii)** to prevent funding shortfalls for the Department.
   - **(3)** *Report* Not later than 30 days after completing such review, the Comptroller General shall submit to the Secretary of Veterans Affairs a written report containing the results and findings of such review.
-- **(b)** *Report of the Secretary of Veterans Affairs* Not later than 30 days after the Secretary of Veterans Affairs receives the report of the Comptroller General under subsection (a), the Secretary shall submit such report to the appropriate congressional committees.
-- **(c)** *Appropriate congressional committees defined* In this section, the term “appropriate congressional committees” means—
+- **(b)** *Subsequent GAO reviews* In each of the five calendar years following the date of the enactment of this Act, the Comptroller General shall conduct a review including the elements described in subsection (a)(2), and submit a report described in subsection (a)(3), regarding the funding of the Department of Veterans Affairs for the most recent fiscal year to end before the date of such review.
+- **(c)** *Reports of the Secretary of Veterans Affairs* Not later than 30 days after the Secretary of Veterans Affairs receives a report of the Comptroller General under subsection (a) or (b), the Secretary shall submit such report to—
   - **(1)** the Committees on Veterans’ Affairs of the House of Representatives and the Senate; and
   - **(2)** the Committees on Appropriations of the House of Representatives and the Senate.

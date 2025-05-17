@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1823
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1823
@@ -29,3 +29,10 @@ VA Budget Shortfall Accountability Act
 - 2025-03-04 — Introduced in House
 - 2025-03-04 — Introduced in House
 - 2025-03-04 — Referred to the House Committee on Veterans' Affairs.
+- 2025-03-10 — Referred to the Subcommittee on Health.
+- 2025-03-25 — Forwarded by Subcommittee to Full Committee by Voice Vote.
+- 2025-03-25 — Subcommittee Consideration and Mark-up Session Held
+- 2025-05-06 — Committee Consideration and Mark-up Session Held
+- 2025-05-17 — Placed on the Union Calendar, Calendar No. 74.
+- 2025-05-17 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-101.
+- 2025-05-17 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-101.
