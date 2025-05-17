@@ -1,7 +1,7 @@
 ---
 measure: H.R. 658
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 658
@@ -16,6 +16,10 @@ To amend title 38, United States Code, to establish qualifications for the appoi
 
 - Rep. Brownley, Julia [D-CA-26] (B001285)
 
+## Cosponsors (1)
+
+- Rep. Johnson, Henry C. "Hank" [D-GA-4] (J000288)
+
 ## Committees (1)
 
 - House — Veterans' Affairs Committee
@@ -25,3 +29,11 @@ To amend title 38, United States Code, to establish qualifications for the appoi
 - 2025-01-23 — Introduced in House
 - 2025-01-23 — Introduced in House
 - 2025-01-23 — Referred to the House Committee on Veterans' Affairs.
+- 2025-03-04 — Referred to the Subcommittee on Health.
+- 2025-03-25 — Forwarded by Subcommittee to Full Committee by Voice Vote.
+- 2025-03-25 — Subcommittee Consideration and Mark-up Session Held
+- 2025-05-06 — Committee Consideration and Mark-up Session Held
+- 2025-05-06 — Ordered to be Reported by Voice Vote.
+- 2025-05-17 — Placed on the Union Calendar, Calendar No. 72.
+- 2025-05-17 — Reported by the Committee on Veterans' Affairs. H. Rept. 119-99.
+- 2025-05-17 — Reported by the Committee on Veterans' Affairs. H. Rept. 119-99.
