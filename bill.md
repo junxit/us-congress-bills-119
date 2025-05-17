@@ -11,31 +11,39 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Communities Helping Invest through Property and Improvements Needed for Veterans Act” or the “CHIP IN for Veterans Act”.
+This Act may be cited as the “Communities Helping Invest through Property and Improvements Needed for Veterans Act of 2025” or the “CHIP IN for Veterans Act of 2025”.
 
-## § 2. Making permanent a pilot program on acceptance by the Department of Veterans Affairs of donated facilities and related improvements
+## § 2. Expanding and extending a pilot program on acceptance by the Department of Veterans Affairs of donated facilities and related improvements
 
-- **(a)** *Permanence*
-  - **(1)** *In general* Section 2 of the Communities Helping Invest through Property and Improvements Needed for Veterans Act of 2016 (Public Law 114–294, 38 U.S.C. 8103 note) is amended—
-    - **(A)** by striking subsection (i); and
-    - **(B)** by redesignating subsection (j) as subsection (i).
+- **(a)** *Expansion*
+  - **(1)** *In general* Section 2 of the Communities Helping Invest through Property and Improvements Needed for Veterans Act of 2016 (Public Law 114–294; 38 U.S.C. 8103 note) is amended, in subsection (a)(1)—
+    - **(A)** in the matter preceding subparagraph (A), by striking “property”; and
+    - **(B)** by adding at the end the following new subparagraph:
+      > - **(C)** A minor construction, or nonrecurring maintenance, project of the Department.
+
   - **(2)** *Conforming amendments* Such section is further amended—
-    - **(A)** in the section heading, by striking “Pilot program on acceptance by the Department of Veterans Affairs of” and inserting “Program to accept”;
-    - **(B)** by striking “pilot” each place it appears;
-    - **(C)** in subsection (a)—
-      - **(i)** in the heading, by striking “Pilot”; and
-      - **(ii)** by striking paragraph (3); and
-    - **(D)** in subsection (h), by striking “until the termination date set forth in subsection (i)”.
-- **(b)** *Transfer* Section 2 of such Act, as amended by subsection (a), is transferred to subchapter I of chapter 81 of title 38, United States Code, inserted after section 8104, and redesignated as section 8104A.
-- **(c)** *Conforming amendments*
-  - **(1)** *Typeface and style* Section 8104A of such title, as added by this section, is amended—
-    - **(A)** in subsection (a)(1)—
-      - **(i)** in the matter preceding subparagraph (A), by striking “of title 38, United States Code, the Secretary of Veterans Affairs” and inserting “of this title, the Secretary”; and
-      - **(ii)** in subparagraph (B), by striking “of Veterans Affairs”;
-    - **(B)** in subsection (c)(1)(B)(i), by striking “of Veterans Affairs”;
-    - **(C)** in the enumerator, by striking “Sec.” and inserting “§”; and
-    - **(D)** in the section heading—
-      - **(i)** by striking the period at the end; and
-      - **(ii)** by conforming the typeface and typestyle, including capitalization, to the typeface and typestyle used in the section heading of section 8104 of such title.
-  - **(2)** *Table of sections* The table of sections at the beginning of such chapter is amended by inserting, after the item relating to section 8104, the following new section:
-- **(d)** *Effective date* The amendments made by this Act shall take effect on December 16, 2026.
+    - **(A)** in subsection (b)—
+      - **(i)** in the heading, by striking “of property”;
+      - **(ii)** in the matter preceding paragraph (1), by striking “the donation of a property” and inserting “a donation”;
+      - **(iii)** in paragraph (1), by inserting “or project” after “property” each place it appears; and
+      - **(iv)** in paragraph (2), by inserting “project,” after “improvements,”;
+    - **(B)** in subsection (c)—
+      - **(i)** in paragraph (1)—
+        - **(I)** in the matter preceding subparagraph (A), by striking “real property and improvements donated under the pilot program” and inserting “a donation”;
+        - **(II)** in subparagraph (A), by striking “; or” and inserting a semicolon;
+        - **(III)** in subparagraph (B), by striking the period at the end and inserting “; or”; and
+        - **(IV)** by adding at the end the following new subparagraph:
+          > - **(C)** the performance of a minor construction, or nonrecurring maintenance, project of the Department.
+
+      - **(ii)** in paragraph (2)—
+        - **(I)** in subparagraph (A), by striking “construction of the facility” and inserting “donation”;
+        - **(II)** in subparagraph (B), by inserting “maintaining,” after “altering,”; and
+        - **(III)** in subparagraph (C), by striking “construction of the facility” and inserting “donation”;
+    - **(C)** in subsection (e)(1)—
+      - **(i)** by inserting “alter, maintain,” after “design,” both places it appears;
+      - **(ii)** in subparagraph (A)—
+        - **(I)** by striking “real property and improvements donated” and inserting “a donation”; and
+        - **(II)** by striking “of the real property and improvements”; and
+      - **(iii)** in subparagraph (B)(ii)(I), by striking “construction and donation of the real property and improvements” and inserting “donation”; and
+    - **(D)** in subsection (g)(1), by striking “real property and improvements donated” and inserting “donations”.
+- **(b)** *Extension* Such section is further amended, in subsection (i), by striking “December 16, 2026” and inserting “December 16, 2031”.
