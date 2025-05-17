@@ -28,12 +28,12 @@ This Act may be cited as the “Improving VA Training for Military Sexual Trauma
 - **(b)** *Expansion of duty to assist in obtaining records for a compensation claim* Section 5103A(c) of title 38, United States Code, is amended—
   - **(1)** by redesignating paragraph (2) as paragraph (3); and
   - **(2)** by inserting, after paragraph (1), the following new paragraph (2):
-    > - **(2)** In the case of a claim under section 1166 of this title, the assistance provided by the Secretary under this section shall include—
-    >   - **(A)** if there is no credible supporting evidence of a military sexual trauma in the evidence of record, obtaining the service personnel record of the claimant; and
-    >   - **(B)** obtaining the service medical record of the claimant.
+    > - **(2)** In the case of a claim under section 1166 of this title, the assistance provided by the Secretary under this section shall include obtaining—
+    >   - **(A)** the service personnel record of the claimant; and
+    >   - **(B)** the service medical record of the claimant.
 
 - **(c)** *Sensitivity training for certain contracted health care professionals: report; improvements* Not later than 90 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on—
-  - **(1)** sensitivity training required for health care professionals (including individuals who communicate with veterans to schedule examinations), contracted under section 504 of the Veterans’ Benefits Improvements Act of 1996 (Public Law 104–275; 38 U.S.C. 5101 note), to perform examinations of veterans who make claims under section 1166 of title 38, United States Code; and
+  - **(1)** sensitivity training required for health care professionals and individuals who communicate with veterans to schedule examinations, contracted under section 504 of the Veterans’ Benefits Improvements Act of 1996 (Public Law 104–275; 38 U.S.C. 5101 note), to perform examinations of veterans who make claims under section 1166 of title 38, United States Code; and
   - **(2)** the plan of the Secretary to—
     - **(A)** improve such sensitivity training; and
     - **(B)** ensure that a veteran who makes such a claim is not retraumatized during such an examination by such a contracted health care professional.
