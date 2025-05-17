@@ -26,6 +26,11 @@ This Act may be cited as the “Simplifying Forms for Veterans Claims Act”.
   - **(2)** The term “covered entities” includes—
     - **(A)** the Secretary of Veterans Affairs;
     - **(B)** an expert in laws administered by the Secretary of Veterans Affairs;
-    - **(C)** a veterans service organization recognized under section 5902 of title 38, United States Code; and
-    - **(D)** an entity that advocates for veterans and survivors of veterans.
+    - **(C)** a veterans service organization recognized under section 5902 of title 38, United States Code;
+    - **(D)** an entity that advocates for veterans; and
+    - **(E)** an entity that advocates for survivors of veterans.
   - **(3)** The term “claimant” has the meaning given such term in section 5100 of title 38, United States Code.
+
+## § 3. Extension of certain limits on payments of pension
+
+Section 5503(d)(7) of title 38, United States Code, is amended by striking “November 30, 2031” and inserting “December 31, 2031”.
