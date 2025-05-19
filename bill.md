@@ -43,14 +43,14 @@ This Act may be cited as the “Veterans Accessibility Advisory Committee Act of
   >   - **(1)** Members of the Advisory Committee shall select a Chairperson from among the members of the Advisory Committee.
   >   - **(2)** If the position of Chairperson becomes vacant, the members of the Advisory Committee shall select a new Chairperson not later than 30 days after the date on which the position became vacant.
   > - **(f)** *Duties*
-  >   - **(1)** On a regular basis, the Secretary shall consult with and seek the advice of the Advisory Committee—
-  >     - **(A)** on improving the accessibility of the Department for individuals with disabilities, including improving—
+  >   - **(1)** On a regular basis, the Secretary shall consult with and seek the advice of the Advisory Committee on the following:
+  >     - **(A)** Improving the accessibility of the Department for individuals with disabilities, including improving—
   >       - **(i)** the accessibility of information of the Department, including electronic information;
   >       - **(ii)** the accessibility of the services and benefits furnished by the Department;
   >       - **(iii)** the accessibility of the facilities of the Department;
   >       - **(iv)** the accessibility of facilities of health care providers furnishing care or services under the Veterans Community Care Program under section 1703 of this title; and
-  >       - **(v)** the acquisition process of the Department to ensure that products and services, including information technology and information and communication technology (as defined in the standards issued by the Architectural and Transportation Barriers Compliance Board pursuant to section 508 of the Rehabilitation Act of 1973 (Public Law 93–112; 29 U.S.C. 794d)), are accessible when purchased; and
-  >     - **(B)** for ensuring the compliance of the Department with provisions of law that ensure equal access to Federal facilities, benefits, or services, for individuals with disabilities, including the following:
+  >       - **(v)** the acquisition process of the Department to ensure that products and services, including information technology and information and communication technology (as defined in the standards issued by the Architectural and Transportation Barriers Compliance Board pursuant to section 508 of the Rehabilitation Act of 1973 (Public Law 93–112; 29 U.S.C. 794d)), are accessible when purchased.
+  >     - **(B)** Ensuring the compliance of the Department with provisions of law that ensure equal access to Federal facilities, benefits, or services, for individuals with disabilities, including the following:
   >       - **(i)** The Americans with Disabilities Act of 1990 (Public Law 101–336; 42 U.S.C. 12101 et seq.).
   >       - **(ii)** Sections 501, 504, and 508 of the Rehabilitation Act of 1973 (Public Law 93–112; 29 U.S.C. 791, 794, and 794d).
   >       - **(iii)** The Plain Writing Act of 2010 (Public Law 111–274; 5 U.S.C. 301 note).
@@ -83,7 +83,7 @@ This Act may be cited as the “Veterans Accessibility Advisory Committee Act of
   >   - **(2)** A member of the Advisory Committee shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, while away from their homes or regular places of business in the performance of services for the Advisory Committee.
   >   - **(3)** The Secretary shall ensure that such personnel, funding, and other resources are made available to the Advisory Committee as the Secretary determines appropriate to carry out the duties of the Advisory Committee.
   >   - **(4)** The Secretary shall furnish to the Advisory Committee such information as the Advisory Committee may request from the Secretary, subject to applicable provisions of law.
-  > - **(h)** *Termination of Advisory Committee* The Advisory Committee shall terminate on the day that is 10 years after the date of the enactment of the Veterans Accessibility Advisory Committee Act of 2025.
+  > - **(h)** *Termination of Advisory Committee* The Advisory Committee shall terminate on the date that is seven years after the date of the enactment of the Veterans Accessibility Advisory Committee Act of 2025.
 
 - **(b)** *Table of sections* The table of sections at the beginning of such chapter is amended by adding, after the item relating to section 548, the following new item:
 - **(c)** *Implementation; abolition of inactive advisory committee* Not later than 180 days after the date of the enactment of this Act, and before establishing the Veterans Advisory Committee on Equal Access under section 549 of title 38, United States Code, as added by subsection (a), the Secretary of Veterans Affairs shall—
@@ -95,6 +95,6 @@ This Act may be cited as the “Veterans Accessibility Advisory Committee Act of
     - **(A)** was established by an Act of Congress; and
     - **(B)** is inactive.
 
-## § 3. Modification of certain housing loan fees
+## § 3. Extension on limitation of certain pension payments to veterans admitted to nursing facilities
 
-The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking “June 9, 2034” each place it appears and inserting “June 23, 2034”.
+Section 5503(d)(7) of title 38, United States Code, is amended by striking “November 30, 2031” and inserting “January 31, 2032”.

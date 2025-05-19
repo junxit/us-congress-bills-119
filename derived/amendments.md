@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1147
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -33,4 +33,4 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `29 U.S.C. § 792` | add-at-end | Subchapter III of chapter 5 of title 38, United States Code, is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 792` | amend | The table of sections at the beginning of such chapter is amended by adding, after the item relating to section 548, the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking “June 9, 2034” each place it appears and inserting “June 23, 2034”. | the bill names no machine-readable US Code section |
+| — | replace | Section 5503(d)(7) of title 38, United States Code, is amended by striking “November 30, 2031” and inserting “January 31, 2032”. | the bill names no machine-readable US Code section |
