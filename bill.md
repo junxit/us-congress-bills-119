@@ -1,0 +1,21 @@
+---
+legis-num: S. 1805
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1805
+
+> To amend title XVIII of the Social Security Act to permit nurse practitioners and physician assistants to satisfy the documentation requirement under the Medicare program for coverage of certain shoes for individuals with diabetes.
+
+## § 1. Short title
+
+This Act may be cited as the “Promoting Access to Diabetic Shoes Act”.
+
+## § 2. Permitting nurse practitioners and physician assistants to satisfy Medicare documentation requirement for coverage of certain shoes for individuals with diabetes
+
+Section 1861(s)(12) of the Social Security Act (42 U.S.C. 1395x(s)(12)) is amended—
+
+- **(1)** in subparagraph (A), by inserting “, nurse practitioner, or physician assistant” after “physician”; and
+- **(2)** in subparagraph (C), by inserting “, nurse practitioner, or physician assistant” after each occurrence of “physician”.
