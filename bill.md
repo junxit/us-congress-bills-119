@@ -110,4 +110,4 @@ Section 2016 of title 38, United States Code, is amended—
 - **(1)** in paragraph (7), by striking “fiscal year 2015 and each subsequent fiscal year” and inserting “each of fiscal years 2015 through 2024”; and
 - **(2)** by adding at the end the following new paragraphs:
   > - **(8)** $344,000,000 for each of fiscal years 2025 and 2026.
-  > - **(9)** $257,700,000 for each fiscal year thereafter through fiscal year 2030.
+  > - **(9)** $257,700,000 for each fiscal year thereafter.

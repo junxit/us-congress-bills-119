@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1815
 congress: 119
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
