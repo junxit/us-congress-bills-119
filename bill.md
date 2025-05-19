@@ -1,0 +1,18 @@
+---
+legis-num: S. 1804
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1804
+
+> To prohibit the use of funds to procure or modify foreign aircraft for presidential airlift.
+
+## § 1. Short title
+
+This Act may be cited as the “Presidential Airlift Security Act of 2025”.
+
+## § 2. Prohibition on use of funds to procure or modify foreign aircraft for presidential airlift
+
+None of the funds authorized to be appropriated or otherwise made available for fiscal year 2025 or fiscal year 2026 for the Department of Defense may be made available for the procurement, modification, restoration, or maintenance of an aircraft previously owned by a foreign government, an entity controlled by a foreign government, or a representative of a foreign government for the purposes of providing presidential airlift options.
