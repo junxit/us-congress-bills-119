@@ -1,0 +1,28 @@
+---
+legis-num: H.R. 3487
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3487
+
+> To require the Secretary of Agriculture to designate and maintain at least 20 percent of the total number of trails in the Shawnee National Forest for trail riding by covered vehicles, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Shawnee Trail Riders Attaining Individuals Liberties Act” or the “Shawnee TRAILS Act”.
+
+## § 2. Trail riding in Shawnee National Forest
+
+- **(a)** *In general* The Secretary shall designate and maintain at least 20 percent of the total number of trails in the Shawnee National Forest for recreational use by covered vehicles, including trail riding.
+- **(b)** *Managing and monitoring* The Secretary shall manage and monitor the trails required to be designated and maintained under subsection (a) to assess whether such trails are appropriately maintained—
+  - **(1)** to provide for recreational use, including trail riding;
+  - **(2)** to minimize any adverse impacts to natural resources; and
+  - **(3)** to ensure that at least one trail remains open at all times for the recreational use, including trail riding, of covered vehicles.
+- **(c)** *Paved roads* The Secretary may not prohibit the use of covered vehicles on paved roads within the Shawnee National Forest.
+- **(d)** *Definitions* In this section:
+  - **(1)** *Secretary* The term “Secretary” means the Secretary of Agriculture.
+  - **(2)** *Covered vehicles* The term “covered vehicles” means—
+    - **(A)** electric bicycles (e-bikes); and
+    - **(B)** off-highway vehicles (OHVs), including all-terrain vehicles (ATVs) and off-road vehicles (ORVs).
