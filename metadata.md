@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1286
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1286
@@ -41,6 +41,10 @@ Simplifying Forms for Veterans Claims Act
 
 - House — Veterans' Affairs Committee
 
+## Recorded votes (1)
+
+- 2025-05-19 — [House 119-1-133](votes/house-119-1-0133.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (386–1)
+
 ## Actions
 
 - 2025-02-13 — Introduced in House
@@ -54,3 +58,11 @@ Simplifying Forms for Veterans Claims Act
 - 2025-05-17 — Placed on the Union Calendar, Calendar No. 73.
 - 2025-05-17 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-100.
 - 2025-05-17 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-100.
+- 2025-05-19 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2025-05-19 — Considered as unfinished business. (consideration: CR H2136-2137)
+- 2025-05-19 — Considered under suspension of the rules. (consideration: CR H2124-2126)
+- 2025-05-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1286.
+- 2025-05-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-05-19 — Mr. Bost moved to suspend the rules and pass the bill, as amended.
+- 2025-05-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 386 - 1 (Roll no. 133). (text: CR H2125)
+- 2025-05-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 386 - 1 (Roll no. 133). (text: CR H2125)
