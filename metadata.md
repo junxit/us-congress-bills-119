@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2201
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2201
@@ -41,3 +41,9 @@ Improving VA Training for Military Sexual Trauma Claims Act
 - 2025-05-17 — Placed on the Union Calendar, Calendar No. 71.
 - 2025-05-17 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-98.
 - 2025-05-17 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-98.
+- 2025-05-19 — Considered under suspension of the rules. (consideration: CR H2130-2132)
+- 2025-05-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2201.
+- 2025-05-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-05-19 — Mr. Bost moved to suspend the rules and pass the bill, as amended.
+- 2025-05-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2130-2131)
+- 2025-05-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2130-2131)
