@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1969
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-14 amendatory instructions. 5 executed, 9 stated and not applied.
+15 amendatory instructions. 6 executed, 9 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,30 +26,48 @@ to guess them.
 
 ### 38 U.S.C. § 1720F
 
-> Subsection (b) of section 201 of the Commander John Scott Hannon Veterans Mental Health Care Improvement Act of 2019 (Public Law 116–171; 38 U.S.C. 1720F note) is amended, in the second sentence, by striking “Office of Mental Health and Suicide Prevention” and inserting “the Assistant Under Secretary for Health for Clinical Services”.
-
-| | |
-|---|---|
-| Removed | `Office of Mental Health and Suicide Prevention` |
-| Inserted | `the Assistant Under Secretary for Health for Clinical Services` |
-
-### 38 U.S.C. § 1720F
-
-> Such section is further amended, in subsection (c)(2)(A), by striking “$750,000 per grantee per fiscal year” and inserting “$500,000 per fiscal year (not more than 5 percent of which may be spent on food and non-alcoholic beverages), plus $10,000 per eligible individual who receives suicide prevention services provided or coordinated by such grantee”.
-
-| | |
-|---|---|
-| Removed | `$750,000 per grantee per fiscal year` |
-| Inserted | `$500,000 per fiscal year (not more than 5 percent of which may be spent on food and non-alcoholic beverages), plus $10,000 per eligible individual who receives suicide prevention services provided or coordinated by such grantee` |
-
-### 38 U.S.C. § 1720F
-
-> Such section is further amended, in subsection (j), by striking “the date that is three years after the date on which the first grant is awarded under this section” and inserting “September 30, 2028”.
+> Section 201 of the Commander John Scott Hannon Veterans Mental Health Care Improvement Act of 2019 (Public Law 116–171; 38 U.S.C. 1720F note) is amended, in subsection (j), by striking “the date that is three years after the date on which the first grant is awarded under this section” and inserting “September 30, 2026”.
 
 | | |
 |---|---|
 | Removed | `the date that is three years after the date on which the first grant is awarded under this section` |
-| Inserted | `September 30, 2028` |
+| Inserted | `September 30, 2026` |
+
+### 38 U.S.C. § 1720F
+
+> in paragraph (4), as so redesignated, by striking “(1) or (2)” and inserting “(1), (2), or (3)”; and
+
+| | |
+|---|---|
+| Removed | `(1) or (2)` |
+| Inserted | `(1), (2), or (3)` |
+
+### 38 U.S.C. § 1720F
+
+> by striking “section a total of $174,000,000 for fiscal years 2021 through 2025.” and inserting “section—”; and
+
+| | |
+|---|---|
+| Removed | `section a total of $174,000,000 for fiscal years 2021 through 2025.` |
+| Inserted | `section—` |
+
+### 38 U.S.C. § 1720F
+
+> in subparagraph (A), by striking “or foundation” and inserting “, foundation, or health care provider”; and
+
+| | |
+|---|---|
+| Removed | `or foundation` |
+| Inserted | `, foundation, or health care provider` |
+
+### 38 U.S.C. § 1720F
+
+> in subparagraph (E), by striking “A” and inserting “a”.
+
+| | |
+|---|---|
+| Removed | `A` |
+| Inserted | `a` |
 
 ### 38 U.S.C. § 1720F
 
@@ -60,15 +78,6 @@ to guess them.
 | Removed | `Medical services` |
 | Inserted | `The term emergency treatment means medical services` |
 
-### 38 U.S.C. § 1720F
-
-> Such section is further amended, in subsection (q)(11)(A)(ii), by striking “screening for risk” and inserting “screening for risk, using a protocol selected by the Secretary”.
-
-| | |
-|---|---|
-| Removed | `screening for risk` |
-| Inserted | `screening for risk, using a protocol selected by the Secretary` |
-
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -78,12 +87,12 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `38 U.S.C. § 1720F` | add-at-end | Such section is further amended, in subsection (d)(2), by adding at the end the following: “The Secretary shall not give preference to an eligible entity solely because the eligible entity previously received, or applied for, a grant und… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 1720F` | add-at-end | Such section is further amended, in subsection (f), by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 1720F` | add-at-end | Such section is further amended, in subsection (h), by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 1720F` | insert | by inserting “(1)” before “When”; and | the bill quotes the text inserted but describes where it goes |
+| `38 U.S.C. § 1720F` | redesignate | by redesignating paragraph (3) as paragraph (4); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 1720F` | insert | by inserting after paragraph (2) the following new paragraph (3): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 1720F` | insert | by inserting “(1) In general.—” before “When” and adjusting the margins accordingly; and | the bill quotes the text inserted but describes where it goes |
 | `38 U.S.C. § 1720F` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 1720F` | replace | by striking “a total of $174,000,000 for fiscal years 2021 through 2025” and inserting an em dash; and | the bill quotes the text struck but describes what replaces it |
 | `38 U.S.C. § 1720F` | add-at-end | by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `38 U.S.C. § 1720F` | insert | in the matter preceding subparagraph (A), by inserting “an entity that has continuously provided mental health care or support services in the United States during the two-year period before the date on which the entity applies for a gra… | the bill quotes the text inserted but describes where it goes |
-| `38 U.S.C. § 1720F` | insert | in subparagraph (A), by inserting “, or a health care provider” after “foundation”. | the bill quotes the text inserted but describes where it goes |
+| `38 U.S.C. § 1720F` | insert | by inserting “an entity that has continuously provided mental health care or support services in the United States during the two-year period before the date on which the entity applies for a grant under this section and that is” after “… | the bill quotes the text inserted but describes where it goes |
+| `38 U.S.C. § 1720F` | insert | Such section is further amended, in subsection (q)(11)(A)(ii), by inserting after “risk” the following: “, which in the case of a grant made on or after the date of the enactment of the No Wrong Door for Veterans Act, shall be the Columb… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | Section 1701 of title 38, United States Code, is amended, in paragraph (6)(F)(i), by inserting “(including adaptive prostheses and terminal devices for sports and other recreational activities)” after “artificial limbs”. | the bill names no machine-readable US Code section |
+| — | replace | Section 5503(d)(7) of title 38, United States Code, is amended by striking “November 30, 2031” and inserting “January 30, 2033”. | the bill names no machine-readable US Code section |
