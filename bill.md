@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 3502
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3502
+
+> To ensure recovery of taxpayer costs and damages in restraining actions wrongfully brought against the United States.
+
+## § 1. Short title
+
+This Act may be cited as the “Wrongful Injunction Accountability Act”.
+
+## § 2. Liability arising from inadequate security posted
+
+If the United States (including an agency, officer or employee of the United States) is found to have been wrongfully enjoined or restrained under rule 65 of the Federal Rules of Civil Procedure (28 U.S.C. App.) and the security required under subsection (c) of such rule is not ordered by the court or is insufficient to pay the costs and damages sustained by the United States, then the movant shall be liable to the United States for the costs and damages sustained.
