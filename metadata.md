@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2240
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2240
@@ -41,9 +41,10 @@ Improving Law Enforcement Officer Safety and Wellness Through Data Act
 - Rep. Begich, Nicholas [R-AK-At Large] (B001323)
 - Rep. McCormick, Richard [R-GA-7] (M001218)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -73,3 +74,4 @@ Improving Law Enforcement Officer Safety and Wellness Through Data Act
 - 2025-05-15 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 403 - 11 (Roll no. 131). (text of amendment in the nature of a substitute: CR H2071-2072)
 - 2025-05-15 — Rule provides for consideration of H.R. 2240, H.R. 2243 and H.R. 2255. The resolution provides for consideration of H.R. 2240, H.R. 2243, and H.R. 2255. All bills are being considered under a closed rule with each bill having one motion to recommit.
 - 2025-05-15 — The previous question was ordered pursuant to the rule.
+- 2025-05-19 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
