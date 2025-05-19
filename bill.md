@@ -38,9 +38,13 @@ This Act may be cited as the “Veterans Claims Education Act of 2025”.
     >   - **(2)** The term “represent” means to prepare, present, or prosecute a claim under a law administered by the Secretary on behalf of a claimant.
 
 - **(b)** *Online information regarding persons that assist claimants* The Secretary of Veterans Affairs shall include, in each web portal of the Department of Veterans Affairs, through which an individual may file a claim for a benefit administered by the Under Secretary for Benefits or the Under Secretary for Health, a warning regarding fees an agent or attorney may charge such individual for assistance in filing such claim. Such warning shall include the following:
-  - **(1)** A link to the online maintained under subsection (h) of section 5103A of such title, as amended by subsection (a).
+  - **(1)** A link to the online tool maintained under subsection (h) of section 5103A of such title, as amended by subsection (a).
   - **(2)** A link to the website of the Department described in subparagraph (D) of section 5103A(f)(1) of such title, as amended by subsection (a).
 - **(c)** *Report* Not later than 180 days after the date of the enactment of this Act, the Secretary shall—
   - **(1)** complete a review the regulations, processes, and procedures of the Department of Veterans Affairs that pertain to recognition under section 5904 of title 38, United States Code;
   - **(2)** develop recommendations for legislative or administrative action to improve such regulations, processes, and procedures; and
   - **(3)** submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report containing the findings of the Secretary with respect to the review completed under paragraph (1) and the recommendations developed under paragraph (2).
+
+## § 3. Extension of certain limits on payments of pension
+
+Section 5503(d)(7) of title 38, United States Code, is amended by striking “November 30, 2031” and inserting “March 31, 2032”.
