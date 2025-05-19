@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1364
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1364
@@ -43,3 +43,9 @@ Automotive Support Services to Improve Safe Transportation Act of 2025
 - 2025-05-15 — Placed on the Union Calendar, Calendar No. 69.
 - 2025-05-15 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-96.
 - 2025-05-15 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-96.
+- 2025-05-19 — Considered under suspension of the rules. (consideration: CR H2132-2133)
+- 2025-05-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1364.
+- 2025-05-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-05-19 — Mr. Bost moved to suspend the rules and pass the bill, as amended.
+- 2025-05-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2132)
+- 2025-05-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2132)
