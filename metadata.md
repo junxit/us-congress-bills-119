@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1453
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1453
@@ -20,9 +20,10 @@ Clean Energy Demonstration Transparency Act of 2025
 
 - Rep. Riley, Josh [D-NY-19] (R000622)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -35,3 +36,4 @@ Clean Energy Demonstration Transparency Act of 2025
 - 2025-05-19 — Mr. Babin moved to suspend the rules and pass the bill.
 - 2025-05-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2115)
 - 2025-05-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2115)
+- 2025-05-20 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
