@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1286
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1286
@@ -37,9 +37,10 @@ Simplifying Forms for Veterans Claims Act
 - Rep. Williams, Roger [R-TX-25] (W000816)
 - Rep. Fischbach, Michelle [R-MN-7] (F000470)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -66,3 +67,4 @@ Simplifying Forms for Veterans Claims Act
 - 2025-05-19 — Mr. Bost moved to suspend the rules and pass the bill, as amended.
 - 2025-05-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 386 - 1 (Roll no. 133). (text: CR H2125)
 - 2025-05-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 386 - 1 (Roll no. 133). (text: CR H2125)
+- 2025-05-20 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
