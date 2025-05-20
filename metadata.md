@@ -1,7 +1,7 @@
 ---
 measure: S. 216
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 216
@@ -32,3 +32,5 @@ Save Our Seas 2.0 Amendments Act
 - 2025-04-08 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-12.
 - 2025-04-08 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-12.
 - 2025-04-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 40.
+- 2025-05-20 — Passed Senate without amendment by Voice Vote. (consideration: CR S3001-3002; text: CR S3001-3002)
+- 2025-05-20 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
