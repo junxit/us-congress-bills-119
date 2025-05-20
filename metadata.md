@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1147
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1147
@@ -22,9 +22,10 @@ Veterans Accessibility Advisory Committee Act of 2025
 - Rep. Brownley, Julia [D-CA-26] (B001285)
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ Veterans Accessibility Advisory Committee Act of 2025
 - 2025-05-19 — Mr. Bost moved to suspend the rules and pass the bill, as amended.
 - 2025-05-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2123-2124)
 - 2025-05-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2123-2124)
+- 2025-05-20 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
