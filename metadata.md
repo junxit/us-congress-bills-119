@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1578
 congress: 119
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1578
@@ -28,9 +28,10 @@ Veterans Claims Education Act of 2025
 - Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
 - Rep. Min, Dave [D-CA-47] (M001241)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ Veterans Claims Education Act of 2025
 - 2025-05-19 — Placed on the Union Calendar, Calendar No. 75.
 - 2025-05-19 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-102.
 - 2025-05-19 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-102.
+- 2025-05-20 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
