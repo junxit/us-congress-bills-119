@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1815
 congress: 119
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1815
@@ -41,3 +41,14 @@ VA Home Loan Program Reform Act
 - 2025-05-19 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-104.
 - 2025-05-19 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-104.
 - 2025-05-20 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2025-07-15 — Passed Senate without amendment by Voice Vote. (consideration: CR S4373-4374)
+- 2025-07-15 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2025-07-15 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2025-07-15 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2025-07-16 — Message on Senate action sent to the House.
+- 2025-07-18 — Presented to President.
+- 2025-07-18 — Presented to President.
+- 2025-07-30 — Became Public Law No: 119-31.
+- 2025-07-30 — Became Public Law No: 119-31.
+- 2025-07-30 — Signed by President.
+- 2025-07-30 — Signed by President.
