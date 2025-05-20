@@ -1,7 +1,7 @@
 ---
 measure: S. 237
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 237
@@ -16,7 +16,7 @@ Honoring Our Fallen Heroes Act of 2025
 
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 
-## Cosponsors (28)
+## Cosponsors (40)
 
 - Sen. Cramer, Kevin [R-ND] (C001096)
 - Sen. Banks, Jim [R-IN] (B001299)
@@ -46,6 +46,18 @@ Honoring Our Fallen Heroes Act of 2025
 - Sen. Welch, Peter [D-VT] (W000800)
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 - Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Gallego, Ruben [D-AZ] (G000574)
+- Sen. Moreno, Bernie [R-OH] (M001242)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Moody, Ashley [R-FL] (M001244)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
 
 ## Committees (1)
 
@@ -55,3 +67,7 @@ Honoring Our Fallen Heroes Act of 2025
 
 - 2025-01-23 — Introduced in Senate
 - 2025-01-23 — Read twice and referred to the Committee on the Judiciary.
+- 2025-05-15 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2025-05-20 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
+- 2025-05-20 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
+- 2025-05-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 78.
