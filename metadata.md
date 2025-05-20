@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1263
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1263
@@ -24,9 +24,10 @@ Strengthening the Quad Act
 - Rep. Kamlager-Dove, Sydney [D-CA-37] (K000400)
 - Rep. Case, Ed [D-HI-1] (C001055)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -45,3 +46,4 @@ Strengthening the Quad Act
 - 2025-05-19 — Mr. Huizenga moved to suspend the rules and pass the bill.
 - 2025-05-19 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 334 - 51 (Roll no. 132). (text: CR H2119-2120)
 - 2025-05-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 334 - 51 (Roll no. 132). (text: CR H2119-2120)
+- 2025-05-20 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
