@@ -1,7 +1,7 @@
 ---
 measure: S. 1563
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1563
@@ -16,9 +16,11 @@ Retired Law Enforcement Officers Continuing Service Act
 
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
 
 ## Committees (1)
 
@@ -28,3 +30,7 @@ Retired Law Enforcement Officers Continuing Service Act
 
 - 2025-05-01 — Introduced in Senate
 - 2025-05-01 — Read twice and referred to the Committee on the Judiciary.
+- 2025-05-15 — Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2025-05-20 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
+- 2025-05-20 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
+- 2025-05-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 83.
