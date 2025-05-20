@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1364
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1364
@@ -26,9 +26,10 @@ Automotive Support Services to Improve Safe Transportation Act of 2025
 - Rep. Crow, Jason [D-CO-6] (C001121)
 - Rep. Vindman, Eugene Simon [D-VA-7] (V000138)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ Automotive Support Services to Improve Safe Transportation Act of 2025
 - 2025-05-19 — Mr. Bost moved to suspend the rules and pass the bill, as amended.
 - 2025-05-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2132)
 - 2025-05-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2132)
+- 2025-05-20 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
