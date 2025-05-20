@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 3520
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3520
+
+> To amend the Controlled Substances Act to provide for the scheduling of tianeptine as a schedule III substance, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Scheduling Tianeptine and Analogues Now to Defend Against Emerging Opioids Act” or the “STAND Against Emerging Opioids Act”.
+
+## § 2. Scheduling of tianeptine
+
+- **(a)** *In general* Section 202(c) of the Controlled Substances Act (21 U.S.C. 812(c)) is amended by adding at the end of schedule III the following:
+  > - **(f)** Tianeptine, including its analogues, salts, isomers, and salts of isomers.
+
+- **(b)** *Effective date* The amendment made by subsection (a) shall become effective on the date that is 90 days after the date of enactment of this Act.
