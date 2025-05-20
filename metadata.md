@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1815
 congress: 119
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 1815
@@ -16,9 +16,10 @@ VA Home Loan Program Reform Act
 
 - Rep. Van Orden, Derrick [R-WI-3] (V000135)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ VA Home Loan Program Reform Act
 - 2025-05-19 — Placed on the Union Calendar, Calendar No. 77.
 - 2025-05-19 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-104.
 - 2025-05-19 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-104.
+- 2025-05-20 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
