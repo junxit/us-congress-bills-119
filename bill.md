@@ -1,0 +1,35 @@
+---
+legis-num: S. 1817
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1817
+
+> To amend section 235 of the Immigration and Nationality Act to treat inadmissible aliens more consistently regardless of their country of nationality, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Expedited Removal Expansion Act of 2025”.
+
+## § 2. Inspection of aliens for admission
+
+Section 235(b)(1) of the Immigration and Nationality Act (8 U.S.C. 1225(b)(1)) is amended—
+
+- **(1)** in subparagraph (A)—
+  - **(A)** in clause (i)—
+    - **(i)** by striking “(other than an alien described in subparagraph (F))”; and
+    - **(ii)** by striking “section 212(a)(6)(C) or 212(a)(7)” and inserting “paragraph (6) or (7) of section 212(a)”;
+  - **(B)** in clause (ii)—
+    - **(i)** by striking “(other than an alien described in subparagraph (F))”; and
+    - **(ii)** by striking “section 212(a)(6)(C) or 212(a)(7)” and inserting “paragraph (6) or (7) of section 212(a)”; and
+  - **(C)** by amending clause (iii) to read as follows:
+    > - **(iii)** *Application to certain other aliens* The Secretary of Homeland Security may apply clauses (i) and (ii) to any alien who is inadmissible under paragraph (6) or (7) of section 212(a), without limitation. Such application shall be in the sole and unreviewable discretion of the Secretary and may be modified by the Secretary at any time.
+
+- **(2)** in subparagraph (B)—
+  - **(A)** by striking “Attorney General” each place such term appears and inserting “Secretary of Homeland Security”; and
+  - **(B)** in clause (v), by striking “a significant possibility” and inserting “clear and convincing evidence”;
+- **(3)** in subparagraph (C), by striking “Attorney General” and inserting “Secretary of Homeland Security”;
+- **(4)** by striking subparagraph (F); and
+- **(5)** by redesignating subparagraph (G) as subparagraph (F).
