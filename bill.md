@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Returning SBA to Main Street Act”.
+This Act may be cited as the “Returning SBA to Main Street Act of 2025”.
 
 ## § 2. Definitions
 
@@ -25,7 +25,7 @@ In this Act:
   - **(B)** an employee of the Administration—
     - **(i)** who teleworks on a full-time basis; and
     - **(ii)** whose rate of pay is calculated based on the Washington metropolitan area rate of pay.
-- **(5)** *Headquarters of the Administration* The term headquarters of the Administration means the building serving as the principal managerial and administrative center of the Administration, in accordance with section 4(a) of the Small Business Act (15 U.S.C. 633(a)).
+- **(5)** *Headquarters of the Administration* The term headquarters of the Administration means the building serving as the principal managerial and administrative center of the Administration in accordance with section 4(a) of the Small Business Act (15 U.S.C. 633(a)).
 - **(6)** *Pay locality* The term pay locality has the meaning given that term in section 5302 of title 5, United States Code.
 - **(7)** *Rural* The term rural means any area that is not designated as an urban area, based on the most recent data available from the Bureau of the Census.
 - **(8)** *Telework* The term telework has the meaning given that term in section 6501 of title 5, United States Code.
@@ -36,7 +36,7 @@ In this Act:
 ## § 3. Relocation of employee
 
 - **(a)** *In general* Notwithstanding any other provisions of law, and not later than 1 year after the date of enactment of this Act, if the Administrator determines that implementing the requirements under paragraphs (1) and (2) of this subsection will reduce the cost to the Federal Government (which determination the Administrator shall explain in detail in the report required under subsection (d) of this section) the Administrator shall—
-  - **(1)** change the permanent duty station of not less than 30 percent of the headquarters employees of the Administration, as of the date of enactment of this Act, to be at an office of the Administration at a location outside the Washington metropolitan area, which shall be at locations throughout the regions of the Administration; and
+  - **(1)** change the permanent duty station of not less than 30 percent of the headquarters employees of the Administration as of the date of enactment of this Act, to be at an office of the Administration at a location outside the Washington metropolitan area, which shall be at locations throughout the regions of the Administration; and
   - **(2)** for each employee of the Administration whose permanent duty station is changed under paragraph (1), ensure that—
     - **(A)** the rate of pay of the employee is calculated based on the pay locality for the permanent duty station of the employee; and
     - **(B)** the employee is not authorized to telework on a full-time basis.
@@ -56,7 +56,7 @@ In this Act:
   - **(4)** the number of headquarters employees of the Administration subject to an exception under subsection (c)(2); and
   - **(5)** the plan of the Administrator to implement subsection (a).
 - **(e)** *Implementation*
-  - **(1)** *In general* Not earlier than 60 days, and not later than 90 days, after the date on which the Administrator submits the report required under subsection (d), the Administrator shall notify each headquarters employee of the Administration whose permanent duty station will be changed to be at an office of the Administration located outside the Washington metropolitan area under subsection (a)—
+  - **(1)** *In general* Not earlier than 60 days and not later than 90 days after the date on which the Administrator submits the report required under subsection (d), the Administrator shall notify each headquarters employee of the Administration whose permanent duty station will be changed to be at an office of the Administration located outside the Washington metropolitan area under subsection (a)—
     - **(A)** that, effective 90 days after the date of the notification—
       - **(i)** the permanent duty station of the employee shall be changed;
       - **(ii)** the rate of pay of the employee shall be calculated based on the pay locality for such permanent duty station; and
