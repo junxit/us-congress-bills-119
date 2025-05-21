@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “American Entrepreneurs First Act”.
+This Act may be cited as the “American Entrepreneurs First Act of 2025”.
 
 ## § 2. Requirements for citizenship status documentation for certain loan programs of the Small Business Administration
 

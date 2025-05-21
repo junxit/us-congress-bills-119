@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2966
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2966
@@ -29,3 +29,8 @@ American Entrepreneurs First Act of 2025
 - 2025-04-17 — Introduced in House
 - 2025-04-17 — Introduced in House
 - 2025-04-17 — Referred to the House Committee on Small Business.
+- 2025-04-30 — Committee Consideration and Mark-up Session Held
+- 2025-04-30 — Ordered to be Reported (Amended) by the Yeas and Nays: 15 - 11.
+- 2025-05-21 — Placed on the Union Calendar, Calendar No. 83.
+- 2025-05-21 — Reported (Amended) by the Committee on Small Business. H. Rept. 119-112.
+- 2025-05-21 — Reported (Amended) by the Committee on Small Business. H. Rept. 119-112.
