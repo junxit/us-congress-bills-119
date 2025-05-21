@@ -1,7 +1,7 @@
 ---
 measure: S. 283
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 283
@@ -30,3 +30,7 @@ Illegal Red Snapper and Tuna Enforcement Act
 
 - 2025-01-28 — Introduced in Senate
 - 2025-01-28 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2025-02-05 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2025-05-21 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-24.
+- 2025-05-21 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-24.
+- 2025-05-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 86.
