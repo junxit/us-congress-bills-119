@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 88
 congress: 119
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.J.Res. 88
@@ -64,9 +64,10 @@ Providing congressional disapproval under chapter 8 of title 5, United States Co
 
 - House — Energy and Commerce Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2025-05-01 — [House 119-1-114](votes/house-119-1-0114.md) — On Passage — **Passed** (246–164)
+- 2025-05-21 — [Senate 119-1-276](votes/senate-119-1-0276.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (51–46)
 
 ## Actions
 
@@ -85,3 +86,6 @@ Providing congressional disapproval under chapter 8 of title 5, United States Co
 - 2025-05-01 — Motion to reconsider laid on the table Agreed to without objection.
 - 2025-05-01 — On passage Passed by the Yeas and Nays: 246 - 164 (Roll no. 114). (text: 04/30/2025 CR H1749)
 - 2025-05-01 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 246 - 164 (Roll no. 114). (text: 04/30/2025 CR H1749)
+- 2025-05-21 — Measure laid before Senate by motion. (consideration: CR S3052)
+- 2025-05-21 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 51 - 46. Record Vote Number: 276.
+- 2025-05-21 — Received in the Senate, read twice.
