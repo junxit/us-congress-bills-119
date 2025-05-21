@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 55
 congress: 119
-version: Engrossed in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 55
