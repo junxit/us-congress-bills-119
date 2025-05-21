@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Capping Excessive Awarding of SBLC Entrants Act” or the “CEASE Act”.
+This Act may be cited as the “Capping Excessive Awarding of SBLC Entrants Act of 2025” or the “CEASE Act of 2025”.
 
 ## § 2. Limitation on number of small business lending companies
 
