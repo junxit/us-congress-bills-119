@@ -1,0 +1,30 @@
+---
+legis-num: S. 1836
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1836
+
+> To amend title XVIII of the Social Security Act to strengthen the drug pricing reforms in the Inflation Reduction Act.
+
+## § 1. Short title
+
+This Act may be cited as the “Strengthening Medicare And Reducing Taxpayer Prices Act” or the “SMART Prices Act”.
+
+## § 2. Improvements to the Medicare Drug Price Negotiation Program
+
+- **(a)** *Acceleration of the selection of negotiation-Eligible drugs* Section 1192(a) of the Social Security Act (42 U.S.C. 1320f–1(a)) is amended—
+  - **(1)** in paragraph (3)—
+    - **(A)** by striking “2028, 15 negotiation-eligible drugs” and inserting “2028 or a subsequent year, 50 negotiation-eligible drugs”; and
+    - **(B)** by striking “; and” at the end and inserting a period; and
+  - **(2)** by striking paragraph (4).
+- **(b)** *Improvements to the definition of qualifying single source drug* Section 1192(e)(1) of the Social Security Act (42 U.S.C. 1320f–1(e)(1)) is amended—
+  - **(1)** in subparagraph (A)(ii), by striking “7 years” and inserting “3 years”; and
+  - **(2)** in subparagraph (B)(ii), by striking “11 years” and inserting “3 years”.
+- **(c)** *Improvement to the ceiling for maximum fair price* Section 1194(c)(3) of the Social Security Act (42 U.S.C. 1320f–3(c)(3)) is amended—
+  - **(1)** in subparagraph (A), by striking “75 percent” and inserting “76 percent”;
+  - **(2)** in subparagraph (B), by striking “65 percent” and inserting “55 percent”; and
+  - **(3)** in subparagraph (C), by striking “40 percent” and inserting “30 percent”.
+- **(d)** *Effective date* The amendments made by this section shall apply with respect to initial price applicability years (as defined in section 1191(b) of the Social Security Act (42 U.S.C. 1320f(b))) beginning with initial price applicability year 2028.
