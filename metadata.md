@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 87
 congress: 119
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 87
@@ -47,9 +47,11 @@ Providing congressional disapproval under chapter 8 of title 5, United States Co
 
 - House — Energy and Commerce Committee
 
-## Recorded votes (1)
+## Recorded votes (3)
 
 - 2025-04-30 — [House 119-1-111](votes/house-119-1-0111.md) — On Passage — **Passed** (231–191)
+- 2025-05-22 — [Senate 119-1-278](votes/senate-119-1-0278.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (51–46)
+- 2025-05-22 — [Senate 119-1-279](votes/senate-119-1-0279.md) — On the Joint Resolution — **Joint Resolution Passed** (51–45)
 
 ## Actions
 
@@ -67,3 +69,14 @@ Providing congressional disapproval under chapter 8 of title 5, United States Co
 - 2025-04-30 — Rule provides for consideration of H.J. Res. 60, H.J. Res. 78, H.J. Res. 87, H.J. Res. 88 and H.J. Res. 89. The resolution provides for consideration of H.J. Res. 60, H.J. Res. 78, H.J. Res. 87, H.J. Res. 88, and H.J. Res. 89 under a closed rule with one hour of debate and one motion to recommit on each joint resolution.
 - 2025-04-30 — The previous question was ordered pursuant to the rule.
 - 2025-05-21 — Received in the Senate, read twice.
+- 2025-05-22 — Measure laid before Senate by motion. (consideration: CR S3102, S3105)
+- 2025-05-22 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 51 - 46. Record Vote Number: 278.
+- 2025-05-22 — Passed Senate without amendment by Yea-Nay Vote. 51 - 45. Record Vote Number: 279.
+- 2025-05-22 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 51 - 45. Record Vote Number: 279.
+- 2025-05-23 — Message on Senate action sent to the House.
+- 2025-06-06 — Presented to President.
+- 2025-06-06 — Presented to President.
+- 2025-06-12 — Became Public Law No: 119-15.
+- 2025-06-12 — Became Public Law No: 119-15.
+- 2025-06-12 — Signed by President.
+- 2025-06-12 — Signed by President.
