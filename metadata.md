@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 89
 congress: 119
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.J.Res. 89
@@ -75,3 +75,4 @@ Providing congressional disapproval under chapter 8 of title 5, United States Co
 - 2025-04-30 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 225 - 196 (Roll no. 112). (text: CR H1755)
 - 2025-04-30 — Rule provides for consideration of H.J. Res. 60, H.J. Res. 78, H.J. Res. 87, H.J. Res. 88, and H.J. Res. 89. The resolution provides for consideration of H.J. Res. 60, H.J. Res. 78, H.J. Res. 87, H.J. Res. 88, and H.J. Res. 89 under a closed rule with one hour of debate and one motion to recommit on each joint resolution.
 - 2025-04-30 — The previous question was ordered pursuant to the rule.
+- 2025-05-21 — Received in the Senate, read twice.
