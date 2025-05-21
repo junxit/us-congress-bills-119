@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Save SBA from Sanctuary Cities Act”.
+This Act may be cited as the “Save SBA from Sanctuary Cities Act of 2025”.
 
 ## § 2. Relocation of certain offices in sanctuary jurisdictions
 
@@ -20,20 +20,19 @@ This Act may be cited as the “Save SBA from Sanctuary Cities Act”.
 - **(c)** *Relocation requirement* When relocating a covered office under this section, the Administrator shall relocate such covered office to a location that—
   - **(1)** is not in a sanctuary jurisdiction; and
   - **(2)** if the State in which such covered office is located prior to such relocation is not a sanctuary jurisdiction, is in such State.
-- **(d)** *Suspension of operations* During the period the Administrator is relocating a covered office under this section that is located in a State that is a sanctuary jurisdiction, such covered office shall cease the operations of such office in such State.
-- **(e)** *Relocation deadline*
-  - **(1)** *Deadline* Not later 60 days after the Administrator makes publicly available a determination under subsection (b) with respect to a covered office, the Administrator shall relocate such covered office in accordance with subsection (c).
+- **(d)** *Relocation deadline*
+  - **(1)** *Deadline* Not later 120 days after the Administrator makes publicly available a determination under subsection (b) with respect to a covered office, the Administrator shall relocate such covered office in accordance with subsection (c).
   - **(2)** *Noncompliance*
-    - **(A)** *In general* If a covered office described in paragraph (1) is not relocated in accordance with subsection (c) prior to the expiration of the 60-day period applicable to such relocation under such paragraph—
-      - **(i)** not later 5 days after the expiration of such 60-day period, the head of such covered office shall submit to the Administrator a written explanation of why such covered office was not relocated prior to expiration of such 60-day period; and
-      - **(ii)** during the period beginning on the day after expiration of such 60-day period and ending on the date on which such covered office is relocated to a location that is not in a sanctuary jurisdiction—
+    - **(A)** *In general* If a covered office described in paragraph (1) is not relocated in accordance with subsection (c) prior to the expiration of the 120-day period applicable to such relocation under such paragraph—
+      - **(i)** not later 5 days after the expiration of such 120-day period, the head of such covered office shall submit to the Administrator a written explanation of why such covered office was not relocated prior to expiration of such 120-day period; and
+      - **(ii)** during the period beginning on the day after expiration of such 120-day period and ending on the date on which such covered office is relocated to a location that is not in a sanctuary jurisdiction—
         - **(I)** such covered office shall cease operations; and
         - **(II)** each employee of the Administration whose duty station was at such covered office shall be assigned to a duty station at another covered office that is located in the same State and not in a sanctuary jurisdiction or, if no other covered office is located in the same State and not in a sanctuary jurisdiction, any other covered office that is not located in a sanctuary jurisdiction.
     - **(B)** *Removal* The Administrator shall immediately remove the head of a covered office required to submit a written explanation under subparagraph (A)(i) if—
       - **(i)** such head does not submit such a written explanation in accordance with such subparagraph; or
-      - **(ii)** the Administrator determines that the reasons provided in the written explanation submitted by such head under such subparagraph for the relocation of such covered office not being completed prior to the expiration of the 60-day period described in paragraph (1) with respect to such covered office are insufficient.
-- **(f)** *New office limitation* The Administrator may not establish a covered office in sanctuary jurisdiction.
-- **(g)** *Definitions* In this section:
+      - **(ii)** the Administrator determines that the reasons provided in the written explanation submitted by such head under such subparagraph for the relocation of such covered office not being completed prior to the expiration of the 120-day period described in paragraph (1) with respect to such covered office are insufficient.
+- **(e)** *New office limitation* The Administrator may not establish a covered office in sanctuary jurisdiction.
+- **(f)** *Definitions* In this section:
   - **(1)** *Administration* The term Administration means the Small Business Administration.
   - **(2)** *Administrator* The term Administrator means the Administrator of the Administration.
   - **(3)** *Covered office* The term covered office means a regional, district, or local office the Administration, other than the headquarters of the Administration, or any other component of the Administration fully funded by funds appropriated by Congress.
