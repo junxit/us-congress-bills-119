@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1223
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1223
@@ -24,9 +24,14 @@ ANCHOR Act
 - Rep. Riley, Josh [D-NY-19] (R000622)
 - Rep. Begich, Nicholas J. [R-AK-At Large] (B001323)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
+
+## Recorded votes (1)
+
+- 2025-05-20 — [House 119-1-136](votes/house-119-1-0136.md) — On Motion to Suspend the Rules and Pass — **Passed** (412–11)
 
 ## Actions
 
@@ -39,3 +44,8 @@ ANCHOR Act
 - 2025-05-19 — Considered under suspension of the rules. (consideration: CR H2113-2115)
 - 2025-05-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1223.
 - 2025-05-19 — Mr. Fong moved to suspend the rules and pass the bill.
+- 2025-05-20 — Considered as unfinished business. (consideration: CR H2168)
+- 2025-05-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-05-20 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 11 (Roll no. 136). (text: 5/19/2025 CR H2113-2114)
+- 2025-05-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 412 - 11 (Roll no. 136). (text: 5/19/2025 CR H2113-2114)
+- 2025-05-21 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
