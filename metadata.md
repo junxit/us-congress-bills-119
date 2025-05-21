@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 88
 congress: 119
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 88
@@ -64,10 +64,11 @@ Providing congressional disapproval under chapter 8 of title 5, United States Co
 
 - House — Energy and Commerce Committee
 
-## Recorded votes (2)
+## Recorded votes (3)
 
 - 2025-05-01 — [House 119-1-114](votes/house-119-1-0114.md) — On Passage — **Passed** (246–164)
 - 2025-05-21 — [Senate 119-1-276](votes/senate-119-1-0276.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (51–46)
+- 2025-05-22 — [Senate 119-1-277](votes/senate-119-1-0277.md) — On the Joint Resolution — **Joint Resolution Passed** (51–44)
 
 ## Actions
 
@@ -89,3 +90,13 @@ Providing congressional disapproval under chapter 8 of title 5, United States Co
 - 2025-05-21 — Measure laid before Senate by motion. (consideration: CR S3052)
 - 2025-05-21 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 51 - 46. Record Vote Number: 276.
 - 2025-05-21 — Received in the Senate, read twice.
+- 2025-05-22 — Considered by Senate. (consideration: CR S3101)
+- 2025-05-22 — Passed Senate without amendment by Yea-Nay Vote. 51 - 44. Record Vote Number: 277.
+- 2025-05-22 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 51 - 44. Record Vote Number: 277.
+- 2025-05-23 — Message on Senate action sent to the House.
+- 2025-06-06 — Presented to President.
+- 2025-06-06 — Presented to President.
+- 2025-06-12 — Became Public Law No: 119-16.
+- 2025-06-12 — Became Public Law No: 119-16.
+- 2025-06-12 — Signed by President.
+- 2025-06-12 — Signed by President.
