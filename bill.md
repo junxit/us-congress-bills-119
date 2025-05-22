@@ -15,4 +15,4 @@ This Act may be cited as the “One Big Beautiful Bill Act”.
 
 ## § 2. Table of contents
 
-The table of contents for this Act is as follows:
+The table of contents of this Act is as follows:
