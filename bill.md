@@ -1,0 +1,24 @@
+---
+legis-num: H.R. 3582
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3582
+
+> To amend section 207 of title 18 to prohibit former employees of the State Department and the Department of Defense from lobbying the Federal Government on matters of foreign military sales, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “No revolving doors in FMS Act of 2025”.
+
+## § 2. Foreign miltary sales
+
+Section 207(f) of title 18, United States Code, is amended by—
+
+- **(1)** redesignating paragraph (3) as paragraph (4); and
+- **(2)** inserting after paragraph (2) the following new paragraph:
+  > - **(3)** *Foreign military sales* Any person who—
+  >   - **(A)** is a former State Department or Department of Defense employee and who participated in any program, project, or activity relating to foreign military sales authorized under chapter 2 of the Arms Export Control Act (22 U.S.C. 2761 et seq.) at any time during the 3-year period ending on separation from Federal employment; and
+  >   - **(B)** knowingly makes, with the intent to influence any Federal determination authorized pursuant to such chapter, any communication to or appearance before any officer or employee of any Federal department or agency or Congress to influence such foreign military sales,
