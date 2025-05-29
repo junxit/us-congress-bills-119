@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2483
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2483
@@ -35,3 +35,14 @@ SUPPORT for Patients and Communities Reauthorization Act of 2025
 - 2025-03-31 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Education and Workforce, the Judiciary, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2025-03-31 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Education and Workforce, the Judiciary, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2025-03-31 — Referred to the Committee on Energy and Commerce, and in addition to the Committees on Education and Workforce, the Judiciary, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-04-29 — Committee Consideration and Mark-up Session Held
+- 2025-04-29 — Ordered to be Reported (Amended) by the Yeas and Nays: 36 - 13.
+- 2025-05-29 — Committee on Education and Workforce discharged.
+- 2025-05-29 — Committee on Education and Workforce discharged.
+- 2025-05-29 — Committee on Financial Services discharged.
+- 2025-05-29 — Committee on Financial Services discharged.
+- 2025-05-29 — Committee on the Judiciary discharged.
+- 2025-05-29 — Committee on the Judiciary discharged.
+- 2025-05-29 — Placed on the Union Calendar, Calendar No. 84.
+- 2025-05-29 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-114, Part I.
+- 2025-05-29 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-114, Part I.
