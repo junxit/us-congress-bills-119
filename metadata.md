@@ -1,7 +1,7 @@
 ---
 measure: S. 433
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 433
@@ -20,7 +20,15 @@ National Manufacturing Advisory Council Act
 
 - Sen. Blackburn, Marsha [R-TN] (B001243)
 
+## Committees (1)
+
+- Senate — Commerce, Science, and Transportation Committee
+
 ## Actions
 
 - 2025-02-05 — Introduced in Senate
 - 2025-02-05 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2025-03-12 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment favorably.
+- 2025-06-02 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment. With written report No. 119-27.
+- 2025-06-02 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment. With written report No. 119-27.
+- 2025-06-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 89.

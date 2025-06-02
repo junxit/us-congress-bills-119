@@ -50,7 +50,7 @@ This Act may be cited as the “National Manufacturing Advisory Council Act”.
     - **(B)** training and education priorities for the Federal Government and employers to assist workers in adapting the skills and experiences of those workers to fit the demands of the manufacturing sector in the United States in the 21st century;
     - **(C)** how the development of new technologies and processes have impacted, and will impact, the manufacturing workforce of the United States and the economy of the United States, which shall be based on input from manufacturing workers;
     - **(D)** policies and procedures that expand access to jobs, career advancement opportunities, and management opportunities in the manufacturing sector in the United States for low-income individuals in the United States, or new entrants into that sector, in both urban and rural areas; and
-    - **(E)** how to improve access to demand-driven manufacturing-related education, training, and re-training for workers, including at community and technical colleges, through other institutions of higher education and through apprenticeships and work-based learning opportunities.
+    - **(E)** how to improve access to demand-driven manufacturing-related education, training, and re-training for workers, including at community and technical colleges, through other institutions of higher education, and through apprenticeships and work-based learning opportunities.
   - **(6)** Providing recommendations to the Secretary on ways to—
     - **(A)** provide—
       - **(i)** manufacturing-related worker education, training, and development; and
