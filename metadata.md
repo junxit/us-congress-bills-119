@@ -1,7 +1,7 @@
 ---
 measure: S. 258
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 258
@@ -16,7 +16,7 @@ TORNADO Act
 
 - Sen. Wicker, Roger F. [R-MS] (W000437)
 
-## Cosponsors (8)
+## Cosponsors (9)
 
 - Sen. Hyde-Smith, Cindy [R-MS] (H001079)
 - Sen. Grassley, Chuck [R-IA] (G000386)
@@ -26,6 +26,7 @@ TORNADO Act
 - Sen. Cruz, Ted [R-TX] (C001098)
 - Sen. Peters, Gary C. [D-MI] (P000595)
 - Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
 
 ## Committees (1)
 
@@ -35,3 +36,7 @@ TORNADO Act
 
 - 2025-01-27 — Introduced in Senate
 - 2025-01-27 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2025-02-05 — Committee on Commerce, Science, and Transportation. Ordered to be reported with amendments favorably.
+- 2025-06-02 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with amendments. With written report No. 119-26.
+- 2025-06-02 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with amendments. With written report No. 119-26.
+- 2025-06-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 88.

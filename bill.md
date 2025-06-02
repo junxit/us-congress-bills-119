@@ -44,7 +44,8 @@ In this Act:
     - **(C)** account for the needs of various demographics, vulnerable populations, and geographic regions;
     - **(D)** account for the differences between various types of weather and water hazards;
     - **(E)** respond to the needs of Federal, State, and local government partners and media partners; and
-    - **(F)** account for necessary changes in the infrastructure, technology, and protocols for creating and disseminating federally operated watches and warnings.
+    - **(F)** account for the need for enhanced or earlier communication of a hazardous weather event to inform action and encourage response when the event occurs in a geographic area where the event is historically abnormal; and
+    - **(F)(G)** account for necessary changes in the infrastructure, technology, and protocols for creating and disseminating federally operated watches and warnings.
   - **(7)** *Coordination* In implementing this subsection, the Office shall coordinate with—
     - **(A)** Federal partners, including National Laboratories, Cooperative Institutes, and regional integrated sciences and assessments programs;
     - **(B)** State and local government partners;
@@ -78,7 +79,8 @@ In this Act:
     - **(C)** real-time high-resolution probabilistic forecasts;
     - **(D)** improved observations, including through radars, satellites, and uncrewed aerial systems;
     - **(E)** a flexible framework to communicate clear and simple hazardous weather and water event information to the public; and
-    - **(F)** social, behavioral, risk, and communication research to improve the forecaster operational environment and societal information reception and response.
+    - **(F)** improved coordination among offices of the National Weather Service, such as the National Hurricane Center, the River Forecast Centers, and forecast offices of the National Weather Service, to reduce the occurrence of disparate weather predictions and to better communicate the relationship between overlapping weather forecasts for different periods of time; and
+    - **(F)(G)** social, behavioral, risk, and communication research to improve the forecaster operational environment and societal information reception and response.
 
 ## § 5. Tornado rating system
 
