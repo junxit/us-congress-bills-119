@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 3667
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3667
+
+> To codify certain Executive orders relating to nuclear energy.
+
+## § 1. Short title
+
+This Act may be cited as the “Strengthening American Nuclear Energy Act”.
+
+## § 2. Codification of Executive orders relating to nuclear energy
+
+The following Executive orders, signed on May 23, 2025, shall have the force and effect of law:
+
+- **(1)** The Executive order entitled “Reforming Nuclear Reactor Testing at the Department of Energy”.
+- **(2)** The Executive order entitled “Deploying Advanced Nuclear Reactor Technologies for National Security”.
+- **(3)** The Executive order entitled “Ordering the Reform of the Nuclear Regulatory Commission”.
+- **(4)** The Executive order entitled “Reinvigorating the Nuclear Industrial Base”.
