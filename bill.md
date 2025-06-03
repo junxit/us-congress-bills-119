@@ -22,7 +22,7 @@ This Act may be cited as the “Transparency and Predictability in Small Busines
     - **(C)** Available information about any plans to include the requirements of such covered solicitation in another contract or task order of the Federal agency.
   - **(2)** With respect to a cancelled covered solicitation which the Federal agency does not intend to reissue, establishing procedures for the referral of a small business concern (as defined under section 3 of the Small Business Act (15 U.S.C. 632)) that prepared a bid for such covered solicitation to the Director of Small and Disadvantaged Business Utilization (as defined in section 15(k) of such Act (15 U.S.C. 644(k))) of the Federal agency for assistance in identifying similar contracting opportunities.
 - **(b)** *Publication* The information required under subsection (a) shall be made publicly accessible on the single, Government-wide point of entry described under section 1708 of title 41, United States Code.
-- **(c)** *Covered solicitation defined* The term covered solicitation means a solicitation of a Federal agency for a procurement for which two or more small business concerns were eligible to submit a bid.
+- **(c)** *Covered solicitation defined* In this section, the term covered solicitation means a solicitation of a Federal agency for a procurement for which two or more small business concerns were eligible to submit a bid.
 
 ## § 3. Duties for Directors of Offices of Small and Disadvantaged Business Utilization relating to certain cancelled solicitations
 
@@ -32,6 +32,6 @@ Section 15(k) of the Small Business Act (15 U.S.C. 644(k)) is amended—
 - **(2)** by adding at the end the following new paragraph:
   > - **(22)** shall, when notified by a small business concern that a Federal agency cancelled a solicitation for which such concern prepared a bid and such Federal agency does not intend to reissue such solicitation, assist such concern with identifying similar contracting opportunities.
 
-## § 4. Compliance with CUTGO
+## § 4. No additional funds authorized
 
-No additional amounts are authorized to be appropriated to carry out this Act or the amendments made by this Act.
+No additional funds are authorized to carry out the requirements of this Act and the amendments made by this Act.
