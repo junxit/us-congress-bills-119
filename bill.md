@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 3693
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3693
+
+> To prohibit the Federal Government from establishing or maintaining a database that contains data collected through, or facilitates, the biometric identity verification of a citizen of the United States, and for other purposes.
+
+## § 1. Prohibition on certain Federal Government databases
+
+- **(a)** *In general* An agency of the Federal Government may not establish or maintain a database that contains data collected through, or facilitates, the biometric identity verification of a citizen of the United States.
+- **(b)** *Biometric identity verification defined* In this section, the term “biometric identity verification” means the automated recognition of an individual based on the biological or behavioral characteristics of such individual from which distinguishing, repeatable biometric features are extracted, including fingerprints, iris patterns, or facial features.
