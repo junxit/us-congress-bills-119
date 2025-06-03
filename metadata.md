@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3352
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3352
@@ -16,9 +16,10 @@ HALOS Act of 2025
 
 - Rep. Lawler, Michael [R-NY-17] (L000599)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
+- Rep. Salazar, Maria Elvira [R-FL-27] (S000168)
 
 ## Committees (1)
 
@@ -29,3 +30,8 @@ HALOS Act of 2025
 - 2025-05-13 — Introduced in House
 - 2025-05-13 — Introduced in House
 - 2025-05-13 — Referred to the House Committee on Financial Services.
+- 2025-05-20 — Committee Consideration and Mark-up Session Held
+- 2025-05-20 — Ordered to be Reported (Amended) by the Yeas and Nays: 50 - 1.
+- 2025-06-03 — Placed on the Union Calendar, Calendar No. 93.
+- 2025-06-03 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-123.
+- 2025-06-03 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-123.

@@ -15,11 +15,13 @@ This Act may be cited as the “Helping Angels Lead Our Startups Act of 2025” 
 
 ## § 2. Clarification of general solicitation
 
-- **(a)** *Angel investor group defined* The term angel investor group means any group that—
-  - **(1)** is composed of accredited investors;
-  - **(2)** holds regular meetings and has defined processes and procedures for making investment decisions, either individually or among the membership of the group as a whole; and
-  - **(3)** is neither associated nor affiliated with brokers, dealers, or investment advisers.
-- **(b)** *In general* Not later than 6 months after the date of enactment of this Act, the Securities and Exchange Commission shall revise Regulation D (17 CFR 230.500 et seq.) to specify that the prohibition against general solicitation or general advertising contained in section 230.502(c) of title 17, Code of Federal Regulations, shall not apply to a presentation or other communication made by or on behalf of an issuer which is made at an event in which more than one issuer participates—
+- **(a)** *Definitions* For purposes of this section and the revision of rules required under this section:
+  - **(1)** *Angel investor group* The term angel investor group means any group that—
+    - **(A)** is composed of accredited investors interested in investing personal capital in early-stage companies;
+    - **(B)** holds regular meetings and has defined processes and procedures for making investment decisions, either individually or among the membership of the group as a whole; and
+    - **(C)** is neither associated nor affiliated with brokers, dealers, or investment advisers.
+  - **(2)** *Issuer* The term issuer means an issuer that is a business, is not in bankruptcy or receivership, is not an investment company, and is not a blank check, blind pool, or shell company.
+- **(b)** *In general* Not later than 6 months after the date of enactment of this Act, the Securities and Exchange Commission shall revise Regulation D (17 CFR 230.500 et seq.) to require that in carrying out the prohibition against general solicitation or general advertising contained in section 230.502(c) of title 17, Code of Federal Regulations, the prohibition shall not apply to a presentation or other communication made by or on behalf of an issuer which is made at an event—
   - **(1)** sponsored by—
     - **(A)** the United States or any territory thereof, the District of Columbia, any State, a federally recognized Indian Tribe, a political subdivision of any State, territory, or federally recognized Indian Tribe, or any agency or public instrumentality of any of the foregoing;
     - **(B)** a college, university, or other institution of higher education;
@@ -34,15 +36,13 @@ This Act may be cited as the “Helping Angels Lead Our Startups Act of 2025” 
     - **(A)** does not make investment recommendations or provide investment advice to event attendees;
     - **(B)** does not engage in an active role in any investment negotiations between the issuer and investors attending the event;
     - **(C)** does not charge event attendees any fees other than reasonable administrative fees;
-    - **(D)** does not receive any compensation for making introductions between investors attending the event and issuers, or for investment negotiations between such parties; and
-    - **(E)** does not receive any compensation with respect to such event that would require registration of the sponsor as a broker or a dealer under the Securities Exchange Act of 1934, or as an investment advisor under the Investment Advisers Act of 1940;
-  - **(5)** where no information regarding an offering of securities by the issuer is communicated or distributed by or on behalf of the issuer, other than—
+    - **(D)** does not receive any compensation for making introductions between investors attending the event and issuers, or for investment negotiations between such parties;
+    - **(E)** makes readily available to attendees a disclosure not longer than one page in length, as prescribed by the Securities and Exchange Commission, describing the nature of the event and the risks of investing in the issuers presenting at the event; and
+    - **(F)** does not receive any compensation with respect to such event that would require registration of the sponsor as a broker or a dealer under the Securities Exchange Act of 1934, or as an investment advisor under the Investment Advisers Act of 1940; and
+  - **(5)** where no specific information regarding an offering of securities by the issuer is communicated or distributed by or on behalf of the issuer, other than—
     - **(A)** that the issuer is in the process of offering securities or planning to offer securities;
     - **(B)** the type and amount of securities being offered;
-    - **(C)** the amount of securities being offered and the unsubscribed amount; and
-    - **(D)** the intended use of proceeds of the offering; and
-  - **(6)** in the case of an event that allows attendees to participate virtually, rather than in person, where online participation in the event is limited to—
-    - **(A)** individuals who are members of, or otherwise associated with the sponsor organization;
-    - **(B)** individuals that the sponsor reasonably believes are accredited investors; or
-    - **(C)** individuals who have been invited to the event by the sponsor based on industry or investment-related experience reasonably selected by the sponsor in good faith and disclosed in the public communications about the event.
+    - **(C)** the amount of securities being offered that have already been subscribed for; and
+    - **(D)** the intended use of proceeds of the offering.
 - **(c)** *Rule of construction* Subsection (b) may only be construed as requiring the Securities and Exchange Commission to amend the requirements of Regulation D with respect to presentations and communications, and not with respect to purchases or sales.
+- **(d)** *No pre-existing substantive relationship by reason of event* Attendance at an event described under subsection (b) shall not qualify, by itself, as establishing a pre-existing substantive relationship between an issuer and a purchaser, for purposes of Rule 506(b).
