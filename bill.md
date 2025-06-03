@@ -15,7 +15,7 @@ This Act may be cited as the “Access to Small Business Investor Capital Act”
 
 ## § 2. Amendments to acquired fund fees and expenses reporting on investment company registration statements
 
-- **(a)** *Definitions* In this section:
+- **(a)** *Definitions* For purposes of this section:
   - **(1)** *Acquired Fund* The term Acquired Fund has the meaning given the term in Forms N–1A, N–2, and N–3.
   - **(2)** *Acquired Fund Fees and Expenses* The term Acquired Fund Fees and Expenses means the Acquired Fund Fees and Expenses sub-caption in the Fee Table Disclosure.
   - **(3)** *Business development company* The term business development company has the meaning given the term in section 2(a) of the Investment Company Act of 1940 (15 U.S.C. 80a–2(a)).
