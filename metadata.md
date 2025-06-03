@@ -1,7 +1,7 @@
 ---
 measure: S. 201
 congress: 119
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 201
@@ -43,3 +43,18 @@ ACES Act of 2025
 - 2025-06-03 — Senate amendment agreed to: Amendment SA 2296 agreed to in Senate by Unanimous Consent.
 - 2025-06-03 — Senate amendment proposed (on the floor): Amendment SA 2296 proposed by Senator Moran for Senator Kelly.
 - 2025-06-03 — Senate amendment submitted
+- 2025-06-04 — Held at the desk.
+- 2025-06-04 — Message on Senate action sent to the House.
+- 2025-06-04 — Received in the House.
+- 2025-07-21 — Considered under suspension of the rules. (consideration: CR H3487-3489)
+- 2025-07-21 — DEBATE - The House proceeded with forty minutes of debate on S. 201.
+- 2025-07-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-07-21 — Mr. Bost moved to suspend the rules and pass the bill.
+- 2025-07-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3487)
+- 2025-07-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3487)
+- 2025-08-12 — Presented to President.
+- 2025-08-12 — Presented to President.
+- 2025-08-14 — Became Public Law No: 119-32.
+- 2025-08-14 — Became Public Law No: 119-32.
+- 2025-08-14 — Signed by President.
+- 2025-08-14 — Signed by President.
