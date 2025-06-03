@@ -43,4 +43,4 @@ This Act may be cited as the “WOSB Accountability Act”.
   - **(2)** *Administrator* The term Administrator means the Administrator of the Small Business Administration.
   - **(3)** *Small business concern* The term small business concern has the meaning given under section 3 of the Small Business Act (15 U.S.C. 632).
   - **(4)** *Small business concern owned and controlled by women* The term small business concern owned and controlled by women has the meaning given the term in section 8(m) of the Small Business Act (15 U.S.C. 637(m)).
-- **(e)** *Compliance with CUTGO* No additional amounts are authorized to be appropriated to carry out this Act or the amendments made by this Act.
+- **(e)** *No additional funds authorized* No additional funds are authorized to carry out the requirements of this Act and the amendments made by this Act.

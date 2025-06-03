@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1816
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1816
@@ -36,3 +36,9 @@ WOSB Accountability Act
 - 2025-03-24 — Placed on the Union Calendar, Calendar No. 26.
 - 2025-03-24 — Reported by the Committee on Small Business. H. Rept. 119-37.
 - 2025-03-24 — Reported by the Committee on Small Business. H. Rept. 119-37.
+- 2025-06-03 — Considered under suspension of the rules. (consideration: CR H2393-2395)
+- 2025-06-03 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1816.
+- 2025-06-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-06-03 — Mr. Williams (TX) moved to suspend the rules and pass the bill, as amended.
+- 2025-06-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2393-2394)
+- 2025-06-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2393-2394)
