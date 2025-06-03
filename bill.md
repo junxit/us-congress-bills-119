@@ -21,7 +21,7 @@ Section 4(j)(4) of the Securities Exchange Act of 1934 (15 U.S.C. 78d(j)(4)) is 
 - **(2)** in subparagraph (H), by striking the period at the end and inserting a semicolon; and
 - **(3)** by adding at the end the following:
   > - **(I)** provide educational resources and host or participate in events for small businesses and small business investors, including to raise awareness of capital raising options for—
-  >   - **(i)** underrepresented small businesses, including women-owned and minority-owned small businesses;
+  >   - **(i)** underrepresented small businesses, including women-owned small businesses and minority-owned small businesses;
   >   - **(ii)** businesses located in rural areas; and
   >   - **(iii)** small businesses affected by hurricanes or other natural disasters; and
   > - **(J)** at least annually, meet with representatives of State securities commissions to discuss opportunities for collaboration and coordination with respect to efforts to assist small businesses and small business investors.
