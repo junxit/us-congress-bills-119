@@ -23,4 +23,4 @@ This Act may be cited as the “Entrepreneurs with Disabilities Reporting Act of
   - **(5)** any deficiencies in the resources and support described under paragraph (2);
   - **(6)** a description of the use of, and access to, resources of the Administration by entrepreneurs with a disability; and
   - **(7)** any recommendations for legislative actions that are necessary to address the challenges or needs of entrepreneurs with a disability that are identified in the report.
-- **(b)** *Compliance with CUTGO* No additional amounts are authorized to be appropriated to carry out this Act.
+- **(b)** *No additional funds authorized* No additional funds are authorized to carry out the requirements of this Act.
