@@ -34,6 +34,6 @@ This Act may be cited as the “Equal Opportunity for All Investors Act of 2025�
         - **(VI)** concentration risk; and
         - **(VII)** longer investment horizons;
       - **(vi)** potential conflicts of interest, when the interests of financial professionals and their clients are misaligned or when their professional responsibilities may be in conflict with financial motivations; and
-      - **(vii)** other criteria the Commission determines necessary or appropriate in the public interest or for the protection of investors.
+      - **(vii)** such other criteria as the Commission determines necessary or appropriate in the public interest or for the protection of investors.
 - **(c)** *Administration* Beginning not later than 180 days after the date the examination is established under subsection (b), such examination shall be administered and offered free of charge to the public by a registered national securities association under section 15A of the Securities Exchange Act of 1934 (15 U.S.C. 78o–3).
 - **(d)** *Commission defined* In this section, the term “Commission” means the Securities and Exchange Commission.
