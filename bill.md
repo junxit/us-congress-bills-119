@@ -20,12 +20,12 @@ This Act may be cited as the “Plain Language in Contracting Act”.
   - **(2)** that—
     - **(A)** is clear, concise, and well-organized; and
     - **(B)** to the maximum extent practicable, follows other best practices appropriate to the subject or field of the covered notice and the intended audience of the covered notice.
-- **(b)** *Inclusion of key words in covered notices* Each covered notice shall, to the maximum extent practicable, include key words in the description of the covered notice such that a small business concern seeking contract opportunities using the single Government-wide point of entry described under section 1708 of title 41, United States Code, can easily identify and understand such covered notice.
+- **(b)** *Inclusion of key words in covered notices* Each covered notice shall, to the maximum extent practicable, include key words in the description of the covered notice such that a small business concern seeking contract opportunities using the single, Government-wide point of entry described under section 1708 of title 41, United States Code, can easily identify and understand such covered notice.
 - **(c)** *Rulemaking* Not later than 90 days after the date of the enactment of this Act, the Administrator of the Small Business Administration shall issue rules to carry out this section.
 - **(d)** *Definitions* In this section:
   - **(1)** *Covered notice* The term covered notice means a notice pertaining to small business concerns published by a Federal agency on the single Government-wide point of entry described under section 1708 of title 41, United States Code.
   - **(2)** *Small Business Act definitions* The terms Federal agency and small business concern have the meanings given those terms, respectively, in section 3 of the Small Business Act (15 U.S.C. 632).
 
-## § 3. Compliance with CUTGO
+## § 3. No additional funds authorized
 
-No additional amounts are authorized to be appropriated to carry out this Act or the amendments made by this Act.
+No additional funds are authorized to carry out the requirements of this Act.
