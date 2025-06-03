@@ -17,7 +17,7 @@ This Act may be cited as the “ThinkDIFFERENTLY About Disability Employment Act
 
 - **(a)** *In general* The Administrator of the Small Business Administration, in consultation with the Chair of the National Council on Disability, shall—
   - **(1)** provide assistance to individuals with disabilities who desire to become entrepreneurs or to be self-employed;
-  - **(2)** help individuals with disabilities find employment at small business concerns (as defined under section 3 of the Small Business Act (15 U.S.C. 632));
+  - **(2)** help individuals with disabilities find employment at small business concerns (as defined under section 3 of the Small Business Act (15 U.S.C. 632)); and
   - **(3)** assist small business concerns with hiring individuals with disabilities and with accessibility issues applicable to individuals with disabilities.
 - **(b)** *Memorandum of understanding or agreement* The Administrator, in consultation with the Chair, shall carry out and coordinate the activities described in subsection (a) by entering into one or more memoranda of understanding or other appropriate agreements.
 - **(c)** *Outreach and education* In carrying out the activities described in subsection (a), the Administrator, in consultation with the Chair, shall conduct outreach and education about such activities.
@@ -27,6 +27,6 @@ This Act may be cited as the “ThinkDIFFERENTLY About Disability Employment Act
   - **(3)** A description of achievements under any such memorandum or agreement.
   - **(4)** A description of the plans of the Administrator, in consultation with the Chair, to continue activities to expand employment opportunities for individuals with disabilities.
 
-## § 3. Compliance with CUTGO
+## § 3. No additional funds authorized
 
-No additional amounts are authorized to be appropriated to carry out this Act or the amendments made by this Act.
+No additional funds are authorized to carry out the requirements of this Act.
