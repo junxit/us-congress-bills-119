@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “District of Columbia Federal Immigration Compliance Act”.
+This Act may be cited as the “District of Columbia Federal Immigration Compliance Act of 2025”.
 
 ## § 2. Prohibition on District of Columbia serving as sanctuary jurisdiction
 
