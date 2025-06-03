@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1190
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `15 U.S.C. § 78d` | insert | in paragraph (4)(C), by inserting “rural-area small businesses,” after “women-owned small businesses,”; and | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 78d` | insert | in paragraph (6)(B)(iii), by inserting “rural-area small businesses,” after “women-owned small businesses,”. | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 78d` | insert | in paragraph (4)(C), by inserting “, rural-area small businesses” after “women-owned small businesses”; and | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 78d` | insert | in paragraph (6)(B)(iii), by inserting “, rural-area small businesses” after “women-owned small businesses”. | the bill quotes the text inserted but describes where it goes |

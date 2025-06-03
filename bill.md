@@ -17,5 +17,5 @@ This Act may be cited as the “Expanding Access to Capital for Rural Job Creato
 
 Section 4(j) of the Securities Exchange Act of 1934 (15 U.S.C. 78d(j)) is amended—
 
-- **(1)** in paragraph (4)(C), by inserting “rural-area small businesses,” after “women-owned small businesses,”; and
-- **(2)** in paragraph (6)(B)(iii), by inserting “rural-area small businesses,” after “women-owned small businesses,”.
+- **(1)** in paragraph (4)(C), by inserting “, rural-area small businesses” after “women-owned small businesses”; and
+- **(2)** in paragraph (6)(B)(iii), by inserting “, rural-area small businesses” after “women-owned small businesses”.
