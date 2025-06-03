@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Agricultural Risk Review Act of 2025”.
 
-## § 2. Inclusion of the Secretary of Agriculture on CFIUS
+## § 2. Inclusion of the Secretary of Agriculture on the Committee on Foreign Investment in the United States
 
 Section 721(k) of the Defense Production Act of 1950 (50 U.S.C. 4565(k)) is amended by adding at the end the following:
 
