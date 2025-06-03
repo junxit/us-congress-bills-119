@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Esophageal Cancer Awareness Act”.
+This Act may be cited as the “Gerald E. Connolly Esophageal Cancer Awareness Act of 2025”.
 
 ## § 2. Findings
 
