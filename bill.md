@@ -45,7 +45,7 @@ Section 4 of the Securities Exchange Act of 1934 (15 U.S.C. 78d) is amended by a
 >     - **(H)** any other information, as determined appropriate by the Director of the Taskforce.
 >   - **(8)** *Request for reports* The Taskforce shall make any report issued under paragraph (7) available to a Member of Congress who requests such a report.
 >   - **(9)** *Sunset* The Taskforce shall terminate after the end of the 10-year period beginning on the date of the enactment of this subsection.
->   - **(10)** *Senior investor defined* For purposes of this subsection, the term senior investor means an investor over the age of 65.
+>   - **(10)** *Senior investor defined* In this subsection, the term senior investor means an investor over the age of 65.
 >   - **(11)** *Use of existing funds* The Commission shall use existing funds to carry out this subsection.
 
 ## § 3. GAO study
@@ -71,4 +71,4 @@ Section 4 of the Securities Exchange Act of 1934 (15 U.S.C. 78d) is amended by a
       - **(iii)** information regarding the actions that are taken by such agencies upon receipt of the report and any limits on the agencies’ ability to prevent exploitation, such as jurisdictional limits, a lack of expertise, resource challenges, or limiting criteria with regard to the types of victims they are permitted to serve;
     - **(D)** an analysis of gaps that may exist in empowering Federal, State, and local agencies to prevent senior exploitation or respond effectively to suspected senior financial exploitation; and
     - **(E)** an analysis of the legal hurdles that prevent Federal, State, and local agencies from effectively partnering with each other and private professionals to effectively respond to senior financial exploitation.
-- **(c)** *Senior citizen defined* For purposes of this section, the term senior citizen means an individual over the age of 65.
+- **(c)** *Senior citizen defined* In section, the term senior citizen means an individual over the age of 65.
