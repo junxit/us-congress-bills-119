@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3357
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3357
@@ -25,3 +25,8 @@ Enhancing Multi-Class Share Disclosures Act
 - 2025-05-13 — Introduced in House
 - 2025-05-13 — Introduced in House
 - 2025-05-13 — Referred to the House Committee on Financial Services.
+- 2025-05-20 — Committee Consideration and Mark-up Session Held
+- 2025-05-20 — Ordered to be Reported (Amended) by the Yeas and Nays: 51 - 0.
+- 2025-06-03 — Placed on the Union Calendar, Calendar No. 90.
+- 2025-06-03 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-120.
+- 2025-06-03 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-120.
