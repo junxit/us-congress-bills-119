@@ -19,7 +19,7 @@ This Act may be cited as the “Small Entity Update Act”.
   - **(1)** the term Commission means the Securities and Exchange Commission; and
   - **(2)** the term small entity—
     - **(A)** has the meaning given the term in section 601 of title 5, United States Code, with respect to the activities of the Commission; and
-    - **(B)** includes any definition established by the Commission of the term small business, “small entity”, small organization, or small governmental jurisdiction under paragraph (3), (4), or (5), respectively, of section 601 of title 5, United States Code, with respect to the activities of the Commission.
+    - **(B)** includes any definition established by the Commission of the term small business, small organization, small governmental jurisdiction, or “small entity” under paragraph (3), (4), (5), or (6), respectively, of section 601 of title 5, United States Code, with respect to the activities of the Commission.
 - **(b)** *Studies and reports* Not later than 1 year after the date of enactment of this Act, and again 5 years thereafter, the Commission shall—
   - **(1)** conduct a study of the definition of the term small entity with respect to the activities of the Commission for the purposes of chapter 6 of title 5, United States Code, which shall consider—
     - **(A)** the extent to which the definition of the term small entity, as in effect during the period in which the study is conducted, aligns with the findings and declarations made under section 2(a) of the Regulatory Flexibility Act (5 U.S.C. 601 note);
