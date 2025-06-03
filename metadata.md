@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3301
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3301
@@ -29,3 +29,8 @@ ELEVATE Act of 2025
 - 2025-05-08 — Introduced in House
 - 2025-05-08 — Introduced in House
 - 2025-05-08 — Referred to the House Committee on Financial Services.
+- 2025-05-20 — Committee Consideration and Mark-up Session Held
+- 2025-05-20 — Ordered to be Reported (Amended) by the Yeas and Nays: 50 - 1.
+- 2025-06-03 — Placed on the Union Calendar, Calendar No. 91.
+- 2025-06-03 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-121.
+- 2025-06-03 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-121.
