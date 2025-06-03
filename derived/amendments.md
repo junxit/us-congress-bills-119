@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3381
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 2 executed, 1 stated and not applied.
+6 amendatory instructions. 2 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,7 +26,7 @@ to guess them.
 
 ### 15 U.S.C. § 77e
 
-> Section 5(d) of the Securities Act of 1933 (15 U.S.C. 77e(d)) is amended by striking “an emerging growth company or any person authorized to act on behalf of an emerging growth company” and inserting “an issuer or any person authorized to act on behalf of an issuer”.
+> by striking “an emerging growth company or any person authorized to act on behalf of an emerging growth company” and inserting “an issuer or any person authorized to act on behalf of an issuer”; and
 
 | | |
 |---|---|
@@ -35,7 +35,7 @@ to guess them.
 
 ### 15 U.S.C. § 77f
 
-> in the heading, by striking “Emerging Growth Companies” and inserting “Confidential review of draft registration statements”; and
+> in the heading, by striking “Emerging Growth Companies” and inserting “Confidential review of draft registration statements”;
 
 | | |
 |---|---|
@@ -51,4 +51,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| `15 U.S.C. § 77e` | replace | by striking “Notwithstanding” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 77e` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 77f` | redesignate | by redesignating paragraph (2) as paragraph (3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 78l` | replace | by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

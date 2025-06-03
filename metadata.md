@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3381
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3381
@@ -30,3 +30,8 @@ Encouraging Public Offerings Act of 2025
 - 2025-05-14 — Introduced in House
 - 2025-05-14 — Introduced in House
 - 2025-05-14 — Referred to the House Committee on Financial Services.
+- 2025-05-20 — Committee Consideration and Mark-up Session Held
+- 2025-05-20 — Ordered to be Reported (Amended) by the Yeas and Nays: 48 - 2.
+- 2025-06-03 — Placed on the Union Calendar, Calendar No. 86.
+- 2025-06-03 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-116.
+- 2025-06-03 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-116.
