@@ -11,11 +11,19 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “ACES Act”.
+This Act may be cited as the “ACES Act of 2025”.
 
 ## § 2. National Academies study on prevalence and mortality of cancer among individuals who served as active duty aircrew in the Armed Forces
 
-- **(a)** *In general* The Secretary of Veterans Affairs shall enter into an agreement with the National Academies of Sciences, Engineering, and Medicine (in this section referred to as the “National Academies”), under which the National Academies shall conduct a study on the prevalence and mortality of cancers among covered individuals.
+- **(a)** *Agreement*
+  - **(1)** *In general* Not later than 30 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall seek to enter into an agreement with the National Academies of Sciences, Engineering, and Medicine (in this section referred to as the “National Academies”), under which the National Academies shall conduct a study on the prevalence and mortality of cancers among covered individuals.
+  - **(2)** *Deadline*
+    - **(A)** *Date* The Secretary shall finalize the agreement under paragraph (1) by not later than 60 days after the date on which the Secretary enters negotiations with the National Academies with respect to such agreement.
+    - **(B)** *Report; briefings* If the Secretary fails to satisfy the requirement under subparagraph (A), the Secretary shall—
+      - **(i)** submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report that includes—
+        - **(I)** an explanation of the reasons the Secretary failed to satisfy such requirement; and
+        - **(II)** an estimate of the date on which the Secretary will finalize the agreement under paragraph (1); and
+      - **(ii)** not less frequently than once every 60 days after the date on which the Secretary failed to satisfy such requirement, provide to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a briefing on the progress of the Secretary toward finalizing such agreement.
 - **(b)** *Study* The study required under subsection (a) shall—
   - **(1)** identify exposures associated with military occupations of covered individuals, including relating to chemicals, compounds, agents, and other phenomena;
   - **(2)** review the literature to determine associations between exposures referred to in paragraph (1) and the incidence or prevalence of overall cancer morbidity, overall cancer mortality, and increased incidence or prevalence of—
@@ -35,5 +43,5 @@ This Act may be cited as the “ACES Act”.
     - **(A)** health care and other administrative databases of the Department of Veterans Affairs, the Department of Defense, and the individual Services, respectively;
     - **(B)** the national death index maintained by the National Center for Health Statistics of the Centers for Disease Control and Prevention; and
     - **(C)** the study conducted under section 750 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283; 134 Stat. 3716).
-- **(c)** *Report* At the conclusion of the study required under subsection (a), the National Academies shall submit to the Secretary and to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans' Affairs of the House of Representatives a report containing the results of the study described in subsection (b).
+- **(c)** *Report* At the conclusion of the study required under subsection (a), the National Academies shall submit to the Secretary, the Committee on Veterans’ Affairs of the Senate, and the Committee on Veterans' Affairs of the House of Representatives a report containing the results of the study described in subsection (b).
 - **(d)** *Covered individual defined* In this section, the term covered individual means an individual who served on active duty in the Army, Navy, Air Force, or Marine Corps as an aircrew member of a fixed-wing aircraft, including as a pilot, navigator, weapons systems operator, aircraft system operator, or any other crew member who regularly flew in a fixed-wing aircraft.
