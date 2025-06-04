@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3490
 congress: 119
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3490
@@ -39,3 +39,14 @@ Gerald E. Connolly Esophageal Cancer Awareness Act of 2025
 - 2025-06-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2390-2391)
 - 2025-06-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2390-2391)
 - 2025-06-04 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2026-05-20 — Message on Senate action sent to the House.
+- 2026-05-20 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2397-2398)
+- 2026-05-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2026-05-20 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2026-05-20 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2026-05-29 — Presented to President.
+- 2026-05-29 — Presented to President.
+- 2026-06-09 — Became Public Law No: 119-96.
+- 2026-06-09 — Became Public Law No: 119-96.
+- 2026-06-09 — Signed by President.
+- 2026-06-09 — Signed by President.
