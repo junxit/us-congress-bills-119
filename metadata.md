@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3490
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3490
@@ -20,9 +20,10 @@ Gerald E. Connolly Esophageal Cancer Awareness Act of 2025
 
 - Rep. Comer, James [R-KY-1] (C001108)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ Gerald E. Connolly Esophageal Cancer Awareness Act of 2025
 - 2025-06-03 — Mr. Comer moved to suspend the rules and pass the bill, as amended.
 - 2025-06-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2390-2391)
 - 2025-06-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2390-2391)
+- 2025-06-04 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
