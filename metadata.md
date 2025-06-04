@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1621
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1621
@@ -21,9 +21,10 @@ Entrepreneurs with Disabilities Reporting Act of 2025
 - Rep. Stauber, Pete [R-MN-8] (S001212)
 - Rep. Goodlander, Maggie [D-NH-2] (G000604)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Entrepreneurs with Disabilities Reporting Act of 2025
 - 2025-06-03 — Mr. Williams (TX) moved to suspend the rules and pass the bill, as amended.
 - 2025-06-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2401)
 - 2025-06-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2401)
+- 2025-06-04 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
