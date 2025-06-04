@@ -29,3 +29,6 @@ This Act may be cited as the “Helping Startups Continue To Grow Act”.
     - **(B)** by adding “or” at the end;
   - **(3)** in subparagraph (C), by striking “; or” and inserting a period; and
   - **(4)** by striking subparagraph (D).
+- **(c)** *Technical correction*
+  - **(1)** Section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)) is amended by redesignating the second paragraph (80) as paragraph (81).
+  - **(2)** Section 4A(a)(1)(B) of the Securities Act of 1933 (77d–1(a)(1)(B)) is amended by striking “section 3(a)(80)” and inserting “section 3(a)”.
