@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1804
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1804
@@ -20,9 +20,10 @@ version: Engrossed in House
 
 - Rep. McIver, LaMonica [D-NJ-10] (M001229)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ version: Engrossed in House
 - 2025-06-03 — Mr. Williams (TX) moved to suspend the rules and pass the bill.
 - 2025-06-03 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 405 - 3 (Roll no. 147). (text: CR H2398)
 - 2025-06-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 405 - 3 (Roll no. 147). (text: CR H2398)
+- 2025-06-04 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
