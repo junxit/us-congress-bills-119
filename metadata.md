@@ -1,7 +1,7 @@
 ---
 measure: H.R. 884
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 884
@@ -16,7 +16,7 @@ To prohibit individuals who are not citizens of the United States from voting in
 
 - Rep. Pfluger, August [R-TX-11] (P000048)
 
-## Cosponsors (10)
+## Cosponsors (14)
 
 - Rep. Mace, Nancy [R-SC-1] (M000194)
 - Rep. Ellzey, Jake [R-TX-6] (E000071)
@@ -28,6 +28,10 @@ To prohibit individuals who are not citizens of the United States from voting in
 - Rep. Boebert, Lauren [R-CO-4] (B000825)
 - Rep. Tenney, Claudia [R-NY-24] (T000478)
 - Rep. Guest, Michael [R-MS-3] (G000591)
+- Rep. LaMalfa, Doug [R-CA-1] (L000578)
+- Rep. Goldman, Craig [R-TX-12] (G000601)
+- Rep. Van Drew, Jefferson [R-NJ-2] (V000133)
+- Rep. Mackenzie, Ryan [R-PA-7] (M001230)
 
 ## Committees (1)
 
@@ -38,3 +42,8 @@ To prohibit individuals who are not citizens of the United States from voting in
 - 2025-01-31 — Introduced in House
 - 2025-01-31 — Introduced in House
 - 2025-01-31 — Referred to the House Committee on Oversight and Government Reform.
+- 2025-05-21 — Committee Consideration and Mark-up Session Held
+- 2025-05-21 — Ordered to be Reported by the Yeas and Nays: 25 - 17.
+- 2025-06-04 — Placed on the Union Calendar, Calendar No. 106.
+- 2025-06-04 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 119-137.
+- 2025-06-04 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 119-137.
