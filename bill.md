@@ -22,7 +22,7 @@ Section 2(a)(15) of the Securities Act of 1933 (15 U.S.C. 77b(a)(15)) is amended
 - **(3)** in subparagraph (B), as so redesignated, by striking the period at the end and inserting “; or”; and
 - **(4)** by adding at the end the following:
   > - **(C)** an individual holding such certifications, designations, or credentials as the Commission determines necessary or appropriate in the public interest or for the protection of investors, where—
-  >   - **(i)** such list of certifications, designations, or credentials shall include those professional certifications described in the order of the Commission titled “Order Designating Certain Professional Licenses as Qualifying Natural Persons for Accredited Investor Status” (85 Fed. Reg. 64234; published October 9, 2020); and
+  >   - **(i)** such list of certifications, designations, or credentials shall include those professional certifications described in the Commission order titled “Order Designating Certain Professional Licenses as Qualifying Natural Persons for Accredited Investor Status” (85 Fed. Reg. 64234; published October 9, 2020); and
   >   - **(ii)** in establishing which attributes should be considered for purposes of determining such certifications, designations, or credentials, the Commission shall consider attributes that are no less broad than those attributes described in the amendments made to section 230.501(a)(10) of title 17, Code of Federal Regulations, by the final rule of the Commission titled “Accredited Investor Definition” (85 Fed. Reg. 64234; published October 9, 2020).
 
 ## § 3. Periodic review of certifications, designations, and credentials
