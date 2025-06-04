@@ -26,14 +26,15 @@ This Act may be cited as the “Bank Failure Prevention Act of 2025”.
     >   - **(i)** *Notice to applicant* Not later than 30 days after the date on which the Board receives an application for approval under this section, the Board shall transmit to the applicant a letter that either—
     >     - **(I)** confirms the record on the application is complete; or
     >     - **(II)** details all additional information that is required for the record on that application to be complete.
-    >   - **(ii)** *Extension of notice* Notwithstanding clause (i), the Board may, if an application is unusually complex, extend the 30-day period described under clause (i) for an additional 30 days.
+    >   - **(ii)** *Extension of notice* Notwithstanding clause (i), the Board may, if an application is complex, extend the 30-day period described under clause (i) for an additional 30 days.
     >   - **(iii)** *Receipt of response; deeming of complete record* Upon receipt of a response from an applicant to a notice requesting additional information described under clause (i)(II), the record on the application shall be deemed complete unless the Board—
     >     - **(I)** determines that the applicant’s response was materially deficient; and
     >     - **(II)** not later than 30 days after the date on which the Board received the response, provides the applicant a detailed notice describing the deficiencies.
-    >   - **(iv)** *Treatment of third-party information* In determining whether the record on an application is complete, the Board may take into account only information provided by the applicant, and may not base the determination of the Board on any information (including reports, views, or recommendations) provided by third parties.
+    >   - **(iv)** *Treatment of third-party information* In determining whether the record on an application is complete, the Board may take into account only information provided by the applicant, and may not base the determination of completeness on any information (including reports, views, or recommendations) provided by third parties.
     > - **(C)** *Deadline for determination*
     >   - **(i)** *In general* Notwithstanding subparagraphs (A) and (B), the Board shall grant or deny an application submitted under this section not later than 90 days after the date on which the application was initially submitted to the Board, regardless of whether the record on such initial application was complete.
     >   - **(ii)** *Failure to make a determination* If the Board does not grant or deny an application within the time period described under clause (i), such application shall be deemed to have been granted.
+    >   - **(iii)** *Tolling of period* The Board may at any time extend the deadline described under clause (i) at the request of the applicant, but may not extend the deadline more than 30 days past the deadline described under clause (i).
 
 - **(b)** *Savings and loan holding companies* Section 10(e) of the Home Owners’ Loan Act (12 U.S.C. 1467a(e)) is amended—
   - **(1)** in paragraph (2), by striking “, and shall render a decision within 90 days after submission to the Board of the complete record on the application”;
@@ -43,11 +44,27 @@ This Act may be cited as the “Bank Failure Prevention Act of 2025”.
     >   - **(A)** *Notice to applicant* Not later than 30 days after the date on which the Board receives an application for approval under this subsection, the Board shall transmit to the applicant a letter that either—
     >     - **(i)** confirms the record on the application is complete; or
     >     - **(ii)** details all additional information that is required for the record on that application to be complete.
-    >   - **(B)** *Extension of notice* Notwithstanding subparagraph (A), the Board may, if an application is unusually complex, extend the 30-day period described under subparagraph (A) for an additional 30 days.
+    >   - **(B)** *Extension of notice* Notwithstanding subparagraph (A), the Board may, if an application is complex, extend the 30-day period described under subparagraph (A) for an additional 30 days.
     >   - **(C)** *Receipt of response; deeming of complete record* Upon receipt of a response from an applicant to a notice requesting additional information described under subparagraph (A)(ii), the record on the application shall be deemed complete unless the Board—
     >     - **(i)** determines that the applicant’s response was materially deficient; and
     >     - **(ii)** not later than 30 days after the date on which the Board received the response, provides the applicant a detailed notice describing the deficiencies.
-    >   - **(D)** *Treatment of third-party information* In determining whether the record on an application is complete, the Board may take into account only information provided by the applicant, and may not base the determination of the Board on any information (including reports, views, or recommendations) provided by third parties.
+    >   - **(D)** *Treatment of third-party information* In determining whether the record on an application is complete, the Board may take into account only information provided by the applicant, and may not base the determination of completeness on any information (including reports, views, or recommendations) provided by third parties.
     > - **(8)** *Deadline for determination*
     >   - **(A)** *In general* Notwithstanding any other provision of this subsection, the Board shall grant or deny an application submitted under this subsection not later than 90 days after the date on which the application was initially submitted to the Board, regardless of whether the record on such initial application was complete.
     >   - **(B)** *Failure to make a determination* If the Board does not grant or deny an application within the time period described under subparagraph (A), such application shall be deemed to have been granted.
+    >   - **(C)** *Tolling of period* The Board may at any time extend the deadline described under subparagraph (A) at the request of the applicant, but may not extend the deadline more than 30 days past the deadline described under subparagraph (A).
+
+- **(c)** *Insured depository institutions* Section 18(c) of the Federal Deposit Insurance Act (12 U.S.C. 1828(c)) is amended by adding at the end the following:
+  > - **(14)** *Complete record on an application*
+  >   - **(A)** *Notice to applicant* Not later than 30 days after the date on which the responsible agency receives a merger application for approval under this subsection, the responsible agency shall transmit to the applicant a letter that either—
+  >     - **(i)** confirms the record on the application is complete; or
+  >     - **(ii)** details all additional information that is required for the record on that application to be complete.
+  >   - **(B)** *Extension of notice* Notwithstanding subparagraph (A), the responsible agency may, if an application is unusually complex, extend the 30-day period described under subparagraph (A) for an additional 30 days.
+  >   - **(C)** *Receipt of response; deeming of complete record* Upon receipt of a response from an applicant to a notice requesting additional information described under subparagraph (A)(ii), the record on the application shall be deemed complete unless the responsible agency—
+  >     - **(i)** determines that the applicant’s response was materially deficient; and
+  >     - **(ii)** not later than 30 days after the date on which the responsible agency received the response, provides the applicant a detailed notice describing the deficiencies.
+  >   - **(D)** *Treatment of third-party information* In determining whether the record on an application is complete, the responsible agency may take into account only information provided by the applicant, and may not base the determination of completeness on any information (including reports, views, or recommendations) provided by third parties.
+  > - **(15)** *Deadline for determination*
+  >   - **(A)** *In general* Notwithstanding any other provision of this subsection, the responsible agency shall grant or deny a merger application submitted under this subsection not later than 90 days after the date on which the application was initially submitted to the responsible agency, regardless of whether the record on such initial application was complete.
+  >   - **(B)** *Failure to make a determination* If the responsible agency does not grant or deny an application within the time period described under subparagraph (A), such application shall be deemed to have been granted.
+  >   - **(C)** *Tolling of period* The responsible agency may at any time extend the deadline described under subparagraph (A) at the request of the applicant, but may not extend the deadline more than 30 days past the deadline described under subparagraph (A).

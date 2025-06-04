@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1900
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-7 amendatory instructions. 1 executed, 6 stated and not applied.
+8 amendatory instructions. 1 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -48,3 +48,4 @@ complete account of the bill's effect, which it is not.
 | `12 U.S.C. § 1467a` | strike | in paragraph (2), by striking “, and shall render a decision within 90 days after submission to the Board of the complete record on the application”; | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 1467a` | redesignate | by redesignating paragraph (7) as paragraph (9); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1467a` | insert | by inserting after paragraph (6) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1828` | add-at-end | Section 18(c) of the Federal Deposit Insurance Act (12 U.S.C. 1828(c)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

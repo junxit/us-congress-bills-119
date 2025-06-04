@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1900
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1900
@@ -16,9 +16,11 @@ Bank Failure Prevention Act of 2025
 
 - Rep. Barr, Andy [R-KY-6] (B001282)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Rep. Fitzgerald, Scott [R-WI-5] (F000471)
+- Rep. Meuser, Daniel [R-PA-9] (M001204)
+- Rep. Sessions, Pete [R-TX-17] (S000250)
 
 ## Committees (1)
 
@@ -29,3 +31,8 @@ Bank Failure Prevention Act of 2025
 - 2025-03-06 — Introduced in House
 - 2025-03-06 — Introduced in House
 - 2025-03-06 — Referred to the House Committee on Financial Services.
+- 2025-05-21 — Committee Consideration and Mark-up Session Held
+- 2025-05-21 — Ordered to be Reported (Amended) by the Yeas and Nays: 29 - 21.
+- 2025-06-04 — Placed on the Union Calendar, Calendar No. 101.
+- 2025-06-04 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-132.
+- 2025-06-04 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-132.
