@@ -23,13 +23,13 @@ This Act may be cited as the “Taking Account of Institutions with Low Operatio
 - **(b)** *Consideration and tailoring* For any regulatory action occurring after the date of enactment of this Act, each Federal financial institutions regulatory agency shall—
   - **(1)** take into consideration the risk profile and business models of each type of institution or class of institutions subject to the regulatory action; and
   - **(2)** tailor the regulatory action applicable to an institution, or type of institution, in a manner that limits the regulatory impact, including cost, human resource allocation, and other burdens, on the institution or type of institution as is appropriate for the risk profile and business model involved.
-- **(c)** *Factors To consider* In carrying out the requirements of subsection (b), each Federal financial institutions regulatory agency shall consider—
-  - **(1)** the aggregate effect of all applicable regulatory action on the ability of institutions to flexibly serve customers of the institutions and local markets on and after the date of enactment of this Act;
-  - **(2)** the potential effect that efforts to implement the regulatory action and third-party service provider actions may work to undercut efforts to tailor the regulatory action described in subsection (b)(2); and
+- **(c)** *Factors to consider* In carrying out the requirements of subsection (b) with respect to a regulatory action, each Federal financial institutions regulatory agency shall consider—
+  - **(1)** the aggregate effect of all applicable regulatory actions on the ability of institutions to flexibly serve customers of the institutions and local markets on and after the date of enactment of this Act;
+  - **(2)** the potential that efforts to implement the regulatory action and third-party service provider actions may work to undercut efforts to tailor the regulatory action, as described in subsection (b)(2); and
   - **(3)** the statutory provision authorizing the regulatory action, the congressional intent with respect to the statutory provision, and the underlying policy objectives of the regulatory action.
-- **(d)** *Notice of proposed and final rulemaking* Each Federal financial institutions regulatory agency shall disclose and document in every notice of proposed rulemaking and in any final rulemaking for a regulatory action described in subsection (b).
+- **(d)** *Notice of proposed and final rulemaking* Each Federal financial institutions regulatory agency shall disclose and document in every notice of proposed rulemaking and in any final rulemaking for a regulatory action how the agency has applied subsections (b) and (c).
 - **(e)** *Reports to Congress* Not later than 1 year after the date of enactment of this Act and annually thereafter, each Federal financial institutions regulatory agency shall submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report on the specific actions taken to tailor the regulatory actions of the Federal financial institutions regulatory agency pursuant to the requirements of this section.
-- **(f)** *Limited look-Back application*
+- **(f)** *Limited look-back application*
   - **(1)** *In general* Each Federal financial institutions regulatory agency shall—
     - **(A)** conduct a review of all final regulations issued pursuant to statutes enacted during the period beginning on the date that is 15 years before the date on which this Act is introduced in the House of Representatives and ending on the date of enactment of this Act; and
     - **(B)** apply the requirements of this section to the regulations described in subparagraph (A).
