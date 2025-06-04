@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1642
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1642
@@ -24,9 +24,10 @@ Connecting Small Businesses with Career and Technical Education Graduates Act of
 - Rep. Wied, Tony [R-WI-8] (W000829)
 - Rep. Goodlander, Maggie [D-NH-2] (G000604)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Recorded votes (1)
 
@@ -50,3 +51,4 @@ Connecting Small Businesses with Career and Technical Education Graduates Act of
 - 2025-06-03 — Mr. Williams (TX) moved to suspend the rules and pass the bill.
 - 2025-06-03 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 396 - 5 (Roll no. 146). (text: CR H2392)
 - 2025-06-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 396 - 5 (Roll no. 146). (text: CR H2392)
+- 2025-06-04 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
