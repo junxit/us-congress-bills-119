@@ -17,9 +17,7 @@ This Act may be cited as the “Save SBA from Sanctuary Cities Act of 2025”.
 
 - **(a)** *In general* The Administrator shall relocate each covered office located in a sanctuary jurisdiction in accordance with this section.
 - **(b)** *Determination required* Subsection (a) shall apply with respect to a covered office only if, prior to ordering the relocation of such covered office under such subsection, the Administrator makes a determination that such covered office is located in a sanctuary jurisdiction and makes such determination publicly available.
-- **(c)** *Relocation requirement* When relocating a covered office under this section, the Administrator shall relocate such covered office to a location that—
-  - **(1)** is not in a sanctuary jurisdiction; and
-  - **(2)** if the State in which such covered office is located prior to such relocation is not a sanctuary jurisdiction, is in such State.
+- **(c)** *Relocation requirement* When relocating a covered office under this section, the Administrator shall relocate such covered office to a location that is not in a sanctuary jurisdiction.
 - **(d)** *Relocation deadline*
   - **(1)** *Deadline* Not later 120 days after the Administrator makes publicly available a determination under subsection (b) with respect to a covered office, the Administrator shall relocate such covered office in accordance with subsection (c).
   - **(2)** *Noncompliance*
@@ -36,8 +34,6 @@ This Act may be cited as the “Save SBA from Sanctuary Cities Act of 2025”.
   - **(1)** *Administration* The term Administration means the Small Business Administration.
   - **(2)** *Administrator* The term Administrator means the Administrator of the Administration.
   - **(3)** *Covered office* The term covered office means a regional, district, or local office the Administration, other than the headquarters of the Administration, or any other component of the Administration fully funded by funds appropriated by Congress.
-  - **(4)** *Sanctuary jurisdiction*
-    - **(A)** *In general* Except as provided by subparagraph (B), the term sanctuary jurisdiction means any State or political subdivision of a State that has in effect a statute, ordinance, policy, or practice that prohibits or restricts any government entity or official from—
-      - **(i)** sending, receiving, maintaining, or exchanging with any Federal, State, or local government entity information regarding the citizenship or immigration status (lawful or unlawful) of any individual; or
-      - **(ii)** complying with a request lawfully made by the Department of Homeland Security under section 236 or 287 of the Immigration and Nationality Act (8 U.S.C. 1226 and 1357) to comply with a detainer for, or notify about the release of, an individual.
-    - **(B)** *Exception* A State or political subdivision of a State shall not be deemed a sanctuary jurisdiction based solely on its having a policy whereby its officials will not share information regarding, or comply with a request made by the Department of Homeland Security under section 236 or 287 of the Immigration and Nationality Act (8 U.S.C. 1226 and 1357) to comply with a detainer regarding, an individual who comes forward as a victim or a witness to a criminal offense.
+  - **(4)** *Sanctuary jurisdiction* The term “sanctuary jurisdiction” means a political subdivision of a State that has in effect a statute, ordinance, policy, or practice that prohibits or restricts any government entity or official from—
+    - **(A)** sending, receiving, maintaining, or exchanging with any Federal, State, or local government entity information regarding the citizenship or immigration status (lawful or unlawful) of any individual; or
+    - **(B)** complying with a request lawfully made by the Department of Homeland Security under section 236 or 287 of the Immigration and Nationality Act (8 U.S.C. 1226 and 1357) to comply with a detainer for, or notify about the release of, an individual.
