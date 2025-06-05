@@ -1,7 +1,7 @@
 ---
 measure: H.R. 649
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 649
@@ -16,7 +16,7 @@ Whole Milk for Healthy Kids Act of 2025
 
 - Rep. Thompson, Glenn [R-PA-15] (T000467)
 
-## Cosponsors (70)
+## Cosponsors (118)
 
 - Rep. Schrier, Kim [D-WA-8] (S001216)
 - Rep. Finstad, Brad [R-MN-1] (F000475)
@@ -88,6 +88,54 @@ Whole Milk for Healthy Kids Act of 2025
 - Rep. Jackson, Jonathan L. [D-IL-1] (J000309)
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 - Rep. Guest, Michael [R-MS-3] (G000591)
+- Rep. Maloy, Celeste [R-UT-2] (M001228)
+- Rep. Gray, Adam [D-CA-13] (G000605)
+- Rep. Nunn, Zachary [R-IA-3] (N000193)
+- Rep. Riley, Josh [D-NY-19] (R000622)
+- Rep. Collins, Mike [R-GA-10] (C001129)
+- Rep. Mannion, John [D-NY-22] (M001231)
+- Rep. McDonald Rivet, Kristen [D-MI-8] (M001237)
+- Rep. Allen, Rick W. [R-GA-12] (A000372)
+- Rep. Letlow, Julia [R-LA-5] (L000595)
+- Rep. Grothman, Glenn [R-WI-6] (G000576)
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
+- Rep. Rulli, Michael A. [R-OH-6] (R000619)
+- Rep. DelBene, Suzan K. [D-WA-1] (D000617)
+- Rep. Baird, James R. [R-IN-4] (B001307)
+- Rep. Bentz, Cliff [R-OR-2] (B000668)
+- Rep. Davids, Sharice [D-KS-3] (D000629)
+- Rep. Weber, Randy K. Sr. [R-TX-14] (W000814)
+- Rep. Lucas, Frank D. [R-OK-3] (L000491)
+- Rep. Wilson, Joe [R-SC-2] (W000795)
+- Rep. Womack, Steve [R-AR-3] (W000809)
+- Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
+- Rep. Houchin, Erin [R-IN-9] (H001093)
+- Rep. Balint, Becca [D-VT-At Large] (B001318)
+- Rep. Moore, Tim [R-NC-14] (M001236)
+- Rep. Scott, David [D-GA-13] (S001157)
+- Rep. Baumgartner, Michael [R-WA-5] (B001322)
+- Rep. Comer, James [R-KY-1] (C001108)
+- Rep. Carter, John R. [R-TX-31] (C001051)
+- Rep. Salinas, Andrea [D-OR-6] (S001226)
+- Rep. Foxx, Virginia [R-NC-5] (F000450)
+- Rep. LaMalfa, Doug [R-CA-1] (L000578)
+- Rep. Thompson, Bennie G. [D-MS-2] (T000193)
+- Rep. Crawford, Eric A. "Rick" [R-AR-1] (C001087)
+- Rep. Onder, Robert [R-MO-3] (O000177)
+- Del. Moylan, James C. [R-GU-At Large] (M001219)
+- Rep. Yakym, Rudy [R-IN-2] (Y000067)
+- Rep. Carbajal, Salud O. [D-CA-24] (C001112)
+- Rep. McClain Delaney, April [D-MD-6] (M001232)
+- Rep. Kaptur, Marcy [D-OH-9] (K000009)
+- Rep. Johnson, Dusty [R-SD-At Large] (J000301)
+- Rep. Downing, Troy [R-MT-2] (D000634)
+- Rep. Larsen, Rick [D-WA-2] (L000560)
+- Rep. Stefanik, Elise M. [R-NY-21] (S001196)
+- Rep. Smith, Adrian [R-NE-3] (S001172)
+- Rep. Scholten, Hillary J. [D-MI-3] (S001221)
+- Rep. Miller-Meeks, Mariannette [R-IA-1] (M001215)
+- Rep. Tiffany, Thomas P. [R-WI-7] (T000165)
+- Rep. Feenstra, Randy [R-IA-4] (F000446)
 
 ## Committees (1)
 
@@ -99,3 +147,8 @@ Whole Milk for Healthy Kids Act of 2025
 - 2025-01-23 — Introduced in House
 - 2025-01-23 — Referred to the House Committee on Education and Workforce.
 - 2025-01-23 — Sponsor introductory remarks on measure. (CR H307-308)
+- 2025-02-12 — Committee Consideration and Mark-up Session Held
+- 2025-02-12 — Ordered to be Reported (Amended) by the Yeas and Nays: 24 - 10.
+- 2025-06-05 — Placed on the Union Calendar, Calendar No. 111.
+- 2025-06-05 — Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-142.
+- 2025-06-05 — Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-142.

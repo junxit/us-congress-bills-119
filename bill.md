@@ -25,5 +25,5 @@ Section 9(a)(2) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1
 
 - **(2)** by adding at the end the following:
   > - **(D)** *Saturated fat* Milk fat included in any fluid milk provided under subparagraph (A) shall not be considered saturated fat for purposes of measuring compliance with the allowable average saturated fat content of a meal under section 210.10 of title 7, Code of Federal Regulations (or successor regulations).
-  > - **(E)** *Prohibition on certain purchases* The Secretary shall prohibit schools participating in the school lunch program under this Act from purchasing or offering milk produced by China state-owned enterprises.
+  > - **(E)** *Prohibition on certain purchases* The Secretary shall prohibit schools participating in the school lunch program under this Act from purchasing or offering milk produced by a China state-owned enterprise.
   > - **(F)** *Limitation on authority* The Secretary may not prohibit any school participating in the school lunch program under this Act from offering students the milk described in subparagraph (A)(ii).
