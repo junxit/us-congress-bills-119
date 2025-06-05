@@ -1,0 +1,25 @@
+---
+legis-num: S. 1972
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 1972
+
+> To prohibit Federal funding for research centers and laboratories in which nationals of countries of concern conduct agricultural research.
+
+## § 1. Short title
+
+This Act may be cited as the “Bioweapon Prevention Act of 2025”.
+
+## § 2. Prohibition on funding for research centers and laboratories in which nationals of countries of concern conduct agricultural research
+
+- **(a)** *In general* No Federal funding shall be available to any research center or laboratory in which a national of a country of concern conducts agricultural research.
+- **(b)** *Definition of country of concern* In this section, the term country of concern means—
+  - **(1)** the Republic of Cuba;
+  - **(2)** the Islamic Republic of Iran;
+  - **(3)** the Russian Federation;
+  - **(4)** the People's Republic of China, including the Special Administrative Region of Hong Kong and the Special Administrative Region of Macau;
+  - **(5)** the Bolivarian Republic of Venezuela; and
+  - **(6)** the Democratic People's Republic of Korea.
