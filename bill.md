@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 3744
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3744
+
+> To amend the Research and Development, Competition, and Innovation Act to clarify the definition of foreign country for purposes of malign foreign talent recruitment restriction, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Research Integrity and Foreign Influence Prevention Act”.
+
+## § 2. Clarification of definition of foreign country for purposes of malign foreign talent recruitment restriction
+
+Paragraph (2) of section 10638 of title VI of division B of the Research and Development, Competition, and Innovation Act (Public Law 117–167; 42 U.S.C. 19237) is amended by inserting “, including, beginning on January 1, 2026, any special administrative region within such a covered foreign country of concern or any other territory that the United States recognizes as being under the control of such a covered foreign country of concern” after “Iran”.
