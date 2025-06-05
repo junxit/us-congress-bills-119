@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2483
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2483
@@ -20,12 +20,13 @@ SUPPORT for Patients and Communities Reauthorization Act of 2025
 
 - Rep. Pettersen, Brittany [D-CO-7] (P000620)
 
-## Committees (4)
+## Committees (5)
 
 - House — Financial Services Committee
 - House — Judiciary Committee
 - House — Education and Workforce Committee
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (2)
 
@@ -91,3 +92,4 @@ SUPPORT for Patients and Communities Reauthorization Act of 2025
 - 2025-06-04 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 2483.
 - 2025-06-04 — The Speaker designated the Honorable Scott DesJarlais to act as Chairman of the Committee.
 - 2025-06-04 — The previous question was ordered pursuant to the rule.
+- 2025-06-05 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
