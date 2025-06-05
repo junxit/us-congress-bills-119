@@ -19,8 +19,12 @@ Section 2(g)(2) of the Tennessee Valley Authority Act of 1933 is amended to read
 
 > - **(2)** *Meetings*
 >   - **(A)** *In general* The Board shall meet at least 4 times each year.
->   - **(B)** *Transparency* The Board shall, with respect to any meeting of the Board, a committee of the Board, or a subcommittee of the Board for which a vote is not scheduled—
->     - **(i)** hold such meeting in public;
->     - **(ii)** provide public notice of no fewer than 6 calendar days, through the website of the Board, of any such meeting; and
->     - **(iii)** make publicly available the minutes and summaries of any such meeting.
->   - **(C)** *Emergency meetings* Subparagraph (B)(ii) shall not apply if the chairman of the Board designates a meeting as an emergency special meeting.
+>   - **(B)** *Transparency*
+>     - **(i)** *Open meetings* For purposes of applying the requirements of section 552b of title 5, United States Code, to the Board, the term “meeting” shall include all deliberations of the members of the Board, a committee of the Board, and a subcommittee of the Board, including any such deliberations that are not scheduled for the purpose of taking an action that will determine or result in the joint conduct or disposition of official business of the Corporation, notwithstanding subsection (a)(2) of such section.
+>     - **(ii)** *Notice of meetings*
+>       - **(I)** *Publication* For purposes of section 552b of title 5, United States Code, public announcement of meetings shall include publication on the website of the Board.
+>       - **(II)** *Emergency meetings* Notwithstanding section 552b(e)(1) of title 5, United States Code, the requirement to make public announcement at least one week prior to a meeting shall not apply if the chairman of the Board designates the meeting as an emergency special meeting.
+>     - **(iii)** *Publicly available information* The Board shall publish on the website of the Board any information required to be disclosed or made available to the public, or publicly certified, under section 552b of title 5, United States Code.
+>     - **(iv)** *Exemptions* For purposes of applying section 552b of title 5, United States Code, to any portion of a meeting of the Board, and to any information pertaining to such portion of a meeting, the Board may make a determination in accordance with such section not to disclose to the public under such section the following information:
+>       - **(I)** Information containing or relating to power availability requests.
+>       - **(II)** Information containing or relating to contract negotiations, including labor relations and procurement actions, the disclosure of which would imperil or compromise the competitive position of the Corporation.
