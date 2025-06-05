@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1948
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1948
@@ -16,7 +16,7 @@ To authorize the International Boundary and Water Commission to accept funds for
 
 - Rep. Peters, Scott H. [D-CA-50] (P000608)
 
-## Cosponsors (9)
+## Cosponsors (10)
 
 - Rep. Vargas, Juan [D-CA-52] (V000130)
 - Rep. Crenshaw, Dan [R-TX-2] (C001120)
@@ -27,6 +27,7 @@ To authorize the International Boundary and Water Commission to accept funds for
 - Rep. Escobar, Veronica [D-TX-16] (E000299)
 - Rep. Zinke, Ryan K. [R-MT-1] (Z000018)
 - Rep. Castro, Joaquin [D-TX-20] (C001091)
+- Rep. Gonzalez, Vicente [D-TX-34] (G000581)
 
 ## Committees (1)
 
@@ -38,3 +39,9 @@ To authorize the International Boundary and Water Commission to accept funds for
 - 2025-03-06 — Introduced in House
 - 2025-03-06 — Referred to the House Committee on Transportation and Infrastructure.
 - 2025-03-06 — Referred to the Subcommittee on Water Resources and Environment.
+- 2025-04-02 — Committee Consideration and Mark-up Session Held
+- 2025-04-02 — Ordered to be Reported by Voice Vote.
+- 2025-04-02 — Subcommittee on Water Resources and Environment Discharged
+- 2025-06-05 — Placed on the Union Calendar, Calendar No. 108.
+- 2025-06-05 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 119-139.
+- 2025-06-05 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 119-139.
