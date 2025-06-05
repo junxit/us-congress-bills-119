@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2483
 congress: 119
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2483
@@ -93,3 +93,14 @@ SUPPORT for Patients and Communities Reauthorization Act of 2025
 - 2025-06-04 — The Speaker designated the Honorable Scott DesJarlais to act as Chairman of the Committee.
 - 2025-06-04 — The previous question was ordered pursuant to the rule.
 - 2025-06-05 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2025-09-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6712)
+- 2025-09-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2025-09-18 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2025-09-18 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2025-09-19 — Message on Senate action sent to the House.
+- 2025-11-25 — Presented to President.
+- 2025-11-25 — Presented to President.
+- 2025-12-01 — Became Public Law No: 119-44
+- 2025-12-01 — Became Public Law No: 119-44.
+- 2025-12-01 — Signed by President.
+- 2025-12-01 — Signed by President.
