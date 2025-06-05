@@ -18,6 +18,27 @@ This Act may be cited as the “Veterans 2nd Amendment Protection Act”.
 - **(a)** *In general* Chapter 55 of title 38, United States Code, is amended by inserting after section 5501A the following new section:
   > ## § 5501B. Prohibition on transmittal of certain information to the Department of Justice for use by the national instant criminal background check system
   >
-  > The Secretary may not transmit to any entity in the Department of Justice, for use by the national instant criminal background check system established under section 103 of the Brady Handgun Violence Prevention Act, personally identifiable information of a beneficiary, solely on the basis of a determination by the Secretary to pay benefits to a fiduciary for the use and benefit of the beneficiary under section 5502 of this title, without the order or finding of a judge, magistrate, or other judicial authority of competent jurisdiction that such beneficiary is a danger to themselves or others.
+  > The Secretary may not transmit to any entity in the Department of Justice, for use by the national instant criminal background check system established under section 103 of the Brady Handgun Violence Prevention Act (34 U.S.C. 40901; Public Law 103–159; 107 Stat. 1541), personally identifiable information of a beneficiary, solely on the basis of a determination by the Secretary to pay benefits to a fiduciary for the use and benefit of the beneficiary under section 5502 of this title, without the order or finding of a judge, magistrate, or other judicial authority of competent jurisdiction that such beneficiary is a danger to themselves or others.
 
 - **(b)** *Clerical amendment* The table of sections at the beginning of chapter 55 of such title is amended by inserting after the item relating to section 5501A the following new item:
+
+## § 3. Notification of lack of basis for the Secretary of Veterans Affairs to have transmitted certain information to the Department of Justice for use by the national instant criminal background check system
+
+- **(a)** *In general* Such chapter (as amended by section 2) is further amended by inserting after section 5501B the following new section:
+  > ## § 5501C. Notification of lack of basis for transmittal of certain information to the Department of Justice for use by the national instant criminal background check system
+  >
+  > The Secretary shall, within 30 days of the enactment of the Veterans 2nd Amendment Protection Act, and in accordance with section 103(e)(1)(D) of the Brady Handgun Violence Prevention Act (34 U.S.C. 40901(e)(1)(D); Public Law 103–159; 107 Stat. 1541), notify the Attorney General that the basis for the transmittal, on or after November 30, 1993, by the Secretary, of personally identifiable information of a beneficiary, solely on the basis of a determination by the Secretary to pay benefits to a fiduciary for the use and benefit of the beneficiary under section 5502 of this title, to any entity in the Department of Justice, for use by the national instant criminal background check system established under section 103 of the Brady Handgun Violence Prevention Act (34 U.S.C. 40901; Public Law 103–159; 107 Stat. 1541), does not apply, or no longer applies.
+
+- **(b)** *Clerical amendment* The table of sections at the beginning of such chapter (as amended by section 2) is further amended by inserting after the item relating to section 5501B the following new item:
+
+## § 4. Determination by the Secretary of Veterans Affairs that a person is mentally incompetent is insufficient to treat such person as a mental defective
+
+- **(a)** *In general* Such chapter (as amended by sections 2 and 3) is further amended by inserting after section 5501C the following new section:
+  > ## § 5501D. Determination of mental incompetence is insufficient basis to treat a person as a mental defective
+  >
+  > The Secretary shall not treat a person as having been adjudicated as a mental defective solely on the basis that the Secretary has determined that such person—
+  >
+  > - **(1)** is mentally incompetent under section 3.353 of title 38, Code of Federal Regulations (or successor regulation); or
+  > - **(2)** requires a fiduciary under section 5502 of this title.
+
+- **(b)** *Clerical amendment* The table of sections at the beginning of such chapter (as amended by sections 2 and 3) is further amended by inserting after the item relating to section 5501C the following new item:

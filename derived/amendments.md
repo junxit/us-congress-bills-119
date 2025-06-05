@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1041
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,3 +33,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `38 U.S.C. § 5501A` | insert | Chapter 55 of title 38, United States Code, is amended by inserting after section 5501A the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `38 U.S.C. § 5501A` | insert | The table of sections at the beginning of chapter 55 of such title is amended by inserting after the item relating to section 5501A the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 40901` | insert | Such chapter (as amended by section 2) is further amended by inserting after section 5501B the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 40901` | insert | The table of sections at the beginning of such chapter (as amended by section 2) is further amended by inserting after the item relating to section 5501B the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | Such chapter (as amended by sections 2 and 3) is further amended by inserting after section 5501C the following new section: | the bill names no machine-readable US Code section |
+| — | insert | The table of sections at the beginning of such chapter (as amended by sections 2 and 3) is further amended by inserting after the item relating to section 5501C the following new item: | the bill names no machine-readable US Code section |

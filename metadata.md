@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1041
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1041
@@ -16,7 +16,7 @@ Veterans 2nd Amendment Protection Act
 
 - Rep. Bost, Mike [R-IL-12] (B001295)
 
-## Cosponsors (40)
+## Cosponsors (70)
 
 - Rep. Luttrell, Morgan [R-TX-8] (L000603)
 - Rep. Bergman, Jack [R-MI-1] (B001301)
@@ -58,6 +58,36 @@ Veterans 2nd Amendment Protection Act
 - Rep. Smith, Adrian [R-NE-3] (S001172)
 - Rep. Rulli, Michael A. [R-OH-6] (R000619)
 - Rep. Yakym, Rudy [R-IN-2] (Y000067)
+- Rep. Barrett, Tom [R-MI-7] (B001321)
+- Rep. Langworthy, Nicholas A. [R-NY-23] (L000600)
+- Rep. Hinson, Ashley [R-IA-2] (H001091)
+- Rep. Messmer, Mark [R-IN-8] (M001233)
+- Rep. Murphy, Gregory F. [R-NC-3] (M001210)
+- Rep. Owens, Burgess [R-UT-4] (O000086)
+- Rep. Steube, W. Gregory [R-FL-17] (S001214)
+- Rep. Houchin, Erin [R-IN-9] (H001093)
+- Rep. Self, Keith [R-TX-3] (S001224)
+- Rep. Barr, Andy [R-KY-6] (B001282)
+- Rep. Hageman, Harriet M. [R-WY-At Large] (H001096)
+- Rep. Downing, Troy [R-MT-2] (D000634)
+- Rep. Meuser, Daniel [R-PA-9] (M001204)
+- Rep. Higgins, Clay [R-LA-3] (H001077)
+- Rep. Rogers, Harold [R-KY-5] (R000395)
+- Rep. Comer, James [R-KY-1] (C001108)
+- Rep. Stefanik, Elise M. [R-NY-21] (S001196)
+- Rep. Crank, Jeff [R-CO-5] (C001137)
+- Rep. Gill, Brandon [R-TX-26] (G000603)
+- Rep. Huizenga, Bill [R-MI-4] (H001058)
+- Rep. Moore, Tim [R-NC-14] (M001236)
+- Rep. Taylor, David J. [R-OH-2] (T000490)
+- Rep. Fischbach, Michelle [R-MN-7] (F000470)
+- Rep. Ezell, Mike [R-MS-4] (E000235)
+- Rep. Hurd, Jeff [R-CO-3] (H001100)
+- Rep. Cline, Ben [R-VA-6] (C001118)
+- Rep. De La Cruz, Monica [R-TX-15] (D000594)
+- Rep. McDowell, Addison P. [R-NC-6] (M001240)
+- Rep. Harris, Mark [R-NC-8] (H001102)
+- Rep. Rutherford, John H. [R-FL-5] (R000609)
 
 ## Committees (1)
 
@@ -68,3 +98,8 @@ Veterans 2nd Amendment Protection Act
 - 2025-02-06 — Introduced in House
 - 2025-02-06 — Introduced in House
 - 2025-02-06 — Referred to the House Committee on Veterans' Affairs.
+- 2025-05-06 — Committee Consideration and Mark-up Session Held
+- 2025-05-06 — Ordered to be Reported by the Yeas and Nays: 13 - 11.
+- 2025-06-05 — Placed on the Union Calendar, Calendar No. 112.
+- 2025-06-05 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-143.
+- 2025-06-05 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-143.
