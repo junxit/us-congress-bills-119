@@ -1,0 +1,24 @@
+---
+legis-num: H.R. 3765
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3765
+
+> To prohibit Federal service academies from providing training and education based on critical race theory or diversity, equity, and inclusion.
+
+## § 1. Short title
+
+This Act may be cited as the “Focusing Academies on Leadership and Cultivating Officers for National Security Act” or the “FALCONS Act”.
+
+## § 2. Prohibition on training and education at Federal service academies regarding critical race theory, diversity, equity, and inclusion
+
+No Federal funds may be obligated or expended to establish a curriculum, or to provide training or education based on critical race theory, diversity, equity, and inclusion at any of the following institutions:
+
+- **(1)** The United States Military Academy.
+- **(2)** The United States Naval Academy.
+- **(3)** The United States Air Force Academy.
+- **(4)** The United States Coast Guard Academy.
+- **(5)** The United States Merchant Marine Academy.
