@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2351
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2351
@@ -16,6 +16,11 @@ To direct the Commandant of the Coast Guard to update the policy of the Coast Gu
 
 - Rep. McDowell, Addison [R-NC-6] (M001240)
 
+## Cosponsors (2)
+
+- Rep. Goldman, Craig [R-TX-12] (G000601)
+- Rep. Gillen, Laura [D-NY-4] (G000602)
+
 ## Committees (1)
 
 - House — Transportation and Infrastructure Committee
@@ -25,3 +30,10 @@ To direct the Commandant of the Coast Guard to update the policy of the Coast Gu
 - 2025-03-26 — Introduced in House
 - 2025-03-26 — Introduced in House
 - 2025-03-26 — Referred to the House Committee on Transportation and Infrastructure.
+- 2025-03-27 — Referred to the Subcommittee on Coast Guard and Maritime Transportation.
+- 2025-04-02 — Committee Consideration and Mark-up Session Held
+- 2025-04-02 — Ordered to be Reported by Voice Vote.
+- 2025-04-02 — Subcommittee on Coast Guard and Maritime Transportation Discharged
+- 2025-06-06 — Placed on the Union Calendar, Calendar No. 118.
+- 2025-06-06 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 119-149.
+- 2025-06-06 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 119-149.
