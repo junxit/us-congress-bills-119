@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 3818
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3818
+
+> To require the Corps of Engineers to prohibit certain discharges of water at Lake Okeechobee, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Stop Poisoning Florida Act”.
+
+## § 2. Lake Okeechobee discharge prohibition
+
+The Secretary of the Army, acting through the Chief of Engineers, shall prohibit discharges of water from Lake Okeechobee through the S–308 and S–80 lock and dam structures when the water exceeds the maximum concentration of microcystins recommended for recreational waters by the Environmental Protection Agency, as described in the notice titled “Recommended Human Health Recreational Ambient Water Quality Criteria or Swimming Advisories for Microcystins and Cylindrospermopsin” (84 Fed. Reg. 26413) (or any successor water quality criteria), based on tests conducted by the Secretary, another Federal agency, or the State of Florida.
