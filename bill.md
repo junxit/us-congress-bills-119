@@ -1,0 +1,25 @@
+---
+legis-num: H.R. 3800
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3800
+
+> To amend the National Flood Insurance Act of 1968 to prohibit the deferral of the issuance of letters of map revision based on the placement of fill or conditional letters of map revision based on the placement of fill, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Keeping Homeownership Costs Down Act”.
+
+## § 2. Prohibition on the deferral of the issuance of letters of map revision based on the placement of fill
+
+- **(a)** *In general* Section 1360 of the National Flood Insurance Act of 1968 (42 U.S.C. 4101) is amended by adding at the end the following:
+  > - **(k)** *Prohibition on the deferral of the issuance of letters of map revision based on the placement of fill*
+  >   - **(1)** *In general* The Administrator may not defer the issuance of any—
+  >     - **(A)** letters of map revision based on the placement of fill; or
+  >     - **(B)** conditional letters of map revision based on the placement of fill.
+  >   - **(2)** *Rule of construction* Nothing in this subsection shall be construed to affect the review, determination, or issuance of the letters described in paragraph (1).
+
+- **(b)** *Repeal* The amendment made by this Act shall be repealed on the date on which, pursuant to section 7 of the Endangered Species Act of 1973 (16 U.S.C. 1536) the Administrator of the Federal Emergency Management Agency fully implements the requirements contained within the biological opinion from the Director of the Fish and Wildlife Service and the biological opinion from the Assistant Administrator for Fisheries of the National Oceanic and Atmospheric Administration issued separately with respect to letters of map revision based on the placement of fill and conditional letters of map revision based on the placement of fill issued pursuant to the National Flood Insurance Act of 1968.
