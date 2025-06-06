@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 3798
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3798
+
+> To codify Executive Order 14233 relating to establishment of the strategic Bitcoin reserve and United States digital asset stockpile.
+
+## § 1. Short title
+
+This Act may be cited as the “Executive Order 14233 Act of 2025”.
+
+## § 2. Codification of Executive Order EO 14233, establishment of the strategic bitcoin reserve and United States digital asset stockpile
+
+Executive Order 14233 relating to the establishment of the strategic Bitcoin reserve and United States digital asset stockpile shall have the force and effect of law.
