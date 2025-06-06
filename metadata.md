@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 137
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Res. 137
@@ -16,12 +16,13 @@ Resolution designating the House Press Gallery (Rooms H-315, H-316, H-317, H-318
 
 - Rep. Donalds, Byron [R-FL-19] (D000032)
 
-## Cosponsors (4)
+## Cosponsors (5)
 
 - Rep. Carson, André [D-IN-7] (C001072)
 - Rep. Horsford, Steven [D-NV-4] (H001066)
 - Rep. Hunt, Wesley [R-TX-38] (H001095)
 - Rep. Owens, Burgess [R-UT-4] (O000086)
+- Rep. James, John [R-MI-10] (J000307)
 
 ## Committees (1)
 
@@ -31,3 +32,9 @@ Resolution designating the House Press Gallery (Rooms H-315, H-316, H-317, H-318
 
 - 2025-02-14 — Referred to the House Committee on Transportation and Infrastructure.
 - 2025-02-14 — Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.
+- 2025-04-02 — Committee Consideration and Mark-up Session Held
+- 2025-04-02 — Ordered to be Reported (Amended) by Voice Vote.
+- 2025-04-02 — Subcommittee on Economic Development, Public Buildings, and Emergency Management Discharged
+- 2025-06-06 — Placed on the House Calendar, Calendar No. 31.
+- 2025-06-06 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 119-150.
+- 2025-06-06 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 119-150.
