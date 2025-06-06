@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 3796
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3796
+
+> To amend title 49, United States Code, to direct the Secretary of Transportation to authorize the use of unmanned aircraft systems and satellites in inspections of rights-of-way of certain pipeline facilities.
+
+## § 1. Short title
+
+This Act may be cited as the “Safety from Aerial Technology Act” or the “SAT Act”.
+
+## § 2. Inspection of rights-of-way
+
+Section 60108 of title 49, United States Code, is amended by adding at the end the following:
+
+> - **(f)** *Inspection of Rights-of-Way*
+>   - **(1)** *In general* In requiring each owner or operator to inspect the surface conditions on or adjacent to each pipeline right-of-way, the Secretary shall allow use of unmanned aircraft systems and satellites.
+>   - **(2)** *Rule of construction* Nothing in this subsection shall be construed to affect the obligation of an owner or operator of an unmanned aircraft system or satellite to operate such system in accordance with laws and regulations regarding unmanned aircraft system or satellite use.
