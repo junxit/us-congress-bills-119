@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2351
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2351
@@ -37,3 +37,9 @@ To direct the Commandant of the Coast Guard to update the policy of the Coast Gu
 - 2025-06-06 — Placed on the Union Calendar, Calendar No. 118.
 - 2025-06-06 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 119-149.
 - 2025-06-06 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 119-149.
+- 2025-06-09 — Considered under suspension of the rules. (consideration: CR H2547-2548)
+- 2025-06-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2351.
+- 2025-06-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-06-09 — Mr. Ezell moved to suspend the rules and pass the bill.
+- 2025-06-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2547-2548)
+- 2025-06-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2547-2548)
