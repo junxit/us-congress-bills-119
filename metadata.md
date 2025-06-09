@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1182
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1182
@@ -39,3 +39,9 @@ Compressed Gas Cylinder Safety and Oversight Improvements Act of 2025
 - 2025-06-05 — Placed on the Union Calendar, Calendar No. 110.
 - 2025-06-05 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 119-141.
 - 2025-06-05 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 119-141.
+- 2025-06-09 — Considered under suspension of the rules. (consideration: CR H2552-2554)
+- 2025-06-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1182.
+- 2025-06-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-06-09 — Mr. Ezell moved to suspend the rules and pass the bill.
+- 2025-06-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2552-2553)
+- 2025-06-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2552-2553)
