@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2987
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2987
@@ -16,9 +16,10 @@ CEASE Act of 2025
 
 - Rep. Bresnahan, Robert [R-PA-8] (B001327)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Recorded votes (2)
 
@@ -53,3 +54,4 @@ CEASE Act of 2025
 - 2025-06-05 — Rule provides for consideration of H.R. 2483, H.R. 2931, H.R. 2966 and H.R. 2987. The resolution provides for consideration of H.R. 2483 under a structured rule and for consideration of H.R. 2931, H.R. 2966, and H.R. 2987 under a closed rule. The resolution provides for one hour of debate and one motion to recommit on each bill.
 - 2025-06-05 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2025-06-05 — The previous question was ordered pursuant to the rule.
+- 2025-06-09 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
