@@ -1,7 +1,7 @@
 ---
 measure: H.R. 252
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 252
@@ -37,3 +37,9 @@ Secure Our Ports Act of 2025
 - 2025-06-06 — Placed on the Union Calendar, Calendar No. 117.
 - 2025-06-06 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 119-148.
 - 2025-06-06 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 119-148.
+- 2025-06-09 — Considered under suspension of the rules. (consideration: CR H2556-2557)
+- 2025-06-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 252.
+- 2025-06-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-06-09 — Mr. Ezell moved to suspend the rules and pass the bill, as amended.
+- 2025-06-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2556)
+- 2025-06-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2556)
