@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 3839
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3839
+
+> To codify Executive Order 14155 (relating to withdrawing the United States from the World Health Organization).
+
+## § 1. Short title
+
+This Act may be cited as the “EO 14155 Act of 2025”.
+
+## § 2. Codification of Executive Order 14155, withdrawing the United States from the World Health Organization
+
+Executive Order 14155 (XX Fed. Reg. XXXX; Withdrawing the United States From the World Health Organization) shall have the force and effect of law.
