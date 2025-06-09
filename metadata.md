@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1948
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1948
@@ -45,3 +45,9 @@ To authorize the International Boundary and Water Commission to accept funds for
 - 2025-06-05 — Placed on the Union Calendar, Calendar No. 108.
 - 2025-06-05 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 119-139.
 - 2025-06-05 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 119-139.
+- 2025-06-09 — Considered under suspension of the rules. (consideration: CR H2555-2556)
+- 2025-06-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1948.
+- 2025-06-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-06-09 — Mr. Ezell moved to suspend the rules and pass the bill, as amended.
+- 2025-06-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2555)
+- 2025-06-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2555)

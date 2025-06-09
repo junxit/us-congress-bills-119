@@ -18,7 +18,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(2)** *Source of funds* The Commission may not accept funds under this section from any non-Federal entity—
     - **(A)** that is domiciled in, headquartered in, or organized under the laws of, or the principal place of business of which is located in, a foreign country of concern; or
     - **(B)** that has in place any agreement with a foreign country of concern.
-- **(d)** *Report* Not later than the last day of each fiscal year, the Commission shall submit to the Committee on Foreign Relations of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the funds accepted under this section that includes a description of—
+- **(d)** *Report* Not later than the last day of each fiscal year, the Commission shall submit to the Committees on Foreign Relations and Appropriations of the Senate and the Committees on Transportation and Infrastructure and Appropriations of the House of Representatives a report on the funds accepted under this section that includes a description of—
   - **(1)** the activities carried out with such funds; and
   - **(2)** costs associated with such activities.
 - **(e)** *Definitions* In this section:
