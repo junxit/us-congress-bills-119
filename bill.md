@@ -1,0 +1,35 @@
+---
+legis-num: H.R. 3844
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3844
+
+> To amend the Internal Revenue Code of 1986 to extend bonus depreciation for qualified film and television productions and to require minimum in-State spending thresholds for such productions.
+
+## § 1. Short title
+
+This Act may be cited as the “Texas is the New Hollywood Act of 2025”.
+
+## § 2. Extension of bonus depreciation for qualified film and television productions and minimum in State spend requirement
+
+- **(a)** *In general* Section 168(k) of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:
+  > - **(11)** *Special rules for qualified film or television production*
+  >   - **(A)** *In general* For purposes of this subsection, the term “qualified film or television production” means a film or televison production—
+  >     - **(i)** which is intended for commercial, educational, or instructional use,
+  >     - **(ii)** that is a qualified film or television production as defined in section 181(d),
+  >     - **(iii)** for which a deduction would have been allowable under section 181 without regard to subsections (a)(2) and (g) of such section or this subsection,
+  >     - **(iv)** pays or incurs for expenses relating to such production not less than—
+  >       - **(I)** in the case of an educational or instructional video or a digital interactive media production, $100,000 in 1 state, or
+  >       - **(II)** in the case of any other film or television production, $500,000 in 1 state.
+  >     - **(v)** meets the requirements of subparagraph (B) and clauses (i) and (ii) of subparagraph (C), and
+  >     - **(vi)** which is not described in subparagraph (D).
+  >   - **(B)** *Extension of application* In the case of a qualified film or television production, paragraph (2)(A)(iii) shall be applied by substituting “January 1, 2035” for “January 1, 2027”.
+
+- **(b)** *Increased applicable percentage* Section 168(k)(6) of such Code is amended by adding at the end the following new subparagraph:
+  > - **(D)** *Qualified film or television production* In the case of a qualified film or television production, the term “applicable percentage” means 100 percent in the case of property placed in service after December 31, 2025, and before January 1, 2036.
+
+- **(c)** *Conforming amendment* Section 168(k)(2)(A)(IV) of such Code is amended by striking “(as defined” and all that follows through “subsection”.
+- **(d)** *Effective date* The amendments made by this section shall apply to property placed in service after December 31, 2025.
