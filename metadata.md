@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2035
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2035
@@ -24,6 +24,10 @@ American Cargo for American Ships Act
 
 - House — Transportation and Infrastructure Committee
 
+## Recorded votes (1)
+
+- 2025-06-09 — [House 119-1-157](votes/house-119-1-0157.md) — On Motion to Suspend the Rules and Pass — **Passed** (373–14)
+
 ## Actions
 
 - 2025-03-11 — Introduced in House
@@ -36,3 +40,11 @@ American Cargo for American Ships Act
 - 2025-06-06 — Placed on the Union Calendar, Calendar No. 116.
 - 2025-06-06 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 119-147.
 - 2025-06-06 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 119-147.
+- 2025-06-09 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2025-06-09 — Considered as unfinished business. (consideration: CR H2557-2558)
+- 2025-06-09 — Considered under suspension of the rules. (consideration: CR H2546-2547)
+- 2025-06-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2035.
+- 2025-06-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-06-09 — Mr. Ezell moved to suspend the rules and pass the bill.
+- 2025-06-09 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 373 - 14 (Roll no. 157). (text: CR H2546-2547)
+- 2025-06-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 373 - 14 (Roll no. 157). (text: CR H2546-2547)
