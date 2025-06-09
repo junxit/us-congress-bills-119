@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 137
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 137
@@ -38,3 +38,9 @@ Resolution designating the House Press Gallery (Rooms H-315, H-316, H-317, H-318
 - 2025-06-06 — Placed on the House Calendar, Calendar No. 31.
 - 2025-06-06 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 119-150.
 - 2025-06-06 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 119-150.
+- 2025-06-09 — Considered under suspension of the rules. (consideration: CR H2549-2551)
+- 2025-06-09 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 137.
+- 2025-06-09 — Mr. Graves moved to suspend the rules and agree to the resolution, as amended.
+- 2025-06-09 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H2549-2550)
+- 2025-06-09 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by voice vote. (text: CR H2549-2550)
+- 2025-06-09 — The title of the measure was amended. Agreed to without objection.
