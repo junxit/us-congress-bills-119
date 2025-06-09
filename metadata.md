@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 481
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 481
@@ -16,7 +16,7 @@ Condemning the rise in ideologically motivated attacks on Jewish individuals in 
 
 - Rep. Van Drew, Jefferson [R-NJ-2] (V000133)
 
-## Cosponsors (53)
+## Cosponsors (70)
 
 - Rep. Allen, Rick W. [R-GA-12] (A000372)
 - Rep. Bacon, Don [R-NE-2] (B001298)
@@ -71,13 +71,42 @@ Condemning the rise in ideologically motivated attacks on Jewish individuals in 
 - Rep. Yakym, Rudy [R-IN-2] (Y000067)
 - Rep. Evans, Gabe [R-CO-8] (E000300)
 - Rep. Crow, Jason [D-CO-6] (C001121)
+- Rep. Balderson, Troy [R-OH-12] (B001306)
+- Rep. Foxx, Virginia [R-NC-5] (F000450)
+- Rep. Fedorchak, Julie [R-ND-At Large] (F000482)
+- Rep. Shreve, Jefferson [R-IN-6] (S001229)
+- Rep. Perry, Scott [R-PA-10] (P000605)
+- Rep. Norcross, Donald [D-NJ-1] (N000188)
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
+- Rep. Miller-Meeks, Mariannette [R-IA-1] (M001215)
+- Rep. Fry, Russell [R-SC-7] (F000478)
+- Rep. Weber, Randy K. Sr. [R-TX-14] (W000814)
+- Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
+- Rep. Langworthy, Nicholas A. [R-NY-23] (L000600)
+- Rep. Pallone, Frank [D-NJ-6] (P000034)
+- Rep. Hill, J. French [R-AR-2] (H001072)
+- Rep. Gillen, Laura [D-NY-4] (G000602)
+- Rep. DelBene, Suzan K. [D-WA-1] (D000617)
+- Rep. Doggett, Lloyd [D-TX-37] (D000399)
 
 ## Committees (1)
 
 - House — Judiciary Committee
+
+## Recorded votes (1)
+
+- 2025-06-09 — [House 119-1-159](votes/house-119-1-0159.md) — On Motion to Suspend the Rules and Agree — **Passed** (400–0)
 
 ## Actions
 
 - 2025-06-05 — Referred to the House Committee on the Judiciary.
 - 2025-06-05 — Submitted in House
 - 2025-06-05 — Submitted in House
+- 2025-06-09 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2025-06-09 — Considered as unfinished business. (consideration: CR H2559)
+- 2025-06-09 — Considered under suspension of the rules. (consideration: CR H2539-2542)
+- 2025-06-09 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 481.
+- 2025-06-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-06-09 — Mr. Van Drew moved to suspend the rules and agree to the resolution.
+- 2025-06-09 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 400 - 0, 2 Present (Roll no. 159). (text: CR H2539)
+- 2025-06-09 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 400 - 0, 2 Present (Roll no. 159). (text: CR H2539)
