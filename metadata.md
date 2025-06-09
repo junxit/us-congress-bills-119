@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2966
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2966
@@ -20,9 +20,10 @@ American Entrepreneurs First Act of 2025
 
 - Rep. Cloud, Michael [R-TX-27] (C001115)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Recorded votes (1)
 
@@ -50,3 +51,4 @@ American Entrepreneurs First Act of 2025
 - 2025-06-06 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 217 - 190 (Roll no. 156).
 - 2025-06-06 — Rule provides for consideration of H.R. 2483, H.R. 2931, H.R. 2966 and H.R. 2987. The resolution provides for consideration of H.R. 2483 under a structured rule and for consideration of H.R. 2931, H.R. 2966, and H.R. 2987 under a closed rule. The resolution provides for one hour of debate and one motion to recommit on each bill.
 - 2025-06-06 — The previous question was ordered pursuant to the rule.
+- 2025-06-09 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
