@@ -1,0 +1,71 @@
+---
+legis-num: S. 2002
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2002
+
+> To amend the Internal Revenue Code of 1986 to establish a tax on remittance transfers.
+
+## § 1. Short title
+
+This Act may be cited as the “Requiring Excise for Migrant Income Transfers Act” or the “REMIT Act”.
+
+## § 2. Excise tax on remittance transfers
+
+- **(a)** *In general* Chapter 36 of the Internal Revenue Code of 1986 is amended by inserting after subchapter B the following new subchapter:
+- **(b)** *Refundable income tax credit allowed to citizens and nationals of the united states for excise tax on remittance transfers* Subpart C of part IV of subchapter A of chapter 1 of the Internal Revenue Code of 1986 is amended by inserting after section 36B the following new section:
+  > ## § 36C. Credit for excise tax on remittance transfers of citizens and nationals of the united states
+  >
+  > - **(a)** *In general* In the case of any individual, there shall be allowed as a credit against the tax imposed by this subtitle for any taxable year an amount equal to the aggregate amount of taxes paid by such individual under section 4475 during such taxable year.
+  > - **(b)** *Social security number requirement*
+  >   - **(1)** *In general* No credit shall be allowed under this section unless the taxpayer includes on the return of tax for the taxable year—
+  >     - **(A)** the individual's social security number, and
+  >     - **(B)** if the individual is married, the social security number of such individuals's spouse.
+  >   - **(2)** *Social security number* For purposes of this subsection, the term social security number has the meaning given such term in section 24(h)(7).
+  >   - **(3)** *Married individuals* Rules similar to the rules of section 32(d) shall apply to this section.
+  > - **(c)** *Substantiation requirements* No credit shall be allowed under this section unless the taxpayer demonstrates to the satisfaction of the Secretary that the tax under section 4475 with respect to which such credit is determined—
+  >   - **(1)** was paid by the taxpayer, and
+  >   - **(2)** is with respect to a remittance transfer with respect to which the taxpayer provided to the remittance transfer provider the certification and information referred to in section 6050BB(a)(2).
+  > - **(d)** *Definitions* Any term used in this section which is also used in section 4475 shall have the meaning given such term in section 4475.
+  > - **(e)** *Application of anti-Conduit rules* For rules providing for the application of the anti-conduit rules of section 7701(l) to remittance transfers, see section 4475(e).
+
+- **(c)** *Reporting by remittance transfer providers*
+  - **(1)** *In general* Subpart B of part III of subchapter A of chapter 61 of the Internal Revenue Code of 1986 is amended by adding at the end the following new section:
+    > ## § 6050AA. Returns relating to remittance transfers
+    >
+    > - **(a)** *In general* Each remittance transfer provider shall make a return at such time as the Secretary may provide setting forth—
+    >   - **(1)** in the case of a qualified remittance transfer provider with respect to remittance transfers to which section 4475(a) does not apply by reason of section 4475(c), the aggregate number and value of such transfers,
+    >   - **(2)** in the case of any remittance transfer not described in paragraph (1) and with respect to which the sender certifies to the remittance transfer provider an intent to claim the credit under section 36C and provides the information described in paragraph (1)—
+    >     - **(A)** the name, address, and social security number of the sender,
+    >     - **(B)** the amount of tax paid by the sender under section 4475(b)(1), and
+    >     - **(C)** the amount of tax remitted by the remittance transfer provider under section 4475(b)(2), and
+    >   - **(3)** in the case of any remittance transfer not included under paragraph (1) or (2)—
+    >     - **(A)** the aggregate amount of tax paid under section 4475(b)(1) with respect to such transfers, and
+    >     - **(B)** the aggregate amount of tax remitted under section 4475(b)(2) with respect to such transfers.
+    > - **(b)** *Statement To be furnished to named persons* Every person required to make a return under subsection (a) shall furnish, at such time as the Secretary may provide, to each person whose name is required to be set forth in such return a written statement showing—
+    >   - **(1)** the name and address of the information contact of the required reporting person, and
+    >   - **(2)** the information described in subsection (a)(2) which relates to such person.
+    > - **(c)** *Definitions* Any term used in this section which is also used in section 4475 shall have the meaning given such term in such section.
+
+  - **(2)** *Penalties* Section 6724(d) of the Internal Revenue Code of 1986 is amended—
+    - **(A)** in paragraph (1)(B), by striking “or” at the end of clause (xxvii), by striking “and” at the end of clause (xxviii) and inserting “or”, and by adding at the end the following new clause:
+      > - **(xxix)** section 6050BB(a) (relating to returns relating to remittance transfers),
+
+    - **(B)** in paragraph (2), by striking “or” at the end of subparagraph (KK), by striking the period at the end of subparagraph (LL) and inserting “, or”, and by inserting after subparagraph (LL) the following new subparagraph:
+      > - **(MM)** section 6050BB(b) (relating to statements relating to remittance transfers).
+
+- **(d)** *Conforming amendments*
+  - **(1)** Section 6211(b)(4)(A) of the Internal Revenue Code of 1986 is amended by inserting “36C,” after “36B,”.
+  - **(2)** Section 6213(g)(2) of such Code is amended by striking “and” at the end of subparagraph (U), by striking the period at the end of subparagraph (V) and inserting “, and”, and by inserting after subparagraph (V) the following new subparagraph:
+    > - **(W)** an omission of a correct social security number under section 36C(b) to be included on a return.
+
+  - **(3)** Section 1324(b)(2) of title 31, United States Code, is amended by inserting “36C,” after “36B,”.
+  - **(4)** The table of sections for subpart C of part IV of subchapter A of chapter 1 of the Internal Revenue Code of 1986 is amended by inserting after the item relating to section 36B the following new item:
+  - **(5)** The table of sections for subpart B of part III of subchapter A of chapter 61 of such Code is amended by adding at the end the following new item:
+  - **(6)** The table of subchapters for chapter 36 of such Code is amended by inserting after the item relating to subchapter B the following new item:
+- **(e)** *Effective date*
+  - **(1)** *In general* Except as otherwise provided in this subsection, the amendments made by this section shall apply to transfers made after December 31, 2025.
+  - **(2)** *Tax credit* The amendments made by subsection (b), and paragraphs (1) through (4) of subsection (d), shall apply to taxable years ending after December 31, 2025.
