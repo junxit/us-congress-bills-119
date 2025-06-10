@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2035
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2035
@@ -20,9 +20,10 @@ American Cargo for American Ships Act
 
 - Rep. Ezell, Mike [R-MS-4] (E000235)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -48,3 +49,4 @@ American Cargo for American Ships Act
 - 2025-06-09 — Mr. Ezell moved to suspend the rules and pass the bill.
 - 2025-06-09 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 373 - 14 (Roll no. 157). (text: CR H2546-2547)
 - 2025-06-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 373 - 14 (Roll no. 157). (text: CR H2546-2547)
+- 2025-06-10 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
