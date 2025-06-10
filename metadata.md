@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1182
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1182
@@ -23,9 +23,10 @@ Compressed Gas Cylinder Safety and Oversight Improvements Act of 2025
 - Rep. Nehls, Troy E. [R-TX-22] (N000026)
 - Rep. Wied, Tony [R-WI-8] (W000829)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Compressed Gas Cylinder Safety and Oversight Improvements Act of 2025
 - 2025-06-09 — Mr. Ezell moved to suspend the rules and pass the bill.
 - 2025-06-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2552-2553)
 - 2025-06-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2552-2553)
+- 2025-06-10 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
