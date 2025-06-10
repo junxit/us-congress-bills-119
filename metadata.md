@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1373
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1373
@@ -21,9 +21,10 @@ Tennessee Valley Authority Transparency Act of 2025
 - Rep. Cohen, Steve [D-TN-9] (C001068)
 - Rep. Lee, Susie [D-NV-3] (L000590)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Tennessee Valley Authority Transparency Act of 2025
 - 2025-06-09 — Mr. Ezell moved to suspend the rules and pass the bill, as amended.
 - 2025-06-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2554)
 - 2025-06-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2554)
+- 2025-06-10 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
