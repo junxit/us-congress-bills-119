@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2351
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2351
@@ -21,9 +21,10 @@ To direct the Commandant of the Coast Guard to update the policy of the Coast Gu
 - Rep. Goldman, Craig [R-TX-12] (G000601)
 - Rep. Gillen, Laura [D-NY-4] (G000602)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ To direct the Commandant of the Coast Guard to update the policy of the Coast Gu
 - 2025-06-09 — Mr. Ezell moved to suspend the rules and pass the bill.
 - 2025-06-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2547-2548)
 - 2025-06-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2547-2548)
+- 2025-06-10 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
