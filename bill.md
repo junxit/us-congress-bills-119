@@ -1,0 +1,31 @@
+---
+legis-num: S. 2005
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2005
+
+> To improve the Institutional Development Award program of the National Institutes of Health.
+
+## § 1. Short title
+
+This Act may be cited as the “IDeA Reauthorization Act of 2025”.
+
+## § 2. Institutional development award program
+
+Section 461(b)(1) of the Public Health Service Act (42 U.S.C. 285k(b)(1)) is amended—
+
+- **(1)** in subparagraph (A), by adding at the end the following: “Such program shall be called the “Institutional Development Award program” or the “IDeA program”.”;
+- **(2)** by amending subparagraph (B) to read as follows:
+  > - **(B)** The entities referred to in subparagraph (A) are entities that conduct biomedical or behavioral research and are located in a State that is at or below the median of all States in aggregate grant funding from the National Institutes of Health, excluding funding under this subsection, received by entities in the State, calculated on a rolling multi-year average, as determined by the Director of NIH (referred to in this paragraph as an “IDeA State”).
+
+- **(3)** by adding at the end the following:
+  > - **(D)** The NIH shall submit to Congress, as part of its Federal budget submission, or make available through an annually updated, publicly accessible data source—
+  >   - **(i)** a description of the strategy and objectives of the IDeA program;
+  >   - **(ii)** a description of the awards made under such program in the previous fiscal year, including—
+  >     - **(I)** the efforts and accomplishments to more fully integrate the IDeA States in major activities and initiatives of the National Institutes of Health;
+  >     - **(II)** the percentage of IDeA program reviewers who are from IDeA States; and
+  >     - **(III)** updates on programs or large collaborator awards involving a partnership of organizations and institutions from IDeA States and non-IDeA States; and
+  >   - **(iii)** a description of gains in academic research quality and in biomedical science human resource development achieved through the IDeA program over the last 5 fiscal years.
