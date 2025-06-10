@@ -1,7 +1,7 @@
 ---
 measure: H.R. 248
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 248
@@ -26,9 +26,10 @@ Baby Changing on Board Act
 - Rep. Lawler, Michael [R-NY-17] (L000599)
 - Rep. Scanlon, Mary Gay [D-PA-5] (S001205)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Baby Changing on Board Act
 - 2025-06-09 — Mr. Ezell moved to suspend the rules and pass the bill.
 - 2025-06-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2551-2552)
 - 2025-06-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2551-2552)
+- 2025-06-10 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
