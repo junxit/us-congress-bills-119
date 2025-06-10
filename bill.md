@@ -1,0 +1,15 @@
+---
+legis-num: S. 2018
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2018
+
+> To modify certain limitations and exclusions regarding defense articles and requirements regarding security assistance and sales with respect to the Republic of Cyprus.
+
+## § 1. Modification to waivers of limitations on transfer of articles on United States munitions list to Republic of Cyprus
+
+- **(a)** *Eastern mediterranean security and energy partnership Act of 2019* Section 205(d)(2) of the Eastern Mediterranean Security and Energy Partnership Act of 2019 (Public Law 116–94; 133 Stat. 3052), is amended by striking “one fiscal year” and inserting “three fiscal years”.
+- **(b)** *National defense authorization Act for fiscal year 2020* Section 1250A(d)(2) of the National Defense Authorization Act for Fiscal Year 2020 (22 U.S.C. 2373 note), is amended by striking “one fiscal year” and inserting “three fiscal years”.
