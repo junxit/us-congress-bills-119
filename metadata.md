@@ -1,7 +1,7 @@
 ---
 measure: S. 1136
 congress: 119
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 1136
@@ -31,3 +31,8 @@ DETERRENCE Act
 
 - 2025-03-26 — Introduced in Senate
 - 2025-03-26 — Read twice and referred to the Committee on the Judiciary.
+- 2025-06-10 — Committee on Homeland Security and Governmental Affairs Subcommittee on Border Management, Federal Workforce, and Regulatory Affairs. Hearings held.
+- 2025-06-10 — Passed Senate without amendment by Unanimous Consent. (text: CR S3322-3323)
+- 2025-06-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2025-06-10 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2025-06-10 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S3322-3323)
