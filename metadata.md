@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1948
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1948
@@ -29,9 +29,10 @@ To authorize the International Boundary and Water Commission to accept funds for
 - Rep. Castro, Joaquin [D-TX-20] (C001091)
 - Rep. Gonzalez, Vicente [D-TX-34] (G000581)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ To authorize the International Boundary and Water Commission to accept funds for
 - 2025-06-09 — Mr. Ezell moved to suspend the rules and pass the bill, as amended.
 - 2025-06-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2555)
 - 2025-06-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2555)
+- 2025-06-10 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
