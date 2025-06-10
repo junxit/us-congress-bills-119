@@ -1,7 +1,7 @@
 ---
 measure: H.R. 252
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 252
@@ -21,9 +21,10 @@ Secure Our Ports Act of 2025
 - Rep. Gimenez, Carlos A. [R-FL-28] (G000593)
 - Rep. Garamendi, John [D-CA-8] (G000559)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Secure Our Ports Act of 2025
 - 2025-06-09 — Mr. Ezell moved to suspend the rules and pass the bill, as amended.
 - 2025-06-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2556)
 - 2025-06-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2556)
+- 2025-06-10 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
