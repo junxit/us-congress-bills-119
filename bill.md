@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 3901
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3901
+
+> To direct the Secretary of the Army to eliminate any backlog of applications for permits under section 404 of the Federal Water Pollution Control Act or requests for jurisdictional determinations under the jurisdiction of the Secretary, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Jurisdictional Determination Backlog Reduction Act”.
+
+## § 2. Elimination of backlog of applications for jurisdictional determinations and permits
+
+Not later than 60 days after the date of enactment of this Act, the Secretary of the Army, acting through the Chief of Engineers, shall expedite such procedures and reallocate or augment such personnel and resources of the Corps of Engineers as the Secretary determines necessary to eliminate any backlog existing as June 5, 2025, of—
+
+- **(1)** applications for permits under section 404 of the Federal Water Pollution Control Act (33 U.S.C. 1344); or
+- **(2)** requests for jurisdictional determinations under the jurisdiction of the Secretary.
