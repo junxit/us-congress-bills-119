@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2096
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2096
@@ -22,9 +22,10 @@ Protecting Our Nation’s Capital Emergency Act
 - Rep. Biggs, Andy [R-AZ-5] (B001302)
 - Rep. Rutherford, John H. [R-FL-5] (R000609)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -54,3 +55,4 @@ Protecting Our Nation’s Capital Emergency Act
 - 2025-06-10 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 235 - 178, 1 Present (Roll no. 162). (text of amendment in the nature of a substitute: CR H2589-2590)
 - 2025-06-10 — Rule provides for consideration of H.R. 884, H.R. 2056, H.R. 2096 and S. 331. The resolution provides for consideration of H.R. 884, H.R. 2056, H.R. 2096, and S. 331 under a closed rule with one hour of general debate for each bill. The resolution provides for one motion to recommit on H.R. 884, H.R. 2056, and H.R. 2096, and one motion to commit on S. 331.
 - 2025-06-10 — The previous question was ordered pursuant to the rule.
+- 2025-06-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.

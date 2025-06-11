@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2096
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -32,4 +32,4 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | strike | Section 1708 of the District of Columbia Government Comprehensive Merit Personnel Act of 1978 (sec. 1–617.08, D.C. Official Code), as amended by section 116(b) of the Comprehensive Policing and Justice Reform Amendment Act of 2022 (D.C. … | the bill names no machine-readable US Code section |
-| — | repeal | Subtitle M of title I of the Comprehensive Policing and Justice Reform Amendment Act of 2022 (D.C. Law 24–345) is repealed, and any provision of law amended or repealed by such subtitle is restored or revived as if such subtitle had not … | the bill names no machine-readable US Code section |
+| — | repeal | Subtitle M of title I of the Comprehensive Policing and Justice Reform Amendment Act of 2022 (D.C. Law 24–345) is repealed, and any provision of law amended or repealed by such sub- title is restored or revived as if such subtitle had no… | the bill names no machine-readable US Code section |
