@@ -1,0 +1,30 @@
+---
+legis-num: H.R. 3898
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3898
+
+> To amend the Federal Water Pollution Control Act to make targeted reforms with respect to waters of the United States and other matters, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Promoting Efficient Review for Modern Infrastructure Today Act” or the “PERMIT Act”.
+
+## § 2. Definition of navigable waters
+
+Section 502(7) of the Federal Water Pollution Control Act (33 U.S.C. 1362(7)) is amended—
+
+- **(1)** by striking “(7) The term” and inserting the following:
+  > - **(7)** *Navigable waters*
+  >   - **(A)** *In general* The term
+
+- **(2)** by adding at the end the following:
+  > - **(B)** *Exclusions* The term navigable waters does not include—
+  >   - **(i)** waste treatment systems, including treatment ponds or lagoons designed to meet the requirements of this Act;
+  >   - **(ii)** ephemeral features that flow only in direct response to precipitation;
+  >   - **(iii)** prior converted cropland;
+  >   - **(iv)** groundwater; or
+  >   - **(v)** any other features determined to be excluded by the Administrator or the Secretary of the Army, acting through the Chief of Engineers.
