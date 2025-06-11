@@ -1,0 +1,27 @@
+---
+legis-num: S. RES. 272
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. RES. 272
+
+> Expressing support for the designation of the second Saturday in June as “Veterans Get Outside Day”.
+
+## Preamble
+
+- Whereas, between 2000 and 2024, the Secretary of Defense found that more than 460,000 members of the Armed Forces were diagnosed with traumatic brain injuries;
+- Whereas studies have found that, after decades of combat in Afghanistan and Iraq, 20 percent of veterans suffer from post-traumatic stress and depression;
+- Whereas the Department of Veterans Affairs found that veterans suffer a disproportionately higher rate of suicide compared to non-veterans, and post-traumatic stress, traumatic brain injury, depression, and anxiety are root causes of the suicide epidemic in the veteran community, with an estimated 17.6 suicides per day in 2022;
+- Whereas, despite a strong effort by Congress and Department of Veterans Affairs to reduce the number of veterans’ suicides, there are still gaps in mental health care for veterans, and the United States needs to use every treatment available to support the veteran community;
+- Whereas studies have shown that exposure to nature and the outdoors has a positive therapeutic impact on mental health, including by resulting in lower risks of depression and improved focus and attention, and even a single day outside can improve an individual’s overall mood and lessen feelings of isolation;
+- Whereas studies have found that individuals with increased access to green space have a lower suicide risk;
+- Whereas the Forest Service sponsors a National Get Outdoors Day on the second Saturday in June to promote the health benefits of outdoor recreational activities;
+- Whereas the United States has recognized the need to connect veterans with nature by providing free admission to national parks and forests; and
+- Whereas a targeted outreach effort, such as Veterans Get Outside Day, to veterans living with post-traumatic stress, traumatic brain injury, depression, and anxiety may lead to further participation in outside events and improved mental health outcomes: Now, therefore, be it
+
+That the Senate—
+
+- **(1)** designates the second Saturday in June as “Veterans Get Outside Day”; and
+- **(2)** encourages the Department of Veterans Affairs, the Forest Service, and the Department of the Interior to coordinate and cooperate in promoting Veterans Get Outside Day along with National Get Outdoors Day.
