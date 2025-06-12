@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1082
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1082
@@ -29,3 +29,8 @@ Shandra Eisenga Human Cell and Tissue Product Safety Act
 - 2025-02-06 — Introduced in House
 - 2025-02-06 — Introduced in House
 - 2025-02-06 — Referred to the House Committee on Energy and Commerce.
+- 2025-04-29 — Committee Consideration and Mark-up Session Held
+- 2025-04-29 — Ordered to be Reported by Voice Vote.
+- 2025-06-12 — Placed on the Union Calendar, Calendar No. 127.
+- 2025-06-12 — Reported by the Committee on Energy and Commerce. H. Rept. 119-160.
+- 2025-06-12 — Reported by the Committee on Energy and Commerce. H. Rept. 119-160.
