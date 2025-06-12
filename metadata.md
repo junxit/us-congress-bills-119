@@ -1,7 +1,7 @@
 ---
 measure: S. 1467
 congress: 119
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 1467
@@ -16,7 +16,7 @@ Homebuyers Privacy Protection Act
 
 - Sen. Reed, Jack [D-RI] (R000122)
 
-## Cosponsors (35)
+## Cosponsors (44)
 
 - Sen. Hagerty, Bill [R-TN] (H000601)
 - Sen. Van Hollen, Chris [D-MD] (V000128)
@@ -53,6 +53,15 @@ Homebuyers Privacy Protection Act
 - Sen. Merkley, Jeff [D-OR] (M001176)
 - Sen. Kelly, Mark [D-AZ] (K000377)
 - Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Moreno, Bernie [R-OH] (M001242)
+- Sen. Banks, Jim [R-IN] (B001299)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Scott, Rick [R-FL] (S001217)
 
 ## Committees (1)
 
@@ -62,3 +71,7 @@ Homebuyers Privacy Protection Act
 
 - 2025-04-10 — Introduced in Senate
 - 2025-04-10 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs. (Sponsor introductory remarks on measure: CR S2567)
+- 2025-06-12 — Passed Senate without amendment by Unanimous Consent. (text: CR S3395-3396)
+- 2025-06-12 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (text: CR S3395-3396)
+- 2025-06-12 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2025-06-12 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S3395-3396)

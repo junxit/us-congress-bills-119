@@ -19,7 +19,7 @@ Section 604(c) of the Fair Credit Reporting Act (15 U.S.C. 1681b(c)) is amended 
 
 > - **(4)** *Treatment of prescreening report requests*
 >   - **(A)** *Definitions* In this paragraph:
->     - **(i)** *Credit union* The term credit union means a Federal credit union or a State credit union, as those terms are defined in section 101 of the Federal Credit Union Act (12 U.S.C 1752).
+>     - **(i)** *Credit union* The term credit union means a Federal credit union or a State credit union, as those terms are defined in section 101 of the Federal Credit Union Act (12 U.S.C. 1752).
 >     - **(ii)** *Insured depository institution* The term insured depository institution has the meaning given the term in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813(c)).
 >     - **(iii)** *Residential mortgage loan* The term residential mortgage loan has the meaning given the term in section 1503 of the S.A.F.E. Mortgage Licensing Act of 2008 (12 U.S.C. 5102).
 >     - **(iv)** *Servicer* The term servicer has the meaning given the term in section 6(i) of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2605(i)).
