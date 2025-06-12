@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1737
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1737
@@ -29,3 +29,8 @@ To direct the Secretary of Commerce to submit to Congress a report containing an
 - 2025-02-27 — Introduced in House
 - 2025-02-27 — Introduced in House
 - 2025-02-27 — Referred to the House Committee on Energy and Commerce.
+- 2025-03-04 — Committee Consideration and Mark-up Session Held
+- 2025-03-04 — Ordered to be Reported by Voice Vote.
+- 2025-06-12 — Placed on the Union Calendar, Calendar No. 121.
+- 2025-06-12 — Reported by the Committee on Energy and Commerce. H. Rept. 119-155.
+- 2025-06-12 — Reported by the Committee on Energy and Commerce. H. Rept. 119-155.
