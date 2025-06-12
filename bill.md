@@ -1,0 +1,27 @@
+---
+legis-num: H.R. 3993
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 3993
+
+> To prohibit the Secretary of the Navy from changing the names of certain naval vessels.
+
+## § 1. Short title
+
+This Act may be cited as the “Preserving Great Americans’ Legacies Act of 2025”.
+
+## § 2. Prohibition on name change of certain naval vessels
+
+- **(a)** *In general* Notwithstanding section 8662(b) of title 10, United States Code, the Secretary of the Navy may not change the name of any naval vessel that, as of the date of the enactment of this Act, is named after an individual referred to in subsection (b).
+- **(b)** *Individuals* An individual referred to in this subsection is any of the following:
+  - **(1)** Cesar Chavez.
+  - **(2)** Medgar Evers.
+  - **(3)** Ruth Bader Ginsburg.
+  - **(4)** Dolores Huerta.
+  - **(5)** Thurgood Marshall.
+  - **(6)** Harvey Milk.
+  - **(7)** Lucy Stone.
+  - **(8)** Harriet Tubman.
