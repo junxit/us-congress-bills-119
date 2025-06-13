@@ -1,0 +1,27 @@
+---
+legis-num: H.R. 4010
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4010
+
+> To prohibit Department of Defense contracts with certain foreign-owned online tutoring services.
+
+## § 1. Short title
+
+This Act may be cited as the “Turning Untrusted Tutoring Origins Away from Resources Act of 2025” or the “TUTOR Act of 2025”.
+
+## § 2. Prohibition on Department of Defense contracts with certain foreign-owned online tutoring services
+
+Section 854 of the Servicemember Quality of Life Improvement and National Defense Authorization Act for Fiscal Year 2025 (Public Law 118–159; 10 U.S.C. 4651 note prec.) is amended—
+
+- **(1)** by striking “The Secretary” and inserting “(a) In general.—The Secretary”;
+- **(2)** by striking “the People’s Republic of China” and inserting “a country of concern”; and
+- **(3)** by adding at the end the following new subsection:
+  > - **(b)** *Country of concern defined* In this section, the term “country of concern” means any of the following:
+  >   - **(1)** China.
+  >   - **(2)** Russia.
+  >   - **(3)** Iran.
+  >   - **(4)** North Korea.
