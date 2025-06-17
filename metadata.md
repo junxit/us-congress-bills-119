@@ -1,7 +1,7 @@
 ---
 measure: S. 1582
 congress: 119
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1582
@@ -84,7 +84,7 @@ GENIUS Act
 - Sen. Lummis, Cynthia M. [R-WY] (L000571)
 - Sen. Heinrich, Martin [D-NM] (H001046)
 
-## Recorded votes (9)
+## Recorded votes (10)
 
 - 2025-05-08 — [Senate 119-1-240](votes/senate-119-1-0240.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Rejected** (48–49)
 - 2025-05-19 — [Senate 119-1-262](votes/senate-119-1-0262.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (66–32)
@@ -95,6 +95,7 @@ GENIUS Act
 - 2025-06-12 — [Senate 119-1-311](votes/senate-119-1-0311.md) — On the Amendment — **Amendment Agreed to** (67–30)
 - 2025-06-12 — [Senate 119-1-312](votes/senate-119-1-0312.md) — On the Cloture Motion — **Cloture Motion Agreed to** (67–27)
 - 2025-06-17 — [Senate 119-1-318](votes/senate-119-1-0318.md) — On Passage of the Bill — **Bill Passed** (68–30)
+- 2025-07-17 — [House 119-1-200](votes/house-119-1-0200.md) — On Passage — **Passed** (308–122)
 
 ## Actions
 
@@ -444,3 +445,23 @@ GENIUS Act
 - 2025-06-17 — Considered by Senate. (consideration: CR S3418-3432)
 - 2025-06-17 — Passed Senate with an amendment by Yea-Nay Vote. 68 - 30. Record Vote Number: 318. (text: CR S3419-3432)
 - 2025-06-17 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 68 - 30. Record Vote Number: 318.
+- 2025-06-23 — Held at the desk.
+- 2025-06-23 — Message on Senate action sent to the House.
+- 2025-06-23 — Received in the House.
+- 2025-07-15 — Rules Committee Resolution H. Res. 580 Reported to House. Rule provides for consideration of H.R. 4016, H.R. 3633, H.R. 1919 and S. 1582. The resolution provides for consideration of H.R. 4016 and H.R. 3633 under a structured rule, and H.R. 1919 and S. 1582 under a closed rule, with one hour of general debate on each bill. The resolution provides for a motion to recommit on H.R. 4016, H.R. 3633, and H.R. 1919, and a motion to commit on S. 1582.
+- 2025-07-16 — Rule H. Res. 580 passed House.
+- 2025-07-17 — Considered as unfinished business. (consideration: CR H3449-3450)
+- 2025-07-17 — Considered under the provisions of rule H. Res. 580. (consideration: CR H3405-3427)
+- 2025-07-17 — DEBATE - The House proceeded with one hour of debate on S. 1582.
+- 2025-07-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-07-17 — On passage Passed by the Yeas and Nays: 308 - 122 (Roll no. 200). (text: CR H3405-3418)
+- 2025-07-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on S. 1582, the Chair put the question on passage of the bill and by voice vote, announced that the ayes had prevailed. Ms. Waters demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2025-07-17 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 308 - 122 (Roll no. 200).
+- 2025-07-17 — Presented to President.
+- 2025-07-17 — Presented to President.
+- 2025-07-17 — Rule provides for consideration of H.R. 4016, H.R. 3633, H.R. 1919 and S. 1582. The resolution provides for consideration of H.R. 4016 and H.R. 3633 under a structured rule, and H.R. 1919 and S. 1582 under a closed rule, with one hour of general debate on each bill. The resolution provides for a motion to recommit on H.R. 4016, H.R. 3633, and H.R. 1919, and a motion to commit on S. 1582.
+- 2025-07-17 — The previous question was ordered pursuant to the rule.
+- 2025-07-18 — Became Public Law No: 119-27.
+- 2025-07-18 — Became Public Law No: 119-27.
+- 2025-07-18 — Signed by President.
+- 2025-07-18 — Signed by President.
