@@ -11,15 +11,16 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Special Interest Alien Reporting Act of 2024”.
+This Act may be cited as the “Special Interest Alien Reporting Act of 2025”.
 
-## § 2. Publication by the Department of Homeland Security of the number of special interest aliens encountered attempting to unlawfully enter the United States
+## § 2. Publication by the Department of Homeland Security of the number of special interest aliens encountered
 
-- **(a)** *In general* Not later than the seventh day of each month, the Secretary of Homeland Security shall publish on a publicly available webpage of the Department of Homeland Security and submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on the total number, and an identification of the nationalities or countries of last habitual residence, of special interest aliens encountered by the Department attempting to unlawfully enter the United States during the immediately preceding month. Each such report shall also include the following:
+- **(a)** *In general* Not later than the seventh day of each month beginning with the first full month that begins after the date of the enactment of this Act, the Secretary of Homeland Security shall publish on a publicly available webpage of the Department of Homeland Security and submit to the Committee on Homeland Security of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on the total number, and an identification of the nationalities or countries of last habitual residence, of special interest aliens encountered by the Department during the immediately preceding month. Each such report shall also include the following:
   - **(1)** Such number disaggregated by geographic regions of such encounters.
   - **(2)** Specifications relating to whether such encounters were made at land, air, or sea ports of entry, between ports of entry, or in the interior of the United States.
   - **(3)** Identification of any such nationalities or countries of last habitual residence that are covered nations.
-- **(b)** *Definitions* In this section:
+- **(b)** *Inclusion* The first report required under subsection (a) shall also include the matters described in such subsection for the time period from January 20, 2021, through January 19, 2025.
+- **(c)** *Definitions* In this section:
   - **(1)** *Alien* The term “alien” has the meaning given such term in section 101 of the Immigration and Nationality Act (8 U.S.C. 1101).
   - **(2)** *Covered nation* The term “covered nation” has the meaning given such term in section 4872(d)(2) of title 10, United States Code.
   - **(3)** *Special interest alien* The term “special interest alien” means an alien who, based on an analysis of travel patterns, potentially poses a national security risk to the United States or its interests.
