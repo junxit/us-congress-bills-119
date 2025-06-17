@@ -1,7 +1,7 @@
 ---
 measure: S. 1582
 congress: 119
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-21 amendatory instructions. 1 executed, 20 stated and not applied.
+22 amendatory instructions. 1 executed, 21 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -62,3 +62,4 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 78c` | add-at-end | Section 3(a)(10) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(10)) is amended by adding at the end the following: “The term security does not include a payment stablecoin issued by a permitted payment stablecoin issuer, as su… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 78lll` | add-at-end | Section 16(14) of the Securities Investor Protection Act of 1970 (15 U.S.C. 78lll(14)) is amended by adding at the end the following: “The term security does not include a payment stablecoin issued by a permitted payment stablecoin issue… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1a` | add-at-end | Section 1a(9) of the Commodity Exchange Act (7 U.S.C. 1a(9)) is amended by adding at the end the following: “The term commodity does not include a payment stablecoin issued by a permitted payment stablecoin issuer, as such terms are defi… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 13104(a)(3) of title 5, United States Code, is amended, in the first sentence, by striking “, or any deposits” and inserting “, any payment stablecoins issued by a permitted payment stablecoin issuer aggregating $5,000 or less he… | the bill names no machine-readable US Code section |

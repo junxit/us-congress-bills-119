@@ -1,7 +1,7 @@
 ---
 measure: S. 1582
 congress: 119
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S. 1582
@@ -16,13 +16,431 @@ GENIUS Act
 
 - Sen. Hagerty, Bill [R-TN] (H000601)
 
-## Cosponsors (2)
+## Cosponsors (65)
 
 - Sen. Lummis, Cynthia M. [R-WY] (L000571)
 - Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Moreno, Bernie [R-OH] (M001242)
+- Sen. Ricketts, Pete [R-NE] (R000618)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Lummis, Cynthia M. [R-WY] (L000571)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Fetterman, John [D-PA] (F000479)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Lummis, Cynthia M. [R-WY] (L000571)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Lummis, Cynthia M. [R-WY] (L000571)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+
+## Recorded votes (9)
+
+- 2025-05-08 — [Senate 119-1-240](votes/senate-119-1-0240.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Rejected** (48–49)
+- 2025-05-19 — [Senate 119-1-262](votes/senate-119-1-0262.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (66–32)
+- 2025-05-21 — [Senate 119-1-263](votes/senate-119-1-0263.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (69–31)
+- 2025-06-11 — [Senate 119-1-305](votes/senate-119-1-0305.md) — On the Cloture Motion — **Cloture Motion Agreed to** (68–30)
+- 2025-06-12 — [Senate 119-1-309](votes/senate-119-1-0309.md) — On the Motion to Table — **Motion to Table Failed** (45–52)
+- 2025-06-12 — [Senate 119-1-310](votes/senate-119-1-0310.md) — On the Motion — **Motion Agreed to** (64–33)
+- 2025-06-12 — [Senate 119-1-311](votes/senate-119-1-0311.md) — On the Amendment — **Amendment Agreed to** (67–30)
+- 2025-06-12 — [Senate 119-1-312](votes/senate-119-1-0312.md) — On the Cloture Motion — **Cloture Motion Agreed to** (67–27)
+- 2025-06-17 — [Senate 119-1-318](votes/senate-119-1-0318.md) — On Passage of the Bill — **Bill Passed** (68–30)
 
 ## Actions
 
 - 2025-05-01 — Introduced in Senate
 - 2025-05-01 — Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2025-05-05 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 66.
+- 2025-05-06 — Cloture motion on the motion to proceed to the measure presented in Senate. (CR S2772)
+- 2025-05-06 — Motion to proceed to consideration of measure made in Senate. (CR S2772)
+- 2025-05-08 — 
+- 2025-05-08 — 
+- 2025-05-08 — 
+- 2025-05-08 — Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 48 - 49. Record Vote Number: 240. (CR S2823)
+- 2025-05-08 — Motion by Senator Thune to reconsider the vote by which cloture on the motion to proceed to the measure was not invoked (Record Vote No. 240) made in Senate.
+- 2025-05-08 — Motion to proceed to consideration of measure made in Senate. (CR S2814)
+- 2025-05-08 — Senate amendment submitted
+- 2025-05-08 — Senate amendment submitted
+- 2025-05-08 — Senate amendment submitted
+- 2025-05-12 — Motion to proceed to consideration of measure made in Senate. (CR S2847)
+- 2025-05-15 — Motion to proceed to consideration of measure made in Senate.
+- 2025-05-15 — Second cloture motion on the motion to proceed presented in Senate. (CR S2947)
+- 2025-05-19 — Cloture motion on the motion to proceed rendered moot in Senate.
+- 2025-05-19 — Motion by Senator Thune to reconsider the vote by which cloture on the motion to proceed to the measure was not invoked (Record Vote No. 240) rendered moot in Senate.
+- 2025-05-19 — Second cloture motion on the motion to proceed invoked in Senate by Yea-Nay Vote. 66 - 32. Record Vote Number: 262. (CR S2965)
+- 2025-05-20 — 
+- 2025-05-20 — 
+- 2025-05-20 — 
+- 2025-05-20 — 
+- 2025-05-20 — 
+- 2025-05-20 — 
+- 2025-05-20 — 
+- 2025-05-20 — 
+- 2025-05-20 — Motion to proceed to measure considered in Senate. (CR S2983)
+- 2025-05-20 — Senate amendment submitted
+- 2025-05-20 — Senate amendment submitted
+- 2025-05-20 — Senate amendment submitted
+- 2025-05-20 — Senate amendment submitted
+- 2025-05-20 — Senate amendment submitted
+- 2025-05-20 — Senate amendment submitted
+- 2025-05-20 — Senate amendment submitted
+- 2025-05-20 — Senate amendment submitted
+- 2025-05-21 — 
+- 2025-05-21 — 
+- 2025-05-21 — 
+- 2025-05-21 — 
+- 2025-05-21 — 
+- 2025-05-21 — 
+- 2025-05-21 — 
+- 2025-05-21 — 
+- 2025-05-21 — 
+- 2025-05-21 — 
+- 2025-05-21 — 
+- 2025-05-21 — 
+- 2025-05-21 — 
+- 2025-05-21 — 
+- 2025-05-21 — 
+- 2025-05-21 — 
+- 2025-05-21 — 
+- 2025-05-21 — 
+- 2025-05-21 — 
+- 2025-05-21 — 
+- 2025-05-21 — 
+- 2025-05-21 — 
+- 2025-05-21 — 
+- 2025-05-21 — 
+- 2025-05-21 — 
+- 2025-05-21 — 
+- 2025-05-21 — 
+- 2025-05-21 — 
+- 2025-05-21 — 
+- 2025-05-21 — 
+- 2025-05-21 — Amendment SA 2228 proposed by Senator Thune for Senator Ricketts. (consideration: CR S3025) To provide for expedited certification of existing regulatory regimes.
+- 2025-05-21 — Considered by Senate.
+- 2025-05-21 — Measure laid before Senate by motion. (consideration: CR S3025)
+- 2025-05-21 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 69 - 31. Record Vote Number: 263.
+- 2025-05-21 — Motion to proceed to measure considered in Senate. (CR S3017)
+- 2025-05-21 — Senate amendment proposed (on the floor): Amendment SA 2228 proposed by Senator Thune for Senator Ricketts.
+- 2025-05-21 — Senate amendment submitted
+- 2025-05-21 — Senate amendment submitted
+- 2025-05-21 — Senate amendment submitted
+- 2025-05-21 — Senate amendment submitted
+- 2025-05-21 — Senate amendment submitted
+- 2025-05-21 — Senate amendment submitted
+- 2025-05-21 — Senate amendment submitted
+- 2025-05-21 — Senate amendment submitted
+- 2025-05-21 — Senate amendment submitted
+- 2025-05-21 — Senate amendment submitted
+- 2025-05-21 — Senate amendment submitted
+- 2025-05-21 — Senate amendment submitted
+- 2025-05-21 — Senate amendment submitted
+- 2025-05-21 — Senate amendment submitted
+- 2025-05-21 — Senate amendment submitted
+- 2025-05-21 — Senate amendment submitted
+- 2025-05-21 — Senate amendment submitted
+- 2025-05-21 — Senate amendment submitted
+- 2025-05-21 — Senate amendment submitted
+- 2025-05-21 — Senate amendment submitted
+- 2025-05-21 — Senate amendment submitted
+- 2025-05-21 — Senate amendment submitted
+- 2025-05-21 — Senate amendment submitted
+- 2025-05-21 — Senate amendment submitted
+- 2025-05-21 — Senate amendment submitted
+- 2025-05-21 — Senate amendment submitted
+- 2025-05-21 — Senate amendment submitted
+- 2025-05-21 — Senate amendment submitted
+- 2025-05-21 — Senate amendment submitted
+- 2025-05-21 — Senate amendment submitted
+- 2025-05-22 — 
+- 2025-05-22 — 
+- 2025-05-22 — 
+- 2025-05-22 — 
+- 2025-05-22 — 
+- 2025-05-22 — 
+- 2025-05-22 — 
+- 2025-05-22 — 
+- 2025-05-22 — 
+- 2025-05-22 — 
+- 2025-05-22 — 
+- 2025-05-22 — 
+- 2025-05-22 — Senate amendment submitted
+- 2025-05-22 — Senate amendment submitted
+- 2025-05-22 — Senate amendment submitted
+- 2025-05-22 — Senate amendment submitted
+- 2025-05-22 — Senate amendment submitted
+- 2025-05-22 — Senate amendment submitted
+- 2025-05-22 — Senate amendment submitted
+- 2025-05-22 — Senate amendment submitted
+- 2025-05-22 — Senate amendment submitted
+- 2025-05-22 — Senate amendment submitted
+- 2025-05-22 — Senate amendment submitted
+- 2025-05-22 — Senate amendment submitted
+- 2025-06-02 — 
+- 2025-06-02 — 
+- 2025-06-02 — 
+- 2025-06-02 — 
+- 2025-06-02 — 
+- 2025-06-02 — 
+- 2025-06-02 — 
+- 2025-06-02 — 
+- 2025-06-02 — 
+- 2025-06-02 — 
+- 2025-06-02 — 
+- 2025-06-02 — 
+- 2025-06-02 — 
+- 2025-06-02 — 
+- 2025-06-02 — 
+- 2025-06-02 — Amendment SA 2278 proposed by Senator Bennet to Amendment SA 2228. (consideration: CR S3155-3156) To provide a definition.
+- 2025-06-02 — Considered by Senate. (consideration: CR S3155)
+- 2025-06-02 — Considered by Senate. (consideration: CR S3155-3156)
+- 2025-06-02 — Senate amendment proposed (on the floor): Amendment SA 2278 proposed by Senator Bennet to Amendment SA 2228.
+- 2025-06-02 — Senate amendment submitted
+- 2025-06-02 — Senate amendment submitted
+- 2025-06-02 — Senate amendment submitted
+- 2025-06-02 — Senate amendment submitted
+- 2025-06-02 — Senate amendment submitted
+- 2025-06-02 — Senate amendment submitted
+- 2025-06-02 — Senate amendment submitted
+- 2025-06-02 — Senate amendment submitted
+- 2025-06-02 — Senate amendment submitted
+- 2025-06-02 — Senate amendment submitted
+- 2025-06-02 — Senate amendment submitted
+- 2025-06-02 — Senate amendment submitted
+- 2025-06-02 — Senate amendment submitted
+- 2025-06-02 — Senate amendment submitted
+- 2025-06-02 — Senate amendment submitted
+- 2025-06-03 — 
+- 2025-06-03 — 
+- 2025-06-03 — 
+- 2025-06-03 — Senate amendment submitted
+- 2025-06-03 — Senate amendment submitted
+- 2025-06-03 — Senate amendment submitted
+- 2025-06-04 — 
+- 2025-06-04 — Senate amendment submitted
+- 2025-06-05 — 
+- 2025-06-05 — 
+- 2025-06-05 — 
+- 2025-06-05 — 
+- 2025-06-05 — 
+- 2025-06-05 — 
+- 2025-06-05 — 
+- 2025-06-05 — 
+- 2025-06-05 — 
+- 2025-06-05 — 
+- 2025-06-05 — Senate amendment submitted
+- 2025-06-05 — Senate amendment submitted
+- 2025-06-05 — Senate amendment submitted
+- 2025-06-05 — Senate amendment submitted
+- 2025-06-05 — Senate amendment submitted
+- 2025-06-05 — Senate amendment submitted
+- 2025-06-05 — Senate amendment submitted
+- 2025-06-05 — Senate amendment submitted
+- 2025-06-05 — Senate amendment submitted
+- 2025-06-05 — Senate amendment submitted
+- 2025-06-09 — 
+- 2025-06-09 — 
+- 2025-06-09 — 
+- 2025-06-09 — 
+- 2025-06-09 — 
+- 2025-06-09 — 
+- 2025-06-09 — 
+- 2025-06-09 — 
+- 2025-06-09 — 
+- 2025-06-09 — 
+- 2025-06-09 — 
+- 2025-06-09 — 
+- 2025-06-09 — 
+- 2025-06-09 — 
+- 2025-06-09 — 
+- 2025-06-09 — 
+- 2025-06-09 — 
+- 2025-06-09 — 
+- 2025-06-09 — 
+- 2025-06-09 — 
+- 2025-06-09 — 
+- 2025-06-09 — 
+- 2025-06-09 — 
+- 2025-06-09 — 
+- 2025-06-09 — 
+- 2025-06-09 — 
+- 2025-06-09 — 
+- 2025-06-09 — 
+- 2025-06-09 — 
+- 2025-06-09 — 
+- 2025-06-09 — 
+- 2025-06-09 — 
+- 2025-06-09 — 
+- 2025-06-09 — 
+- 2025-06-09 — 
+- 2025-06-09 — 
+- 2025-06-09 — 
+- 2025-06-09 — 
+- 2025-06-09 — 
+- 2025-06-09 — 
+- 2025-06-09 — Amendment SA 2307 proposed by Senator Thune for Senator Hagerty. (consideration: CR S3276) In the nature of a substitute.
+- 2025-06-09 — Amendment SA 2308 proposed by Senator Thune to Amendment SA 2307. (consideration: CR S3276) To improve the bill.
+- 2025-06-09 — Amendment SA 2309 proposed by Senator Thune to Amendment SA 2308. (consideration: CR S3276) To improve the bill.
+- 2025-06-09 — Amendment SA 2310 proposed by Senator Thune to language proposed to be stricken by amendment no. 2307. (consideration: CR S3276) To improve the bill.
+- 2025-06-09 — Amendment SA 2311 proposed by Senator Thune to Amendment SA 2310. (consideration: CR S3276) To improve the bill.
+- 2025-06-09 — Amendment SA 2312 proposed by Senator Thune. (consideration: CR S3276) To improve the bill.
+- 2025-06-09 — Amendment SA 2313 proposed by Senator Thune to Amendment SA 2312 (the instructions of the motion to commit). (consideration: CR S3276) To improve the bill.
+- 2025-06-09 — Amendment SA 2314 proposed by Senator Thune to Amendment SA 2313. (consideration: CR S3276) To improve the bill.
+- 2025-06-09 — Cloture motion on amendment SA 2307 presented in Senate. (CR S3335-3336)
+- 2025-06-09 — Cloture motion on the bill presented in Senate. (CR S3276)
+- 2025-06-09 — Considered by Senate. (consideration: CR S3275-3276)
+- 2025-06-09 — Considered by Senate. (consideration: CR S3275-3277)
+- 2025-06-09 — Considered by Senate. (consideration: CR S3276)
+- 2025-06-09 — Motion by Senator Thune to commit to Senate Committee on Banking, Housing, and Urban Affairs with instructions to report back forthwith with the following amendment (SA 2312) made in Senate.
+- 2025-06-09 — Proposed amendment SA 2228 withdrawn in Senate.
+- 2025-06-09 — SA 2278 fell when SA 2228 withdrawn.
+- 2025-06-09 — Senate amendment proposed (on the floor): Amendment SA 2307 proposed by Senator Thune for Senator Hagerty.
+- 2025-06-09 — Senate amendment proposed (on the floor): Amendment SA 2308 proposed by Senator Thune to Amendment SA 2307.
+- 2025-06-09 — Senate amendment proposed (on the floor): Amendment SA 2309 proposed by Senator Thune to Amendment SA 2308.
+- 2025-06-09 — Senate amendment proposed (on the floor): Amendment SA 2310 proposed by Senator Thune to language proposed to be stricken by amendment no. 2307.
+- 2025-06-09 — Senate amendment proposed (on the floor): Amendment SA 2311 proposed by Senator Thune to Amendment SA 2310.
+- 2025-06-09 — Senate amendment proposed (on the floor): Amendment SA 2312 proposed by Senator Thune.
+- 2025-06-09 — Senate amendment proposed (on the floor): Amendment SA 2313 proposed by Senator Thune to Amendment SA 2312 (the instructions of the motion to commit).
+- 2025-06-09 — Senate amendment proposed (on the floor): Amendment SA 2314 proposed by Senator Thune to Amendment SA 2313.
+- 2025-06-09 — Senate amendment submitted
+- 2025-06-09 — Senate amendment submitted
+- 2025-06-09 — Senate amendment submitted
+- 2025-06-09 — Senate amendment submitted
+- 2025-06-09 — Senate amendment submitted
+- 2025-06-09 — Senate amendment submitted
+- 2025-06-09 — Senate amendment submitted
+- 2025-06-09 — Senate amendment submitted
+- 2025-06-09 — Senate amendment submitted
+- 2025-06-09 — Senate amendment submitted
+- 2025-06-09 — Senate amendment submitted
+- 2025-06-09 — Senate amendment submitted
+- 2025-06-09 — Senate amendment submitted
+- 2025-06-09 — Senate amendment submitted
+- 2025-06-09 — Senate amendment submitted
+- 2025-06-09 — Senate amendment submitted
+- 2025-06-09 — Senate amendment submitted
+- 2025-06-09 — Senate amendment submitted
+- 2025-06-09 — Senate amendment submitted
+- 2025-06-09 — Senate amendment submitted
+- 2025-06-09 — Senate amendment submitted
+- 2025-06-09 — Senate amendment submitted
+- 2025-06-09 — Senate amendment submitted
+- 2025-06-09 — Senate amendment submitted
+- 2025-06-09 — Senate amendment submitted
+- 2025-06-09 — Senate amendment submitted
+- 2025-06-09 — Senate amendment submitted
+- 2025-06-09 — Senate amendment submitted
+- 2025-06-09 — Senate amendment submitted
+- 2025-06-09 — Senate amendment submitted
+- 2025-06-09 — Senate amendment submitted
+- 2025-06-09 — Senate amendment submitted
+- 2025-06-09 — Senate amendment submitted
+- 2025-06-09 — Senate amendment submitted
+- 2025-06-09 — Senate amendment submitted
+- 2025-06-09 — Senate amendment submitted
+- 2025-06-09 — Senate amendment submitted
+- 2025-06-09 — Senate amendment submitted
+- 2025-06-09 — Senate amendment submitted
+- 2025-06-09 — Senate amendment submitted
+- 2025-06-10 — 
+- 2025-06-10 — 
+- 2025-06-10 — 
+- 2025-06-10 — 
+- 2025-06-10 — 
+- 2025-06-10 — 
+- 2025-06-10 — Senate amendment submitted
+- 2025-06-10 — Senate amendment submitted
+- 2025-06-10 — Senate amendment submitted
+- 2025-06-10 — Senate amendment submitted
+- 2025-06-10 — Senate amendment submitted
+- 2025-06-10 — Senate amendment submitted
+- 2025-06-11 — 
+- 2025-06-11 — 
+- 2025-06-11 — Cloture on amendment SA 2307 invoked in Senate by Yea-Nay Vote. 68 - 30. Record Vote Number: 305.
+- 2025-06-11 — Considered by Senate.
+- 2025-06-11 — Considered by Senate.
+- 2025-06-11 — Considered by Senate.
+- 2025-06-11 — Considered by Senate. (consideration: CR S3335-3336)
+- 2025-06-11 — Considered by Senate. (consideration: CR S3336)
+- 2025-06-11 — Considered by Senate. (consideration: CR S3336)
+- 2025-06-11 — Considered by Senate. (consideration: CR S3336)
+- 2025-06-11 — Considered by Senate. (consideration: CR S3336)
+- 2025-06-11 — Considered by Senate. (consideration: CR S3336)
+- 2025-06-11 — Motion by Senator Thune to commit to Senate Committee on Banking, Housing, and Urban Affairs with instructions to report back forthwith with the following amendment (SA 2312) fell when cloture was invoked on amendment SA 2307 in Senate.
+- 2025-06-11 — Roll call votes on amendments in Senate: Cloture on amendment SA 2307 invoked in Senate by Yea-Nay Vote. 68 - 30. Record Vote Number: 305.
+- 2025-06-11 — SA 2312 (the instructions of the motion to commit) fell when cloture was invoked on amendment SA 2307.
+- 2025-06-11 — SA 2313 fell when SA 2312 fell.
+- 2025-06-11 — SA 2314 fell when SA 2313 fell.
+- 2025-06-11 — Senate amendment submitted
+- 2025-06-11 — Senate amendment submitted
+- 2025-06-12 — Amendment SA 2307 agreed to in Senate by Yea-Nay Vote. 67 - 30. Record Vote Number: 311.
+- 2025-06-12 — Cloture on the bill, as amended invoked in Senate by Yea-Nay Vote. 67 - 27. Record Vote Number: 312.
+- 2025-06-12 — Considered by Senate. (consideration: CR S3366)
+- 2025-06-12 — Considered by Senate. (consideration: CR S3366)
+- 2025-06-12 — Considered by Senate. (consideration: CR S3366)
+- 2025-06-12 — Considered by Senate. (consideration: CR S3366)
+- 2025-06-12 — Considered by Senate. (consideration: CR S3366)
+- 2025-06-12 — Considered by Senate. (consideration: CR S3366-3367)
+- 2025-06-12 — Motion to table amendment SA 2310 rejected in Senate by Yea-Nay Vote. 45 - 52. Record Vote Number: 309.
+- 2025-06-12 — Motion to waive all applicable budgetary discipline with respect to amendment SA 2307 agreed to in Senate by Yea-Nay Vote. 64 - 33. Record Vote Number: 310.
+- 2025-06-12 — Point of order that the amendment violates section 4106 of H.Con.Res.71, 115th Congress raised in Senate with respect to amendment SA 2307.
+- 2025-06-12 — Proposed amendment SA 2308 withdrawn in Senate.
+- 2025-06-12 — Proposed amendment SA 2310 withdrawn in Senate.
+- 2025-06-12 — Roll call votes on amendments in Senate: Amendment SA 2307 agreed to in Senate by Yea-Nay Vote. 67 - 30. Record Vote Number: 311.
+- 2025-06-12 — Roll call votes on amendments in Senate: Motion to table amendment SA 2310 rejected in Senate by Yea-Nay Vote. 45 - 52. Record Vote Number: 309.
+- 2025-06-12 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 2307 agreed to in Senate by Yea-Nay Vote. 64 - 33. Record Vote Number: 310.
+- 2025-06-12 — SA 2309 fell when SA 2308 withdrawn.
+- 2025-06-12 — SA 2311 fell when SA 2310 withdrawn.
+- 2025-06-12 — Senate amendment agreed to: Amendment SA 2307 agreed to in Senate by Yea-Nay Vote. 67 - 30. Record Vote Number: 311.
+- 2025-06-17 — Considered by Senate. (consideration: CR S3418-3432)
+- 2025-06-17 — Passed Senate with an amendment by Yea-Nay Vote. 68 - 30. Record Vote Number: 318. (text: CR S3419-3432)
+- 2025-06-17 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 68 - 30. Record Vote Number: 318.
