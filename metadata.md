@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 259
 congress: 119
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 259
@@ -30,3 +30,7 @@ A resolution recognizing June 2, 2025, as the 39th anniversary of C-SPAN chronic
 
 - 2025-06-02 — Introduced in Senate
 - 2025-06-02 — Referred to the Committee on the Judiciary. (Sponsor introductory remarks on measure: CR S3171-3172)
+- 2025-06-18 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2025-06-18 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: 6/02/2025 CR S3171)
+- 2025-06-18 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2025-06-18 — Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S3478)
