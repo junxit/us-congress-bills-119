@@ -1,7 +1,7 @@
 ---
 measure: S. 1478
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+8 amendatory instructions. 0 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,10 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| `22 U.S.C. § 1741` | insert | The Robert Levinson Hostage Recovery and Hostage-Taking Accountability Act (22 U.S.C. 1741 et seq.) is amended by inserting after section 306 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 42308` | add-at-end | Chapter 423 of title 49, United States Code, is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 42308` | insert | The analysis for chapter 423 of title 49, United States Code, is amended by inserting after the item relating to section 42308 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 1741` | insert | The Robert Levinson Hostage Recovery and Hostage-Taking Accountability Act (22 U.S.C. 1741 et seq.), as amended by section 101, is further amended by inserting after section 305B the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 1741` | insert | The Robert Levinson Hostage Recovery and Hostage-Taking Accountability Act (22 U.S.C. 1741 et seq.) is amended by inserting after section 306 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 42308` | add-at-end | Chapter 423 of title 49, United States Code, is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `49 U.S.C. § 42308` | insert | The analysis for chapter 423 of title 49, United States Code, is amended by inserting after the item relating to section 42308 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
