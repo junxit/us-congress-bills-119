@@ -1,7 +1,7 @@
 ---
 measure: S. 1801
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-7 amendatory instructions. 0 executed, 7 stated and not applied.
+14 amendatory instructions. 0 executed, 14 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,13 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| `42 U.S.C. § 16279b` | replace | in the matter preceding paragraph (1), by striking “The Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 16279b` | strike | by striking “financing,”; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 16279b` | strike | by striking “and” after the semicolon at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 16279b` | strike | in subparagraph (A), by striking “preparations for”; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 16279b` | replace | in subparagraph (C)(v), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 16279b` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 10101` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 16279b` | replace | in the matter preceding paragraph (1), by striking “The Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 16279b` | strike | by striking “financing,”; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 16279b` | strike | by striking “and” after the semicolon at the end; | the bill quotes the text struck but describes what replaces it |
