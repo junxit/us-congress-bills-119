@@ -1,0 +1,22 @@
+---
+legis-num: S. 2108
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2108
+
+> To amend title 23, United States Code, to establish an axle weight variance for certain commercial motor vehicles transporting dry bulk goods, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Vehicle Axle Redistribution Increases Allow New Capacities for Efficiency Act” or the “VARIANCE Act”.
+
+## § 2. Axle weight variance for the transportation of dry bulk goods
+
+Section 127 of title 23, United States Code, is amended by adding at the end the following:
+
+> - **(z)** *Axle weight variance for the transportation of dry bulk goods*
+>   - **(1)** *Definition of dry bulk goods* In this subsection, the term dry bulk goods means a homogeneous, unmarked, unpackaged, nonliquid cargo being transported in a trailer specifically designed for that purpose.
+>   - **(2)** *Weight variance* Notwithstanding any other provision of this section, except for the maximum gross vehicle weight limitation, a commercial motor vehicle transporting dry bulk goods may not exceed 110 percent of the maximum weight on any axle or axle group described in subsection (a), including any enforcement tolerance.
