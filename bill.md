@@ -1,0 +1,22 @@
+---
+legis-num: S. 2138
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2138
+
+> To modify buy-to-budget requirements for end items, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Buy-to-Budget Flexibility Act”.
+
+## § 2. Modifications to buy-to-budget requirements for end items
+
+Section 3069 of title 10, United States Code, is amended—
+
+- **(1)** in subsection (a), by striking “if that head of an agency” and all that follows through “a complete end item”;
+- **(2)** by striking subsections (b) through (d); and
+- **(3)** by redesignating subsection (e) as subsection (b).
