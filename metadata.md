@@ -1,7 +1,7 @@
 ---
 measure: S. 356
 congress: 119
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 356
@@ -16,7 +16,7 @@ Secure Rural Schools Reauthorization Act of 2025
 
 - Sen. Crapo, Mike [R-ID] (C000880)
 
-## Cosponsors (20)
+## Cosponsors (27)
 
 - Sen. Wyden, Ron [D-OR] (W000779)
 - Sen. Risch, James E. [R-ID] (R000584)
@@ -38,6 +38,13 @@ Secure Rural Schools Reauthorization Act of 2025
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 - Sen. Justice, James C. [R-WV] (J000312)
 - Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Gallego, Ruben [D-AZ] (G000574)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
 
 ## Committees (1)
 
@@ -47,3 +54,7 @@ Secure Rural Schools Reauthorization Act of 2025
 
 - 2025-02-03 — Introduced in Senate
 - 2025-02-03 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2025-06-18 — Passed Senate without amendment by Voice Vote. (text: CR S3459-3460)
+- 2025-06-18 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2025-06-18 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
+- 2025-06-18 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent. (consideration: CR S3458)
