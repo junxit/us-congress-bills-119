@@ -1,7 +1,7 @@
 ---
 measure: S. 356
 congress: 119
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 356
@@ -16,7 +16,7 @@ Secure Rural Schools Reauthorization Act of 2025
 
 - Sen. Crapo, Mike [R-ID] (C000880)
 
-## Cosponsors (27)
+## Cosponsors (28)
 
 - Sen. Wyden, Ron [D-OR] (W000779)
 - Sen. Risch, James E. [R-ID] (R000584)
@@ -45,10 +45,15 @@ Secure Rural Schools Reauthorization Act of 2025
 - Sen. Schiff, Adam B. [D-CA] (S001150)
 - Sen. Gallego, Ruben [D-AZ] (G000574)
 - Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Slotkin, Elissa [D-MI] (S001208)
 
 ## Committees (1)
 
 - Senate — Energy and Natural Resources Committee
+
+## Recorded votes (1)
+
+- 2025-12-09 — [House 119-1-315](votes/house-119-1-0315.md) — On Motion to Suspend the Rules and Pass — **Passed** (399–5)
 
 ## Actions
 
@@ -58,3 +63,20 @@ Secure Rural Schools Reauthorization Act of 2025
 - 2025-06-18 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
 - 2025-06-18 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
 - 2025-06-18 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent. (consideration: CR S3458)
+- 2025-06-23 — Held at the desk.
+- 2025-06-23 — Message on Senate action sent to the House.
+- 2025-06-23 — Received in the House.
+- 2025-12-09 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2025-12-09 — Considered as unfinished business. (consideration: CR H5100-5101)
+- 2025-12-09 — Considered under suspension of the rules. (consideration: CR H5066-5071)
+- 2025-12-09 — DEBATE - The House proceeded with forty minutes of debate on S. 356.
+- 2025-12-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-12-09 — Mr. LaMalfa moved to suspend the rules and pass the bill.
+- 2025-12-09 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 399 - 5 (Roll no. 315). (text: CR H5066-5067)
+- 2025-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 399 - 5 (Roll no. 315). (text: CR H5066-5067)
+- 2025-12-15 — Presented to President.
+- 2025-12-15 — Presented to President.
+- 2025-12-18 — Became Public Law No: 119-58.
+- 2025-12-18 — Became Public Law No: 119-58.
+- 2025-12-18 — Signed by President.
+- 2025-12-18 — Signed by President.
