@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2808
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2808
@@ -16,7 +16,7 @@ Homebuyers Privacy Protection Act
 
 - Rep. Rose, John W. [R-TN-6] (R000612)
 
-## Cosponsors (27)
+## Cosponsors (89)
 
 - Rep. Torres, Ritchie [D-NY-15] (T000486)
 - Rep. Garbarino, Andrew R. [R-NY-2] (G000597)
@@ -45,6 +45,68 @@ Homebuyers Privacy Protection Act
 - Rep. Pettersen, Brittany [D-CO-7] (P000620)
 - Rep. Guest, Michael [R-MS-3] (G000591)
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
+- Rep. McClain, Lisa C. [R-MI-9] (M001136)
+- Rep. Williams, Nikema [D-GA-5] (W000788)
+- Rep. Beatty, Joyce [D-OH-3] (B001281)
+- Rep. Crow, Jason [D-CO-6] (C001121)
+- Rep. Thompson, Bennie G. [D-MS-2] (T000193)
+- Rep. Ezell, Mike [R-MS-4] (E000235)
+- Rep. De La Cruz, Monica [R-TX-15] (D000594)
+- Rep. Flood, Mike [R-NE-1] (F000474)
+- Rep. Meuser, Daniel [R-PA-9] (M001204)
+- Rep. Hern, Kevin [R-OK-1] (H001082)
+- Rep. Buchanan, Vern [R-FL-16] (B001260)
+- Rep. Bishop, Sanford D. [D-GA-2] (B000490)
+- Rep. Foster, Bill [D-IL-11] (F000454)
+- Rep. Sherman, Brad [D-CA-32] (S000344)
+- Rep. Rutherford, John H. [R-FL-5] (R000609)
+- Rep. Alford, Mark [R-MO-4] (A000379)
+- Rep. Mrvan, Frank J. [D-IN-1] (M001214)
+- Rep. Grothman, Glenn [R-WI-6] (G000576)
+- Rep. Moore, Tim [R-NC-14] (M001236)
+- Rep. Haridopolos, Mike [R-FL-8] (H001099)
+- Rep. Webster, Daniel [R-FL-11] (W000806)
+- Rep. Case, Ed [D-HI-1] (C001055)
+- Rep. Kiley, Kevin [R-CA-3] (K000401)
+- Rep. Bacon, Don [R-NE-2] (B001298)
+- Rep. Davidson, Warren [R-OH-8] (D000626)
+- Rep. Finstad, Brad [R-MN-1] (F000475)
+- Rep. Vindman, Eugene Simon [D-VA-7] (V000138)
+- Rep. Golden, Jared F. [D-ME-2] (G000592)
+- Rep. Huizenga, Bill [R-MI-4] (H001058)
+- Rep. Donalds, Byron [R-FL-19] (D000032)
+- Rep. Stutzman, Marlin A. [R-IN-3] (S001188)
+- Rep. Mann, Tracey [R-KS-1] (M000871)
+- Rep. Lawler, Michael [R-NY-17] (L000599)
+- Rep. Burchett, Tim [R-TN-2] (B001309)
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
+- Rep. Velázquez, Nydia M. [D-NY-7] (V000081)
+- Rep. Lynch, Stephen F. [D-MA-8] (L000562)
+- Rep. Meeks, Gregory W. [D-NY-5] (M001137)
+- Rep. McBride, Sarah [D-DE-At Large] (M001238)
+- Rep. Schmidt, Derek [R-KS-2] (S001228)
+- Rep. Cline, Ben [R-VA-6] (C001118)
+- Rep. LaHood, Darin [R-IL-16] (L000585)
+- Rep. Fleischmann, Charles J. "Chuck" [R-TN-3] (F000459)
+- Rep. Fischbach, Michelle [R-MN-7] (F000470)
+- Rep. Sorensen, Eric [D-IL-17] (S001225)
+- Rep. Luna, Anna Paulina [R-FL-13] (L000596)
+- Rep. Smucker, Lloyd [R-PA-11] (S001199)
+- Rep. Craig, Angie [D-MN-2] (C001119)
+- Rep. Barrett, Tom [R-MI-7] (B001321)
+- Rep. Downing, Troy [R-MT-2] (D000634)
+- Rep. Scott, David [D-GA-13] (S001157)
+- Rep. Norman, Ralph [R-SC-5] (N000190)
+- Rep. Bynum, Janelle S. [D-OR-5] (B001326)
+- Rep. Ross, Deborah K. [D-NC-2] (R000305)
+- Rep. Sessions, Pete [R-TX-17] (S000250)
+- Rep. Liccardo, Sam T. [D-CA-16] (L000607)
+- Rep. Tiffany, Thomas P. [R-WI-7] (T000165)
+- Rep. Kiggans, Jennifer A. [R-VA-2] (K000399)
+- Rep. Cloud, Michael [R-TX-27] (C001115)
+- Rep. Kelly, Robin L. [D-IL-2] (K000385)
+- Rep. Schneider, Bradley Scott [D-IL-10] (S001190)
+- Rep. Hinson, Ashley [R-IA-2] (H001091)
 
 ## Committees (1)
 
@@ -55,3 +117,8 @@ Homebuyers Privacy Protection Act
 - 2025-04-10 — Introduced in House
 - 2025-04-10 — Introduced in House
 - 2025-04-10 — Referred to the House Committee on Financial Services.
+- 2025-06-10 — Committee Consideration and Mark-up Session Held
+- 2025-06-10 — Ordered to be Reported (Amended) by the Yeas and Nays: 46 - 0.
+- 2025-06-20 — Placed on the Union Calendar, Calendar No. 133.
+- 2025-06-20 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-166.
+- 2025-06-20 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-166.
