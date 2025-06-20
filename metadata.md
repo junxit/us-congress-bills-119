@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3230
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3230
@@ -16,9 +16,10 @@ Financial Institution Regulatory Tailoring Enhancement Act
 
 - Rep. Barr, Andy [R-KY-6] (B001282)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Meuser, Daniel [R-PA-9] (M001204)
+- Rep. Sessions, Pete [R-TX-17] (S000250)
 
 ## Committees (1)
 
@@ -29,3 +30,8 @@ Financial Institution Regulatory Tailoring Enhancement Act
 - 2025-05-07 — Introduced in House
 - 2025-05-07 — Introduced in House
 - 2025-05-07 — Referred to the House Committee on Financial Services.
+- 2025-05-21 — Committee Consideration and Mark-up Session Held
+- 2025-05-21 — Ordered to be Reported (Amended) by the Yeas and Nays: 29 - 23.
+- 2025-06-20 — Placed on the Union Calendar, Calendar No. 132.
+- 2025-06-20 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-165.
+- 2025-06-20 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-165.
