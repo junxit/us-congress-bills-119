@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2702
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2702
@@ -16,7 +16,7 @@ FIRM Act
 
 - Rep. Barr, Andy [R-KY-6] (B001282)
 
-## Cosponsors (16)
+## Cosponsors (19)
 
 - Rep. Torres, Ritchie [D-NY-15] (T000486)
 - Rep. McClain, Lisa C. [R-MI-9] (M001136)
@@ -34,6 +34,9 @@ FIRM Act
 - Rep. Sessions, Pete [R-TX-17] (S000250)
 - Rep. LaMalfa, Doug [R-CA-1] (L000578)
 - Rep. Grothman, Glenn [R-WI-6] (G000576)
+- Rep. Williams, Roger [R-TX-25] (W000816)
+- Rep. Schmidt, Derek [R-KS-2] (S001228)
+- Rep. Garbarino, Andrew R. [R-NY-2] (G000597)
 
 ## Committees (1)
 
@@ -44,3 +47,8 @@ FIRM Act
 - 2025-04-08 — Introduced in House
 - 2025-04-08 — Introduced in House
 - 2025-04-08 — Referred to the House Committee on Financial Services.
+- 2025-05-21 — Committee Consideration and Mark-up Session Held
+- 2025-05-21 — Ordered to be Reported (Amended) by the Yeas and Nays: 33 - 19.
+- 2025-06-20 — Placed on the Union Calendar, Calendar No. 131.
+- 2025-06-20 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-164.
+- 2025-06-20 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-164.
