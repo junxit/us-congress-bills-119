@@ -21,15 +21,13 @@ Congress finds the following:
 - **(2)** Over the past decade through the beginning of 2023, rates of piracy in the Western Indian Ocean subsided.
 - **(3)** Houthi attacks against commercial vessels in the Red Sea and Gulf of Aden since the Hamas terrorist attack against Israel on October 7th have impacted global shipping markets.
 - **(4)** There has been a surge in Somali pirate attacks, beginning in the fall of 2023 and lasting into 2024, that has coincided with and taken advantage of Houthi aggression.
-- **(5)** On March 12, 2024, Somali pirates hijacked a Bangladeshi-flagged ship and took its crew hostage.
 
 ## § 3. Sense of Congress
 
 It is the sense of Congress that—
 
-- **(1)** the United States Government should seek to stop piracy all around the world, including off the Somali Coast and in the Gulf of Aden;
-- **(2)** high seas pirates, and the criminal networks and enterprises with whom they are affiliated, should be sanctioned upon identification; and
-- **(3)** the United States should seek to work with allies and partners around the globe to combat piracy around the globe and to curb the surge in piracy off of the coast of Somalia and in the Gulf of Aden.
+- **(1)** the United States Government should seek to stop piracy all around the world, including off the Somali Coast and in the Gulf of Aden; and
+- **(2)** the United States should seek to work with allies and partners around the globe to combat piracy around the globe and to curb the surge in piracy off of the coast of Somalia and in the Gulf of Aden.
 
 ## § 4. Sanctions
 
@@ -59,7 +57,10 @@ It is the sense of Congress that—
   - **(1)** *Implementation* The President may exercise all authorities provided to the President under sections 203 and 205 of the International Emergency Economic Powers Act (50 U.S.C. 1702 and 1704) to carry out this section.
   - **(2)** *Penalties* The penalties provided for in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) shall apply to a person that violates, attempts to violate, conspires to violate, or causes a violation of regulations promulgated to carry out this section to the same extent that such penalties apply to a person that commits an unlawful act described in section 206(a) of that Act.
 - **(f)** *Waiver* The President may waive the application of sanctions imposed with respect to a foreign person under this section if the President certifies to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate not later than 15 days before such waiver is to take effect that the waiver is crucial to the national security interests of the United States.
-- **(g)** *Definitions* In this section:
+- **(g)** *Exception relating to importation of goods*
+  - **(1)** *In general* The authorities and requirements to impose sanctions authorized under this section shall not include the authority or requirement to impose sanctions on the importation of goods.
+  - **(2)** *Good defined* In this subsection, the term good means any article, natural or man-made substance, material, supply or manufactured product, including inspection and test equipment, and excluding technical data.
+- **(h)** *Definitions* In this section:
   - **(1)** *Foreign person* The term foreign person means an individual or entity that is not a United States person.
   - **(2)** *United States person* The term United States person means—
     - **(A)** a United States citizen;
