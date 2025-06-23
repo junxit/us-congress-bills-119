@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2481
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2481
@@ -42,3 +42,9 @@ Romance Scam Prevention Act
 - 2025-06-12 — Placed on the Union Calendar, Calendar No. 119.
 - 2025-06-12 — Reported by the Committee on Energy and Commerce. H. Rept. 119-153.
 - 2025-06-12 — Reported by the Committee on Energy and Commerce. H. Rept. 119-153.
+- 2025-06-23 — Considered under suspension of the rules. (consideration: CR H2848-2850)
+- 2025-06-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2481.
+- 2025-06-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-06-23 — Mr. Bilirakis moved to suspend the rules and pass the bill.
+- 2025-06-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2848-2849)
+- 2025-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2848-2849)
