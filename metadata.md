@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3352
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3352
@@ -35,3 +35,9 @@ HALOS Act of 2025
 - 2025-06-03 — Placed on the Union Calendar, Calendar No. 93.
 - 2025-06-03 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-123.
 - 2025-06-03 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-123.
+- 2025-06-23 — Considered under suspension of the rules. (consideration: CR H2866-2868)
+- 2025-06-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3352.
+- 2025-06-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-06-23 — Mrs. Wagner moved to suspend the rules and pass the bill, as amended.
+- 2025-06-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (consideration: CR H2866-2867)
+- 2025-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (consideration: CR H2866-2867)
