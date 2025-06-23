@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1520
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1520
@@ -61,3 +61,9 @@ Charlotte Woodward Organ Transplant Discrimination Prevention Act
 - 2025-06-12 — Placed on the Union Calendar, Calendar No. 126.
 - 2025-06-12 — Reported by the Committee on Energy and Commerce. H. Rept. 119-159.
 - 2025-06-12 — Reported by the Committee on Energy and Commerce. H. Rept. 119-159.
+- 2025-06-23 — Considered under suspension of the rules. (consideration: CR H2858-2860)
+- 2025-06-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1520.
+- 2025-06-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-06-23 — Mr. Bilirakis moved to suspend the rules and pass the bill.
+- 2025-06-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2858-2859)
+- 2025-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2858-2859)
