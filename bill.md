@@ -7,34 +7,42 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 260
 
-> To require a strategy to oppose financial or material support by foreign countries and nongovernmental organizations to the Taliban, and for other purposes.
+> To require a strategy to oppose foreign assistance by foreign countries and nongovernmental organizations to the Taliban, and for other purposes.
 
 ## § 1. Short title
 
 This Act may be cited as the “No Tax Dollars for Terrorists Act”.
 
-## § 2. Strategy to oppose financial or material support by foreign countries and nongovernmental organizations to the Taliban
+## § 2. Strategy to oppose foreign assistance by foreign countries and nongovernmental organizations to the Taliban
 
 - **(a)** *Statement of policy* It is the policy of the United States—
-  - **(1)** to oppose the provision of financial or material support by foreign countries and nongovernmental organizations to the Taliban, particularly those countries and organizations that receive United States-provided foreign assistance; and
-  - **(2)** to review United States-provided financial assistance to such foreign countries and nongovernmental organizations that have provided financial or material support to the Taliban.
-- **(b)** *Report* Not later than 30 days after the date of the enactment of this Act, the Secretary of State shall submit to the appropriate congressional committees a report identifying—
-  - **(1)** foreign countries and nongovernmental organizations that have provided financial or material support to the Taliban, including—
+  - **(1)** to oppose the provision of foreign assistance by foreign countries and nongovernmental organizations to the Taliban, particularly those countries and organizations that receive United States-provided foreign assistance; and
+  - **(2)** to review United States-provided foreign assistance to such foreign countries and nongovernmental organizations that have provided foreign assistance to the Taliban.
+- **(b)** *Report* Not later than 180 days after the date of the enactment of this Act, the Secretary of State shall submit to the appropriate congressional committees a report identifying, to the extent possible—
+  - **(1)** foreign countries and nongovernmental organizations that have provided foreign assistance to the Taliban, including—
     - **(A)** the amount of United States-provided foreign assistance each country or organization receives, if any;
-    - **(B)** the amount of financial or material support each country or organization has provided to the Taliban; and
-    - **(C)** a description of how the Taliban has utilized such financial or material support; and
-  - **(2)** efforts the United States has taken since August 2021 to oppose foreign countries and nongovernmental organizations from providing financial or material support to the Taliban, particularly those foreign countries and organizations that receive United States-provided foreign assistance.
+    - **(B)** the amount of foreign assistance each country or organization has provided to the Taliban; and
+    - **(C)** a description of how the Taliban has utilized such foreign assistance; and
+  - **(2)** efforts the United States has taken since August 2021 to oppose foreign countries and nongovernmental organizations from providing foreign assistance to the Taliban, particularly those foreign countries and organizations that receive United States-provided foreign assistance.
 - **(c)** *Strategy and reports*
-  - **(1)** *In general* Not later than 30 days after the date of the enactment of this Act, the Secretary of State shall develop a strategy to discourage foreign countries and nongovernmental organizations from providing financial or material support to the Taliban, including by using United States-provided foreign assistance to discourage countries and organizations from providing such support to the Taliban. Not later than 60 days after the date of the enactment of this Act, the Secretary of State shall implement the strategy required by this paragraph.
+  - **(1)** *In general* Not later than 180 days after the date of the enactment of this Act, the Secretary of State shall develop and implement a strategy to discourage foreign countries and nongovernmental organizations from providing foreign assistance to the Taliban. The strategy shall include efforts to support Afghan women and girls who are suffering under Taliban edicts, in a way that does not support the Taliban, and efforts to relocate eligible, fully vetted, at-risk Afghans and Afghan allies located inside and outside of Afghanistan to the United States or third countries.
   - **(2)** *Reports*
     - **(A)** *Initial report* Not later than the date on which the strategy required by paragraph (1) is completed, the Secretary of State shall submit to the appropriate congressional committees a report detailing the strategy and a plan for its implementation.
-    - **(B)** *Subsequent reports* Not later than 180 days after the date on which the strategy required by paragraph (1) is completed, and every 180 days thereafter, the Secretary of State shall submit to the appropriate congressional committees a report on the implementation of the strategy, including the impact of the strategy in discouraging foreign countries and nongovernmental organizations from providing financial or material support to the Taliban.
+    - **(B)** *Subsequent reports* Not later than 180 days after the date on which the strategy required by paragraph (1) is completed, and every 180 days thereafter for 5 years, the Secretary of State shall submit to the appropriate congressional committees a report on the implementation of the strategy, including the impact of the strategy in discouraging foreign countries and nongovernmental organizations from providing financial or material support to the Taliban.
+    - **(C)** *Additional report*
+      - **(i)** *In general* Not later than 30 days after the date of the enactment of this Act, the Secretary of State shall submit to the appropriate congressional committees a report on the decision to terminate the bounty on Sirajuddin Haqqani and other key members of the Haqqani Network under the Rewards for Justice program.
+      - **(ii)** *Matters to be included* The report required by this subparagraph shall include the following:
+        - **(I)** The status of the bounty on Sirajuddin Haqqani, Abdul Aziz Haqqani, and Yahya Haqqani under the Rewards for Justice program and the rationale for any changes made since September 1, 2021.
+        - **(II)** An identification of members of the Haqqani Network who are Specially Designated Global Terrorists and the status of the designation of the Haqqani Network as a foreign terrorist organization.
+        - **(III)** A description of any United States Government engagements with Sirajuddin Haqqani, Abdul Aziz Haqqani, Yahya Haqqani, or the Haqqani Network since September 1, 2021.
+        - **(IV)** Whether new information has emerged relating to the involvement of the Haqqani Network in terrorist attacks targeting the United States Military or United States civilians.
+      - **(iii)** *Form* The report required by this subparagraph shall be submitted in unclassified form but may include a classified annex.
 
 ## § 3. Report on direct cash assistance programs in Afghanistan
 
-- **(a)** *In general* Not later than 60 days after the date of the enactment of this Act, the Secretary of State, in consultation with the Administrator of the United States Agency for International Development, shall submit to the appropriate congressional committees a report on United States Government-funded direct cash assistance programs in Afghanistan during the period beginning on August 1, 2021, and ending on the date that is 30 days after the date of enactment of this Act.
-- **(b)** *Matters To be included* The report required by subsection (a) shall, with respect to such direct cash assistance programs, include—
-  - **(1)** an identification of implementing partners and recipients;
+- **(a)** *In general* Not later than 90 days after the date of the enactment of this Act, the Secretary of State shall submit to the appropriate congressional committees a report on United States Government-funded direct cash assistance programs in Afghanistan during the period beginning on August 1, 2021, and ending on the date that is 30 days after the date of enactment of this Act.
+- **(b)** *Matters to be included* The report required by subsection (a) shall, with respect to such direct cash assistance programs, include—
+  - **(1)** a general description of the types of implementing partners and recipients;
   - **(2)** a description of method of payments;
   - **(3)** a description of how and where currency exchanges occur;
   - **(4)** a description of how hawalas are used and the oversight mechanism in place regarding use of hawalas to transfer funds; and
@@ -43,8 +51,8 @@ This Act may be cited as the “No Tax Dollars for Terrorists Act”.
 
 ## § 4. Report on status of Afghan Fund
 
-- **(a)** *In general* Not later than 60 days after the date of the enactment of this Act, and every 180 days thereafter, the Secretary of State, in consultation with the Administrator of the United States Agency for International Development and the Secretary of the Treasury, shall submit to the appropriate congressional committees a report on the status of the Afghan Fund.
-- **(b)** *Matters To be included* The report required by subsection (a) shall include—
+- **(a)** *In general* Not later than 90 days after the date of the enactment of this Act, and every 180 days thereafter for 5 years, the Secretary of State, in consultation with the Secretary of the Treasury, shall submit to the appropriate congressional committees a report on the status of the Afghan Fund.
+- **(b)** *Matters to be included* The report required by subsection (a) shall, to the extent possible, include—
   - **(1)** a list of Taliban members working at Da Afghanistan Bank or serving on the Bank’s board; and
   - **(2)** a description of—
     - **(A)** the Taliban’s influence over Da Afghanistan Bank;

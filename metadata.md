@@ -1,7 +1,7 @@
 ---
 measure: H.R. 260
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 260
@@ -16,7 +16,7 @@ No Tax Dollars for Terrorists Act
 
 - Rep. Burchett, Tim [R-TN-2] (B001309)
 
-## Cosponsors (14)
+## Cosponsors (27)
 
 - Rep. Greene, Marjorie Taylor [R-GA-14] (G000596)
 - Rep. Mace, Nancy [R-SC-1] (M000194)
@@ -32,6 +32,19 @@ No Tax Dollars for Terrorists Act
 - Rep. Mills, Cory [R-FL-7] (M001216)
 - Rep. Tenney, Claudia [R-NY-24] (T000478)
 - Rep. Norman, Ralph [R-SC-5] (N000190)
+- Rep. Hamadeh, Abraham [R-AZ-8] (H001098)
+- Rep. Crane, Elijah [R-AZ-2] (C001132)
+- Rep. McDowell, Addison [R-NC-6] (M001240)
+- Rep. Baird, James R. [R-IN-4] (B001307)
+- Rep. McCormick, Richard [R-GA-7] (M001218)
+- Rep. Lawler, Michael [R-NY-17] (L000599)
+- Rep. Self, Keith [R-TX-3] (S001224)
+- Rep. Van Orden, Derrick [R-WI-3] (V000135)
+- Rep. Davidson, Warren [R-OH-8] (D000626)
+- Rep. Baumgartner, Michael [R-WA-5] (B001322)
+- Rep. Pfluger, August [R-TX-11] (P000048)
+- Rep. Burlison, Eric [R-MO-7] (B001316)
+- Rep. Fine, Randy [R-FL-6] (F000484)
 
 ## Committees (1)
 
@@ -42,3 +55,12 @@ No Tax Dollars for Terrorists Act
 - 2025-01-09 — Introduced in House
 - 2025-01-09 — Introduced in House
 - 2025-01-09 — Referred to the House Committee on Foreign Affairs.
+- 2025-04-09 — Committee Consideration and Mark-up Session Held
+- 2025-04-09 — Ordered to be Reported (Amended) by Voice Vote.
+- 2025-06-23 — Considered under suspension of the rules. (consideration: CR H2843-2845)
+- 2025-06-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 260.
+- 2025-06-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-06-23 — Mr. Burchett moved to suspend the rules and pass the bill, as amended.
+- 2025-06-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2843-2844)
+- 2025-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2843-2844)
+- 2025-06-23 — The title of the measure was amended. Agreed to without objection.
