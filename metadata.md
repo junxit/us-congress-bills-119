@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2225
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2225
@@ -44,9 +44,10 @@ Access to Small Business Investor Capital Act
 - Rep. Kim, Young [R-CA-40] (K000397)
 - Rep. Meng, Grace [D-NY-6] (M001188)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -64,3 +65,4 @@ Access to Small Business Investor Capital Act
 - 2025-06-23 — Mrs. Wagner moved to suspend the rules and pass the bill, as amended.
 - 2025-06-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2868)
 - 2025-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2868)
+- 2025-06-24 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
