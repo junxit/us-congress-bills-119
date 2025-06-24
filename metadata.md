@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1998
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1998
@@ -23,10 +23,11 @@ Sanction Sea Pirates Act of 2025
 - Rep. Costa, Jim [D-CA-21] (C001059)
 - Rep. Kim, Young [R-CA-40] (K000397)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -47,3 +48,4 @@ Sanction Sea Pirates Act of 2025
 - 2025-06-23 — Mr. Burchett moved to suspend the rules and pass the bill, as amended.
 - 2025-06-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 392 - 14 (Roll no. 172). (text: CR H2845-2846)
 - 2025-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 392 - 14 (Roll no. 172). (text: CR H2845-2846)
+- 2025-06-24 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
