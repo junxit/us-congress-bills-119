@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1520
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1520
@@ -47,9 +47,10 @@ Charlotte Woodward Organ Transplant Discrimination Prevention Act
 - Rep. Bacon, Don [R-NE-2] (B001298)
 - Rep. Garbarino, Andrew R. [R-NY-2] (G000597)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -67,3 +68,4 @@ Charlotte Woodward Organ Transplant Discrimination Prevention Act
 - 2025-06-23 — Mr. Bilirakis moved to suspend the rules and pass the bill.
 - 2025-06-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2858-2859)
 - 2025-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2858-2859)
+- 2025-06-24 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.

@@ -2,7 +2,7 @@
 legis-num: H.R. 1520
 congress: 119th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 1520
@@ -83,4 +83,4 @@ The provisions of this Act—
 
 ## § 6. Effect on other laws
 
-Nothing in this Act shall be construed to supersede any provision of any State or local law that provides greater rights to qualified individuals with respect to organ transplants than the rights established under this Act.
+Nothing in this Act shall be construed to supersede any provision of any State or local law that provides great-er rights to qualified individuals with respect to organ transplants than the rights established under this Act.
