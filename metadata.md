@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1082
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1082
@@ -20,9 +20,10 @@ Shandra Eisenga Human Cell and Tissue Product Safety Act
 
 - Rep. Dingell, Debbie [D-MI-6] (D000624)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Shandra Eisenga Human Cell and Tissue Product Safety Act
 - 2025-06-23 — Mr. Bilirakis moved to suspend the rules and pass the bill.
 - 2025-06-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2860-2861)
 - 2025-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2860-2861)
+- 2025-06-24 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
