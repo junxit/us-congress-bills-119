@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3301
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3301
@@ -20,9 +20,10 @@ ELEVATE Act of 2025
 
 - Rep. Bynum, Janelle S. [D-OR-5] (B001326)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ ELEVATE Act of 2025
 - 2025-06-23 — Mrs. Wagner moved to suspend the rules and pass the bill, as amended.
 - 2025-06-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2871)
 - 2025-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2871)
+- 2025-06-24 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
