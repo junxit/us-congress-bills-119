@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2808
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2808
@@ -128,3 +128,4 @@ Homebuyers Privacy Protection Act
 - 2025-06-23 — Mr. Rose moved to suspend the rules and pass the bill, as amended.
 - 2025-06-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2876)
 - 2025-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2876)
+- 2025-06-24 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 104.
