@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1767
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1767
@@ -20,9 +20,10 @@ Awning Safety Act of 2025
 
 - Rep. Castor, Kathy [D-FL-14] (C001066)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Awning Safety Act of 2025
 - 2025-06-23 — Mr. Bilirakis moved to suspend the rules and pass the bill.
 - 2025-06-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2854)
 - 2025-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2854)
+- 2025-06-24 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
