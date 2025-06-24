@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3352
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3352
@@ -21,9 +21,10 @@ HALOS Act of 2025
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 - Rep. Salazar, Maria Elvira [R-FL-27] (S000168)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ HALOS Act of 2025
 - 2025-06-23 — Mrs. Wagner moved to suspend the rules and pass the bill, as amended.
 - 2025-06-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (consideration: CR H2866-2867)
 - 2025-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (consideration: CR H2866-2867)
+- 2025-06-24 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
