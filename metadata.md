@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2808
 congress: 119
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2808
@@ -129,3 +129,12 @@ Homebuyers Privacy Protection Act
 - 2025-06-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2876)
 - 2025-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2876)
 - 2025-06-24 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 104.
+- 2025-08-02 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5522)
+- 2025-08-02 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2025-08-08 — Message on Senate action sent to the House.
+- 2025-08-25 — Presented to President.
+- 2025-08-25 — Presented to President.
+- 2025-09-05 — Became Public Law No: 119-36.
+- 2025-09-05 — Became Public Law No: 119-36.
+- 2025-09-05 — Signed by President.
+- 2025-09-05 — Signed by President.
