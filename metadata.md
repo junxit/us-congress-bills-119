@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1713
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1713
@@ -39,11 +39,12 @@ Agricultural Risk Review Act of 2025
 - Rep. Panetta, Jimmy [D-CA-19] (P000613)
 - Rep. Schmidt, Derek [R-KS-2] (S001228)
 
-## Committees (3)
+## Committees (4)
 
 - House — Foreign Affairs Committee
 - House — Energy and Commerce Committee
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -67,3 +68,4 @@ Agricultural Risk Review Act of 2025
 - 2025-06-23 — Mrs. Wagner moved to suspend the rules and pass the bill, as amended.
 - 2025-06-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2865)
 - 2025-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2865)
+- 2025-06-24 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
