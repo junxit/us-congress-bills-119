@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1190
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1190
@@ -24,9 +24,10 @@ Expanding Access to Capital for Rural Job Creators Act
 - Rep. Sessions, Pete [R-TX-17] (S000250)
 - Rep. Vindman, Eugene Simon [D-VA-7] (V000138)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Expanding Access to Capital for Rural Job Creators Act
 - 2025-06-23 — Mrs. Wagner moved to suspend the rules and pass the bill, as amended.
 - 2025-06-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2873-2874)
 - 2025-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2873-2874)
+- 2025-06-24 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
