@@ -1,0 +1,22 @@
+---
+legis-num: S. 2167
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2167
+
+> To permit nurse practitioners and physician assistants to furnish necessary services, appliances, and supplies to individuals receiving medical benefits for illnesses.
+
+## § 1. Short title
+
+This Act may be cited as the “Health Care for Energy Workers Act of 2025”.
+
+## § 2. Expansion of authority to furnish medical benefits
+
+Section 3629 of the Energy Employees Occupational Illness Compensation Program Act of 2000 (42 U.S.C. 7384t) is amended—
+
+- **(1)** by redesignating subsections (c) through (f) as subsections (d) through (g), respectively; and
+- **(2)** by inserting after subsection (b) the following new subsection (c):
+  > - **(c)** *Orders by nurse practitioners and physician assistants* For purposes of subsections (a) and (b), a nurse practitioner or physician assistant, acting within the scope of their practice under State law and in accordance with such regulations and instructions as the President deems necessary, may prescribe, recommend, or order services, appliances, and supplies for an individual receiving medical benefits under this section for an illness.
