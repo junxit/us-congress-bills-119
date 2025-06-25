@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 519
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 519
@@ -30,8 +30,20 @@ Condemning the attacks on Minnesota lawmakers in Brooklyn Park and Champlin, Min
 
 - House — Oversight and Government Reform Committee
 
+## Recorded votes (1)
+
+- 2025-06-25 — [House 119-1-179](votes/house-119-1-0179.md) — On Motion to Suspend the Rules and Agree, as Amended — **Passed** (424–0)
+
 ## Actions
 
 - 2025-06-17 — Referred to the House Committee on Oversight and Government Reform.
 - 2025-06-17 — Submitted in House
 - 2025-06-17 — Submitted in House
+- 2025-06-24 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2025-06-24 — Considered under suspension of the rules. (consideration: CR H2909-2913)
+- 2025-06-24 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 519.
+- 2025-06-24 — Mr. Comer moved to suspend the rules and agree to the resolution, as amended.
+- 2025-06-25 — Considered as unfinished business. (consideration: CR H2956-2957)
+- 2025-06-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-06-25 — On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 424 - 0 (Roll no. 179). (text: 06/24/2025 CR H2909-2910)
+- 2025-06-25 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution, as amended Agreed to by the Yeas and Nays: (2/3 required): 424 - 0 (Roll no. 179). (text: 06/24/2025 CR H2909-2910)

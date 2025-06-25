@@ -2,7 +2,7 @@
 legis-num: H. RES. 519
 congress: 119th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 519
@@ -25,7 +25,7 @@ That the House of Representatives, in this moment of tragic loss—
 
 - **(1)** strongly condemns and denounces the attacks on Minnesota state legislators in Brooklyn Park and Champlin, Minnesota on June 14, 2025;
 - **(2)** honors the life of Speaker Emerita Melissa Hortman for her devotion to public service and her tireless efforts to serve the people of Minnesota, and the life of her husband, Mark Hortman;
-- **(3)** honors Senator John Hoffman and his wife, Yvette Hoffman, who were shot and critically injured, and wishes for their full and speedy recovery;
+- **(3)** honors Senator John Hoffman and his wife, Yvette Hoffman, who were shot and critically injured, and wishes their full and speedy recovery;
 - **(4)** honors the courageous law enforcement officers who saved additional lives with their rapid response to the attack and successfully apprehended and charged the suspected perpetrator on June 15, 2025;
-- **(5)** calls on all community leaders and elected officials to publicly and unequivocally denounces acts of political violence; and
+- **(5)** calls on all community leaders and elected officials to publicly and unequivocally denounce acts of political violence; and
 - **(6)** calls on all people in the United States to unite in this moment of pain and tragedy and reaffirm our commitment to a safe, civil, and peaceful democracy where violent rhetoric and acts are not tolerated.
