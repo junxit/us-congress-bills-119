@@ -29,15 +29,20 @@ Congress finds that—
   >
   > - **(a)** *In general* The Council shall make recommendations to amend the Uniform Financial Institutions Rating System, and the CAMELS components thereunder, to—
   >   - **(1)** establish clear and objective criteria for assessing each CAMELS component;
-  >   - **(2)** revise the weighting of each CAMELS component to derive a composite rating that more accurately reflects the financial condition and risk profile of the financial institutions being rated;
+  >   - **(2)** revise the factors affecting each CAMELS component to derive a composite rating that more accurately reflects the financial condition and risk profile of the financial institutions being rated;
   >   - **(3)** either—
   >     - **(A)** eliminate the management component of the CAMELS rating system; or
-  >     - **(B)** revise the management component of the CAMELS rating system to limit the assessment under such component to objective measures of the governance and controls used to manage an institution’s risk profile; and
-  >   - **(4)** ensure that composite ratings are determined based on a transparent methodology that is limited to the objective criteria established for each CAMELS component.
+  >     - **(B)** revise the management component of the CAMELS rating system to limit the assessment under such component to objective measures of the governance and controls used to manage an institution’s risk profile;
+  >   - **(4)** ensure that composite ratings consider the financial institution’s compliance with—
+  >     - **(A)** section 21 of the Federal Deposit Insurance Act (12 U.S.C. 1829b);
+  >     - **(B)** chapter 2 of title I of Public Law 91–508 (12 U.S.C. 1951 et seq.);
+  >     - **(C)** subchapter II of chapter 53 of title 31, United States Code; and
+  >     - **(D)** any other applicable requirements and implementing regulations relating to the prevention of money laundering and terrorist financing; and
+  >   - **(5)** ensure that composite ratings are determined based on a transparent methodology that is limited to the objective criteria established for each CAMELS component.
   > - **(b)** *Rulemaking* Not later than 12 months after the Council makes the recommendations required under subsection (a), the Federal financial institutions regulatory agencies shall, jointly, issue rules to carry out the recommendations described under subsection (a).
   > - **(c)** *Public comment period* In issuing the rules required under subsection (b), the Federal financial institutions regulatory agencies shall—
   >   - **(1)** publish a notice of proposed rulemaking with respect to such rules; and
-  >   - **(2)** provide for a public comment period of not less than 60 days.
+  >   - **(2)** provide for a public comment period of not less than 90 days.
   > - **(d)** *Rule of construction* Nothing in this section may be construed to limit the authority of the Federal financial institutions regulatory agencies to take supervisory or enforcement actions to ensure the safety and soundness of financial institutions.
 
 - **(b)** *Well managed definition* Section 2(o)(9)(A) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(o)(9)(A)) is amended—

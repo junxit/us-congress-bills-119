@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3379
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3379
@@ -25,3 +25,8 @@ HUMPS Act of 2025
 - 2025-05-14 — Introduced in House
 - 2025-05-14 — Introduced in House
 - 2025-05-14 — Referred to the House Committee on Financial Services.
+- 2025-05-21 — Committee Consideration and Mark-up Session Held
+- 2025-05-21 — Ordered to be Reported (Amended) by the Yeas and Nays: 29 - 23.
+- 2025-06-25 — Placed on the Union Calendar, Calendar No. 136.
+- 2025-06-25 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-170.
+- 2025-06-25 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-170.
