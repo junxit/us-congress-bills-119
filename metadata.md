@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3383
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3383
@@ -32,3 +32,8 @@ Incentivizing New Ventures and Economic Strength Through Capital Formation Act o
 - 2025-05-14 — Introduced in House
 - 2025-05-14 — Introduced in House
 - 2025-05-14 — Referred to the House Committee on Financial Services.
+- 2025-05-20 — Committee Consideration and Mark-up Session Held
+- 2025-05-20 — Ordered to be Reported (Amended) by the Yeas and Nays: 41 - 10.
+- 2025-06-25 — Placed on the Union Calendar, Calendar No. 135.
+- 2025-06-25 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-169.
+- 2025-06-25 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-169.
