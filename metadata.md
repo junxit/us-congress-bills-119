@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 290
 congress: 119
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 290
@@ -58,3 +58,7 @@ A resolution commemorating June 19, 2025, as "Juneteenth National Independence D
 
 - 2025-06-18 — Introduced in Senate
 - 2025-06-18 — Referred to the Committee on the Judiciary.
+- 2025-06-25 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2025-06-25 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S3536; text: 6/18/2025 CR S3475)
+- 2025-06-25 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2025-06-25 — Senate Committee on the Judiciary discharged by Unanimous Consent.
