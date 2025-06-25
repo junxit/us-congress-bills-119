@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2625
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2625
@@ -16,9 +16,11 @@ VERY Act of 2025
 
 - Rep. Davis, Donald G. [D-NC-1] (D000230)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Rep. Ciscomani, Juan [R-AZ-6] (C001133)
+- Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
+- Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
 
 ## Committees (1)
 
@@ -29,3 +31,8 @@ VERY Act of 2025
 - 2025-04-03 — Introduced in House
 - 2025-04-03 — Introduced in House
 - 2025-04-03 — Referred to the House Committee on Veterans' Affairs.
+- 2025-05-06 — Committee Consideration and Mark-up Session Held
+- 2025-05-06 — Ordered to be Reported by Voice Vote.
+- 2025-06-25 — Placed on the Union Calendar, Calendar No. 137.
+- 2025-06-25 — Reported by the Committee on Veterans' Affairs. H. Rept. 119-171.
+- 2025-06-25 — Reported by the Committee on Veterans' Affairs. H. Rept. 119-171.
