@@ -1,0 +1,25 @@
+---
+legis-num: H.R. 4187
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4187
+
+> To amend title 18, United States Code, to clarify the causation element in the Federal hate crime statute, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Stop Hate Crimes Act of 2025”.
+
+## § 2. Clarification as to causation element in hate crimes
+
+Section 249(a) of title 18, United States Code, is amended—
+
+- **(1)** in paragraph (1), in the matter preceding subparagraph (A)—
+  - **(A)** by striking “because of” and inserting “if”; and
+  - **(B)** by inserting after “origin of any person” the following: “was a contributory motivating factor for causing or attempting to cause such injury”; and
+- **(2)** in paragraph (2)(A), in the matter preceding clause (i)—
+  - **(A)** by striking “because of” and inserting “if”; and
+  - **(B)** by inserting after “disability of any person” the following: “was a contributory motivating factor for causing or attempting to cause such injury”.
