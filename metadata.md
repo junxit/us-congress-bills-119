@@ -1,7 +1,7 @@
 ---
 measure: S. 98
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 98
@@ -34,3 +34,5 @@ Rural Broadband Protection Act of 2025
 - 2025-04-28 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-14.
 - 2025-04-28 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-14.
 - 2025-04-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 48.
+- 2025-06-26 — Passed Senate without amendment by Voice Vote. (consideration: CR S3570; text: CR S3570)
+- 2025-06-26 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
