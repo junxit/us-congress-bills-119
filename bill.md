@@ -18,7 +18,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 In addition to the responsibilities of the Assistant Secretary on the day before the date of the enactment of this Act, the Assistant Secretary shall have the following responsibilities:
 
-- **(1)** PromoteIn consultation with the Secretary of Homeland Security, promote the stability and resilience of critical supply chains and critical and emerging technologies that strengthen the national security of the United States.
+- **(1)** In consultation with the Secretary of Homeland Security, promote the stability and resilience of critical supply chains and critical and emerging technologies that strengthen the national security of the United States.
 - **(2)** Lead the Working Group established pursuant to section 3 and consult covered nongovernmental representatives, industry, institutions of higher education, and State and local governments in order to—
   - **(A)** promote resilient critical supply chains; and
   - **(B)** identify, prepare for, and respond to supply chain shocks to—
@@ -26,7 +26,7 @@ In addition to the responsibilities of the Assistant Secretary on the day before
     - **(ii)** critical supply chains; and
     - **(iii)** critical and emerging technologies.
 - **(3)** Encourage the growth and competitiveness of United States production and manufacturing in the United States of emerging technologies.
-- **(4)** AssessIn consultation with the Secretary of Homeland Security, assess the resilience, diversity, and strength of critical supply chains and critical and emerging technologies.
+- **(4)** In consultation with the Secretary of Homeland Security, assess the resilience, diversity, and strength of critical supply chains and critical and emerging technologies.
 - **(5)** In consultation with the Secretary of State and the United States Trade Representative, support the availability of critical goods from domestic manufacturers, domestic enterprises, and manufacturing operations in countries that are allies or key international partner nations.
 - **(6)** Assist the Federal Government in preparing for and responding to supply chain shocks to critical supply chains, including by improving flexible manufacturing capacities and capabilities in the United States.
 - **(7)** Consistent with United States obligations under international agreements, encourage and incentivize the reduced reliance of domestic enterprises and domestic manufacturers on critical goods from countries that are described in section 7(2)(B).
@@ -237,8 +237,8 @@ In this Act:
 - **(16)** *Production equipment* The term “production equipment” means any component, subsystem, system, equipment, tooling, accessory, part, or assembly necessary for the manufacturing of a critical good.
 - **(17)** *Program* The term “program” means the critical supply chain resiliency and crisis response program established pursuant to section 103(a).
 - **(18)** *Relevant committees of Congress* The term “relevant committees of Congress” means the following:
-  - **(A)** The Committee on Commerce, Science, and Transportation and the Committee on Homeland Security and Governmental Affairs of the Senate.
-  - **(B)** The Committee on Energy and Commerce and the Committee on Homeland Security of the House of Representatives.
+  - **(A)** The Committee on Commerce, Science, and Transportation, the Committee on Foreign Relations, and the Committee on Homeland Security and Governmental Affairs of the Senate.
+  - **(B)** The Committee on Energy and Commerce, the Committee on Foreign Affairs, and the Committee on Homeland Security of the House of Representatives.
 - **(19)** *Resilient critical supply chain* The term “resilient critical supply chain” means a critical supply chain that—
   - **(A)** ensures that the United States can sustain critical industry, including emerging technologies, production, critical supply chains, services, and access to critical goods, production equipment, and manufacturing technology during a supply chain shock; and
   - **(B)** has key components of resilience that include—

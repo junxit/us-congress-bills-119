@@ -1,7 +1,7 @@
 ---
 measure: S. 257
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 257
@@ -36,3 +36,13 @@ Promoting Resilient Supply Chains Act of 2025
 - 2025-04-28 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with amendments. With written report No. 119-16.
 - 2025-04-28 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with amendments. With written report No. 119-16.
 - 2025-04-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 50.
+- 2025-06-26 — 
+- 2025-06-26 — Amendment SA 2358 agreed to in Senate by Unanimous Consent.
+- 2025-06-26 — Amendment SA 2358 proposed by Senator Husted for Senator Cantwell. (consideration: CR S3570-3577) To modify the list of relevant committees of Congress.
+- 2025-06-26 — Measure laid before Senate by unanimous consent. (consideration: CR S3570-3577)
+- 2025-06-26 — Passed Senate with amendments by Unanimous Consent. (text: CR S3571-3577)
+- 2025-06-26 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.
+- 2025-06-26 — Senate amendment agreed to: Amendment SA 2358 agreed to in Senate by Unanimous Consent.
+- 2025-06-26 — Senate amendment proposed (on the floor): Amendment SA 2358 proposed by Senator Husted for Senator Cantwell.
+- 2025-06-26 — Senate amendment submitted
+- 2025-06-26 — The committee amendments agreed to by Unanimous Consent.
