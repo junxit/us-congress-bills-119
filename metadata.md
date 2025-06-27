@@ -1,7 +1,7 @@
 ---
 measure: H.R. 875
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 875
@@ -42,9 +42,10 @@ Jeremy and Angel Seay and Sergeant Brandon Mendoza Protect Our Communities from 
 - Rep. Tiffany, Thomas P. [R-WI-7] (T000165)
 - Rep. Cline, Ben [R-VA-6] (C001118)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -74,3 +75,4 @@ Jeremy and Angel Seay and Sergeant Brandon Mendoza Protect Our Communities from 
 - 2025-06-26 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 246 - 160 (Roll no. 183). (text of amendment in the nature of a substitute: CR H2984-2985)
 - 2025-06-26 — Rule provides for consideration of H.R. 3944, H.R. 275, H.R. 875 and H. Res. 516. The resolution provides for consideration of H.R. 3944 under a structured rule and H.R. 275, H.R. 875, and H.Res. 516 under a closed rule, with one hour of general debate on each measure. The resolution provides for one motion to recommit on H.R. 3944, H.R. 275, and H.R. 875.
 - 2025-06-26 — The previous question was ordered pursuant to the rule.
+- 2025-06-27 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
