@@ -1,7 +1,7 @@
 ---
 measure: H.R. 275
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 275
@@ -25,9 +25,10 @@ Special Interest Alien Reporting Act of 2025
 - Rep. Brecheen, Josh [R-OK-2] (B001317)
 - Rep. Pfluger, August [R-TX-11] (P000048)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -62,3 +63,4 @@ Special Interest Alien Reporting Act of 2025
 - 2025-06-26 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 231 - 182 (Roll no. 184). (text of amendment in the nature of a substitute: CR H2989)
 - 2025-06-26 — Rule provides for consideration of H.R. 3944, H.R. 275, H.R. 875 and H. Res. 516. The resolution provides for consideration of H.R. 3944 under a structured rule and H.R. 275, H.R. 875, and H.Res. 516 under a closed rule, with one hour of general debate on each measure. The resolution provides for one motion to recommit on H.R. 3944, H.R. 275, and H.R. 875.
 - 2025-06-26 — The previous question was ordered pursuant to the rule.
+- 2025-06-27 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
