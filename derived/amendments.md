@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1,050 amendatory instructions. 322 executed, 728 stated and not applied.
+1,050 amendatory instructions. 323 executed, 727 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -1779,6 +1779,15 @@ to guess them.
 | Removed | `2055.` |
 | Inserted | `2024;` |
 
+### 26 U.S.C. § 8903c
+
+> Section 8909(a)(2) of title 5, United States Code, is amended by striking “Congress.” and inserting “Congress, except that the amounts authorized under subsection (b)(2) for the Office shall not be subject to the limitations that may be specified annually by Congress.”.
+
+| | |
+|---|---|
+| Removed | `Congress.` |
+| Inserted | `Congress, except that the amounts authorized under subsection (b)(2) for the Office shall not be subject to the limitations that may be specified annually by Congress.` |
+
 ### 26 U.S.C. § 1
 
 > by striking “2018 through 2025” in the heading and inserting “beginning after 2017”.
@@ -3322,15 +3331,14 @@ complete account of the bill's effect, which it is not.
 | `43 U.S.C. § 1331` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 3003` | repeal | Section 3103 of the Energy Act of 2020 (43 U.S.C. 3003) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | repeal | Paragraph (4) of section 23001(a) of Public Law 117–169 is repealed and all unobligated balances of amounts made available under such paragraph are hereby rescinded. | the bill names no machine-readable US Code section |
-| — | insert | in paragraph (1), by inserting “separated from service under section 8425 or entitled to an annuity under subsection (d) or (e) of section 8412 of this title” after “individual”; and | the bill names no machine-readable US Code section |
-| — | insert | in paragraph (2), by inserting “separated from service under section 8425 or entitled to an annuity under subsection (d) or (e) of section 8412 of this title” after “an individual”. | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 8412` | insert | in paragraph (1), by inserting “separated from service under section 8425 or entitled to an annuity under subsection (d) or (e) of section 8412 of this title” after “individual”; and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 8412` | insert | in paragraph (2), by inserting “separated from service under section 8425 or entitled to an annuity under subsection (d) or (e) of section 8412 of this title” after “an individual”. | the bill quotes the text inserted but describes where it goes |
 | — | add-at-end | Subchapter I of chapter 33 of title 5, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | amend | The table of sections for such subchapter is amended by adding after the item relating to section 3330f the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 8422(a) of title 5, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (j) the following: | the bill names no machine-readable US Code section |
-| — | replace | Section 8909(a)(2) of title 5, United States Code, is amended by striking “Congress.” and inserting “Congress, except that the amounts authorized under subsection (b)(2) for the Office shall not be subject to the limitations that may be … | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraph (2) as paragraph (5); and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after paragraph (1) the following: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 8903c` | redesignate | by redesignating paragraph (2) as paragraph (5); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 8903c` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | strike | in subsection (a) by striking “, for fiscal years 2006 through 2010, and 2 cents per ton, not to exceed a total of 10 cents per ton per year, for each fiscal year thereafter,”; and | the bill names no machine-readable US Code section |
 | — | strike | in subsection (b) by striking “, for fiscal years 2006 through 2010, and 6 cents per ton, not to exceed a total of 30 cents per ton per year, for each fiscal year thereafter,”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 1 of title 23, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |

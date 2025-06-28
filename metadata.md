@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1
@@ -20,10 +20,11 @@ An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.
 
 - House — Budget Committee
 
-## Recorded votes (2)
+## Recorded votes (3)
 
 - 2025-05-22 — [House 119-1-144](votes/house-119-1-0144.md) — On Motion to Recommit — **Failed** (212–216)
 - 2025-05-22 — [House 119-1-145](votes/house-119-1-0145.md) — On Passage — **Passed** (215–214)
+- 2025-06-28 — [Senate 119-1-329](votes/senate-119-1-0329.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (51–49)
 
 ## Actions
 
@@ -46,3 +47,38 @@ An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.
 - 2025-05-22 — Rule provides for consideration of H.R. 1. The resolution provides for consideration of H.R. 1 under a closed rule with two hours of general debate and one motion to recommit.
 - 2025-05-22 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2025-05-22 — The previous question was ordered pursuant to the rule.
+- 2025-06-27 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2025-06-28 — 
+- 2025-06-28 — 
+- 2025-06-28 — 
+- 2025-06-28 — 
+- 2025-06-28 — 
+- 2025-06-28 — 
+- 2025-06-28 — 
+- 2025-06-28 — 
+- 2025-06-28 — 
+- 2025-06-28 — 
+- 2025-06-28 — 
+- 2025-06-28 — 
+- 2025-06-28 — 
+- 2025-06-28 — 
+- 2025-06-28 — 
+- 2025-06-28 — Amendment SA 2360 proposed by Senator Thune for Senator Graham. (consideration: CR S3612-3613) In the nature of a substitute.
+- 2025-06-28 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 51 - 49. Record Vote Number: 329.
+- 2025-06-28 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 107.
+- 2025-06-28 — Senate amendment proposed (on the floor): Amendment SA 2360 proposed by Senator Thune for Senator Graham.
+- 2025-06-28 — Senate amendment submitted
+- 2025-06-28 — Senate amendment submitted
+- 2025-06-28 — Senate amendment submitted
+- 2025-06-28 — Senate amendment submitted
+- 2025-06-28 — Senate amendment submitted
+- 2025-06-28 — Senate amendment submitted
+- 2025-06-28 — Senate amendment submitted
+- 2025-06-28 — Senate amendment submitted
+- 2025-06-28 — Senate amendment submitted
+- 2025-06-28 — Senate amendment submitted
+- 2025-06-28 — Senate amendment submitted
+- 2025-06-28 — Senate amendment submitted
+- 2025-06-28 — Senate amendment submitted
+- 2025-06-28 — Senate amendment submitted
+- 2025-06-28 — Senate amendment submitted
