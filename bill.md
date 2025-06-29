@@ -1,0 +1,33 @@
+---
+legis-num: S. 2205
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2205
+
+> To require a citizenship question on the decennial census, to require reporting on certain census statistics, and to modify apportionment of Representatives to be based on United States citizens instead of all individuals.
+
+## § 1. Short title
+
+This Act may be cited as the “Equal Representation Act”.
+
+## § 2. Citizenship status on decennial census
+
+Section 141 of title 13, United States Code, is amended—
+
+- **(1)** by redesignating subsection (g) as subsection (h); and
+- **(2)** by inserting after subsection (f) the following:
+  > - **(g)**
+  >   - **(1)** In conducting the 2030 decennial census and each decennial census thereafter, the Secretary shall include in any questionnaire distributed or otherwise used for the purpose of determining the total population by States a checkbox or other similar option for the respondent to indicate, for the respondent and for each of the members of the household of the respondent, whether that individual is a citizen of the United States.
+  >   - **(2)** Not later than 120 days after completion of a decennial census of the population under subsection (a), the Secretary shall make publicly available the number of individuals per State, disaggregated by citizens of the United States and noncitizens, as tabulated in accordance with this section.
+
+## § 3. Exclusion of noncitizens from number of persons used to determine apportionment of representatives and number of electoral votes
+
+- **(a)** *Exclusion* Section 22(a) of the Act entitled “An Act to provide for the fifteenth and subsequent decennial censuses and to provide for apportionment of Representatives in Congress”, approved June 18, 1929 (2 U.S.C. 2a(a)), is amended by inserting after “not taxed” the following: “and individuals who are not citizens of the United States”.
+- **(b)** *Effective date* The amendment made by subsection (a) shall apply with respect to the apportionment of Representatives carried out pursuant to the decennial census conducted during 2030 and any succeeding decennial census.
+
+## § 4. Severability clause
+
+If any provision of this Act or amendment made by this Act, or the application thereof to any person or circumstance, is held to be unconstitutional, the remainder of the provisions of this Act and amendments made by this Act, and the application of the provision or amendment to any other person or circumstance, shall not be affected.
