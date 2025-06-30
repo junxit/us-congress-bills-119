@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1455
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1455
@@ -29,3 +29,8 @@ ITS Codification Act
 - 2025-02-21 — Introduced in House
 - 2025-02-21 — Introduced in House
 - 2025-02-21 — Referred to the House Committee on Energy and Commerce.
+- 2025-03-04 — Committee Consideration and Mark-up Session Held
+- 2025-03-04 — Ordered to be Reported by Voice Vote.
+- 2025-06-30 — Placed on the Union Calendar, Calendar No. 142.
+- 2025-06-30 — Reported by the Committee on Energy and Commerce. H. Rept. 119-176.
+- 2025-06-30 — Reported by the Committee on Energy and Commerce. H. Rept. 119-176.
