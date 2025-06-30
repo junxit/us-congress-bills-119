@@ -1,0 +1,25 @@
+---
+legis-num: H.R. 4261
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4261
+
+> To amend title 18, United States Code, to make fraudulent dealings in firearms and ammunition unlawful, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Stopping the Fraudulent Sales of Firearms Act”.
+
+## § 2. Fraudulent dealings in firearms
+
+- **(a)** *In general* Section 922(a) of title 18, United States Code, is amended—
+  - **(1)** in paragraph (9), by striking the period and at the end and inserting “; and”; and
+  - **(2)** by adding at the end the following:
+    > - **(10)** for any person—
+    >   - **(A)** to import, manufacture, or sell a firearm or ammunition by means of false or fraudulent pretenses, representations, or promises; and
+    >   - **(B)** to transmit or cause to be transmitted, by means of wire, radio, or television communication in interstate or foreign commerce, any communication relating to the importation, manufacture, or sale described in subparagraph (A).
+
+- **(b)** *Penalty* Section 924(a)(1)(B) of title 18, United States Code, is amended by inserting “(a)(10),” before “(f)”.
