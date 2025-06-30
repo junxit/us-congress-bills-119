@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3944
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3944
@@ -16,9 +16,10 @@ Military Construction and Veterans Affairs, Agriculture, and Legislative Branch 
 
 - Rep. Carter, John R. [R-TX-31] (C001051)
 
-## Committees (1)
+## Committees (2)
 
 - House — Appropriations Committee
+- Senate — Appropriations Committee
 
 ## Recorded votes (3)
 
@@ -74,3 +75,4 @@ Military Construction and Veterans Affairs, Agriculture, and Legislative Branch 
 - 2025-06-25 — The Speaker designated the Honorable Barry Loudermilk to act as Chairman of the Committee.
 - 2025-06-25 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2025-06-25 — The previous question was ordered pursuant to the rule.
+- 2025-06-30 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
