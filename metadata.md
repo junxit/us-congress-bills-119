@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1766
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1766
@@ -29,3 +29,8 @@ NTIA Policy and Cybersecurity Coordination Act
 - 2025-03-03 — Introduced in House
 - 2025-03-03 — Introduced in House
 - 2025-03-03 — Referred to the House Committee on Energy and Commerce.
+- 2025-03-04 — Committee Consideration and Mark-up Session Held
+- 2025-03-04 — Ordered to be Reported by Voice Vote.
+- 2025-06-30 — Placed on the Union Calendar, Calendar No. 141.
+- 2025-06-30 — Reported by the Committee on Energy and Commerce. H. Rept. 119-175.
+- 2025-06-30 — Reported by the Committee on Energy and Commerce. H. Rept. 119-175.
