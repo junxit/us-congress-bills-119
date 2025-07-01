@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1
 congress: 119
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1
@@ -16,7 +16,7 @@ An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.
 
 - Rep. Arrington, Jodey C. [R-TX-19] (A000375)
 
-## Cosponsors (253)
+## Cosponsors (256)
 
 - Sen. Kelly, Mark [D-AZ] (K000377)
 - Sen. Tillis, Thomas [R-NC] (T000476)
@@ -237,6 +237,9 @@ An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.
 - Sen. Heinrich, Martin [D-NM] (H001046)
 - Sen. Hickenlooper, John W. [D-CO] (H000273)
 - Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
 - Sen. Reed, Jack [D-RI] (R000122)
 - Sen. Reed, Jack [D-RI] (R000122)
 - Sen. Warner, Mark R. [D-VA] (W000805)
@@ -276,10 +279,11 @@ An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.
 
 - House — Budget Committee
 
-## Recorded votes (46)
+## Recorded votes (47)
 
 - 2025-05-22 — [House 119-1-144](votes/house-119-1-0144.md) — On Motion to Recommit — **Failed** (212–216)
 - 2025-05-22 — [House 119-1-145](votes/house-119-1-0145.md) — On Passage — **Passed** (215–214)
+- 2025-07-03 — [House 119-1-190](votes/house-119-1-0190.md) — On Motion to Concur in the Senate Amendment — **Passed** (218–214)
 - 2025-06-28 — Senate 119-1-329 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00329.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00329.xml answered HTTP 403
 - 2025-06-30 — Senate 119-1-330 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00330.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00330.xml answered HTTP 403
 - 2025-06-30 — Senate 119-1-331 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00331.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00331.xml answered HTTP 403
@@ -1513,3 +1517,17 @@ An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.
 - 2025-07-01 — Senate amendment submitted
 - 2025-07-01 — Senate amendment submitted
 - 2025-07-01 — Senate amendment submitted
+- 2025-07-03 — DEBATE - Pursuant to the provisions of H. Res. 566, the House proceeded with one hour of debate on the motion to agree to the Senate amendment to H.R. 1.
+- 2025-07-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-07-03 — Mr. Arrington moved that the House agree to the Senate amendment to H.R. 1. (CR H3143)
+- 2025-07-03 — Mr. Arrington moved that the House agree to the Senate amendment. (consideration: CR H3059-3187)
+- 2025-07-03 — On motion that the House agree to the Senate amendment Agreed to by recorded vote: 218 - 214 (Roll no. 190). (text: CR H3059-3143)
+- 2025-07-03 — Presented to President.
+- 2025-07-03 — Presented to President.
+- 2025-07-03 — Pursuant to the provisions of H. Res. 566, Mr. Arrington called up the Senate amendment to H.R. 1.
+- 2025-07-03 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to by recorded vote: 218 - 214 (Roll no. 190).
+- 2025-07-03 — The previous question was ordered pursuant to the rule.
+- 2025-07-04 — Became Public Law No: 119-21.
+- 2025-07-04 — Became Public Law No: 119-21.
+- 2025-07-04 — Signed by President.
+- 2025-07-04 — Signed by President.

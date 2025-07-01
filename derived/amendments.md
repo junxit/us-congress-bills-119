@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1
 congress: 119
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1,008 amendatory instructions. 357 executed, 651 stated and not applied.
+1,008 amendatory instructions. 355 executed, 653 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -914,24 +914,6 @@ to guess them.
 |---|---|
 | Removed | `12` |
 | Inserted | `6.5` |
-
-### 26 U.S.C. § 32902
-
-> in subsection (b), in the matter preceding paragraph (1), by striking “$5” and inserting “$0.00”; and
-
-| | |
-|---|---|
-| Removed | `$5` |
-| Inserted | `$0.00` |
-
-### 26 U.S.C. § 32902
-
-> in subsection (c)(1)(B), by striking “$10” and inserting “$0.00”.
-
-| | |
-|---|---|
-| Removed | `$10` |
-| Inserted | `$0.00` |
 
 ### 22 U.S.C. § 2131
 
@@ -3364,6 +3346,8 @@ complete account of the bill's effect, which it is not.
 | `51 U.S.C. § 50923` | insert | The table of sections for chapter 509 of title 51, United States Code, is amended by inserting after the item relating to section 50923 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `51 U.S.C. § 20302` | add-at-end | Chapter 203 of title 51, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `51 U.S.C. § 20302` | add-at-end | The table of sections for chapter 203 of title 51, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | in subsection (b), in the matter preceding paragraph (1), by striking “$5” and inserting “$0.00”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (c)(1)(B), by striking “$10” and inserting “$0.00”. | the bill names no machine-readable US Code section |
 | — | amend | Section 49104(b) of title 49, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | `30 U.S.C. § 181` | repeal | Subsection (a) of section 50262 of Public Law 117–169 (136 Stat. 2056) is repealed, and any provision of law amended or repealed by that subsection is restored or revived as if that subsection had not been enacted into law. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 181` | repeal | Subsection (e) of section 50262 of Public Law 117–169 (136 Stat. 2057) is repealed, and any provision of law amended or repealed by that subsection is restored or revived as if that subsection had not been enacted into law. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
