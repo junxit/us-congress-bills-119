@@ -2,17 +2,15 @@
 legis-num: H.R. 1
 congress: 119th CONGRESS
 session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 1
 
-> To provide for reconciliation pursuant to title II of H. Con. Res. 14.
+That the bill from the House of Representatives (H.R. 1) entitled “An Act to provide for reconciliation pursuant to title II of H. Con. Res. 14.”, do pass with the following
 
-## § 1. Short title
+*Strike all after the first word, and insert the following:*
 
-This Act may be cited as the “One Big Beautiful Bill Act”.
-
-## § 2. Table of contents
+## § 1. Table of contents
 
 The table of contents of this Act is as follows:
