@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1
 congress: 119
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1
@@ -16,15 +16,314 @@ An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.
 
 - Rep. Arrington, Jodey C. [R-TX-19] (A000375)
 
+## Cosponsors (253)
+
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Blunt Rochester, Lisa [D-DE] (B001303)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Marshall, Roger [R-KS] (M001198)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Blunt Rochester, Lisa [D-DE] (B001303)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Luján, Ben Ray [D-NM] (L000570)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Gallego, Ruben [D-AZ] (G000574)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Luján, Ben Ray [D-NM] (L000570)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Gallego, Ruben [D-AZ] (G000574)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Johnson, Ron [R-WI] (J000293)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Lummis, Cynthia M. [R-WY] (L000571)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Blunt Rochester, Lisa [D-DE] (B001303)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Gallego, Ruben [D-AZ] (G000574)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Blunt Rochester, Lisa [D-DE] (B001303)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Gallego, Ruben [D-AZ] (G000574)
+- Sen. Blunt Rochester, Lisa [D-DE] (B001303)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+
 ## Committees (1)
 
 - House — Budget Committee
 
-## Recorded votes (3)
+## Recorded votes (46)
 
 - 2025-05-22 — [House 119-1-144](votes/house-119-1-0144.md) — On Motion to Recommit — **Failed** (212–216)
 - 2025-05-22 — [House 119-1-145](votes/house-119-1-0145.md) — On Passage — **Passed** (215–214)
 - 2025-06-28 — Senate 119-1-329 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00329.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00329.xml answered HTTP 403
+- 2025-06-30 — Senate 119-1-330 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00330.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00330.xml answered HTTP 403
+- 2025-06-30 — Senate 119-1-331 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00331.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00331.xml answered HTTP 403
+- 2025-06-30 — Senate 119-1-332 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00332.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00332.xml answered HTTP 403
+- 2025-06-30 — Senate 119-1-333 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00333.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00333.xml answered HTTP 403
+- 2025-06-30 — Senate 119-1-334 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00334.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00334.xml answered HTTP 403
+- 2025-06-30 — Senate 119-1-335 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00335.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00335.xml answered HTTP 403
+- 2025-06-30 — Senate 119-1-336 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00336.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00336.xml answered HTTP 403
+- 2025-06-30 — Senate 119-1-337 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00337.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00337.xml answered HTTP 403
+- 2025-06-30 — Senate 119-1-338 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00338.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00338.xml answered HTTP 403
+- 2025-06-30 — Senate 119-1-339 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00339.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00339.xml answered HTTP 403
+- 2025-06-30 — Senate 119-1-340 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00340.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00340.xml answered HTTP 403
+- 2025-06-30 — Senate 119-1-341 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00341.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00341.xml answered HTTP 403
+- 2025-06-30 — Senate 119-1-342 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00342.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00342.xml answered HTTP 403
+- 2025-06-30 — Senate 119-1-343 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00343.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00343.xml answered HTTP 403
+- 2025-06-30 — Senate 119-1-344 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00344.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00344.xml answered HTTP 403
+- 2025-06-30 — Senate 119-1-345 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00345.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00345.xml answered HTTP 403
+- 2025-06-30 — Senate 119-1-346 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00346.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00346.xml answered HTTP 403
+- 2025-06-30 — Senate 119-1-347 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00347.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00347.xml answered HTTP 403
+- 2025-07-01 — Senate 119-1-348 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00348.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00348.xml answered HTTP 403
+- 2025-07-01 — Senate 119-1-349 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00349.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00349.xml answered HTTP 403
+- 2025-07-01 — Senate 119-1-350 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00350.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00350.xml answered HTTP 403
+- 2025-07-01 — Senate 119-1-351 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00351.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00351.xml answered HTTP 403
+- 2025-07-01 — Senate 119-1-352 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00352.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00352.xml answered HTTP 403
+- 2025-07-01 — Senate 119-1-353 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00353.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00353.xml answered HTTP 403
+- 2025-07-01 — Senate 119-1-354 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00354.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00354.xml answered HTTP 403
+- 2025-07-01 — Senate 119-1-355 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00355.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00355.xml answered HTTP 403
+- 2025-07-01 — Senate 119-1-356 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00356.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00356.xml answered HTTP 403
+- 2025-07-01 — Senate 119-1-357 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00357.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00357.xml answered HTTP 403
+- 2025-07-01 — Senate 119-1-358 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00358.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00358.xml answered HTTP 403
+- 2025-07-01 — Senate 119-1-359 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00359.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00359.xml answered HTTP 403
+- 2025-07-01 — Senate 119-1-360 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00360.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00360.xml answered HTTP 403
+- 2025-07-01 — Senate 119-1-361 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00361.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00361.xml answered HTTP 403
+- 2025-07-01 — Senate 119-1-362 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00362.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00362.xml answered HTTP 403
+- 2025-07-01 — Senate 119-1-363 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00363.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00363.xml answered HTTP 403
+- 2025-07-01 — Senate 119-1-364 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00364.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00364.xml answered HTTP 403
+- 2025-07-01 — Senate 119-1-365 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00365.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00365.xml answered HTTP 403
+- 2025-07-01 — Senate 119-1-366 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00366.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00366.xml answered HTTP 403
+- 2025-07-01 — Senate 119-1-367 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00367.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00367.xml answered HTTP 403
+- 2025-07-01 — Senate 119-1-368 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00368.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00368.xml answered HTTP 403
+- 2025-07-01 — Senate 119-1-369 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00369.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00369.xml answered HTTP 403
+- 2025-07-01 — Senate 119-1-370 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00370.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00370.xml answered HTTP 403
+- 2025-07-01 — Senate 119-1-371 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00371.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00371.xml answered HTTP 403
+- 2025-07-01 — Senate 119-1-372 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00372.xml answered HTTP 403
 
 ## Actions
 
@@ -82,3 +381,1135 @@ An act to provide for reconciliation pursuant to title II of H. Con. Res. 14.
 - 2025-06-28 — Senate amendment submitted
 - 2025-06-28 — Senate amendment submitted
 - 2025-06-28 — Senate amendment submitted
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — 
+- 2025-06-29 — Amendment SA 2360 ruled in order by the chair.
+- 2025-06-29 — Motion by Senator Schumer to appeal the ruling of the Chair that amendment SA2360 is in order made in Senate.
+- 2025-06-29 — Point of order that the amendment violates section 313(b)(1)(E) of the Congressional Budget Act raised in Senate with respect to amendment SA 2360.
+- 2025-06-29 — Ruling of the Chair that the point of order raised by Senator Thune with respect to amendment SA 2360, is that unless the Budget Committee, speaking through its chairman, asserts that the amendment causes a violation of the Budget Act, the Chair will not so hold.
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-29 — Senate amendment submitted
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — 
+- 2025-06-30 — Amendment SA 2360 ruled in order by the chair.
+- 2025-06-30 — Amendment SA 2401 proposed by Senator Blackburn to Amendment SA 2360. (consideration: CR S4051-4052)
+- 2025-06-30 — Amendment SA 2401 ruled out of order by the chair.
+- 2025-06-30 — Amendment SA 2414 proposed by Senator Warren to Amendment SA 2360. (consideration: CR S4047-4048)
+- 2025-06-30 — Amendment SA 2414 ruled out of order by the chair.
+- 2025-06-30 — Amendment SA 2446 proposed by Senator Merkley to Amendment SA 2360. (consideration: CR S4049-4050)
+- 2025-06-30 — Amendment SA 2446 ruled out of order by the chair.
+- 2025-06-30 — Amendment SA 2696 proposed by Senator Ossoff to Amendment SA 2360. (consideration: CR S4046-4047)
+- 2025-06-30 — Amendment SA 2696 ruled out of order by the chair.
+- 2025-06-30 — Amendment SA 2705 proposed by Senator Cornyn to Amendment SA 2360. (consideration: CR S4048-4049)
+- 2025-06-30 — Amendment SA 2705 ruled out of order by the chair.
+- 2025-06-30 — Amendment SA 2771 proposed by Senator Murray to Amendment SA 2360. (consideration: CR S4050-4051)
+- 2025-06-30 — Amendment SA 2771 ruled out of order by the chair.
+- 2025-06-30 — Amendment SA 2772 proposed by Senator Kennedy to Amendment SA 2360. (consideration: CR S4056-4057) To prohibit the use of Defense Production Act of 1950 funds without the approval of Congress.
+- 2025-06-30 — Amendment SA 2772 ruled out of order by the chair.
+- 2025-06-30 — Considered by Senate.
+- 2025-06-30 — Considered by Senate.
+- 2025-06-30 — Motion by Senator Alsobrooks to commit to Senate Committee on Finance with instructions rejected in Senate by Voice Vote.
+- 2025-06-30 — Motion by Senator Blumenthal to commit to Senate Committee on Armed Services with instructions rejected in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 347.
+- 2025-06-30 — Motion by Senator Blunt Rochester to commit to Senate Committee on Finance with instructions rejected in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 340.
+- 2025-06-30 — Motion by Senator Coons to commit to Senate Committee on Finance with instructions rejected in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 336.
+- 2025-06-30 — Motion by Senator Duckworth to commit to Senate Committee on Agriculture, Nutrition, and Forestry with instructions rejected in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 350.
+- 2025-06-30 — Motion by Senator Gallego to commit to Senate Committee on Finance with instructions rejected in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 348.
+- 2025-06-30 — Motion by Senator Hassan to commit to Senate Committee on Finance with instructions rejected in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 349.
+- 2025-06-30 — Motion by Senator Kaine to commit to Senate Committee on Homeland Security and Governmental Affairs with instructions rejected in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 346.
+- 2025-06-30 — Motion by Senator Kelly to commit to Senate Committee on Finance with instructions rejected in Senate by Voice Vote.
+- 2025-06-30 — Motion by Senator King to commit to Senate Committee on Finance with instructions rejected in Senate by Voice Vote.
+- 2025-06-30 — Motion by Senator Lujan to commit to Senate Committee on Finance with instructions rejected in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 337.
+- 2025-06-30 — Motion by Senator Markey to commit to Senate Committee on Finance with instructions rejected in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 333.
+- 2025-06-30 — Motion by Senator Merkley to appeal the ruling of the Chair that amendment SA 2360 does not violate section 313(b)(1)(B) of the CBA is in order made in Senate.
+- 2025-06-30 — Motion by Senator Merkley to appeal the ruling of the Chair that amendment SA 2360 does not violate section 313(b)(1)(B) of the CBA is in order, not agreed to by Yea-Nay Vote. 53 - 47. Record Vote Number: 331.
+- 2025-06-30 — Motion by Senator Murphy to commit to Senate Committee on Finance with instructions rejected in Senate by Voice Vote.
+- 2025-06-30 — Motion by Senator Padilla to commit to Senate Committee on Finance with instructions rejected in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 353.
+- 2025-06-30 — Motion by Senator Reed to commit to Senate Committee on Finance with instructions rejected in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 338.
+- 2025-06-30 — Motion by Senator Schiff to commit to Senate Committee on Agriculture, Nutrition, and Forestry with instructions rejected in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 351.
+- 2025-06-30 — Motion by Senator Schumer to appeal the ruling of the chair not agreed to, the question being, "Shall the decision of the Chair stand as the Judgment of the Senate?" by Yea-Nay Vote. 53 - 47. Record Vote Number: 330.
+- 2025-06-30 — Motion by Senator Schumer to commit to Senate Committee on Finance with instructions rejected in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 332.
+- 2025-06-30 — Motion by Senator Wyden to commit to Senate Committee on Finance with instructions rejected in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 335.
+- 2025-06-30 — Motion to waive section 302(f) of the Congressional Budget Act with respect to amendment SA 2414, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 341.
+- 2025-06-30 — Motion to waive section 302(f) of the Congressional Budget Act with respect to amendment SA 2696 rejected in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 339.
+- 2025-06-30 — Motion to waive section 302(f) of the Congressional Budget Act with respect to amendment SA 2771, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 344.
+- 2025-06-30 — Motion to waive section 313(b)(1)(D) of the Congressional Budget Act with respect to amendment SA 2446, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 343.
+- 2025-06-30 — Motion to waive section 313(b)(1)(D) of the Congressional Budget Act with respect to amendment SA 2705, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 56 - 44. Record Vote Number: 342.
+- 2025-06-30 — Motion to waive section 313(b)(1)(a) of the Congressional Budget Act with respect to amendment SA 2772 rejected, not having achieved 60 votes in the affirmative, in Senate by Yea-Nay Vote. 42 - 58. Record Vote Number: 352.
+- 2025-06-30 — Motion to waive section 313(b)(1)(d) of the Congressional Budget Act with respect to amendment SA 2401, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 53 - 47. Record Vote Number: 345.
+- 2025-06-30 — Motion to waive section 425(a)(2) of the Congressional Budget Act with respect to the measure agreed to in Senate by Yea-Nay Vote. 51 - 48. Record Vote Number: 334.
+- 2025-06-30 — Point of order that the amendment violates section 302(f) of the Congressional Budget Act raised in Senate with respect to amendment SA 2414.
+- 2025-06-30 — Point of order that the amendment violates section 302(f) of the Congressional Budget Act raised in Senate with respect to amendment SA 2696.
+- 2025-06-30 — Point of order that the amendment violates section 313(b)(1)(B) of the Congressional Budget Act raised in Senate with respect to amendment SA 2360.
+- 2025-06-30 — Point of order that the amendment violates section 313(b)(1)(D) of the Congressional Budget Act raised in Senate with respect to amendment SA 2705.
+- 2025-06-30 — Point of order that the amendment violates section 313(b)(1)(a) of the Congressional Budget Act raised in Senate with respect to amendment SA 2772.
+- 2025-06-30 — Point of order that the amendment violates section 313(b)(1)(d) of the Congressional Budget Act raised in Senate with respect to amendment SA 2401.
+- 2025-06-30 — Point of order that the amendment violates section 313(b)(1)(d) of the Congressional Budget Act raised in Senate with respect to amendment SA 2446.
+- 2025-06-30 — Point of order that the amendment violates to section 302(f) of the Congressional Budget Act raised in Senate with respect to amendment SA 2771.
+- 2025-06-30 — Point of order that the measure violates section 425(a)(2) of the Congressional Budget Act raised in Senate.
+- 2025-06-30 — Roll call votes on amendments in Senate: Motion by Senator Merkley to appeal the ruling of the Chair that amendment SA 2360 does not violate section 313(b)(1)(B) of the CBA is in order, not agreed to by Yea-Nay Vote. 53 - 47. Record Vote Number: 331.
+- 2025-06-30 — Roll call votes on amendments in Senate: Motion by Senator Schumer to appeal the ruling of the chair not agreed to, the question being, "Shall the decision of the Chair stand as the Judgment of the Senate?" by Yea-Nay Vote. 53 - 47. Record Vote Number: 330.
+- 2025-06-30 — Roll call votes on amendments in Senate: Motion to waive section 302(f) of the Congressional Budget Act with respect to amendment SA 2414, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 341.
+- 2025-06-30 — Roll call votes on amendments in Senate: Motion to waive section 302(f) of the Congressional Budget Act with respect to amendment SA 2696 rejected in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 339.
+- 2025-06-30 — Roll call votes on amendments in Senate: Motion to waive section 302(f) of the Congressional Budget Act with respect to amendment SA 2771, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 344.
+- 2025-06-30 — Roll call votes on amendments in Senate: Motion to waive section 313(b)(1)(D) of the Congressional Budget Act with respect to amendment SA 2446, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 343.
+- 2025-06-30 — Roll call votes on amendments in Senate: Motion to waive section 313(b)(1)(D) of the Congressional Budget Act with respect to amendment SA 2705, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 56 - 44. Record Vote Number: 342.
+- 2025-06-30 — Roll call votes on amendments in Senate: Motion to waive section 313(b)(1)(a) of the Congressional Budget Act with respect to amendment SA 2772 rejected, not having achieved 60 votes in the affirmative, in Senate by Yea-Nay Vote. 42 - 58. Record Vote Number: 352.
+- 2025-06-30 — Roll call votes on amendments in Senate: Motion to waive section 313(b)(1)(d) of the Congressional Budget Act with respect to amendment SA 2401, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 53 - 47. Record Vote Number: 345.
+- 2025-06-30 — Ruling of the Chair sustained
+- 2025-06-30 — Ruling of the Chair sustained.
+- 2025-06-30 — Ruling of the Chair sustained.
+- 2025-06-30 — Ruling of the Chair that the point of order raised by Senator Thune with respect to amendment SA 2360, is that unless the Budget Committee, speaking through its chairman, asserts that the amendment causes a violation of the Budget Act, the Chair will not so hold.
+- 2025-06-30 — Senate amendment proposed (on the floor): Amendment SA 2401 proposed by Senator Blackburn to Amendment SA 2360.
+- 2025-06-30 — Senate amendment proposed (on the floor): Amendment SA 2414 proposed by Senator Warren to Amendment SA 2360.
+- 2025-06-30 — Senate amendment proposed (on the floor): Amendment SA 2446 proposed by Senator Merkley to Amendment SA 2360.
+- 2025-06-30 — Senate amendment proposed (on the floor): Amendment SA 2696 proposed by Senator Ossoff to Amendment SA 2360.
+- 2025-06-30 — Senate amendment proposed (on the floor): Amendment SA 2705 proposed by Senator Cornyn to Amendment SA 2360.
+- 2025-06-30 — Senate amendment proposed (on the floor): Amendment SA 2771 proposed by Senator Murray to Amendment SA 2360.
+- 2025-06-30 — Senate amendment proposed (on the floor): Amendment SA 2772 proposed by Senator Kennedy to Amendment SA 2360.
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-06-30 — Senate amendment submitted
+- 2025-07-01 — 
+- 2025-07-01 — 
+- 2025-07-01 — 
+- 2025-07-01 — 
+- 2025-07-01 — 
+- 2025-07-01 — 
+- 2025-07-01 — 
+- 2025-07-01 — 
+- 2025-07-01 — 
+- 2025-07-01 — Amendment SA 2275 ruled out of order by the chair.
+- 2025-07-01 — Amendment SA 2360, as amended, agreed to in Senate by Yea-Nay Vote. 51 - 50. Record Vote Number: 371.
+- 2025-07-01 — Amendment SA 2372 agreed to in Senate by Voice Vote.
+- 2025-07-01 — Amendment SA 2372 proposed by Senator Ernst to Amendment SA 2360. (consideration: CR S4065-4066) To end unemployment payments to jobless millionaires.
+- 2025-07-01 — Amendment SA 2382 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 358.
+- 2025-07-01 — Amendment SA 2382 proposed by Senator Hirono to Amendment SA 2360. (consideration: CR S4063) To eliminate a program of qualified elementary and secondary education scholarships for public, private, or religious schools.
+- 2025-07-01 — Amendment SA 2435 proposed by Senator Sanders to Amendment SA 2360. (consideration: CR S4066) To cut the price of prescription drugs under Medicare in half and expand Medicare to cover dental, vision, and hearing.
+- 2025-07-01 — Amendment SA 2435, under the order of 7/1/2025, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 362.
+- 2025-07-01 — Amendment SA 2564 not agreed to in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 366.
+- 2025-07-01 — Amendment SA 2564 proposed by Senator Shaheen to Amendment SA 2360. (consideration: CR S4069-4070) To repeal amendments that terminate certain clean energy credits, and for other purposes.
+- 2025-07-01 — Amendment SA 2585 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 368.
+- 2025-07-01 — Amendment SA 2585 proposed by Senator Van Hollen to Amendment SA 2360. (consideration: CR S4071-4072) To strike the appropriations for the Office of Management and Budget.
+- 2025-07-01 — Amendment SA 2602 proposed by Senator Cruz for Senator Blackburn to Amendment SA 2360. (consideration: CR S4066-4067) To improve the section providing support for artificial intelligence under the Broadband Equity, Access, and Deployment Program.
+- 2025-07-01 — Amendment SA 2717 not agreed to in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 364.
+- 2025-07-01 — Amendment SA 2717 proposed by Senator Rosen to Amendment SA 2360. (consideration: CR S4068-4069) To maintain parity for wind and solar facilities under the Internal Revenue Code of 1986.
+- 2025-07-01 — Amendment SA 2719 not agreed to in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 365.
+- 2025-07-01 — Amendment SA 2719 proposed by Senator Hickenlooper to Amendment SA 2360. (consideration: CR S4069) To modify the provision terminating the residential clean energy credit, and for other purposes.
+- 2025-07-01 — Amendment SA 2723 proposed by Senator Kennedy to Amendment SA 2360. (consideration: CR S4072) To permanently extend the limitation on individual deductions for certain state and local taxes.
+- 2025-07-01 — Amendment SA 2745 not agreed to in Senate by Yea-Nay Vote. 21 - 79. Record Vote Number: 360.
+- 2025-07-01 — Amendment SA 2745 proposed by Senator Lee to Amendment SA 2360. (consideration: CR S4064-4065) To terminate wind and solar credits.
+- 2025-07-01 — Amendment SA 2775 proposed by Senator Thune for Senator Kennedy to Amendment SA 2360. (consideration: CR S4061-4062) To amend the Internal Revenue Code of 1986 to provide a deduction for expenses of home educators.
+- 2025-07-01 — Amendment SA 2790 agreed to in Senate by Voice Vote.
+- 2025-07-01 — Amendment SA 2790 proposed by Senator Kennedy to Amendment SA 2360. (consideration: CR S4069) To advance the effective date of the eligibility verification requirements from January 1, 2028, to January 1, 2027.
+- 2025-07-01 — Amendment SA 2812 proposed by Senator Collins to Amendment SA 2360. (consideration: CR S4060-4061) To amend the Internal Revenue Code of 1986 to apply a 39.6 percent individual income tax rate, and to provide additional funding and specify eligible providers under the Rural Health Transformation Program.
+- 2025-07-01 — Amendment SA 2812 ruled out of order by the chair.
+- 2025-07-01 — Amendment SA 2814 agreed to in Senate by Yea-Nay Vote. 99 - 1. Record Vote Number: 363.
+- 2025-07-01 — Amendment SA 2814 proposed by Senator Blackburn to Amendment SA 2360. (consideration: CR S4068) To strike the section relating to support for artificial intelligence.
+- 2025-07-01 — Amendment SA 2817 not agreed to in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 361.
+- 2025-07-01 — Amendment SA 2817 proposed by Senator Kim to Amendment SA 2360. (consideration: CR S4065) To strike a provision relating to limitations on certain Medicaid payments.
+- 2025-07-01 — Amendment SA 2847 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 367.
+- 2025-07-01 — Amendment SA 2847 proposed by Senator Warner to Amendment SA 2360. (consideration: CR S4070-4071) Use of revenues from lease payments from Metropolitan Washington Airports for aviation safety improvements and other purposes.
+- 2025-07-01 — Amendment SA 2848 agreed to in Senate by Yea-Nay Vote. 51 - 50. Record Vote Number: 370.
+- 2025-07-01 — Amendment SA 2848 proposed by Senator Graham to Amendment SA 2360. (consideration: CR S4072-4073) To improve the bill.
+- 2025-07-01 — Amendment SA 2849 not agreed to in Senate by Yea-Nay Vote. 45 - 55. Record Vote Number: 369.
+- 2025-07-01 — Amendment SA 2849 proposed by Senator Klobuchar to Amendment SA 2848. (consideration: CR S4072-4073) To strike a provision relating to delayed implementation of the supplemental nutrition assistance program matching funds requirements.
+- 2025-07-01 — Message on Senate action sent to the House.
+- 2025-07-01 — Motion by Senator Bennet to commit to Senate Committee on Finance with instructions rejected in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 354.
+- 2025-07-01 — Motion by Senator Warnock to commit to Senate Committee on Finance with instructions rejected in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 359.
+- 2025-07-01 — Motion by Senator Wyden to commit to Senate Committee on Finance with instructions rejected in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 357.
+- 2025-07-01 — Motion to waive all applicable budgetary discipline with respect to amendment SA 2275 rejected, not having achieved 60 votes in the affirmative, in Senate by Yea-Nay Vote. 54 - 46. Record Vote Number: 356.
+- 2025-07-01 — Motion to waive section 302(f) of the Congressional Budget Act with respect to amendment SA 2812 rejected, not having achieved 60 votes in the affirmative, in Senate by Yea-Nay Vote. 22 - 78. Record Vote Number: 355.
+- 2025-07-01 — Passed Senate with an amendment by Yea-Nay Vote. 51 - 50. Record Vote Number: 372.
+- 2025-07-01 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 51 - 50. Record Vote Number: 372.
+- 2025-07-01 — Point of order that page 1, lines 3-5 violate section 313(b)(1)(A) of the Congressional Budget Act raised in Senate with respect to amendment SA 2848.
+- 2025-07-01 — Point of order that the amendment violates section 302(f) of the Congressional Budget Act raised in Senate with respect to amendment SA 2812.
+- 2025-07-01 — Point of order that the amendment violates section 313(b)(1)(e) of the Congressional Budget Act raised in Senate with respect to amendment SA 2372.
+- 2025-07-01 — Point of order that the amendment violates section 313(b)(1)(e) of the Congressional Budget Act withdrawn in Senate with respect to amendment SA 2372.
+- 2025-07-01 — Point of order that the amendment violates section 4106 of H. Con. Res. 71, 115th Congress raised in Senate with respect to amendment SA 2775.
+- 2025-07-01 — Proposed amendment SA 2602 withdrawn in Senate.
+- 2025-07-01 — Proposed amendment SA 2723 withdrawn in Senate.
+- 2025-07-01 — Roll call votes on amendments in Senate: Amendment SA 2360, as amended, agreed to in Senate by Yea-Nay Vote. 51 - 50. Record Vote Number: 371.
+- 2025-07-01 — Roll call votes on amendments in Senate: Amendment SA 2382 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 358.
+- 2025-07-01 — Roll call votes on amendments in Senate: Amendment SA 2435, under the order of 7/1/2025, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 362.
+- 2025-07-01 — Roll call votes on amendments in Senate: Amendment SA 2564 not agreed to in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 366.
+- 2025-07-01 — Roll call votes on amendments in Senate: Amendment SA 2585 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 368.
+- 2025-07-01 — Roll call votes on amendments in Senate: Amendment SA 2717 not agreed to in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 364.
+- 2025-07-01 — Roll call votes on amendments in Senate: Amendment SA 2719 not agreed to in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 365.
+- 2025-07-01 — Roll call votes on amendments in Senate: Amendment SA 2745 not agreed to in Senate by Yea-Nay Vote. 21 - 79. Record Vote Number: 360.
+- 2025-07-01 — Roll call votes on amendments in Senate: Amendment SA 2814 agreed to in Senate by Yea-Nay Vote. 99 - 1. Record Vote Number: 363.
+- 2025-07-01 — Roll call votes on amendments in Senate: Amendment SA 2817 not agreed to in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 361.
+- 2025-07-01 — Roll call votes on amendments in Senate: Amendment SA 2847 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 367.
+- 2025-07-01 — Roll call votes on amendments in Senate: Amendment SA 2848 agreed to in Senate by Yea-Nay Vote. 51 - 50. Record Vote Number: 370.
+- 2025-07-01 — Roll call votes on amendments in Senate: Amendment SA 2849 not agreed to in Senate by Yea-Nay Vote. 45 - 55. Record Vote Number: 369.
+- 2025-07-01 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 2275 rejected, not having achieved 60 votes in the affirmative, in Senate by Yea-Nay Vote. 54 - 46. Record Vote Number: 356.
+- 2025-07-01 — Roll call votes on amendments in Senate: Motion to waive section 302(f) of the Congressional Budget Act with respect to amendment SA 2812 rejected, not having achieved 60 votes in the affirmative, in Senate by Yea-Nay Vote. 22 - 78. Record Vote Number: 355.
+- 2025-07-01 — Ruling of the Chair that the point of order raised by Senator Schumer that page 1 lines 3-5 of amendment SA 2848 violates section 313(b)(1)(A) of the Congressional Budget Act sustained by the Chair and the text is stricken.
+- 2025-07-01 — Senate amendment agreed to: Amendment SA 2360, as amended, agreed to in Senate by Yea-Nay Vote. 51 - 50. Record Vote Number: 371.
+- 2025-07-01 — Senate amendment agreed to: Amendment SA 2372 agreed to in Senate by Voice Vote.
+- 2025-07-01 — Senate amendment agreed to: Amendment SA 2790 agreed to in Senate by Voice Vote.
+- 2025-07-01 — Senate amendment agreed to: Amendment SA 2814 agreed to in Senate by Yea-Nay Vote. 99 - 1. Record Vote Number: 363.
+- 2025-07-01 — Senate amendment agreed to: Amendment SA 2848 agreed to in Senate by Yea-Nay Vote. 51 - 50. Record Vote Number: 370.
+- 2025-07-01 — Senate amendment not agreed to: Amendment SA 2382 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 358.
+- 2025-07-01 — Senate amendment not agreed to: Amendment SA 2435, under the order of 7/1/2025, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 362.
+- 2025-07-01 — Senate amendment not agreed to: Amendment SA 2564 not agreed to in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 366.
+- 2025-07-01 — Senate amendment not agreed to: Amendment SA 2585 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 368.
+- 2025-07-01 — Senate amendment not agreed to: Amendment SA 2717 not agreed to in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 364.
+- 2025-07-01 — Senate amendment not agreed to: Amendment SA 2719 not agreed to in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 365.
+- 2025-07-01 — Senate amendment not agreed to: Amendment SA 2745 not agreed to in Senate by Yea-Nay Vote. 21 - 79. Record Vote Number: 360.
+- 2025-07-01 — Senate amendment not agreed to: Amendment SA 2817 not agreed to in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 361.
+- 2025-07-01 — Senate amendment not agreed to: Amendment SA 2847 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 367.
+- 2025-07-01 — Senate amendment not agreed to: Amendment SA 2849 not agreed to in Senate by Yea-Nay Vote. 45 - 55. Record Vote Number: 369.
+- 2025-07-01 — Senate amendment proposed (on the floor): Amendment SA 2372 proposed by Senator Ernst to Amendment SA 2360.
+- 2025-07-01 — Senate amendment proposed (on the floor): Amendment SA 2382 proposed by Senator Hirono to Amendment SA 2360.
+- 2025-07-01 — Senate amendment proposed (on the floor): Amendment SA 2435 proposed by Senator Sanders to Amendment SA 2360.
+- 2025-07-01 — Senate amendment proposed (on the floor): Amendment SA 2564 proposed by Senator Shaheen to Amendment SA 2360.
+- 2025-07-01 — Senate amendment proposed (on the floor): Amendment SA 2585 proposed by Senator Van Hollen to Amendment SA 2360.
+- 2025-07-01 — Senate amendment proposed (on the floor): Amendment SA 2602 proposed by Senator Cruz for Senator Blackburn to Amendment SA 2360.
+- 2025-07-01 — Senate amendment proposed (on the floor): Amendment SA 2717 proposed by Senator Rosen to Amendment SA 2360.
+- 2025-07-01 — Senate amendment proposed (on the floor): Amendment SA 2719 proposed by Senator Hickenlooper to Amendment SA 2360.
+- 2025-07-01 — Senate amendment proposed (on the floor): Amendment SA 2723 proposed by Senator Kennedy to Amendment SA 2360.
+- 2025-07-01 — Senate amendment proposed (on the floor): Amendment SA 2745 proposed by Senator Lee to Amendment SA 2360.
+- 2025-07-01 — Senate amendment proposed (on the floor): Amendment SA 2775 proposed by Senator Thune for Senator Kennedy to Amendment SA 2360.
+- 2025-07-01 — Senate amendment proposed (on the floor): Amendment SA 2790 proposed by Senator Kennedy to Amendment SA 2360.
+- 2025-07-01 — Senate amendment proposed (on the floor): Amendment SA 2812 proposed by Senator Collins to Amendment SA 2360.
+- 2025-07-01 — Senate amendment proposed (on the floor): Amendment SA 2814 proposed by Senator Blackburn to Amendment SA 2360.
+- 2025-07-01 — Senate amendment proposed (on the floor): Amendment SA 2817 proposed by Senator Kim to Amendment SA 2360.
+- 2025-07-01 — Senate amendment proposed (on the floor): Amendment SA 2847 proposed by Senator Warner to Amendment SA 2360.
+- 2025-07-01 — Senate amendment proposed (on the floor): Amendment SA 2848 proposed by Senator Graham to Amendment SA 2360.
+- 2025-07-01 — Senate amendment proposed (on the floor): Amendment SA 2849 proposed by Senator Klobuchar to Amendment SA 2848.
+- 2025-07-01 — Senate amendment submitted
+- 2025-07-01 — Senate amendment submitted
+- 2025-07-01 — Senate amendment submitted
+- 2025-07-01 — Senate amendment submitted
+- 2025-07-01 — Senate amendment submitted
+- 2025-07-01 — Senate amendment submitted
+- 2025-07-01 — Senate amendment submitted
+- 2025-07-01 — Senate amendment submitted
+- 2025-07-01 — Senate amendment submitted
