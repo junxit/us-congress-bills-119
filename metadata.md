@@ -1,7 +1,7 @@
 ---
 measure: H.R. 900
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 900
@@ -16,12 +16,16 @@ Sinkhole Mapping Act of 2025
 
 - Rep. Soto, Darren [D-FL-9] (S001200)
 
-## Cosponsors (4)
+## Cosponsors (8)
 
 - Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
 - Rep. Frost, Maxwell [D-FL-10] (F000476)
 - Rep. Castor, Kathy [D-FL-14] (C001066)
 - Rep. Wilson, Frederica S. [D-FL-24] (W000808)
+- Rep. Costa, Jim [D-CA-21] (C001059)
+- Rep. Harder, Josh [D-CA-9] (H001090)
+- Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
+- Rep. Bell, Wesley [D-MO-1] (B001324)
 
 ## Committees (1)
 
@@ -32,3 +36,8 @@ Sinkhole Mapping Act of 2025
 - 2025-01-31 — Introduced in House
 - 2025-01-31 — Introduced in House
 - 2025-01-31 — Referred to the House Committee on Natural Resources.
+- 2025-04-09 — Committee Consideration and Mark-up Session Held
+- 2025-04-09 — Ordered to be Reported in the Nature of a Substitute by Unanimous Consent.
+- 2025-07-02 — Placed on the Union Calendar, Calendar No. 147.
+- 2025-07-02 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-182.
+- 2025-07-02 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-182.

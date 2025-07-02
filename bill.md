@@ -15,7 +15,7 @@ This Act may be cited as the “Sinkhole Mapping Act of 2025”.
 
 ## § 2. Sinkhole hazard identification
 
-- **(a)** *In general* The Director of the United States Geological Survey shall establish a program to—
+- **(a)** *In general* Subject to the availability of appropriations made in advance for such purpose, the Director of the United States Geological Survey shall establish a program to—
   - **(1)** study the short-term and long-term mechanisms that cause sinkholes, including extreme storm events, prolonged droughts causing shifts in water management practices, aquifer depletion, and other major changes in water use; and
   - **(2)** develop maps that depict zones that are at greater risk of sinkhole formation.
 - **(b)** *Use of certain data* In developing maps under subsection (a)(2), the Director of the United States Geological Survey shall utilize 3D elevation data (as that term is defined in section 2 of the National Landslide Preparedness Act (43 U.S.C. 3101)) collected pursuant to section 5 of that Act (43 U.S.C. 3104).
