@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1043
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1043
@@ -16,9 +16,10 @@ La Paz County Solar Energy and Job Creation Act
 
 - Rep. Gosar, Paul A. [R-AZ-9] (G000565)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Biggs, Andy [R-AZ-5] (B001302)
+- Rep. Schweikert, David [R-AZ-1] (S001183)
 
 ## Committees (1)
 
@@ -29,3 +30,8 @@ La Paz County Solar Energy and Job Creation Act
 - 2025-02-06 — Introduced in House
 - 2025-02-06 — Introduced in House
 - 2025-02-06 — Referred to the House Committee on Natural Resources.
+- 2025-04-09 — Committee Consideration and Mark-up Session Held
+- 2025-04-09 — Ordered to be Reported by Unanimous Consent.
+- 2025-07-02 — Placed on the Union Calendar, Calendar No. 148.
+- 2025-07-02 — Reported by the Committee on Natural Resources. H. Rept. 119-183.
+- 2025-07-02 — Reported by the Committee on Natural Resources. H. Rept. 119-183.
