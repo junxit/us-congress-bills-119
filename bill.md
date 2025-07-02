@@ -21,4 +21,4 @@ This Act may be cited as the “Open RAN Outreach Act”.
 - **(b)** *Definitions* In this section:
   - **(1)** *Assistant Secretary* The term Assistant Secretary means the Assistant Secretary of Commerce for Communications and Information, acting through the head of the Office of Internet Connectivity and Growth.
   - **(2)** *Open network architecture* The term open network architecture means Open RAN networks and other network elements that follow a set of published open standards for multi-vendor network equipment interoperability, including open core and open transport.
-  - **(3)** *Open RAN network* The term Open RAN network means a wireless network that follows the Open Radio Access Network approach to standardization adopted by the O–RAN Alliance, Telecom Infra Project, or Third Generation Partnership Project (3GPP), or any similar set of published open standards for multi-vendor network equipment interoperability.
+  - **(3)** *Open RAN network* The term Open RAN network means a wireless network that follows the Open Radio Access Network architecture and published open standards for multi-vendor network equipment interoperability.
