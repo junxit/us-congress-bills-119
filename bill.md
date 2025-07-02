@@ -1,0 +1,24 @@
+---
+legis-num: H.R. 4277
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4277
+
+> To amend Title XIX of the Social Security Act to clarify that rural emergency hospitals are treated as outpatient hospitals for purposes of Medicaid payment, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Rural Emergency Hospital Financial Stability Act”.
+
+## § 2. Clarification of Medicaid payment for rural emergency hospitals
+
+- **(a)** *Amendment to Medicaid statute* Paragraph (2)(A) of Section 1905(a) of the Social Security Act (42 U.S.C. 1396d(a)) is amended by inserting the following after “outpatient hospital services”: “(including rural emergency hospital services, as defined in section 1861(kkk), when such services are available),”;
+- **(b)** *Nursing facility amendment* Paragraph (4)(A) of Section 1905(a) of the Social Security Act (42 U.S.C. 1396d(a)) is amended by inserting “but including services provided in a nursing facility that is a distinct part unit of a rural emergency hospital, as defined in section 1861(kkk)(2)” after “diseases”.
+- **(c)** *Effective date* The amendments made by this Act shall take effect on the date of enactment, and shall apply to services furnished on or after such date.
+
+## § 3. Rulemaking
+
+Not later than 12 months after the date of enactment of this Act, the Secretary of Health and Human Services shall issue final regulations to carry out the amendments made by this Act.
