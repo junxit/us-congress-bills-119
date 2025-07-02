@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 4275
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4275
+
+> To authorize appropriations for the Coast Guard, to establish the Secretary of the Coast Guard, and for other purposes.
+
+## § 1. Short title; table of contents
+
+- **(a)** *Short title* This Act may be cited as the “Coast Guard Authorization Act of 2025”.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
+
+## § 2. Commandant defined
+
+In this Act, the term Commandant means the commandant of the Coast Guard.
