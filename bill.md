@@ -53,7 +53,7 @@ This Act may be cited as the “Promoting Cross-border Energy Infrastructure Act
     - **(A)** not later than 180 days after the date of enactment of this Act, publish in the Federal Register notice of a proposed rulemaking to carry out the applicable requirements of subsection (a); and
     - **(B)** not later than 1 year after the date of enactment of this Act, publish in the Federal Register a final rule to carry out the applicable requirements of subsection (a).
 - **(h)** *Definitions* In this section:
-  - **(1)** *Border-crossing facility* The term border-crossing facility means the portion of an oil or natural gas pipeline or electric transmission facility that is located at an international boundary of the United States.
+  - **(1)** *Border-crossing facility* The term border-crossing facility means the portion of an oil or natural gas pipeline or electric transmission facility that is located within 1,000 feet of the international boundary of the United States, measured from the point at which the facility crosses such boundary into the United States.
   - **(2)** *Modification* The term modification includes a reversal of flow direction, change in ownership, change in flow volume, addition or removal of an interconnection, or an adjustment to maintain flow (such as a reduction or increase in the number of pump or compressor stations).
   - **(3)** *Natural gas* The term natural gas has the meaning given that term in section 2 of the Natural Gas Act (15 U.S.C. 717a).
   - **(4)** *Oil* The term oil means petroleum or a petroleum product.
