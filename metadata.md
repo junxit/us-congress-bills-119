@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 566
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 566
@@ -20,11 +20,12 @@ Providing for consideration of the Senate amendment to the bill (H.R. 1) to prov
 
 - House — Rules Committee
 
-## Recorded votes (3)
+## Recorded votes (4)
 
 - 2025-07-02 — [House 119-1-186](votes/house-119-1-0186.md) — On Consideration of the Resolution — **Passed** (212–211)
 - 2025-07-02 — [House 119-1-187](votes/house-119-1-0187.md) — On Ordering the Previous Question — **Passed** (214–212)
 - 2025-07-02 — [House 119-1-188](votes/house-119-1-0188.md) — On Agreeing to the Amendment — **Agreed to** (220–212)
+- 2025-07-03 — [House 119-1-189](votes/house-119-1-0189.md) — On Agreeing to the Resolution, as Amended — **Passed** (219–213)
 
 ## Actions
 
@@ -47,3 +48,6 @@ Providing for consideration of the Senate amendment to the bill (H.R. 1) to prov
 - 2025-07-02 — The House Committee on Rules reported an original measure, H. Rept. 119-179, by Ms. Foxx.
 - 2025-07-02 — The House Committee on Rules reported an original measure, H. Rept. 119-179, by Ms. Foxx.
 - 2025-07-02 — The resolution makes in order a motion that the House concur in the Senate amendment to H.R. 1 and provides for one hour of debate.
+- 2025-07-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-07-03 — On agreeing to the resolution, as amended Agreed to by the Yeas and Nays: 219 - 213 (Roll no. 189).
+- 2025-07-03 — Passed/agreed to in House: On agreeing to the resolution, as amended Agreed to by the Yeas and Nays: 219 - 213 (Roll no. 189).
