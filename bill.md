@@ -1,0 +1,24 @@
+---
+legis-num: H.R. 4300
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4300
+
+> To amend title 40, United States Code, to prohibit the Commission of Fine Arts from exercising authority over non-Federal property in the District of Columbia, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Commission of Fine Arts District of Columbia Home Rule Act”.
+
+## § 2. Prohibiting Commission of Fine Arts from exercising authority over non-Federal property in the District of Columbia
+
+- **(a)** *Limiting authority over location of statues, fountains, and monuments* Section 9102(a)(1) of title 40, United States Code, is amended by striking “District of Columbia” and inserting “District of Columbia which are owned by the Federal Government”.
+- **(b)** *Clarification of limitations on authority* Section 9102(c) of such title is amended to read as follows:
+  > - **(c)** *Nonapplication* The authority of the Commission under this section does not apply to any of the following:
+  >   - **(1)** The United States Capitol.
+  >   - **(2)** Any building of the Library of Congress.
+  >   - **(3)** Any building, property, or project which is owned by the District of Columbia.
+  >   - **(4)** Any private building, property, or project.
