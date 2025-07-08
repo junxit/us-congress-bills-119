@@ -1,7 +1,7 @@
 ---
 measure: S. 1003
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1003
@@ -40,3 +40,5 @@ Lulu’s Law
 - 2025-06-12 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-30.
 - 2025-06-12 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-30.
 - 2025-06-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 91.
+- 2025-07-08 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4261; text: CR S4261)
+- 2025-07-08 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
