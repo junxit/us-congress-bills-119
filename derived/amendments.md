@@ -1,7 +1,7 @@
 ---
 measure: S. 222
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 1 executed, 2 stated and not applied.
+12 amendatory instructions. 5 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,6 +33,42 @@ to guess them.
 | Removed | `physician` |
 | Inserted | `physician, parent, or legal guardian` |
 
+### 42 U.S.C. § 1758
+
+> in clause (iii), by striking “physician” and inserting “physician, parent, or legal guardian”;
+
+| | |
+|---|---|
+| Removed | `physician` |
+| Inserted | `physician, parent, or legal guardian` |
+
+### 42 U.S.C. § 1758
+
+> in subparagraph (C), in the matter preceding clause (i), by striking “fluid milk products” and inserting “products described in subparagraph (A)(ii)”; and
+
+| | |
+|---|---|
+| Removed | `fluid milk products` |
+| Inserted | `products described in subparagraph (A)(ii)` |
+
+### 42 U.S.C. § 1769b
+
+> Section 20(c) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1769b(c)) is amended by striking “patterns and fluid milk requirements” and inserting “patterns, fluid milk requirements, and nutritional standards for nondairy beverages”.
+
+| | |
+|---|---|
+| Removed | `patterns and fluid milk requirements` |
+| Inserted | `patterns, fluid milk requirements, and nutritional standards for nondairy beverages` |
+
+### 42 U.S.C. § 1776
+
+> Section 7(g)(2)(B)(ii)(II) of the Child Nutrition Act of 1966 (42 U.S.C. 1776(g)(2)(B)(ii)(II)) is amended by striking “clause (i)” and inserting “clauses (i) and (iii)”.
+
+| | |
+|---|---|
+| Removed | `clause (i)` |
+| Inserted | `clauses (i) and (iii)` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -44,3 +80,8 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `42 U.S.C. § 1758` | replace | by striking clauses (i) and (ii) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1758` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1758` | replace | by striking clauses (i) and (ii) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1758` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1762a` | insert | Section 14(f) of the Richard B. Russell National School Lunch Act (42 U.S.C. 1762a(f)) is amended in the third sentence by inserting “or a nondairy beverage that meets the nutritional standards described in section 9(a)(2)(B)” after “milk”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1776` | redesignate | by redesignating subclauses (II) and (III) as subclauses (III) and (IV), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1776` | insert | by inserting after subclause (I) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
