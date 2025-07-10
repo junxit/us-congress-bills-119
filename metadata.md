@@ -1,7 +1,7 @@
 ---
 measure: H.R. 410
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 410
@@ -25,3 +25,11 @@ Alaska Native Vietnam Era Veterans Land Allotment Extension Act of 2025
 - 2025-01-15 — Introduced in House
 - 2025-01-15 — Introduced in House
 - 2025-01-15 — Referred to the House Committee on Natural Resources.
+- 2025-01-29 — Referred to the Subcommittee on Indian and Insular Affairs.
+- 2025-02-05 — Subcommittee Hearings Held
+- 2025-06-25 — Committee Consideration and Mark-up Session Held
+- 2025-06-25 — Ordered to be Reported by Unanimous Consent.
+- 2025-06-25 — Subcommittee on Indian and Insular Affairs Discharged
+- 2025-07-10 — Placed on the Union Calendar, Calendar No. 153.
+- 2025-07-10 — Reported by the Committee on Natural Resources. H. Rept. 119-188.
+- 2025-07-10 — Reported by the Committee on Natural Resources. H. Rept. 119-188.
