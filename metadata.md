@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2316
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2316
@@ -16,9 +16,11 @@ Wetlands Conservation and Access Improvement Act of 2025
 
 - Rep. Hurd, Jeff [R-CO-3] (H001100)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Rep. Elfreth, Sarah [D-MD-3] (E000301)
+- Rep. Gray, Adam [D-CA-13] (G000605)
+- Rep. McBride, Sarah [D-DE-At Large] (M001238)
 
 ## Committees (1)
 
@@ -29,3 +31,11 @@ Wetlands Conservation and Access Improvement Act of 2025
 - 2025-03-25 — Introduced in House
 - 2025-03-25 — Introduced in House
 - 2025-03-25 — Referred to the House Committee on Natural Resources.
+- 2025-04-01 — Referred to the Subcommittee on Water, Wildlife and Fisheries.
+- 2025-04-08 — Subcommittee Hearings Held
+- 2025-06-25 — Committee Consideration and Mark-up Session Held
+- 2025-06-25 — Ordered to be Reported by Unanimous Consent.
+- 2025-06-25 — Subcommittee on Water, Wildlife and Fisheries Discharged
+- 2025-07-10 — Placed on the Union Calendar, Calendar No. 156.
+- 2025-07-10 — Reported by the Committee on Natural Resources. H. Rept. 119-191.
+- 2025-07-10 — Reported by the Committee on Natural Resources. H. Rept. 119-191.
