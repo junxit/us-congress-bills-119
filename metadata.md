@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 315
 congress: 119
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 315
@@ -16,7 +16,7 @@ A resolution expressing support for the designation of July 10, 2025, as Journey
 
 - Sen. Cortez Masto, Catherine [D-NV] (C001113)
 
-## Cosponsors (20)
+## Cosponsors (22)
 
 - Sen. Cramer, Kevin [R-ND] (C001096)
 - Sen. Risch, James E. [R-ID] (R000584)
@@ -38,6 +38,8 @@ A resolution expressing support for the designation of July 10, 2025, as Journey
 - Sen. Schiff, Adam B. [D-CA] (S001150)
 - Sen. Gallego, Ruben [D-AZ] (G000574)
 - Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Scott, Rick [R-FL] (S001217)
 
 ## Committees (1)
 
@@ -47,3 +49,7 @@ A resolution expressing support for the designation of July 10, 2025, as Journey
 
 - 2025-07-08 — Introduced in Senate
 - 2025-07-08 — Referred to the Committee on Energy and Natural Resources.
+- 2025-07-10 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2025-07-10 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: 7/8/2025 CR S4260)
+- 2025-07-10 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
+- 2025-07-10 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent. (consideration: CR S4321)
