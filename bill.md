@@ -1,0 +1,31 @@
+---
+legis-num: S. 2262
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2262
+
+> To amend the Federal Land Policy and Management Act of 1976 to clarify the nature of public involvement for purposes of certain rulemaking, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “American Voices in Federal Lands Act”.
+
+## § 2. Public involvement in certain public land rulemaking
+
+- **(a)** *Definition of public involvement* Section 103(d) of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1702(d)) is amended by striking “citizens” and inserting “citizens of the United States, in accordance with section 310(d), as applicable,”.
+- **(b)** *Public involvement relating to certain rules and regulations* Section 310 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1740) is amended to read as follows:
+  > ## § 310. Rules and regulations
+  >
+  > - **(a)** *Authorization*
+  >   - **(1)** *Secretary* Subject to subsection (d), the Secretary, with respect to public lands, shall promulgate rules and regulations to carry out the purposes of—
+  >     - **(A)** this Act; and
+  >     - **(B)** other laws applicable to public lands.
+  >   - **(2)** *Secretary of Agriculture* The Secretary of Agriculture, with respect to land in the National Forest System, shall promulgate rules and regulations to carry out the purposes of this Act.
+  > - **(b)** *Requirement* The promulgation of rules and regulations pursuant to this section shall be in accordance with chapter 5 of title 5, United States Code, without regard to section 553(a)(2) of that title.
+  > - **(c)** *Absence of regulation* Before the promulgation of a rule or regulation pursuant to this section with respect to public lands or land in the National Forest System, the applicable land shall be administered under existing rules and regulations concerning the land, to the maximum extent practicable.
+  > - **(d)** *Public involvement relating to Bureau land* Notwithstanding any other provision of law, with respect to public lands managed by the Bureau, the Secretary—
+  >   - **(1)** in promulgating any applicable regulations pursuant to this or any other Act, may take into consideration only public comments received from citizens of the United States; and
+  >   - **(2)** in any public involvement under this Act or any other provision of law (including regulations), shall establish and implement a process commonly known as “Completely Automated Public Test to tell Computers and Humans Apart (CAPTCHA)” to deter attempts at public involvement via artificial intelligence.
