@@ -11,18 +11,22 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Hydropower Relicensing Transparency Act”.
+This Act may be cited as the “Hydropower Licensing Transparency Act”.
 
-## § 2. Annual relicensing status report
+## § 2. Annual licensing status report
 
-Section 15 of the Federal Power Act (16 U.S.C. 808) is amended by adding at the end the following:
+The Federal Power Act is amended by inserting after section 36 (16 U.S.C. 823g) the following:
 
-> - **(g)**
->   - **(1)** Not later than 180 days after the date of enactment of this subsection, and annually thereafter, the Commission shall submit to Congress a report on the status of the licensing process for each new license for which an existing licensee has notified the Commission under subsection (b)(1) at least 3 years prior to submission of the report that such licensee intends to file an application for such new license, but such new license has not yet been issued under this section.
->   - **(2)** Each report submitted under paragraph (1) shall include, with respect to the licensing process for each new license described in such paragraph—
->     - **(A)** the date notice was provided to the Commission under subsection (b)(1);
->     - **(B)** any docket number assigned with respect to such licensing process;
->     - **(C)** whether any application for a new license has been filed;
->     - **(D)** information regarding the status of any such application, including the date the Commission anticipates it will issue the new license;
->     - **(E)** any upcoming proceeding or other meeting related to such new license; and
->     - **(F)** any ongoing or completed actions required of the existing licensee, the Commission, the fish and wildlife agencies referred to in subsection (b) of this section, and any other agencies.
+> ## § 37. Annual licensing status report
+>
+> - **(a)** *In general* Not later than 180 days after the date of enactment of this section, and annually thereafter, the Commission shall submit to Congress a report on the status of—
+>   - **(1)** the licensing process for each new license, and for each subsequent license for which sections 14 and 15 have been waived, for which the existing licensee has notified the Commission under section 15(b)(1) at least 3 years prior to submission of the report that such existing licensee intends to file an application for such new license or subsequent license, but such new license or subsequent license has not yet been issued under section 15; and
+>   - **(2)** the licensing process for each original license under section 4(e) for which a citizen, association, corporation, State, Indian Tribe, or municipality has notified the Commission, pursuant to applicable regulations, at least 3 years prior to submission of the report that such citizen, association, corporation, State, Indian Tribe, or municipality intends to file an application for such original license, but such original license has not yet been issued under section 4(e).
+> - **(b)** *Inclusions* Each report submitted under subsection (a) shall include, with respect to the licensing process for each new license and subsequent license described in such subsection and the licensing process for each original license described in such subsection—
+>   - **(1)** the date the notice of intent described in such subsection was provided to the Commission;
+>   - **(2)** any docket number assigned with respect to such licensing process;
+>   - **(3)** whether any application for such new license, such subsequent license, or such original license has been filed;
+>   - **(4)** information regarding the status of any such application, including the date the Commission anticipates it will issue such original license, such subsequent license, or such new license;
+>   - **(5)** the date of any upcoming proceeding or other meeting related to such original license, such subsequent license, or such new license; and
+>   - **(6)** a description of any ongoing or completed actions required of the existing licensee, citizen, association, corporation, State, Indian Tribe, municipality, the Commission, the fish and wildlife agencies referred to in section 15(b), and any other agencies.
+> - **(c)** *Disaggregation of information by license type* The information included in each report submitted under subsection (a) shall be disaggregated by whether the information relates to a new license, or a subsequent license, issued under section 15 or an original license issued under section 4(e).

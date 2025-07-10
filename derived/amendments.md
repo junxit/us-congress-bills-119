@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3657
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `16 U.S.C. § 808` | add-at-end | Section 15 of the Federal Power Act (16 U.S.C. 808) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 823g` | insert | The Federal Power Act is amended by inserting after section 36 (16 U.S.C. 823g) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
