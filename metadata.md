@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1618
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1618
@@ -16,9 +16,10 @@ Precision Agriculture Satellite Connectivity Act
 
 - Rep. Latta, Robert E. [R-OH-5] (L000566)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Kelly, Robin L. [D-IL-2] (K000385)
+- Rep. Houchin, Erin [R-IN-9] (H001093)
 
 ## Committees (1)
 
@@ -29,3 +30,8 @@ Precision Agriculture Satellite Connectivity Act
 - 2025-02-26 — Introduced in House
 - 2025-02-26 — Introduced in House
 - 2025-02-26 — Referred to the House Committee on Energy and Commerce.
+- 2025-03-04 — Committee Consideration and Mark-up Session Held
+- 2025-03-04 — Ordered to be Reported (Amended) by Voice Vote.
+- 2025-07-10 — Placed on the Union Calendar, Calendar No. 159.
+- 2025-07-10 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-195.
+- 2025-07-10 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-195.
