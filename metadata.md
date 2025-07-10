@@ -1,7 +1,7 @@
 ---
 measure: H.R. 131
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 131
@@ -16,6 +16,10 @@ Finish the Arkansas Valley Conduit Act
 
 - Rep. Boebert, Lauren [R-CO-4] (B000825)
 
+## Cosponsors (1)
+
+- Rep. Hurd, Jeff [R-CO-3] (H001100)
+
 ## Committees (1)
 
 - House — Natural Resources Committee
@@ -25,3 +29,8 @@ Finish the Arkansas Valley Conduit Act
 - 2025-01-03 — Introduced in House
 - 2025-01-03 — Introduced in House
 - 2025-01-03 — Referred to the House Committee on Natural Resources.
+- 2025-06-25 — Committee Consideration and Mark-up Session Held
+- 2025-06-25 — Ordered to be Reported in the Nature of a Substitute by Unanimous Consent.
+- 2025-07-10 — Placed on the Union Calendar, Calendar No. 152.
+- 2025-07-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-187.
+- 2025-07-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-187.
