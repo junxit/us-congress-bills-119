@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4
@@ -24,9 +24,11 @@ Rescissions Act of 2025
 - Rep. Greene, Marjorie Taylor [R-GA-14] (G000596)
 - Rep. Moore, Blake D. [R-UT-1] (M001213)
 
-## Committees (1)
+## Committees (3)
 
 - House — Appropriations Committee
+- Senate — Budget Committee
+- Senate — Appropriations Committee
 
 ## Recorded votes (2)
 
@@ -52,3 +54,4 @@ Rescissions Act of 2025
 - 2025-06-12 — Rule provides for consideration of H.R. 4 with 1 hour of general debate. Motion to recommit allowed. Bill is closed to amendments.
 - 2025-06-12 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2025-06-12 — The previous question was ordered pursuant to the rule.
+- 2025-07-10 — Received in the Senate and Read twice and referred jointly to the Committee on Appropriations; the Budget pursuant to the order of 1/30/1975 as amended by the order of 4/11/1986.
