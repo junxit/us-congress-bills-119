@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1765
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1765
@@ -33,3 +33,10 @@ Promoting United States Wireless Leadership Act of 2025
 - 2025-03-03 — Introduced in House
 - 2025-03-03 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2025-03-03 — Referred to the Committee on Energy and Commerce, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-03-04 — Committee Consideration and Mark-up Session Held
+- 2025-03-04 — Ordered to be Reported by Voice Vote.
+- 2025-07-10 — Committee on Foreign Affairs discharged.
+- 2025-07-10 — Committee on Foreign Affairs discharged.
+- 2025-07-10 — Placed on the Union Calendar, Calendar No. 160.
+- 2025-07-10 — Reported by the Committee on Energy and Commerce. H. Rept. 119-196, Part I.
+- 2025-07-10 — Reported by the Committee on Energy and Commerce. H. Rept. 119-196, Part I.
