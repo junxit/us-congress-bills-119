@@ -1,7 +1,7 @@
 ---
 measure: S. 433
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 433
@@ -32,3 +32,5 @@ National Manufacturing Advisory Council Act
 - 2025-06-02 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment. With written report No. 119-27.
 - 2025-06-02 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment. With written report No. 119-27.
 - 2025-06-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 89.
+- 2025-07-14 — Passed Senate with an amendment by Voice Vote. (consideration: CR S4339; text of amendment in the nature of a substitute: CR S4340-4341)
+- 2025-07-14 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
