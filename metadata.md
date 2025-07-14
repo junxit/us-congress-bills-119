@@ -1,7 +1,7 @@
 ---
 measure: S. 283
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 283
@@ -16,11 +16,12 @@ Illegal Red Snapper and Tuna Enforcement Act
 
 - Sen. Cruz, Ted [R-TX] (C001098)
 
-## Cosponsors (3)
+## Cosponsors (4)
 
 - Sen. Schatz, Brian [D-HI] (S001194)
 - Sen. Britt, Katie Boyd [R-AL] (B001319)
 - Sen. Tuberville, Tommy [R-AL] (T000278)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
 
 ## Committees (1)
 
@@ -34,3 +35,5 @@ Illegal Red Snapper and Tuna Enforcement Act
 - 2025-05-21 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-24.
 - 2025-05-21 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-24.
 - 2025-05-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 86.
+- 2025-07-14 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4341; text: CR S4341-4342)
+- 2025-07-14 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
