@@ -15,7 +15,7 @@ This Act may be cited as the “Promoting United States Wireless Leadership Act 
 
 ## § 2. Representation and leadership of United States in communications standards-setting bodies
 
-- **(a)** *In general* In order to enhance the representation of the United States and promote United States leadership in standards-setting bodies that set standards for 5G networks and for future generations of wireless communications networks, the Assistant Secretary shall, in consultation with the National Institute of Standards and Technology—
+- **(a)** *In general* In order to enhance the representation of the United States and promote United States leadership in standards-setting bodies that set standards for 5G networks and for future generations of wireless communications networks, the Assistant Secretary shall, in consultation with the National Institute of Standards and Technology and the Department of State—
   - **(1)** equitably encourage participation by companies and a wide variety of relevant stakeholders, but not including any company or relevant stakeholder that the Assistant Secretary has determined to be not trusted, (to the extent such standards-setting bodies allow such stakeholders to participate) in such standards-setting bodies; and
   - **(2)** equitably offer technical expertise to companies and a wide variety of relevant stakeholders, but not including any company or relevant stakeholder that the Assistant Secretary has determined to be not trusted, (to the extent such standards-setting bodies allow such stakeholders to participate) to facilitate such participation.
 - **(b)** *Standards-Setting bodies* The standards-setting bodies referred to in subsection (a) include—
