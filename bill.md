@@ -40,7 +40,7 @@ That the Senate—
 
 - **(1)** recognizes July 6, 2025, as a “Day of Compassion”;
 - **(2)** congratulates His Holiness the 14th Dalai Lama on his 90th birthday and affirms its recognition of his outstanding contributions to peace, nonviolence, human rights, and mutual respect within and across faiths;
-- **(3)** affirms the Tibetan people’s human rights and fundamental freedoms, including their right to exercise regional autonomy and to protect the distinct religious, cultural, linguistic, and historical identity of the Tibetan people;
+- **(3)** affirms the Tibetan people's internationally recognized human rights and fundamental freedoms, including their right to exercise regional autonomy and to protect the distinct religious, cultural, linguistic, and historical identity of the Tibetan people;
 - **(4)** reiterates, as outlined in the Tibetan Policy and Support Act of 2020 (subtitle E of title III of division K of Public Law 116–260), that the identification and installation of Tibetan Buddhist religious leaders, including a future 15th Dalai Lama, is a matter that should be determined by the present 14th Dalai Lama and within the Tibetan Buddhist faith community, in accordance with the inalienable right to religious freedom;
 - **(5)** reiterates that any attempt by the Government of the People’s Republic of China or any other government to recognize a successor or reincarnation of the 14th Dalai Lama and any future Dalai Lamas not selected by the Tibetan people would represent a clear abuse of the right to religious freedom of Tibetan Buddhists and the Tibetan people; and
 - **(6)** requests that a copy of this resolution be presented to His Holiness the Dalai Lama as an expression of its esteem and respect.
