@@ -1,7 +1,7 @@
 ---
 measure: H.R. 504
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 504
@@ -44,3 +44,9 @@ Miccosukee Reserved Area Amendments Act
 - 2025-07-10 — Placed on the Union Calendar, Calendar No. 154.
 - 2025-07-10 — Reported by the Committee on Natural Resources. H. Rept. 119-189, Part I.
 - 2025-07-10 — Reported by the Committee on Natural Resources. H. Rept. 119-189, Part I.
+- 2025-07-14 — Considered under suspension of the rules. (consideration: CR H3228-3230)
+- 2025-07-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 504.
+- 2025-07-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-07-14 — Mr. Westerman moved to suspend the rules and pass the bill.
+- 2025-07-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3228-3229)
+- 2025-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3228-3229)
