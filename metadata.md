@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1766
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1766
@@ -20,9 +20,10 @@ NTIA Policy and Cybersecurity Coordination Act
 
 - Rep. McClellan, Jennifer L. [D-VA-4] (M001227)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ NTIA Policy and Cybersecurity Coordination Act
 - 2025-07-14 — Mr. Latta moved to suspend the rules and pass the bill.
 - 2025-07-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3214)
 - 2025-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2025-07-15 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
