@@ -1,7 +1,7 @@
 ---
 measure: H.R. 900
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 900
@@ -27,9 +27,10 @@ Sinkhole Mapping Act of 2025
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 - Rep. Bell, Wesley [D-MO-1] (B001324)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Sinkhole Mapping Act of 2025
 - 2025-07-14 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
 - 2025-07-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3223)
 - 2025-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2025-07-15 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
