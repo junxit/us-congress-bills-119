@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4
 congress: 119
-version: Referred in Senate
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4
@@ -30,10 +30,12 @@ Rescissions Act of 2025
 - Senate — Budget Committee
 - Senate — Appropriations Committee
 
-## Recorded votes (2)
+## Recorded votes (4)
 
 - 2025-06-12 — [House 119-1-167](votes/house-119-1-0167.md) — On Motion to Recommit — **Failed** (208–218)
 - 2025-06-12 — [House 119-1-168](votes/house-119-1-0168.md) — On Passage — **Passed** (214–212)
+- 2025-07-15 — [Senate 119-1-391](votes/senate-119-1-0391.md) — On the Motion to Discharge — **Motion to Discharge Agreed to** (50–50)
+- 2025-07-15 — [Senate 119-1-392](votes/senate-119-1-0392.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (50–50)
 
 ## Actions
 
@@ -55,3 +57,13 @@ Rescissions Act of 2025
 - 2025-06-12 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2025-06-12 — The previous question was ordered pursuant to the rule.
 - 2025-07-10 — Received in the Senate and Read twice and referred jointly to the Committee on Appropriations; the Budget pursuant to the order of 1/30/1975 as amended by the order of 4/11/1986.
+- 2025-07-15 — 
+- 2025-07-15 — Amendment SA 2853 proposed by Senator Thune for Senator Schmitt. (consideration: CR S4364) In the nature of a substitute.
+- 2025-07-15 — Measure laid before Senate by motion. (consideration: CR S4364-4365, S4374-4379)
+- 2025-07-15 — Motion to discharge Senate Committees on Appropriations; the Budget made. Pursuant to the order of 1/30/1975 as amended by the order of 4/11/1986.
+- 2025-07-15 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 51 - 50. Record Vote Number: 392.
+- 2025-07-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 114.
+- 2025-07-15 — Senate Committee on Appropriations; the Budget discharged by Yea-Nay Vote. 51 - 50. Record Vote Number: 391 Pursuant to the order of 1/30/1975 as amended by the order of 4/11/1986.
+- 2025-07-15 — Senate Committee on Appropriations; the Budget discharged by Yea-Nay Vote. 51 - 50. Record Vote Number: 391 Pursuant to the order of 1/30/1975 as amended by the order of 4/11/1986.
+- 2025-07-15 — Senate amendment proposed (on the floor): Amendment SA 2853 proposed by Senator Thune for Senator Schmitt.
+- 2025-07-15 — Senate amendment submitted
