@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1765
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1765
@@ -22,10 +22,11 @@ Promoting United States Wireless Leadership Act of 2025
 - Rep. Walberg, Tim [R-MI-5] (W000798)
 - Rep. Clarke, Yvette D. [D-NY-9] (C001067)
 
-## Committees (2)
+## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Promoting United States Wireless Leadership Act of 2025
 - 2025-07-14 — Mr. Latta moved to suspend the rules and pass the bill, as amended.
 - 2025-07-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3220)
 - 2025-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2025-07-15 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
