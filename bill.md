@@ -17,19 +17,19 @@ This Act may be cited as the “Systemic Risk Authority Transparency Act”.
 
 - **(a)** *GAO review* Section 13(c)(4)(G)(iv) of the Federal Deposit Insurance Act (12 U.S.C. 1823(c)(4)(G)(iv)) is amended to read as follows:
   > - **(iv)** *GAO review*
-  >   - **(I)** *In general* The Comptroller General of the United States shall, not later than later than 60 days after a determination is made under clause (i), and again 180 days thereafter, review and report to the Congress on the determination under clause (i), including—
+  >   - **(I)** *In general* The Comptroller General of the United States shall, not later than 60 days after a determination is made under clause (i), and again 180 days thereafter, review and report to the Congress on the determination under clause (i), including—
   >     - **(aa)** the basis for the determination;
   >     - **(bb)** the purpose for which any action was taken pursuant to such clause;
   >     - **(cc)** the likely effect of the determination and such action on the incentives and conduct of insured depository institutions and uninsured depositors;
   >     - **(dd)** any mismanagement by the executives and board of the insured depository institution that contributed to the failure of the insured depository institution;
   >     - **(ee)** a review of the compensation practices of the insured depository institution;
   >     - **(ff)** any supervisory or regulatory shortcomings with respect to the appropriate Federal banking agency of the insured depository institution;
-  >     - **(gg)** any actions taken by the Federal banking regulators, Financial Stability Oversight Council, Treasury Department, and other relevant financial regulators in relation to the failure of the insured depository institution; and
+  >     - **(gg)** any actions taken by the Federal banking regulators, Financial Stability Oversight Council, Department of the Treasury, and other relevant financial regulators in relation to the failure of the insured depository institution; and
   >     - **(hh)** any additional relevant entities or activities that may have contributed to the failure of the insured depository institution, including with respect to auditing, accounting, credit rating agencies, investment bank underwriters, and emergency liquidity options such as loans from the Federal reserve banks or advances through the Federal Home Loan Bank system.
   >   - **(II)** *Rule of construction* Nothing in this clause or a report issued pursuant to this clause may be construed to limit the authority of a Federal agency to enforce violations of Federal statutes, rules, or orders.
 
-- **(b)** *Appropriate Federal banking agency report* Section 13(c) of the Federal Deposit Insurance Act (12 U.S.C. 1823(c)) is amended by adding at the end the following:
-  > - **(12)** *Appropriate Federal banking agency report*
+- **(b)** *Appropriate federal banking agency report* Section 13(c) of the Federal Deposit Insurance Act (12 U.S.C. 1823(c)) is amended by adding at the end the following:
+  > - **(12)** *Appropriate federal banking agency report*
   >   - **(A)** *In general* The appropriate Federal banking agency of an insured depository institution about which a determination is made under paragraph (4)(G)(i) shall, not later than 90 days after the date of such determination, and again 210 days thereafter, submit a report to the Congress that discloses the following:
   >     - **(i)** Subject to such redactions as the appropriate Federal banking agency determines appropriate of personally identifiable information about customers and other financial institutions (as such term is defined under section 11(e)(9)(D)), all—
   >       - **(I)** reports of examination and inspection that relate to the failed insured depository institution in the previous 3-year period;
@@ -38,11 +38,11 @@ This Act may be cited as the “Systemic Risk Authority Transparency Act”.
   >     - **(ii)** An examination of any mismanagement by the executives and board of the insured depository institution that contributed to the failure of the insured depository institution.
   >     - **(iii)** Any supervisory or regulatory shortcomings by such appropriate Federal banking agency with respect to the insured depository institution.
   >     - **(iv)** Any dynamics that the appropriate Federal banking agency determines may have contributed to the failure of the insured depository institution.
-  >     - **(v)** Any supervisory, regulatory, and legislative recommendations such appropriate Federal banking agency may have to improve the safety and soundness of similarly situated insured depository institutions, the banking system, and financial stability.
+  >     - **(v)** Any supervisory, regulatory, or legislative recommendations such appropriate Federal banking agency may have to improve the safety and soundness of similarly situated insured depository institutions, the banking system, and financial stability.
   >   - **(B)** *Protection of sensitive information*
   >     - **(i)** *Effect on privilege* The provision of any information by a Federal banking agency under this paragraph may not be construed as—
   >       - **(I)** waiving, destroying, or otherwise affecting any privilege applicable to the information; or
-  >       - **(II)** waiving any exemption applicable to the information under section 552 of title 5 United States Code (commonly known as the “Freedom of Information Act”).
+  >       - **(II)** waiving any exemption applicable to the information under section 552 of title 5, United States Code (commonly known as the “Freedom of Information Act”).
   >     - **(ii)** *Transparency*
   >       - **(I)** *In general* A Federal banking agency shall publish materials contained in a report required under subparagraph (A) to the fullest extent possible to promote transparency.
   >       - **(II)** *Consultation on omitting materials* If a Federal banking agency determines particular materials described under subclause (I) should not be published, the Federal banking agency shall consult with the chair and ranking member of the Committee on Financial Services of the House of Representatives and the chair and ranking member of the Committee on Banking, Housing, and Urban Affairs of the Senate.
