@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2316
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2316
@@ -22,9 +22,10 @@ Wetlands Conservation and Access Improvement Act of 2025
 - Rep. Gray, Adam [D-CA-13] (G000605)
 - Rep. McBride, Sarah [D-DE-At Large] (M001238)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Wetlands Conservation and Access Improvement Act of 2025
 - 2025-07-14 — Mr. Westerman moved to suspend the rules and pass the bill. (text: CR H3224)
 - 2025-07-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote.
 - 2025-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2025-07-15 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
