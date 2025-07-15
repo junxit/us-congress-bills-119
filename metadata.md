@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1729
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1729
@@ -16,9 +16,10 @@ Bolts Ditch Act
 
 - Rep. Neguse, Joe [D-CO-2] (N000191)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ Bolts Ditch Act
 - 2025-07-14 — Mr. Westerman moved to suspend the rules and pass the bill.
 - 2025-07-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3225)
 - 2025-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2025-07-15 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
