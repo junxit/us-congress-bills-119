@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3657
 congress: 119
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3657
@@ -47,3 +47,13 @@ Hydropower Licensing Transparency Act
 - 2025-07-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3221-3222)
 - 2025-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3221-3222)
 - 2025-07-15 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2026-06-10 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2026-09-16 — Message on Senate action sent to the House.
+- 2026-09-16 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4746-4747)
+- 2026-09-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2026-09-16 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
+- 2026-09-16 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
+- 2026-09-17 — Presented to President.
+- 2026-09-17 — Presented to President.
+- 2026-09-25 — Signed by President.
+- 2026-09-25 — Signed by President.
