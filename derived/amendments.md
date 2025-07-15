@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3645
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 3 executed, 0 stated and not applied.
+4 amendatory instructions. 3 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,12 +26,12 @@ to guess them.
 
 ### 15 U.S.C. § 77d-1
 
-> Section 4A(b)(1)(D) of the Securities Act of 1933 (15 U.S.C. 77d–1(b)(1)(D)) is amended by striking “$100,000” each place such term appears and inserting “$500,000”.
+> in subsection (b)(1)(D), by striking “$100,000” each place such term appears and inserting “$250,000”; and
 
 | | |
 |---|---|
 | Removed | `$100,000` |
-| Inserted | `$500,000` |
+| Inserted | `$250,000` |
 
 ### 15 U.S.C. § 77d-1
 
@@ -50,3 +50,14 @@ to guess them.
 |---|---|
 | Removed | `section 4(6)(B)` |
 | Inserted | `section 4(a)(6)(B)` |
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| `15 U.S.C. § 77d-1` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

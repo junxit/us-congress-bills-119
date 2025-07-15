@@ -15,7 +15,11 @@ This Act may be cited as the “Amendment for Crowdfunding Capital Enhancement a
 
 ## § 2. Offering threshold for reviews by public accountant
 
-- **(a)** *In general* Section 4A(b)(1)(D) of the Securities Act of 1933 (15 U.S.C. 77d–1(b)(1)(D)) is amended by striking “$100,000” each place such term appears and inserting “$500,000”.
-- **(b)** *Technical correction* Section 4A of the Securities Act of 1933 (15 U.S.C. 77d–1) is amended—
+- **(a)** *In general* Section 4A of the Securities Act of 1933 (15 U.S.C. 77d–1) is amended—
+  - **(1)** in subsection (b)(1)(D), by striking “$100,000” each place such term appears and inserting “$250,000”; and
+  - **(2)** by adding at the end the following:
+    > - **(i)** *Discretion to adjust amount* The Commission may increase the amount specified in subsections (b)(1)(D)(i) and (b)(1)(D)(ii) from $250,000 to an amount not greater than $400,000 upon the recommendation of the Office of the Advocate for Small Business Capital Formation and the Office of the Investor Advocate.
+
+- **(b)** *Technical corrections* Section 4A of the Securities Act of 1933 (15 U.S.C. 77d–1) is amended—
   - **(1)** by striking “section 4(6)” each place such term appears and inserting “section 4(a)(6)”; and
   - **(2)** by striking “section 4(6)(B)” each place such term appears and inserting “section 4(a)(6)(B)”.
