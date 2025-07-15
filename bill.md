@@ -36,4 +36,4 @@ This Act may be cited as the “Advancing the Mentor-Protégé Program for Small
   >       - **(ii)** a minority depository institution; or
   >       - **(iii)** a rural depository institution.
 
-- **(b)** *Effective date* This Act and the amendments made by this Act shall take effect 90 days after the date of the enactment of this Act.
+- **(b)** *Effective date* This Act and the amendment made by this Act shall take effect 90 days after the date of the enactment of this Act.

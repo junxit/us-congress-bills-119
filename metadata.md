@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3709
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3709
@@ -25,3 +25,8 @@ Advancing the Mentor-Protégé Program for Small Financial Institutions Act
 - 2025-06-04 — Introduced in House
 - 2025-06-04 — Introduced in House
 - 2025-06-04 — Referred to the House Committee on Financial Services.
+- 2025-06-10 — Committee Consideration and Mark-up Session Held
+- 2025-06-10 — Ordered to be Reported (Amended) by the Yeas and Nays: 50 - 1.
+- 2025-07-15 — Placed on the Union Calendar, Calendar No. 168.
+- 2025-07-15 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-205.
+- 2025-07-15 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-205.
