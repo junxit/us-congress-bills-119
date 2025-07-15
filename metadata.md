@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1770
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1770
@@ -22,9 +22,10 @@ Consumer Safety Technology Act
 - Rep. Trahan, Lori [D-MA-3] (T000482)
 - Rep. Houchin, Erin [R-IN-9] (H001093)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -48,3 +49,4 @@ Consumer Safety Technology Act
 - 2025-07-14 — Mr. Latta moved to suspend the rules and pass the bill.
 - 2025-07-14 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 336 - 36 (Roll no. 192). (text: CR H3212-3213)
 - 2025-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 336 - 36 (Roll no. 192).
+- 2025-07-15 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
