@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Securities Research Modernization Act”.
 
-## § 2. Provision of research
+## § 2. Provision of research report
 
 Section 2(a)(3) of the Securities Act of 1933 (15 U.S.C. 77b(a)(3)) is amended—
 
