@@ -20,6 +20,6 @@ Not later than October 1 of each year, the Inspector General of the Department o
 - **(1)** efforts to detect and prevent fraud, waste, and abuse;
 - **(2)** ability to conduct and supervise audits, investigations, and reviews;
 - **(3)** actions to identify opportunities for the programs of the Department of Housing and Urban Development to progress and succeed;
-- **(4)** recommendations to improve overall efficiency and public accountability;
+- **(4)** recommendations to improve overall efficiency and public accountability of the Department of Housing and Urban Development;
 - **(5)** assessment of the extent to which the Department of Housing and Urban Development has resources sufficient to carry out its statutory mission; and
 - **(6)** ongoing activities regarding any such additional work, as appropriate.
