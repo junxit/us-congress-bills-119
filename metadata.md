@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1709
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1709
@@ -23,9 +23,10 @@ Understanding Cybersecurity of Mobile Networks Act
 - Rep. Houchin, Erin [R-IN-9] (H001093)
 - Rep. Nunn, Zachary [R-IA-3] (N000193)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -49,3 +50,4 @@ Understanding Cybersecurity of Mobile Networks Act
 - 2025-07-14 — Mr. Latta moved to suspend the rules and pass the bill.
 - 2025-07-14 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 360 - 10 (Roll no. 191). (text: CR H3209-3210)
 - 2025-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 360 - 10 (Roll no. 191).
+- 2025-07-15 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
