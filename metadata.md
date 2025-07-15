@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2316
 congress: 119
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2316
@@ -47,3 +47,14 @@ Wetlands Conservation and Access Improvement Act of 2025
 - 2025-07-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote.
 - 2025-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
 - 2025-07-15 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2025-10-23 — Message on Senate action sent to the House.
+- 2025-10-23 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7734)
+- 2025-10-23 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2025-10-23 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.
+- 2025-10-23 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.
+- 2025-11-25 — Became Public Law No: 119-40.
+- 2025-11-25 — Became Public Law No: 119-40.
+- 2025-11-25 — Presented to President.
+- 2025-11-25 — Presented to President.
+- 2025-11-25 — Signed by President.
+- 2025-11-25 — Signed by President.
