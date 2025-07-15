@@ -1,7 +1,7 @@
 ---
 measure: H.R. 410
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 410
@@ -16,9 +16,10 @@ Alaska Native Vietnam Era Veterans Land Allotment Extension Act of 2025
 
 - Rep. Begich, Nicholas [R-AK-At Large] (B001323)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Alaska Native Vietnam Era Veterans Land Allotment Extension Act of 2025
 - 2025-07-14 — Mr. Westerman moved to suspend the rules and pass the bill.
 - 2025-07-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3227)
 - 2025-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3227)
+- 2025-07-15 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
