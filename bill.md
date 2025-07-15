@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Stop Illegal Entry Act”.
+This Act may be cited as the “Stop Illegal Entry Act of 2025”.
 
 ## § 2. Commission of crimes by aliens unlawfully present in the United States
 
