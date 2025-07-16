@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 4469
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4469
+
+> To amend title 38, United States Code, to prohibit the Secretary of Veterans Affairs from requiring evidence of a certain dose of radiation to determine that a veteran is a radiation-exposed veteran, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Providing Radiation Exposed Servicemembers Undisputed Medical Eligibility Act” or the “PRESUME Act”.
+
+## § 2. Prohibition of requirement of evidence of a certain dose of radiation to determine that a veteran is a radiation-exposed veteran
+
+Section 1112(c) of title 38, United States Code, is amended by adding at the end the following new paragraph:
+
+> - **(5)** The Secretary may not require evidence of a certain dose of radiation to determine that a veteran is a radiation-exposed veteran.
