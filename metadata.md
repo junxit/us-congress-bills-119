@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1442
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1442
@@ -48,3 +48,5 @@ To ban the sale of products with a high concentration of sodium nitrite to indiv
 - 2025-04-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 378 - 42 (Roll no. 108).
 - 2025-04-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 378 - 42 (Roll no. 108).
 - 2025-04-29 — The title of the measure was amended. Agreed to without objection.
+- 2025-04-30 — Received in the Senate.
+- 2025-07-16 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 116.
