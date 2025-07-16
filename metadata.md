@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1717
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1717
@@ -20,9 +20,10 @@ Communications Security Act
 
 - Rep. Joyce, John [R-PA-13] (J000302)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ Communications Security Act
 - 2025-07-15 — Motion to reconsider laid on the table Agreed to without objection.
 - 2025-07-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 380 - 33 (Roll no. 196). (text: 7/14/2025 CR 3218-3219)
 - 2025-07-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 380 - 33 (Roll no. 196).
+- 2025-07-16 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
