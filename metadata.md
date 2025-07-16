@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 580
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 580
@@ -20,10 +20,12 @@ Providing for consideration of the bill (H.R. 4016) making appropriations for th
 
 - House — Rules Committee
 
-## Recorded votes (2)
+## Recorded votes (4)
 
 - 2025-07-15 — [House 119-1-194](votes/house-119-1-0194.md) — On Ordering the Previous Question — **Passed** (211–210)
 - 2025-07-15 — [House 119-1-195](votes/house-119-1-0195.md) — On Agreeing to the Resolution — **Failed** (196–223)
+- 2025-07-16 — [House 119-1-197](votes/house-119-1-0197.md) — On Motion to Reconsider — **Passed** (215–211)
+- 2025-07-16 — [House 119-1-198](votes/house-119-1-0198.md) — On Agreeing to the Resolution — **Passed** (217–212)
 
 ## Actions
 
@@ -40,3 +42,7 @@ Providing for consideration of the bill (H.R. 4016) making appropriations for th
 - 2025-07-15 — The House Committee on Rules reported an original measure, H. Rept. 119-199, by Mr. Jack.
 - 2025-07-15 — The House Committee on Rules reported an original measure, H. Rept. 119-199, by Mr. Jack.
 - 2025-07-15 — The resolution provides for consideration of H.R. 4016 and H.R. 3633 under a structured rule, and H.R. 1919 and S. 1582 under a closed rule, with one hour of general debate on each bill. The resolution provides for a motion to recommit on H.R. 4016, H.R. 3633, and H.R. 1919, and a motion to commit on S. 1582.
+- 2025-07-16 — Considered as unfinished business. (consideration: CR H3332)
+- 2025-07-16 — On agreeing to the resolution Agreed to by recorded vote: 217 - 212 (Roll no. 198).
+- 2025-07-16 — On motion to reconsider Agreed to by the Yeas and Nays: 215 - 211 (Roll no. 197).
+- 2025-07-16 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 217 - 212 (Roll no. 198).
