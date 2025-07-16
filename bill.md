@@ -34,7 +34,7 @@ Section 408 of the Marine Mammal Protection Act of 1972 (16 U.S.C. 1421f–1) is
 - **(2)** by striking subsection (c) and inserting the following:
   > - **(c)** *Rescue and rapid response funds*
   >   - **(1)** *In general* There is established in the Treasury of the United States—
-  >     - **(A)** an interest-bearing fund to known as the “Joseph R. Geraci Marine Mammal Rescue and Rapid Response Fund”; and
+  >     - **(A)** an interest-bearing fund to be known as the “Joseph R. Geraci Marine Mammal Rescue and Rapid Response Fund”; and
   >     - **(B)** an interest-bearing fund to be known as the “Sea Turtle Rescue, Rehabilitation, and Rapid Response Fund”.
   >   - **(2)** *Use of funds* Amounts in the funds established under paragraph (1) shall be available only for use by the Secretary to provide emergency assistance.
 
