@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 314
 congress: 119
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 314
@@ -30,3 +30,7 @@ A resolution recognizing the importance of trademarks in the economy and the rol
 
 - 2025-07-08 — Introduced in Senate
 - 2025-07-08 — Referred to the Committee on the Judiciary.
+- 2025-07-17 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2025-07-17 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4490; text: 07/08/2025 CR S4259)
+- 2025-07-17 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2025-07-17 — Senate Committee on the Judiciary discharged by Unanimous Consent.
