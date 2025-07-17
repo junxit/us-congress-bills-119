@@ -1,7 +1,7 @@
 ---
 measure: S. 350
 congress: 119
-version: Introduced in Senate
+version: Reference Change Senate
 derived: true
 ---
 
