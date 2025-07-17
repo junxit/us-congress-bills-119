@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1919
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1919
@@ -158,6 +158,10 @@ Anti-CBDC Surveillance State Act
 
 - House — Financial Services Committee
 
+## Recorded votes (1)
+
+- 2025-07-17 — [House 119-1-201](votes/house-119-1-0201.md) — On Passage — **Passed** (219–210)
+
 ## Actions
 
 - 2025-03-06 — Introduced in House
@@ -168,3 +172,17 @@ Anti-CBDC Surveillance State Act
 - 2025-05-06 — Placed on the Union Calendar, Calendar No. 66.
 - 2025-05-06 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-92.
 - 2025-05-06 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-92.
+- 2025-07-15 — Rules Committee Resolution H. Res. 580 Reported to House. Rule provides for consideration of H.R. 4016, H.R. 3633, H.R. 1919 and S. 1582. The resolution provides for consideration of H.R. 4016 and H.R. 3633 under a structured rule, and H.R. 1919 and S. 1582 under a closed rule, with one hour of general debate on each bill. The resolution provides for a motion to recommit on H.R. 4016, H.R. 3633, and H.R. 1919, and a motion to commit on S. 1582.
+- 2025-07-17 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2025-07-17 — Considered as unfinished business. (consideration: CR H3450)
+- 2025-07-17 — Considered under the provisions of rule H. Res. 580. (consideration: CR H3427-3434)
+- 2025-07-17 — DEBATE - The House proceeded with one hour of debate on H.R. 1919.
+- 2025-07-17 — House amendment considered as adopted: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2025-07-17 — House amendment offered/reported by: Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2025-07-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-07-17 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2025-07-17 — On passage Passed by the Yeas and Nays: 219 - 210 (Roll no. 201). (text of amendment in the nature of a substitute: CR H3427-3428)
+- 2025-07-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 1919, the Chair put the question on passage of the bill and by voice vote, announced that the ayes had prevailed. Ms. Waters demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2025-07-17 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 219 - 210 (Roll no. 201).
+- 2025-07-17 — Rule provides for consideration of H.R. 4016, H.R. 3633, H.R. 1919 and S. 1582. The resolution provides for consideration of H.R. 4016 and H.R. 3633 under a structured rule, and H.R. 1919 and S. 1582 under a closed rule, with one hour of general debate on each bill. The resolution provides for a motion to recommit on H.R. 4016, H.R. 3633, and H.R. 1919, and a motion to commit on S. 1582.
+- 2025-07-17 — The previous question was ordered pursuant to the rule.
