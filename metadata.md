@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3944
 congress: 119
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 3944
@@ -76,3 +76,9 @@ Military Construction and Veterans Affairs, Agriculture, and Legislative Branch 
 - 2025-06-25 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2025-06-25 — The previous question was ordered pursuant to the rule.
 - 2025-06-30 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
+- 2025-07-17 — Cloture motion on the motion to proceed to the measure presented in Senate. (CR S4449)
+- 2025-07-17 — Committee on Appropriations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2025-07-17 — Committee on Appropriations. Reported by Senator Boozman with an amendment in the nature of a substitute. With written report No. 119-43.
+- 2025-07-17 — Committee on Appropriations. Reported by Senator Boozman with an amendment in the nature of a substitute. With written report No. 119-43.
+- 2025-07-17 — Motion to proceed to consideration of measure made in Senate. (CR S4449)
+- 2025-07-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 121.
