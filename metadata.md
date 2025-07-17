@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4
 congress: 119
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 4
@@ -16,13 +16,57 @@ Rescissions Act of 2025
 
 - Rep. Scalise, Steve [R-LA-1] (S001176)
 
-## Cosponsors (5)
+## Cosponsors (49)
 
 - Rep. Cole, Tom [R-OK-4] (C001053)
 - Rep. Bean, Aaron [R-FL-4] (B001314)
 - Rep. Sessions, Pete [R-TX-17] (S000250)
 - Rep. Greene, Marjorie Taylor [R-GA-14] (G000596)
 - Rep. Moore, Blake D. [R-UT-1] (M001213)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Blunt Rochester, Lisa [D-DE] (B001303)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Luján, Ben Ray [D-NM] (L000570)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Blunt Rochester, Lisa [D-DE] (B001303)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
 
 ## Committees (3)
 
@@ -30,12 +74,31 @@ Rescissions Act of 2025
 - Senate — Budget Committee
 - Senate — Appropriations Committee
 
-## Recorded votes (4)
+## Recorded votes (23)
 
 - 2025-06-12 — [House 119-1-167](votes/house-119-1-0167.md) — On Motion to Recommit — **Failed** (208–218)
 - 2025-06-12 — [House 119-1-168](votes/house-119-1-0168.md) — On Passage — **Passed** (214–212)
 - 2025-07-15 — [Senate 119-1-391](votes/senate-119-1-0391.md) — On the Motion to Discharge — **Motion to Discharge Agreed to** (50–50)
 - 2025-07-15 — [Senate 119-1-392](votes/senate-119-1-0392.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (50–50)
+- 2025-07-16 — [Senate 119-1-393](votes/senate-119-1-0393.md) — On the Amendment — **Amendment Rejected** (49–50)
+- 2025-07-16 — [Senate 119-1-394](votes/senate-119-1-0394.md) — On the Motion to Recommit — **Motion to Recommit Rejected** (48–51)
+- 2025-07-16 — [Senate 119-1-395](votes/senate-119-1-0395.md) — On the Motion to Recommit — **Motion to Recommit Rejected** (48–51)
+- 2025-07-16 — [Senate 119-1-396](votes/senate-119-1-0396.md) — On the Motion to Recommit — **Motion to Recommit Rejected** (48–51)
+- 2025-07-16 — [Senate 119-1-397](votes/senate-119-1-0397.md) — On the Amendment — **Amendment Rejected** (47–52)
+- 2025-07-16 — [Senate 119-1-398](votes/senate-119-1-0398.md) — On the Motion to Recommit — **Motion to Recommit Rejected** (48–51)
+- 2025-07-16 — [Senate 119-1-399](votes/senate-119-1-0399.md) — On the Motion to Recommit — **Motion to Recommit Rejected** (47–52)
+- 2025-07-16 — [Senate 119-1-400](votes/senate-119-1-0400.md) — On the Amendment — **Amendment Rejected** (46–51)
+- 2025-07-16 — [Senate 119-1-401](votes/senate-119-1-0401.md) — On the Motion to Recommit — **Motion to Recommit Rejected** (47–50)
+- 2025-07-16 — [Senate 119-1-402](votes/senate-119-1-0402.md) — On the Amendment — **Amendment Rejected** (48–51)
+- 2025-07-16 — [Senate 119-1-403](votes/senate-119-1-0403.md) — On the Motion to Recommit — **Motion to Recommit Rejected** (48–51)
+- 2025-07-16 — [Senate 119-1-404](votes/senate-119-1-0404.md) — On the Amendment — **Amendment Rejected** (48–51)
+- 2025-07-17 — [Senate 119-1-405](votes/senate-119-1-0405.md) — On the Motion to Table — **Motion to Table Agreed to** (51–47)
+- 2025-07-17 — [Senate 119-1-406](votes/senate-119-1-0406.md) — On the Amendment — **Amendment Rejected** (47–51)
+- 2025-07-17 — [Senate 119-1-407](votes/senate-119-1-0407.md) — On the Amendment — **Amendment Rejected** (49–50)
+- 2025-07-17 — [Senate 119-1-408](votes/senate-119-1-0408.md) — On the Amendment — **Amendment Rejected** (48–51)
+- 2025-07-17 — [Senate 119-1-409](votes/senate-119-1-0409.md) — On the Amendment — **Amendment Rejected** (48–51)
+- 2025-07-17 — [Senate 119-1-410](votes/senate-119-1-0410.md) — On the Amendment — **Amendment Agreed to** (52–47)
+- 2025-07-17 — [Senate 119-1-411](votes/senate-119-1-0411.md) — On Passage of the Bill — **Bill Passed** (51–48)
 
 ## Actions
 
@@ -67,3 +130,159 @@ Rescissions Act of 2025
 - 2025-07-15 — Senate Committee on Appropriations; the Budget discharged by Yea-Nay Vote. 51 - 50. Record Vote Number: 391 Pursuant to the order of 1/30/1975 as amended by the order of 4/11/1986.
 - 2025-07-15 — Senate amendment proposed (on the floor): Amendment SA 2853 proposed by Senator Thune for Senator Schmitt.
 - 2025-07-15 — Senate amendment submitted
+- 2025-07-16 — 
+- 2025-07-16 — 
+- 2025-07-16 — 
+- 2025-07-16 — 
+- 2025-07-16 — 
+- 2025-07-16 — 
+- 2025-07-16 — 
+- 2025-07-16 — 
+- 2025-07-16 — 
+- 2025-07-16 — 
+- 2025-07-16 — 
+- 2025-07-16 — 
+- 2025-07-16 — 
+- 2025-07-16 — 
+- 2025-07-16 — 
+- 2025-07-16 — 
+- 2025-07-16 — 
+- 2025-07-16 — 
+- 2025-07-16 — 
+- 2025-07-16 — 
+- 2025-07-16 — 
+- 2025-07-16 — 
+- 2025-07-16 — 
+- 2025-07-16 — 
+- 2025-07-16 — 
+- 2025-07-16 — 
+- 2025-07-16 — 
+- 2025-07-16 — 
+- 2025-07-16 — 
+- 2025-07-16 — 
+- 2025-07-16 — 
+- 2025-07-16 — 
+- 2025-07-16 — 
+- 2025-07-16 — 
+- 2025-07-16 — 
+- 2025-07-16 — 
+- 2025-07-16 — 
+- 2025-07-16 — 
+- 2025-07-16 — 
+- 2025-07-16 — 
+- 2025-07-16 — 
+- 2025-07-16 — 
+- 2025-07-16 — 
+- 2025-07-16 — 
+- 2025-07-16 — 
+- 2025-07-16 — Amendment SA 2855 not agreed to in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 397.
+- 2025-07-16 — Amendment SA 2855 proposed by Senator Baldwin to Amendment SA 2853. (consideration: CR S4403) To strike the rescissions of funding for the Corporation for Public Broadcasting.
+- 2025-07-16 — Amendment SA 2856 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 393.
+- 2025-07-16 — Amendment SA 2856 proposed by Senator Coons to Amendment SA 2853. (consideration: CR S4400-4401) To strike the recession of amounts made available for international disaster assistance, to ensure the United States can compete with China and maintain our long tradition of providing lifesaving aid.
+- 2025-07-16 — Amendment SA 2862 not agreed to in Senate by Yea-Nay Vote. 46 - 51. Record Vote Number: 400.
+- 2025-07-16 — Amendment SA 2862 proposed by Senator Schiff to Amendment SA 2853. (consideration: CR S4405) To reduce the amount rescinded from Global Health programs to preserve funding for programs addressing diseases.
+- 2025-07-16 — Amendment SA 2878 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 402.
+- 2025-07-16 — Amendment SA 2878 proposed by Senator Rosen to Amendment SA 2853. (consideration: CR S4406-4407) To strike the rescission of funds appropriated for Global Health programs, including family planning and reproductive health.
+- 2025-07-16 — Amendment SA 2887 proposed by Senator Booker to Amendment SA 2853. (consideration: CR S4407-4408) To strike the rescission of funds appropriated for the Feed the Future Program to improve global food security and agricultural resiliency and support agriculture research that benefits United States agribusinesses and universities.
+- 2025-07-16 — Considered by Senate. (consideration: CR S4381, S4413)
+- 2025-07-16 — Considered by Senate. (consideration: CR S4381-4414)
+- 2025-07-16 — Motion by Senator Cortez Masto to recommit to Senate Committee on Appropriations with instructions rejected in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 394.
+- 2025-07-16 — Motion by Senator Gallego to recommit to Senate Committee on Appropriations with instructions rejected in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 395.
+- 2025-07-16 — Motion by Senator Hirono to recommit to Senate Committee on Appropriations with instructions rejected in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 396.
+- 2025-07-16 — Motion by Senator Kaine to recommit to Senate Committee on Appropriations with instructions rejected in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 403.
+- 2025-07-16 — Motion by Senator Markey to recommit to Senate Committee on Appropriations with instructions rejected in Senate by Yea-Nay Vote. 47 - 50. Record Vote Number: 401.
+- 2025-07-16 — Motion by Senator Schumer to recommit to Senate Committee on Appropriations with instructions rejected in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 399.
+- 2025-07-16 — Motion by Senator Warner to recommit to Senate Committee on Appropriations with instructions rejected in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 398.
+- 2025-07-16 — Roll call votes on amendments in Senate: Amendment SA 2855 not agreed to in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 397.
+- 2025-07-16 — Roll call votes on amendments in Senate: Amendment SA 2856 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 393.
+- 2025-07-16 — Roll call votes on amendments in Senate: Amendment SA 2862 not agreed to in Senate by Yea-Nay Vote. 46 - 51. Record Vote Number: 400.
+- 2025-07-16 — Roll call votes on amendments in Senate: Amendment SA 2878 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 402.
+- 2025-07-16 — Senate amendment not agreed to: Amendment SA 2855 not agreed to in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 397.
+- 2025-07-16 — Senate amendment not agreed to: Amendment SA 2856 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 393.
+- 2025-07-16 — Senate amendment not agreed to: Amendment SA 2862 not agreed to in Senate by Yea-Nay Vote. 46 - 51. Record Vote Number: 400.
+- 2025-07-16 — Senate amendment not agreed to: Amendment SA 2878 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 402.
+- 2025-07-16 — Senate amendment proposed (on the floor): Amendment SA 2855 proposed by Senator Baldwin to Amendment SA 2853.
+- 2025-07-16 — Senate amendment proposed (on the floor): Amendment SA 2856 proposed by Senator Coons to Amendment SA 2853.
+- 2025-07-16 — Senate amendment proposed (on the floor): Amendment SA 2862 proposed by Senator Schiff to Amendment SA 2853.
+- 2025-07-16 — Senate amendment proposed (on the floor): Amendment SA 2878 proposed by Senator Rosen to Amendment SA 2853.
+- 2025-07-16 — Senate amendment proposed (on the floor): Amendment SA 2887 proposed by Senator Booker to Amendment SA 2853.
+- 2025-07-16 — Senate amendment submitted
+- 2025-07-16 — Senate amendment submitted
+- 2025-07-16 — Senate amendment submitted
+- 2025-07-16 — Senate amendment submitted
+- 2025-07-16 — Senate amendment submitted
+- 2025-07-16 — Senate amendment submitted
+- 2025-07-16 — Senate amendment submitted
+- 2025-07-16 — Senate amendment submitted
+- 2025-07-16 — Senate amendment submitted
+- 2025-07-16 — Senate amendment submitted
+- 2025-07-16 — Senate amendment submitted
+- 2025-07-16 — Senate amendment submitted
+- 2025-07-16 — Senate amendment submitted
+- 2025-07-16 — Senate amendment submitted
+- 2025-07-16 — Senate amendment submitted
+- 2025-07-16 — Senate amendment submitted
+- 2025-07-16 — Senate amendment submitted
+- 2025-07-16 — Senate amendment submitted
+- 2025-07-16 — Senate amendment submitted
+- 2025-07-16 — Senate amendment submitted
+- 2025-07-16 — Senate amendment submitted
+- 2025-07-16 — Senate amendment submitted
+- 2025-07-16 — Senate amendment submitted
+- 2025-07-16 — Senate amendment submitted
+- 2025-07-16 — Senate amendment submitted
+- 2025-07-16 — Senate amendment submitted
+- 2025-07-16 — Senate amendment submitted
+- 2025-07-16 — Senate amendment submitted
+- 2025-07-16 — Senate amendment submitted
+- 2025-07-16 — Senate amendment submitted
+- 2025-07-16 — Senate amendment submitted
+- 2025-07-16 — Senate amendment submitted
+- 2025-07-16 — Senate amendment submitted
+- 2025-07-16 — Senate amendment submitted
+- 2025-07-16 — Senate amendment submitted
+- 2025-07-16 — Senate amendment submitted
+- 2025-07-16 — Senate amendment submitted
+- 2025-07-16 — Senate amendment submitted
+- 2025-07-16 — Senate amendment submitted
+- 2025-07-16 — Senate amendment submitted
+- 2025-07-16 — Senate amendment submitted
+- 2025-07-16 — Senate amendment submitted
+- 2025-07-16 — Senate amendment submitted
+- 2025-07-16 — Senate amendment submitted
+- 2025-07-16 — Senate amendment submitted
+- 2025-07-17 — Amendment SA 2853 agreed to in Senate by Yea-Nay Vote. 52 - 47. Record Vote Number: 410.
+- 2025-07-17 — Amendment SA 2863 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 409.
+- 2025-07-17 — Amendment SA 2863 proposed by Senator Merkley to Amendment SA 2853. (consideration: CR S4411-4412) To strike the paragraph of the bill that rescinds $15,000,000 that had been appropriated for the United States Institute of Peace.
+- 2025-07-17 — Amendment SA 2865 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 406.
+- 2025-07-17 — Amendment SA 2865 proposed by Senator Murkowski to Amendment SA 2853. (consideration: CR S4410) To improve the bill.
+- 2025-07-17 — Amendment SA 2887 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 404.
+- 2025-07-17 — Amendment SA 2893 proposed by Senator Kelly for Senator Collins to Amendment SA 2853. (consideration: CR S4408-4409) In the nature of a substitute.
+- 2025-07-17 — Amendment SA 2896 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 408.
+- 2025-07-17 — Amendment SA 2896 proposed by Senator Ossoff to Amendment SA 2853. (consideration: CR S4411) To reduce the amount rescinded from International Organizations and Programs and to ensure that UNICEF receives all of the funding previously appropriated to it by Congress.
+- 2025-07-17 — Amendment SA 2898 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 407.
+- 2025-07-17 — Amendment SA 2898 proposed by Senator Shaheen to Amendment SA 2853. (consideration: CR S4410-4411) To reduce the amount rescinded from Assistance to Europe, Eurasia, and Central Asia.
+- 2025-07-17 — Message on Senate action sent to the House.
+- 2025-07-17 — Motion by Senator Kim to recommit to Senate Committee on Appropriations with instructions rejected in Senate by Voice Vote.
+- 2025-07-17 — Motion by Senator Lujan to recommit to Senate Committee on Appropriations with instructions rejected in Senate by Voice Vote.
+- 2025-07-17 — Motion to table amendment SA 2893 agreed to in Senate by Yea-Nay Vote. 51 - 47. Record Vote Number: 405.
+- 2025-07-17 — Passed Senate with an amendment by Yea-Nay Vote. 51 - 48. Record Vote Number: 411.
+- 2025-07-17 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 51 - 48. Record Vote Number: 411.
+- 2025-07-17 — Roll call votes on amendments in Senate: Amendment SA 2853 agreed to in Senate by Yea-Nay Vote. 52 - 47. Record Vote Number: 410.
+- 2025-07-17 — Roll call votes on amendments in Senate: Amendment SA 2863 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 409.
+- 2025-07-17 — Roll call votes on amendments in Senate: Amendment SA 2865 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 406.
+- 2025-07-17 — Roll call votes on amendments in Senate: Amendment SA 2887 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 404.
+- 2025-07-17 — Roll call votes on amendments in Senate: Amendment SA 2896 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 408.
+- 2025-07-17 — Roll call votes on amendments in Senate: Amendment SA 2898 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 407.
+- 2025-07-17 — Roll call votes on amendments in Senate: Motion to table amendment SA 2893 agreed to in Senate by Yea-Nay Vote. 51 - 47. Record Vote Number: 405.
+- 2025-07-17 — Senate amendment agreed to: Amendment SA 2853 agreed to in Senate by Yea-Nay Vote. 52 - 47. Record Vote Number: 410.
+- 2025-07-17 — Senate amendment not agreed to: Amendment SA 2863 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 409.
+- 2025-07-17 — Senate amendment not agreed to: Amendment SA 2865 not agreed to in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 406.
+- 2025-07-17 — Senate amendment not agreed to: Amendment SA 2887 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 404.
+- 2025-07-17 — Senate amendment not agreed to: Amendment SA 2896 not agreed to in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 408.
+- 2025-07-17 — Senate amendment not agreed to: Amendment SA 2898 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 407.
+- 2025-07-17 — Senate amendment proposed (on the floor): Amendment SA 2863 proposed by Senator Merkley to Amendment SA 2853.
+- 2025-07-17 — Senate amendment proposed (on the floor): Amendment SA 2865 proposed by Senator Murkowski to Amendment SA 2853.
+- 2025-07-17 — Senate amendment proposed (on the floor): Amendment SA 2893 proposed by Senator Kelly for Senator Collins to Amendment SA 2853.
+- 2025-07-17 — Senate amendment proposed (on the floor): Amendment SA 2896 proposed by Senator Ossoff to Amendment SA 2853.
+- 2025-07-17 — Senate amendment proposed (on the floor): Amendment SA 2898 proposed by Senator Shaheen to Amendment SA 2853.
