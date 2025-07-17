@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 4538
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4538
+
+> To prohibit covered entities from requiring consumers to solely use digital monthly statements, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Protecting Against Paperless and Electronic Requirements Act” or the “PAPER Act”.
+
+## § 2. Requirement
+
+- **(a)** *In general* Each covered entity shall offer each consumer of such entity the option of receiving paper copies of their monthly statements.
+- **(b)** *Prohibition* A covered entity may not condition the use of any services offered by such entity on the sole use of digital monthly statements by a consumer.
+- **(c)** *Definitions*
+  - **(1)** *Depository institution* The term depository institution has the meaning given the term in section 3 of the Federal Deposit Act.
+  - **(2)** *Credit union* The term credit union has the meaning given the term in section 101 of the Federal Credit Union Act.
+  - **(3)** *Covered entity* The term covered entity means a depository institution or a credit union.
