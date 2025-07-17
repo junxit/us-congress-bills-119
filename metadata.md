@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4
 congress: 119
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4
@@ -286,3 +286,10 @@ Rescissions Act of 2025
 - 2025-07-17 — Senate amendment proposed (on the floor): Amendment SA 2893 proposed by Senator Kelly for Senator Collins to Amendment SA 2853.
 - 2025-07-17 — Senate amendment proposed (on the floor): Amendment SA 2896 proposed by Senator Ossoff to Amendment SA 2853.
 - 2025-07-17 — Senate amendment proposed (on the floor): Amendment SA 2898 proposed by Senator Shaheen to Amendment SA 2853.
+- 2025-07-18 — House agreed to Senate amendment pursuant to H. Res. 590.
+- 2025-07-18 — Presented to President.
+- 2025-07-18 — Presented to President.
+- 2025-07-24 — Became Public Law No: 119-28.
+- 2025-07-24 — Became Public Law No: 119-28.
+- 2025-07-24 — Signed by President.
+- 2025-07-24 — Signed by President.
