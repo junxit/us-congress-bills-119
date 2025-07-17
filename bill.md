@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 4534
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4534
+
+> To codify Executive Order 14191 relating to expanding educational freedom and opportunity for families, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Expanding Educational Freedom and Opportunity for Families Act”.
+
+## § 2. Codification of Executive Order 14191
+
+- **(a)** *In general* Executive Order 14191 (90 Fed. Reg. 8859; relating to expanding educational freedom and opportunity for families) shall have the force and effect of law.
+- **(b)** *Rule of construction* Nothing in this Act shall be construed as altering or otherwise affecting the determination of whether a private, religious, or parochial elementary or secondary school—
+  - **(1)** is receiving Federal financial assistance for the purpose of determining whether such school is subject to the requirements of title IX of the Education Amendments of 1972 (20 U.S.C. 1681 et seq.); or
+  - **(2)** is or is not a state actor, including for purposes of determining liability under the Fourteenth Amendment to the Constitution.
