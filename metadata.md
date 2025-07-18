@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4016
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4016
@@ -20,8 +20,230 @@ Department of Defense Appropriations Act, 2026
 
 - House — Appropriations Committee
 
+## Recorded votes (9)
+
+- 2025-07-18 — [House 119-1-204](votes/house-119-1-0204.md) — On Agreeing to the Amendment — **Failed** (63–365)
+- 2025-07-18 — [House 119-1-205](votes/house-119-1-0205.md) — On Agreeing to the Amendment — **Failed** (6–421)
+- 2025-07-18 — [House 119-1-206](votes/house-119-1-0206.md) — On Agreeing to the Amendment — **Failed** (104–326)
+- 2025-07-18 — [House 119-1-207](votes/house-119-1-0207.md) — On Agreeing to the Amendment — **Failed** (6–422)
+- 2025-07-18 — [House 119-1-208](votes/house-119-1-0208.md) — On Agreeing to the Amendment — **Failed** (30–400)
+- 2025-07-18 — [House 119-1-209](votes/house-119-1-0209.md) — On Agreeing to the Amendment — **Failed** (76–353)
+- 2025-07-18 — [House 119-1-210](votes/house-119-1-0210.md) — On Agreeing to the Amendment — **Failed** (76–355)
+- 2025-07-18 — [House 119-1-211](votes/house-119-1-0211.md) — On Motion to Recommit — **Failed** (211–219)
+- 2025-07-18 — [House 119-1-212](votes/house-119-1-0212.md) — On Passage — **Passed** (221–209)
+
 ## Actions
 
 - 2025-06-16 — Placed on the Union Calendar, Calendar No. 129.
 - 2025-06-16 — The House Committee on Appropriations reported an original measure, H. Rept. 119-162, by Mr. Calvert.
 - 2025-06-16 — The House Committee on Appropriations reported an original measure, H. Rept. 119-162, by Mr. Calvert.
+- 2025-07-15 — Rules Committee Resolution H. Res. 580 Reported to House. Rule provides for consideration of H.R. 4016, H.R. 3633, H.R. 1919 and S. 1582. The resolution provides for consideration of H.R. 4016 and H.R. 3633 under a structured rule, and H.R. 1919 and S. 1582 under a closed rule, with one hour of general debate on each bill. The resolution provides for a motion to recommit on H.R. 4016, H.R. 3633, and H.R. 1919, and a motion to commit on S. 1582.
+- 2025-07-16 — Amendments en bloc (A001) offered by Mr. Calvert. (consideration: CR H3353-3355; text: CR H3353-3354)
+- 2025-07-16 — Amendments en bloc (A002) offered by Mr. Calvert. (consideration: CR H3355-3356; text: CR H3355-3356)
+- 2025-07-16 — Amendments en bloc (A003) offered by Mr. Calvert. (consideration: CR H3356-3358; text: CR H3356-3357)
+- 2025-07-16 — Amendments en bloc (A004) offered by Mr. Calvert. (consideration: CR H3358-3359; text: CR H3358-3359)
+- 2025-07-16 — Amendments en bloc (A005) offered by Mr. Calvert. (consideration: CR H3359-3361; text: CR H3359-3360)
+- 2025-07-16 — Amendments en bloc (A006) offered by Mr. Calvert. (consideration: CR H3361-3362; text: H3361-3362)
+- 2025-07-16 — Amendments en bloc (A007) offered by Mr. Calvert. (consideration: CR H3362-3363; text: CR H3362-3363 )
+- 2025-07-16 — Considered under the provisions of rule H. Res. 580. (consideration: CR H3333-3363)
+- 2025-07-16 — DEBATE - Pursuant to the provisions of H.Res. 580, the Committee of the Whole proceeded with 20 minutes of debate on the Calvert amendment en bloc No. 1.
+- 2025-07-16 — DEBATE - Pursuant to the provisions of H.Res. 580, the Committee of the Whole proceeded with 20 minutes of debate on the Calvert amendment en bloc No. 2.
+- 2025-07-16 — DEBATE - Pursuant to the provisions of H.Res. 580, the Committee of the Whole proceeded with 20 minutes of debate on the Calvert amendment en bloc No. 3.
+- 2025-07-16 — DEBATE - Pursuant to the provisions of H.Res. 580, the Committee of the Whole proceeded with 20 minutes of debate on the Calvert amendment en bloc No. 4.
+- 2025-07-16 — DEBATE - Pursuant to the provisions of H.Res. 580, the Committee of the Whole proceeded with 20 minutes of debate on the Calvert amendment en bloc No. 5.
+- 2025-07-16 — DEBATE - Pursuant to the provisions of H.Res. 580, the Committee of the Whole proceeded with 20 minutes of debate on the Calvert amendment en bloc No. 6.
+- 2025-07-16 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 4016.
+- 2025-07-16 — House Amendment Offered
+- 2025-07-16 — House Amendment Offered
+- 2025-07-16 — House Amendment Offered
+- 2025-07-16 — House Amendment Offered
+- 2025-07-16 — House Amendment Offered
+- 2025-07-16 — House Amendment Offered
+- 2025-07-16 — House Amendment Offered
+- 2025-07-16 — House amendment agreed to: On agreeing to the Calvert amendments (A001) Agreed to by voice vote.
+- 2025-07-16 — House amendment agreed to: On agreeing to the Calvert amendments (A002) Agreed to by voice vote.
+- 2025-07-16 — House amendment agreed to: On agreeing to the Calvert amendments (A003) Agreed to by voice vote.
+- 2025-07-16 — House amendment agreed to: On agreeing to the Calvert amendments (A004) Agreed to by voice vote.
+- 2025-07-16 — House amendment agreed to: On agreeing to the Calvert amendments (A005) Agreed to by voice vote.
+- 2025-07-16 — House amendment agreed to: On agreeing to the Calvert amendments (A006) Agreed to by voice vote.
+- 2025-07-16 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 580 and Rule XVIII.
+- 2025-07-16 — On agreeing to the Calvert amendments (A001) Agreed to by voice vote.
+- 2025-07-16 — On agreeing to the Calvert amendments (A002) Agreed to by voice vote.
+- 2025-07-16 — On agreeing to the Calvert amendments (A003) Agreed to by voice vote.
+- 2025-07-16 — On agreeing to the Calvert amendments (A004) Agreed to by voice vote.
+- 2025-07-16 — On agreeing to the Calvert amendments (A005) Agreed to by voice vote.
+- 2025-07-16 — On agreeing to the Calvert amendments (A006) Agreed to by voice vote.
+- 2025-07-16 — Rule provides for consideration of H.R. 4016, H.R. 3633, H.R. 1919 and S. 1582. The resolution provides for consideration of H.R. 4016 and H.R. 3633 under a structured rule, and H.R. 1919 and S. 1582 under a closed rule, with one hour of general debate on each bill. The resolution provides for a motion to recommit on H.R. 4016, H.R. 3633, and H.R. 1919, and a motion to commit on S. 1582.
+- 2025-07-16 — The Speaker designated the Honorable Randy Fine to act as Chairman of the Committee.
+- 2025-07-17 — Amendment (A008) offered by Mr. Davidson. (consideration: CR H3435-3436; text: CR H3435)
+- 2025-07-17 — Amendment (A009) offered by Mr. Gosar. (consideration: CR H3436-3438; text: CR H3436)
+- 2025-07-17 — Amendment (A010) offered by Ms. Greene (GA). (consideration: CR H3438-3439, H3462; text: CR H3438)
+- 2025-07-17 — Amendment (A011) offered by Ms. Greene (GA). (consideration: CR H3439-3440, H3463; text: CR H3439)
+- 2025-07-17 — Amendment (A012) offered by Ms. Greene (GA). (consideration: CR H3440-3441, H3463-3464; text: CR H3440)
+- 2025-07-17 — Amendment (A013) offered by Ms. Greene (GA). (consideration: CR H3441-3442, H3464; text: CR H3441)
+- 2025-07-17 — Amendment (A014) offered by Ms. Greene (GA). (consideration: CR H3442-3443, H3465; text: CR H3442)
+- 2025-07-17 — Amendment (A015) offered by Ms. Greene (GA). (consideration: CR H3443-3444, H3465-3466; text: CR H3443)
+- 2025-07-17 — Amendment (A016) offered by Mr. Joyce (PA). (consideration: CR H3444; text: CR H3444)
+- 2025-07-17 — Amendment (A017) offered by Mrs. Miller-Meeks. (consideration: CR H3444-3445; text: CR H3444)
+- 2025-07-17 — Amendment (A018) offered by Mr. Steube. (consideration: CR H3445-3447, H3466; text: CR H3445)
+- 2025-07-17 — Amendment (A019) offered by Ms. Tenney. (consideration: CR H3447-3448; text: CR H3447)
+- 2025-07-17 — Amendment (A020) offered by Mr. Tiffany. (consideration: CR H3448; text: CR H3448)
+- 2025-07-17 — By unanimous consent, the Miller-Meeks amendment was withdrawn.
+- 2025-07-17 — By unanimous consent, the Tenney amendment was withdrawn.
+- 2025-07-17 — Committee of the Whole House on the state of the Union rises leaving H.R. 4016 as unfinished business.
+- 2025-07-17 — Committee of the Whole House on the state of the Union rises leaving H.R. 4016 as unfinished business.
+- 2025-07-17 — Considered as unfinished business. (consideration: CR H3434-3448)
+- 2025-07-17 — DEBATE - Pursuant to the provisions of H. Res. 580, the Committee of the Whole proceeded with 10 minutes of debate on the Davidson amendment No. 57.
+- 2025-07-17 — DEBATE - Pursuant to the provisions of H. Res. 580, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment No. 106.
+- 2025-07-17 — DEBATE - Pursuant to the provisions of H. Res. 580, the Committee of the Whole proceeded with 10 minutes of debate on the Greene (GA) amendment No. 111.
+- 2025-07-17 — DEBATE - Pursuant to the provisions of H. Res. 580, the Committee of the Whole proceeded with 10 minutes of debate on the Greene (GA) amendment No. 112.
+- 2025-07-17 — DEBATE - Pursuant to the provisions of H. Res. 580, the Committee of the Whole proceeded with 10 minutes of debate on the Greene (GA) amendment No. 113.
+- 2025-07-17 — DEBATE - Pursuant to the provisions of H. Res. 580, the Committee of the Whole proceeded with 10 minutes of debate on the Greene (GA) amendment No. 114.
+- 2025-07-17 — DEBATE - Pursuant to the provisions of H. Res. 580, the Committee of the Whole proceeded with 10 minutes of debate on the Greene (GA) amendment No. 115.
+- 2025-07-17 — DEBATE - Pursuant to the provisions of H. Res. 580, the Committee of the Whole proceeded with 10 minutes of debate on the Greene (GA) amendment No. 116.
+- 2025-07-17 — DEBATE - Pursuant to the provisions of H. Res. 580, the Committee of the Whole proceeded with 10 minutes of debate on the Joyce (PA) amendment No. 159.
+- 2025-07-17 — DEBATE - Pursuant to the provisions of H. Res. 580, the Committee of the Whole proceeded with 10 minutes of debate on the Miller-Meeks amendment No. 221.
+- 2025-07-17 — DEBATE - Pursuant to the provisions of H. Res. 580, the Committee of the Whole proceeded with 10 minutes of debate on the Steube amendment No. 277.
+- 2025-07-17 — DEBATE - Pursuant to the provisions of H. Res. 580, the Committee of the Whole proceeded with 10 minutes of debate on the Tenney amendment No. 287.
+- 2025-07-17 — DEBATE - Pursuant to the provisions of H. Res. 580, the Committee of the Whole proceeded with 10 minutes of debate on the Tiffany amendment No. 293.
+- 2025-07-17 — DEBATE - Pursuant to the provisions of H.Res. 580, the Committee of the Whole proceeded with 20 minutes of debate on the Calvert amendment en bloc No. 7.
+- 2025-07-17 — House Amendment Offered
+- 2025-07-17 — House Amendment Offered
+- 2025-07-17 — House Amendment Offered
+- 2025-07-17 — House Amendment Offered
+- 2025-07-17 — House Amendment Offered
+- 2025-07-17 — House Amendment Offered
+- 2025-07-17 — House Amendment Offered
+- 2025-07-17 — House Amendment Offered
+- 2025-07-17 — House Amendment Offered
+- 2025-07-17 — House Amendment Offered
+- 2025-07-17 — House Amendment Offered
+- 2025-07-17 — House Amendment Offered
+- 2025-07-17 — House Amendment Offered
+- 2025-07-17 — House amendment agreed to: On agreeing to the Calvert amendments (A007) Agreed to by voice vote.
+- 2025-07-17 — House amendment agreed to: On agreeing to the Joyce (PA) amendment (A016) Agreed to by voice vote.
+- 2025-07-17 — House amendment agreed to: On agreeing to the Tiffany amendment (A020) Agreed to by voice vote.
+- 2025-07-17 — House amendment not agreed to: On agreeing to the Davidson amendment (A008) Failed by voice vote.
+- 2025-07-17 — House amendment not agreed to: On agreeing to the Gosar amendment (A009) Failed by voice vote.
+- 2025-07-17 — Mr. Calvert moved that the committee rise.
+- 2025-07-17 — Mr. Calvert moved that the committee rise.
+- 2025-07-17 — On agreeing to the Calvert amendments (A007) Agreed to by voice vote. (consideration: CR H3444)
+- 2025-07-17 — On agreeing to the Davidson amendment (A008) Failed by voice vote.
+- 2025-07-17 — On agreeing to the Gosar amendment (A009) Failed by voice vote.
+- 2025-07-17 — On agreeing to the Joyce (PA) amendment (A016) Agreed to by voice vote.
+- 2025-07-17 — On agreeing to the Tiffany amendment (A020) Agreed to by voice vote.
+- 2025-07-17 — On motion that the committee rise Agreed to by voice vote.
+- 2025-07-17 — On motion that the committee rise Agreed to by voice vote.
+- 2025-07-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Greene (GA) amendment No. 111, the Chair put the question on agreeing to the amendment and by voice vote, announced the noes had prevailed. Ms. Greene (GA) demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2025-07-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Greene (GA) amendment No. 112, the Chair put the question on agreeing to the amendment and by voice vote, announced the noes had prevailed. Ms. Greene (GA) demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2025-07-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Greene (GA) amendment No. 113, the Chair put the question on agreeing to the amendment and by voice vote, announced the noes had prevailed. Ms. Greene (GA) demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2025-07-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Greene (GA) amendment No. 114, the Chair put the question on agreeing to the amendment and by voice vote, announced the noes had prevailed. Ms. Greene (GA) demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2025-07-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Greene (GA) amendment No. 115, the Chair put the question on agreeing to the amendment and by voice vote, announced the noes had prevailed. Ms. Greene (GA) demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2025-07-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Greene (GA) amendment No. 116, the Chair put the question on agreeing to the amendment and by voice vote, announced the noes had prevailed. Mr. Greene (GA) demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2025-07-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Steube amendment No. 277, the Chair put the question on agreeing to the amendment and by voice vote, announced the noes had prevailed. Mr. Steube demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2025-07-17 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2025-07-18 — 
+- 2025-07-18 — 
+- 2025-07-18 — 
+- 2025-07-18 — 
+- 2025-07-18 — 
+- 2025-07-18 — 
+- 2025-07-18 — 
+- 2025-07-18 — Considered as unfinished business. (consideration: CR H3467-3468)
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Greene (GA) amendment (A010) Failed by recorded vote: 63 - 365 (Roll no. 204).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Greene (GA) amendment (A011) Failed by recorded vote: 6 - 421 (Roll no. 205).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Greene (GA) amendment (A012) Failed by recorded vote: 104 - 326 (Roll no. 206).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Greene (GA) amendment (A013) Failed by recorded vote: 6 - 422 (Roll no. 207).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Greene (GA) amendment (A014) Failed by recorded vote: 30 - 400 (Roll no. 208).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Greene (GA) amendment (A015) Failed by recorded vote: 76 - 353 (Roll no. 209).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — House amendment not agreed to: On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-07-18 — Ms. Kaptur moved to recommit to the Committee on Appropriations. (CR H3467)
+- 2025-07-18 — On agreeing to the Greene (GA) amendment (A010) Failed by recorded vote: 63 - 365 (Roll no. 204).
+- 2025-07-18 — On agreeing to the Greene (GA) amendment (A011) Failed by recorded vote: 6 - 421 (Roll no. 205).
+- 2025-07-18 — On agreeing to the Greene (GA) amendment (A012) Failed by recorded vote: 104 - 326 (Roll no. 206).
+- 2025-07-18 — On agreeing to the Greene (GA) amendment (A013) Failed by recorded vote: 6 - 422 (Roll no. 207).
+- 2025-07-18 — On agreeing to the Greene (GA) amendment (A014) Failed by recorded vote: 30 - 400 (Roll no. 208).
+- 2025-07-18 — On agreeing to the Greene (GA) amendment (A015) Failed by recorded vote: 76 - 353 (Roll no. 209).
+- 2025-07-18 — On agreeing to the Steube amendment (A018) Failed by recorded vote: 76 - 355 (Roll no. 210).
+- 2025-07-18 — On motion to recommit Failed by the Yeas and Nays: 211 - 219 (Roll no. 211).
+- 2025-07-18 — On passage Passed by the Yeas and Nays: 221 - 209 (Roll no. 212).
+- 2025-07-18 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 221 - 209 (Roll no. 212).
+- 2025-07-18 — Roll call votes on amendments in House
+- 2025-07-18 — Roll call votes on amendments in House
+- 2025-07-18 — Roll call votes on amendments in House
+- 2025-07-18 — Roll call votes on amendments in House
+- 2025-07-18 — Roll call votes on amendments in House
+- 2025-07-18 — Roll call votes on amendments in House
+- 2025-07-18 — Roll call votes on amendments in House
+- 2025-07-18 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 4016.
+- 2025-07-18 — The House adopted the amendments en gros as agreed to by the Committee of the Whole House on the state of the Union.
+- 2025-07-18 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2025-07-18 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 4016.
+- 2025-07-18 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2025-07-18 — The previous question was ordered pursuant to the rule.
