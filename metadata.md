@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2170
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2170
@@ -39,3 +39,10 @@ To name the Department of Veterans Affairs community-based outpatient clinic in 
 - 2025-03-18 — Introduced in House
 - 2025-03-18 — Introduced in House
 - 2025-03-18 — Referred to the House Committee on Veterans' Affairs.
+- 2025-04-04 — Referred to the Subcommittee on Health.
+- 2025-07-21 — Considered under suspension of the rules. (consideration: CR H3489-3491)
+- 2025-07-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2170.
+- 2025-07-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-07-21 — Mr. Bost moved to suspend the rules and pass the bill.
+- 2025-07-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3489-3490)
+- 2025-07-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3489-3490)
