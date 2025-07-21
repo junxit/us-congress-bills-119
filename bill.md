@@ -1,0 +1,24 @@
+---
+legis-num: H.R. 4579
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4579
+
+> To amend the Homeland Security Act of 2002 to provide for the mitigation of cybersecurity risks by the Federal Emergency Management Agency, and for other purposes.
+
+## § 1. Short Title
+
+This Act may be cited as the “FEMA Cybersecurity Improvement Act”.
+
+## § 2. Mitigating cybersecurity risks
+
+- **(a)** *In general* Subsection (a) of section 523 of the Homeland Security Act of 2002 (6 U.S.C. 321l) is amended—
+  - **(1)** in the matter preceding paragraph (1), by striking “as of the day before the date of the enactment of this section,”;
+  - **(2)** by redesignating paragraphs (3) through (8) as paragraphs (4) through (9), respectively; and
+  - **(3)** by inserting after paragraph (2) the following new paragraph:
+    > - **(3)** mitigating cybersecurity risks (as such term is defined in section 2200) that could impede Agency operations;
+
+- **(b)** *Plan for FEMA cybersecurity* Not later than one year after the date of the enactment of this section, the Administrator of the Federal Emergency Management Agency, in consultation with the Director of the Cybersecurity and Infrastructure Security Agency, shall submit to the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report on the progress of Agency efforts to mitigate cybersecurity risks within the Agency in accordance with paragraph (3) of section 523(a) of the Homeland Security Act of 2002, as amended by subsection (a).
