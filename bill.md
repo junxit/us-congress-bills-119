@@ -14,76 +14,68 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 Not later than 270 days after the date of the enactment of this Act, the United States Postal Service shall designate a single, unique ZIP Code for each of the following communities:
 
 - **(1)** Canyon Lake, California.
-- **(2)** Eastvale, California.
-- **(3)** Hidden Hills, California.
-- **(4)** Industry, California.
-- **(5)** North Tustin, California.
-- **(6)** Tehachapi, California.
-- **(7)** Castle Pines, Colorado.
-- **(8)** Centennial, Colorado.
-- **(9)** Cherry Hills Village, Colorado.
-- **(10)** Greenwood Village, Colorado.
-- **(11)** Highlands Ranch, Colorado.
-- **(12)** Keystone, Colorado.
-- **(13)** Lone Tree, Colorado.
-- **(14)** Mountain Village, Colorado.
-- **(15)** Mt. Crested Butte, Colorado.
-- **(16)** Severance, Colorado.
-- **(17)** Silver Cliff, Colorado.
-- **(18)** Sterling Ranch, Colorado.
-- **(19)** Superior, Colorado.
-- **(20)** Telluride, Colorado.
-- **(21)** Scotland, Connecticut.
-- **(22)** Estero, Florida.
-- **(23)** Ft. Myers, Florida.
-- **(24)** Hollywood, Florida.
-- **(25)** Oakland Park, Florida.
-- **(26)** Lighthouse Point, Florida.
-- **(27)** Coconut Creek, Florida.
-- **(28)** Parkland, Florida.
-- **(29)** Deerfield Beach, Florida.
-- **(30)** Wilton Manors, Florida.
-- **(31)** Burr Ridge, Illinois.
-- **(32)** Carmel, Indiana.
-- **(33)** Noblesville, Indiana.
-- **(34)** Westfield, Indiana.
-- **(35)** Zionsville, Indiana.
-- **(36)** Urbandale, Iowa.
-- **(37)** Louisiana State University, Baton Rouge, Louisiana.
-- **(38)** Montz, Louisiana.
-- **(39)** Springwater Township, Minnesota.
-- **(40)** Grass Valley, Nevada.
-- **(41)** Swanzey, New Hampshire.
-- **(42)** Kinnelon, New Jersey.
-- **(43)** Mendham Township, New Jersey.
-- **(44)** Flanders, New York.
-- **(45)** Glendale, New York.
-- **(46)** Riverside, New York.
-- **(47)** Pendelton, New York.
-- **(48)** Northampton, New York.
-- **(49)** Harnett County, North Carolina.
-- **(50)** Weddington, North Carolina.
-- **(51)** Goose Creek, South Carolina.
-- **(52)** Fairview, Texas.
-- **(53)** Fate, Texas.
-- **(54)** Heath, Texas.
-- **(55)** Murphy, Texas.
-- **(56)** Northlake, Texas.
-- **(57)** Parker, Texas.
-- **(58)** Sargent, Texas.
-- **(59)** Fairlawn, Virginia.
-- **(60)** Caledonia, Wisconsin.
-- **(61)** Franklin, Wisconsin.
-- **(62)** Glendale, Wisconsin.
-- **(63)** Greenfield, Wisconsin.
-- **(64)** Village of Mount Pleasant, Wisconsin.
-- **(65)** Village of Somers, Wisconsin.
-- **(66)** Village of Harrison, Wisconsin.
-- **(67)** Mills, Wyoming.
-- **(68)** Hochatown, Oklahoma.
-- **(69)** North Enid, Oklahoma.
-- **(70)** Green, Ohio.
-- **(71)** Rochester, Wisconsin.
-- **(72)** Quartzite Township, Minnesota.
-- **(73)** Frederick, Colorado.
-- **(74)** Camargo, Kentucky.
+- **(2)** Hidden Hills, California.
+- **(3)** Industry, California.
+- **(4)** North Tustin, California.
+- **(5)** Tehachapi, California.
+- **(6)** Castle Pines, Colorado.
+- **(7)** Centennial, Colorado.
+- **(8)** Cherry Hills Village, Colorado.
+- **(9)** Greenwood Village, Colorado.
+- **(10)** Highlands Ranch, Colorado.
+- **(11)** Keystone, Colorado.
+- **(12)** Lone Tree, Colorado.
+- **(13)** Mountain Village, Colorado.
+- **(14)** Mt. Crested Butte, Colorado.
+- **(15)** Severance, Colorado.
+- **(16)** Silver Cliff, Colorado.
+- **(17)** Sterling Ranch, Colorado.
+- **(18)** Superior, Colorado.
+- **(19)** Telluride, Colorado.
+- **(20)** Oakland Park, Florida.
+- **(21)** Lighthouse Point, Florida.
+- **(22)** Coconut Creek, Florida.
+- **(23)** Parkland, Florida.
+- **(24)** Deerfield Beach, Florida.
+- **(25)** Wilton Manors, Florida.
+- **(26)** Burr Ridge, Illinois.
+- **(27)** Carmel, Indiana.
+- **(28)** Noblesville, Indiana.
+- **(29)** Westfield, Indiana.
+- **(30)** Zionsville, Indiana.
+- **(31)** Louisiana State University, Baton Rouge, Louisiana.
+- **(32)** Montz, Louisiana.
+- **(33)** Springwater Township, Minnesota.
+- **(34)** Grass Valley, Nevada.
+- **(35)** Swanzey, New Hampshire.
+- **(36)** Kinnelon, New Jersey.
+- **(37)** Flanders, New York.
+- **(38)** Glendale, New York.
+- **(39)** Riverside, New York.
+- **(40)** Pendleton, New York.
+- **(41)** Weddington, North Carolina.
+- **(42)** Goose Creek, South Carolina.
+- **(43)** Fairview, Texas.
+- **(44)** Fate, Texas.
+- **(45)** Heath, Texas.
+- **(46)** Murphy, Texas.
+- **(47)** Northlake, Texas.
+- **(48)** Parker, Texas.
+- **(49)** Sargent, Texas.
+- **(50)** Fairlawn, Virginia.
+- **(51)** Caledonia, Wisconsin.
+- **(52)** Franklin, Wisconsin.
+- **(53)** Glendale, Wisconsin.
+- **(54)** Greenfield, Wisconsin.
+- **(55)** Village of Mount Pleasant, Wisconsin.
+- **(56)** Village of Somers, Wisconsin.
+- **(57)** Village of Harrison, Wisconsin.
+- **(58)** Hochatown, Oklahoma.
+- **(59)** Green, Ohio.
+- **(60)** Rochester, Wisconsin.
+- **(61)** Quartzite Township, Minnesota.
+- **(62)** Frederick, Colorado.
+- **(63)** Camargo, Kentucky.
+- **(64)** Wheatfield, New York.
+- **(65)** Mauldin, South Carolina.
+- **(66)** Josephine, Texas.

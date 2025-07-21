@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3095
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3095
@@ -16,7 +16,7 @@ To direct the United States Postal Service to designate single, unique ZIP Codes
 
 - Rep. Boebert, Lauren [R-CO-4] (B000825)
 
-## Cosponsors (25)
+## Cosponsors (33)
 
 - Rep. Kim, Young [R-CA-40] (K000397)
 - Rep. Pettersen, Brittany [D-CO-7] (P000620)
@@ -43,13 +43,35 @@ To direct the United States Postal Service to designate single, unique ZIP Codes
 - Rep. Fallon, Pat [R-TX-4] (F000246)
 - Rep. Higgins, Clay [R-LA-3] (H001077)
 - Rep. Amodei, Mark E. [R-NV-2] (A000369)
+- Rep. Finstad, Brad [R-MN-1] (F000475)
+- Rep. Casten, Sean [D-IL-6] (C001117)
+- Rep. Cisneros, Gilbert Ray [D-CA-31] (C001123)
+- Rep. Sánchez, Linda T. [D-CA-38] (S001156)
+- Rep. Letlow, Julia [R-LA-5] (L000595)
+- Rep. Sherman, Brad [D-CA-32] (S000344)
+- Rep. Timmons, William R. [R-SC-4] (T000480)
+- Rep. Hurd, Jeff [R-CO-3] (H001100)
 
 ## Committees (1)
 
 - House — Oversight and Government Reform Committee
+
+## Recorded votes (1)
+
+- 2025-07-21 — [House 119-1-213](votes/house-119-1-0213.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (278–121)
 
 ## Actions
 
 - 2025-04-30 — Introduced in House
 - 2025-04-30 — Introduced in House
 - 2025-04-30 — Referred to the House Committee on Oversight and Government Reform.
+- 2025-05-21 — Committee Consideration and Mark-up Session Held
+- 2025-05-21 — Ordered to be Reported by the Yeas and Nays: 22 - 20.
+- 2025-07-21 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2025-07-21 — Considered as unfinished business. (consideration: CR H3519)
+- 2025-07-21 — Considered under suspension of the rules. (consideration: CR H3493-3495)
+- 2025-07-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3095.
+- 2025-07-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-07-21 — Mr. Comer moved to suspend the rules and pass the bill, as amended.
+- 2025-07-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 278 - 121 (Roll no. 213). (text: CR H3493)
+- 2025-07-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 278 - 121 (Roll no. 213). (text: CR H3493: 1)
