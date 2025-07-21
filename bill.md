@@ -13,11 +13,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Improving Access to Small Business Information Act”.
 
-## § 2. Exclusion from the Paperwork Reduction Act
+## § 2. Paperwork Reduction Act requirements exemptions
 
 Section 4(j) of the Securities Exchange Act of 1934 (15 U.S.C. 78d(j)) is amended by adding at the end the following:
 
-> - **(10)** *Exclusion from the Paperwork Reduction Act*
+> - **(10)** *Preservation of information collection burden review*
 >   - **(A)** *In general* Actions taken by the Advocate for Small Business Capital Formation under this subsection shall not be a “collection of information” for purposes of subchapter I of chapter 35 of title 44, United States Code (commonly known as the “Paperwork Reduction Act”).
 >   - **(B)** *Exceptions* Notwithstanding subparagraph (A), the requirements under subsections (c)(1), (c)(4), and (i) of section 3506 of title 44, United States Code, and section 3507(a)(1)(A) of such title shall apply to actions taken by the Advocate for Small Business Capital Formation under this subsection, except that the Commission shall not be required—
 >     - **(i)** to submit a collection of information by the Advocate to the Director of the Office of Management and Budget, as referenced under section 3506(c)(1)(A) of such title;
