@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 183
 
-> To amend the Federal Lands Recreation Enhancement Act to provide for a lifetime National Recreational Pass for law enforcement officers.
+> To amend the Federal Lands Recreation Enhancement Act to provide for a free annual National Parks and Federal Recreational Lands Pass for law enforcement officers and firefighters.
 
 ## § 1. Short title
 
