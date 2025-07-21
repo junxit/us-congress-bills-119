@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 4561
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4561
+
+> To prohibit the use of Federal funds to pay for a subscription to the Wall Street Journal for Members of Congress, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Stop Unnecessary Expenditures Act” or the “SUE Act”.
+
+## § 2. Prohibition with respect to use of certain funds for Wall Street Journal subscription
+
+- **(a)** *In general* Notwithstanding any other provision of law, no Federal funds may be used to pay for a subscription to the Wall Street Journal for any office of a Member of Congress (including a Delegate or Resident Commissioner to the Congress) or for any committee of Congress.
+- **(b)** *Effective date* This section shall apply with respect to fiscal year 2025 and each succeeding fiscal year.
