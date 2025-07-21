@@ -57,9 +57,9 @@ This Act may be cited as the “Taiwan Conflict Deterrence Act of 2025”.
     - **(B)** the threat described under section 2(a)(1) is no longer present; or
     - **(C)** the waiver is essential to the national security interests of the United States.
   - **(3)** *Form of reports* The reports required under paragraph (2) shall be submitted in unclassified form but may contain a classified annex.
-  - **(4)** *Rule of construction*
-    - **(A)** *In general* Nothing in this section shall be construed as authorizing or requiring any sanction with respect to the importation of any good.
-    - **(B)** *Good defined* In this paragraph, the term “good” means any article, natural or manmade substance, material, supply or manufactured product, including inspection and test equipment, and excluding technical data.
+  - **(4)** *Exception relating to importation of goods*
+    - **(A)** *In general* The authorities and requirements authorized under this section shall not include the authority or requirement to impose sanctions on the importation of goods.
+    - **(B)** *Good defined* In this section, the term “good” means any article, natural or man-made substance, material, supply or manufactured product, including inspection and test equipment, and excluding technical data.
 - **(c)** *Implementation; penalties*
   - **(1)** *Implementation* The President may exercise all authorities provided to the President under sections 203 and 205 of the International Emergency Economic Powers Act (50 U.S.C. 1702 and 1704) to carry out this section. Not later than 60 days after issuing a license pursuant to this section, the President shall submit a copy of the license to the appropriate Members of Congress.
   - **(2)** *Penalties* A person that violates, attempts to violate, conspires to violate, or causes a violation of this section or any regulation, license, or order issued to carry out this section shall be subject to the penalties set forth in subsections (b) and (c) of section 206 of the International Emergency Economic Powers Act (50 U.S.C. 1705) to the same extent as a person that commits an unlawful act described in subsection (a) of that section 206.
