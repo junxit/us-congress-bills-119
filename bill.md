@@ -15,15 +15,9 @@ Not later than 270 days after the date of the enactment of this Act, the United 
 
 - **(1)** Eastvale, California.
 - **(2)** Scotland, Connecticut.
-- **(3)** Castle Pines, Colorado.
-- **(4)** Silver Cliff, Colorado.
-- **(5)** Hollywood, Florida.
-- **(6)** Miami Lakes, Florida.
-- **(7)** Ocoee, Florida.
-- **(8)** Urbandale, Iowa.
-- **(9)** Franklin, Wisconsin.
-- **(10)** Greenfield, Wisconsin.
-- **(11)** Village of Caledonia, Wisconsin.
-- **(12)** Village of Mount Pleasant, Wisconsin.
-- **(13)** Village of Somers, Wisconsin.
-- **(14)** Mills, Wyoming.
+- **(3)** Cooper City, Florida.
+- **(4)** Miami Lakes, Florida.
+- **(5)** Ocoee, Florida.
+- **(6)** Village of Estero, Florida.
+- **(7)** Urbandale, Iowa.
+- **(8)** Mills, Wyoming.
