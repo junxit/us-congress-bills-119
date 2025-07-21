@@ -1,7 +1,7 @@
 ---
 measure: H.R. 131
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 131
@@ -34,3 +34,9 @@ Finish the Arkansas Valley Conduit Act
 - 2025-07-10 — Placed on the Union Calendar, Calendar No. 152.
 - 2025-07-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-187.
 - 2025-07-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-187.
+- 2025-07-21 — Considered under suspension of the rules. (consideration: CR H3497-3498)
+- 2025-07-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 131.
+- 2025-07-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-07-21 — Mr. Gosar moved to suspend the rules and pass the bill, as amended.
+- 2025-07-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3497-3498)
+- 2025-07-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3497-3498)
