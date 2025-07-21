@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1469
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1469
@@ -35,3 +35,9 @@ Senior Security Act of 2025
 - 2025-06-03 — Placed on the Union Calendar, Calendar No. 94.
 - 2025-06-03 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-124.
 - 2025-06-03 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-124.
+- 2025-07-21 — Considered under suspension of the rules. (consideration: CR H3504-3506)
+- 2025-07-21 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1469.
+- 2025-07-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-07-21 — Mr. Hill (AR) moved to suspend the rules and pass the bill, as amended.
+- 2025-07-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3504-3505)
+- 2025-07-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3504-3505)
