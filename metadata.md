@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1450
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1450
@@ -20,10 +20,11 @@ OFAC Licensure for Investigators Act
 
 - Rep. Nunn, Zachary [R-IA-3] (N000193)
 
-## Committees (2)
+## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ OFAC Licensure for Investigators Act
 - 2025-07-21 — Mr. Hill (AR) moved to suspend the rules and pass the bill.
 - 2025-07-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3517)
 - 2025-07-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3517)
+- 2025-07-22 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
