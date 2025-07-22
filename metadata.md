@@ -1,7 +1,7 @@
 ---
 measure: H.R. 672
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 672
@@ -32,9 +32,10 @@ To establish new ZIP Codes for certain communities, and for other purposes.
 - Rep. Frost, Maxwell [D-FL-10] (F000476)
 - Rep. Donalds, Byron [R-FL-19] (D000032)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ To establish new ZIP Codes for certain communities, and for other purposes.
 - 2025-07-21 — Mr. Comer moved to suspend the rules and pass the bill, as amended.
 - 2025-07-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3492)
 - 2025-07-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3492)
+- 2025-07-22 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
