@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2170
 congress: 119
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2170
@@ -48,3 +48,14 @@ To name the Department of Veterans Affairs community-based outpatient clinic in 
 - 2025-07-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3489-3490)
 - 2025-07-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3489-3490)
 - 2025-07-22 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2025-08-02 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5521)
+- 2025-08-02 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2025-08-02 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2025-08-02 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2025-08-08 — Message on Senate action sent to the House.
+- 2025-08-25 — Presented to President.
+- 2025-08-25 — Presented to President.
+- 2025-09-05 — Became Public Law No: 119-35.
+- 2025-09-05 — Became Public Law No: 119-35.
+- 2025-09-05 — Signed by President.
+- 2025-09-05 — Signed by President.
