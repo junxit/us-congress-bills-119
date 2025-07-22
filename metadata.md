@@ -1,7 +1,7 @@
 ---
 measure: S. 769
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 769
@@ -16,9 +16,10 @@ United States Research Protection Act of 2025
 
 - Sen. Cornyn, John [R-TX] (C001056)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Curtis, John R. [R-UT] (C001114)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ United States Research Protection Act of 2025
 
 - 2025-02-27 — Introduced in Senate
 - 2025-02-27 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2025-04-30 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2025-07-22 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-45.
+- 2025-07-22 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-45.
+- 2025-07-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 123.
