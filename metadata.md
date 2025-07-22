@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1043
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1043
@@ -21,9 +21,10 @@ La Paz County Solar Energy and Job Creation Act
 - Rep. Biggs, Andy [R-AZ-5] (B001302)
 - Rep. Schweikert, David [R-AZ-1] (S001183)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ La Paz County Solar Energy and Job Creation Act
 - 2025-07-21 — Mr. Gosar moved to suspend the rules and pass the bill.
 - 2025-07-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3498-3499)
 - 2025-07-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3498-3499)
+- 2025-07-22 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
