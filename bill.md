@@ -38,10 +38,7 @@ This Act may be cited as the “Wabeno Economic Development Act”.
   - **(2)** *Standards* The appraisal under paragraph (1) shall be conducted in accordance with—
     - **(A)** the Uniform Appraisal Standards for Federal Land Acquisitions; and
     - **(B)** the Uniform Standards of Professional Appraisal Practice.
-- **(e)** *Hazardous materials* Notwithstanding the requirements of section 120(h) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9620(h)), with respect to the conveyance under subsection (a), the Secretary—
-  - **(1)** shall only be required to meet disclosure requirements for hazardous substances, pollutants, or contaminants under section 120(h); and
-  - **(2)** shall not otherwise be required to remediate or abate the hazardous substances, pollutants, or contaminants disclosed pursuant to paragraph (1).
-- **(f)** *Definitions* In this section:
+- **(e)** *Definitions* In this section:
   - **(1)** *Map* The term Map means the map entitled “Conveyance of Federal Parcel Chequamegon-Nicolet National Forest” and dated September 27, 2023.
   - **(2)** *Secretary* The term Secretary means the Secretary of Agriculture, acting through the Chief of the Forest Service.
 
