@@ -1,7 +1,7 @@
 ---
 measure: H.R. 131
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 131
@@ -20,9 +20,10 @@ Finish the Arkansas Valley Conduit Act
 
 - Rep. Hurd, Jeff [R-CO-3] (H001100)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Finish the Arkansas Valley Conduit Act
 - 2025-07-21 — Mr. Gosar moved to suspend the rules and pass the bill, as amended.
 - 2025-07-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3497-3498)
 - 2025-07-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3497-3498)
+- 2025-07-22 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
