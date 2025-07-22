@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3382
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3382
@@ -26,9 +26,10 @@ Small Entity Update Act
 - Rep. Vindman, Eugene Simon [D-VA-7] (V000138)
 - Rep. Lawler, Michael [R-NY-17] (L000599)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Small Entity Update Act
 - 2025-07-21 — Mr. Hill (AR) moved to suspend the rules and pass the bill, as amended.
 - 2025-07-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3500)
 - 2025-07-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3500)
+- 2025-07-22 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
