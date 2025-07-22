@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4275
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-453 amendatory instructions. 83 executed, 370 stated and not applied.
+443 amendatory instructions. 84 executed, 359 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -348,7 +348,16 @@ to guess them.
 | Removed | `Section 2101(23)` |
 | Inserted | `Section 2101(24)` |
 
-### 22 U.S.C. § 2371
+### 37 U.S.C. § 352
+
+> in subsection (a)(1) by striking “The Secretary” and inserting “Except as provided in subsection (c), the Secretary”;
+
+| | |
+|---|---|
+| Removed | `The Secretary` |
+| Inserted | `Except as provided in subsection (c), the Secretary` |
+
+### 46 U.S.C. § 70034
 
 > by striking “2-year pilot program” and inserting “pilot program”;
 
@@ -359,7 +368,7 @@ to guess them.
 
 ### 16 U.S.C. § 1390
 
-> Section 11304(a)(2)(A)(i) of the Don Young Coast Guard Reauthorization Act of 2022 (division K of Public Law 117–263; 16 U.S.C. 1390 note) is amended by striking “4 years” and inserting “6 years”.
+> Section 11304(a)(2)(A)(i) of the Don Young Coast Guard Authorization Act of 2022 (16 U.S.C. 1390 note) is amended by striking “4 years” and inserting “6 years”.
 
 | | |
 |---|---|
@@ -419,24 +428,6 @@ to guess them.
 |---|---|
 | Removed | `chapter` |
 | Inserted | `subchapter` |
-
-### 43 U.S.C. § 1331
-
-> in the heading by striking “Vessels for cable laying, maintenance, and repair” and inserting “Vessels for paying out pipe, inter-array cables, umbilical cables, or export cables, maintenance, and repair”;
-
-| | |
-|---|---|
-| Removed | `Vessels for cable laying, maintenance, and repair` |
-| Inserted | `Vessels for paying out pipe, inter-array cables, umbilical cables, or export cables, maintenance, and repair` |
-
-### 43 U.S.C. § 1356
-
-> Section 30(c)(2)(A) of the Outer Continental Shelf Lands Act (43 U.S.C. 1356(c)(2)(A)), as so designated by this Act, is further amended by striking “the exploration, development, or production of oil and gas” and inserting “exploring for, developing, or producing resources, including nonmineral energy resources,”.
-
-| | |
-|---|---|
-| Removed | `the exploration, development, or production of oil and gas` |
-| Inserted | `exploring for, developing, or producing resources, including nonmineral energy resources,` |
 
 ### 33 U.S.C. § 2713
 
@@ -746,30 +737,48 @@ to guess them.
 
 ### 33 U.S.C. § 892a
 
-> in subsection (a) by striking “Act” and inserting “title”; and
+> in subsection (a) by striking “this Act” and inserting “this title”; and
 
 | | |
 |---|---|
-| Removed | `Act` |
-| Inserted | `title` |
+| Removed | `this Act` |
+| Inserted | `this title` |
 
 ### 33 U.S.C. § 892a
 
-> by striking “Act” and inserting “title”; and
+> by striking “this Act” and inserting “this title”; and
 
 | | |
 |---|---|
-| Removed | `Act` |
-| Inserted | `title` |
+| Removed | `this Act` |
+| Inserted | `this title` |
 
 ### 33 U.S.C. § 892a
 
-> by striking “subchapter IV of chapter 10” and inserting “chapter 11”.
+> by striking “subchapter VI of chapter 10” and inserting “chapter 11”.
 
 | | |
 |---|---|
-| Removed | `subchapter IV of chapter 10` |
+| Removed | `subchapter VI of chapter 10` |
 | Inserted | `chapter 11` |
+
+### 14 U.S.C. § 313
+
+> Section 807 of the Frank Lobiondo Coast Guard Authorization Act of 2018 (14 U.S.C. 313 note) is amended by striking “District 9” and inserting “Great Lakes District”.
+
+| | |
+|---|---|
+| Removed | `District 9` |
+| Inserted | `Great Lakes District` |
+
+### 50 U.S.C. § 191
+
+> Section 324 of title 14, United States Code, as so redesignated, by striking “Seventeenth Coast Guard District” and inserting “Coast Guard Arctic District” each place it appears.
+
+| | |
+|---|---|
+| Removed | `Seventeenth Coast Guard District` |
+| Inserted | `Coast Guard Arctic District` |
 
 ## Stated, not applied
 
@@ -803,6 +812,8 @@ complete account of the bill's effect, which it is not.
 | — | replace | The analysis for chapter 51 of title 14, United States Code, is amended by striking the item relating to section 5107 and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 51 of title 14, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The analysis for chapter 51 of title 14, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 51 of title 14, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The analysis for chapter 51 of title 14, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | `10 U.S.C. § 1413a` | repeal | Section 102 of title 14, United States Code, is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 1413a` | insert | by inserting “, whether requested or tasked by the Department on behalf of another agency or requested by another agency,” after “Department”; and | the bill quotes the text inserted but describes where it goes |
 | `10 U.S.C. § 1413a` | replace | in subsection (e) by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -811,16 +822,17 @@ complete account of the bill's effect, which it is not.
 | `10 U.S.C. § 1413a` | redesignate | by redesignating section 106 as section 107; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 1413a` | insert | by inserting after section 105 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 1413a` | redesignate | by inserting after section 107, as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `10 U.S.C. § 1413a` | replace | The analysis for chapter 1 of title 14, United States Code, is amended by striking the item relating to section 106 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 1413a` | replace | by striking the item relating to section 102 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 1413a` | replace | by striking the item relating to section 106 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 1413a` | amend | by amending subsection (c) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 1413a` | replace | by striking “Notwithstanding” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `10 U.S.C. § 1413a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 1413a` | redesignate | by redesignating subsections (b) through (g) as subsections (a) through (f), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `10 U.S.C. § 1413a` | add-at-end | Chapter 3 of title 14, United States Code, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 1413a` | add-at-end | Chapter 3 of title 14, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 1413a` | add-at-end | The analysis for chapter 3 of title 14, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Section 302 of title 14, United States Code, is amended in the first sentence by striking “further periods of four years” and inserting “one further period of four years”. | the bill names no machine-readable US Code section |
-| `25 U.S.C. § 5304` | redesignate | Chapter 3 of title 14, United States Code, is amended by redesignating sections 312 through 324 as sections 313 through 325, respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 5304` | redesignate | The analysis for chapter 3 of title 14, United States Code, is amended by redesignating the items relating to sections 312 through 324 as relating to sections 313 through 325, respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 5304` | redesignate | Chapter 3 of title 14, United States Code, is amended by redesignating sections 312 through 325 as sections 313 through 326, respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 5304` | redesignate | The analysis for chapter 3 of title 14, United States Code, is amended by redesignating the items relating to sections 312 through 325 as relating to sections 313 through 326, respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 5304` | insert | Chapter 3 of title 14, United States Code, is further amended by inserting after section 311 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `14 U.S.C. § 311` | insert | The analysis for chapter 3 of title 14, United States Code, is amended by inserting after the item relating to section 311 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | redesignate | Section 316 of title 14, United States Code, as so redesignated, is amended to read as follows: | the bill names no machine-readable US Code section |
@@ -835,7 +847,8 @@ complete account of the bill's effect, which it is not.
 | `14 U.S.C. § 528` | replace | by striking “Not later than” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `14 U.S.C. § 528` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `14 U.S.C. § 528` | insert | The analysis for chapter 5 of title 14, United States Code, is amended by inserting after the item relating to section 528 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `14 U.S.C. § 528` | strike | The analysis for the Don Young Coast Guard Authorization Act of 2022 (division K of Public Law 117–263) is amended by striking the item relating to section 11269. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `14 U.S.C. § 528` | strike | The table of contents for the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (Public Law 117–263) is amended by striking the item relating to section 11269. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `14 U.S.C. § 528` | strike | The table of contents for the Don Young Coast Guard Authorization Act of 2022 (division K of Public Law 117–263) is amended by striking the item relating to section 11269. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | insert | Section 546 of title 14, United States Code, is amended in the second sentence by inserting “and the amounts collected shall be available until expended” after “special deposit account”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Subchapter IV of chapter 5 of title 14, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The analysis for chapter 5 of title 14, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
@@ -843,7 +856,7 @@ complete account of the bill's effect, which it is not.
 | `14 U.S.C. § 721` | insert | The analysis for chapter 7 of title 14, United States Code, is amended by inserting after the item relating to section 721 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | insert | Chapter 7 of title 14, United States Code, is further amended by inserting after section 722 (as added by this Act) the following: | the bill names no machine-readable US Code section |
 | — | insert | The analysis for chapter 7 of such title is further amended by inserting after the item relating to section 722 (as added by this Act) the following: | the bill names no machine-readable US Code section |
-| — | replace | Section 903(d)(1) of title 14, United States Code, is amended by striking “$1,500,000” and inserting “$2,000,000”. | the bill names no machine-readable US Code section |
+| — | replace | Section 903(d)(1) of title 14, United States Code, is amended by striking “$1,500,000” and inserting “$4,000,000”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “20 years” and inserting “30 years”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “or National” and inserting “National”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting before the period “, medical facilities, Coast Guard child development centers (as such term is defined in section 2921), and training facilities, including small arms firing ranges”; and | the bill names no machine-readable US Code section |
@@ -978,9 +991,8 @@ complete account of the bill's effect, which it is not.
 | `8 U.S.C. § 1408` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Section 8313(b) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283) is amended by striking “2025” and inserting “2029”. | the bill names no machine-readable US Code section |
 | — | amend | Section 2302(b) of title 46, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | replace | in subsection (a)(1) by striking “The Secretary” and inserting “Except as provided in subsection (c), the Secretary”; | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subsection (c) as subsection (d); and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subsection (b) the following: | the bill names no machine-readable US Code section |
+| `37 U.S.C. § 352` | redesignate | by redesignating subsection (c) as subsection (d); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `37 U.S.C. § 352` | insert | by inserting after subsection (b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | in subparagraph (A)(ii) by striking “; and” and inserting a semicolon; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraph (B) as subparagraph (C); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subparagraph (A) the following: | the bill names no machine-readable US Code section |
@@ -994,17 +1006,17 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 9302(a)(1)(A) of title 46, United States Code, is amended by striking “in waters” and inserting “in the Straits of Mackinac and in all other waters”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 9302 of title 46, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 80301(c) of title 46, United States Code, is amended by striking the period at the end and inserting “and shall remain available until expended for the purpose of the Coast Guard international ice patrol program under this chapte… | the bill names no machine-readable US Code section |
-| `22 U.S.C. § 2371` | redesignate | by redesignating subsection (c) as subsection (d); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2371` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2371` | insert | in paragraph (1) by inserting “, including damage or destruction resulting from cyber incidents, transnational organized crime, or foreign state threats” after “adjacent to such waters”; and | the bill quotes the text inserted but describes where it goes |
-| `22 U.S.C. § 2371` | insert | in paragraph (2) by inserting “or harm resulting from cyber incidents, transnational organized crime, or foreign state threats” after “loss”. | the bill quotes the text inserted but describes where it goes |
+| — | replace | Section 3529(a)(3) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232) is amended by striking “this Act” and inserting “the Coast Guard Authorization Act of 2025”. | the bill names no machine-readable US Code section |
+| `46 U.S.C. § 70034` | redesignate | by redesignating subsection (c) as subsection (d); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `46 U.S.C. § 70034` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `46 U.S.C. § 70034` | insert | in paragraph (1) by inserting “, including damage or destruction resulting from cyber incidents, transnational organized crime, or foreign state threats” after “adjacent to such waters”; and | the bill quotes the text inserted but describes where it goes |
+| `46 U.S.C. § 70034` | insert | in paragraph (2) by inserting “or harm resulting from cyber incidents, transnational organized crime, or foreign state threats” after “loss”. | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 2371` | strike | in paragraph (3) by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `22 U.S.C. § 2371` | replace | in paragraph (4) by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `22 U.S.C. § 2371` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2371` | amend | Section 70032 of title 46, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2371` | insert | Section 70051 of title 46, United States Code, is amended by inserting “or cyber incidents, or transnational organized crime, or foreign state threats,” after “threatened war, or invasion, or insurrection, or subversive activity,”. | the bill quotes the text inserted but describes where it goes |
-| `22 U.S.C. § 2371` | insert | by inserting after the item relating to section 70007 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2371` | replace | by striking the item relating to section 70032 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `46 U.S.C. § 70034` | amend | Section 70032 of title 46, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `46 U.S.C. § 70034` | insert | Section 70051 of title 46, United States Code, is amended by inserting “or cyber incidents, or transnational organized crime, or foreign state threats,” after “threatened war, or invasion, or insurrection, or subversive activity,”. | the bill quotes the text inserted but describes where it goes |
+| `46 U.S.C. § 70034` | replace | The analysis for chapter 700 of title 46, United States Code, is amended by striking the item relating to section 70032 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | in the matter preceding paragraph (1) by striking “While on board a covered vessel, an” and inserting “An”; | the bill names no machine-readable US Code section |
 | — | amend | by amending paragraph (1) to read as follows: | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (2) by inserting “on board a covered vessel” before the semicolon; and | the bill names no machine-readable US Code section |
@@ -1033,22 +1045,6 @@ complete account of the bill's effect, which it is not.
 | — | replace | in the matter preceding paragraph (1) by striking “offshore drilling or production facilities in the oil industry” and inserting “exploration, development, or production of offshore drilling or production facilities in the oil industry a… | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2) by striking “oil exploitation” and inserting “exploration, development, or production of offshore energy resources”. | the bill names no machine-readable US Code section |
 | `33 U.S.C. § 1958` | strike | Section 9(b) of the Marine Debris Act (33 U.S.C. 1958) is amended by striking “, of which not more than 5 percent is authorized for each fiscal year for administrative costs”. | the bill quotes the text struck but describes what replaces it |
-| `43 U.S.C. § 1356` | replace | by striking “(c) The regulations issued under” and all that follows through “to any vessel” in paragraph (1) and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `43 U.S.C. § 1356` | replace | in paragraph (1)(C) by striking “; and” and inserting a period; and | the bill quotes the text struck but describes what replaces it |
-| `43 U.S.C. § 1356` | replace | by striking “(2) to any vessel” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `43 U.S.C. § 1356` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 1331` | insert | The Outer Continental Shelf Lands Act (43 U.S.C. 1331 et seq.) is amended by inserting after section 30 of such Act (43 U.S.C. 1356) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 1331` | amend | by amending paragraph (1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 1331` | amend | by amending paragraph (2)(B) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 1331` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `46 U.S.C. § 55123` | add-at-end | Section 55102 of title 46, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `46 U.S.C. § 55123` | add-at-end | Chapter 551 of title 46, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `46 U.S.C. § 55123` | insert | The table of sections for chapter 551 of title 46, United States Code, is amended by inserting after the item relating to section 55123 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 1331` | add-at-end | Subchapter I of chapter 700 of title 46, United States Code, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 1331` | add-at-end | The analysis for chapter 700 of title 46, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | insert | in subparagraph (A) by inserting “or other energy production or transmission facility, or vessel engaged in the launch, recovery, or support of commercial space transportation or space exploration activities” after “drilling unit”; and | the bill names no machine-readable US Code section |
-| — | insert | in subparagraph (B) by inserting “or other energy production or transmission facility, or vessel engaged in the launch, recovery, or support of commercial space transportation or space exploration activities” after “drilling unit”; and | the bill names no machine-readable US Code section |
-| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | `33 U.S.C. § 1321` | add-at-end | Section 311(j) of the Federal Water Pollution Control Act (33 U.S.C. 1321(j)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2713` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2717` | add-at-end | Section 1017 of the Oil Pollution Act of 1990 (33 U.S.C. 2717) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1078,8 +1074,8 @@ complete account of the bill's effect, which it is not.
 | — | insert | The analysis for chapter 19 of title 14, United States Code, is further amended by inserting after the item relating to section 1908 (as added by this Act) the following: | the bill names no machine-readable US Code section |
 | `10 U.S.C. § 1561` | replace | by striking subsections (c) through (e) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 1561` | amend | Section 5112 of title 14, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `10 U.S.C. § 1561` | replace | The table of sections for chapter 19 of title 14, United States Code, is amended by striking the item relating to section 1902 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `10 U.S.C. § 1561` | replace | The table of sections for chapter 51 of title 14, United States Code, is amended by striking the item relating to section 5112 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 1561` | replace | The analysis for chapter 19 of title 14, United States Code, is amended by striking the item relating to section 1902 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 1561` | replace | The analysis for chapter 51 of title 14, United States Code, is amended by striking the item relating to section 5112 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Section 2158 of title 14, United States Code, is amended in the matter preceding paragraph (1) by striking “may at any time convene a board of officers” and inserting “shall prescribe, by regulation, procedures”. | the bill names no machine-readable US Code section |
 | — | replace | Section 2159(c) of title 14, United States Code, is amended by striking “send the record of its proceedings to a board of review” and inserting “recommend to the Secretary that the officer not be retained on active duty”. | the bill names no machine-readable US Code section |
 | — | repeal | Section 2160 of title 14, United States Code, is repealed. | the bill names no machine-readable US Code section |
@@ -1130,8 +1126,8 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting “or the Secretary of the department in which the Coast Guard is operating when not operating as a service in the Navy” after “Secretary of Defense”; and | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (1) by inserting “departments or the Commandant” after “Secretaries of the military”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | add-at-end | Chapter 3 of title 14, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | insert | The analysis for Chapter 3 of title 14, United States Code, is amended by inserting after the item relating to section 324 the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 3 of title 14, United States Code, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | The analysis for Chapter 3 of title 14, United States Code, is further amended by inserting after the item relating to section 326 the following: | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (B) by inserting “a” before “competent authority”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraphs (C) through (E) as subparagraphs (F) through (H), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subparagraph (B) the following: | the bill names no machine-readable US Code section |
@@ -1150,3 +1146,5 @@ complete account of the bill's effect, which it is not.
 | `50 U.S.C. § 191` | replace | In the analysis for chapter 700 by striking the item relating to section 70006 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 191` | insert | In the heading for subchapter IV in the analysis for chapter 700 by inserting a comma after “Definitions”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 2716` | redesignate | by redesignating subsections (e) through (i) as subsections (d) through (h), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `14 U.S.C. § 550` | redesignate | Chapter 5 of title 14, United States Code, is amended by redesignating the second section 548 (relating to Marking anchorage grounds by Commandant of the Coast Guard) as section 551. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `14 U.S.C. § 550` | insert | The analysis for chapter 5 of title 14, United States Code, is amended by inserting after the item relating to section 550 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

@@ -16,4 +16,4 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 2. Commandant defined
 
-In this Act, the term Commandant means the commandant of the Coast Guard.
+In this Act, the term Commandant means the Commandant of the Coast Guard.
