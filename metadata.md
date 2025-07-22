@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2170
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2170
@@ -30,9 +30,10 @@ To name the Department of Veterans Affairs community-based outpatient clinic in 
 - Rep. Sherrill, Mikie [D-NJ-11] (S001207)
 - Rep. Watson Coleman, Bonnie [D-NJ-12] (W000822)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ To name the Department of Veterans Affairs community-based outpatient clinic in 
 - 2025-07-21 — Mr. Bost moved to suspend the rules and pass the bill.
 - 2025-07-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3489-3490)
 - 2025-07-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3489-3490)
+- 2025-07-22 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
