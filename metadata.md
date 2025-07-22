@@ -1,7 +1,7 @@
 ---
 measure: H.R. 183
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 183
@@ -20,10 +20,11 @@ Law Enforcement Officer and Firefighter Recreation Pass Act
 
 - Rep. Onder, Robert F. [R-MO-3] (O000177)
 
-## Committees (2)
+## Committees (3)
 
 - House — Agriculture Committee
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Law Enforcement Officer and Firefighter Recreation Pass Act
 - 2025-07-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3496)
 - 2025-07-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3496)
 - 2025-07-21 — The title of the measure was amended. Agreed to without objection.
+- 2025-07-22 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
