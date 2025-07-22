@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3095
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3095
@@ -52,9 +52,10 @@ To direct the United States Postal Service to designate single, unique ZIP Codes
 - Rep. Timmons, William R. [R-SC-4] (T000480)
 - Rep. Hurd, Jeff [R-CO-3] (H001100)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -75,3 +76,4 @@ To direct the United States Postal Service to designate single, unique ZIP Codes
 - 2025-07-21 — Mr. Comer moved to suspend the rules and pass the bill, as amended.
 - 2025-07-21 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 278 - 121 (Roll no. 213). (text: CR H3493)
 - 2025-07-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 278 - 121 (Roll no. 213). (text: CR H3493: 1)
+- 2025-07-22 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
