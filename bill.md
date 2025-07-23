@@ -1,0 +1,31 @@
+---
+legis-num: H.R. 4746
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4746
+
+> To prohibit the imposition of duties on certain baby food items pursuant to the International Emergency Economic Powers Act, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Baby Food Tax Relief Act”.
+
+## § 2. Prohibition on imposition of duties on certain baby food items pursuant to the International Emergency Economic Powers Act
+
+- **(a)** *In general* Notwithstanding any other provision of law, the President—
+  - **(1)** may not impose duties on the items described in section 3 pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.); and
+  - **(2)** shall terminate the imposition of duties on the items described in section 3 pursuant to the International Emergency Economic Powers Act that are in effect as of the date of the enactment of this Act.
+- **(b)** *Duties under other authorities* Any duties imposed by the President on the items described in section 3 pursuant to any other authority that are substantially similar to the duties imposed pursuant to the International Emergency Economic Powers Act shall have no force or effect.
+
+## § 3. Items described
+
+The items described in this section are the following:
+
+- **(1)** Baby bottles.
+- **(2)** Breast pumps.
+- **(3)** Highchairs and booster seats.
+- **(4)** Nursing nipples.
+- **(5)** Baby formula.
