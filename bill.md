@@ -1,0 +1,27 @@
+---
+legis-num: H.R. 4670
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4670
+
+> To subject emergency legislation enacted by the District of Columbia Council to expedited congressional disapproval procedures.
+
+## § 1. Congressional disapproval of emergency District of Columbia legislation
+
+The District of Columbia Home Rule Act is amended—
+
+- **(1)** in section 412(a) (sec. 1–204.12(a), D.C. Official Code), in the fifth sentence, by inserting after “ninety days” the following: “, unless a joint resolution of disapproval is enacted under section 604 before the expiration of that period”; and
+- **(2)** in section 602(c) (sec. 1–206.02(c), D.C. Official Code)—
+  - **(A)** in paragraph (1)—
+    - **(i)** in the first sentence, by striking “any act which the Council determines, according to section 412(a), should take effect immediately because of emergency circumstances,”; and
+    - **(ii)** in the second sentence, by striking “paragraph (2)” and inserting “paragraphs (2) and (3)”;
+  - **(B)** by redesignating paragraph (3) as paragraph (4); and
+  - **(C)** by inserting after paragraph (2) the following:
+    > - **(3)**
+    >   - **(A)** In the case of any such Act transmitted by the Chairman which the Council determines according to section 412(a) should take effect immediately because of emergency circumstances, the Act shall take effect immediately upon enactment.
+    >   - **(B)** The Chairman of the Council shall transmit an Act described in subparagraph (A) to—
+    >     - **(i)** the Speaker of the House of Representatives not later than 3 session days (with respect to the House of Representatives) after the date of enactment of the Act; and
+    >     - **(ii)** the President of the Senate not later than 3 session days (with respect to the Senate) after the date of enactment of the Act.
