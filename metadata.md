@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3937
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3937
@@ -16,10 +16,11 @@ Wabeno Economic Development Act
 
 - Rep. Tiffany, Thomas P. [R-WI-7] (T000165)
 
-## Committees (2)
+## Committees (3)
 
 - House — Natural Resources Committee
 - House — Agriculture Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -43,3 +44,4 @@ Wabeno Economic Development Act
 - 2025-07-22 — Mr. Tiffany moved to suspend the rules and pass the bill, as amended.
 - 2025-07-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 1 (Roll no. 215). (text: CR H3541)
 - 2025-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 410 - 1 (Roll no. 215). (text: CR H3541)
+- 2025-07-23 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
