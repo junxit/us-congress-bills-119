@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 4722
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4722
+
+> To amend title XIX of the Social Security Act to require a Federal medical assistance percentage of 100 percent for urban Indian organizations, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Urban Indian Health Parity Act”.
+
+## § 2. Full Federal medical assistance percentage for urban Indian organizations
+
+Section 1905(b) of the Social Security Act (42 U.S.C. 1396d(b)) is amended by inserting after “by an Indian tribe or tribal organization (as defined in section 4 of the Indian Health Care Improvement Act)” the following: “, or through an urban Indian organization (as defined in section 4 of such Act) pursuant to a grant or contract with the Indian Health Service under the Indian Health Care Improvement Act”.
