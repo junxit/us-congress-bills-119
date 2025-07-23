@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1917
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1917
@@ -25,9 +25,10 @@ Great Lakes Mass Marking Program Act of 2025
 - Rep. Kaptur, Marcy [D-OH-9] (K000009)
 - Rep. Quigley, Mike [D-IL-5] (Q000023)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (1)
 
@@ -54,3 +55,4 @@ Great Lakes Mass Marking Program Act of 2025
 - 2025-07-22 — Mr. Tiffany moved to suspend the rules and pass the bill, as amended.
 - 2025-07-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 360 - 57 (Roll no. 216). (text: CR H3543)
 - 2025-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 360 - 57 (Roll no. 216). (text: CR H3543)
+- 2025-07-23 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
