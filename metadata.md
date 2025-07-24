@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3357
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3357
@@ -16,9 +16,10 @@ Enhancing Multi-Class Share Disclosures Act
 
 - Rep. Meeks, Gregory W. [D-NY-5] (M001137)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -42,3 +43,4 @@ Enhancing Multi-Class Share Disclosures Act
 - 2025-07-23 — Motion to reconsider laid on the table Agreed to without objection.
 - 2025-07-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 381 - 31 (Roll no. 217). (text: 07/21/2025 CR H3508)
 - 2025-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 381 - 31 (Roll no. 217). (text: 07/21/2025 CR H3508)
+- 2025-07-24 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
