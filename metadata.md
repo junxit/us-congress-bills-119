@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1549
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1549
@@ -21,9 +21,10 @@ China Financial Threat Mitigation Act of 2025
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 - Rep. Lawler, Michael [R-NY-17] (L000599)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ China Financial Threat Mitigation Act of 2025
 - 2025-07-23 — Mr. Williams (TX) moved to suspend the rules and pass the bill, as amended.
 - 2025-07-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3620)
 - 2025-07-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3620)
+- 2025-07-24 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
