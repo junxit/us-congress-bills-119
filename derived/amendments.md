@@ -1,7 +1,7 @@
 ---
 measure: H.R. 940
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-21 amendatory instructions. 3 executed, 18 stated and not applied.
+22 amendatory instructions. 3 executed, 19 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,7 +26,7 @@ to guess them.
 
 ### 12 U.S.C. § 4806
 
-> in the heading, by striking “REGULATORY APPEALS PROCESS, OMBUDSMAN,” and inserting “OMBUDSMAN”;
+> in the heading, by striking “REGULATORY APPEALS PROCESS, OMBUDSMAN,” and inserting “OMBUDSMAN” (and by conforming the item relating to such section in the table of contents accordingly);
 
 | | |
 |---|---|
@@ -61,13 +61,13 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `12 U.S.C. § 3301` | add-at-end | The Federal Financial Institutions Examination Council Act of 1978 (12 U.S.C. 3301 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 3301` | add-at-end | The Federal Financial Institutions Examination Council Act of 1978 (12 U.S.C. 3301 et seq.), as amended by section 2 of this Act, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 3302` | strike | in paragraph (2), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `12 U.S.C. § 3302` | amend | in paragraph (3), by adding “and” at the end; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 3301` | add-at-end | The Federal Financial Institutions Examination Council Act of 1978 (12 U.S.C. 3301 et seq.), as amended by section 2, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 3301` | add-at-end | The Federal Financial Institutions Examination Council Act of 1978 (12 U.S.C. 3301 et seq.), as amended by section 3, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 3302` | strike | in paragraph (2), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 3302` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 3301` | add-at-end | The Federal Financial Institutions Examination Council Act of 1978 (12 U.S.C. 3301 et seq.), as amended by sections 2 and 3 of this Act, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 3301` | add-at-end | The Federal Financial Institutions Examination Council Act of 1978 (12 U.S.C. 3301 et seq.), as amended by section 4, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 4806` | strike | by striking subsections (a), (b), and (c); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 4806` | redesignate | by redesignating subsections (d), (e), (f), and (g) as subsections (a), (b), (c), and (d), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 4806` | redesignate | by redesignating subsections (d), (e), (f), and (g) as subsections (a), (b), (c), and (d), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 4806` | strike | in subparagraph (B), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 4806` | replace | in subparagraph (C), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `12 U.S.C. § 4806` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -76,5 +76,6 @@ complete account of the bill's effect, which it is not.
 | `12 U.S.C. § 4806` | replace | in clause (iii), by striking “; and” and inserting a semicolon; and | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 4806` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1785` | insert | Section 205(j) of the Federal Credit Union Act (12 U.S.C. 1785(j)) is amended by inserting “the Bureau of Consumer Financial Protection,” before “the Administration” each place that term appears. | the bill quotes the text inserted but describes where it goes |
-| `12 U.S.C. § 3302` | replace | in section 1003 (12 U.S.C. 3302) by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 3302` | replace | by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 3302` | replace | in paragraph (3), by striking the semicolon at the end and inserting “, except that for purposes of sections 1012 through 1015, the term financial institution does not include a credit union that is not an insured credit union;”; | the bill quotes the text inserted but describes where it goes |
 | `12 U.S.C. § 3304` | insert | by inserting “described under section 1003(1)(A)” after “agencies”. | the bill quotes the text inserted but describes where it goes |

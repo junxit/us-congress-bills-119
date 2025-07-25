@@ -1,7 +1,7 @@
 ---
 measure: H.R. 940
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 940
@@ -16,7 +16,7 @@ FAIR Exams Act
 
 - Rep. Hill, J. French [R-AR-2] (H001072)
 
-## Cosponsors (6)
+## Cosponsors (10)
 
 - Rep. Meuser, Daniel [R-PA-9] (M001204)
 - Rep. Wagner, Ann [R-MO-2] (W000812)
@@ -24,6 +24,10 @@ FAIR Exams Act
 - Rep. Timmons, William R. [R-SC-4] (T000480)
 - Rep. Moore, Tim [R-NC-14] (M001236)
 - Rep. Williams, Roger [R-TX-25] (W000816)
+- Rep. Haridopolos, Mike [R-FL-8] (H001099)
+- Rep. Sessions, Pete [R-TX-17] (S000250)
+- Rep. Scott, David [D-GA-13] (S001157)
+- Rep. Fields, Cleo [D-LA-6] (F000110)
 
 ## Committees (1)
 
@@ -34,3 +38,8 @@ FAIR Exams Act
 - 2025-02-04 — Introduced in House
 - 2025-02-04 — Introduced in House
 - 2025-02-04 — Referred to the House Committee on Financial Services.
+- 2025-05-21 — Committee Consideration and Mark-up Session Held
+- 2025-05-21 — Ordered to be Reported (Amended) by the Yeas and Nays: 35 - 17.
+- 2025-07-25 — Placed on the Union Calendar, Calendar No. 176.
+- 2025-07-25 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-216.
+- 2025-07-25 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-216.
