@@ -1,7 +1,7 @@
 ---
 measure: S. 1528
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1528
@@ -16,9 +16,10 @@ CHILD Act of 2025
 
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Ossoff, Jon [D-GA] (O000174)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ CHILD Act of 2025
 
 - 2025-04-30 — Introduced in Senate
 - 2025-04-30 — Read twice and referred to the Committee on the Judiciary. (text: CR S2716)
+- 2025-07-24 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2025-07-28 — Committee on the Judiciary. Reported without amendment. Without written report.
+- 2025-07-28 — Committee on the Judiciary. Reported without amendment. Without written report.
+- 2025-07-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 128.
