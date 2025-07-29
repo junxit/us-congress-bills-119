@@ -1,7 +1,7 @@
 ---
 measure: S. 389
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 389
@@ -30,3 +30,7 @@ Setting Consumer Standards for Lithium-Ion Batteries Act
 
 - 2025-02-04 — Introduced in Senate
 - 2025-02-04 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2025-03-12 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment favorably.
+- 2025-07-29 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment. With written report No. 119-50.
+- 2025-07-29 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment. With written report No. 119-50.
+- 2025-07-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 133.
