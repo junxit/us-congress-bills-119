@@ -56,3 +56,7 @@ This Act may be cited as the “Women Veterans Cancer Care Coordination Act”.
   - **(3)** The term breast cancer has the meaning given such term by the Director of the Breast and Gynecologic Oncology System of Excellence.
   - **(4)** The term gynecologic cancer means cervical cancer, ovarian cancer, uterine cancer, vaginal cancer, vulvar cancer, and gestational trophoblastic neoplasia.
   - **(5)** The term non-Department facility has the meaning given that term in section 1701 of title 38, United States Code.
+
+## § 3. Extension of certain limits on payments of pension
+
+Section 5503(d)(7) of title 38, United States Code, is amended by striking “November 30, 2031” and inserting “September 30, 2032”.
