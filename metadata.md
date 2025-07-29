@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 309
 congress: 119
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 309
@@ -28,3 +28,7 @@ A resolution commemorating the 65th anniversary of the Marshall Space Flight Cen
 
 - 2025-06-26 — Introduced in Senate
 - 2025-06-26 — Referred to the Committee on Commerce, Science, and Transportation.
+- 2025-07-29 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2025-07-29 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4856; text: 06/26/2025 CR S3566)
+- 2025-07-29 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2025-07-29 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
