@@ -1,7 +1,7 @@
 ---
 measure: S. 289
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 289
@@ -16,10 +16,11 @@ Youth Poisoning Protection Act
 
 - Sen. Duckworth, Tammy [D-IL] (D000622)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Sen. Curtis, John R. [R-UT] (C001114)
 - Sen. Moreno, Bernie [R-OH] (M001242)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
 
 ## Committees (1)
 
@@ -29,3 +30,7 @@ Youth Poisoning Protection Act
 
 - 2025-01-29 — Introduced in Senate
 - 2025-01-29 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2025-03-12 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2025-07-29 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-49.
+- 2025-07-29 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-49.
+- 2025-07-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 132.
