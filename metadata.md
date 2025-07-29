@@ -1,7 +1,7 @@
 ---
 measure: S. 1703
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1703
@@ -28,3 +28,7 @@ Rural Small Business Resilience Act
 
 - 2025-05-08 — Introduced in Senate
 - 2025-05-08 — Read twice and referred to the Committee on Small Business and Entrepreneurship.
+- 2025-07-16 — Committee on Small Business and Entrepreneurship. Ordered to be reported without amendment favorably.
+- 2025-07-29 — Committee on Small Business and Entrepreneurship. Reported by Senator Ernst without amendment. Without written report.
+- 2025-07-29 — Committee on Small Business and Entrepreneurship. Reported by Senator Ernst without amendment. Without written report.
+- 2025-07-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 131.
