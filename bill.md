@@ -1,0 +1,22 @@
+---
+legis-num: S. 2553
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2553
+
+> To amend the Immigration and Nationality Act to classify aliens who have been convicted of, or who have committed, an offense for driving while intoxicated or impaired as inadmissible and deportable.
+
+## § 1. Short title
+
+This Act may be cited as the “Protect Our Communities from DUIs Act”.
+
+## § 2. Inadmissibility and deportability related to driving while intoxicated or impaired
+
+- **(a)** *Inadmissibility* Section 212(a)(2) of the Immigration and Nationality Act (8 U.S.C. 1182(a)(2)) is amended by adding at the end the following:
+  > - **(J)** *Driving while intoxicated or impaired* Any alien who has been convicted of, who admits having committed, or who admits committing, acts constituting the essential elements of an offense for driving while intoxicated or impaired (as such terms are defined by the law of the jurisdiction in which the conviction, offense, or acts constituting the essential elements of the offense occurred), including an offense for driving while under the influence of, or impaired by, alcohol or drugs, is inadmissible, regardless of whether such conviction or offense is classified as a misdemeanor or felony under Federal, State, tribal, or local law.
+
+- **(b)** *Deportability* Section 237(a)(2) of the Immigration and Nationality Act (8 U.S.C. 1227(a)(2)) is amended by adding at the end the following:
+  > - **(G)** *Driving while intoxicated or impaired* Any alien who has been convicted of an offense for driving while intoxicated or impaired (as such terms are defined by the law of the jurisdiction in which the conviction occurred), including a conviction for driving while under the influence of, or impaired by, alcohol or drugs, is deportable, regardless of whether such conviction is classified as a misdemeanor or felony under Federal, State, tribal, or local law.
