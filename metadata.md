@@ -1,7 +1,7 @@
 ---
 measure: S. 901
 congress: 119
-version: Introduced in Senate
+version: Reference Change Senate
 ---
 
 # S. 901
@@ -16,6 +16,10 @@ LIONs Act of 2025
 
 - Sen. Tillis, Thomas [R-NC] (T000476)
 
+## Cosponsors (1)
+
+- Sen. Fetterman, John [D-PA] (F000479)
+
 ## Committees (1)
 
 - Senate — Banking, Housing, and Urban Affairs Committee
@@ -24,3 +28,6 @@ LIONs Act of 2025
 
 - 2025-03-06 — Introduced in Senate
 - 2025-03-06 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2025-07-30 — Referred to the Committee on Small Business and Entrepreneurship.
+- 2025-07-30 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2025-07-30 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
