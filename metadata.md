@@ -1,7 +1,7 @@
 ---
 measure: S. 2232
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2232
@@ -24,3 +24,7 @@ Expanding the Surety Bond Program Act of 2025
 
 - 2025-07-09 — Introduced in Senate
 - 2025-07-09 — Read twice and referred to the Committee on Small Business and Entrepreneurship.
+- 2025-07-16 — Committee on Small Business and Entrepreneurship. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2025-07-30 — Committee on Small Business and Entrepreneurship. Reported by Senator Ernst with an amendment in the nature of a substitute. Without written report.
+- 2025-07-30 — Committee on Small Business and Entrepreneurship. Reported by Senator Ernst with an amendment in the nature of a substitute. Without written report.
+- 2025-07-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 135.

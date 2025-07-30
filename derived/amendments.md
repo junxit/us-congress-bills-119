@@ -1,7 +1,7 @@
 ---
 measure: S. 2232
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-8 amendatory instructions. 3 executed, 5 stated and not applied.
+19 amendatory instructions. 6 executed, 13 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -51,6 +51,33 @@ to guess them.
 | Removed | `, or` |
 | Inserted | `; or` |
 
+### 15 U.S.C. § 694b
+
+> by striking “$6,500,000” and inserting “$18,000,000”; and
+
+| | |
+|---|---|
+| Removed | `$6,500,000` |
+| Inserted | `$18,000,000` |
+
+### 15 U.S.C. § 694b
+
+> in paragraph (2), by striking “$6,500,000,” and inserting “the amount described in subparagraph (A) or (B)(i) of subsection (a)(1), as applicable;”; and
+
+| | |
+|---|---|
+| Removed | `$6,500,000,` |
+| Inserted | `the amount described in subparagraph (A) or (B)(i) of subsection (a)(1), as applicable;` |
+
+### 15 U.S.C. § 694b
+
+> in paragraph (3), by striking “, or” and inserting “; or”;
+
+| | |
+|---|---|
+| Removed | `, or` |
+| Inserted | `; or` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -65,3 +92,11 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 694c` | strike | in subsection (a), in the third sentence, by striking “, excluding administrative expenses,”; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 694c` | redesignate | by redesignating subsection (b) as subsection (c); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 694c` | insert | by inserting after subsection (a) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 694b` | insert | by inserting “, subject to the exception in subparagraph (B)” after “United States Code”; and | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 694b` | replace | by striking subparagraph (B) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 694b` | replace | in paragraph (1), by striking the comma at the end and inserting a semicolon; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 694c` | strike | in subsection (a), in the third sentence, by striking “, excluding administrative expenses,”; | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 694c` | redesignate | by redesignating subsection (b) as subsection (c); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 694c` | insert | by inserting after subsection (a) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 694c` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 694a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
