@@ -1,0 +1,25 @@
+---
+legis-num: S. 2535
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2535
+
+> To enable passenger vessels that were not built in the United States to receive coastwise endorsement, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Protecting Jobs in American Ports Act”.
+
+## § 2. Coastwise endorsement for passenger vessels
+
+- **(a)** *In general* Section 12112(a)(2)(B) of title 46, United States Code, is amended—
+  - **(1)** in clause (ii), by striking “; or” and inserting a semicolon;
+  - **(2)** in clause (iii), by striking “; and” and inserting “; or”; and
+  - **(3)** by adding at the end the following:
+    > - **(iv)** is a vessel that transports passengers between ports or places in the United States to which the coastwise laws apply, either directly or via a foreign port; and
+
+- **(b)** *Conforming amendment* Section 12121 of title 46, United States Code, is repealed.
+- **(c)** *Rule of construction* Nothing in the amendments made by this section shall be construed to exempt a vessel that transports passengers between ports or places in the United States to which the coastwise laws apply, either directly or via a foreign port, from any applicable law of the United States except as explicitly provided in such amendments.
