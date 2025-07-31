@@ -1,7 +1,7 @@
 ---
 measure: S. 390
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 390
@@ -30,3 +30,7 @@ BADGES for Native Communities Act
 
 - 2025-02-04 — Introduced in Senate
 - 2025-02-04 — Read twice and referred to the Committee on Indian Affairs.
+- 2025-03-05 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2025-07-31 — Committee on Indian Affairs. Reported by Senator Murkowski without amendment. With written report No. 119-53.
+- 2025-07-31 — Committee on Indian Affairs. Reported by Senator Murkowski without amendment. With written report No. 119-53.
+- 2025-07-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 138.
