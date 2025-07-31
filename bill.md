@@ -1,0 +1,18 @@
+---
+legis-num: S. 2602
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2602
+
+> To amend title 10, United States Code, to expand the scope of affirmation of authority for cyber operations to include defense of critical infrastructure of the Department of Defense, and for other purposes.
+
+## § 1. Expansion of scope of affirmation of authority for cyber operations to include defense of critical infrastructure of the Department of Defense
+
+- **(a)** *Scope of affirmation of authority* Subsection (b) of section 394 of title 10, United States Code, is amended by inserting “defense of critical infrastructure of the Department of Defense,” after “force protection,”.
+- **(b)** *Amendment to definitions* Subsection (f) of such section 394 is amended—
+  - **(1)** by redesignating paragraphs (2) and (3) as paragraphs (3) and (4), respectively; and
+  - **(2)** by inserting after paragraph (1) the following new paragraph (2):
+    > - **(2)** The term critical infrastructure of the Department of Defense means any asset of the Department of Defense of such extraordinary importance to the functioning of the Department and the operation of the armed forces that the incapacitation or destruction of such asset by a cyber attack would have a debilitating effect on the ability of the Department to fulfill its missions.
