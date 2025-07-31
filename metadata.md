@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4016
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4016
@@ -247,3 +247,6 @@ Department of Defense Appropriations Act, 2026
 - 2025-07-18 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 4016.
 - 2025-07-18 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2025-07-18 — The previous question was ordered pursuant to the rule.
+- 2025-07-23 — Received in the Senate.
+- 2025-07-30 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2025-07-31 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 136.
