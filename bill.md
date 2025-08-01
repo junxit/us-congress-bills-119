@@ -1,0 +1,24 @@
+---
+legis-num: H.R. 4846
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4846
+
+> To amend title 18, United States Code, to provide for an affirmative defense in a criminal or civil action relating to motor vehicle incidents if cases in which a certain party is convicted of riot.
+
+## § 1. Short title
+
+This Act may be cited as the “Reinstating Orderly Access for Drivers Act” or the “ROAD Act”.
+
+## § 2. Affirmative defense in a criminal or civil action; party convicted of riot
+
+- **(a)** *In general* Chapter 2 of title 18, United States Code, is amended by adding at the end the following:
+  > ## § 40B. Affirmative defense in a criminal or civil action; party convicted of riot
+  >
+  > - **(a)** In a criminal or civil action for damages for personal injury, wrongful death, or property damage carried out using a motor vehicle, it is an affirmative defense that such action arose from an injury or damage sustained by a participant acting in furtherance of a riot. The affirmative defense authorized by this section shall be established by evidence that the participant has been convicted of violating section 2101, or by proof of the commission of such crime by a preponderance of the evidence.
+  > - **(b)** In a civil action in which a defendant raises an affirmative defense under this section, the court shall, on motion by the defendant, stay the action during the pendency of a criminal action that forms the basis for the defense, unless the court finds that a conviction in the criminal action would not form a valid defense under this section.
+
+- **(b)** *Clerical amendment* The analysis for chapter 2 of title 18, United States Code, is amended by adding at the end the following:
