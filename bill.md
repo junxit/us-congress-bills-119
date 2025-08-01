@@ -90,5 +90,5 @@ Congress finds the following:
     - **(A)** under chapter 7 of title 11, United States Code; or
     - **(B)** under chapter 11, 12, or 13 of title 11, United States Code, that is converted to a case under chapter 7 of title 7, United States Code.
   - **(2)** *Bankruptcy fees* Section 4 and the amendments made by section 4 shall apply to—
-    - **(A)** any case pending under chapter 11 of title 11, United States Code, on or after October 1 that first occurs after October 1 that first occurs after the date of enactment of this Act; and
+    - **(A)** any case pending under chapter 11 of title 11, United States Code, on or after October 1 that first occurs after the date of enactment of this Act; and
     - **(B)** quarterly fees payable under section 1930(a)(6) of title 28, United States Code, for disbursements made in any calendar quarter that begins on or after October 1 that first occurs after the date of enactment of this Act.
