@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3944
 congress: 119
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 3944
@@ -16,16 +16,98 @@ Military Construction and Veterans Affairs, Agriculture, and Legislative Branch 
 
 - Rep. Carter, John R. [R-TX-31] (C001051)
 
+## Cosponsors (67)
+
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Tuberville, Tommy [R-AL] (T000278)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Tuberville, Tommy [R-AL] (T000278)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Luján, Ben Ray [D-NM] (L000570)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Cotton, Tom [R-AR] (C001095)
+- Sen. Gallego, Ruben [D-AZ] (G000574)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Luján, Ben Ray [D-NM] (L000570)
+- Sen. Hyde-Smith, Cindy [R-MS] (H001079)
+- Sen. Britt, Katie Boyd [R-AL] (B001319)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Luján, Ben Ray [D-NM] (L000570)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+
 ## Committees (2)
 
 - House — Appropriations Committee
 - Senate — Appropriations Committee
 
-## Recorded votes (3)
+## Recorded votes (15)
 
 - 2025-06-25 — [House 119-1-180](votes/house-119-1-0180.md) — On Agreeing to the Amendment — **Agreed to** (219–206)
 - 2025-06-25 — [House 119-1-181](votes/house-119-1-0181.md) — On Motion to Recommit — **Failed** (208–216)
 - 2025-06-25 — [House 119-1-182](votes/house-119-1-0182.md) — On Passage — **Passed** (218–206)
+- 2025-07-22 — [Senate 119-1-423](votes/senate-119-1-0423.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (91–7)
+- 2025-07-23 — [Senate 119-1-428](votes/senate-119-1-0428.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (90–8)
+- 2025-08-01 — [Senate 119-1-472](votes/senate-119-1-0472.md) — On the Motion — **Motion Rejected** (44–51)
+- 2025-08-01 — [Senate 119-1-473](votes/senate-119-1-0473.md) — On the Amendment — **Amendment Rejected** (44–51)
+- 2025-08-01 — [Senate 119-1-474](votes/senate-119-1-0474.md) — On the Amendment — **Amendment Rejected** (42–53)
+- 2025-08-01 — [Senate 119-1-475](votes/senate-119-1-0475.md) — On the Amendment — **Amendment Rejected** (45–50)
+- 2025-08-01 — [Senate 119-1-476](votes/senate-119-1-0476.md) — On the Amendment — **Amendment Rejected** (14–81)
+- 2025-08-01 — [Senate 119-1-477](votes/senate-119-1-0477.md) — On the Amendment — **Amendment Rejected** (15–81)
+- 2025-08-01 — [Senate 119-1-478](votes/senate-119-1-0478.md) — On the Amendment — **Amendment Rejected** (21–75)
+- 2025-08-01 — [Senate 119-1-479](votes/senate-119-1-0479.md) — On the Amendment — **Amendment Agreed to** (87–9)
+- 2025-08-01 — [Senate 119-1-480](votes/senate-119-1-0480.md) — On Passage of the Bill — **Bill Passed** (87–9)
+- 2025-08-01 — [Senate 119-1-481](votes/senate-119-1-0481.md) — On the Amendment — **Amendment Agreed to** (81–15)
 
 ## Actions
 
@@ -82,3 +164,406 @@ Military Construction and Veterans Affairs, Agriculture, and Legislative Branch 
 - 2025-07-17 — Committee on Appropriations. Reported by Senator Boozman with an amendment in the nature of a substitute. With written report No. 119-43.
 - 2025-07-17 — Motion to proceed to consideration of measure made in Senate. (CR S4449)
 - 2025-07-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 121.
+- 2025-07-22 — 
+- 2025-07-22 — 
+- 2025-07-22 — 
+- 2025-07-22 — 
+- 2025-07-22 — 
+- 2025-07-22 — 
+- 2025-07-22 — 
+- 2025-07-22 — 
+- 2025-07-22 — 
+- 2025-07-22 — Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 91 - 7. Record Vote Number: 423. (CR S4520)
+- 2025-07-22 — Motion to proceed to measure considered in Senate. (CR S4515)
+- 2025-07-22 — Senate amendment submitted
+- 2025-07-22 — Senate amendment submitted
+- 2025-07-22 — Senate amendment submitted
+- 2025-07-22 — Senate amendment submitted
+- 2025-07-22 — Senate amendment submitted
+- 2025-07-22 — Senate amendment submitted
+- 2025-07-22 — Senate amendment submitted
+- 2025-07-22 — Senate amendment submitted
+- 2025-07-22 — Senate amendment submitted
+- 2025-07-23 — 
+- 2025-07-23 — 
+- 2025-07-23 — 
+- 2025-07-23 — 
+- 2025-07-23 — 
+- 2025-07-23 — 
+- 2025-07-23 — 
+- 2025-07-23 — 
+- 2025-07-23 — 
+- 2025-07-23 — 
+- 2025-07-23 — 
+- 2025-07-23 — 
+- 2025-07-23 — 
+- 2025-07-23 — 
+- 2025-07-23 — 
+- 2025-07-23 — 
+- 2025-07-23 — 
+- 2025-07-23 — 
+- 2025-07-23 — 
+- 2025-07-23 — 
+- 2025-07-23 — 
+- 2025-07-23 — 
+- 2025-07-23 — 
+- 2025-07-23 — 
+- 2025-07-23 — 
+- 2025-07-23 — 
+- 2025-07-23 — 
+- 2025-07-23 — 
+- 2025-07-23 — Measure laid before Senate by motion. (consideration: CR S4588; text: CR S4588-4598)
+- 2025-07-23 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 90 - 8. Record Vote Number: 428.
+- 2025-07-23 — Motion to proceed to measure considered in Senate. (CR S4577)
+- 2025-07-23 — Senate amendment submitted
+- 2025-07-23 — Senate amendment submitted
+- 2025-07-23 — Senate amendment submitted
+- 2025-07-23 — Senate amendment submitted
+- 2025-07-23 — Senate amendment submitted
+- 2025-07-23 — Senate amendment submitted
+- 2025-07-23 — Senate amendment submitted
+- 2025-07-23 — Senate amendment submitted
+- 2025-07-23 — Senate amendment submitted
+- 2025-07-23 — Senate amendment submitted
+- 2025-07-23 — Senate amendment submitted
+- 2025-07-23 — Senate amendment submitted
+- 2025-07-23 — Senate amendment submitted
+- 2025-07-23 — Senate amendment submitted
+- 2025-07-23 — Senate amendment submitted
+- 2025-07-23 — Senate amendment submitted
+- 2025-07-23 — Senate amendment submitted
+- 2025-07-23 — Senate amendment submitted
+- 2025-07-23 — Senate amendment submitted
+- 2025-07-23 — Senate amendment submitted
+- 2025-07-23 — Senate amendment submitted
+- 2025-07-23 — Senate amendment submitted
+- 2025-07-23 — Senate amendment submitted
+- 2025-07-23 — Senate amendment submitted
+- 2025-07-23 — Senate amendment submitted
+- 2025-07-23 — Senate amendment submitted
+- 2025-07-23 — Senate amendment submitted
+- 2025-07-23 — Senate amendment submitted
+- 2025-07-24 — 
+- 2025-07-24 — 
+- 2025-07-24 — 
+- 2025-07-24 — 
+- 2025-07-24 — 
+- 2025-07-24 — 
+- 2025-07-24 — 
+- 2025-07-24 — 
+- 2025-07-24 — 
+- 2025-07-24 — 
+- 2025-07-24 — 
+- 2025-07-24 — 
+- 2025-07-24 — 
+- 2025-07-24 — 
+- 2025-07-24 — 
+- 2025-07-24 — 
+- 2025-07-24 — Senate amendment submitted
+- 2025-07-24 — Senate amendment submitted
+- 2025-07-24 — Senate amendment submitted
+- 2025-07-24 — Senate amendment submitted
+- 2025-07-24 — Senate amendment submitted
+- 2025-07-24 — Senate amendment submitted
+- 2025-07-24 — Senate amendment submitted
+- 2025-07-24 — Senate amendment submitted
+- 2025-07-24 — Senate amendment submitted
+- 2025-07-24 — Senate amendment submitted
+- 2025-07-24 — Senate amendment submitted
+- 2025-07-24 — Senate amendment submitted
+- 2025-07-24 — Senate amendment submitted
+- 2025-07-24 — Senate amendment submitted
+- 2025-07-24 — Senate amendment submitted
+- 2025-07-24 — Senate amendment submitted
+- 2025-07-28 — 
+- 2025-07-28 — 
+- 2025-07-28 — 
+- 2025-07-28 — 
+- 2025-07-28 — 
+- 2025-07-28 — 
+- 2025-07-28 — 
+- 2025-07-28 — 
+- 2025-07-28 — 
+- 2025-07-28 — 
+- 2025-07-28 — 
+- 2025-07-28 — 
+- 2025-07-28 — 
+- 2025-07-28 — 
+- 2025-07-28 — 
+- 2025-07-28 — 
+- 2025-07-28 — 
+- 2025-07-28 — 
+- 2025-07-28 — 
+- 2025-07-28 — Senate amendment submitted
+- 2025-07-28 — Senate amendment submitted
+- 2025-07-28 — Senate amendment submitted
+- 2025-07-28 — Senate amendment submitted
+- 2025-07-28 — Senate amendment submitted
+- 2025-07-28 — Senate amendment submitted
+- 2025-07-28 — Senate amendment submitted
+- 2025-07-28 — Senate amendment submitted
+- 2025-07-28 — Senate amendment submitted
+- 2025-07-28 — Senate amendment submitted
+- 2025-07-28 — Senate amendment submitted
+- 2025-07-28 — Senate amendment submitted
+- 2025-07-28 — Senate amendment submitted
+- 2025-07-28 — Senate amendment submitted
+- 2025-07-28 — Senate amendment submitted
+- 2025-07-28 — Senate amendment submitted
+- 2025-07-28 — Senate amendment submitted
+- 2025-07-28 — Senate amendment submitted
+- 2025-07-28 — Senate amendment submitted
+- 2025-07-29 — 
+- 2025-07-29 — 
+- 2025-07-29 — 
+- 2025-07-29 — 
+- 2025-07-29 — 
+- 2025-07-29 — 
+- 2025-07-29 — 
+- 2025-07-29 — 
+- 2025-07-29 — 
+- 2025-07-29 — 
+- 2025-07-29 — 
+- 2025-07-29 — 
+- 2025-07-29 — 
+- 2025-07-29 — 
+- 2025-07-29 — 
+- 2025-07-29 — 
+- 2025-07-29 — 
+- 2025-07-29 — 
+- 2025-07-29 — 
+- 2025-07-29 — Senate amendment submitted
+- 2025-07-29 — Senate amendment submitted
+- 2025-07-29 — Senate amendment submitted
+- 2025-07-29 — Senate amendment submitted
+- 2025-07-29 — Senate amendment submitted
+- 2025-07-29 — Senate amendment submitted
+- 2025-07-29 — Senate amendment submitted
+- 2025-07-29 — Senate amendment submitted
+- 2025-07-29 — Senate amendment submitted
+- 2025-07-29 — Senate amendment submitted
+- 2025-07-29 — Senate amendment submitted
+- 2025-07-29 — Senate amendment submitted
+- 2025-07-29 — Senate amendment submitted
+- 2025-07-29 — Senate amendment submitted
+- 2025-07-29 — Senate amendment submitted
+- 2025-07-29 — Senate amendment submitted
+- 2025-07-29 — Senate amendment submitted
+- 2025-07-29 — Senate amendment submitted
+- 2025-07-29 — Senate amendment submitted
+- 2025-07-30 — 
+- 2025-07-30 — 
+- 2025-07-30 — 
+- 2025-07-30 — 
+- 2025-07-30 — 
+- 2025-07-30 — 
+- 2025-07-30 — 
+- 2025-07-30 — 
+- 2025-07-30 — 
+- 2025-07-30 — 
+- 2025-07-30 — 
+- 2025-07-30 — 
+- 2025-07-30 — 
+- 2025-07-30 — 
+- 2025-07-30 — 
+- 2025-07-30 — 
+- 2025-07-30 — 
+- 2025-07-30 — Senate amendment submitted
+- 2025-07-30 — Senate amendment submitted
+- 2025-07-30 — Senate amendment submitted
+- 2025-07-30 — Senate amendment submitted
+- 2025-07-30 — Senate amendment submitted
+- 2025-07-30 — Senate amendment submitted
+- 2025-07-30 — Senate amendment submitted
+- 2025-07-30 — Senate amendment submitted
+- 2025-07-30 — Senate amendment submitted
+- 2025-07-30 — Senate amendment submitted
+- 2025-07-30 — Senate amendment submitted
+- 2025-07-30 — Senate amendment submitted
+- 2025-07-30 — Senate amendment submitted
+- 2025-07-30 — Senate amendment submitted
+- 2025-07-30 — Senate amendment submitted
+- 2025-07-30 — Senate amendment submitted
+- 2025-07-30 — Senate amendment submitted
+- 2025-07-31 — 
+- 2025-07-31 — 
+- 2025-07-31 — 
+- 2025-07-31 — 
+- 2025-07-31 — 
+- 2025-07-31 — 
+- 2025-07-31 — 
+- 2025-07-31 — 
+- 2025-07-31 — 
+- 2025-07-31 — 
+- 2025-07-31 — 
+- 2025-07-31 — 
+- 2025-07-31 — Senate amendment submitted
+- 2025-07-31 — Senate amendment submitted
+- 2025-07-31 — Senate amendment submitted
+- 2025-07-31 — Senate amendment submitted
+- 2025-07-31 — Senate amendment submitted
+- 2025-07-31 — Senate amendment submitted
+- 2025-07-31 — Senate amendment submitted
+- 2025-07-31 — Senate amendment submitted
+- 2025-07-31 — Senate amendment submitted
+- 2025-07-31 — Senate amendment submitted
+- 2025-07-31 — Senate amendment submitted
+- 2025-07-31 — Senate amendment submitted
+- 2025-08-01 — 
+- 2025-08-01 — 
+- 2025-08-01 — 
+- 2025-08-01 — 
+- 2025-08-01 — 
+- 2025-08-01 — 
+- 2025-08-01 — 
+- 2025-08-01 — 
+- 2025-08-01 — 
+- 2025-08-01 — 
+- 2025-08-01 — 
+- 2025-08-01 — 
+- 2025-08-01 — 
+- 2025-08-01 — 
+- 2025-08-01 — Amendment SA 3025 agreed to in Senate by Unanimous Consent.
+- 2025-08-01 — Amendment SA 3025 proposed by Senator Collins for Senator Smith to Amendment SA 3411. (consideration: CR S5190-5192) To require a report on veterans participating in the housing choice voucher program.
+- 2025-08-01 — Amendment SA 3070 as modified agreed to in Senate by Unanimous Consent.
+- 2025-08-01 — Amendment SA 3070 proposed by Senator Collins for Senator Paul to Amendment SA 3411. (consideration: CR S5190-5192) To strike a provision relating to hemp.
+- 2025-08-01 — Amendment SA 3073 as modified agreed to in Senate by Unanimous Consent.
+- 2025-08-01 — Amendment SA 3073 proposed by Senator Collins for Senator Cornyn to Amendment SA 3411. (consideration: CR S5190-5192) To require a report on New World screwworm readiness and response.
+- 2025-08-01 — Amendment SA 3080 as modified agreed to in Senate by Unanimous Consent.
+- 2025-08-01 — Amendment SA 3080 proposed by Senator Collins for Senator Hawley to Amendment SA 3411. (consideration: CR S5190-5192) To require reports on facilities at Fort Leonard Wood, Missouri.
+- 2025-08-01 — Amendment SA 3081 as modified agreed to in Senate by Unanimous Consent.
+- 2025-08-01 — Amendment SA 3081 proposed by Senator Collins for Senator Rounds to Amendment SA 3411. (consideration: CR S5190-5192) To provide for the continuation of National Cemetery Administration surveys.
+- 2025-08-01 — Amendment SA 3082 as modified agreed to in Senate by Unanimous Consent.
+- 2025-08-01 — Amendment SA 3082 proposed by Senator Collins for Senator Rounds to Amendment SA 3411. (consideration: CR S5190-5192) To address interment schedule availability at cemetaries under the control of the National Cemetary Administration.
+- 2025-08-01 — Amendment SA 3110 agreed to in Senate by Unanimous Consent.
+- 2025-08-01 — Amendment SA 3110 proposed by Senator Collins for Senator Hirono to Amendment SA 3411. (consideration: CR S5190-5192) To require an assessment of the feasibility of expanding the agricultural quarantine and inspection program to products entering Hawaii.
+- 2025-08-01 — Amendment SA 3113 proposed by Senator Scott FL to Amendment SA 3411. (consideration:  CR S5196-5197) To reduce funding for certain programs under the division making appropriations for Agriculture, Rural Development, Food and Drug Administration, and Related Agencies.
+- 2025-08-01 — Amendment SA 3113, as modified, not agreed to in Senate by Yea-Nay Vote. 15 - 81. Record Vote Number: 477.
+- 2025-08-01 — Amendment SA 3114 proposed by Senator Merkley to Amendment SA 3411. To limit recissions of funding.
+- 2025-08-01 — Amendment SA 3115 not agreed to in Senate by Yea-Nay Vote. 42 - 53. Record Vote Number: 474.
+- 2025-08-01 — Amendment SA 3115 proposed by Senator Van Hollen to Amendment SA 3411. (consideration: CR S5193-5194) To prohibit funds from being used for reorganization of the Department of Agriculture and to require a benefit-cost analysis on that reorganization, a public comment period, and a report.
+- 2025-08-01 — Amendment SA 3163 as modified agreed to in Senate by Unanimous Consent.
+- 2025-08-01 — Amendment SA 3163 proposed by Senator Collins for Senator Crapo to Amendment SA 3411. (consideration: CR S5190-5192) To fund activities relating to the suppression and control of Mormon crickets and grasshoppers.
+- 2025-08-01 — Amendment SA 3190 as modified agreed to in Senate by Unanimous Consent.
+- 2025-08-01 — Amendment SA 3190 proposed by Senator Collins for Senator Moran to Amendment SA 3411. (consideration: CR S5190-5192) To increase funding for the Healthy Fluid Milk Incentives Program, with an offset.
+- 2025-08-01 — Amendment SA 3200 agreed to in Senate by Unanimous Consent.
+- 2025-08-01 — Amendment SA 3200 proposed by Senator Collins for Senator Booker to Amendment SA 3411. (consideration: CR S5190-5192) To increase funding for rural decentralized water systems.
+- 2025-08-01 — Amendment SA 3208 agreed to in Senate by Unanimous Consent.
+- 2025-08-01 — Amendment SA 3208 proposed by Senator Collins for Senator Rosen to Amendment SA 3411. (consideration: CR S5190-5192) To require a briefing on the current status, path forward, and timeline to construct a new medical center of the Department of Veterans Affairs in Reno, Nevada.
+- 2025-08-01 — Amendment SA 3220 as modified agreed to in Senate by Unanimous Consent.
+- 2025-08-01 — Amendment SA 3220 proposed by Senator Collins for Senator Crapo to Amendment SA 3411. (consideration: CR S5190-5192) To require a report on funding for State homes for veterans.
+- 2025-08-01 — Amendment SA 3409 agreed to in Senate by Unanimous Consent.
+- 2025-08-01 — Amendment SA 3409 proposed by Senator Collins for Senator Hirono to Amendment SA 3411. (consideration: CR S5190-5192) To allocate amounts for telehealth for veterans.
+- 2025-08-01 — Amendment SA 3411 proposed by Senator Collins. (consideration: CR S5198) In the nature of a substitute.
+- 2025-08-01 — Amendment SA 3412 proposed by Senator Mullin to Amendment SA 3411. (consideration: CR S5199) To improve the bill.
+- 2025-08-01 — Amendment SA 3413 agreed to in Senate by Voice Vote.
+- 2025-08-01 — Amendment SA 3413 proposed by Senator Tuberville to Amendment SA 3411. (consideration: CR S5195) To require the Secretary of Veterans Affairs to submit a report on the efforts of the Secretary to review and implement staffing models at the Department of Veterans Affairs that will ensure timely, high quality delivery of health care, benefits, and other services furnished by the Department.
+- 2025-08-01 — Amendment SA 3414 not agreed to in Senate by Yea-Nay Vote. 14 - 81. Record Vote Number: 476.
+- 2025-08-01 — Amendment SA 3414 proposed by Senator Kennedy to Amendment SA 3411. (consideration: CR  S5195-5196) To reduce the Agriculture discretionary appropriations by 2 percent across the board.
+- 2025-08-01 — Amendment SA 3416 agreed to in Senate by Unanimous Consent.
+- 2025-08-01 — Amendment SA 3416 proposed by Senator Collins for Senator Budd to Amendment SA 3411. (consideration: CR S5190-5192) To allocate amounts for opioid prevention and treatment programs.
+- 2025-08-01 — Amendment SA 3418 agreed to in Senate by Unanimous Consent.
+- 2025-08-01 — Amendment SA 3418 proposed by Senator Collins for Senator Klobuchar to Amendment SA 3411. (consideration: CR S5190-5192) To provide appropriations to expedite fiber research on industrial hemp and expand cereal research into mycotoxin risk mitigation.
+- 2025-08-01 — Amendment SA 3428 not agreed to in Senate by Yea-Nay Vote. 21 - 75. Record Vote Number: 478.
+- 2025-08-01 — Amendment SA 3428 proposed by Senator Johnson to Amendment SA 3411. (consideration: CR S5197-5198) To limit disclosures regarding earmarks.
+- 2025-08-01 — Amendment SA 3430 agreed to in Senate by Unanimous Consent.
+- 2025-08-01 — Amendment SA 3430 proposed by Senator Collins for Senator Shaheen to Amendment SA 3411. (consideration: CR S5190-5192) To require the Secretary of Veterans Affairs to submit to Congress a report on the use of third-party contractors to conduct medical disability examinations of veterans for purposes of obtaining disability compensation.
+- 2025-08-01 — Amendment SA 3431 agreed to in Senate by Unanimous Consent.
+- 2025-08-01 — Amendment SA 3431 proposed by Senator Collins for Senator Shaheen to Amendment SA 3411. (consideration: CR S5190-5192) To allocate amounts for the Intimate Partner Violence Assistance Program.
+- 2025-08-01 — Amendment SA 3432 agreed to in Senate by Voice Vote.
+- 2025-08-01 — Amendment SA 3432 proposed by Senator Blumenthal to Amendment SA 3411. (consideration: CR S5192-5193) To prohibit the use of funds to reduce services under the Veterans Crisis Line.
+- 2025-08-01 — Amendment SA 3433 agreed to in Senate by Unanimous Consent.
+- 2025-08-01 — Amendment SA 3433 proposed by Senator Collins for Senator Blumenthal to Amendment SA 3411. (consideration: CR S5190-5192) To limit the availability of funds for canceling large contracts without prior notice and explanation to Congress.
+- 2025-08-01 — Amendment SA 3447 not agreed to in Senate by Yea-Nay Vote. 44 - 51. Record Vote Number: 473.
+- 2025-08-01 — Amendment SA 3447 proposed by Senator Murphy to Amendment SA 3411. (consideration: CR S5193) To require a report on veterans who would have been reported to the national instant criminal background check system and who die by suicide with a firearm.
+- 2025-08-01 — Amendment SA 3466 not agreed to in Senate by Yea-Nay Vote. 45 - 50. Record Vote Number: 475.
+- 2025-08-01 — Amendment SA 3466 proposed by Senator Ossoff for Senator Duckworth to Amendment SA 3411. (consideration: CR S5194-5195) To require the Secretary of Veterans Affairs to submit to Congress a report on the plan of the Secretary for Department of Veterans Affairs workforce reduction in fiscal year 2026.
+- 2025-08-01 — Considered by Senate. (consideration: CR S5189-5200)
+- 2025-08-01 — Motion to waive the Budget Act with respect to amendment SA 3114 rejected in Senate by Yea-Nay Vote. 44 - 51. Record Vote Number: 472.
+- 2025-08-01 — Notwithstanding the passage of H.R. 3944, as amended, amendment SA 3412 agreed to in Senate by Yea-Nay Vote. 81 - 15. Record Vote Number: 481.
+- 2025-08-01 — Passed Senate under the order of 8/1/2025, having achieved 60 votes in the affirmative, with an amendment by Yea-Nay Vote. 87 - 9. Record Vote Number: 480.
+- 2025-08-01 — Passed/agreed to in Senate: Passed Senate under the order of 8/1/2025, having achieved 60 votes in the affirmative, with an amendment by Yea-Nay Vote. 87 - 9. Record Vote Number: 480.
+- 2025-08-01 — Point of order that the amendment violates section 306 of the Congressional Budget Act raised in Senate with respect to amendment SA 3114.
+- 2025-08-01 — Roll call votes on amendments in Senate: Amendment SA 3113, as modified, not agreed to in Senate by Yea-Nay Vote. 15 - 81. Record Vote Number: 477.
+- 2025-08-01 — Roll call votes on amendments in Senate: Amendment SA 3115 not agreed to in Senate by Yea-Nay Vote. 42 - 53. Record Vote Number: 474.
+- 2025-08-01 — Roll call votes on amendments in Senate: Amendment SA 3414 not agreed to in Senate by Yea-Nay Vote. 14 - 81. Record Vote Number: 476.
+- 2025-08-01 — Roll call votes on amendments in Senate: Amendment SA 3428 not agreed to in Senate by Yea-Nay Vote. 21 - 75. Record Vote Number: 478.
+- 2025-08-01 — Roll call votes on amendments in Senate: Amendment SA 3447 not agreed to in Senate by Yea-Nay Vote. 44 - 51. Record Vote Number: 473.
+- 2025-08-01 — Roll call votes on amendments in Senate: Amendment SA 3466 not agreed to in Senate by Yea-Nay Vote. 45 - 50. Record Vote Number: 475.
+- 2025-08-01 — Roll call votes on amendments in Senate: Motion to waive the Budget Act with respect to amendment SA 3114 rejected in Senate by Yea-Nay Vote. 44 - 51. Record Vote Number: 472.
+- 2025-08-01 — Roll call votes on amendments in Senate: Notwithstanding the passage of H.R. 3944, as amended, amendment SA 3412 agreed to in Senate by Yea-Nay Vote. 81 - 15. Record Vote Number: 481.
+- 2025-08-01 — Roll call votes on amendments in Senate: Under the order of 8/1/2025, having achieved 60 votes in the affirmative, amendment SA 3411, as amended, agreed to in Senate by Yea-Nay Vote. 87 - 9. Record Vote Number: 479.
+- 2025-08-01 — Ruled out of order by the chair.
+- 2025-08-01 — Senate amendment agreed to: Amendment SA 3025 agreed to in Senate by Unanimous Consent.
+- 2025-08-01 — Senate amendment agreed to: Amendment SA 3070 as modified agreed to in Senate by Unanimous Consent.
+- 2025-08-01 — Senate amendment agreed to: Amendment SA 3073 as modified agreed to in Senate by Unanimous Consent.
+- 2025-08-01 — Senate amendment agreed to: Amendment SA 3080 as modified agreed to in Senate by Unanimous Consent.
+- 2025-08-01 — Senate amendment agreed to: Amendment SA 3081 as modified agreed to in Senate by Unanimous Consent.
+- 2025-08-01 — Senate amendment agreed to: Amendment SA 3082 as modified agreed to in Senate by Unanimous Consent.
+- 2025-08-01 — Senate amendment agreed to: Amendment SA 3110 agreed to in Senate by Unanimous Consent.
+- 2025-08-01 — Senate amendment agreed to: Amendment SA 3163 as modified agreed to in Senate by Unanimous Consent.
+- 2025-08-01 — Senate amendment agreed to: Amendment SA 3190 as modified agreed to in Senate by Unanimous Consent.
+- 2025-08-01 — Senate amendment agreed to: Amendment SA 3200 agreed to in Senate by Unanimous Consent.
+- 2025-08-01 — Senate amendment agreed to: Amendment SA 3208 agreed to in Senate by Unanimous Consent.
+- 2025-08-01 — Senate amendment agreed to: Amendment SA 3220 as modified agreed to in Senate by Unanimous Consent.
+- 2025-08-01 — Senate amendment agreed to: Amendment SA 3409 agreed to in Senate by Unanimous Consent.
+- 2025-08-01 — Senate amendment agreed to: Amendment SA 3413 agreed to in Senate by Voice Vote.
+- 2025-08-01 — Senate amendment agreed to: Amendment SA 3416 agreed to in Senate by Unanimous Consent.
+- 2025-08-01 — Senate amendment agreed to: Amendment SA 3418 agreed to in Senate by Unanimous Consent.
+- 2025-08-01 — Senate amendment agreed to: Amendment SA 3430 agreed to in Senate by Unanimous Consent.
+- 2025-08-01 — Senate amendment agreed to: Amendment SA 3431 agreed to in Senate by Unanimous Consent.
+- 2025-08-01 — Senate amendment agreed to: Amendment SA 3432 agreed to in Senate by Voice Vote.
+- 2025-08-01 — Senate amendment agreed to: Amendment SA 3433 agreed to in Senate by Unanimous Consent.
+- 2025-08-01 — Senate amendment agreed to: Notwithstanding the passage of H.R. 3944, as amended, amendment SA 3412 agreed to in Senate by Yea-Nay Vote. 81 - 15. Record Vote Number: 481.
+- 2025-08-01 — Senate amendment agreed to: Under the order of 8/1/2025, having achieved 60 votes in the affirmative, amendment SA 3411, as amended, agreed to in Senate by Yea-Nay Vote. 87 - 9. Record Vote Number: 479.
+- 2025-08-01 — Senate amendment not agreed to: Amendment SA 3113, as modified, not agreed to in Senate by Yea-Nay Vote. 15 - 81. Record Vote Number: 477.
+- 2025-08-01 — Senate amendment not agreed to: Amendment SA 3115 not agreed to in Senate by Yea-Nay Vote. 42 - 53. Record Vote Number: 474.
+- 2025-08-01 — Senate amendment not agreed to: Amendment SA 3414 not agreed to in Senate by Yea-Nay Vote. 14 - 81. Record Vote Number: 476.
+- 2025-08-01 — Senate amendment not agreed to: Amendment SA 3428 not agreed to in Senate by Yea-Nay Vote. 21 - 75. Record Vote Number: 478.
+- 2025-08-01 — Senate amendment not agreed to: Amendment SA 3447 not agreed to in Senate by Yea-Nay Vote. 44 - 51. Record Vote Number: 473.
+- 2025-08-01 — Senate amendment not agreed to: Amendment SA 3466 not agreed to in Senate by Yea-Nay Vote. 45 - 50. Record Vote Number: 475.
+- 2025-08-01 — Senate amendment proposed (on the floor): Amendment SA 3025 proposed by Senator Collins for Senator Smith to Amendment SA 3411.
+- 2025-08-01 — Senate amendment proposed (on the floor): Amendment SA 3070 proposed by Senator Collins for Senator Paul to Amendment SA 3411.
+- 2025-08-01 — Senate amendment proposed (on the floor): Amendment SA 3073 proposed by Senator Collins for Senator Cornyn to Amendment SA 3411.
+- 2025-08-01 — Senate amendment proposed (on the floor): Amendment SA 3080 proposed by Senator Collins for Senator Hawley to Amendment SA 3411.
+- 2025-08-01 — Senate amendment proposed (on the floor): Amendment SA 3081 proposed by Senator Collins for Senator Rounds to Amendment SA 3411.
+- 2025-08-01 — Senate amendment proposed (on the floor): Amendment SA 3082 proposed by Senator Collins for Senator Rounds to Amendment SA 3411.
+- 2025-08-01 — Senate amendment proposed (on the floor): Amendment SA 3110 proposed by Senator Collins for Senator Hirono to Amendment SA 3411.
+- 2025-08-01 — Senate amendment proposed (on the floor): Amendment SA 3113 proposed by Senator Scott FL to Amendment SA 3411.
+- 2025-08-01 — Senate amendment proposed (on the floor): Amendment SA 3114 proposed by Senator Merkley to Amendment SA 3411.
+- 2025-08-01 — Senate amendment proposed (on the floor): Amendment SA 3115 proposed by Senator Van Hollen to Amendment SA 3411.
+- 2025-08-01 — Senate amendment proposed (on the floor): Amendment SA 3163 proposed by Senator Collins for Senator Crapo to Amendment SA 3411.
+- 2025-08-01 — Senate amendment proposed (on the floor): Amendment SA 3190 proposed by Senator Collins for Senator Moran to Amendment SA 3411.
+- 2025-08-01 — Senate amendment proposed (on the floor): Amendment SA 3200 proposed by Senator Collins for Senator Booker to Amendment SA 3411.
+- 2025-08-01 — Senate amendment proposed (on the floor): Amendment SA 3208 proposed by Senator Collins for Senator Rosen to Amendment SA 3411.
+- 2025-08-01 — Senate amendment proposed (on the floor): Amendment SA 3220 proposed by Senator Collins for Senator Crapo to Amendment SA 3411.
+- 2025-08-01 — Senate amendment proposed (on the floor): Amendment SA 3409 proposed by Senator Collins for Senator Hirono to Amendment SA 3411.
+- 2025-08-01 — Senate amendment proposed (on the floor): Amendment SA 3411 proposed by Senator Collins.
+- 2025-08-01 — Senate amendment proposed (on the floor): Amendment SA 3412 proposed by Senator Mullin to Amendment SA 3411.
+- 2025-08-01 — Senate amendment proposed (on the floor): Amendment SA 3413 proposed by Senator Tuberville to Amendment SA 3411.
+- 2025-08-01 — Senate amendment proposed (on the floor): Amendment SA 3414 proposed by Senator Kennedy to Amendment SA 3411.
+- 2025-08-01 — Senate amendment proposed (on the floor): Amendment SA 3416 proposed by Senator Collins for Senator Budd to Amendment SA 3411.
+- 2025-08-01 — Senate amendment proposed (on the floor): Amendment SA 3418 proposed by Senator Collins for Senator Klobuchar to Amendment SA 3411.
+- 2025-08-01 — Senate amendment proposed (on the floor): Amendment SA 3428 proposed by Senator Johnson to Amendment SA 3411.
+- 2025-08-01 — Senate amendment proposed (on the floor): Amendment SA 3430 proposed by Senator Collins for Senator Shaheen to Amendment SA 3411.
+- 2025-08-01 — Senate amendment proposed (on the floor): Amendment SA 3431 proposed by Senator Collins for Senator Shaheen to Amendment SA 3411.
+- 2025-08-01 — Senate amendment proposed (on the floor): Amendment SA 3432 proposed by Senator Blumenthal to Amendment SA 3411.
+- 2025-08-01 — Senate amendment proposed (on the floor): Amendment SA 3433 proposed by Senator Collins for Senator Blumenthal to Amendment SA 3411.
+- 2025-08-01 — Senate amendment proposed (on the floor): Amendment SA 3447 proposed by Senator Murphy to Amendment SA 3411.
+- 2025-08-01 — Senate amendment proposed (on the floor): Amendment SA 3466 proposed by Senator Ossoff for Senator Duckworth to Amendment SA 3411.
+- 2025-08-01 — Senate amendment submitted
+- 2025-08-01 — Senate amendment submitted
+- 2025-08-01 — Senate amendment submitted
+- 2025-08-01 — Senate amendment submitted
+- 2025-08-01 — Senate amendment submitted
+- 2025-08-01 — Senate amendment submitted
+- 2025-08-01 — Senate amendment submitted
+- 2025-08-01 — Senate amendment submitted
+- 2025-08-01 — Senate amendment submitted
+- 2025-08-01 — Senate amendment submitted
+- 2025-08-01 — Senate amendment submitted
+- 2025-08-01 — Senate amendment submitted
+- 2025-08-01 — Senate amendment submitted
+- 2025-08-01 — Senate amendment submitted
+- 2025-08-01 — The committee substitute withdrawn by Unanimous Consent.
+- 2025-08-01 — Under the order of 8/1/2025, having achieved 60 votes in the affirmative, amendment SA 3411, as amended, agreed to in Senate by Yea-Nay Vote. 87 - 9. Record Vote Number: 479.
