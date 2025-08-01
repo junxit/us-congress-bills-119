@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 60
 congress: 119
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 60
@@ -24,3 +24,6 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - 2025-06-27 — Introduced in Senate
 - 2025-06-27 — Read twice and referred to the Committee on Environment and Public Works.
+- 2025-08-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 142.
+- 2025-08-01 — Senate Committee on Environment and Public Works discharged by petition pursuant to 5 U.S.C. 802(c).
+- 2025-08-01 — Senate Committee on Environment and Public Works discharged by petition pursuant to 5 U.S.C. 802(c).
