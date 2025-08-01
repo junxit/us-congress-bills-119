@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 4866
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4866
+
+> To prohibit Federal election agencies from entering into agreements with international organizations with respect to data sharing or holding an advisory role with the Federal election agency, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “No Foreign Election Partnership Act”.
+
+## § 2. Prohibition with respect to certain Federal election agency agreements with international organizations
+
+- **(a)** *In general* No election agency of the Federal Government may enter into any agreement with an international organization that involves data sharing or such international organization holding an advisory role with the election agency.
+- **(b)** *Election agency of the Federal Government defined* In this section, the term election agency of the Federal Government means the Federal Election Commission, the Election Assistance Commission, or any other entity of the Federal Government responsible for the administration of elections for Federal office.
+- **(c)** *Effective date* This section shall take effect on the date of the enactment of this Act.
