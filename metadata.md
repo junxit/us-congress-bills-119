@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 340
 congress: 119
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 340
@@ -42,3 +42,7 @@ A resolution designating July 30, 2025, as "National Whistleblower Appreciation 
 
 - 2025-07-29 — Introduced in Senate
 - 2025-07-29 — Referred to the Committee on the Judiciary.
+- 2025-08-01 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2025-08-01 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S5475; text: CR S4828)
+- 2025-08-01 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2025-08-01 — Senate Committee on the Judiciary discharged by Unanimous Consent.
