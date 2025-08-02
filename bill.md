@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Captain Paul W. ‘Bud’ Bucha VA Medical Center Act of 2025”.
+This Act may be cited as the “Captain Paul W. 'Bud' Bucha VA Medical Center Act of 2025”.
 
 ## § 2. Findings
 

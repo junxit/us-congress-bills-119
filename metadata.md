@@ -1,7 +1,7 @@
 ---
 measure: S. 2682
 congress: 119
-version: Considered and Passed Senate
+version: Engrossed in Senate
 ---
 
 # S. 2682
