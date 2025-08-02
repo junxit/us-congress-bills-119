@@ -1,0 +1,39 @@
+---
+legis-num: S. 2681
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2681
+
+> To amend the Internal Revenue Code of 1986 to extend the availability of certain clean energy credits.
+
+## § 1. Short title
+
+This Act may be cited as the “Lowering Electric Bills Act”.
+
+## § 2. Extension of certain clean energy credits
+
+- **(a)** *Residential clean energy credit*
+  - **(1)** *In general* Section 25D(h) of the Internal Revenue Code of 1986, as amended by section 70506(a) of Public Law 119–21, is amended by striking “December 31, 2025” and inserting “December 31, 2034”.
+  - **(2)** *Effective date* The amendment made by this section shall take effect as if included in the enactment of section 70506 of Public Law 119–21.
+- **(b)** *Clean electricity production credit*
+  - **(1)** *In general* Section 45Y of the Internal Revenue Code of 1986, as amended by section 70512 of Public Law 119–21, is amended—
+    - **(A)** in subsection (d)—
+      - **(i)** in paragraph (1), by striking “Subject to paragraph (4), the amount of” and inserting “The amount of”, and
+      - **(ii)** by striking paragraphs (3) and (4) and inserting the following new paragraph:
+        > - **(3)** *Applicable year* For purposes of this subsection, the term applicable year means the later of—
+        >   - **(A)** the calendar year in which the Secretary determines that the annual greenhouse gas emissions from the production of electricity in the United States are equal to or less than 25 percent of the annual greenhouse gas emissions from the production of electricity in the United States for calendar year 2022, or
+        >   - **(B)** 2032.
+
+    - **(B)** by striking subsection (h).
+  - **(2)** *Effective date* The amendments made by this section shall take effect as if included in the enactment of section 70512 of Public Law 119–21.
+- **(c)** *Clean electricity investment credit*
+  - **(1)** *In general* Section 48E of the Internal Revenue Code of 1986, as amended by section 70513 of Public Law 119–21, is amended—
+    - **(A)** in subsection (e)—
+      - **(i)** in paragraph (1), by striking “Subject to paragraph (4), the amount of” and inserting “The amount of”, and
+      - **(ii)** by striking paragraph (4),
+    - **(B)** by striking subsection (i), and
+    - **(C)** by redesignating subsection (j) as subsection (i).
+  - **(2)** *Effective date* The amendments made by this section shall take effect as if included in the enactment of section 70513 of Public Law 119–21.
