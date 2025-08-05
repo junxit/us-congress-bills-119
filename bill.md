@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 4899
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4899
+
+> To exempt goods imported by or for the use of small business concerns from the duties imposed by the national emergency declared on February 1, 2025, by the President.
+
+## § 1. Short title
+
+The Act may be cited as the “Creating Access to Necessary American-Canadian Duty Adjustments Act” or the “CANADA Act”.
+
+## § 2. Exemption for certain goods from national emergency
+
+Duties imposed by the national emergency declared on February 1, 2025, by the President in Executive Order 14193 (90 Fed. Reg. 9113), as amended by Executive Order 14197 (90 Fed. Reg. 9183) and Executive Order 14226 (90 Fed. Reg. 11369), shall not apply with respect to goods imported by or for the use of small business concerns, as defined in section 3 of the Small Business Act (15 U.S.C. 632).
