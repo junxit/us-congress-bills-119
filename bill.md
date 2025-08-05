@@ -1,0 +1,27 @@
+---
+legis-num: H.R. 4891
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4891
+
+> To address the growing complexity of the threat environment at United States diplomatic posts.
+
+## § 1. Short title
+
+This Act may be cited as the “Secure Our Embassies Act”.
+
+## § 2. Sense of Congress
+
+Congress—
+
+- **(1)** recognizes the growing complexity of the threat environment at United States diplomatic posts and the critical need for seamless coordination among personnel responsible for information security, physical security, and facility operations;
+- **(2)** supports the Department of State’s efforts to strengthen coordination among Regional Security Officers (RSOs), Diplomatic Technology Officers (DTOs), Regional Security Engineering Officers (RSEOs), and personnel from the Bureau of Overseas Buildings Operations (OBO), particularly during the design, construction, and operations of overseas facilities;
+- **(3)** supports that Department of State personnel serving in these positions receive appropriate and role-specific counterintelligence (CI) and regional specific security training, which should address regional and functional threat vectors, as well as protocols for identifying and mitigating insider threats, foreign intelligence collection risks, and cyber vulnerabilities; and
+- **(4)** supports the development of joint training modules or inter-bureau CI briefings to reinforce shared security responsibilities and to prevent siloed operational cultures.
+
+## § 3. Report
+
+Not later than 180 days after the date of the enactment of this Act, the Secretary of State shall submit to Congress a report on actions the Secretary has taken and will take to improve coordination across the positions described in section 2 and to implement CI training standards for such positions. The report should include a description of current CI training requirements, planned improvements, and any resource needs to support implementation.
