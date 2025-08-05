@@ -1,0 +1,31 @@
+---
+legis-num: H.R. 4879
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4879
+
+> To amend the Consolidated Farm and Rural Development Act to expand eligibility for grants related to emergency water assistance, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Emergency Rural Water Response Act of 2025”.
+
+## § 2. Emergency and imminent community water assistance grant program
+
+Section 306A of the Consolidated Farm and Rural Development Act (7 U.S.C. 1926a) is amended—
+
+- **(1)** in subsection (d)(1)—
+  - **(A)** by redesignating subparagraphs (C) and (D) as subparagraphs (D) and (E), respectively; and
+  - **(B)** by inserting after subparagraph (B) the following:
+    > - **(C)** for associated uses related to water resources infrastructure, including facilities for potable water, wastewater, storm drainage, or solid waste;
+
+- **(2)** in subsection (e)(1)(A), by striking “10,000” and inserting “35,000”.
+
+## § 3. NPDES permit exemption
+
+Section 402(l) of the Federal Water Pollution Control Act (33 U.S.C. 1342(l)) is amended by adding at the end the following:
+
+> - **(4)** *Emergency use of portable water treatment and filtration facilities* During any 6-month period immediately following a declaration by a State of a disaster or state of emergency, no permit shall be required under this section by the Administrator (or the State, in the case of a permit program approved under subsection (b)) for discharges from a portable water treatment and filtration facility installed in the area covered by the declaration to provide clean water as needed to respond to conditions caused by the event that resulted in the declaration.
