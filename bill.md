@@ -17,7 +17,7 @@ This Act may be cited as the “Department of Homeland Security Vehicular Terror
 
 Congress finds the following:
 
-- **(1)** On January 1, 2025, a devastating vehicular terrorist attack occurred on Bourbon Street in New Orleans, Louisiana, when an assailant inspired by the Islamic State drove a vehicle into a crowd and engaged in a shootout with law enforcement. This tragic incident resulted in the loss of fifteen lives and injuries to at least thirty-five others, including two police officers.
+- **(1)** On January 1, 2025, a devastating vehicular terrorist attack occurred on Bourbon Street in New Orleans, Louisiana, when an assailant inspired by the Islamic State drove a vehicle into a crowd and engaged in a shootout with law enforcement. This tragic incident resulted in the loss of 14 lives and injuries to at least thirty-five others, including two police officers.
 - **(2)** Vehicle-ramming attacks and other vehicular terrorist incidents represent an enduring and evolving threat to public safety in the United States and around the world, targeting innocent civilians and first responders.
 - **(3)** These attacks, carried out by both organized terrorist groups and individual actors, often aim to exploit high-density public gatherings, critical infrastructure, and key transportation hubs, causing mass casualties and widespread disruption.
 - **(4)** Emerging automotive technologies, such as autonomous vehicles, Advanced Driver Assistance System (ADAS) capabilities, and ride-sharing platforms, create new vulnerabilities that could be leveraged by malicious actors to conduct sophisticated vehicle-based attacks.
@@ -43,7 +43,7 @@ Congress finds the following:
         - **(VI)** Oil refineries.
         - **(VII)** Public transportation hubs.
         - **(VIII)** Healthcare facilities.
-      - **(ii)** Soft-targets and crowded spaces, including mass gatherings and widely attended events such as parades, concerts, sporting events, political rallies, holiday markets, places of worship, authorized protests, and ceremonial events.
+      - **(ii)** Soft-targets and crowded spaces, including mass gatherings and widely attended events such as parades, concerts, sporting events, political rallies, holiday markets, places of worship, public demonstrations, and ceremonial events.
       - **(iii)** High-density urban areas with limited physical security measures such as pedestrianized city centers, commercial districts, residential neighborhoods, public parks, recreational areas, educational institutions, and tourist destinations.
     - **(C)** A comprehensive summary of actions taken by the Department of Homeland Security, the Transportation Security Administration, and the Cybersecurity and Infrastructure Security Agency to research measures that prevent, deter, and respond to vehicular terrorism, including the following:
       - **(i)** The identification and coordination with State, local, Tribal, and territorial governments and industry partners for the strategic placement of physical barriers, bollards, and other protective infrastructure at higher-risk locations.
@@ -71,7 +71,7 @@ Congress finds the following:
     - **(I)** Such other elements as the Secretary of Homeland Security considers appropriate.
   - **(3)** *Form* The report under paragraph (1) shall be submitted in classified form, but may include an unclassified executive summary.
   - **(4)** *Publication* The unclassified executive summary of the report required under paragraph (1) shall be published on a publicly accessible website of the Department of Homeland Security.
-- **(b)** *Annual briefings* Not later than 30 days after the submission of the report under subsection (a), the Secretary of Homeland Security shall provide to the appropriate congressional committees a briefing on the findings, conclusions, and recommendations of such report.
+- **(b)** *Briefing* Not later than 30 days after the submission of the report under subsection (a), the Secretary of Homeland Security shall provide to the appropriate congressional committees a briefing on the findings, conclusions, and recommendations of such report.
 - **(c)** *Definitions* In this section:
   - **(1)** *Appropriate congressional committees* The term “appropriate congressional committees” means—
     - **(A)** the Committee on Homeland Security of the House of Representatives; and
