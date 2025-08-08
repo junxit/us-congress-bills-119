@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 4937
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 4937
+
+> To codify the Presidential Memorandum of January 12, 2017, relating to promoting diversity and inclusion in our national parks, national forests, and other public lands and waters.
+
+## § 1. Short title
+
+This Act may be cited as the “Expanding Quality and Universal Access to Lands and Parks Act” or “EQUAL Parks Act”.
+
+## § 2. Codifying Presidential Memorandum on promoting diversity and inclusion in public lands and waters
+
+The Presidential Memorandum of January 12, 2017 (Promoting Diversity and Inclusion in Our National Parks, National Forests, and Other Public Lands and Waters; 82 Fed. Reg. 6179) shall have the force and effect of law.
