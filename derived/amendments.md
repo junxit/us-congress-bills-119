@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3174
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -44,7 +44,7 @@ to guess them.
 
 ### 15 U.S.C. § 696
 
-> Section 502(2)(A)(iii) of the Small Business Investment Act (15 U.S.C. 696(2)(A)(iii)) is amended by striking “$5,500,000” and inserting “$10,000,000”.
+> Section 502(2)(A)(iii) of the Small Business Investment Act of 1958 (15 U.S.C. 696(2)(A)(iii)) is amended by striking “$5,500,000” and inserting “$10,000,000”.
 
 | | |
 |---|---|

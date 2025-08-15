@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Made in America Manufacturing Finance Act of 2025”.
+This Act may be cited as the “Made in America Manufacturing Finance Act”.
 
 ## § 2. Definitions
 
@@ -52,4 +52,4 @@ Section 7(a) of the Small Business Act (15 U.S.C. 636(a)) is amended—
 
 ## § 4. Small Business Investment Act of 1958 loan limits for small manufacturers
 
-Section 502(2)(A)(iii) of the Small Business Investment Act (15 U.S.C. 696(2)(A)(iii)) is amended by striking “$5,500,000” and inserting “$10,000,000”.
+Section 502(2)(A)(iii) of the Small Business Investment Act of 1958 (15 U.S.C. 696(2)(A)(iii)) is amended by striking “$5,500,000” and inserting “$10,000,000”.
