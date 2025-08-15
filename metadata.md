@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4491
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4491
@@ -29,3 +29,8 @@ SBA IT Modernization Reporting Act
 - 2025-07-17 — Introduced in House
 - 2025-07-17 — Introduced in House
 - 2025-07-17 — Referred to the House Committee on Small Business.
+- 2025-07-22 — Committee Consideration and Mark-up Session Held
+- 2025-07-22 — Ordered to be Reported by the Yeas and Nays: 23 - 0.
+- 2025-08-15 — Placed on the Union Calendar, Calendar No. 181.
+- 2025-08-15 — Reported by the Committee on Small Business. H. Rept. 119-223.
+- 2025-08-15 — Reported by the Committee on Small Business. H. Rept. 119-223.
