@@ -1,7 +1,7 @@
 ---
 measure: H.R. 980
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+11 amendatory instructions. 0 executed, 11 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,3 +32,13 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | strike | Section 3697B(a) of title 38, United States Code, is amended by striking the second sentence. | the bill names no machine-readable US Code section |
+| — | insert | by inserting “(1)” before “A rehabilitation program”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “To the maximum extent practicable” and inserting “Except as provided under paragraph (2), to the maximum extent practicable”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 3104 of title 38, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 31 of title 38, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections at the beginning of such chapter is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively; | the bill names no machine-readable US Code section |
+| — | insert | by inserting “(1)” before “The Secretary”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | replace | Section 5503(d)(7) of title 38, United States Code, is amended by striking “November 30, 2031” and inserting “May 31, 2032”. | the bill names no machine-readable US Code section |
