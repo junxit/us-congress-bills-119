@@ -20,15 +20,25 @@ This Act may be cited as the “Investing in All of America Act of 2025”.
   - **(2)** in subparagraph (B)(iii)—
     - **(A)** in subclause (I), by striking “established prior to October 1, 1987”;
     - **(B)** in subclause (II)—
-      - **(i)** by striking “or” and inserting “,”; and
-      - **(ii)** by inserting “, or a foundation, endowment, or trust of a college or university” after “pension plan”; and
+      - **(i)** by striking “or” and inserting a comma; and
+      - **(ii)** by inserting “, foundation, endowment, or trust of any college or university” after “pension plan”; and
     - **(C)** in subclause (III), by striking the semicolon at the end and inserting “; and”; and
   - **(3)** by adding at the end the following new subparagraph:
-    > - **(C)** does not include any funds obtained directly or indirectly from any Federal, State or local government or any government agency or instrumentality, except for funds described in subclauses (I) through (III) of subparagraph (B)(iii), for the purpose of approval by the Administrator of any request for leverage.
+    > - **(C)** does not include any funds obtained directly or indirectly from any Federal, State, or local government or any government agency or instrumentality, except for funds described in subclauses (I) through (III) of subparagraph (B)(iii), for the purpose of approval by the Administrator of any request for leverage.
 
 - **(b)** *Maximum leverage exclusion* Section 303(b)(2) of the Small Business Investment Act of 1958 (15 U.S.C. 683(b)(2)) is amended—
-  - **(1)** in subparagraph (A)(i), by striking “300” and inserting “200”;
-  - **(2)** in subparagraph (C)—
+  - **(1)** in subparagraph (A)—
+    - **(A)** in clause (i), by striking “300” and inserting “200”; and
+    - **(B)** by amending clause (ii) to read as follows:
+      > - **(ii)**
+      >   - **(I)** with respect to such a company that makes quarterly or semiannual interest payments $250,000,000; or
+      >   - **(II)** $175,000,000 with respect to any other company licensed under section 301(c).
+
+  - **(2)** in subparagraph (B), by striking “may not exceed $350,000,000.” and inserting the following “may not exceed—
+    > - **(i)** with respect to such companies that are commonly controlled and that make quarterly or semiannual interest payments, $475,000,000; or
+    > - **(ii)** $350,000,000 with respect to any other companies licensed under section 301(c) that are commonly controlled.
+
+  - **(3)** in subparagraph (C)—
     - **(A)** in the heading—
       - **(i)** by inserting “or rural” after “low-income”; and
       - **(ii)** by inserting “, critical technology areas, or small manufacturers” after “geographic areas”;
@@ -46,15 +56,7 @@ This Act may be cited as the “Investing in All of America Act of 2025”.
         > - **(III)** a small manufacturer (as defined in section 501(e)(6) of this Act).
 
     - **(C)** by amending clause (ii) to read as follows:
-      > - **(ii)** *Limitation* While maintaining the limitation of subparagraph (A)(i) and consistent with a leverage determination ratio issued pursuant to section 301(c), the aggregate amount excluded for a company or companies under clause (i) from the calculation of the outstanding leverage such company or companies for the purposes of subparagraphs (A) and (B) may not exceed the lesser of 50 percent of the private capital of such company or companies or $125,000,000
+      > - **(ii)** *Limitation* While maintaining the limitation of subparagraph (A)(i) and consistent with a leverage determination ratio issued pursuant to section 301(c), the aggregate amount excluded for a company or companies under clause (i) from the calculation of the outstanding leverage such company or companies for the purposes of subparagraphs (A) and (B) may not exceed the lesser of 50 percent of the private capital of such company or companies or $125,000,000.
 
     - **(D)** by amending clause (iii) to read as follows:
       > - **(iii)** *Prospective applicability* An investment by a licensee is eligible for exclusion from the calculation of outstanding leverage under clause (i) only if such investment is made by such licensee after the date of enactment of this clause.
-
-  - **(3)** by adding at the end the following new subparagraphs:
-    > - **(E)** *Annual adjustment* Except as provided in subparagraph (F), the Administrator shall adjust the dollar amounts described in subparagraphs (A) and (B)—
-    >   - **(i)** on the date of the enactment of this subparagraph, by a percentage equal to the percentage (if any) by which the Consumer Price Index (all items; United States city average), as published by the Bureau of Labor Statistics, increased during the period—
-    >     - **(I)** beginning on December 18, 2015, and ending on the date of the enactment of this subparagraph, with respect to a dollar amount under subparagraph (B); and
-    >     - **(II)** beginning on June 21, 2018, and ending on the date of the enactment of this subparagraph, with respect to a dollar amount under subparagraph (A); and
-    >   - **(ii)** on the date that is one year after the date of the enactment of this subparagraph, and annually thereafter, by a percentage equal to the percentage (if any) by which the Consumer Price Index (all items; United States city average), as published by the Bureau of Labor Statistics, increased during the one-year period preceding the date of the adjustment under this clause.
-    > - **(F)** *Exclusion* Subparagraph (E) shall not apply with respect to a small business investment company authorized to issue accrual debentures (as defined in section 107.50 of title 13, Code of Federal Regulations).

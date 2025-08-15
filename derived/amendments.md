@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2066
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-17 amendatory instructions. 3 executed, 14 stated and not applied.
+18 amendatory instructions. 2 executed, 16 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -24,18 +24,9 @@ to guess them.
 
 ## Executed
 
-### 15 U.S.C. § 662
-
-> by striking “or” and inserting “,”; and
-
-| | |
-|---|---|
-| Removed | `or` |
-| Inserted | `,` |
-
 ### 15 U.S.C. § 683
 
-> in subparagraph (A)(i), by striking “300” and inserting “200”;
+> in clause (i), by striking “300” and inserting “200”; and
 
 | | |
 |---|---|
@@ -62,9 +53,12 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `15 U.S.C. § 662` | strike | in subparagraph (A)(ii), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 662` | strike | in subclause (I), by striking “established prior to October 1, 1987”; | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 662` | insert | by inserting “, or a foundation, endowment, or trust of a college or university” after “pension plan”; and | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 662` | replace | by striking “or” and inserting a comma; and | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 662` | insert | by inserting “, foundation, endowment, or trust of any college or university” after “pension plan”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 662` | replace | in subclause (III), by striking the semicolon at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 662` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 683` | amend | by amending clause (ii) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 683` | replace | in subparagraph (B), by striking “may not exceed $350,000,000.” and inserting the following “may not exceed— | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 1991` | insert | by inserting “or rural” after “low-income”; and | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 1991` | insert | by inserting “, critical technology areas, or small manufacturers” after “geographic areas”; | the bill quotes the text inserted but describes where it goes |
 | `7 U.S.C. § 1991` | replace | by striking “(i) In calculating” and inserting the following: | the bill quotes the text struck but describes what replaces it |
@@ -73,4 +67,3 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 1991` | replace | by striking “the company in a smaller enterprise” and all that follows and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `7 U.S.C. § 1991` | amend | by amending clause (ii) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 1991` | amend | by amending clause (iii) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 683` | add-at-end | by adding at the end the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
