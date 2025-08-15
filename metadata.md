@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2659
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2659
@@ -33,3 +33,9 @@ Strengthening Cyber Resilience Against State-Sponsored Threats Act
 - 2025-04-07 — Introduced in House
 - 2025-04-07 — Referred to the House Committee on Homeland Security.
 - 2025-04-07 — Referred to the Subcommittee on Cybersecurity and Infrastructure Protection.
+- 2025-04-09 — Committee Consideration and Mark-up Session Held
+- 2025-04-09 — Ordered to be Reported by Voice Vote.
+- 2025-04-09 — Subcommittee on Cybersecurity and Infrastructure Protection Discharged
+- 2025-08-15 — Placed on the Union Calendar, Calendar No. 188.
+- 2025-08-15 — Reported by the Committee on Homeland Security. H. Rept. 119-230.
+- 2025-08-15 — Reported by the Committee on Homeland Security. H. Rept. 119-230.
