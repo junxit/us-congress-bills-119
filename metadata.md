@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3838
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3838
@@ -47,3 +47,8 @@ Streamlining Procurement for Effective Execution and Delivery and National Defen
 - 2025-06-09 — Introduced in House
 - 2025-06-09 — Introduced in House
 - 2025-06-09 — Referred to the House Committee on Armed Services.
+- 2025-07-15 — Committee Consideration and Mark-up Session Held
+- 2025-07-15 — Ordered to be Reported (Amended) by the Yeas and Nays: 55 - 2.
+- 2025-08-19 — Placed on the Union Calendar, Calendar No. 189.
+- 2025-08-19 — Reported (Amended) by the Committee on Armed Services. H. Rept. 119-231.
+- 2025-08-19 — Reported (Amended) by the Committee on Armed Services. H. Rept. 119-231.
