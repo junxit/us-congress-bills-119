@@ -1,0 +1,31 @@
+---
+legis-num: H.R. 5000
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5000
+
+> To amend title 5, United States Code, to limit the use of educational requirements or qualifications in evaluating candidates for certain cybersecurity positions in the competitive service, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Cybersecurity Hiring Modernization Act”.
+
+## § 2. Educational requirements for competitive service cybersecurity positions
+
+Section 3308 of title 5, United States Code, is amended—
+
+- **(1)** by striking “The Office of Personnel Management” and inserting “(a) In general.—Consistent with subsection (b), the Office of Personnel Management”; and
+- **(2)** by adding at the end the following:
+  > - **(b)** *Education requirements for cybersecurity positions*
+  >   - **(1)** *In general* With respect to any covered position—
+  >     - **(A)** an agency may prescribe a minimum educational requirement for employment in such a position only if a minimum education qualification is required by law to perform the duties of the position in the State or locality where the duties of the position are to be performed; and
+  >     - **(B)** an agency may consider education in determining a candidate’s satisfaction of any other minimum qualification only if the candidate’s education directly reflects the competencies necessary to satisfy that qualification and perform the duties of the position.
+  >   - **(2)** *Publication* Not later than one year after the date of the enactment of the Cybersecurity Hiring Modernization Act and annually thereafter, the Office of Personnel Management shall publish on the Office’s website—
+  >     - **(A)** any changes made to minimum qualifications standards concerning education for covered positions; and
+  >     - **(B)** aggregate data indicating the level of educational attainment, sorted by position classification, of all accessions to covered positions.
+  >   - **(3)** *Covered position defined* In this subsection, the term “covered position” means—
+  >     - **(A)** any position in the competitive service classified under the GS–2210 information technology management series, or any successor series; and
+  >     - **(B)** any other position in the competitive service designated as “cybersecurity” under the National Initiative for Cybersecurity Education (NICE) Cybersecurity Workforce Framework (NIST Special Publication 800–181), or successor framework.
