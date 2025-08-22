@@ -1,0 +1,17 @@
+---
+legis-num: H.R. 5015
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5015
+
+> To amend the District of Columbia Home Rule Act to extend the emergency period during which the President may exercise control over the Metropolitan Police Department.
+
+## § 1. Extension of emergency period
+
+- **(a)** *In general* Section 740 of the District of Columbia Home Rule Act (sec. 1–207.40, D.C. Official Code) is amended—
+  - **(1)** by striking “thirty days” and inserting “180 days” each place it appears; and
+  - **(2)** in subsection (c), by striking “thirty-day” and inserting “180-day”.
+- **(b)** *Applicability to previously declared emergency* This Act, and the amendments made by this Act, shall apply with respect to an emergency declared by the President under section 740 of the District of Columbia Home Rule Act (sec. 1–207.40, D.C. Official Code) before the date of the enactment of this Act.
