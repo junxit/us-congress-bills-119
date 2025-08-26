@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 5051
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5051
+
+> To require members of the Armed Forces performing active service in the District of Columbia in response to an order of the President which relates to crime or civil disturbance in the District of Columbia to participate in a program substantially similar to the Body-Worn Camera Program of the Metropolitan Police Department of the District of Columbia.
+
+## § 1. Requiring members of Armed Forces performing active service in response to presidential order on crime or civil disturbance in District of Columbia to participate in program similar to Metropolitan Police Department Body-Worn Camera Program
+
+- **(a)** *Requirement* Each member of the Armed Forces performing active service in the District of Columbia in response to an order of the President which relates to crime or civil disturbance in the District of Columbia shall participate in a program which is substantially similar to the Body-Worn Camera Program of the Metropolitan Police Department under the Body-Worn Camera Regulation and Reporting Requirements Act of 2015 (sec. 5–116.31 et seq., D.C. Official Code), under which the member wears a camera while performing such service.
+- **(b)** *Effective date* Subsection (a) shall take effect 30 days after the date of the enactment of this Act.
