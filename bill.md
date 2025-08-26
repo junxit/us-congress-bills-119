@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 5043
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5043
+
+> To repeal certain portions of An Act to provide for reconciliation pursuant to title II of H. Con. Res. 14.
+
+## § 1. Short title
+
+This Act may be cited as the “Bringing Benefits Back Act of 2025”.
+
+## § 2. Repeal of certain reconciliation provisions
+
+Subtitle A of title I and subtitle B of title VII of An Act to provide for reconciliation pursuant to title II of H. Con. Res. 14 (Public Law 119–21) are repealed and any law amended by such provisions is hereby restored or revived as if such amendments had never been enacted.
