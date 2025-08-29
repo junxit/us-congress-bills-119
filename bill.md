@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 5074
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5074
+
+> To amend title V of the Public Health Service Act to direct the Center for Mental Health Services to develop and disseminate a strategy to address the effects of new technologies on children’s mental health.
+
+## § 1. Short title
+
+This Act may be cited as the “Protecting Young Minds Online Act”.
+
+## § 2. Center for Mental Health Services strategy to address effects of new technologies on children’s mental health
+
+Section 520(b) of the Public Health Service Act (42 U.S.C. 290bb–31(b)) is amended—
+
+- **(1)** in paragraph (16), by striking “and” at the end;
+- **(2)** in paragraph (17), by striking the period at the end and inserting “; and”; and
+- **(3)** by adding at the end the following:
+  > - **(18)** develop and implement a strategy to help local communities address the effects of new technologies, such as social media, on children’s mental health.
