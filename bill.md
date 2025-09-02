@@ -1,0 +1,18 @@
+---
+legis-num: S.J. RES. 75
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S.J. RES. 75
+
+> Terminating the emergency determined by the President on August 11, 2025, in the Executive Order titled “Declaring a crime emergency in the District of Columbia”.
+
+## Preamble
+
+- Whereas the President has failed to identify special conditions of an emergency nature that compel the use of the Metropolitan Police Department for Federal purposes in the District of Columbia;
+- Whereas violent crime in the District of Columbia has declined for the past 2 years and currently stands at a 30-year low; and
+- Whereas the Federal Government, in 2025, has prevented the District of Columbia from spending $1,000,000,000 of its own locally raised revenues—money that was budgeted for essential public safety purposes, including law enforcement, fire and emergency response services, and schools: Now, therefore, be it
+
+That pursuant to section 740(b) of the District of Columbia Home Rule Act (sec. 1–207.40(b), D.C. Official Code), the emergency determined by the President on August 11, 2025, in the Executive order titled “Declaring a crime emergency in the District of Columbia” is hereby terminated.
