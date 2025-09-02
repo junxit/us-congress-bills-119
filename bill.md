@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 5094
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5094
+
+> To repeal changes to Medicaid cost sharing requirements and the exclusion for orphan drugs under the Medicare Drug Price Negotiation Program.
+
+## § 1. Short title
+
+This Act may be cited as the “Protect Patients from Costly Care Act”.
+
+## § 2. Repeal of changes to Medicaid cost sharing requirements
+
+- **(a)** *Repeal* Section 71120 of the Act titled “An Act to provide for reconciliation pursuant to title II of H. Con. Res. 14” (Public Law 119–21) is repealed and title XIX of the Social Security Act (42 U.S.C. 1396 et seq.) shall be applied as if such section and the amendments made by such section had not been enacted.
+- **(b)** *Rescission* The amounts appropriated under section 71120(c) of the Act titled “An Act to provide for reconciliation pursuant to title II of H. Con. Res. 14” (Public Law 119–21) are hereby rescinded.
+
+## § 3. Repeal of changes to exclusion for orphan drugs under the Drug Price Negotiation Program
+
+Section 71203 of the Act titled “An Act to provide for reconciliation pursuant to title II of H. Con. Res. 14” (Public Law 119–21) is repealed and title XI of the Social Security Act (42 U.S.C. 1301 et seq.) shall be applied as if such section and the amendments made by such section had not been enacted.
