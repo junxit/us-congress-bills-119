@@ -1,7 +1,7 @@
 ---
 measure: S. 725
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 725
@@ -16,7 +16,7 @@ Enhancing First Response Act
 
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 
-## Cosponsors (10)
+## Cosponsors (12)
 
 - Sen. Blackburn, Marsha [R-TN] (B001243)
 - Sen. Heinrich, Martin [D-NM] (H001046)
@@ -28,6 +28,8 @@ Enhancing First Response Act
 - Sen. King, Angus S., Jr. [I-ME] (K000383)
 - Sen. Thune, John [R-SD] (T000250)
 - Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Cantwell, Maria [D-WA] (C000127)
 
 ## Committees (1)
 
@@ -37,3 +39,7 @@ Enhancing First Response Act
 
 - 2025-02-25 — Introduced in Senate
 - 2025-02-25 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2025-04-30 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2025-09-02 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-59.
+- 2025-09-02 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-59.
+- 2025-09-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 146.
