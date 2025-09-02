@@ -1,0 +1,26 @@
+---
+legis-num: H.J. RES. 118
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.J. RES. 118
+
+> Expressing support for designating September 12, 2025, as “The Day of the Bible” in the United States of America.
+
+## Preamble
+
+- Whereas the Bible has long been a foundational text in shaping the moral, cultural, and spiritual heritage of the United States;
+- Whereas September 12, 1782, marks a historic milestone in American history when the Congress of the United States, during the American Revolutionary War, officially approved the publication of the first complete English-language Bible printed in America, known as the “Aitken Bible” or “The Bible of the Revolution”;
+- Whereas this monumental event took place in Philadelphia, Pennsylvania, under the direction of a committee of Congress led by James Duane, and with the endorsement of the congressional chaplains, thereby marking America as a birthplace of both liberty and spiritual legacy;
+- Whereas the Aitken Bible served not only as a religious text but also as a symbol of national resilience, unity, and the importance of self-governance during one of the most trying times in the Nation’s history;
+- Whereas for centuries, the Bible has offered inspiration, comfort, and moral guidance to countless Americans, influencing individual lives and informing the values of justice, compassion, redemption, and personal responsibility; and
+- Whereas recognizing September 12 annually as “The Day of the Bible” provides an opportunity for the residents of this great country to reflect on the enduring impact of the Bible on our shared cultural and historical identity, and to reaffirm the principles of liberty, equality, and justice that form the bedrock of our Nation: Now, therefore, be it
+
+That—
+
+- **(1)** Congress—
+  - **(A)** expresses support for the designation of “The Day of the Bible” in the United States of America; and
+  - **(B)** encourages schools, civic institutions, and community organizations to observe this day with appropriate educational, historical, and cultural programs and activities that highlight the Bible’s significance in our Nation’s past and present; and
+- **(2)** the President shall issue each year a proclamation designating “The Day of the Bible” on which the people of the United States may observe the anniversary of the Congressional approval of the Aitken Bible and participate in activities that highlight the Bible’s significance in our Nation’s past and present.
