@@ -11,22 +11,33 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “FMS-Only List Review Act”.
+This Act may be cited as the “Made-in-America Defense Act”.
 
-## § 2. Review and report
+## § 2. Sense of Congress
+
+Congress—
+
+- **(1)** believes the expeditious delivery of defense articles and services to allies and partners strengthens American national security;
+- **(2)** notes that the Department of Defense contracting process often adds significant amounts of time to the delivery of defense articles and services to allies and partners, and in some cases these articles and services could be appropriately transferred more quickly using direct commercial sales; and
+- **(3)** supports the ongoing and periodic review of the FMS-Only List to ensure that defense articles and services that can be appropriately transferred using direct commercial sales are not included on the FMS-Only list.
+
+## § 3. Review and report
 
 - **(a)** *Review*
-  - **(1)** *In general* Not later than 1 year after the date of the enactment of this Act, and annually thereafter, the Secretary of State, in coordination with the Secretary of Defense, shall carry out a review of defense articles and defense services that are eligible to be provided under the Foreign Military Sales program under chapter 2 of the Arms Export Control Act, but not eligible to be provided under direct commercial sales under section 38 of such Act in order to identify those articles and services that should be eligible to be provided under direct commercial sales.
+  - **(1)** *In general* Not later than 1 year after the date of the enactment of this Act, and annually thereafter, the Secretary of State, in coordination with the Secretary of Defense, shall carry out a review of defense articles and defense services that are eligible to be provided under the foreign military sales program under chapter 2 of the Arms Export Control Act, but not eligible to be provided under direct commercial sales under section 38 of such Act, in order to identify those articles and services that should also be eligible to be provided under direct commercial sales.
   - **(2)** *Matters to be addressed* The review required by this subsection shall address the following with respect to each defense article and defense services identified under this subsection:
-    - **(A)** The length of time to complete a transfer of the article or service under the Foreign Military Sales program as compared to a transfer under a direct commercial sale.
+    - **(A)** The average length of time to complete a transfer of the article or service under the foreign military sales program compared to such a transfer under a direct commercial sale, measured from the initial submission of the letter of request to the delivery of the article or service.
     - **(B)** The impact on the workload for the Department of State and Department of Defense by reason of a transfer of the article or service under a direct commercial sale.
     - **(C)** The benefits to United States national security and United States competitiveness by reason of a transfer of the article or service under a direct commercial sale.
-  - **(3)** *Consultation* The Secretary of State shall consult with the Defense Trade Advisory Group of the Department of Defense and other interested parties in conducting the review required by this subsection.
 - **(b)** *Report*
   - **(1)** *In general* Not later than 30 days after the completion of each review required by subsection (a), the Secretary of State, in coordination of the Secretary of Defense, shall submit to the appropriate congressional committees a report that contains the results of the review, including—
-    - **(A)** the criteria used to identify defense articles and defense services under this subsection under the current review; and
-    - **(B)** an identification of those defense articles and defense services that have been newly identified or no longer identified under the current review and the reasons therefor.
+    - **(A)** the average time to transfer the reviewed defense articles or services during the previous reporting period through the foreign military sales program and through direct commercial sales and how those averages compare to the averages reported in the previous reporting period;
+    - **(B)** the leading causes of delays;
+    - **(C)** any steps taken to reduce those delays; and
+    - **(D)** any defense articles and services added to or removed from the FMS-Only list during the preceding reporting period, as well as the justification for such decisions.
   - **(2)** *Form* The report required by this subsection shall be submitted in unclassified form, but may contain a classified annex.
-  - **(3)** *Appropriate congressional committees defined* In this subsection, the term appropriate congressional committees means—
-    - **(A)** the Committee on Foreign Affairs and the Committee on Armed Services of the House of Representatives; and
-    - **(B)** the Committee on Foreign Relations and the Committee on Armed Services of the Senate.
+  - **(3)** *Definitions* In this subsection—
+    - **(A)** the term appropriate congressional committees means—
+      - **(i)** the Committee on Foreign Affairs and the Committee on Armed Services of the House of Representatives; and
+      - **(ii)** the Committee on Foreign Relations and the Committee on Armed Services of the Senate; and
+    - **(B)** the term “FMS-only list” means the list maintained by the Secretary of State of defense articles and defense services that are eligible to be provided under the foreign military sales program under chapter 2 of the Arms Export Control Act, but not eligible to be provided under direct commercial sales under section 38 of such Act.
