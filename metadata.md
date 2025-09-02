@@ -1,7 +1,7 @@
 ---
 measure: S. 1038
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1038
@@ -36,3 +36,5 @@ TRACE Act
 - 2025-07-28 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
 - 2025-07-28 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
 - 2025-07-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 126.
+- 2025-09-02 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5987; text: CR S5987)
+- 2025-09-02 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.

@@ -22,11 +22,12 @@ In this Act:
   - **(A)** the Secretary of Agriculture;
   - **(B)** the Secretary of the Interior (except land held in trust for the benefit of an Indian Tribe); or
   - **(C)** the Secretary of Defense only with respect to land and water resources projects administered by the Corps of Engineers.
+- **(3)** *Territorial waters of the United States* The term territorial waters of the United States means all waters of the territorial sea of the United States, 12 nautical miles wide, adjacent to the coast of the United States and seaward of the territorial baseline, as described in Presidential Proclamation 5928 of December 27, 1988.
 
-## § 3. Data field in the National Missing and Unidentified Persons System related to Federal land
+## § 3. Data field in the National Missing and Unidentified Persons System related to Federal land and territorial waters
 
-The Attorney General shall include in the National Missing and Unidentified Persons System a data field to indicate whether the last known location of the missing person was confirmed or was suspected to have been on Federal land, including any specific location details about the unit of Federal land that was the last known location of the missing person.
+The Attorney General shall include in the National Missing and Unidentified Persons System a data field to indicate whether the last known location of the missing person was confirmed or was suspected to have been on Federal land or in the territorial waters of the United States, including any specific location details about the unit of Federal land or the area of the territorial waters of the United States that was the last known location of the missing person.
 
 ## § 4. Report
 
-Not later than January 15 of the second calendar year that begins after the date of enactment of this Act, and annually thereafter, the Attorney General shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report that contains, for the previous calendar year, the number of cases in the National Missing and Unidentified Persons System for which the missing person’s last known location was confirmed or was suspected to have been on Federal land.
+Not later than January 15 of the second calendar year that begins after the date of enactment of this Act, and annually thereafter, the Attorney General shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report that contains, for the previous calendar year, the number of cases in the National Missing and Unidentified Persons System for which the missing person’s last known location was confirmed or was suspected to have been on Federal land or in the territorial waters of the United States.
