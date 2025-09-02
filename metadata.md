@@ -1,7 +1,7 @@
 ---
 measure: S. 196
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 196
@@ -28,3 +28,8 @@ MAIN Event Ticketing Act
 
 - 2025-01-22 — Introduced in Senate
 - 2025-01-22 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2025-04-30 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2025-04-30 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2025-09-02 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-57.
+- 2025-09-02 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-57.
+- 2025-09-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 144.
