@@ -47,4 +47,4 @@ This Act may be cited as the “Undersea Cable Control Act”.
     - **(A)** the Committee on Foreign Affairs of the House of Representatives; and
     - **(B)** the Committee on Banking, Housing, and Urban Affairs of the Senate.
   - **(2)** *Foreign adversary* The term foreign adversary has the meaning given such term in section 8(c) of the Secure and Trusted Communications Networks Act of 2019 (47 U.S.C. 1607(c)).
-  - **(3)** *Item* The term item has the meaning given such term in the Export Administration Regulations (15 C.F.R. 772.1).
+  - **(3)** *Item* The term item has the meaning given such term in the Export Administration Regulations (15 CFR 772.1).
