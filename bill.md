@@ -50,6 +50,9 @@ This Act may be cited as the “Haiti Criminal Collusion Transparency Act of 202
   - **(1)** *Implementation* The President may exercise all authorities provided to the President under sections 203 and 205 of the International Emergency Economic Powers Act (50 U.S.C. 1702 and 1704) to carry out this subtitle.
   - **(2)** *Penalties* The penalties provided for in of section 206(b) and (c) of the International Emergency Economic Powers Act (50 U.S.C. 1705) shall apply to a person that violates, attempts to violate, conspires to violate, or causes a violation of regulations promulgated to carry out this section to the same extent that such penalties apply to a person that commits an unlawful act described in section 206(a) of that Act.
 - **(e)** *Waiver* The President may waive the application of sanctions or restrictions imposed with respect to a foreign person under this section if the President certifies to the appropriate congressional committees that the waiver is important to the national interests of the United States.
+- **(f)** *Exception relating to importation of goods*
+  - **(1)** *In general* The authorities and requirements to impose sanctions authorized under this section shall not include the authority or requirement to impose sanctions on the importation of goods.
+  - **(2)** *Good defined* In this subsection, the term good means any article, natural or man-made substance, material, supply or manufactured product, including inspection and test equipment, and excluding technical data.
 
 ## § 4. Definitions
 
