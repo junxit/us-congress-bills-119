@@ -53,7 +53,7 @@ It is the sense of Congress that the Government of the People’s Republic of Ch
   >     - **(C)** discusses any potential changes to the exercise of the authority for the purpose of more effectively resolving the covered national emergency.
   >   - **(2)** *Definitions* In this subsection—
   >     - **(A)** the term “appropriate congressional committees” means—
-  >       - **(i)** the Committee on Foreign Affairs, the Committee on Financial Services, and the Committee on Oversight and Accountability of the House of Representatives; and
+  >       - **(i)** the Committee on Foreign Affairs, the Committee on Financial Services, and the Committee on Oversight and Government Reform of the House of Representatives; and
   >       - **(ii)** the Committee on Homeland Security and Governmental Affairs, the Committee on Foreign Relations, and the Committee on Banking, Housing, and Urban Affairs of the Senate; and
   >     - **(B)** the term “covered national emergency” means a national emergency that—
   >       - **(i)** the President has declared, within the preceding 5-year period, with respect to any national emergency regarding international drug trafficking; and
@@ -77,5 +77,5 @@ It is the sense of Congress that the Government of the People’s Republic of Ch
 
 ## § 5. Exception relating to importation of goods
 
-- **(a)** *In general* A requirement to block and prohibit all transactions in all property and interests in property pursuant to this Act or any amendment made by this Act shall not include the authority or a requirement to impose sanctions on the importation of goods.
+- **(a)** *In general* The authorities and requirements to impose sanctions in this Act shall not include the authority or a requirement to impose sanctions on the importation of goods.
 - **(b)** *Good defined* In this section, the term “good” means any article, natural or manmade substance, material, supply or manufactured product, including inspection and test equipment, and excluding technical data.
