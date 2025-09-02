@@ -7,41 +7,41 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 4490
 
-> To amend the International Organizations Immunities Act to extend diplomatic privileges and immunities to certain additional international and regional organizations, and for other purposes.
+> To amend the International Organizations Immunities Act to extend privileges and immunities to certain additional international and regional organizations, and for other purposes.
 
 ## § 1. Short title; table of contents
 
 This Act may be cited as the “Providing Appropriate Recognition and Treatment Needed to Enhance Relations Act” or the “PARTNER Act”.
 
-## § 2. Extension of diplomatic privileges and immunities to the Association of Southeast Asian Nations
+## § 2. Extension of privileges and immunities to the Association of Southeast Asian Nations
 
 The International Organizations Immunities Act (22 U.S.C. 288 et seq.) is amended by adding at the end the following new section:
 
-> ## § 18. Extension of diplomatic privileges and immunities to the Association of Southeast Asian Nations
+> ## § 18. Extension of privileges and immunities to the Association of Southeast Asian Nations
 >
 > Under such terms and conditions as the President shall determine, the President is authorized to extend the provisions of this title to the Association of Southeast Asian Nations in the same manner, to the same extent, and subject to the same conditions, as it may be extended to a public international organization in which the United States participates pursuant to any treaty or under the authority of any Act of Congress authorizing such participation or making an appropriation for such participation.
 
-## § 3. Extension of diplomatic privileges and immunities to the European Organization For Nuclear Research (CERN)
+## § 3. Extension of privileges and immunities to the European Organization For Nuclear Research (CERN)
 
 The International Organizations Immunities Act (22 U.S.C. 288 et seq.) is amended by adding at the end the following new section:
 
-> ## § 19. Extension of diplomatic privileges and immunities to the European Organization For Nuclear Research (CERN)
+> ## § 19. Extension of privileges and immunities to the European Organization For Nuclear Research (CERN)
 >
 > Under such terms and conditions as the President shall determine, the President is authorized to extend the provisions of this title to the European Organization for Nuclear Research (CERN) in the same manner, to the same extent, and subject to the same conditions, as it may be extended to a public international organization in which the United States participates pursuant to any treaty or under the authority of any Act of Congress authorizing such participation or making an appropriation for such participation.
 
-## § 4. Extension of diplomatic privileges and immunities to the Pacific Islands Forum
+## § 4. Extension of privileges and immunities to the Pacific Islands Forum
 
 The International Organizations Immunities Act (22 U.S.C. 288 et seq.) is amended by adding at the end the following new section:
 
-> ## § 20. Extension of diplomatic privileges and immunities to the Pacific Islands Forum
+> ## § 20. Extension of privileges and immunities to the Pacific Islands Forum
 >
 > Under such terms and conditions as the President shall determine, the President is authorized to extend the provisions of this title to the Pacific Islands Forum in the same manner, to the same extent, and subject to the same conditions, as it may be extended to a public international organization in which the United States participates pursuant to any treaty or under the authority of any Act of Congress authorizing such participation or making an appropriation for such participation.
 
-## § 5. Extension of diplomatic privileges and immunities to the Caribbean Community
+## § 5. Extension of privileges and immunities to the Caribbean Community
 
 The International Organizations Immunities Act (22 U.S.C. 288 et seq.) is amended by adding at the end the following new section:
 
-> ## § 21. Extension of diplomatic privileges and immunities to the Caribbean Community
+> ## § 21. Extension of privileges and immunities to the Caribbean Community
 >
 > Under such terms and conditions as the President shall determine, the President is authorized to extend the provisions of this title to the Caribbean Community in the same manner, to the same extent, and subject to the same conditions, as it may be extended to a public international organization in which the United States participates pursuant to any treaty or under the authority of any Act of Congress authorizing such participation or making an appropriation for such participation.
 
