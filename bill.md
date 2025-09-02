@@ -1,0 +1,29 @@
+---
+legis-num: H.R. 5087
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5087
+
+> To amend title 49, United States Code, to require passenger notification related to delayed flights, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Frequent Logistics Information for Grounded and Held Travelers Act” or the “FLIGHT Act”.
+
+## § 2. Passenger notification of delayed flights
+
+- **(a)** *In general* Chapter 423 of title 49, United States Code, is amended by inserting after section 42308 the following:
+  > ## § 42309. Passenger notification of delayed flights
+  >
+  > - **(a)** *In general* In the case of a domestic or international flight operated by a covered air carrier (as such term is defined in section 42307) that is experiencing a delayed departure or taxi delay of 15 or more minutes, the covered air carrier shall notify each passenger on the flight of the delay in accordance with the requirements of in subsection (b).
+  > - **(b)** *Requirements* With respect to a notification under subsection (a), the requirements described in this subsection are the following:
+  >   - **(1)** The notification shall occur not less frequently than once every 15 minutes until the delayed departure or taxi delay concludes.
+  >   - **(2)** The notification shall be provided to each passenger by email or text message.
+  >   - **(3)** The notification shall include—
+  >     - **(A)** information regarding the new estimated time of departure and arrival, as applicable to the delayed departure or taxi delay; and
+  >     - **(B)** a mechanism for the passenger to opt out of receiving such notifications with respect to such flight.
+
+- **(b)** *Clerical amendment* The analysis for chapter 423 of title 49, United States Code, is amended by inserting after the item relating to section 42308 the following:
