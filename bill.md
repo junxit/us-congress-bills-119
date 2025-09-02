@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 5082
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5082
+
+> To amend title 10, United States Code, to eliminate the late cost and pricing data submission defense, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Best Price for Our Military Act of 2025”.
+
+## § 2. Elimination of late cost and pricing data submission defense
+
+Section 3706(c) of title 10, United States Code, is amended—
+
+- **(1)** in paragraph (3), by striking “or” at the end;
+- **(2)** in paragraph (4), by striking the period at the end and inserting “; or”; and
+- **(3)** by adding at the end the following new paragraph:
+  > - **(5)** updates to cost or pricing data submitted by the prime contractor or subcontractor after the date of agreement on the price of the contract (or price of the modification) or, if applicable and if consistent with subsection (a)(2), such other date agreed upon between the parties, were based on data that was more than 30 days old.
