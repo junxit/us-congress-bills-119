@@ -1,7 +1,7 @@
 ---
 measure: H.R. 747
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 747
@@ -28,12 +28,13 @@ Stop Chinese Fentanyl Act of 2025
 - Rep. Pappas, Chris [D-NH-1] (P000614)
 - Rep. Gillen, Laura [D-NY-4] (G000602)
 
-## Committees (4)
+## Committees (5)
 
 - House — Judiciary Committee
 - House — Financial Services Committee
 - House — Oversight and Government Reform Committee
 - House — Foreign Affairs Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -61,3 +62,4 @@ Stop Chinese Fentanyl Act of 2025
 - 2025-09-02 — Mr. Baumgartner moved to suspend the rules and pass the bill, as amended.
 - 2025-09-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 4 (Roll no. 220). (text: CR H3728-3729)
 - 2025-09-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 407 - 4 (Roll no. 220).
+- 2025-09-03 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
