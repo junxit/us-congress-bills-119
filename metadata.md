@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 672
 congress: 119
-version: Engrossed in House
+version: Reported in House
 ---
 
 # H.Res. 672
