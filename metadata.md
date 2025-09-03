@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4490
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4490
@@ -27,9 +27,10 @@ PARTNER Act
 - Rep. Cherfilus-McCormick, Sheila [D-FL-20] (C001127)
 - Rep. Meeks, Gregory W. [D-NY-5] (M001137)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ PARTNER Act
 - 2025-09-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3734)
 - 2025-09-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3734)
 - 2025-09-02 — The title of the measure was amended. Agreed to without objection.
+- 2025-09-03 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
