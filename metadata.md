@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4215
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4215
@@ -25,9 +25,10 @@ International Traffic in Arms Regulations Licensing Reform Act
 - Rep. Biggs, Sheri [R-SC-3] (B001325)
 - Rep. Huizenga, Bill [R-MI-4] (H001058)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ International Traffic in Arms Regulations Licensing Reform Act
 - 2025-09-02 — Mr. Baumgartner moved to suspend the rules and pass the bill.
 - 2025-09-02 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3726)
 - 2025-09-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3726)
+- 2025-09-03 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
