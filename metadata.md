@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 668
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 668
@@ -36,3 +36,5 @@ Directing the Committee on Oversight and Government Reform to continue its ongoi
 - 2025-09-02 — Referred to the House Committee on Rules.
 - 2025-09-02 — Submitted in House
 - 2025-09-02 — Submitted in House
+- 2025-09-03 — Pursuant to the provisions of H. Res. 672, H. Res. 668 is considered passed House.
+- 2025-09-03 — Pursuant to the provisions of H. Res. 672, H. Res. 668 is considered passed House. (consideration: CR H3780; text: CR H3780)
