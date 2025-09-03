@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2643
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2643
@@ -28,10 +28,11 @@ Haiti Criminal Collusion Transparency Act of 2025
 - Rep. McCormick, Richard [R-GA-7] (M001218)
 - Rep. Gillen, Laura [D-NY-4] (G000602)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Haiti Criminal Collusion Transparency Act of 2025
 - 2025-09-02 — Mr. Baumgartner moved to suspend the rules and pass the bill, as amended.
 - 2025-09-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3731-3732)
 - 2025-09-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2025-09-03 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
