@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4550
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4550
@@ -29,3 +29,8 @@ United States Grain Standards Reauthorization Act of 2025
 - 2025-07-21 — Introduced in House
 - 2025-07-21 — Introduced in House
 - 2025-07-21 — Referred to the House Committee on Agriculture.
+- 2025-07-22 — Committee Consideration and Mark-up Session Held
+- 2025-07-22 — Ordered to be Reported by Voice Vote.
+- 2025-09-03 — Placed on the Union Calendar, Calendar No. 190.
+- 2025-09-03 — Reported by the Committee on Agriculture. H. Rept. 119-233.
+- 2025-09-03 — Reported by the Committee on Agriculture. H. Rept. 119-233.
