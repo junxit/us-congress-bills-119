@@ -1,0 +1,25 @@
+---
+legis-num: H.R. 5124
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5124
+
+> To amend the Child Care and Development Block Grant Act of 1990 to include certain safety requirements, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as “River’s Law”.
+
+## § 2. Safety requirements for child care providers
+
+Section 658E(c)(2)(I) of the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858c(c)(2)(I)) is amended—
+
+- **(1)** in clause (i)(XI), by striking “; and” and inserting a semicolon;
+- **(2)** by redesignating clause (ii) as clause (iii); and
+- **(3)** by inserting after clause (i) the following:
+  > - **(ii)** shall include—
+  >   - **(I)** a prohibition on constructing, maintaining, or otherwise operating a pool on the premises of any facility where such services are provided; and
+  >   - **(II)** a requirement to install door and window alarms in any facility where such services are provided; and
