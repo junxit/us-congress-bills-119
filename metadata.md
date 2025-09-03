@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4216
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4216
@@ -24,9 +24,10 @@ Made-in-America Defense Act
 - Rep. McCormick, Richard [R-GA-7] (M001218)
 - Del. Moylan, James C. [R-GU-At Large] (M001219)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -47,3 +48,4 @@ Made-in-America Defense Act
 - 2025-09-02 — Mr. Baumgartner moved to suspend the rules and pass the bill, as amended.
 - 2025-09-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 20 (Roll no. 219). (text: CR H3727)
 - 2025-09-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 20 (Roll no. 219). (text: CR H3727)
+- 2025-09-03 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
