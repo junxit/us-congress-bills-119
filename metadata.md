@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2503
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2503
@@ -21,9 +21,10 @@ Undersea Cable Control Act
 - Rep. Lawler, Michael [R-NY-17] (L000599)
 - Rep. Sherman, Brad [D-CA-32] (S000344)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ Undersea Cable Control Act
 - 2025-09-02 — Mr. Baumgartner moved to suspend the rules and pass the bill.
 - 2025-09-02 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3733-3734)
 - 2025-09-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2025-09-03 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
