@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 605
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 605
@@ -25,3 +25,5 @@ Establishing the Select Subcommittee to Investigate the Remaining Questions Surr
 - 2025-07-23 — Referred to the House Committee on Rules.
 - 2025-07-23 — Submitted in House
 - 2025-07-23 — Submitted in House
+- 2025-09-03 — Pursuant to the provisions of H. Res. 672, H. Res. 605 is considered passed House.
+- 2025-09-03 — Pursuant to the provisions of H. Res. 672, H. Res. 605 is considered passed House. (consideration: CR H3780; text: CR H3780)
