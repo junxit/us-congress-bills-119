@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4233
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4233
@@ -25,9 +25,10 @@ ARMOR Act
 - Rep. Baumgartner, Michael [R-WA-5] (B001322)
 - Del. Radewagen, Aumua Amata Coleman [R-AS-At Large] (R000600)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ ARMOR Act
 - 2025-09-02 — Mr. Baumgartner moved to suspend the rules and pass the bill.
 - 2025-09-02 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3736-3737)
 - 2025-09-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3736-3737)
+- 2025-09-03 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
