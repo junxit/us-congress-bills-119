@@ -1,7 +1,7 @@
 ---
 measure: S. 723
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 723
@@ -29,3 +29,7 @@ Tribal Trust Land Homeownership Act of 2025
 
 - 2025-02-25 — Introduced in Senate
 - 2025-02-25 — Read twice and referred to the Committee on Indian Affairs. (text: CR S1350-1352)
+- 2025-03-05 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2025-09-03 — Committee on Indian Affairs. Reported by Senator Murkowski without amendment. With written report No. 119-60.
+- 2025-09-03 — Committee on Indian Affairs. Reported by Senator Murkowski without amendment. With written report No. 119-60.
+- 2025-09-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 148.
