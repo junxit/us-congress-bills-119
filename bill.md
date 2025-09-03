@@ -1,0 +1,30 @@
+---
+legis-num: S. 2690
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2690
+
+> To amend title 49, United States Code, to require that commercial driver’s licenses be restricted to United States citizens, lawful permanent residents, and individuals authorized by U.S. Citizenship and Immigration Services to engage in employment in the United States that includes driving a commercial motor vehicle, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Safer Truckers Act of 2025”.
+
+## § 2. Establishment of residency requirements for CDLs
+
+Section 31308(1) of title 49, United States Code, is amended—
+
+- **(1)** in subparagraph (A), by striking “and” at the end;
+- **(2)** in subparagraph (B), by adding “and” after the semicolon at the end; and
+- **(3)** by adding at the end the following:
+  > - **(C)** be a citizen or lawful permanent resident of the United States or authorized by U.S. Citizenship and Immigration Services to engage in employment in the United States that includes driving a commercial motor vehicle;
+
+## § 3. Reporting requirements and withholding of amounts for noncompliance
+
+Section 31311(a) of title 49, United States Code, is amended by adding at the end the following:
+
+> - **(26)** The State may issue a commercial driver’s license to an individual only if the individual is a citizen or lawful permanent resident of the United States or is authorized by U.S. Citizenship and Immigration Services to engage in employment in the United States that includes driving a commercial motor vehicle.
+> - **(27)** Not later than 180 days after the date of enactment of this paragraph, and by December 31 of each year thereafter, the State shall submit to the Secretary a report describing the policies and actions of the State to uphold and enforce the English-language proficiency requirements for drivers of commercial motor vehicles, as described in section 391.11(b)(2) of title 49, Code of Federal Regulations (or a successor regulation).
