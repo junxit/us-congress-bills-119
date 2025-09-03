@@ -1,0 +1,25 @@
+---
+legis-num: H.R. 5119
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5119
+
+> To amend the National Security Act of 1947, to direct the Director of National Intelligence to produce intelligence community assessments on certain effects of climate change, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “National Security Climate Intelligence Act of 2025”.
+
+## § 2. Periodic intelligence community assessments on certain effects of climate change
+
+Title XI of the National Security Act of 1947 (50 U.S.C. 3231 et seq.) is amended by adding at the end the following new section (and conforming the table of contents at the beginning of such Act accordingly):
+
+> ## § 1115. Periodic intelligence community assessments on certain effects of climate change
+>
+> - **(a)** *Requirement* Not later than the date that is four years after the date of the enactment of the National Security Climate Intelligence Act of 2025, and on a basis that is not less frequent than once every 6 years thereafter, the Director of National Intelligence shall, acting through the National Intelligence Council—
+>   - **(1)** produce an Intelligence Community Assessment on the national security and economic security effects of climate change; and
+>   - **(2)** submit to the congressional intelligence committees such Intelligence Community Assessment.
+> - **(b)** *Form* Each Intelligence Community Assessment under subsection (a)(2) may be submitted in classified form, but if so submitted, shall include an unclassified executive summary.
