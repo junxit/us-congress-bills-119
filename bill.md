@@ -2,7 +2,7 @@
 legis-num: H.R. 2635
 congress: 119th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 2635
@@ -103,4 +103,4 @@ The President should direct the United States Permanent Representative to the Un
 
 - **(1)** oppose any efforts to prevent consideration of the gross violation of internationally recognized human rights in the XUAR in any body of the United Nations;
 - **(2)** oppose any efforts to prevent the participation of any Uyghur human rights advocates in nongovernmental fora hosted by or otherwise organized under the auspices of any body of the United Nations; and
-- **(3)** support the appointment of a special rapporteur or working group for the XUAR for the purposes of monitoring human rights violations and abuses in the XUAR, and for making reports available to the High Commissioner for Refugees, the High Commissioner for Human Rights, the Human Rights Commission, the General Assembly, and other United Nations bodies.
+- **(3)** support the appointment of a special rapporteur or working group for the XUAR for the purposes of monitoring human rights violations and abuses in the XUAR, and for making reports available to the High Commissioner for Refugees, the High Commissioner for Human Rights, the HumanRights Commission, the General Assembly, and other United Nations bodies.
