@@ -1,0 +1,27 @@
+---
+legis-num: H.R. 5164
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5164
+
+> To amend the National Agricultural Research, Extension, and Teaching Policy Act of 1977 to eliminate the prohibition on indirect costs with respect to aquaculture assistance, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Promoting American Competition in Aquaculture Research Act”.
+
+## § 2. Reauthorizing aquaculture assistance programs; treatment of indirect costs
+
+- **(a)** *In general* Section 1477(a) of the Food and Agriculture Act of 1977 (7 U.S.C. 3324) is amended—
+  - **(1)** in paragraph (1), by striking “and” at the end;
+  - **(2)** in paragraph (2), by striking the period at the end and inserting “; and”; and
+  - **(3)** by adding at the end the following:
+    > - **(3)** $15,000,000 for each of fiscal years 2026 through 2030.
+
+- **(b)** *Indirect costs* Section 1477 of the Food and Agriculture Act of 1977 (7 U.S.C. 3324) is amended by adding at the end the following:
+  > - **(c)** *Indirect costs* Effective beginning on the date of the enactment of the Promoting American Competition in Aquaculture Research Act, the limitation with respect to indirect costs—
+  >   - **(1)** under section 1462 shall apply with respect to awards made under this subtitle; and
+  >   - **(2)** under section 1473 shall not apply with respect to such awards.
