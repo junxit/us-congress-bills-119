@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 5148
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5148
+
+> To amend the Foreign Assistance Act of 1961 to expand the scope of funding used by the counterterrorism bureau of the Department of State to allow assistance to be made available to counterterrorism-focused military and intelligence units.
+
+## § 1. Short title
+
+This Act may be cited as the “Coordinated Counterterrorism Act”.
+
+## § 2. Expansion of antiterrorism assistance
+
+Section 571 of the Foreign Assistance Act of 1961 (22 U.S.C. 2349aa) is amended—
+
+- **(1)** by inserting “, intelligence, and military” after “assistance to foreign countries in order to enhance the ability of their law enforcement”;
+- **(2)** by inserting “information sharing with United States law enforcement agencies,” after “Such assistance may include”; and
+- **(3)** by inserting a comma after “training services”.
