@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3390
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3390
@@ -30,3 +30,9 @@ Bringing the Discount Window into the 21st Century Act
 - 2025-05-14 — Introduced in House
 - 2025-05-14 — Introduced in House
 - 2025-05-14 — Referred to the House Committee on Financial Services.
+- 2025-07-22 — Committee Consideration and Mark-up Session Held
+- 2025-07-23 — Committee Consideration and Mark-up Session Held
+- 2025-07-23 — Ordered to be Reported (Amended) by the Yeas and Nays: 48 - 1.
+- 2025-09-04 — Placed on the Union Calendar, Calendar No. 191.
+- 2025-09-04 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-234.
+- 2025-09-04 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-234.
