@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 104
 congress: 119
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.J.Res. 104
@@ -43,3 +43,4 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2025-09-03 — Rule provides for consideration of H.R. 4553, H.J. Res. 104, H.J. Res. 105 and H.J. Res. 106. The resolution provides for consideration of H.R. 4553 under a structured rule, and H.J. Res. 104, H.J. Res. 105, and H.J. Res. 106 under a closed rule. The resolution provides for one hour of general debate and a motion to recommit on each measure. The resolution further provides that H. Res. 668 and H. Res. 605 are adopted, and H. Res. 598 is laid on the table.
 - 2025-09-03 — Rules Committee Resolution H. Res. 672 Reported to House. Rule provides for consideration of H.R. 4553, H.J. Res. 104, H.J. Res. 105 and H.J. Res. 106. The resolution provides for consideration of H.R. 4553 under a structured rule, and H.J. Res. 104, H.J. Res. 105, and H.J. Res. 106 under a closed rule. The resolution provides for one hour of general debate and a motion to recommit on each measure. The resolution further provides that H. Res. 668 and H. Res. 605 are adopted, and H. Res. 598 is laid on the table.
 - 2025-09-03 — The previous question was ordered pursuant to the rule.
+- 2025-09-04 — Received in the Senate, read twice.
