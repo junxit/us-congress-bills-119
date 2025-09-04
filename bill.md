@@ -1,0 +1,30 @@
+---
+legis-num: H.R. 5160
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5160
+
+> To reauthorize the Stem Cell Therapeutic and Research Act of 2005, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Stem Cell Therapeutic and Research Reauthorization Act of 2025”.
+
+## § 2. Reauthorization of the C.W. Bill Young Cell Transplantation Program
+
+Section 379B of the Public Health Service Act (42 U.S.C. 274m) is amended—
+
+- **(1)** by striking “appropriated $31,009,000” and inserting the following:
+  > appropriated—
+  > - **(1)** $31,009,000
+
+- **(2)** in paragraph (1), as so inserted, by striking the period at the end and inserting “; and”; and
+- **(3)** by adding at the end the following:
+  > - **(2)** $33,009,000 for each of fiscal years 2027 through 2031.
+
+## § 3. Cord blood inventory
+
+Section 2(g) of the Stem Cell Therapeutic and Research Act of 2005 (42 U.S.C. 274k note) is amended by striking “2026” and inserting “2031”.
