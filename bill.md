@@ -1,12 +1,8 @@
 ---
-legis-num: H.J. RES. 104
-congress: 119th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+legis-num: H.J.Res. 104
+congress: 
+session: 
+chamber: 
 ---
 
-# H.J. RES. 104
-
-> Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Bureau of Land Management relating to “Miles City Field Office Record of Decision and Approved Resource Management Plan Amendment”.
-
-That Congress disapproves the rule submitted by the Bureau of Land Management relating to “Miles City Field Office Record of Decision and Approved Resource Management Plan Amendment” (issued November 20, 2024, as a record of decision and resource management plan amendment, and a letter of opinion from the Government Accountability Office dated June 25, 2025, printed in the Congressional Record on June 26, 2025, on pages S3552–S3554, concluding that such record of decision and resource management plan amendment is a rule under the Congressional Review Act), and such rule shall have no force or effect.
+# H.J.Res. 104
