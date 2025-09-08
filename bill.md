@@ -19,7 +19,7 @@ This Act may be cited as the “Personnel Oversight and Shift Tracking Act of 20
 - **(b)** *Oversight of contract security personnel* In carrying out the activities described in subsection (a), the Director shall—
   - **(1)** establish standards for the collection, maintenance, and analysis of covert testing data, including the creation of a comprehensive and uniform method for documenting test outcomes, identifying root causes of failures, and categorizing types of vulnerabilities detected;
   - **(2)** begin conducting quarterly analytical reviews of covert testing data to identify trends, recurring deficiencies, and opportunities for operational improvement across all covered facilities;
-  - **(3)** establish a mandatory, cause-specific corrective training and performance improvement plan for any contract security personnel who fails a covert test; and
+  - **(3)** direct the security contractor who is providing security services to the Federal Protective Service to establish a mandatory, cause-specific corrective training and performance improvement plan for any contract security personnel who fail a covert test and review the security contractor’s performance improvement plan to ensure that the security contractor has and will provide appropriate training and procedures to avoid any future covert testing failures; and
   - **(4)** develop updated security training guidance for contract security personnel to reflect findings from covert testing data, emerging threats, and best practices.
 - **(c)** *Report to Congress* Upon completion of the activities described in subsection (b), and annually thereafter, the Director shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate an report on the implementation of the requirements of this section, including any identified challenges and recommendations for additional legislative action.
 
@@ -36,3 +36,7 @@ This Act may be cited as the “Personnel Oversight and Shift Tracking Act of 20
   - **(2)** a detailed summary of any implementation actions undertaken pursuant to subsection (a);
   - **(3)** an evaluation of the effectiveness of tenant communication protocols; and
   - **(4)** any recommendations for additional legislative or administrative actions.
+
+## § 4. Savings clause
+
+Nothing in this Act shall be construed as designating an employee of a contractor of the Department of Homeland Security who is engaged in the protection of Federal property pursuant to section 1315 of title 40, United States Code, as a Federal employee.
