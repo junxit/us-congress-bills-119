@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4449
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `15 U.S.C. § 78d` | add-at-end | Section 4 of the Securities Exchange Act of 1934 (15 U.S.C. 78d) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Section 4 of the Securities Exchange Act of 1934 (15 U.S.C. 78d) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
