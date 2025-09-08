@@ -1,7 +1,7 @@
 ---
 measure: H.R. 452
 congress: 119
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 452
@@ -336,3 +336,14 @@ Miracle on Ice Congressional Gold Medal Act
 - 2025-04-28 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1633-1634)
 - 2025-04-28 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1633-1634)
 - 2025-04-29 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2025-09-08 — 
+- 2025-09-08 — Amendment SA 3828 agreed to in Senate by Unanimous Consent.
+- 2025-09-08 — Amendment SA 3828 proposed by Senator Moran for Senator Cramer. (consideration: CR S6439) In the nature of a substitute.
+- 2025-09-08 — Measure laid before Senate by unanimous consent. (consideration: CR S6439-6440)
+- 2025-09-08 — Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S6439)
+- 2025-09-08 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2025-09-08 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2025-09-08 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2025-09-08 — Senate amendment agreed to: Amendment SA 3828 agreed to in Senate by Unanimous Consent.
+- 2025-09-08 — Senate amendment proposed (on the floor): Amendment SA 3828 proposed by Senator Moran for Senator Cramer.
+- 2025-09-08 — Senate amendment submitted
