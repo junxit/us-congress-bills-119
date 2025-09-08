@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3423
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+1 amendatory instruction. 0 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,5 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | strike | in paragraph (3)(B)(v) by striking “and storage facilities for the equipment and fluids”; and | the bill names no machine-readable US Code section |
-| — | insert | in paragraph (24) by inserting “storage facilities for aircraft deicing equipment and fluids,” after “sponsor,”. | the bill names no machine-readable US Code section |
+| — | strike | Section 47102(3)(B)(v) of title 49, United States Code, is amended by striking “and storage facilities for the equipment and fluids”. | the bill names no machine-readable US Code section |

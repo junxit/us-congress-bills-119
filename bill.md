@@ -15,7 +15,4 @@ This Act may be cited as the “Facility for Runway Operations and Safe Transpor
 
 ## § 2. Deicing equipment protection
 
-Section 47102 of title 49, United States Code, is amended—
-
-- **(1)** in paragraph (3)(B)(v) by striking “and storage facilities for the equipment and fluids”; and
-- **(2)** in paragraph (24) by inserting “storage facilities for aircraft deicing equipment and fluids,” after “sponsor,”.
+Section 47102(3)(B)(v) of title 49, United States Code, is amended by striking “and storage facilities for the equipment and fluids”.
