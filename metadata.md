@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4429
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4429
@@ -16,6 +16,10 @@ Developing and Empowering our Aspiring Leaders Act of 2025
 
 - Rep. Wagner, Ann [R-MO-2] (W000812)
 
+## Cosponsors (1)
+
+- Rep. Casten, Sean [D-IL-6] (C001117)
+
 ## Committees (1)
 
 - House — Financial Services Committee
@@ -25,3 +29,8 @@ Developing and Empowering our Aspiring Leaders Act of 2025
 - 2025-07-16 — Introduced in House
 - 2025-07-16 — Introduced in House
 - 2025-07-16 — Referred to the House Committee on Financial Services.
+- 2025-07-22 — Committee Consideration and Mark-up Session Held
+- 2025-07-22 — Ordered to be Reported (Amended) by the Yeas and Nays: 50 - 2.
+- 2025-09-08 — Placed on the Union Calendar, Calendar No. 203.
+- 2025-09-08 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-246.
+- 2025-09-08 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-246.

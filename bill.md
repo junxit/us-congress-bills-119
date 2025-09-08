@@ -20,6 +20,6 @@ Not later than the end of the 180-day period beginning on the date of the enactm
 - **(1)** revise the definition of a qualifying investment under paragraph (c) of section 275.203(l)–1 of title 17, Code of Federal Regulations—
   - **(A)** to include an equity security issued by a qualifying portfolio company, whether acquired directly from the company or in a secondary acquisition; and
   - **(B)** to specify that an investment in another venture capital fund is a qualifying investment under such definition; and
-- **(2)** revise paragraph (a) of such section to require, as a condition of a private fund qualifying as a venture capital fund under such paragraph, that the qualifying investments of the private fund are either—
-  - **(A)** predominantly qualifying investments that were acquired directly from a qualifying portfolio company; or
-  - **(B)** predominantly qualifying investments in another venture capital fund or other venture capital funds.
+- **(2)** revise paragraph (a) of such section to—
+  - **(A)** require, as a condition of a private fund qualifying as a venture capital fund under such paragraph, that not less than 51 percent of the fund’s aggregate capital contributions and uncalled committed capital (other than short term holdings) shall consist of equity securities acquired directly from a qualifying portfolio company, including immediately after the acquisition of any asset; and
+  - **(B)** specify that up to 49 percent of the fund’s aggregate capital contributions and uncalled committed capital (other than short term holdings) may consist of investments in one or more venture capital funds, as well as securities acquired in a secondary acquisition.
