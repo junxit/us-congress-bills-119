@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4431
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,18 +26,18 @@ to guess them.
 
 ### 15 U.S.C. § 80a-3
 
-> in the matter preceding subparagraph (A), by striking “250 persons” and inserting “2,000 persons”; and
+> in the matter preceding subparagraph (A), by striking “250 persons” and inserting “500 persons”; and
 
 | | |
 |---|---|
 | Removed | `250 persons` |
-| Inserted | `2,000 persons` |
+| Inserted | `500 persons` |
 
 ### 15 U.S.C. § 80a-3
 
-> in subparagraph (C)(i), by striking “$10,000,000” and inserting “$150,000,000”.
+> in subparagraph (C)(i), by striking “$10,000,000” and inserting “$50,000,000”.
 
 | | |
 |---|---|
 | Removed | `$10,000,000` |
-| Inserted | `$150,000,000` |
+| Inserted | `$50,000,000` |
