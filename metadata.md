@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4550
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4550
@@ -34,3 +34,9 @@ United States Grain Standards Reauthorization Act of 2025
 - 2025-09-03 — Placed on the Union Calendar, Calendar No. 190.
 - 2025-09-03 — Reported by the Committee on Agriculture. H. Rept. 119-233.
 - 2025-09-03 — Reported by the Committee on Agriculture. H. Rept. 119-233.
+- 2025-09-08 — Considered under suspension of the rules. (consideration: CR H3870)
+- 2025-09-08 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4550.
+- 2025-09-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-09-08 — Mr. Thompson (PA) moved to suspend the rules and pass the bill.
+- 2025-09-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3870)
+- 2025-09-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3870)
