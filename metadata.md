@@ -1,7 +1,7 @@
 ---
 measure: S. 1081
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1081
@@ -28,3 +28,7 @@ Comprehensive NASA Reporting Act of 2025
 
 - 2025-03-14 — Introduced in Senate
 - 2025-03-14 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2025-04-30 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment favorably.
+- 2025-09-08 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with amendments. With written report No. 119-62.
+- 2025-09-08 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with amendments. With written report No. 119-62.
+- 2025-09-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 150.
