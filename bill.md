@@ -1,0 +1,26 @@
+---
+legis-num: H.R. 5193
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5193
+
+> To direct the Chairman of the Joint Chiefs of Staff to conduct a feasibility study on incorporating militarily-relevant applications of emerging biotechnology into wargaming exercises, and for other purposes.
+
+## § 1. Feasibility study on incorporating militarily relevant applications of emerging biotechnology into wargaming exercises
+
+- **(a)** *In general* The Chairman of the Joint Chiefs of Staff shall conduct a review to determine the feasibility and advisability modifying the design of wargaming exercises to ensure that such exercises incorporate militarily relevant applications of emerging biotechnology.
+- **(b)** *Elements* In conducting the review required under subsection (a), the Chairman of the Joint Chiefs of Staff shall take into account—
+  - **(1)** biotechnology-enabled enhancements that improve the cognitive and physical performance of warfighters;
+  - **(2)** biotechnology-enabled chemicals and materials intended to provide a strategic advantage on the battlefield;
+  - **(3)** adversaries’ use of biotechnology for military purposes beyond traditional biological weapons; and
+  - **(4)** any other militarily relevant applications of biotechnology determined appropriate by the Chairman.
+- **(c)** *Consultation* In conducting the review under subsection (a), the Chairman of the Joint Chiefs of Staff shall consult with—
+  - **(1)** the commanders of the combatant commands; and
+  - **(2)** other stakeholders within and outside the Department of Defense, as necessary, to identify recent militarily relevant advancements in the field of biotechnology that could potentially be incorporated into exercises.
+- **(d)** *Report* Not later than 180 days after the date of the enactment of this Act, the Chairman of the Joint Chiefs of Staff shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the results of the review conducted under subsection (a). The report shall include—
+  - **(1)** a detailed summary of any recommended modifications to wargaming exercises; and
+  - **(2)** if applicable, a plan for regularly updating the design of such exercises to keep pace with advances in biotechnology.
+- **(e)** *Wargaming exercise defined* In this section, the term “wargaming exercise” means a military exercise conducted to test or improve tactical expertise, and includes the Globally Integrated Wargames.
