@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3446
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3446
@@ -31,3 +31,9 @@ FDIC Board Accountability Act
 - 2025-05-15 — Introduced in House
 - 2025-05-15 — Introduced in House
 - 2025-05-15 — Referred to the House Committee on Financial Services.
+- 2025-07-22 — Committee Consideration and Mark-up Session Held
+- 2025-07-23 — Committee Consideration and Mark-up Session Held
+- 2025-07-23 — Ordered to be Reported by the Yeas and Nays: 26 - 23.
+- 2025-09-08 — Placed on the Union Calendar, Calendar No. 201.
+- 2025-09-08 — Reported by the Committee on Financial Services. H. Rept. 119-244.
+- 2025-09-08 — Reported by the Committee on Financial Services. H. Rept. 119-244.
