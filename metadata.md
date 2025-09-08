@@ -1,7 +1,7 @@
 ---
 measure: H.R. 452
 congress: 119
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 452
@@ -347,3 +347,15 @@ Miracle on Ice Congressional Gold Medal Act
 - 2025-09-08 — Senate amendment agreed to: Amendment SA 3828 agreed to in Senate by Unanimous Consent.
 - 2025-09-08 — Senate amendment proposed (on the floor): Amendment SA 3828 proposed by Senator Moran for Senator Cramer.
 - 2025-09-08 — Senate amendment submitted
+- 2025-09-09 — Message on Senate action sent to the House.
+- 2025-09-15 — DEBATE - The House proceeded with 40 minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 452.
+- 2025-09-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-09-15 — Mr. Williams (TX) moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H4274)
+- 2025-09-15 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.
+- 2025-09-15 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote.
+- 2025-12-01 — Presented to President.
+- 2025-12-01 — Presented to President.
+- 2025-12-12 — Became Public Law No: 119-53.
+- 2025-12-12 — Became Public Law No: 119-53.
+- 2025-12-12 — Signed by President.
+- 2025-12-12 — Signed by President.
