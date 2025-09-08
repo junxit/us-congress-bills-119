@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3673
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3673
@@ -29,3 +29,8 @@ Small Business Investor Capital Access Act
 - 2025-06-03 — Introduced in House
 - 2025-06-03 — Introduced in House
 - 2025-06-03 — Referred to the House Committee on Financial Services.
+- 2025-07-22 — Committee Consideration and Mark-up Session Held
+- 2025-07-22 — Ordered to be Reported (Amended) by the Yeas and Nays: 51 - 2.
+- 2025-09-08 — Placed on the Union Calendar, Calendar No. 211.
+- 2025-09-08 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-254.
+- 2025-09-08 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-254.

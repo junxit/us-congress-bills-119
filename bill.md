@@ -15,8 +15,8 @@ This Act may be cited as the “Small Business Investor Capital Access Act”.
 
 ## § 2. Inflation adjustment for the exemption threshold for certain investment advisers of private funds
 
-Section 203(m) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–3(m)) is amended by adding at the end the following:
+Section 203(m) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–3(m)) is amended—
 
-> - **(5)** *Inflation adjustment* The Commission shall adjust the dollar amount described under paragraph (1)—
->   - **(A)** upon enactment of this paragraph, to reflect the change in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor between the date of enactment of the Private Fund Investment Advisers Registration Act of 2010 and the date of enactment of this paragraph; and
->   - **(B)** annually thereafter, to reflect the change in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor.
+- **(1)** in paragraph (1), by striking “$150,000,000” and inserting “$175,000,000”; and
+- **(2)** by adding at the end the following:
+  > - **(5)** *Inflation adjustment* The Commission shall, every 5 years, adjust the dollar amount described under paragraph (1) to reflect the change in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor, and round such dollar amount to the nearest multiple of $1,000,000.
