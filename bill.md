@@ -16,12 +16,12 @@ This Act may be cited as the “American Access to Banking Act”.
 ## § 2. Streamlining application process and review of capital raising by de novo regulated institutions
 
 - **(a)** *In general* Each of the Federal financial institutions regulatory agencies shall—
-  - **(1)** for the purpose of simplifying and streamlining the process of applying to become a de novo regulated institution, conduct a review of any application forms related to such process;
+  - **(1)** for the purpose of streamlining the process of applying to become a de novo regulated institution, conduct a review of any application forms related to such process;
   - **(2)** to the extent practicable, gather information needed from applicants seeking to become a de novo regulated institution from other Federal Government agencies or public sources to minimize information requests of such applicants; and
   - **(3)** in consultation with the Securities and Exchange Commission, review how de novo regulated institutions raise capital while maintaining investor protections, including the impact of—
     - **(A)** general capital raising restrictions; and
     - **(B)** capital raising restrictions related to individuals who are not accredited investors.
-- **(b)** *Report* Not later than 1 year after the date of the enactment of this section, and annually for 5 years thereafter, each of the Federal financial institutions regulatory agencies shall submit to the Congress and publish on a public website of such agency a report that contains—
+- **(b)** *Report* Not later than 1 year after the date of the enactment of this section, and annually for 5 years thereafter, each of the Federal financial institutions regulatory agencies shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate and publish on a public website of such agency a report that contains—
   - **(1)** a description of the actions taken by such agency pursuant to subsection (a); and
   - **(2)** as appropriate, any administrative or legislative recommendations with respect to the purpose described in subsection (a)(3).
 
@@ -47,7 +47,7 @@ This Act may be cited as the “American Access to Banking Act”.
   - **(2)** regularly consult with stakeholders, including applicants to become de novo regulated institutions and recently approved regulated institutions, to inform any reforms that may support the creation of de novo regulated institutions, including rural institutions, community development financial institutions, and minority depository institutions; and
   - **(3)** provide guidance, training material, and regular workshops to assist any interested parties to understand such agencies processes.
 - **(b)** *Submission to Congress*
-  - **(1)** *In general* Not later than 2 years after the date of the enactment of this section, and every 5 years thereafter, each of the Federal financial institutions regulatory agencies shall submit to the Congress the respective plan of such agency described in subsection (a).
+  - **(1)** *In general* Not later than 2 years after the date of the enactment of this section, and every 5 years thereafter, each of the Federal financial institutions regulatory agencies shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate the respective plan of such agency described in subsection (a).
   - **(2)** *Public comment* With respect to developing the plan described in subsection (a), each of the Federal financial institutions regulatory agencies shall—
     - **(A)** provide an opportunity for public comments; and
     - **(B)** take such public comments into consideration.
