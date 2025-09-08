@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## Preamble
 
-- Whereas, on August 27, 2025, congregants gathered at the Annunciation Catholic Church in Minneapolis, Minnesota, for a mass to welcome back students for their first week of school;
+- Whereas, on August 27, 2025, congregants gathered at the Annunciation Catholic Church in Minneapolis, Minnesota, for a Mass to welcome back students for their first week of school;
 - Whereas their sense of peace was shattered when a shooter opened fire while they were in prayer, killing 2 children and injuring 21 others;
 - Whereas first responders, including members of the Minneapolis Police Department, emergency medical teams, hospital staff, and Federal law enforcement officers, community members, and volunteers responded with courage and compassion; and
 - Whereas the Annunciation Catholic Church and School community, local schools, families, and neighbors have shown strength and resilience in the face of this tragedy: Now, therefore, be it
