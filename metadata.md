@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4478
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4478
@@ -29,3 +29,9 @@ TRUST Act of 2025
 - 2025-07-17 — Introduced in House
 - 2025-07-17 — Introduced in House
 - 2025-07-17 — Referred to the House Committee on Financial Services.
+- 2025-07-22 — Committee Consideration and Mark-up Session Held
+- 2025-07-23 — Committee Consideration and Mark-up Session Held
+- 2025-07-23 — Ordered to be Reported by the Yeas and Nays: 48 - 0.
+- 2025-09-08 — Placed on the Union Calendar, Calendar No. 209.
+- 2025-09-08 — Reported by the Committee on Financial Services. H. Rept. 119-252.
+- 2025-09-08 — Reported by the Committee on Financial Services. H. Rept. 119-252.
