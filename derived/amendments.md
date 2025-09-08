@@ -1,7 +1,7 @@
 ---
 measure: S. 2398
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 3 executed, 0 stated and not applied.
+7 amendatory instructions. 7 executed, 0 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,6 +32,42 @@ to guess them.
 |---|---|
 | Removed | `the Tick-Borne Disease Working Group established under section 2062 of the 21st Century Cures Act (42 U.S.C. 284s) and other individuals, as appropriate` |
 | Inserted | `appropriate individuals` |
+
+### 42 U.S.C. § 247b-23
+
+> in subsection (f), by striking “2021 through 2025” and inserting “2026 through 2030”.
+
+| | |
+|---|---|
+| Removed | `2021 through 2025` |
+| Inserted | `2026 through 2030` |
+
+### 42 U.S.C. § 300hh-32
+
+> Section 2822(c) of the Public Health Service Act (42 U.S.C. 300hh–32(c)) is amended by striking “2021 through 2025” and inserting “2026 through 2030”.
+
+| | |
+|---|---|
+| Removed | `2021 through 2025` |
+| Inserted | `2026 through 2030` |
+
+### 42 U.S.C. § 284s
+
+> in subsection (b), in the matter preceding paragraph (1), by striking “the Tick-Borne Disease Working Group established under section 2062 of the 21st Century Cures Act (42 U.S.C. 284s) and other individuals, as appropriate” and inserting “appropriate individuals”;
+
+| | |
+|---|---|
+| Removed | `the Tick-Borne Disease Working Group established under section 2062 of the 21st Century Cures Act (42 U.S.C. 284s) and other individuals, as appropriate` |
+| Inserted | `appropriate individuals` |
+
+### 42 U.S.C. § 247b-23
+
+> in subsection (c), by striking “in coordination with” and inserting “acting through”; and
+
+| | |
+|---|---|
+| Removed | `in coordination with` |
+| Inserted | `acting through` |
 
 ### 42 U.S.C. § 247b-23
 
