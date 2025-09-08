@@ -1,7 +1,7 @@
 ---
 measure: S. 1440
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1440
@@ -28,3 +28,7 @@ Uniformed Services Leave Parity Act
 
 - 2025-04-10 — Introduced in Senate
 - 2025-04-10 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2025-07-30 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported without amendment favorably.
+- 2025-09-08 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy without amendment. Without written report.
+- 2025-09-08 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy without amendment. Without written report.
+- 2025-09-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 151.
