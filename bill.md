@@ -52,3 +52,31 @@ This Act may be cited as the “Supervisory Modifications for Appropriate Risk-b
   >     - **(A)** *Consumer compliance examination* The term “consumer compliance examination” means an examination to assess compliance with the requirements of Federal consumer financial law (as such term is defined in section 1002 of the Consumer Financial Protection Act of 2010).
   >     - **(B)** *Well capitalized* The term “well capitalized” has the meaning given that term in section 216(c).
   >     - **(C)** *Well managed* With respect to an insured credit union, the term “well managed” means that, when the credit union was most recently examined by the National Credit Union Administration, the credit union was found to be well managed, and the credit union’s composite condition was found to be satisfactory or outstanding.
+
+## § 3. Examination practices
+
+- **(a)** *Insured depository institutions* Section 10(d) of the Federal Deposit Insurance Act (12 U.S.C. 1820(d)), as amended by section 2(a), is further amended by adding at the end the following:
+  > - **(12)** *Examination practices* With respect to on-site examination of an insured depository institution with less than $6,000,000,000 in total assets, the appropriate Federal banking agency shall—
+  >   - **(A)** ensure the examination is led by, to the maximum extent practicable, an examiner with significant experience as an examiner;
+  >   - **(B)** make every effort, to the maximum extent practicable, to minimize the number of examiners utilized and the amount of time spent at the institution to carry out the examination;
+  >   - **(C)** make every effort, to the maximum extent practicable, to schedule the examination at a time that is convenient for the institution; and
+  >   - **(D)** to the maximum extent practicable, give the institution advance notice of issues expected to be covered in the examination.
+  > - **(13)** *Report* In its annual report to Congress, each Federal banking agency shall include—
+  >   - **(A)** information on how the agency is complying with paragraphs (11) and (12); and
+  >   - **(B)** aggregate data summarizing the agency’s examination practices with respect to insured depository institutions with less than $6,000,000,000 in total assets, including—
+  >     - **(i)** the average experience of examiners, including the average number of years of examiner experience of those who lead on-site examinations;
+  >     - **(ii)** the average number of examiners utilized; and
+  >     - **(iii)** the average amount of time the agency spends visiting such institutions for on-site examinations.
+
+- **(b)** *Insured credit unions* Section 204 of the Federal Credit Union Act (12 U.S.C. 1784), as amended by section 2(b), is further amended by adding at the end the following:
+  > - **(i)** *Examination practices* With respect to on-site examination of an insured credit union with less than $6,000,000,000 in total assets, the National Credit Union Administration shall—
+  >   - **(1)** ensure the examination is led by, to the maximum extent practicable, an examiner with significant experience as an examiner;
+  >   - **(2)** make every effort, to the maximum extent practicable, to minimize the number of examiners utilized and the amount of time spent at the credit union to carry out the examination;
+  >   - **(3)** make every effort, to the maximum extent practicable, to schedule the examination at a time that is convenient for the credit union; and
+  >   - **(4)** to the maximum extent practicable, give the credit union advance notice of issues expected to be covered in the examination.
+  > - **(j)** *Report* In its annual report to Congress, the National Credit Union Administration shall include—
+  >   - **(1)** information on how the Administration is complying with subsections (h) and (i); and
+  >   - **(2)** aggregate data summarizing the Administration’s examination practices with respect to insured credit unions with less than $6,000,000,000 in total assets, including—
+  >     - **(A)** the average experience of examiners, including the average number of years of examiner experience of those who lead on-site examinations;
+  >     - **(B)** the average number of examiners utilized; and
+  >     - **(C)** the average amount of time the Administration spends visiting such credit unions for on-site examinations.
