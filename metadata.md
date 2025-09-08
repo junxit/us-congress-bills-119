@@ -1,7 +1,7 @@
 ---
 measure: S. 2301
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2301
@@ -30,3 +30,7 @@ Improving Care in Rural America Reauthorization Act of 2025
 
 - 2025-07-16 — Introduced in Senate
 - 2025-07-16 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2025-07-30 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported without amendment favorably.
+- 2025-09-08 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy without amendment. Without written report.
+- 2025-09-08 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy without amendment. Without written report.
+- 2025-09-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 153.
