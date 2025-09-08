@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4423
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4423
@@ -16,9 +16,11 @@ No New Burma Funds Act
 
 - Rep. Williams, Nikema [D-GA-5] (W000788)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Rep. Kim, Young [R-CA-40] (K000397)
+- Rep. De La Cruz, Monica [R-TX-15] (D000594)
+- Rep. Kennedy, Timothy M. [D-NY-26] (K000402)
 
 ## Committees (1)
 
@@ -29,3 +31,8 @@ No New Burma Funds Act
 - 2025-07-15 — Introduced in House
 - 2025-07-15 — Introduced in House
 - 2025-07-15 — Referred to the House Committee on Financial Services.
+- 2025-07-22 — Committee Consideration and Mark-up Session Held
+- 2025-07-22 — Ordered to be Reported (Amended) by the Yeas and Nays: 54 - 0.
+- 2025-09-08 — Placed on the Union Calendar, Calendar No. 202.
+- 2025-09-08 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-245.
+- 2025-09-08 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-245.
