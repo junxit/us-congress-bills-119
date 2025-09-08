@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4460
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4460
@@ -25,3 +25,9 @@ SAFE Guidance Act
 - 2025-07-16 — Introduced in House
 - 2025-07-16 — Introduced in House
 - 2025-07-16 — Referred to the House Committee on Financial Services.
+- 2025-07-22 — Committee Consideration and Mark-up Session Held
+- 2025-07-23 — Committee Consideration and Mark-up Session Held
+- 2025-07-23 — Ordered to be Reported by the Yeas and Nays: 26 - 23.
+- 2025-09-08 — Placed on the Union Calendar, Calendar No. 208.
+- 2025-09-08 — Reported by the Committee on Financial Services. H. Rept. 119-251.
+- 2025-09-08 — Reported by the Committee on Financial Services. H. Rept. 119-251.
