@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4430
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4430
@@ -16,6 +16,12 @@ Expanding WKSI Eligibility Act
 
 - Rep. Steil, Bryan [R-WI-1] (S001213)
 
+## Cosponsors (3)
+
+- Rep. Fields, Cleo [D-LA-6] (F000110)
+- Rep. Meuser, Daniel [R-PA-9] (M001204)
+- Rep. Himes, James A. [D-CT-4] (H001047)
+
 ## Committees (1)
 
 - House — Financial Services Committee
@@ -25,3 +31,8 @@ Expanding WKSI Eligibility Act
 - 2025-07-16 — Introduced in House
 - 2025-07-16 — Introduced in House
 - 2025-07-16 — Referred to the House Committee on Financial Services.
+- 2025-07-22 — Committee Consideration and Mark-up Session Held
+- 2025-07-22 — Ordered to be Reported (Amended) by the Yeas and Nays: 51 - 2.
+- 2025-09-08 — Placed on the Union Calendar, Calendar No. 204.
+- 2025-09-08 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-247.
+- 2025-09-08 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-247.
