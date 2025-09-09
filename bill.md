@@ -13,9 +13,27 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Modernizing All Veterans and Survivors Claims Processing Act”.
 
-## § 2. Plan for use of automation tools to process claims under laws administered by the Secretary of Veterans Affairs
+## § 2. Department of Veterans Affairs annual report on causes of death among veterans
 
-- **(a)** *In general* Not later than 180 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives the plan of the Secretary to make available, to the maximum extent practicable, an automation tool described in subsection (b) to elements of the Department of Veterans Affairs for the purpose of processing claims under laws administered by the Secretary.
+- **(a)** *In general* Subchaper II of chapter 5 of title 38, United States Code, is amended by adding at the end the following new section:
+  > ## § 534. Annual report on causes of death among veterans
+  >
+  > - **(a)** *In general* The Secretary shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate an annual report that contains data and information on causes of death among veterans.
+  > - **(b)** *Elements* Such report shall include—
+  >   - **(1)** for each veteran that died during the period covered by the report an identification of—
+  >     - **(A)** whether such veteran had a service-connected disability rated as total;
+  >     - **(B)** the primary cause of death;
+  >     - **(C)** the secondary cause of death, if applicable; and
+  >     - **(D)** the manner of death;
+  >   - **(2)** for each primary cause of death identified pursuant to paragraph (1), a statement of the total number of veterans that died from such primary cause of death during the period covered by the report; and
+  >   - **(3)** for each manner of death identified pursuant to paragraph (1), a statement of the total number of veterans that died in such manner during the period covered by the report.
+  > - **(c)** *Sunset* This section shall terminate on the date that is five years after the date of the enactment of the Justice for America’s Veterans and Survivors Act of 2025.
+
+- **(b)** *Clerical amendment* The table of sections at the beginning of chapter 5 of such title is amended by inserting after the item relating to section 533 the following new item:
+
+## § 3. Plan for use of automation tools to process claims under laws administered by the Secretary of Veterans Affairs
+
+- **(a)** *In general* Not later than one year after the date of the enactment of this Act, the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives the plan of the Secretary to make available, to the maximum extent practicable, an automation tool described in subsection (b) to elements of the Department of Veterans Affairs for the purpose of processing claims under laws administered by the Secretary.
 - **(b)** *Automation tool described* An automation tool described in this subsection is a technology developed for the Compensation Service of the Veterans Benefits Administration that—
   - **(1)** automates the retrieval of the service record or health records of a veteran;
   - **(2)** compiles evidence relevant to the determination of a claim for benefits under laws administered by the Secretary;
@@ -34,9 +52,8 @@ This Act may be cited as the “Modernizing All Veterans and Survivors Claims Pr
   - **(3)** Program offices of the Veterans Benefits Administration, as determined by the Secretary.
   - **(4)** The Debt Management Center.
   - **(5)** The Board of Veterans’ Appeals.
-- **(e)** *Deadline for provision of automation tool to certain program offices* Not later than one year after the date of the submission of the plan required by subsection (a), the Secretary shall ensure that an automation tool with the capability described in subsection (b)(5) is made available to each program office of the Department responsible for processing claims for pension or survivor benefits under the laws administered by the Secretary.
 
-## § 3. Other requirements relating to technology at Department of Veterans Affairs
+## § 4. Other requirements relating to technology at Department of Veterans Affairs
 
 - **(a)** *Automatic notices regarding benefits for certain children of veterans*
   - **(1)** *In general* Not later than one year after the date of the enactment of this Act, the Secretary of Veterans Affairs shall implement policies, processes, and technological capabilities, including in the National Work Queue (or successor system), to ensure that, in the case of any covered situation, a claims processors is made aware of, and assigned to address, such covered situation.
@@ -45,4 +62,8 @@ This Act may be cited as the “Modernizing All Veterans and Survivors Claims Pr
       - **(i)** any increase in the amount of dependency compensation paid to a beneficiary for a child under the laws administered by the Secretary; and
       - **(ii)** any educational assistance paid to the child of a veteran under the laws administered by the Secretary.
     - **(B)** The term “child” has the meaning given such term in section 101(4)(A)(iii) of title 38, United States Code.
-- **(b)** *Correct labeling of documents* Not later than 180 days the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a plan to ensure that documents in the Veterans Benefits Management System (or any successor system) are correctly labeled when such documents are uploaded, including when such documents are labeled using automation tools.
+- **(b)** *Correct labeling of documents* Not later than one year after the date of the enactment of this Act, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a plan to ensure that documents in the Veterans Benefits Management System (or any successor system) are correctly labeled when such documents are uploaded, including when such documents are labeled using automation tools.
+
+## § 5. Extension of certain limits on payments of pension
+
+Section 5503(d)(7) of title 38, United States Code, is amended by striking “November 30, 2031” and inserting “January 31, 2032”.
