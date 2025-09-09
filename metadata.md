@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3951
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3951
@@ -30,3 +30,11 @@ Rural Veterans’ Improved Access to Benefits Act of 2025
 - 2025-06-12 — Introduced in House
 - 2025-06-12 — Introduced in House
 - 2025-06-12 — Referred to the House Committee on Veterans' Affairs.
+- 2025-06-23 — Referred to the Subcommittee on Disability Assistance and Memorial Affairs.
+- 2025-06-24 — Subcommittee Hearings Held
+- 2025-07-03 — Subcommittee on Disability Assistance and Memorial Affairs Discharged
+- 2025-07-23 — Committee Consideration and Mark-up Session Held
+- 2025-07-23 — Ordered to be Reported by Voice Vote.
+- 2025-09-09 — Placed on the Union Calendar, Calendar No. 215.
+- 2025-09-09 — Reported by the Committee on Veterans' Affairs. H. Rept. 119-259.
+- 2025-09-09 — Reported by the Committee on Veterans' Affairs. H. Rept. 119-259.
