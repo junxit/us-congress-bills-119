@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3425
 congress: 119
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3425
@@ -20,9 +20,10 @@ Personnel Oversight and Shift Tracking Act of 2025
 
 - Rep. Figures, Shomari [D-AL-2] (F000481)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -48,3 +49,4 @@ Personnel Oversight and Shift Tracking Act of 2025
 - 2025-09-08 — Placed on the Union Calendar, Calendar No. 196.
 - 2025-09-08 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 119-239.
 - 2025-09-08 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 119-239.
+- 2025-09-09 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
