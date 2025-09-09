@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3428
 congress: 119
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3428
@@ -20,9 +20,10 @@ Mid-Atlantic River Basin Commissions Review Act
 
 - Rep. Perry, Scott [R-PA-10] (P000605)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Mid-Atlantic River Basin Commissions Review Act
 - 2025-09-08 — Placed on the Union Calendar, Calendar No. 198.
 - 2025-09-08 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 119-241.
 - 2025-09-08 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 119-241.
+- 2025-09-09 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
