@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3579
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3579
@@ -31,3 +31,11 @@ Veterans Readiness and Employment Program Integrity Act
 - 2025-05-23 — Introduced in House
 - 2025-05-23 — Introduced in House
 - 2025-05-23 — Referred to the House Committee on Veterans' Affairs.
+- 2025-06-06 — Referred to the Subcommittee on Economic Opportunity.
+- 2025-06-11 — Subcommittee Hearings Held
+- 2025-07-03 — Subcommittee on Economic Opportunity Discharged
+- 2025-07-23 — Committee Consideration and Mark-up Session Held
+- 2025-07-23 — Ordered to be Reported (Amended) by Voice Vote.
+- 2025-09-09 — Placed on the Union Calendar, Calendar No. 218.
+- 2025-09-09 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-262.
+- 2025-09-09 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-262.

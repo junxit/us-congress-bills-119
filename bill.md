@@ -17,15 +17,19 @@ This Act may be cited as the “Veterans Readiness and Employment Program Integr
 
 Section 3106(a) of title 38, United States Code, is amended—
 
-- **(1)** by inserting “(1)” before “The Secretary”; and
-- **(2)** by adding at the end the following new paragraph:
-  > - **(2)** The Secretary may not provide an initial evaluation of a veteran under paragraph (1) before the veteran submits to the Secretary an application containing such information as the Secretary determines appropriate.
+- **(1)** by striking “necessary (1) to determine” and inserting “necessary to determine”;
+- **(2)** by striking “and (2) in the case” and inserting “and, in the case”;
+- **(3)** by inserting “(1)” before “The Secretary”; and
+- **(4)** by adding at the end the following new paragraph:
+  > - **(2)** The Secretary may not provide an initial evaluation of a veteran under paragraph (1) before the veteran submits to the Secretary an application containing the substantive work record and educational transcripts of the veteran that the Secretary determines appropriate.
 
 ## § 3. Maximum duration of employment assistance under Veterans Readiness and Employment program of Department of Veterans Affairs
 
 Section 3117(a) of title 38, United States Code, is amended by adding at the end the following new paragraph:
 
-> - **(3)** A veteran may not receive assistance under this subsection for more than 365 days.
+> - **(3)**
+>   - **(A)** Subject to subparagraph (B), a veteran may not receive assistance under this subsection for more than 365 days.
+>   - **(B)** A veteran may receive an additional 180 days of such assistance if an individual who provides counseling under this chapter to such veteran certifies that the veteran is actively seeking employment.
 
 ## § 4. Reporting and data collection requirements under Veterans Readiness and Employment program of Department of Veterans Affairs
 
