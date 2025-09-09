@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3423
 congress: 119
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3423
@@ -22,9 +22,10 @@ Facility for Runway Operations and Safe Transportation Act
 - Rep. Gillen, Laura [D-NY-4] (G000602)
 - Rep. Lawler, Michael [R-NY-17] (L000599)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Facility for Runway Operations and Safe Transportation Act
 - 2025-09-08 — Placed on the Union Calendar, Calendar No. 194.
 - 2025-09-08 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 119-237.
 - 2025-09-08 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 119-237.
+- 2025-09-09 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
