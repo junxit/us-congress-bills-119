@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3424
 congress: 119
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3424
@@ -21,9 +21,10 @@ SPACE Act of 2025
 - Rep. Pappas, Chris [D-NH-1] (P000614)
 - Rep. Lawler, Michael [R-NY-17] (L000599)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (1)
 
@@ -49,3 +50,4 @@ SPACE Act of 2025
 - 2025-09-08 — Placed on the Union Calendar, Calendar No. 195.
 - 2025-09-08 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 119-238.
 - 2025-09-08 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 119-238.
+- 2025-09-09 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
