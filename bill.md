@@ -25,9 +25,13 @@ Section 3320 of title 38, United States Code, is amended—
     - **(ii)** by striking “90” and inserting “67.5”;
 - **(2)** in subsection (c)(1)—
   - **(A)** by redesignating subparagraphs (A) and (B) as subparagraphs (C) and (D), respectively; and
-  - **(B)** by inserting before subparagraph (C), as so redesignated, the following new subparagraph (A):
+  - **(B)** by inserting before subparagraph (C), as so redesignated, the following new subparagraphs:
     > - **(A)** Individuals who have used the most number of months of the educational assistance to which they are entitled under this chapter.
     > - **(B)** Individuals who are using their entitlement under this chapter to pursue a program of post-secondary education and who have declared a major in a field referred to in subsection (b)(3)(A)(i).
 
 - **(3)** in subsection (d), by adding at the end the following new paragraph:
   > - **(5)** An individual who receives a benefit under this section may only use such benefit after the individual has used all of the educational assistance to which the individual is entitled under this chapter.
+
+## § 3. Extension of certain limits on payments of pension
+
+Section 5503(d)(7) of title 38, United States Code, is amended by striking “November 30, 2031” and inserting “March 31, 2033”.
