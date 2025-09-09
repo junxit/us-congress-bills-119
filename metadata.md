@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2591
 congress: 119
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 2591
@@ -62,9 +62,10 @@ Mental Health in Aviation Act of 2025
 - Rep. Lawler, Michael [R-NY-17] (L000599)
 - Rep. Craig, Angie [D-MN-2] (C001119)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -84,3 +85,4 @@ Mental Health in Aviation Act of 2025
 - 2025-09-08 — Placed on the Union Calendar, Calendar No. 199.
 - 2025-09-08 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 119-242.
 - 2025-09-08 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 119-242.
+- 2025-09-09 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
