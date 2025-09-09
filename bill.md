@@ -27,7 +27,7 @@ Congress finds the following:
 ## § 3. Fallen Servicemembers Religious Heritage Restoration Program
 
 - **(a)** *Establishment* The American Battle Monuments Commission shall establish a program to identify covered members and to contact survivors and descendants of such covered members. Such program shall be known as the “Fallen Servicemembers Religious Heritage Restoration Program”.
-- **(b)** *Duration* The Commission shall carry out the Fallen Servicemembers Religious Heritage Restoration Program during the first 10 fiscal years that begin after the date of the enactment of this Act.
+- **(b)** *Duration* The Commission shall carry out the Fallen Servicemembers Religious Heritage Restoration Program during the first five fiscal years that begin after the date of the enactment of this Act.
 - **(c)** *Contracts*
   - **(1)** *Authority* During each fiscal year described in subsection (b), the Commission shall seek to enter into a contract with a nonprofit organization under which such nonprofit organization shall carry out the purpose described in subsection (a).
   - **(2)** *Term; amount* Each contract under this subsection shall be for one year and in the amount of $500,000 to the nonprofit organization.
@@ -38,3 +38,7 @@ Congress finds the following:
     - **(A)** in a United States military cemetery located outside the United States; and
     - **(B)** under a marker that indicates such member was not Jewish.
   - **(2)** The term “nonprofit organization” means an organization described in section 501(c)(3) of the Internal Revenue Code of 1986 and exempt from taxation under section 501(a) of such Code.
+
+## § 4. Extension of certain limits on payments of pension
+
+Section 5503(d)(7) of title 38, United States Code, is amended by striking “November 30, 2031” and inserting “January 31, 2032”.
