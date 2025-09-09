@@ -13,10 +13,24 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Delivering Digitally to Our Veterans Act of 2025”.
 
-## § 2. Department of Veterans Affairs electronic communication relating to educational assistance benefits
+## § 2. Improvement to certain outreach under Solid Start program of Department of Veterans Affairs
+
+Section 6320(b) of title 38, United States Code, is amended—
+
+- **(1)** in paragraph (1)(B)—
+  - **(A)** by striking “calling” and inserting “communicating with”; and
+  - **(B)** by inserting “through the use of tailored lines of communication, including mailings, text messaging, virtual chatting, and other electronic forms of messaging” after “Armed Forces”; and
+- **(2)** in paragraph (2), by striking “tailored mailings” and inserting “tailored lines of communication, including mailings, text messaging, virtual chatting, and other electronic forms of messaging,”.
+
+## § 3. Department of Veterans Affairs use of tailored lines of communication for correspondence relating to educational assistance benefits
 
 Section 3680 of title 38, United States Code, is amended by adding at the end the following new subsection:
 
 > - **(i)**
->   - **(1)** The Secretary shall provide a mechanism by which an eligible veteran or eligible person may electronically send and receive correspondence with the Department of Veterans related to entitlement to and use of educational assistance benefits under the laws administered by the Secretary. The Secretary shall ensure that an eligible veteran or eligible person is provided with an opportunity to opt into sending and receiving such correspondence electronically rather than by mail.
->   - **(2)** The Secretary shall provide to eligible veterans and eligible persons who are enrolled in a course or program of education or training notice of the opportunity to opt in to sending and receiving correspondence electronically pursuant to paragraph (1).
+>   - **(1)** The Secretary shall provide a mechanism by which an eligible veteran or eligible person may use tailored lines of communication to send and receive correspondence with the Department of Veterans related to entitlement to and use of educational assistance benefits under the laws administered by the Secretary. The Secretary shall ensure that an eligible veteran or eligible person is provided with an opportunity to opt into sending and receiving such correspondence using such lines of communication rather than by mail.
+>   - **(2)** The Secretary shall provide to eligible veterans and eligible persons who are enrolled in a course or program of education or training notice of the opportunity to opt in to sending and receiving correspondence using tailored lines of communication pursuant to paragraph (1).
+>   - **(3)** In this subsection, the term “tailored lines of communication” includes mailings, text messaging, virtual chatting, and other electronic forms of messaging.
+
+## § 4. Extension of certain limits on payments of pension
+
+Section 5503(d)(7) of title 38, United States Code, is amended by striking “November 30, 2031” and inserting “January 31, 2033”.
