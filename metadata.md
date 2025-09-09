@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3055
 congress: 119
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3055
@@ -23,11 +23,12 @@ TRANSPORT Jobs Act
 - Rep. Gillen, Laura [D-NY-4] (G000602)
 - Rep. Lee, Susie [D-NV-3] (L000590)
 
-## Committees (3)
+## Committees (4)
 
 - House — Veterans' Affairs Committee
 - House — Armed Services Committee
 - House — Transportation and Infrastructure Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -53,3 +54,4 @@ TRANSPORT Jobs Act
 - 2025-09-08 — Placed on the Union Calendar, Calendar No. 200.
 - 2025-09-08 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 119-243, Part I.
 - 2025-09-08 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 119-243, Part I.
+- 2025-09-09 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
