@@ -1,7 +1,7 @@
 ---
 measure: S. 759
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 759
@@ -32,3 +32,5 @@ Modernizing Access to Our Public Oceans Act
 - 2025-07-16 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-40.
 - 2025-07-16 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-40.
 - 2025-07-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 117.
+- 2025-09-10 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6556; text of amendment in the nature of a substitute: CR S6556)
+- 2025-09-10 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
