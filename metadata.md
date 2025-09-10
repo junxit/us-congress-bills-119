@@ -1,7 +1,7 @@
 ---
 measure: S. 725
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 725
@@ -43,3 +43,5 @@ Enhancing First Response Act
 - 2025-09-02 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-59.
 - 2025-09-02 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-59.
 - 2025-09-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 146.
+- 2025-09-10 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S6555; text of amendment in the nature of a substitute: CR S6555)
+- 2025-09-10 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
