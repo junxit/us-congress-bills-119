@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3838
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3838
@@ -42,6 +42,28 @@ Streamlining Procurement for Effective Execution and Delivery and National Defen
 - House — Transportation and Infrastructure Committee
 - House — Veterans' Affairs Committee
 
+## Recorded votes (19)
+
+- 2025-09-10 — [House 119-1-244](votes/house-119-1-0244.md) — On Agreeing to the Amendment — **Agreed to** (261–167)
+- 2025-09-10 — [House 119-1-245](votes/house-119-1-0245.md) — On Agreeing to the Amendment — **Agreed to** (221–210)
+- 2025-09-10 — [House 119-1-246](votes/house-119-1-0246.md) — On Agreeing to the Amendment — **Agreed to** (221–207)
+- 2025-09-10 — [House 119-1-247](votes/house-119-1-0247.md) — On Agreeing to the Amendment — **Agreed to** (227–201)
+- 2025-09-10 — [House 119-1-248](votes/house-119-1-0248.md) — On Agreeing to the Amendment — **Agreed to** (221–210)
+- 2025-09-10 — [House 119-1-249](votes/house-119-1-0249.md) — On Agreeing to the Amendment — **Agreed to** (219–209)
+- 2025-09-10 — [House 119-1-250](votes/house-119-1-0250.md) — On Agreeing to the Amendment — **Failed** (209–224)
+- 2025-09-10 — [House 119-1-251](votes/house-119-1-0251.md) — On Agreeing to the Amendment — **Agreed to** (224–208)
+- 2025-09-10 — [House 119-1-252](votes/house-119-1-0252.md) — On Agreeing to the Amendment — **Agreed to** (228–205)
+- 2025-09-10 — [House 119-1-253](votes/house-119-1-0253.md) — On Agreeing to the Amendment — **Agreed to** (222–210)
+- 2025-09-10 — [House 119-1-254](votes/house-119-1-0254.md) — On Agreeing to the Amendment — **Failed** (194–236)
+- 2025-09-10 — [House 119-1-255](votes/house-119-1-0255.md) — On Agreeing to the Amendment — **Failed** (60–372)
+- 2025-09-10 — [House 119-1-256](votes/house-119-1-0256.md) — On Agreeing to the Amendment — **Failed** (60–370)
+- 2025-09-10 — [House 119-1-257](votes/house-119-1-0257.md) — On Agreeing to the Amendment — **Failed** (9–422)
+- 2025-09-10 — [House 119-1-258](votes/house-119-1-0258.md) — On Agreeing to the Amendment — **Agreed to** (219–211)
+- 2025-09-10 — [House 119-1-259](votes/house-119-1-0259.md) — On Agreeing to the Amendment — **Failed** (200–228)
+- 2025-09-10 — [House 119-1-260](votes/house-119-1-0260.md) — On Agreeing to the Amendment — **Agreed to** (430–3)
+- 2025-09-10 — [House 119-1-261](votes/house-119-1-0261.md) — On Motion to Recommit — **Failed** (208–219)
+- 2025-09-10 — [House 119-1-262](votes/house-119-1-0262.md) — On Passage — **Passed** (231–196)
+
 ## Actions
 
 - 2025-06-09 — Introduced in House
@@ -52,3 +74,696 @@ Streamlining Procurement for Effective Execution and Delivery and National Defen
 - 2025-08-19 — Placed on the Union Calendar, Calendar No. 189.
 - 2025-08-19 — Reported (Amended) by the Committee on Armed Services. H. Rept. 119-231.
 - 2025-08-19 — Reported (Amended) by the Committee on Armed Services. H. Rept. 119-231.
+- 2025-09-09 — Amendment (A002) offered by Mr. Smith (NJ). (consideration: CR H4120-4122; text: CR H4120)
+- 2025-09-09 — Amendment (A003) offered by Mr. Patronis. (consideration: CR H4122-4123; text: CR H4122)
+- 2025-09-09 — Amendment (A004) offered by Mr. Rogers (AL). (consideration: CR H4123-4125; text: CR H4123-4124)
+- 2025-09-09 — Amendment (A005) offered by Mr. Wilson (SC). (consideration: CR H4125-4126; text: CR H4125)
+- 2025-09-09 — Amendments en bloc (A001) offered by Mr. Rogers (AL). (consideration: CR H4104-4120; text: CR H4104-4120)
+- 2025-09-09 — Amendments en bloc (A006) offered by Mr. Rogers (AL). (consideration: CR H4126-4135; text: CR H4126-4134)
+- 2025-09-09 — Amendments en bloc (A007) offered by Mr. Rogers (AL). (consideration: CR H4135-4144; text: CR H4135-4144)
+- 2025-09-09 — Amendments en bloc (A008) offered by Mr. Rogers (AL). (consideration: CR H4144-4158; text: CR H4144-4158)
+- 2025-09-09 — Committee of the Whole House on the state of the Union rises leaving H.R. 3838 as unfinished business.
+- 2025-09-09 — Considered under the provisions of rule H. Res. 682. (consideration: CR H3915-4158)
+- 2025-09-09 — DEBATE - Pursuant to the provisions of H. Res. 682, the Committee of the Whole proceeded with 10 minutes of debate on the Patronis amendment No. 9.
+- 2025-09-09 — DEBATE - Pursuant to the provisions of H. Res. 682, the Committee of the Whole proceeded with 10 minutes of debate on the Rogers (AL) amendment No. 10.
+- 2025-09-09 — DEBATE - Pursuant to the provisions of H. Res. 682, the Committee of the Whole proceeded with 10 minutes of debate on the Smith (NJ) amendment No. 7.
+- 2025-09-09 — DEBATE - Pursuant to the provisions of H. Res. 682, the Committee of the Whole proceeded with 10 minutes of debate on the Wilson (SC) amendment No. 11.
+- 2025-09-09 — DEBATE - Pursuant to the provisions of H. Res. 682, the Committee of the Whole proceeded with 40 minutes of debate on the Rogers (AL) amendment en bloc No. 1.
+- 2025-09-09 — DEBATE - Pursuant to the provisions of H. Res. 682, the Committee of the Whole proceeded with 40 minutes of debate on the Rogers (AL) amendment en bloc No. 2.
+- 2025-09-09 — DEBATE - Pursuant to the provisions of H. Res. 682, the Committee of the Whole proceeded with 40 minutes of debate on the Rogers (AL) amendment en bloc No. 3.
+- 2025-09-09 — DEBATE - Pursuant to the provisions of H. Res. 682, the Committee of the Whole proceeded with 40 minutes of debate on the Rogers (AL) amendment en bloc No. 4.
+- 2025-09-09 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 3838.
+- 2025-09-09 — House Amendment Offered
+- 2025-09-09 — House Amendment Offered
+- 2025-09-09 — House Amendment Offered
+- 2025-09-09 — House Amendment Offered
+- 2025-09-09 — House Amendment Offered
+- 2025-09-09 — House Amendment Offered
+- 2025-09-09 — House Amendment Offered
+- 2025-09-09 — House Amendment Offered
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendments (A001) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendments (A006) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendments (A007) Agreed to by voice vote.
+- 2025-09-09 — House amendment agreed to: On agreeing to the Rogers (AL) amendments (A008) Agreed to by voice vote.
+- 2025-09-09 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 682 and Rule XVIII.
+- 2025-09-09 — Mr. Rogers (AL) moved that the committee rise.
+- 2025-09-09 — On agreeing to the Rogers (AL) amendment (A004) Agreed to by voice vote.
+- 2025-09-09 — On agreeing to the Rogers (AL) amendments (A001) Agreed to by voice vote.
+- 2025-09-09 — On agreeing to the Rogers (AL) amendments (A006) Agreed to by voice vote.
+- 2025-09-09 — On agreeing to the Rogers (AL) amendments (A007) Agreed to by voice vote.
+- 2025-09-09 — On agreeing to the Rogers (AL) amendments (A008) Agreed to by voice vote.
+- 2025-09-09 — On motion that the committee rise Agreed to by voice vote.
+- 2025-09-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Patronis amendment No. 9, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mr. Beyer demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2025-09-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Smith amendment No. 7, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mr. Courtney demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2025-09-09 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Wilson (SC) amendment No. 11, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mr. Smith (WA) demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2025-09-09 — Rule provides for consideration of H.R. 3838 and H.R. 3486. The resolution provides for consideration of H.R. 3838 under a structured rule and H.R. 3486 under a closed rule with one hour of general debate and one motion to recommit on each bill.
+- 2025-09-09 — Rules Committee Resolution H. Res. 682 Reported to House. Rule provides for consideration of H.R. 3838 and H.R. 3486. The resolution provides for consideration of H.R. 3838 under a structured rule and H.R. 3486 under a closed rule with one hour of general debate and one motion to recommit on each bill.
+- 2025-09-09 — The Speaker designated the Honorable Michelle Fischbach to act as Chairwoman of the Committee.
+- 2025-09-10 — 
+- 2025-09-10 — 
+- 2025-09-10 — 
+- 2025-09-10 — 
+- 2025-09-10 — 
+- 2025-09-10 — 
+- 2025-09-10 — 
+- 2025-09-10 — 
+- 2025-09-10 — 
+- 2025-09-10 — 
+- 2025-09-10 — 
+- 2025-09-10 — 
+- 2025-09-10 — 
+- 2025-09-10 — 
+- 2025-09-10 — 
+- 2025-09-10 — 
+- 2025-09-10 — 
+- 2025-09-10 — Amendment (A009) offered by Mr. Norman. (consideration: CR H4177-4178, H4215-4216; text: CR H4177)
+- 2025-09-10 — Amendment (A010) offered by Ms. Mace. (consideration: CR H4178-4180, H4216-4217; text: CR H4178-4179)
+- 2025-09-10 — Amendment (A011) offered by Ms. Mace. (consideration: CR H4220-4221 )
+- 2025-09-10 — Amendment (A012) offered by Ms. Mace. (consideration: CR H4181-4183, H4217-4218; text: CR H4181)
+- 2025-09-10 — Amendment (A013) offered by Ms. Mace. (consideration: CR H4183-4184, H4218-4219; text: CR H4183)
+- 2025-09-10 — Amendment (A014) offered by Mr. Mills. (; text: CR H4184; consideration: CR H4184-4186, H4221)
+- 2025-09-10 — Amendment (A015) offered by Ms. Greene (GA). (consideration: CR  H4186-4187, H4221-4222; text: CR H4186)
+- 2025-09-10 — Amendment (A016) offered by Mr. Scott, Austin. (consideration: CR H4187-4188; text: CR H4187)
+- 2025-09-10 — Amendment (A017) offered by Ms. Greene (GA). (consideration: CR H4188-4190, H4222-4223; text: CR H4188)
+- 2025-09-10 — Amendment (A018) offered by Ms. Greene (GA). (consideration: CR H4190-4191, H4223; text: CR H4190)
+- 2025-09-10 — Amendment (A019) offered by Ms. Greene (GA). (consideration: CR H4191-4193, H4223-4224; text: CR H4191)
+- 2025-09-10 — Amendment (A020) offered by Mr. McCormick. (consideration: CR H4193-4194, H4224-4225; text: CR H4193)
+- 2025-09-10 — Amendment (A021) offered by Mr. Biggs (AZ). (consideration: CR H4194-4196, H4225; text: CR H4194-4195)
+- 2025-09-10 — Amendment (A022) offered by Mr. Rouzer. (consideration: CR H4196-4197; text: CR H4196-4197)
+- 2025-09-10 — Amendment (A023) offered by Mr. Meeks. (consideration: CR H4197-4198, H4213-4214; text: CR H4197)
+- 2025-09-10 — Amendment (A024) offered by Mr. Rose. (consideration: CR H4198–4200, H4225-4226; text: CR H4198-4199)
+- 2025-09-10 — Amendments en bloc (A025) offered by Mr. Rogers (AL). (consideration: CR H4200-4213; text: CR H4200-4210)
+- 2025-09-10 — Committee of the Whole House on the state of the Union rises leaving H.R. 3838 as unfinished business.
+- 2025-09-10 — Committee of the Whole House on the state of the Union rises leaving H.R. 3838 as unfinished business.
+- 2025-09-10 — Considered as unfinished business. (consideration: CR H4125-4128)
+- 2025-09-10 — Considered as unfinished business. (consideration: CR H4176-4213)
+- 2025-09-10 — Considered as unfinished business. (consideration: CR H4213-4214)
+- 2025-09-10 — DEBATE - Pursuant to the provisions of H. Res. 682, the Committee of the Whole proceeded with 10 minutes of debate on the Austin Scott amendment No. 21.
+- 2025-09-10 — DEBATE - Pursuant to the provisions of H. Res. 682, the Committee of the Whole proceeded with 10 minutes of debate on the Biggs (AZ) amendment No. 29.
+- 2025-09-10 — DEBATE - Pursuant to the provisions of H. Res. 682, the Committee of the Whole proceeded with 10 minutes of debate on the Greene (GA) amendment No. 20.
+- 2025-09-10 — DEBATE - Pursuant to the provisions of H. Res. 682, the Committee of the Whole proceeded with 10 minutes of debate on the Greene (GA) amendment No. 22.
+- 2025-09-10 — DEBATE - Pursuant to the provisions of H. Res. 682, the Committee of the Whole proceeded with 10 minutes of debate on the Greene (GA) amendment No. 23.
+- 2025-09-10 — DEBATE - Pursuant to the provisions of H. Res. 682, the Committee of the Whole proceeded with 10 minutes of debate on the Greene (GA) amendment No. 24.
+- 2025-09-10 — DEBATE - Pursuant to the provisions of H. Res. 682, the Committee of the Whole proceeded with 10 minutes of debate on the Mace amendment No. 14.
+- 2025-09-10 — DEBATE - Pursuant to the provisions of H. Res. 682, the Committee of the Whole proceeded with 10 minutes of debate on the Mace amendment No. 15.
+- 2025-09-10 — DEBATE - Pursuant to the provisions of H. Res. 682, the Committee of the Whole proceeded with 10 minutes of debate on the Mace amendment No. 16.
+- 2025-09-10 — DEBATE - Pursuant to the provisions of H. Res. 682, the Committee of the Whole proceeded with 10 minutes of debate on the Mace amendment No. 17.
+- 2025-09-10 — DEBATE - Pursuant to the provisions of H. Res. 682, the Committee of the Whole proceeded with 10 minutes of debate on the McCormick amendment No. 25.
+- 2025-09-10 — DEBATE - Pursuant to the provisions of H. Res. 682, the Committee of the Whole proceeded with 10 minutes of debate on the Meeks amendment No. 34.
+- 2025-09-10 — DEBATE - Pursuant to the provisions of H. Res. 682, the Committee of the Whole proceeded with 10 minutes of debate on the Mills amendment No. 18.
+- 2025-09-10 — DEBATE - Pursuant to the provisions of H. Res. 682, the Committee of the Whole proceeded with 10 minutes of debate on the Norman amendment No. 13.
+- 2025-09-10 — DEBATE - Pursuant to the provisions of H. Res. 682, the Committee of the Whole proceeded with 10 minutes of debate on the Rose amendment No. 253.
+- 2025-09-10 — DEBATE - Pursuant to the provisions of H. Res. 682, the Committee of the Whole proceeded with 10 minutes of debate on the Rouzer amendment No. 33.
+- 2025-09-10 — DEBATE - Pursuant to the provisions of H. Res. 682, the Committee of the Whole proceeded with 40 minutes of debate on the Rogers (AL) amendment en bloc No. 5.
+- 2025-09-10 — House Amendment Offered
+- 2025-09-10 — House Amendment Offered
+- 2025-09-10 — House Amendment Offered
+- 2025-09-10 — House Amendment Offered
+- 2025-09-10 — House Amendment Offered
+- 2025-09-10 — House Amendment Offered
+- 2025-09-10 — House Amendment Offered
+- 2025-09-10 — House Amendment Offered
+- 2025-09-10 — House Amendment Offered
+- 2025-09-10 — House Amendment Offered
+- 2025-09-10 — House Amendment Offered
+- 2025-09-10 — House Amendment Offered
+- 2025-09-10 — House Amendment Offered
+- 2025-09-10 — House Amendment Offered
+- 2025-09-10 — House Amendment Offered
+- 2025-09-10 — House Amendment Offered
+- 2025-09-10 — House Amendment Offered
+- 2025-09-10 — House amendment agreed to: On agreeing to the Mace amendment (A010) Agreed to by recorded vote: 221 - 207 (Roll no. 246).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Mace amendment (A011) Agreed to by recorded vote: 227 - 201 (Roll no. 247).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Mace amendment (A012) Agreed to by recorded vote: 221 - 210 (Roll no. 248).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Mace amendment (A013) Agreed to by recorded vote: 219 - 209 (Roll no. 249).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Meeks amendment (A023) Agreed to by recorded vote: 261 - 167 (Roll no. 244).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Mills amendment (A014) Agreed to by recorded vote: 222 - 210 (Roll no. 253).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Norman amendment (A009) Agreed to by recorded vote: 221 - 210 (Roll no. 245).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Rogers (AL) amendments (A025) Agreed to by voice vote.
+- 2025-09-10 — House amendment agreed to: On agreeing to the Rose amendment (A024) Agreed to by recorded vote: 430 - 3 (Roll no. 260).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Rouzer amendment (A022) Agreed to by voice vote.
+- 2025-09-10 — House amendment agreed to: On agreeing to the Scott, Austin amendment (A016) Agreed to by voice vote.
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment agreed to: On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Biggs (AZ) amendment (A021) Failed by recorded vote: 200 - 228 (Roll no. 259).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Greene (GA) amendment (A015) Failed by recorded vote: 194 - 236, 1 Present (Roll no. 254).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Greene (GA) amendment (A017) Failed by recorded vote: 60 - 372 (Roll no. 255).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Greene (GA) amendment (A018) Failed by recorded vote: 60 - 370 (Roll no. 256).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Greene (GA) amendment (A019) Failed by recorded vote: 9 - 422 (Roll no. 257).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — House amendment not agreed to: On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-09-10 — Mr. Rogers (AL) moved that the committee rise.
+- 2025-09-10 — Mr. Rogers (AL) moved that the committee rise.
+- 2025-09-10 — Ms. Houlahan moved to recommit to the Committee on Armed Services. (CR H4211)
+- 2025-09-10 — On agreeing to the Biggs (AZ) amendment (A021) Failed by recorded vote: 200 - 228 (Roll no. 259).
+- 2025-09-10 — On agreeing to the Greene (GA) amendment (A015) Failed by recorded vote: 194 - 236, 1 Present (Roll no. 254).
+- 2025-09-10 — On agreeing to the Greene (GA) amendment (A017) Failed by recorded vote: 60 - 372 (Roll no. 255).
+- 2025-09-10 — On agreeing to the Greene (GA) amendment (A018) Failed by recorded vote: 60 - 370 (Roll no. 256).
+- 2025-09-10 — On agreeing to the Greene (GA) amendment (A019) Failed by recorded vote: 9 - 422 (Roll no. 257).
+- 2025-09-10 — On agreeing to the Mace amendment (A010) Agreed to by recorded vote: 221 - 207 (Roll no. 246).
+- 2025-09-10 — On agreeing to the Mace amendment (A011) Agreed to by recorded vote: 227 - 201 (Roll no. 247).
+- 2025-09-10 — On agreeing to the Mace amendment (A012) Agreed to by recorded vote: 221 - 210 (Roll no. 248).
+- 2025-09-10 — On agreeing to the Mace amendment (A013) Agreed to by recorded vote: 219 - 209 (Roll no. 249).
+- 2025-09-10 — On agreeing to the McCormick amendment (A020) Agreed to by recorded vote: 219 - 211 (Roll no. 258).
+- 2025-09-10 — On agreeing to the Meeks amendment (A023) Agreed to by recorded vote: 261 - 167 (Roll no. 244).
+- 2025-09-10 — On agreeing to the Mills amendment (A014) Agreed to by recorded vote: 222 - 210 (Roll no. 253).
+- 2025-09-10 — On agreeing to the Norman amendment (A009) Agreed to by recorded vote: 221 - 210 (Roll no. 245).
+- 2025-09-10 — On agreeing to the Patronis amendment (A003) Agreed to by recorded vote: 224 - 208, 1 Present (Roll no. 251).
+- 2025-09-10 — On agreeing to the Rogers (AL) amendments (A025) Agreed to by voice vote.
+- 2025-09-10 — On agreeing to the Rose amendment (A024) Agreed to by recorded vote: 430 - 3 (Roll no. 260).
+- 2025-09-10 — On agreeing to the Rouzer amendment (A022) Agreed to by voice vote.
+- 2025-09-10 — On agreeing to the Scott, Austin amendment (A016) Agreed to by voice vote.
+- 2025-09-10 — On agreeing to the Smith (NJ) amendment (A002) Failed by recorded vote: 209 - 224 (Roll no. 250).
+- 2025-09-10 — On agreeing to the Wilson (SC) amendment (A005) Agreed to by recorded vote: 228 - 205 (Roll no. 252).
+- 2025-09-10 — On motion that the committee rise Agreed to by voice vote.
+- 2025-09-10 — On motion that the committee rise Agreed to by voice vote.
+- 2025-09-10 — On motion to recommit Failed by the Yeas and Nays: 208 - 219 (Roll no. 261).
+- 2025-09-10 — On passage Passed by recorded vote: 231 - 196 (Roll no. 262).
+- 2025-09-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Biggs (AZ) amendment No. 29, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Ms. Elfreth demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2025-09-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Greene (GA) amendment No. 20, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Ms. Brownley demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2025-09-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Greene (GA) amendment No. 22, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mr. Smith (WA) demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2025-09-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Greene (GA) amendment No. 23, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mr. Smith (WA) demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2025-09-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Greene (GA) amendment No. 24, the Chair put the question on agreeing to the amendment and by voice vote, announced the noes had prevailed. Ms. Greene (GA) demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2025-09-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Mace amendment No. 14, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mr. Smith (WA) demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2025-09-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Mace amendment No. 15, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Ms. Stansbury demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2025-09-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Mace amendment No. 16, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mr. Takano demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2025-09-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Mace amendment No. 17, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Ms. Jacobs demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2025-09-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McCormick amendment No. 25, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mr. Smith (WA) demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2025-09-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Meeks amendment No. 34, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mr. Mast demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2025-09-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Mills amendment No. 18, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mr. Takano demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2025-09-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Norman amendment No. 13, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mr. Smith (WA) demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2025-09-10 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Rose amendment No. 253, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mr. Rose demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2025-09-10 — Passed/agreed to in House: On passage Passed by recorded vote: 231 - 196 (Roll no. 262).
+- 2025-09-10 — Roll call votes on amendments in House
+- 2025-09-10 — Roll call votes on amendments in House
+- 2025-09-10 — Roll call votes on amendments in House
+- 2025-09-10 — Roll call votes on amendments in House
+- 2025-09-10 — Roll call votes on amendments in House
+- 2025-09-10 — Roll call votes on amendments in House
+- 2025-09-10 — Roll call votes on amendments in House
+- 2025-09-10 — Roll call votes on amendments in House
+- 2025-09-10 — Roll call votes on amendments in House
+- 2025-09-10 — Roll call votes on amendments in House
+- 2025-09-10 — Roll call votes on amendments in House
+- 2025-09-10 — Roll call votes on amendments in House
+- 2025-09-10 — Roll call votes on amendments in House
+- 2025-09-10 — Roll call votes on amendments in House
+- 2025-09-10 — Roll call votes on amendments in House
+- 2025-09-10 — Roll call votes on amendments in House
+- 2025-09-10 — Roll call votes on amendments in House
+- 2025-09-10 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 3838.
+- 2025-09-10 — The House adopted the amendments en gros as agreed to by the Committee of the Whole House on the state of the Union.
+- 2025-09-10 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2025-09-10 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2025-09-10 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2025-09-10 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 3838.
+- 2025-09-10 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2025-09-10 — The previous question was ordered pursuant to the rule.
