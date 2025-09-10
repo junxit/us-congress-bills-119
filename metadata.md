@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4446
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4446
@@ -31,3 +31,9 @@ FAST VETS Act
 - 2025-07-16 — Introduced in House
 - 2025-07-16 — Introduced in House
 - 2025-07-16 — Referred to the House Committee on Veterans' Affairs.
+- 2025-07-23 — Committee Consideration and Mark-up Session Held
+- 2025-07-23 — Ordered to be Reported by Voice Vote.
+- 2025-07-23 — Ordered to be Reported by Voice Vote.
+- 2025-09-10 — Placed on the Union Calendar, Calendar No. 222.
+- 2025-09-10 — Reported by the Committee on Veterans' Affairs. H. Rept. 119-266.
+- 2025-09-10 — Reported by the Committee on Veterans' Affairs. H. Rept. 119-266.
