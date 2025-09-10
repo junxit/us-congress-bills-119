@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3767
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+5 amendatory instructions. 0 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,3 +32,7 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | add-at-end | Section 7616 of title 38, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| `38 U.S.C. § 1715` | amend | Section 1715 of title 38, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 1715` | replace | The table of sections at the beginning of chapter 17 of such title is amended by striking the item relating to section 1715 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 1715` | repeal | Section 526 of the Veterans Health Care Act of 1992 (Public Law 102–585; 38 U.S.C. 1715 note) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 1715` | strike | The table of contents of such Act is amended by striking the item relating to such section. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
