@@ -1,0 +1,29 @@
+---
+legis-num: H.R. 5265
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5265
+
+> To direct the Secretary of Transportation, acting through the Administrator of the National Highway Traffic Safety Administration, to establish an electric bike safety program, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “SAFE Ride Act of 2025”.
+
+## § 2. Funding for electric bike safety program
+
+- **(a)** *Establishment* The Secretary of Transportation, acting through the Administrator of the National Highway Traffic Safety Administration, shall establish a grant program to provide funds to States that have in effect an electric bike safety program.
+- **(b)** *Eligibility* To be eligible for a grant under this section, a State shall demonstrate to the Secretary that such State—
+  - **(1)** has successful enforcement of the safety requirements for operation of shared e-bike systems;
+  - **(2)** provides to the public educational materials or programs on helmet use and safe riding specific to e-bikes, including the use of the curricula developed under subsection (c)(2);
+  - **(3)** implements helmet safety laws modeled after the national standards established under subsection (c)(1);
+  - **(4)** collects data on e-bike accidents, including by requiring shared mobility operators to report such data by demographic, and report such data to the Secretary;
+  - **(5)** supports local law enforcement efforts to implement and enforce the actions described in paragraphs (1) and (3); and
+  - **(6)** will provide grant funding and guidance to local law enforcement entities to address unsafe underage riding, including collection of penalties, impounding of unsafe vehicles, and educational outreach.
+- **(c)** *National standards; safety curricula* The Secretary shall—
+  - **(1)** establish national standards that recommend helmet use for e-bike riders under the age of 18; and
+  - **(2)** develop, and make available to the public, curricula on safety of e-bike usage, including helmet safety.
+- **(d)** *Guidelines* The Secretary shall establish such guidelines as are necessary to carry out this section.
