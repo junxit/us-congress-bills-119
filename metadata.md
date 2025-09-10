@@ -1,7 +1,7 @@
 ---
 measure: S. 306
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 306
@@ -40,3 +40,5 @@ Fire Ready Nation Act of 2025
 - 2025-07-16 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-42.
 - 2025-07-16 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-42.
 - 2025-07-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 119.
+- 2025-09-10 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S6549-6555; text: CR S6549-6555)
+- 2025-09-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
