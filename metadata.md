@@ -1,7 +1,7 @@
 ---
 measure: S. 93
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 93
@@ -16,7 +16,7 @@ Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2025
 
 - Sen. Sullivan, Dan [R-AK] (S001198)
 
-## Cosponsors (14)
+## Cosponsors (15)
 
 - Sen. Baldwin, Tammy [D-WI] (B001230)
 - Sen. Collins, Susan M. [R-ME] (C001035)
@@ -32,6 +32,7 @@ Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2025
 - Sen. Moreno, Bernie [R-OH] (M001242)
 - Sen. Schiff, Adam B. [D-CA] (S001150)
 - Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Kennedy, John [R-LA] (K000393)
 
 ## Committees (1)
 
@@ -45,3 +46,5 @@ Harmful Algal Bloom and Hypoxia Research and Control Amendments Act of 2025
 - 2025-07-01 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment and an amendment to the title. With written report No. 119-34.
 - 2025-07-01 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment and an amendment to the title. With written report No. 119-34.
 - 2025-07-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 109.
+- 2025-09-10 — Passed Senate without amendment and an amendment to the Title by Unanimous Consent. (consideration: CR S6547-6549; text: CR S6547-6549)
+- 2025-09-10 — Passed/agreed to in Senate: Passed Senate without amendment and an amendment to the Title by Unanimous Consent.

@@ -7,7 +7,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 # S. 93
 
-> To amend the Harmful Algal Blooms and Hypoxia Research and Control Act of 1998 to address harmful algal blooms, and for other purposes.
+> To amend the Harmful Algal Bloom and Hypoxia Research and Control Act of 1998 to address harmful algal blooms, and for other purposes.
 
 ## § 1. Short title
 
