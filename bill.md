@@ -17,20 +17,20 @@ This Act may be cited as the “Student Compensation and Opportunity through Rig
 
 In this Act:
 
-- **(1)** *Agent* The term agent—
-  - **(A)** means an individual who represents a student athlete with respect to a name, image, and likeness agreement or another agreement for compensation related to the participation of such student athlete on a varsity sports team; and
-  - **(B)** does not include an immediate family member of a student athlete, unless the immediate family member receives payment for representation described in subparagraph (A).
-- **(2)** *Antitrust laws* The term antitrust laws has the meaning given such term in the 1st section of the Clayton Act (15 U.S.C. 12) and section 5 of the Federal Trade Commission Act (15 U.S.C. 45) to the extent that such section 5 applies to unfair methods of competition.
-- **(3)** *Associated entity or individual* The term associated entity or individual means, with respect to an institution—
-  - **(A)** an entity that is known or should be known to the employees of the athletic department of such institution to exist, in significant part, for the purpose of—
+- **(1)** *Agent* The term agent means an individual who receives compensation to represent a student athlete with respect to—
+  - **(A)** a name, image, and likeness agreement; or
+  - **(B)** another agreement for compensation related to the participation of such student athlete on a varsity sports team.
+- **(2)** *Antitrust laws* The term antitrust laws has the meaning given such term in the 1st section of the Clayton Act (15 U.S.C. 12) and includes section 5 of the Federal Trade Commission Act (15 U.S.C. 45) to the extent that such section 5 applies to unfair methods of competition.
+- **(3)** *Associated entity or individual* The term associated entity or individual means, with respect to an institution, each of the following:
+  - **(A)** An entity that is known or should be known to the employees of the athletic department of such institution to exist, in significant part, for the purpose of—
     - **(i)** promoting or supporting the varsity sports teams or student athletes of such institution; or
-    - **(ii)** creating or identifying opportunities relating to name, image, and likeness agreements solely for the student athletes of such institution;
-  - **(B)** an individual who is or has been a member, employee, director, officer, owner, or other representative of an entity described in subparagraph (A);
-  - **(C)** an individual who directly or indirectly (including through contributions by an entity affiliated with such individual or an immediate family member of such individual) has contributed more than $50,000 (as adjusted on July 1 each year by the percentage increase (if any), during the preceding 12-month period, in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics) over the lifetime of the individual to the athletic programs of such institution or to an entity described in subparagraph (A);
-  - **(D)** an individual or entity who—
+    - **(ii)** creating or identifying opportunities relating to name, image, and likeness agreements solely for the student athletes of such institution.
+  - **(B)** An individual who is or has been a member, employee, director, officer, owner, or other representative of an entity described in subparagraph (A).
+  - **(C)** An individual who directly or indirectly (including through contributions by an entity affiliated with such individual or an immediate family member of such individual) has contributed more than $50,000 (as adjusted on July 1 each year by the percentage increase (if any), during the preceding 12-month period, in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics) over the lifetime of the individual to the athletic programs of such institution or to an entity described in subparagraph (A).
+  - **(D)** An individual or entity who—
     - **(i)** is directed or requested by the employees of the athletic department of such institution to assist in the recruitment or retention of prospective student athletes or student athletes, respectively; or
-    - **(ii)** otherwise assists in such recruitment or retention; or
-  - **(E)** any entity (other than a publicly traded corporation) owned, controlled, operated by, or otherwise affiliated with an individual or entity described in subparagraph (A), (B), (C), or (D).
+    - **(ii)** otherwise assists in such recruitment or retention.
+  - **(E)** Any entity (other than a publicly traded corporation) owned, controlled, operated by, or otherwise affiliated with an individual or entity described in subparagraph (A), (B), (C), or (D).
 - **(4)** *College sports revenue* The term college sports revenue means any revenue (without regard to ownership or legal title to such revenue) received by an institution with respect to intercollegiate athletics—
   - **(A)** from the sale of admission to intercollegiate athletic competitions or any other event involving a varsity sports team, including actual monetary revenue received by or for the benefit of such institution for a suite license (unless such suite license is associated with philanthropy or any purpose not related to intercollegiate athletic competitions, including a concert);
   - **(B)** from participation by the varsity sports teams of such institution in intercollegiate athletic competitions held at other institutions, including payments received due to cancellations of such intercollegiate athletic competitions;
@@ -38,8 +38,8 @@ In this Act:
   - **(D)** from an interstate intercollegiate athletic association, including any grant, distribution of revenue, reimbursement relating to travel with respect to a championship of such interstate intercollegiate athletic association, and payment for hosting such a championship;
   - **(E)** generated by a post-season football bowl, including any distribution of revenue by a conference to members of the conference and any other payment related to the participation of such institution in such post-season football bowl, including for ticket sales and reimbursement of expenses;
   - **(F)** from a conference, other than any revenue otherwise described in this paragraph;
-  - **(G)** for sponsorships, licensing agreements, advertisements, royalties, and in-kind products and services as part of a sponsorship agreement; and
-  - **(H)** relating to any additional form of revenue an interstate intercollegiate athletic association uses with respect to the pool limit of such interstate intercollegiate athletic association.
+  - **(G)** for sponsorships, licensing agreements, advertisements, royalties, and in-kind products and services as part of a sponsorship agreement; or
+  - **(H)** relating to any additional form of revenue, including fundraising, an interstate intercollegiate athletic association uses with respect to the pool limit of such interstate intercollegiate athletic association.
 - **(5)** *Compensation* The term compensation—
   - **(A)** means, with respect to a student athlete or a prospective student athlete, any form of payment or remuneration, whether provided through cash, benefits, awards, or any other means, including payments for—
     - **(i)** licenses relating to, or the use of, name, image, and likeness rights; or
@@ -60,20 +60,18 @@ In this Act:
   - **(A)** has as members 2 or more institutions;
   - **(B)** arranges regular season intercollegiate athletic competitions and championships for such members; and
   - **(C)** sets rules with respect to such intercollegiate athletic competitions and championships.
-- **(7)** *Cost of attendance* The term cost of attendance—
-  - **(A)** has the meaning given such term in section 472 of the Higher Education Act of 1965 (20 U.S.C. 1087ll); and
-  - **(B)** is calculated by the financial aid office of an institution applying the same standards, policies, and procedures for all students.
+- **(7)** *Cost of attendance* The term cost of attendance has the meaning given such term in section 472 of the Higher Education Act of 1965 (20 U.S.C. 1087ll).
 - **(8)** *Grant-in-aid* The term grant-in-aid means a scholarship, grant, stipend, or other form of financial assistance, including the provision of tuition, room, board, books, or funds for fees or personal expenses, that—
   - **(A)** is paid or provided by an institution to a student for the undergraduate or graduate course of study of the student; and
   - **(B)** is in an amount that does not exceed the cost of attendance at the institution for such student.
 - **(9)** *Image* The term image means, with respect to a student athlete, a picture or a video that identifies, is linked to, or is reasonably linkable to such student athlete.
-- **(10)** *Institution* The term institution has the same meaning given the term institution of higher education in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
+- **(10)** *Institution* The term institution has the meaning given the term institution of higher education in section 102 of the Higher Education Act of 1965 (20 U.S.C. 1002).
 - **(11)** *Intercollegiate athletic competition* The term intercollegiate athletic competition means any contest, game, meet, match, tournament, regatta, or other event in which varsity sports teams of more than 1 institution compete.
 - **(12)** *Intercollegiate athletics* The term intercollegiate athletics—
-  - **(A)** means the varsity sports teams for which eligibility requirements for participation by student athletes are established by a conference or an interstate intercollegiate athletic association; and
+  - **(A)** means the varsity sports teams for which the length of time a student athlete is eligible to participate and the academic standards for participation are established by a conference or an interstate intercollegiate athletic association; and
   - **(B)** does not include any recreational, intramural, or club teams.
 - **(13)** *Interstate intercollegiate athletic association* The term interstate intercollegiate athletic association means—
-  - **(A)** any entity incorporated in the United States that—
+  - **(A)** any entity that—
     - **(i)** sets common rules, standards, procedures, or guidelines for the administration and regulation of varsity sports teams and intercollegiate athletic competitions;
     - **(ii)** is composed of 2 or more institutions or conferences located in more than 1 State; and
     - **(iii)** has rules or bylaws prohibiting the provision of prohibited compensation to student athletes and prospective student athletes; and
@@ -105,14 +103,35 @@ In this Act:
       - **(i)** violates the code of conduct of such institution; or
       - **(ii)** conflicts with the terms of a contract or similar agreement to which such institution is a party.
 - **(b)** *Right to representation* Except as provided by this Act, no institution, conference, or interstate intercollegiate athletic association may restrict the ability of a student athlete to obtain an agent.
-- **(c)** *Right to privacy* Except as provided by this Act, no institution, conference, or interstate intercollegiate athletic association may release information disclosed to such entity by a student athlete with respect to a name, image, and likeness agreement without the express written consent of such student athlete.
+- **(c)** *Right to privacy* Except as provided by this Act, no institution, conference, or interstate intercollegiate athletic association may release information with respect to a name, image, and likeness agreement without the express written consent of any student athlete who is a party to such agreement.
+- **(d)** *Right to transparent agreements* A name, image, and likeness agreement under which a student athlete is provided compensation in an amount greater than $600 shall be considered void from the inception of such agreement if such agreement does not satisfy the following:
+  - **(1)** The agreement is in writing.
+  - **(2)** The agreement contains the following:
+    - **(A)** A description of any services to be rendered under the agreement.
+    - **(B)** The names of the parties to the agreement.
+    - **(C)** The term of the agreement.
+    - **(D)** The amount of compensation to be provided to the student athlete under the agreement.
+    - **(E)** A provision specifying the circumstances or events under which the agreement may be terminated due to non-performance of obligations by the student athlete.
+    - **(F)** A provision specifying that the student athlete may terminate the agreement, notwithstanding any other term described in the agreement, beginning on the date that is 6 months after the date on which the student athlete is no longer enrolled at any institution.
+    - **(G)** The signature of the student athlete or, if the student athlete is under the age of 18 years, the signature of the parent or guardian of the student athlete.
+- **(e)** *Actions by States* In any case in which the attorney general of a State, or an official or agency of a State, has reason to believe that an interest of the residents of such State has been or is threatened or adversely affected by an act or practice in violation of this section, the State, as parens patriae, may bring a civil action on behalf of the residents of the State in an appropriate State court or an appropriate district court of the United States to—
+  - **(1)** enjoin such act or practice;
+  - **(2)** enforce compliance with this section;
+  - **(3)** obtain damages, restitution, or other compensation on behalf of residents of the State; or
+  - **(4)** obtain such other legal and equitable relief as the court may consider to be appropriate.
 
 ## § 4. Sports Agent Responsibility and Trust Act
 
 The Sports Agent Responsibility and Trust Act (15 U.S.C. 7801 et seq.) is amended—
 
-- **(1)** in section 3(b)(3), by striking “Warning to Student Athlete: If you agree orally or in writing to be represented by an agent now or in the future you may lose your eligibility to compete as a student athlete in your sport.” and inserting “Notice to Student Athlete:”; and
-- **(2)** by adding at the end the following:
+- **(1)** in section 3(a)—
+  - **(A)** by redesignating paragraphs (2) and (3) as paragraphs (4) and (5), respectively; and
+  - **(B)** by inserting after paragraph (1) the following:
+    > - **(2)** charge a student athlete a fee with respect to an endorsement contract that is in an amount that is greater than 5 percent of the amount of the compensation provided to such student athlete under such contract;
+    > - **(3)** enter into an agency contract with a student athlete that does not include a provision specifying that the student athlete may terminate the agency contract, notwithstanding any other term described in the agency contract, beginning on the date that is 6 months after the date on which the student athlete is no longer enrolled at any institution (as defined in section 2 of the SCORE Act);
+
+- **(2)** in section 3(b)(3), by striking “Warning to Student Athlete: If you agree orally or in writing to be represented by an agent now or in the future you may lose your eligibility to compete as a student athlete in your sport.” and inserting “Notice to Student Athlete:”; and
+- **(3)** by adding at the end the following:
   > ## § 9. Disclosure and consent relating to name, image, and likeness agreements
   >
   > - **(a)** *In general* An athlete agent who assists a student athlete with an endorsement contract shall disclose in writing to the student athlete—
@@ -155,26 +174,38 @@ The Sports Agent Responsibility and Trust Act (15 U.S.C. 7801 et seq.) is amende
 
 ## § 6. Roles of interstate intercollegiate athletic associations
 
-An interstate intercollegiate athletic association is authorized to establish and enforce rules with respect to—
-
-- **(1)** requiring a student athlete or prospective student athlete to disclose, in a timely manner, the terms of a name, image, and likeness agreement entered into by such student athlete;
-- **(2)** establishing and implementing a process to collect and publicly share aggregated and anonymized data related to the name, image, and likeness agreements of student athletes;
-- **(3)** prohibited compensation, including processes for dispute resolution and penalties, if such rules provide that a student athlete does not lose eligibility to compete in intercollegiate athletic competitions while a process for dispute resolution is ongoing;
-- **(4)** setting parameters for the manner in which and the time period during which student athletes and prospective student athletes may be recruited for intercollegiate athletics;
-- **(5)** calculating a pool limit, if such rules provide that such pool limit is at least 22 percent of the average annual college sports revenue of the 70 highest earning (with respect to such revenue) member institutions of such interstate intercollegiate athletic association (or, if such interstate intercollegiate athletic association has fewer than 70 members, the average annual college sports revenue of all members), and monitoring payments of compensation related to such pool limit;
-- **(6)** setting parameters for the manner in which a student athlete may transfer between institutions, if such rules provide that—
-  - **(A)** on at least 1 occasion each student athlete may transfer between institutions and be immediately eligible; and
-  - **(B)** an institution to which a student athlete is transferring or is considering transferring shall provide to such student athlete, at the request of such student athlete, in writing and at a reasonable time prior to completion of the transfer, a notice of the previously earned academic credits of such student athlete that such institution will accept, including with respect to the program of study of such student athlete;
-- **(7)** the eligibility of a student athlete to participate in intercollegiate athletics, such as rules with respect to the length of time a student athlete is eligible to compete and academic standards for eligibility;
-- **(8)** establishing and implementing a process for agent registration, including—
-  - **(A)** setting parameters for the ability of member institutions to negotiate with agents who are not registered under such process; and
-  - **(B)** limiting the amount of the compensation under a name, image, and likeness agreement between a student athlete and an institution that may be provided to the agent of such student athlete to not more than 5 percent of such compensation;
-- **(9)** the membership of, and participation in, such interstate intercollegiate athletic association, including any championships administered by such interstate intercollegiate athletic association, under which such interstate intercollegiate athletic association may establish membership qualifications, remove members, and otherwise regulate participation; and
-- **(10)** intercollegiate athletic competitions and playing seasons, including rules with respect to season length, maximum number of contests, and student athlete time demands (whether during a playing season or outside of such season).
+- **(a)** *Authority to establish rules* An interstate intercollegiate athletic association is authorized to establish and enforce rules with respect to—
+  - **(1)** requiring a student athlete or prospective student athlete to disclose, in a timely manner, the terms of a name, image, and likeness agreement entered into by such student athlete;
+  - **(2)** establishing and implementing a process to collect and publicly share aggregated and anonymized data related to the name, image, and likeness agreements of student athletes (without regard to whether such an agreement includes an institution as a party to the agreement);
+  - **(3)** prohibited compensation, including processes for dispute resolution and penalties, if such rules provide that a student athlete does not lose eligibility to compete in intercollegiate athletic competitions while a process for dispute resolution is ongoing;
+  - **(4)** setting parameters for the manner in which and the time period during which student athletes and prospective student athletes may be recruited for intercollegiate athletics;
+  - **(5)** calculating a pool limit, if such rules provide that such pool limit is at least 22 percent of the average annual college sports revenue of the 70 highest earning (with respect to such revenue) member institutions of such interstate intercollegiate athletic association (or, if such interstate intercollegiate athletic association has fewer than 70 members, the average annual college sports revenue of all members), and monitoring payments of compensation related to such pool limit;
+  - **(6)** setting parameters for the manner in which a student athlete may transfer between institutions, if such rules provide that—
+    - **(A)** on at least 1 occasion each student athlete may transfer between institutions and be immediately eligible to participate on a varsity sports team of the institution to which the student athlete transfers (if academically eligible to participate); and
+    - **(B)** an institution to which a student athlete is transferring or is considering transferring shall provide to such student athlete, at the request of such student athlete, in writing and at a reasonable time prior to completion of the transfer, a notice of the previously earned academic credits of such student athlete that such institution will accept, including with respect to the program of study of such student athlete;
+  - **(7)** the length of time a student athlete is eligible to participate in intercollegiate athletics and the academic standards to be eligible to participate in intercollegiate athletics;
+  - **(8)** establishing and implementing a process, including a database, with respect to agent registration, including—
+    - **(A)** setting qualifications to be registered as an agent;
+    - **(B)** setting parameters for the ability of member institutions to negotiate with agents who are not registered under such process; and
+    - **(C)** limiting the amount of the compensation under a name, image, and likeness agreement between a student athlete and an institution that may be provided to the agent of such student athlete to not more than 5 percent of such compensation;
+  - **(9)** the membership of, and participation in, such interstate intercollegiate athletic association (including any championships administered by such interstate intercollegiate athletic association), under which such interstate intercollegiate athletic association may establish membership qualifications, remove members, and otherwise regulate participation; and
+  - **(10)** intercollegiate athletic competitions and playing seasons, including rules with respect to season length, maximum number of contests, and student athlete time demands (whether during a playing season or outside of such season).
+- **(b)** *Requirements*
+  - **(1)** *Authority conditioned on compliance* An interstate intercollegiate athletic association is only authorized to establish and enforce rules under subsection (a) if such interstate intercollegiate athletic association is in compliance with this subsection and section 3.
+  - **(2)** *Governance structure* An interstate intercollegiate athletic association (except for an interstate intercollegiate athletic association that is also a conference) shall carry out the following:
+    - **(A)** Ensure that the membership of any board, committee, or other similar body of such interstate intercollegiate athletic association, if tasked with a decision-making role (including a decision-making role with respect to establishing or enforcing a rule under section 6(a)), satisfies the following:
+      - **(i)** Not less than 20 percent of the members of the board, committee, or body are individuals who are student athletes or were student athletes at any point during the preceding 10-year period, with—
+        - **(I)** men and women equally represented with respect to such individuals; and
+        - **(II)** each such individual participating in or having participated in a different sport.
+      - **(ii)** Not less than 30 percent of the members of the board, committee, or body represent institutions that are not among the 70 highest earning member institutions of such interstate intercollegiate athletic association with respect to annual college sports revenue.
+    - **(B)** Establish a council to serve as the primary deliberative body of the interstate intercollegiate athletic association and that is—
+      - **(i)** responsible for developing proposals with respect to policy; and
+      - **(ii)** composed of individuals who represent each conference that is a member of such interstate intercollegiate athletic association.
 
 ## § 7. Liability limitation
 
-Compliance with this Act and the adoption of, agreement to, compliance with, or enforcement of any rule, regulation, requirement, standard, or other provision established pursuant to, or in compliance with, this Act shall be treated as lawful under the antitrust laws and any similar State law, rule, regulation, requirement, standard, or other provision having the force and effect of law.
+- **(a)** *In general* Adoption of, agreement to, compliance with, or enforcement of any rule, regulation, requirement, standard, or other provision established pursuant to, or in compliance with, section 6 of this Act shall be treated as lawful under the antitrust laws and any similar State provision having the force and effect of law.
+- **(b)** *Rule of construction* Nothing in subsection (a) may be construed to limit or otherwise affect any provision of law, including any provision of Federal or State law or the common law, other than the antitrust laws and any similar State provision having the force and effect of law.
 
 ## § 8. Employment standing
 
@@ -211,9 +242,43 @@ Notwithstanding any other provision of Federal or State law, no individual may b
 
 ## § 10. Preemption
 
-No State, or political subdivision of a State, may maintain, enforce, prescribe, or continue in effect any law, rule, regulation, requirement, standard, or other provision having the force and effect of law that—
+- **(a)** *In general* No State, or political subdivision of a State, may maintain, enforce, prescribe, or continue in effect any law, rule, regulation, requirement, standard, or other provision having the force and effect of law that conflicts with this Act, including the amendments made by this Act, and that—
+  - **(1)** governs or regulates the compensation, payment, benefits, or employment status of a student athlete (including a prospective student athlete) with respect to participation in intercollegiate athletics, including any law, rule, regulation, requirement, standard, or other provision that—
+    - **(A)** relates to the right of a student athlete to receive compensation or other payments or benefits directly or indirectly from any institution, associated entity or individual, conference, or interstate intercollegiate athletic association; or
+    - **(B)** relates to the length of time a student athlete is eligible to participate in intercollegiate athletics or the academic standards to be eligible to participate in intercollegiate athletics;
+  - **(2)** limits or restricts a right provided to an institution, a conference, or an interstate intercollegiate athletic association under this Act; or
+  - **(3)** requires a release of or license to use the name, image, and likeness rights of any individual participant, or group of participants, in an intercollegiate athletic competition (or an individual spectator or group of spectators at an intercollegiate athletic competition) for purposes of audio-visual, audio, or visual broadcasts or other distributions of such intercollegiate athletic competition.
+- **(b)** *Rule of construction* Nothing in subsection (a) may be construed to—
+  - **(1)** relieve any person of liability under a State law of general applicability that does not conflict with this Act, including the amendments made by this Act; or
+  - **(2)** relieve any person of liability under common law.
 
-- **(1)** governs or regulates the compensation, payment, benefits, employment status, or eligibility of a student athlete (including a prospective student athlete) with respect to participation in intercollegiate athletics, including any law, rule, regulation, requirement, standard, or other provision that relates to the right of a student athlete to receive compensation or other payments or benefits directly or indirectly from any institution, associated entity or individual, conference, or interstate intercollegiate athletic association;
-- **(2)** limits or restricts a right provided to an institution, a conference, or an interstate intercollegiate athletic association under this Act;
-- **(3)** requires a release of or license to use the name, image, and likeness rights of any individual participant, or group of participants, in an intercollegiate athletic competition (or an individual spectator or group of spectators at an intercollegiate athletic competition) for purposes of audio-visual, audio, or visual broadcasts or other distributions of such intercollegiate athletic competition; or
-- **(4)** is otherwise related to this Act.
+## § 11. Reports
+
+- **(a)** *Federal Trade Commission study*
+  - **(1)** *Study* The Federal Trade Commission shall conduct a study to analyze the impacts of establishing a program, administered by an entity independent of any institution, conference, or interstate intercollegiate athletic association, to develop standards for, certify as compliant with such standards, and otherwise regulate agents who enter into agreements with student athletes, which shall include an analysis of—
+    - **(A)** options for establishing such a program;
+    - **(B)** potential sources of funding for such a program;
+    - **(C)** a reasonable timeline for establishing such a program; and
+    - **(D)** the costs and benefits associated with such a program.
+  - **(2)** *Report* Not later than 1 year after the date of the enactment of this Act, the Federal Trade Commission shall submit to Congress a report on the results of the study conducted under paragraph (1), which shall include legislative recommendations with respect to the establishment and funding of the program described in such paragraph.
+- **(b)** *Compliance reporting*
+  - **(1)** *Biennial report* Not later than 180 days after the date of the enactment of this Act, and every 2 years thereafter, each interstate intercollegiate athletic association shall submit to Congress a report that includes—
+    - **(A)** a summary of the issues faced by such interstate intercollegiate athletic association relating to compliance with this Act, including the amendments made by this Act;
+    - **(B)** a summary of the trends among institutions, conferences, and interstate intercollegiate athletic associations relating to such compliance; and
+    - **(C)** recommendations to improve the health, safety, and educational opportunities of student athletes.
+  - **(2)** *Comptroller General report* Not later than 5 years after the date of the enactment of this Act, and every 5 years thereafter, the Comptroller General of the United States shall—
+    - **(A)** conduct an investigation with respect to compliance with this Act, including the amendments made by this Act; and
+    - **(B)** submit to Congress a report that includes—
+      - **(i)** a summary of the findings of the investigation conducted under subparagraph (A); and
+      - **(ii)** recommendations to improve the health, safety, and educational opportunities of student athletes.
+- **(c)** *Study on Olympic Sports*
+  - **(1)** *In general* The Comptroller General of the United States shall conduct a study—
+    - **(A)** to assess the impact of this Act on Olympic Sports, including the funding of Olympic Sports; and
+    - **(B)** to develop recommendations for support of Olympic Sports, given the unique nature of Olympic Sports and intercollegiate athletics in the United States.
+  - **(2)** *Contents* The study conducted under paragraph (1) shall include—
+    - **(A)** a survey of international models of support for Olympic Sports, including models that could be adapted to the unique nature of Olympic Sports and intercollegiate athletics in the United States;
+    - **(B)** the projected scale and magnitude of potential support for Olympic Sports, given historic levels of support provided by institutions;
+    - **(C)** the coordination required to develop and cultivate Olympic Sports at institutions; and
+    - **(D)** an analysis of the trends with respect to roster sizes for Olympic Sports at institutions, with a focus on the top 70 highest earning institutions with respect to average annual college sports revenue.
+  - **(3)** *Report* Not later than 2 years after the date of the enactment of this Act, the Comptroller General of the United States shall submit to Congress a report on the results of the study conducted under paragraph (1).
+  - **(4)** *Olympic Sports defined* In this subsection, the term “Olympic Sports” means the sports officially recognized and contested during the Summer and Winter Olympic Games.
