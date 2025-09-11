@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 5321
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5321
+
+> To amend title 23, United States Code, with respect to the special rule for low emission and energy efficient vehicles facilities, and for other purposes.
+
+## § 1. HOV facilities
+
+- **(a)** *In general* Section 166(b)(5)(A) of title 23, United States Code, is amended by striking “September 30, 2025” and inserting “December 31, 2026”.
+- **(b)** *Study* Not later than 180 days after the date of enactment of this Act, the Secretary of Transportation shall submit to Congress a report that contains the results of a study on the effectiveness of electric vehicle exemptions in reducing traffic congestion.
