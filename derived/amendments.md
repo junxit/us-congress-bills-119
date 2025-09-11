@@ -1,7 +1,7 @@
 ---
 measure: S. 2403
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+8 amendatory instructions. 0 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,10 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| `29 U.S.C. § 1002` | redesignate | by redesignating clauses (i) and (ii) as subclauses (I) and (II), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 1002` | redesignate | by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 1002` | insert | by inserting “(A)” before “The term”; and | the bill quotes the text inserted but describes where it goes |
+| `29 U.S.C. § 1002` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1002` | redesignate | by redesignating clauses (i) and (ii) as subclauses (I) and (II), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1002` | redesignate | by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1002` | insert | by inserting “(A)” before “The term”; and | the bill quotes the text inserted but describes where it goes |
