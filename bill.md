@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 5322
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5322
+
+> To amend title 5, United States Code, to designate September 11 Day of Remembrance as a legal public holiday.
+
+## § 1. Short title
+
+This Act may be cited as the “September 11 Day of Remembrance Act”.
+
+## § 2. September 11 Day of Remembrance as a legal public holiday
+
+Section 6103(a) of title 5, United States Code, is amended by inserting after the item relating to Labor Day the following:
+
+> -  September 11 Day of Remembrance, September 11.
