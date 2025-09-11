@@ -34,14 +34,18 @@ The Department of Energy Organization Act (42 U.S.C. 7101 et seq.) is amended—
 
 - **(a)** *In general* In carrying out the requirements of the Department of Energy Organization Act (42 U.S.C. 7101 et seq.), the Secretary of Energy, in consultation with the appropriate Federal agencies, representatives of the energy sector, States, and other stakeholders, shall—
   - **(1)** conduct ongoing assessments of—
-    - **(A)** energy resource criticality based on the importance of critical energy resources to the development of energy technologies and the supply of energy;
+    - **(A)** energy resource criticality, based on the importance of critical energy resources to the development of energy technologies and the supply of energy;
     - **(B)** the critical energy resource supply chain of the United States;
     - **(C)** the vulnerability of such supply chain;
-    - **(D)** how the energy security of the United States is affected by the reliance of the United States on importation of critical energy resources; and
-    - **(E)** how adversarial nations seek to exploit critical energy resource markets to undermine investment in the United States, which may include the extent to which adversarial nations employ anti-competitive practices, price manipulation, or human rights abuses in critical energy resource production and exportation;
+    - **(D)** the diversity of domestic critical energy resource supply chains in the United States, including the extent to which such diversity is sufficient to prevent monopolistic behavior, a single point of failure, or market manipulation;
+    - **(E)** capacity constraints on the domestic production of critical energy resources, including any such constraint caused by a shortage of material or labor;
+    - **(F)** Federal regulations affecting the domestic production or importation of critical energy resources;
+    - **(G)** how the energy security of the United States is affected by the reliance of the United States on importation of critical energy resources; and
+    - **(H)** how adversarial nations seek to exploit critical energy resource markets to undermine investment in the United States, which may include the extent to which adversarial nations employ anti-competitive practices, price manipulation, or human rights abuses in critical energy resource production and exportation;
   - **(2)** facilitate development of strategies to strengthen critical energy resource supply chains in the United States, including by—
     - **(A)** diversifying the sources of the supply of critical energy resources; and
     - **(B)** increasing domestic production, separation, and processing of critical energy resources;
   - **(3)** develop substitutes and alternatives to critical energy resources; and
   - **(4)** improve technology that reuses and recycles critical energy resources.
-- **(b)** *Critical energy resource defined* In this section, the term critical energy resource has the meaning given such term in section 2 of the Department of Energy Organization Act (42 U.S.C. 7101).
+- **(b)** *Report* Not later than two years after the date of enactment of this Act, the Secretary of Energy shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report on the status of the assessments under subsection (a)(1), including a description of any regulation prescribed, guidance issued, or other action taken as a result of such an assessment.
+- **(c)** *Critical energy resource defined* In this section, the term critical energy resource has the meaning given such term in section 2 of the Department of Energy Organization Act (42 U.S.C. 7101).
