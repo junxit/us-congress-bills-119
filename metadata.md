@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1949
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1949
@@ -16,7 +16,7 @@ Unlocking our Domestic LNG Potential Act of 2025
 
 - Rep. Pfluger, August [R-TX-11] (P000048)
 
-## Cosponsors (19)
+## Cosponsors (43)
 
 - Rep. Joyce, John [R-PA-13] (J000302)
 - Rep. Letlow, Julia [R-LA-5] (L000595)
@@ -37,6 +37,30 @@ Unlocking our Domestic LNG Potential Act of 2025
 - Rep. Higgins, Clay [R-LA-3] (H001077)
 - Rep. Miller, Carol D. [R-WV-1] (M001205)
 - Rep. Hageman, Harriet M. [R-WY-At Large] (H001096)
+- Rep. Evans, Gabe [R-CO-8] (E000300)
+- Rep. Hudson, Richard [R-NC-9] (H001067)
+- Rep. Mann, Tracey [R-KS-1] (M000871)
+- Rep. Shreve, Jefferson [R-IN-6] (S001229)
+- Rep. Luttrell, Morgan [R-TX-8] (L000603)
+- Rep. Palmer, Gary J. [R-AL-6] (P000609)
+- Rep. McDowell, Addison [R-NC-6] (M001240)
+- Rep. Griffith, H. Morgan [R-VA-9] (G000568)
+- Rep. Clyde, Andrew S. [R-GA-9] (C001116)
+- Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
+- Rep. Moore, Tim [R-NC-14] (M001236)
+- Rep. Bean, Aaron [R-FL-4] (B001314)
+- Rep. Lawler, Michael [R-NY-17] (L000599)
+- Rep. Schmidt, Derek [R-KS-2] (S001228)
+- Rep. Wilson, Joe [R-SC-2] (W000795)
+- Rep. Dunn, Neal P. [R-FL-2] (D000628)
+- Rep. Barrett, Tom [R-MI-7] (B001321)
+- Rep. Thompson, Glenn [R-PA-15] (T000467)
+- Rep. Onder, Robert F. [R-MO-3] (O000177)
+- Rep. Baumgartner, Michael [R-WA-5] (B001322)
+- Rep. Meuser, Daniel [R-PA-9] (M001204)
+- Rep. Bacon, Don [R-NE-2] (B001298)
+- Rep. Lee, Laurel M. [R-FL-15] (L000597)
+- Rep. Alford, Mark [R-MO-4] (A000379)
 
 ## Committees (1)
 
@@ -47,3 +71,11 @@ Unlocking our Domestic LNG Potential Act of 2025
 - 2025-03-06 — Introduced in House
 - 2025-03-06 — Introduced in House
 - 2025-03-06 — Referred to the House Committee on Energy and Commerce.
+- 2025-06-03 — Referred to the Subcommittee on Energy.
+- 2025-06-05 — Forwarded by Subcommittee to Full Committee by the Yeas and Nays: 15 - 13.
+- 2025-06-05 — Subcommittee Consideration and Mark-up Session Held
+- 2025-06-25 — Committee Consideration and Mark-up Session Held
+- 2025-06-25 — Ordered to be Reported by the Yeas and Nays: 26 - 23.
+- 2025-09-11 — Placed on the Union Calendar, Calendar No. 225.
+- 2025-09-11 — Reported by the Committee on Energy and Commerce. H. Rept. 119-269.
+- 2025-09-11 — Reported by the Committee on Energy and Commerce. H. Rept. 119-269.
