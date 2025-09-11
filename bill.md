@@ -44,12 +44,10 @@ Section 276 of the Immigration and Nationality Act (8 U.S.C. 1326) is amended—
   >     - **(C)** who was removed from the United States pursuant to section 241(a)(4)(B) who thereafter, without the permission of the Secretary of Homeland Security, enters, attempts to enter, or is at any time found in, the United States, shall be fined under title 18, United States Code, imprisoned for not more than 10 years, or both; and
   >     - **(D)** who has been denied admission, excluded, deported, or removed 3 or more times and thereafter enters, attempts to enter, or is at any time found in the United States, shall be fined under title 18, United States Code, imprisoned not more than 10 years, or both.
   >   - **(2)** *Removal defined* In this subsection and in subsection (c), the term removal includes any agreement in which an alien stipulates to removal during (or not during) a criminal trial under either Federal or State law.
-  > - **(c)** *Mandatory minimum criminal penalty for reentry of certain removed aliens* Notwithstanding the penalties provided in subsections (a) and (b), an alien described in subsection (a)—
-  >   - **(1)** who was convicted before such removal or departure of—
-  >     - **(A)** any aggravated felony;
-  >     - **(B)** any crime defined as a felony by the relevant jurisdiction (Federal, State, Tribal, or local) of conviction; or
-  >     - **(C)** any crime punishable by more than 1 year of imprisonment; or
-  >   - **(2)** who was convicted under this section at least 2 times before such removal or departure,
+  > - **(c)** *Mandatory minimum criminal penalty for reentry of certain removed aliens* Notwithstanding the penalties provided in subsections (a) and (b), an alien described in subsection (a) who was convicted before such removal or departure of—
+  >   - **(1)** any aggravated felony;
+  >   - **(2)** any crime defined as a felony by the relevant jurisdiction (Federal, State, Tribal, or local) of conviction; or
+  >   - **(3)** any crime punishable by more than 1 year of imprisonment,
 
 - **(3)** in subsection (d), as redesignated by paragraph (1)—
   - **(A)** by striking “section 242(h)(2)” and inserting “section 241(a)(4)”; and
