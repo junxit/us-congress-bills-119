@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1107
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1107
@@ -64,3 +64,10 @@ Protecting Veteran Access to Telemedicine Services Act of 2025
 - 2025-07-29 — Placed on the Union Calendar, Calendar No. 179.
 - 2025-07-29 — Reported by the Committee on Veterans' Affairs. H. Rept. 119-221.
 - 2025-07-29 — Reported by the Committee on Veterans' Affairs. H. Rept. 119-221.
+- 2025-09-15 — Considered under suspension of the rules. (consideration: CR H4279)
+- 2025-09-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1107.
+- 2025-09-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-09-15 — Mr. Bost moved to suspend the rules and pass the bill, as amended.
+- 2025-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4279)
+- 2025-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4279-4280: 1)
+- 2025-09-15 — The title of the measure was amended. Agreed to without objection.

@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1107
 
-> To amend title 38, United States Code, to authorize certain heath care professionals employed by the Department of Veterans Affairs to deliver, distribute, or dispense to veterans certain controlled medications via telemedicine under certain conditions, and for other purposes.
+> To amend title 38, United States Code, to authorize certain health care professionals employed by the Department of Veterans Affairs to deliver, distribute, or dispense to veterans certain controlled medications via telemedicine under certain conditions, and for other purposes.
 
 ## § 1. Short title
 
@@ -19,7 +19,7 @@ Subchapter III of chapter 17 of title 38, United States Code, is amended by addi
 
 > ## § 1730D. Delivery, distribution, and dispensation of controlled medications via telemedicine
 >
-> - **(a)** *In general* Pursuant to section 1730C of this title and subject to the requirements of title III of the Controlled Substances Act (21 U.S.C. 801 et seq.), a covered health care professional may use telemedicine to deliver, distribute, or dispense to a patient eligible to receive medical treatment under this chapter a controlled substance that is a prescription drug as determined under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.) regardless of whether such covered health care professional has conducted an in-person medical examination of such patient if—
+> - **(a)** *In general* Pursuant to section 1730C of this title and subject to the requirements of title II of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 801 et seq.), a covered health care professional may use telemedicine to deliver, distribute, or dispense to a patient eligible to receive medical treatment under this chapter a controlled substance that is a prescription drug as determined under the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.) regardless of whether such covered health care professional has conducted an in-person medical examination of such patient if—
 >   - **(1)** such covered health care professional is—
 >     - **(A)** authorized to prescribe the basic class of such controlled substance under an active, current, full, and unrestricted State license, registration, or certification; and
 >     - **(B)** acting in the usual course of professional practice; and
@@ -27,8 +27,8 @@ Subchapter III of chapter 17 of title 38, United States Code, is amended by addi
 > - **(b)** *Regulations* The Secretary shall establish in regulations guidelines and a process for the delivery, distribution, and dispensation of a controlled substance pursuant to subsection (a).
 > - **(c)** *Rule of construction* Nothing in this section may be construed to remove, limit, or otherwise affect any obligation of a covered health care professional under the Controlled Substances Act.
 > - **(d)** *Definitions* In this section:
->   - **(1)** The terms “controlled substance”, “deliver”, “dispense”, and “distribute” have the meanings given such terms in section 102 of the Controlled Substances Act, respectively.
->   - **(2)** The term “covered health care professional” means—
+>   - **(1)** The terms controlled substance, deliver, dispense, and distribute have the meanings given such terms in section 102 of the Controlled Substances Act, respectively.
+>   - **(2)** The term covered health care professional means—
 >     - **(A)** a health care professional who—
 >       - **(i)** is an employee of the Department appointed under section 7306, 7401, 7405, 7406, or 7408 of this title or under title 5;
 >       - **(ii)** is not a contractor of the Department;
