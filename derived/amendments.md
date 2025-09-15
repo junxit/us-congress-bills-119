@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2334
 congress: 119
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Section 206 of the Servicemembers Civil Relief Act (50 U.S.C. 3936) is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| `50 U.S.C. § 3936` | add-at-end | Section 206 of the Servicemembers Civil Relief Act (50 U.S.C. 3936) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
