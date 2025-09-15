@@ -17,14 +17,17 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(2)** *Survey* The exact acreage and legal description of land to be conveyed under subsection (a) shall be determined by a survey satisfactory to the Secretary.
 - **(c)** *Terms and conditions* The conveyance under subsection (a) shall be—
   - **(1)** subject to valid existing rights;
-  - **(2)** made without consideration;
-  - **(3)** made by quitclaim deed; and
-  - **(4)** subject to such other terms and conditions as the Secretary considers to be appropriate to protect the interests of the United States.
+  - **(2)** subject to reversion under subsection (g);
+  - **(3)** made without consideration;
+  - **(4)** made by quitclaim deed; and
+  - **(5)** subject to such other terms and conditions as the Secretary considers to be appropriate to protect the interests of the United States.
 - **(d)** *Costs of conveyance* As a condition of the conveyance under subsection (a), the County shall pay all costs associated with the conveyance, including the cost of—
   - **(1)** a survey, if necessary, under subsection (b)(2);
   - **(2)** any environmental analysis or resources survey required under Federal law; and
   - **(3)** any analysis required to comply with division A of subtitle III of title 54, United States Code (commonly referred to as the “National Historic Preservation Act”).
 - **(e)** *Environmental conditions* Notwithstanding section 120(h)(3)(A) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9620(h)(3)(A)), the Secretary shall not be required to provide any covenant or warranty for the property and improvements conveyed to the County under subsection (a).
-- **(f)** *Definitions* In this section:
+- **(f)** *Public purposes use* The property conveyed under subsection (a) shall be used only for public purposes, such as supporting education and youth development.
+- **(g)** *Reversion* If the property conveyed under subsection (a) ceases to be used in a manner consistent with subsection (f), the property shall, at the discretion of the Secretary, revert to the United States.
+- **(h)** *Definitions* In this section:
   - **(1)** *County* The term County means Perry County, Arkansas.
   - **(2)** *Secretary* The term Secretary means the Secretary of Agriculture, acting through the Chief of the Forest Service.
