@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2302
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2302
@@ -25,3 +25,11 @@ Shingle Springs Band of Miwok Indians Land Transfer Act of 2025
 - 2025-03-24 — Introduced in House
 - 2025-03-24 — Introduced in House
 - 2025-03-24 — Referred to the House Committee on Natural Resources.
+- 2025-04-23 — Referred to the Subcommittee on Indian and Insular Affairs.
+- 2025-04-30 — Subcommittee Hearings Held
+- 2025-07-23 — Committee Consideration and Mark-up Session Held
+- 2025-07-23 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2025-07-23 — Subcommittee on Indian and Insular Affairs Discharged
+- 2025-09-15 — Placed on the Union Calendar, Calendar No. 242.
+- 2025-09-15 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-286.
+- 2025-09-15 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-286.
