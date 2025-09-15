@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2701
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2701
@@ -77,3 +77,9 @@ Fallen Servicemembers Religious Heritage Restoration Act
 - 2025-09-09 — Placed on the Union Calendar, Calendar No. 214.
 - 2025-09-09 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-258.
 - 2025-09-09 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-258.
+- 2025-09-15 — Considered under suspension of the rules. (consideration: CR H4294)
+- 2025-09-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2701.
+- 2025-09-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-09-15 — Mr. Bost moved to suspend the rules and pass the bill, as amended.
+- 2025-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4294)
+- 2025-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4294: 1)

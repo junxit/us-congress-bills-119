@@ -24,7 +24,7 @@ Congress finds the following:
 - **(5)** The United States Government has a solemn responsibility to ensure that every American servicemember killed in action and buried overseas is properly honored.
 - **(6)** The work of properly identifying American-Jewish servicemembers buried overseas is vital and integral to the responsibility of the American Battle Monuments Commission to ensure that past mistakes in honoring those servicemembers who died in the line of duty are corrected.
 
-## § 3. Fallen Servicemembers Religious Heritage Restoration Program
+## § 3. Fallen servicemembers religious heritage restoration program
 
 - **(a)** *Establishment* The American Battle Monuments Commission shall establish a program to identify covered members and to contact survivors and descendants of such covered members. Such program shall be known as the “Fallen Servicemembers Religious Heritage Restoration Program”.
 - **(b)** *Duration* The Commission shall carry out the Fallen Servicemembers Religious Heritage Restoration Program during the first five fiscal years that begin after the date of the enactment of this Act.
@@ -32,8 +32,7 @@ Congress finds the following:
   - **(1)** *Authority* During each fiscal year described in subsection (b), the Commission shall seek to enter into a contract with a nonprofit organization under which such nonprofit organization shall carry out the purpose described in subsection (a).
   - **(2)** *Term; amount* Each contract under this subsection shall be for one year and in the amount of $500,000 to the nonprofit organization.
   - **(3)** *Priority* In awarding a contract under this subsection, the Commission shall give priority to a nonprofit organization that has demonstrated capability and expertise in carrying out the purpose described in subsection (a).
-- **(d)** *Authorization of appropriations* To carry out this section, there is authorized to be appropriated to the Commission $500,000 for each fiscal year described in subsection (b).
-- **(e)** *Definitions* In this section:
+- **(d)** *Definitions* In this section:
   - **(1)** The term “covered member” means a deceased member of the Armed Forces who was Jewish and buried—
     - **(A)** in a United States military cemetery located outside the United States; and
     - **(B)** under a marker that indicates such member was not Jewish.
