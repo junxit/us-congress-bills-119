@@ -19,5 +19,16 @@ This Act may be cited as the “VA Hospital Inventory Management System Authoriz
   - **(1)** purchase or develop for the Veterans Health Administration a cloud-based information technology system for the management of inventory, including expendable and nonexpendable items; and
   - **(2)** implement such system.
 - **(b)** *Pilot* If the Secretary purchases or develops a system under subsection (a), the Secretary shall carry out a pilot program at one Veterans Health Administration facility before implementing the system throughout the Veterans Health Administration. The pilot program shall be designed to determine whether the functions of the system are satisfactory.
-- **(c)** *Authorization of appropriations* There is authorized to be appropriated for the Department of Veterans Affairs $50,000,000 to carry out this section.
-- **(d)** *Deadline* If the Secretary purchases or develops a system under subsection (a), the Secretary shall complete the implementation of the system by not later than three years after the date of the enactment of this Act.
+- **(c)** *Deadline* If the Secretary purchases or develops a system under subsection (a), the Secretary shall complete the implementation of the system by not later than three years after the date of the enactment of this Act.
+- **(d)** *Limitation* The Secretary may not exercise the authority under subsection (a) or subsection (b) until the date on which the Secretary submits to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a report that includes—
+  - **(1)** a comprehensive supply chain strategy to guide enterprise-wide implementation, as recommended in the report of the Comptroller General of the United States titled “VA Acquisition Management: Comprehensive Supply Chain Management Strategy Key to Address Existing Challenges” (GAO–21–445T; published March 24, 2021), which includes success metrics, a plan for data standardization, and staffing models;
+  - **(2)** a cost estimate and implementation schedule for the supply chain modernization program of the Department;
+  - **(3)** a comprehensive staffing assessment of the supply chain and information technology modernization workforces of the Department that includes—
+    - **(A)** monthly staffing gains and losses since October 1, 2022;
+    - **(B)** the current staffing level of each such workforce as of the date of the enactment of this Act; and
+    - **(C)** an estimate of future staffing requirements for the implementation of the supply chain modernization program, disaggregated by each such workforce; and
+  - **(4)** an independent assessment of the review carried out by the Secretary with respect to failures of the supply chain modernization program of the Department.
+
+## § 3. Extension of certain limits on payments of pension
+
+Section 5503(d)(7) of title 38, United States Code, is amended by striking “November 30, 2031” and inserting “December 31, 2032”.
