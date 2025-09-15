@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2293
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2293
@@ -31,3 +31,11 @@ Cormorant Relief Act of 2025
 - 2025-03-24 — Introduced in House
 - 2025-03-24 — Introduced in House
 - 2025-03-24 — Referred to the House Committee on Natural Resources.
+- 2025-04-01 — Referred to the Subcommittee on Water, Wildlife and Fisheries.
+- 2025-04-08 — Subcommittee Hearings Held
+- 2025-07-15 — Committee Consideration and Mark-up Session Held
+- 2025-07-15 — Ordered to be Reported in the Nature of a Substitute by Unanimous Consent.
+- 2025-07-15 — Subcommittee on Water, Wildlife and Fisheries Discharged
+- 2025-09-15 — Placed on the Union Calendar, Calendar No. 241.
+- 2025-09-15 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-285.
+- 2025-09-15 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-285.
