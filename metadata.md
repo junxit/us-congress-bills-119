@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1045
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1045
@@ -33,3 +33,14 @@ Utah Wildfire Research Institute Act of 2025
 - 2025-02-06 — Introduced in House
 - 2025-02-06 — Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2025-02-06 — Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-03-14 — Referred to the Subcommittee on Forestry and Horticulture.
+- 2025-06-03 — Referred to the Subcommittee on Federal Lands.
+- 2025-06-10 — Subcommittee Hearings Held
+- 2025-07-23 — Committee Consideration and Mark-up Session Held
+- 2025-07-23 — Ordered to be Reported by Unanimous Consent.
+- 2025-07-23 — Subcommittee on Federal Lands Discharged
+- 2025-09-15 — Committee on Agriculture discharged.
+- 2025-09-15 — Committee on Agriculture discharged.
+- 2025-09-15 — Placed on the Union Calendar, Calendar No. 236.
+- 2025-09-15 — Reported by the Committee on Natural Resources. H. Rept. 119-280, Part I.
+- 2025-09-15 — Reported by the Committee on Natural Resources. H. Rept. 119-280, Part I.
