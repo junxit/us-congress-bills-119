@@ -15,7 +15,7 @@ This Act may be cited as the “Snow Water Supply Forecasting Reauthorization Ac
 
 ## § 2. Snow Water Supply Forecasting Program
 
-Section 1111 of the Snow Water Supply Forecasting Program Authorization Act (43 U.S.C. 1477) is amended—
+The Snow Water Supply Forecasting Program Authorization Act (43 U.S.C. 1477) is amended—
 
 - **(1)** in subsection (c)(2)—
   - **(A)** in subparagraph (A), by striking “culminating in the report required under subsection (d)(3)” and inserting “with an emphasis on deployment of technologies that provide integration of snowpack measuring and modeling”; and
@@ -23,14 +23,15 @@ Section 1111 of the Snow Water Supply Forecasting Program Authorization Act (43 
 - **(2)** in subsection (d)—
   - **(A)** in paragraph (1)—
     - **(i)** in the heading, by adding “with integrated modeling” after “data”;
-    - **(ii)** by striking “emerging technologies for snowpack measurement, such as” and inserting “commercially available technologies that provide complete integration of accurate, timely, and spatially complete snowpack measurements and models, including the integration of”; and
+    - **(ii)** by striking “emerging technologies for snowpack measurement, such as” and inserting “technologies that provide complete integration of accurate, timely, and spatially complete snowpack measurements and models, including the integration of”; and
     - **(iii)** by striking subparagraphs (A) through (C) and inserting the following:
       > - **(A)** airborne laser altimetry;
-      > - **(B)** airborne imaging spectroscopy;
+      > - **(B)** imaging spectroscopy;
       > - **(C)** integrated physics-based snowpack and hydrologic modeling; and
       > - **(D)** other technologies that the Secretary determines are likely to provide more accurate or timely snowpack measurement data commensurate with operational water management needs.
 
-  - **(B)** by striking paragraph (3);
+  - **(B)** in paragraph (2) by inserting “, including the National Oceanic and Atmospheric Administration and the Natural Resources Conservation Service,” after “other Federal agencies”; and
+  - **(C)** by striking paragraph (3);
 - **(3)** in subsection (e)—
   - **(A)** in paragraph (1), by striking “After submitting the report required under subsection (d)(3), the” and inserting “The”; and
   - **(B)** by striking paragraph (2) and inserting the following:
@@ -47,4 +48,4 @@ Section 1111 of the Snow Water Supply Forecasting Program Authorization Act (43 
     - **(ii)** by striking “technologies” and inserting “and integrated modeling technologies”; and
     - **(iii)** by striking “technology used” and inserting “application, outcome, and data resources used”; and
   - **(C)** in paragraph (2), by striking “or sub-basin”; and
-- **(5)** in subparagraph (g), by striking “, in the aggregate, for fiscal years 2022 through 2026” and inserting “for each of fiscal years 2027 through 2031”.
+- **(5)** in subsection (g), by striking “$15,000,000, in the aggregate, for fiscal years 2022 through 2026” and inserting “$6,500,000 for each of fiscal years 2027 through 2031”.
