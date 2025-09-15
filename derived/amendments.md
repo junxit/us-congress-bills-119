@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3951
 congress: 119
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -26,12 +26,12 @@ to guess them.
 
 ### 38 U.S.C. § 5101
 
-> Paragraph (4) of subsection (a) of section 2002 of the Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvement Act of 2020 (Public Law 116–315; 38 U.S.C. 5101 note) is amended by striking “On the date that is five years after the date of the enactment of this Act” and inserting “On January 5, 2031”.
+> Paragraph (4) of subsection (a) of section 2002 of the Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvement Act of 2020 (Public Law 116–315; 38 U.S.C. 5101 note) is amended by striking “On the date that is five years after the date of the enactment of this Act” and inserting “On September 30, 2031”.
 
 | | |
 |---|---|
 | Removed | `On the date that is five years after the date of the enactment of this Act` |
-| Inserted | `On January 5, 2031` |
+| Inserted | `On September 30, 2031` |
 
 ### 38 U.S.C. § 5101
 
