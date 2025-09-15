@@ -1,7 +1,7 @@
 ---
 measure: H.R. 972
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 972
@@ -25,3 +25,8 @@ Sloan Canyon Conservation and Lateral Pipeline Act
 - 2025-02-04 — Introduced in House
 - 2025-02-04 — Introduced in House
 - 2025-02-04 — Referred to the House Committee on Natural Resources.
+- 2025-04-09 — Committee Consideration and Mark-up Session Held
+- 2025-04-09 — Ordered to be Reported by Unanimous Consent.
+- 2025-09-15 — Placed on the Union Calendar, Calendar No. 235.
+- 2025-09-15 — Reported by the Committee on Natural Resources. H. Rept. 119-279.
+- 2025-09-15 — Reported by the Committee on Natural Resources. H. Rept. 119-279.
