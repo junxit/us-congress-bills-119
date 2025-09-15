@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1276
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1276
@@ -25,3 +25,11 @@ To remove restrictions from a parcel of land in Paducah, Kentucky.
 - 2025-02-13 — Introduced in House
 - 2025-02-13 — Introduced in House
 - 2025-02-13 — Referred to the House Committee on Natural Resources.
+- 2025-04-23 — Referred to the Subcommittee on Federal Lands.
+- 2025-04-29 — Subcommittee Hearings Held
+- 2025-06-25 — Subcommittee on Federal Lands Discharged
+- 2025-07-23 — Committee Consideration and Mark-up Session Held
+- 2025-07-23 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2025-09-15 — Placed on the Union Calendar, Calendar No. 237.
+- 2025-09-15 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-281.
+- 2025-09-15 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-281.
