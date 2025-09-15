@@ -13,6 +13,13 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Semiquincentennial Tourism and Access to Recreation Sites Act” or the “STARS Act”.
 
-## § 2. Free Entrance to NPS sites in honor of America’s 250th anniversary
+## § 2. Waived fees at public recreational sites in honor of America’s 250th anniversary
 
-In honor of the semiquincentennial of the United States of America, the Secretary of the Interior, acting through the Director of the National Park Service, shall designate September 17, 2026, as an entrance-fee free date on which admission is free to all visitors with respect to each National Park Service site that charges an entrance free.
+- **(a)** *In general* In honor of the semiquincentennial of the United States of America—
+  - **(1)** the Secretary of the Interior shall—
+    - **(A)** designate September 17, 2026, as an entrance-fee free date on which admission is free to all visitors with respect to each National Park Service site that charges an entrance fee; and
+    - **(B)** waive standard amenity recreation fees on September 17, 2026, for each visitor to each site managed by the Bureau of Land Management, United States Fish and Wildlife Service, or Bureau of Reclamation that charges a standard amenity recreation fee; and
+  - **(2)** the Secretary of Agriculture shall waive standard amenity recreation fees for September 17, 2026, for each visitor to each site managed by the Forest Service that charges a standard amenity recreation fee.
+- **(b)** *Definitions* In this section:
+  - **(1)** *Entrance fee* The term entrance fee has the meaning given the term in section 802 of the Federal Lands Recreation Enhancement Act (16 U.S.C. 6801).
+  - **(2)** *Standard amenity recreation fee* The term standard amenity recreation fee has the meaning given the term in section 802 of the Federal Lands Recreation Enhancement Act (16 U.S.C. 6801).

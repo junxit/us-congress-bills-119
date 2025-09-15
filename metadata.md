@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4285
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4285
@@ -25,3 +25,11 @@ STARS Act
 - 2025-07-02 — Introduced in House
 - 2025-07-02 — Introduced in House
 - 2025-07-02 — Referred to the House Committee on Natural Resources.
+- 2025-07-09 — Referred to the Subcommittee on Federal Lands.
+- 2025-07-16 — Subcommittee Hearings Held
+- 2025-07-23 — Committee Consideration and Mark-up Session Held
+- 2025-07-23 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2025-07-23 — Subcommittee on Federal Lands Discharged
+- 2025-09-15 — Placed on the Union Calendar, Calendar No. 250.
+- 2025-09-15 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-294.
+- 2025-09-15 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-294.
