@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3494
 congress: 119
-version: Engrossed in House
+version: Reported in House
 derived: true
 ---
 
