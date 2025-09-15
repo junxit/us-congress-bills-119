@@ -13,10 +13,14 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Honoring Our Heroes Act of 2025”.
 
-## § 2. Department of Veterans Affairs pilot program to furnish headstones and burial markers to covered veterans
+## § 2. Temporary authority to furnish headstones and burial markers to certain veterans
 
-- **(a)** *In general* The Secretary of Veterans Affairs, acting through the Under Secretary for Memorial Affairs, shall establish and carry out a pilot program under which the Secretary shall furnish, when requested, an appropriate headstone or burial marker for the purpose of commemorating a covered veteran.
-- **(b)** *Applications* An individual desiring to request a headstone or marker for the purpose of commemorating a covered veteran under such pilot program shall submit to the Secretary an application in such time, in such form, and containing such information and assurances as the Secretary considers appropriate.
-- **(c)** *Update to eligibility requirements* During the period the authority to carry out the pilot program under this section is effective, the Under Secretary shall update the internet website of the National Cemetery Administration with respect to the requirements for eligibility for a headstone or burial marker under the laws administered by the Secretary.
-- **(d)** *Termination date* The authority of the Secretary to carry out the pilot program under this section shall terminate on the date that is two years after the date of the enactment of this Act.
-- **(e)** *Covered veteran defined* In this section, the term covered veteran means a veteran (as defined in section 101 of title 38, United States Code) who died on or before November 1, 1990.
+- **(a)** *Authority* During the period of seven years following the date of the enactment of this Act, the Secretary of Veterans Affairs shall furnish, pursuant to section 2306 of title 38, United States Code, and without regards to section 8041(b) of the Omnibus Budget Reconciliation Act of 1990 (Public Law 101–508), an appropriate headstone, burial marker, or medallion for a veteran—
+  - **(1)** eligible for burial in a national cemetery;
+  - **(2)** who died on or after December 7, 1941; and
+  - **(3)** for whose grave the Secretary has not already provided a headstone, burial marker, or medallion.
+- **(b)** *Website* During such period, the Secretary shall ensure that the website of the National Cemetery Administration indicates the effect of this Act on eligibility for a headstone, burial marker, or medallion under such section.
+
+## § 3. Extension of certain limits on payments of pension
+
+Section 5503(d)(7) of title 38, United States Code, is amended by striking “November 30, 2031” and inserting “February 29, 2032”.
