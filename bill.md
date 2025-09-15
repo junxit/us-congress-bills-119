@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “The Dalles Watershed Development Act”.
+This Act may be cited as the “Dalles Watershed Development Act”.
 
 ## § 2. Definitions
 
@@ -36,3 +36,6 @@ In this Act:
   - **(3)** made by quitclaim deed; and
   - **(4)** subject to such additional terms and conditions as the Secretary determines to be appropriate to protect the interests of the United States.
 - **(d)** *Administrative costs* As a condition of the conveyance under subsection (a), the City shall pay all costs associated with the conveyance, including the cost of a survey under subsection (b)(3).
+- **(e)** *Use of conveyed land*
+  - **(1)** *In general* The land conveyed to the City under subsection (a) shall be used by the City for public purposes, including for municipal water supply and use and related infrastructure needs or expansions.
+  - **(2)** *Reversion* If the land conveyed under subsection (a) is used in a manner that is inconsistent with the requirement of paragraph (1), all right, title, and interest in and to the land shall revert to the United States.
