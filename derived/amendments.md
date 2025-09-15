@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3857
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-14 amendatory instructions. 7 executed, 7 stated and not applied.
+15 amendatory instructions. 7 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,12 +35,12 @@ to guess them.
 
 ### 43 U.S.C. § 1477
 
-> by striking “emerging technologies for snowpack measurement, such as” and inserting “commercially available technologies that provide complete integration of accurate, timely, and spatially complete snowpack measurements and models, including the integration of”; and
+> by striking “emerging technologies for snowpack measurement, such as” and inserting “technologies that provide complete integration of accurate, timely, and spatially complete snowpack measurements and models, including the integration of”; and
 
 | | |
 |---|---|
 | Removed | `emerging technologies for snowpack measurement, such as` |
-| Inserted | `commercially available technologies that provide complete integration of accurate, timely, and spatially complete snowpack measurements and models, including the integration of` |
+| Inserted | `technologies that provide complete integration of accurate, timely, and spatially complete snowpack measurements and models, including the integration of` |
 
 ### 43 U.S.C. § 1477
 
@@ -80,12 +80,12 @@ to guess them.
 
 ### 43 U.S.C. § 1477
 
-> in subparagraph (g), by striking “, in the aggregate, for fiscal years 2022 through 2026” and inserting “for each of fiscal years 2027 through 2031”.
+> in subsection (g), by striking “$15,000,000, in the aggregate, for fiscal years 2022 through 2026” and inserting “$6,500,000 for each of fiscal years 2027 through 2031”.
 
 | | |
 |---|---|
-| Removed | `, in the aggregate, for fiscal years 2022 through 2026` |
-| Inserted | `for each of fiscal years 2027 through 2031` |
+| Removed | `$15,000,000, in the aggregate, for fiscal years 2022 through 2026` |
+| Inserted | `$6,500,000 for each of fiscal years 2027 through 2031` |
 
 ## Stated, not applied
 
@@ -99,6 +99,7 @@ complete account of the bill's effect, which it is not.
 | `43 U.S.C. § 1477` | strike | in subparagraph (B), by striking “after submitting the report required by subsection (d)(3),”; | the bill quotes the text struck but describes what replaces it |
 | `43 U.S.C. § 1477` | amend | in the heading, by adding “with integrated modeling” after “data”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 1477` | replace | by striking subparagraphs (A) through (C) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1477` | insert | in paragraph (2) by inserting “, including the National Oceanic and Atmospheric Administration and the Natural Resources Conservation Service,” after “other Federal agencies”; and | the bill quotes the text inserted but describes where it goes |
 | `43 U.S.C. § 1477` | strike | by striking paragraph (3); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 1477` | replace | by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 1477` | strike | by striking “and sub-basins”; | the bill quotes the text struck but describes what replaces it |
