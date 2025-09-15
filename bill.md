@@ -30,13 +30,17 @@ Section 9402 of the Omnibus Public Land Management Act of 2009 (Public Law 111�
 >     - **(A)** *In general* Pursuant to section 8.4 of the Agreement, the Secretary of the Treasury shall deposit in the Fund—
 >       - **(i)** any unexpended non-Federal contributions provided before the date of enactment of this subsection; and
 >       - **(ii)** any non-Federal contributions provided on or after the date of enactment of this subsection.
->     - **(B)** *Availability of amounts; expenditure* Amounts deposited in the Fund under subparagraph (A) and any interest on those amounts in the Fund shall be made available to the Secretary, without further appropriation, for expenditure—
->       - **(i)** as provided in the Program Documents; and
->       - **(ii)** in accordance with this section.
+>     - **(B)** *Availability of amounts*
+>       - **(i)** *Expenditure* Amounts deposited in the Fund under subparagraph (A) shall be made available to the Secretary, without further appropriation, for expenditure—
+>         - **(I)** as provided in the Program Documents; and
+>         - **(II)** in accordance with this section.
+>       - **(ii)** *Interest* Amounts derived from interest earned on amounts in the Fund under subparagraph (A) shall be made available, subject to the availability of appropriations, to the Secretary for expenditure—
+>         - **(I)** as provided in the Program Documents; and
+>         - **(II)** in accordance with this section.
 >   - **(4)** *Investment of amounts*
 >     - **(A)** *In general* The Secretary of the Treasury may invest any portion of the Fund that is not, as determined by the Secretary, required to meet the current needs of the Fund.
 >     - **(B)** *Requirement* Investments under subparagraph (A) may be made only in interest-bearing obligations of the United States.
 >   - **(5)** *Transfers of amounts*
 >     - **(A)** *Transfer of previously contributed funds* The amounts required to be deposited in the Fund under paragraph (3)(A)(i) shall be transferred from the general fund of the Treasury to the Fund not later than 90 days after the date of enactment of this subsection.
 >     - **(B)** *Transfer of future contributed funds* As soon as practicable after the date on which amounts described in paragraph (3)(A)(ii) are contributed, those amounts shall be transferred to the Fund.
->     - **(C)** *Responsibility of State Parties* In accordance with the Agreement, on deposit of amounts in the Fund under paragraph (3), the State Parties shall not be responsible for any losses due to investment of those amounts in the Fund.
+>     - **(C)** *Responsibility of State Parties* In accordance with the Agreement, on deposit of amounts in the Fund under paragraph (3), the State Parties shall not be responsible for any losses due to investment of those amounts the Fund.
