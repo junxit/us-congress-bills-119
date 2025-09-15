@@ -63,7 +63,3 @@ This Act may be cited as the “Modernizing All Veterans and Survivors Claims Pr
       - **(ii)** any educational assistance paid to the child of a veteran under the laws administered by the Secretary.
     - **(B)** The term “child” has the meaning given such term in section 101(4)(A)(iii) of title 38, United States Code.
 - **(b)** *Correct labeling of documents* Not later than one year after the date of the enactment of this Act, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a plan to ensure that documents in the Veterans Benefits Management System (or any successor system) are correctly labeled when such documents are uploaded, including when such documents are labeled using automation tools.
-
-## § 5. Extension of certain limits on payments of pension
-
-Section 5503(d)(7) of title 38, United States Code, is amended by striking “November 30, 2031” and inserting “January 31, 2032”.

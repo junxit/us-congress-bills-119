@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3854
 congress: 119
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,4 +33,3 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | add-at-end | Subchaper II of chapter 5 of title 38, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | insert | The table of sections at the beginning of chapter 5 of such title is amended by inserting after the item relating to section 533 the following new item: | the bill names no machine-readable US Code section |
-| — | replace | Section 5503(d)(7) of title 38, United States Code, is amended by striking “November 30, 2031” and inserting “January 31, 2032”. | the bill names no machine-readable US Code section |
