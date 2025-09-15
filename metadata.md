@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3426
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3426
@@ -36,3 +36,9 @@ Courthouse Affordability and Space Efficiency Act of 2025
 - 2025-09-08 — Placed on the Union Calendar, Calendar No. 197.
 - 2025-09-08 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 119-240.
 - 2025-09-08 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 119-240.
+- 2025-09-15 — Considered under suspension of the rules. (consideration: CR H4278)
+- 2025-09-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3426.
+- 2025-09-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-09-15 — Mr. Taylor moved to suspend the rules and pass the bill, as amended.
+- 2025-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4278)
+- 2025-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4278)
