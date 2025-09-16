@@ -1,0 +1,16 @@
+---
+legis-num: H.R. 5400
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5400
+
+> To amend title 10, United States Code, to require the Secretary of Defense to annually review the amount of financial assistance for child care and youth program services providers provided by the Secretary.
+
+## § 1. Annual review of financial assistance limits for child care and youth program services providers
+
+Section 1798 of title 10, United States Code, is amended by adding at the end the following new subsection:
+
+> - **(d)** *Annual review of amount of assistance* The Secretary shall annually review the amount of financial assistance provided under this section, including the maximum amount of financial assistance per month per child that the Secretary authorizes to be provided to eligible providers under this section.
