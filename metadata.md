@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3426
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3426
@@ -20,9 +20,10 @@ Courthouse Affordability and Space Efficiency Act of 2025
 
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Courthouse Affordability and Space Efficiency Act of 2025
 - 2025-09-15 — Mr. Taylor moved to suspend the rules and pass the bill, as amended.
 - 2025-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4278)
 - 2025-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4278)
+- 2025-09-16 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
