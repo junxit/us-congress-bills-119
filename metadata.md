@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3854
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3854
@@ -16,9 +16,10 @@ Modernizing All Veterans and Survivors
 
 - Rep. Valadao, David G. [R-CA-22] (V000129)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ Modernizing All Veterans and Survivors
 - 2025-09-15 — Mr. Bost moved to suspend the rules and pass the bill, as amended.
 - 2025-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4290)
 - 2025-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4290-4291: 1)
+- 2025-09-16 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
