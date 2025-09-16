@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5100
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5100
@@ -37,10 +37,11 @@ To extend the SBIR and STTR programs, and for other purposes.
 - Rep. Schmidt, Derek [R-KS-2] (S001228)
 - Rep. Peters, Scott H. [D-CA-50] (P000608)
 
-## Committees (2)
+## Committees (3)
 
 - House — Science, Space, and Technology Committee
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -61,3 +62,4 @@ To extend the SBIR and STTR programs, and for other purposes.
 - 2025-09-15 — Mr. Williams (TX) moved to suspend the rules and pass the bill.
 - 2025-09-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4273)
 - 2025-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4273: 1)
+- 2025-09-16 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
