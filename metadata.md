@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3494
 congress: 119
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3494
@@ -21,9 +21,10 @@ VA Hospital Inventory Management System Authorization Act
 - Rep. Panetta, Jimmy [D-CA-19] (P000613)
 - Rep. Vindman, Eugene Simon [D-VA-7] (V000138)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ VA Hospital Inventory Management System Authorization Act
 - 2025-09-15 — Placed on the Union Calendar, Calendar No. 229.
 - 2025-09-15 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-273.
 - 2025-09-15 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-273.
+- 2025-09-16 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
