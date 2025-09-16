@@ -11,16 +11,16 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “DC Criminal Reforms to Immediately Make Everyone Safe Act” or the “DC CRIMES Act”.
+This Act may be cited as the “D. C. Criminal Reforms to Immediately Make Everyone Safe Act of 2025” or the “DC CRIMES Act of 2025”.
 
 ## § 2. Youth offenders
 
-- **(a)** *Limiting youth offender status in District of Columbia to individuals 18 years of age or younger*
-  - **(1)** *Limitation* Section 2(6) of the Youth Rehabilitation Act of 1985 (sec. 24–901(6), D.C. Official Code) is amended by striking “24 years of age or younger” and inserting “18 years of age or younger”.
+- **(a)** *Limiting youth offender status in District of Columbia to individuals under 18 years of age*
+  - **(1)** *Limitation* Section 2(6) of the Youth Rehabilitation Act of 1985 (sec. 24–901(6), D.C. Official Code) is amended by striking “24 years of age or younger” and inserting “under 18 years of age”.
   - **(2)** *Conforming amendments*
-    - **(A)** *Repeal consideration of individuals 18 through 24 years of age in strategic plan for facilities, treatment, and services* Section 3(a–1) of such Act (sec. 24–902(a–1), D.C. Official Code) is amended by striking paragraph (3).
+    - **(A)** *Repeal of consideration of individuals 18 through 24 years of age in strategic plan for facilities, treatment, and services* Section 3(a–1) of such Act (sec. 24–902(a–1), D.C. Official Code) is amended by striking paragraph (3).
     - **(B)** *Community service for individuals under order of probation* Section 4(a)(2) of such Act (sec. 24–903(a)(2), D.C. Official Code) is amended by striking “15 to 24 years of age” and inserting “15 to 18 years of age”.
-- **(b)** *Prohibiting issuance of sentence less than mandatory-Minimum term* Section 4(b) of such Act (sec. 24–903(b), D.C. Official Code) is amended—
+- **(b)** *Prohibiting issuance of sentence less than mandatory-minimum term* Section 4(b) of such Act (sec. 24–903(b), D.C. Official Code) is amended—
   - **(1)** by striking “(b)(1)” and inserting “(b)”;
   - **(2)** by striking paragraph (2); and
   - **(3)** by redesignating paragraph (3) as paragraph (2).
@@ -70,12 +70,3 @@ This Act may be cited as the “DC Criminal Reforms to Immediately Make Everyone
       > - **(g)** Notwithstanding subsection (a) of this section, a person shall provide information contained in law enforcement records and files concerning a child to the Attorney General for purposes of the website established and operated under section 16–2340a.
 
 - **(c)** *Effective date* The Attorney General of the District of Columbia shall establish the website under section 16–2341, District of Columbia Official Code, as added by subsection (a), not later than 180 days after the date of the enactment of this Act.
-
-## § 4. Prohibiting Council from enacting changes to existing criminal liability sentences
-
-Section 602(a) of the District of Columbia Home Rule Act (sec. 1–206.02(a), D.C. Official Code) is amended—
-
-- **(1)** by striking “or” at the end of paragraph (9);
-- **(2)** by striking the period at the end of paragraph (10) and inserting “; or”; and
-- **(3)** by adding at the end the following new paragraph:
-  > - **(11)** enact any act, resolution, or rule to change any criminal liability sentence in effect on the date of the enactment of the DC CRIMES Act.
