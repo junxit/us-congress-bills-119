@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1107
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1107
@@ -47,9 +47,10 @@ Protecting Veteran Access to Telemedicine Services Act of 2025
 - Rep. Lee, Susie [D-NV-3] (L000590)
 - Rep. McDonald Rivet, Kristen [D-MI-8] (M001237)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -71,3 +72,4 @@ Protecting Veteran Access to Telemedicine Services Act of 2025
 - 2025-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4279)
 - 2025-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4279-4280: 1)
 - 2025-09-15 — The title of the measure was amended. Agreed to without objection.
+- 2025-09-16 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
