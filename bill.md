@@ -1,0 +1,23 @@
+---
+legis-num: S. RES. 391
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. RES. 391
+
+> Condemning the assassination of Charlie Kirk and honoring his life and legacy.
+
+## Preamble
+
+- Whereas Charlie Kirk was horrifically assassinated on September 10, 2025, at Utah Valley University while speaking to a large group of college students;
+- Whereas Charlie Kirk was a devoted husband, father, and Christian;
+- Whereas, in 2012, Charlie Kirk founded Turning Point USA, a conservative campus advocacy group that quickly became one of the fastest growing college campus chapter organizations in the country; and
+- Whereas Charlie Kirk frequently engaged college students of all political backgrounds in open debates and discussion, encouraging civil discourse on college campuses and among college students: Now, therefore, be it
+
+That the Senate—
+
+- **(1)** condemns the assassination of Charlie Kirk in the strongest possible terms;
+- **(2)** extends its deepest condolences and sympathies to Charlie Kirk’s family, including his wife, Erika, and their two young children; and
+- **(3)** honors Charlie Kirk’s commitment to the constitutional principles of civil discussion and debate between all people of the United States, regardless of political affiliation.
