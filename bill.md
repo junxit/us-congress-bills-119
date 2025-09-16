@@ -1,0 +1,32 @@
+---
+legis-num: S. 2816
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2816
+
+> To prohibit the administration of any political loyalty test as a condition of Federal employment, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Stop Sycophants in Government Act of 2025”.
+
+## § 2. Prohibition on political loyalty tests
+
+- **(a)** *Definitions* In this section:
+  - **(1)** *Employee* The term employee—
+    - **(A)** has the meaning given the term in section 2105 of title 5, United States Code; and
+    - **(B)** includes—
+      - **(i)** any individual serving in a position for which appointment is made by the President, by and with the advice and consent of the Senate, including an individual serving as the head of an Executive department;
+      - **(ii)** an employee of the United States Postal Service; and
+      - **(iii)** an employee of the Postal Regulatory Commission.
+  - **(2)** *Executive department* The term Executive department has the meaning given the term in section 101 of title 5, United States Code.
+- **(b)** *Prohibition* No Federal official, including the President, may administer a political loyalty test to any employee or with respect to any position as an employee, including—
+  - **(1)** as a condition of employment as an employee; or
+  - **(2)** as part of—
+    - **(A)** the application process for a position as an employee;
+    - **(B)** the process of appointing an employee;
+    - **(C)** the decision whether to promote an employee; or
+    - **(D)** any contract renewal process with respect to an employee.
