@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1860
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1860
@@ -28,9 +28,10 @@ Women Veterans Cancer Care Coordination Act
 - Rep. Lofgren, Zoe [D-CA-18] (L000397)
 - Rep. Horsford, Steven [D-NV-4] (H001066)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ Women Veterans Cancer Care Coordination Act
 - 2025-09-15 — Mr. Bost moved to suspend the rules and pass the bill, as amended.
 - 2025-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4282)
 - 2025-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4282-4283: 1)
+- 2025-09-16 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
