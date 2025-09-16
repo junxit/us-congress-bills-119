@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3427
 congress: 119
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3427
@@ -21,9 +21,10 @@ Water Resources Technical Assistance Review Act
 - Rep. Figures, Shomari [D-AL-2] (F000481)
 - Rep. Gillen, Laura [D-NY-4] (G000602)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Water Resources Technical Assistance Review Act
 - 2025-09-15 — Placed on the Union Calendar, Calendar No. 231.
 - 2025-09-15 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 119-275.
 - 2025-09-15 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 119-275.
+- 2025-09-16 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
