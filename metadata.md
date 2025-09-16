@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2721
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2721
@@ -20,6 +20,10 @@ Honoring Our Heroes Act of 2025
 
 - House — Veterans' Affairs Committee
 
+## Recorded votes (1)
+
+- 2025-09-16 — [House 119-1-269](votes/house-119-1-0269.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (413–0)
+
 ## Actions
 
 - 2025-04-08 — Introduced in House
@@ -37,3 +41,7 @@ Honoring Our Heroes Act of 2025
 - 2025-09-15 — Placed on the Union Calendar, Calendar No. 230.
 - 2025-09-15 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-274.
 - 2025-09-15 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-274.
+- 2025-09-16 — Considered as unfinished business. (consideration: CR H4330)
+- 2025-09-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-09-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 269). (text: 09/16/2026 CR H4286)
+- 2025-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 269). (text: 09/16/2026 CR H4286)
