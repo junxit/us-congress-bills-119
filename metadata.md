@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3400
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3400
@@ -31,9 +31,10 @@ TRAVEL Act of 2025
 - Rep. Lee, Susie [D-NV-3] (L000590)
 - Rep. Case, Ed [D-HI-1] (C001055)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -60,3 +61,4 @@ TRAVEL Act of 2025
 - 2025-09-15 — Mr. Bost moved to suspend the rules and pass the bill, as amended.
 - 2025-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 371 - 21 (Roll no. 266). (text: CR H4284)
 - 2025-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 371 - 21 (Roll no. 266). (text: CR H4284: 1)
+- 2025-09-16 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
