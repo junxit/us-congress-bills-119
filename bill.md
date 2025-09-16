@@ -2,7 +2,7 @@
 legis-num: H. RES. 707
 congress: 119th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 707
@@ -24,10 +24,10 @@ The bills referred to in the first section of this resolution are as follows:
 
 The Rules Committee Prints referred to in the first section of this resolution are as follows:
 
-- **(a)** With respect to H.R. 4922, Rules Committee Print 119-10.
-- **(b)** With respect to H.R. 5143, Rules Committee Print 119-11.
-- **(c)** With respect to H.R. 5140, Rules Committee Print 119-12.
-- **(d)** With respect to H.R. 5125, Rules Committee Print 119-13.
+- **(a)** With respect to H.R. 4922, Rules Committee Print 119–10.
+- **(b)** With respect to H.R. 5143, Rules Committee Print 119–11.
+- **(c)** With respect to H.R. 5140, Rules Committee Print 119–12.
+- **(d)** With respect to H.R. 5125, Rules Committee Print 119–13.
 
 ## § 4.
 
