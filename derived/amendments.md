@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5140
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 0 executed, 5 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,6 +33,5 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | replace | in paragraph (3), by striking “sixteen years of age” and inserting “fourteen years of age”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3) in the matter following subparagraph (C), by striking “the age of sixteen” and inserting “the age of fourteen”. | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (1), by striking “fifteen” and inserting “fourteen”; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (2), by striking “sixteen” and inserting “fourteen”; and | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (3), by striking “eighteen” and inserting “fourteen”. | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1), by striking “fifteen” and inserting “fourteen”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “sixteen” and inserting “fourteen”. | the bill names no machine-readable US Code section |

@@ -15,7 +15,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(1)** in paragraph (3), by striking “sixteen years of age” and inserting “fourteen years of age”; and
   - **(2)** in paragraph (3) in the matter following subparagraph (C), by striking “the age of sixteen” and inserting “the age of fourteen”.
 - **(b)** *Lowering age at which minor may be transferred to criminal proceeding* Section 16–2307(a), District of Columbia Official Code, is amended—
-  - **(1)** in paragraph (1), by striking “fifteen” and inserting “fourteen”;
-  - **(2)** in paragraph (2), by striking “sixteen” and inserting “fourteen”; and
-  - **(3)** in paragraph (3), by striking “eighteen” and inserting “fourteen”.
+  - **(1)** in paragraph (1), by striking “fifteen” and inserting “fourteen”; and
+  - **(2)** in paragraph (2), by striking “sixteen” and inserting “fourteen”.
 - **(c)** *Applicability* This Act, and the amendments made by this Act, shall apply with respect to criminal offenses committed on and after the date of the enactment of this Act.
