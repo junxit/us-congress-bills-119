@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4446
 congress: 119
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4446
@@ -45,3 +45,14 @@ FAST VETS Act
 - 2025-09-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4298)
 - 2025-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4298)
 - 2025-09-16 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
+- 2025-12-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8895)
+- 2025-12-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2025-12-18 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2025-12-18 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2025-12-19 — Message on Senate action sent to the House.
+- 2026-01-12 — Presented to President.
+- 2026-01-12 — Presented to President.
+- 2026-01-20 — Became Public Law No: 119-72.
+- 2026-01-20 — Became Public Law No: 119-72.
+- 2026-01-20 — Signed by President.
+- 2026-01-20 — Signed by President.
