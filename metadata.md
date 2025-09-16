@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1402
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1402
@@ -47,3 +47,5 @@ TICKET Act
 - 2025-04-29 — Motion to reconsider laid on the table Agreed to without objection.
 - 2025-04-29 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 15 (Roll no. 107). (text: 04/28/2025 CR H1640-1641)
 - 2025-04-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 409 - 15 (Roll no. 107). (text: 04/28/2025 CR H1640-1641)
+- 2025-04-30 — Received in the Senate.
+- 2025-09-16 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 163.
