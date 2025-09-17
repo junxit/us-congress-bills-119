@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5143
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-7 amendatory instructions. 0 executed, 7 stated and not applied.
+8 amendatory instructions. 0 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,6 +33,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | strike | in the heading, by striking “LIMITATIONS ON THE”; | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraphs (1) through (5); | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (6), by striking the period at the end and inserting the following: “, except that such term does not include a sworn federal law enforcement officer of a covered federal law enforcement agency as defined in section 11712(d)… | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (6) and (7) as paragraphs (1) and (2), respectively; | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraphs (8) through (11); and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (12) as paragraph (3); and | the bill names no machine-readable US Code section |

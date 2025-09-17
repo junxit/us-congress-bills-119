@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “District of Columbia Policing Protection Act”.
+This Act may be cited as the “District of Columbia Policing Protection Act of 2025”.
 
 ## § 2. Vehicular pursuits by law enforcement officers in District of Columbia
 
@@ -20,11 +20,12 @@ This Act may be cited as the “District of Columbia Policing Protection Act”.
     - **(A)** in the heading, by striking “LIMITATIONS ON THE”;
     - **(B)** in section 127(a) (sec. 5–365.01(a), D.C. Official Code)—
       - **(i)** by striking paragraphs (1) through (5);
-      - **(ii)** by redesignating paragraphs (6) and (7) as paragraphs (1) and (2), respectively;
-      - **(iii)** by striking paragraphs (8) through (11); and
-      - **(iv)** by redesignating paragraph (12) as paragraph (3); and
+      - **(ii)** in paragraph (6), by striking the period at the end and inserting the following: “, except that such term does not include a sworn federal law enforcement officer of a covered federal law enforcement agency as defined in section 11712(d) of the National Capital Revitalization and Self-Government Improvement Act of 1997 (sec. 5–133.17(d), D.C. Official Code).”;
+      - **(iii)** by redesignating paragraphs (6) and (7) as paragraphs (1) and (2), respectively;
+      - **(iv)** by striking paragraphs (8) through (11); and
+      - **(v)** by redesignating paragraph (12) as paragraph (3); and
     - **(C)** in section 128 (sec. 5–365.02, D.C. Official Code), by striking subsections (a), (b), and (c) and inserting the following:
-      > If a law enforcement officer encounters a suspect fleeing in a motor vehicle, the officer shall engage in a vehicular pursuit of the suspect unless the officer, or a higher-ranking official with supervisory authority over the officer, reasonably believes that—
+      > If a law enforcement officer encounters a suspect fleeing in a motor vehicle, the officer may engage in a vehicular pursuit of the suspect unless the officer, or a higher-ranking official with supervisory authority over the officer, reasonably believes that—
       >
       > - **(1)** vehicular pursuit would—
       >   - **(A)** entail an unacceptable risk of harm to a person other than the suspect; or
@@ -37,5 +38,5 @@ This Act may be cited as the “District of Columbia Policing Protection Act”.
   - **(2)** publish a report on the evaluation conducted under paragraph (1) and submit the report to—
     - **(A)** the Committee on Homeland Security and Governmental Affairs of the Senate;
     - **(B)** the Committee on the Judiciary of the Senate;
-    - **(C)** the Committee on Oversight of the House of Representatives; and
+    - **(C)** the Committee on Oversight and Government Reform of the House of Representatives; and
     - **(D)** the Committee on the Judiciary of the House of Representatives.
