@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2721
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2721
@@ -16,9 +16,10 @@ Honoring Our Heroes Act of 2025
 
 - Rep. Kennedy, Timothy M. [D-NY-26] (K000402)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -45,3 +46,4 @@ Honoring Our Heroes Act of 2025
 - 2025-09-16 — Motion to reconsider laid on the table Agreed to without objection.
 - 2025-09-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 269). (text: 09/16/2026 CR H4286)
 - 2025-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 413 - 0 (Roll no. 269). (text: 09/16/2026 CR H4286)
+- 2025-09-17 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
