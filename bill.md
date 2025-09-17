@@ -23,9 +23,9 @@ Section 215 of the Federal Power Act (16 U.S.C. 824o) is amended—
 
   - **(B)** by adding at the end the following:
     > - **(2)** *Annual long-term assessment* The assessments under paragraph (1) shall include an annual long-term assessment, which shall include—
-    >   - **(A)** an analysis of the ability of the bulk-power system to supply sufficient electric energy necessary to maintain an adequate level of reliability, taking into account generation resource mix, transmission development, and energy demand trends;
+    >   - **(A)** an analysis of the ability of the bulk-power system to supply sufficient electric energy necessary to maintain an adequate level of reliability, taking into account generation resource mix, transmission development, and electric energy demand trends;
     >   - **(B)** an analysis of the risk of future electric energy supply shortfalls under normal and extreme weather conditions, and the risk of any such shortfalls within each region of the bulk-power system; and
-    >   - **(C)** a determination of whether additional generation resources are necessary to supply sufficient energy to maintain an adequate level of reliability during the assessment period.
+    >   - **(C)** a determination of whether additional generation resources are necessary to supply sufficient electric energy to maintain an adequate level of reliability during the assessment period.
     > - **(3)** *Notice of generation inadequacy* In conducting a long-term assessment under paragraph (2), if the ERO finds that the bulk-power system is at risk of not having adequate generation resources to supply sufficient electric energy to maintain an adequate level of reliability, the ERO shall publicly notify the Commission that the bulk-power system is in a state of generation inadequacy.
     > - **(4)** *Data collection* To conduct a long-term assessment under paragraph (2), the ERO may collect information and data from users, owners, and operators of the bulk-power system.
 
@@ -36,7 +36,7 @@ Section 215 of the Federal Power Act (16 U.S.C. 824o) is amended—
   >   - **(2)** *Submission* Upon receiving notice under paragraph (1), the head of each Federal agency that received such notice shall provide to the Commission for review and comment any covered agency action by the Federal agency—
   >     - **(A)** on the first date on which such covered agency action is provided to the Office of Management and Budget or any other Federal agency for review and comment; or
   >     - **(B)** if such covered agency action is not provided to the Office of Management and Budget or any other Federal agency for review and comment, not later than 90 days before the date on which the covered agency action is published in the Federal Register or is otherwise made available for public inspection or comment.
-  >   - **(3)** *Commission comments* The Commission, in consultation with the ERO, regional entities, and transmission organizations shall, by order, provide to the agency head that provided to the Commission a covered agency action under paragraph (2)—
+  >   - **(3)** *Commission comments* The Commission, in consultation with the ERO and transmission organizations, shall, by order, provide to the agency head that provided to the Commission a covered agency action under paragraph (2)—
   >     - **(A)** comments on such covered agency action, which such comments may include an assessment of the effect of the covered agency action on rates, terms, and conditions for services pursuant to the authority of the Commission under sections 201 and 206; and
   >     - **(B)** if applicable, recommendations for modifications to the covered agency action to prevent a significant negative impact on the ability of the bulk-power system to supply sufficient electric energy necessary to maintain an adequate level of reliability.
   >   - **(4)** *Agency response* The head of a Federal agency may not finalize a covered agency action that is provided to the Commission under paragraph (2) until—
