@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4273
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-34 amendatory instructions. 15 executed, 19 stated and not applied.
+36 amendatory instructions. 17 executed, 19 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -159,6 +159,24 @@ to guess them.
 | Removed | `2025` |
 | Inserted | `2030` |
 
+### 21 U.S.C. § 355h
+
+> Section 505G(h) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355h(h)) is amended by striking “sponsors or requestors” and inserting “sponsors, requestors, or organizations nominated by sponsors or requestors to represent their interests in a proceeding”.
+
+| | |
+|---|---|
+| Removed | `sponsors or requestors` |
+| Inserted | `sponsors, requestors, or organizations nominated by sponsors or requestors to represent their interests in a proceeding` |
+
+### 21 U.S.C. § 355h
+
+> Section 505G(b)(2)(A)(iv)(III) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355h(b)(2)(A)(iv)(III)) is amended by striking “requestors” and inserting “sponsors or requestors”.
+
+| | |
+|---|---|
+| Removed | `requestors` |
+| Inserted | `sponsors or requestors` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -179,8 +197,8 @@ complete account of the bill's effect, which it is not.
 | `21 U.S.C. § 379j-72` | replace | in subparagraph (B), by striking “fiscal year 2022” and all that follows through the period at the end and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `21 U.S.C. § 379j-72` | insert | in the matter preceding clause (i), by inserting “the sum of” after “is equal to”; | the bill quotes the text inserted but describes where it goes |
 | `21 U.S.C. § 379j-72` | strike | by striking clause (i); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 379j-72` | redesignate | by redesignating subclauses (I) and (II) as clauses (i) and (ii), respectively, and adjusting the margins accordingly; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 379j-72` | strike | by striking “(ii) for each of fiscal years 2024 and 2025, the sum of”; and | the bill quotes the text struck but describes what replaces it |
+| `21 U.S.C. § 379j-72` | redesignate | by redesignating subclauses (I) and (II) of clause (ii) as clauses (i) and (ii), respectively, and adjusting the margins accordingly; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 379j-72` | strike | by striking “(ii) for each of fiscal years 2024 and 2025, the sum of—”; and | the bill quotes the text struck but describes what replaces it |
 | `21 U.S.C. § 379j-72` | strike | by striking subparagraph (B); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 379j-72` | redesignate | by redesignating subparagraphs (C) and (D) as subparagraphs (B) and (C), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 379j-72` | replace | by striking subparagraphs (A) through (E) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

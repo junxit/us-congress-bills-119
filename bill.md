@@ -28,7 +28,7 @@ Section 744L(9)(A) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j�
 - **(3)** by adding at the end the following:
   > - **(vii)** the addition or modification of a testing procedure applicable to one or more OTC monograph drugs, provided that such additional or modified testing procedure reflects a voluntary consensus standard with respect to pharmaceutical quality that is—
   >   - **(I)** established by a national or international standards development organization; and
-  >   - **(II)** recognized by the Secretary through a process described in guidance for industry, initially published in July 2023, or any successor guidance, publicly available on the agency website, which addresses voluntary consensus standards for pharmaceutical quality.
+  >   - **(II)** recognized by the Secretary through a process described in guidance for industry, initially published in July 2023, or any successor guidance, publicly available on the website of the Food and Drug Administration, which addresses voluntary consensus standards for pharmaceutical quality.
 
 ## § 4. Authority to assess and use OTC monograph fees
 
@@ -99,8 +99,8 @@ Section 744L(9)(A) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j�
     - **(C)** in subparagraph (C)—
       - **(i)** in the matter preceding clause (i), by inserting “the sum of” after “is equal to”;
       - **(ii)** by striking clause (i);
-      - **(iii)** by redesignating subclauses (I) and (II) as clauses (i) and (ii), respectively, and adjusting the margins accordingly;
-      - **(iv)** by striking “(ii) for each of fiscal years 2024 and 2025, the sum of”; and
+      - **(iii)** by redesignating subclauses (I) and (II) of clause (ii) as clauses (i) and (ii), respectively, and adjusting the margins accordingly;
+      - **(iv)** by striking “(ii) for each of fiscal years 2024 and 2025, the sum of—”; and
       - **(v)** in clause (ii), as so redesignated, by striking “Washington-Baltimore, DC–MD–VA–WV” and inserting “Washington–Arlington–Alexandria–DC–VA–MD–WV”;
   - **(2)** in paragraph (2)—
     - **(A)** in subparagraph (A)—
@@ -116,8 +116,8 @@ Section 744L(9)(A) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j�
       > - **(A)** $135,000 for fiscal year 2026;
       > - **(B)** $300,000 for fiscal year 2027;
       > - **(C)** $55,000 for fiscal year 2028;
-      > - **(D)** $0 for fiscal year 2029; and
-      > - **(E)** $30,000 for fiscal year 2030.
+      > - **(D)** $30,000 for fiscal year 2029; and
+      > - **(E)** $0 for fiscal year 2030.
 
   - **(4)** by striking paragraph (4) and inserting the following:
     > - **(4)** *One-time facility fee workload adjustment*
@@ -155,15 +155,20 @@ Section 744N of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–73) i
 - **(2)** in subsection (b), by striking “fiscal year 2021 and each subsequent fiscal year” and inserting “each fiscal year”; and
 - **(3)** in subsection (d), by striking “2025” each place it appears and inserting “2030”.
 
-## § 6. Sunset dates
+## § 6. Regulation of certain nonprescription drugs that are marketed without an approved drug application
+
+- **(a)** *Development advice to sponsors or requestors* Section 505G(h) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355h(h)) is amended by striking “sponsors or requestors” and inserting “sponsors, requestors, or organizations nominated by sponsors or requestors to represent their interests in a proceeding”.
+- **(b)** *Technical correction* Section 505G(b)(2)(A)(iv)(III) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355h(b)(2)(A)(iv)(III)) is amended by striking “requestors” and inserting “sponsors or requestors”.
+
+## § 7. Sunset dates
 
 - **(a)** *Authorization* Sections 744L and 744M of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–71; 379j–72) shall cease to be effective October 1, 2030.
 - **(b)** *Reporting requirements* Section 744N of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–73) shall cease to be effective January 31, 2031.
 
-## § 7. Effective date
+## § 8. Effective date
 
 The amendments made by this Act shall take effect on October 1, 2025, or the date of the enactment of this Act, whichever is later, except that fees under part 10 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–71 et seq.) shall be assessed beginning October 1, 2025, regardless of the date of the enactment of this Act.
 
-## § 8. Savings clause
+## § 9. Savings clause
 
 Notwithstanding the amendments made by this Act, part 10 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–71 et seq.), as in effect on the day before the date of enactment of this Act, shall continue to be in effect with respect to assessing and collecting any fee required by such part for a fiscal year prior to fiscal year 2026.
