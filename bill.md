@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “District of Columbia Judicial Nominations Reform Act”.
+This Act may be cited as the “District of Columbia Judicial Nominations Reform Act of 2025”.
 
 ## § 2. Termination of District of Columbia Judicial Nomination Commission
 
