@@ -60,7 +60,7 @@ This Act may be cited as the “Royalty Transparency Act”.
   - **(2)** *Title 18* Section 208 of title 18, United States Code, is amended by adding at the end the following:
     > - **(e)** Any exemption—
     >   - **(1)** granted under paragraph (1) or (3) of subsection (b) shall be immediately reported to the Committees on Homeland Security and Governmental Affairs and Commerce, Science, and Transportation of the Senate and the Committees on Oversight and Government Reform and Energy and Commerce of the House of Representatives, including a detailed justification for granting the waiver; or
-    >   - **(2)** granted under subpart (C) of part 2640 of title 5 of the Code of Federal Regulations, or any successor regulation, shall be immediately reported to the Committees on Homeland Security and Governmental Affairs and Commerce, Science, and Transportation of the Senate and the Committees on Oversight and Government Reform and Energy and Commerce of the House of Representatives, including a detailed justification for granting the waiver.
+    >   - **(2)** granted under subpart (C) of part 2640 of title 5 of the, Code of Federal Regulations, or any successor regulation, shall be immediately reported to the Committees on Homeland Security and Governmental Affairs and Commerce, Science, and Transportation of the Senate and the Committees on Oversight and Government Reform and Energy and Commerce of the House of Representatives, including a detailed justification for granting the waiver.
 
 - **(c)** *Contents of reports* Section 13104(a)(1) of title 5, United States Code, is amended—
   - **(1)** in subparagraph (A), by inserting “, subject to subparagraph (C)” after “employment by the United States Government”; and
@@ -73,10 +73,10 @@ This Act may be cited as the “Royalty Transparency Act”.
     - **(B)** in the second sentence—
       - **(i)** by inserting “, notwithstanding section 12 of the Stevenson-Wydler Technology Act of 1980 (15 U.S.C. 3710a) and section 209 of title 35,” after “such report shall”; and
       - **(ii)** by inserting “and, in the case of an agency or office, published on the internet website of the agency or office, as the case may be,” after “made available for public inspection”;
-  - **(2)** by striking paragraph (2) and the matter following paragraph (2);
+  - **(2)** by striking paragraph (2) and the matterflush text following paragraph (2);
   - **(3)** by redesignating paragraph (3) as paragraph (2); and
   - **(4)** by adding at the end the following:
-    > - **(3)** *Procedure for releasing reports to Members of Congress* Notwithstanding any other provision of law, not later than 30 days after receiving a request from a Member of Congress, any agency or supervising ethics office in the executive branch shall furnish to the Member of Congress a copy of any report submitted under subsection (b), which shall be unredacted, except with respect to social security numbers, dates of birth, home addresses, rental property addresses, phone numbers, email addresses, financial account numbers, signatures, and the personally identifiable information of dependent children.
+    > - **(3)** *Procedure for releasing reports to Members of Congress* Notwithstanding any other provision of law, not later than 30 days after receiving a request from a Member of Congress, any agency or supervising ethics office in the executive branch shall furnish to the Member of Congress a copy of any report submitted under subsection (b) this subchapter, which shall be unredacted, except with respect to social security numbers, dates of birth, home addresses, rental property addresses, phone numbers, email addresses, financial account numbers, signatures, and the personally identifiable information of dependent children.
 
 - **(e)** *Confidential reports and other additional requirements* Section 13109 of title 5, United States Code, is amended—
   - **(1)** by redesignating subsections (b) and (c) as subsections (f) and (g), respectively; and

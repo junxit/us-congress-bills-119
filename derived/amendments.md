@@ -1,7 +1,7 @@
 ---
 measure: S. 855
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -47,7 +47,7 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 3710a` | insert | in the first sentence, by inserting “and shall, in the case of an agency or office and notwithstanding section 12 of the Stevenson-Wydler Technology Act of 1980 (15 U.S.C. 3710a) and section 209 of title 35, publish such report on the in… | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 3710a` | insert | by inserting “, notwithstanding section 12 of the Stevenson-Wydler Technology Act of 1980 (15 U.S.C. 3710a) and section 209 of title 35,” after “such report shall”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 3710a` | insert | by inserting “and, in the case of an agency or office, published on the internet website of the agency or office, as the case may be,” after “made available for public inspection”; | the bill quotes the text inserted but describes where it goes |
-| `15 U.S.C. § 3710a` | strike | by striking paragraph (2) and the matter following paragraph (2); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 3710a` | strike | by striking paragraph (2) and the matterflush text following paragraph (2); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 3710a` | redesignate | by redesignating paragraph (3) as paragraph (2); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 3710a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 3710a` | redesignate | by redesignating subsections (b) and (c) as subsections (f) and (g), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
