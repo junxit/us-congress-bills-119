@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2791
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,4 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Clause (ii) of section 3703(a)(1)(C) of title 38, United States Code, is amended by striking “25 percent of the Freddie Mac conforming loan limit” and inserting “25 percent of the product of the Freddie Mac conforming loan limit multipli… | the bill names no machine-readable US Code section |
+| — | replace | Clause (ii) of section 3703(a)(1)(C) of title 38, United States Code, is amended by striking “25 percent of the Freddie Mac conforming loan limit” and inserting “37.5 percent of the Freddie Mac conforming loan limit”. | the bill names no machine-readable US Code section |
+| — | replace | The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking the row in subparagraph (E) (relating to interest rate reduction refinancing loans) and inserting the following: | the bill names no machine-readable US Code section |
