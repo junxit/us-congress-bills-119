@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3633
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3633
@@ -40,10 +40,11 @@ Digital Asset Market Clarity Act
 - Rep. Bresnahan, Robert P. [R-PA-8] (B001327)
 - Rep. Stevens, Haley M. [D-MI-11] (S001215)
 
-## Committees (2)
+## Committees (3)
 
 - House — Financial Services Committee
 - House — Agriculture Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -78,3 +79,4 @@ Digital Asset Market Clarity Act
 - 2025-07-17 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 294 - 134 (Roll no. 199).
 - 2025-07-17 — Rule provides for consideration of H.R. 4016, H.R. 3633, H.R. 1919 and S. 1582. The resolution provides for consideration of H.R. 4016 and H.R. 3633 under a structured rule, and H.R. 1919 and S. 1582 under a closed rule, with one hour of general debate on each bill. The resolution provides for a motion to recommit on H.R. 4016, H.R. 3633, and H.R. 1919, and a motion to commit on S. 1582.
 - 2025-07-17 — The previous question was ordered pursuant to the rule.
+- 2025-09-18 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
