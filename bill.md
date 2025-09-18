@@ -1,0 +1,18 @@
+---
+legis-num: S. 2893
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2893
+
+> To require the denial of admission to the United States for individuals subject to sanctions pursuant to Executive Order 13876, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Strengthening Entry Visa Enforcement and Restrictions Act of 2025” or the “SEVER Act of 2025”.
+
+## § 2. Denial of visas to certain representatives to United Nations
+
+Section 407(a)(1) of the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991 (Public Law 101–246; 8 U.S.C. 1102 note) is amended by striking “; and” and inserting “, or is subject to sanctions pursuant to Executive Order 13876 (50 U.S.C. 1701 note; relating to imposing sanctions with respect to Iran), as in effect on September 16, 2025; and”.
