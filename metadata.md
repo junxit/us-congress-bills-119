@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3481
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3481
@@ -23,9 +23,10 @@ Delivering Digitally to Our Veterans Act of 2025
 - Rep. Vindman, Eugene Simon [D-VA-7] (V000138)
 - Rep. Lee, Susie [D-NV-3] (L000590)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Delivering Digitally to Our Veterans Act of 2025
 - 2025-09-17 — Motion to reconsider laid on the table Agreed to without objection.
 - 2025-09-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: 09/15/2025 CR H4295)
 - 2025-09-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: 09/15/2025 CR H4295)
+- 2025-09-18 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
