@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3015
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3015
@@ -28,6 +28,10 @@ National Coal Council Reestablishment Act
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2025-09-18 — [House 119-1-278](votes/house-119-1-0278.md) — On Passage — **Passed** (217–209)
+
 ## Actions
 
 - 2025-04-24 — Introduced in House
@@ -41,3 +45,13 @@ National Coal Council Reestablishment Act
 - 2025-07-02 — Placed on the Union Calendar, Calendar No. 150.
 - 2025-07-02 — Reported by the Committee on Energy and Commerce. H. Rept. 119-185.
 - 2025-07-02 — Reported by the Committee on Energy and Commerce. H. Rept. 119-185.
+- 2025-09-15 — Rules Committee Resolution H. Res. 707 Reported to House. Rule provides for consideration of H.R. 4922, H.R. 5143, H.R. 5140, H.R. 5125, H.R. 1047, H.R. 3015 and H.R. 3062. The resolution provides for consideration of H.R. 4922, H.R. 5143, H.R. 5140, H.R. 5125, H.R. 1047, H.R. 3015, and H.R. 3062 under a closed rule, and provides for a motion to recommit on each measure.
+- 2025-09-18 — Considered as unfinished business. (consideration: CR H4442-4443)
+- 2025-09-18 — Considered under the provisions of rule H. Res. 707. (consideration: CR H4428)
+- 2025-09-18 — DEBATE - The House proceeded with one hour of debate on H.R. 3015.
+- 2025-09-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-09-18 — On passage Passed by the Yeas and Nays: 217 - 209 (Roll no. 278). (text of amendment in the nature of a substitute: CR H4428)
+- 2025-09-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 3015, the Chair put the question on passage of the bill, and by voice vote, announced that the ayes had prevailed. Mr. Pallone demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2025-09-18 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 217 - 209 (Roll no. 278). (text of amendment in the nature of a substitute: CR H4428: 1)
+- 2025-09-18 — Rule provides for consideration of H.R. 4922, H.R. 5143, H.R. 5140, H.R. 5125, H.R. 1047, H.R. 3015 and H.R. 3062. The resolution provides for consideration of H.R. 4922, H.R. 5143, H.R. 5140, H.R. 5125, H.R. 1047, H.R. 3015, and H.R. 3062 under a closed rule, and provides for a motion to recommit on each measure.
+- 2025-09-18 — The previous question was ordered pursuant to the rule.
