@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 5452
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5452
+
+> To amend the Infrastructure Investment and Jobs Act to modify the Safe Streets and Roads for All program.
+
+## § 1. Short title
+
+This Act may be cited as the “Safe Streets for All Reauthorization and Improvement Act”.
+
+## § 2. Safe streets and roads for all program modification
+
+Section 24112 of the Infrastructure Investment and Jobs Act (23 U.S.C. 402 note) is amended—
+
+- **(1)** in subsection (c)(2) by striking subparagraph (B) and inserting the following:
+  > - **(B)** *Planning grants* Of the total amounts made available to carry out the program for fiscal year 2024 and each fiscal year thereafter, not less than 20 percent shall be awarded to eligible projects described in subsection (a)(3)(A).
+
+- **(2)** in subsection (f)(1) by inserting “and $5,000,000,000 for the period of fiscal years 2027 through 2031” after “2026”.
