@@ -1,0 +1,29 @@
+---
+legis-num: S. 2869
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2869
+
+> To require the National Telecommunications and Information Administration to issue an annual report regarding the use of spectrum by the Federal Government in certain bands of frequencies, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Federal Government Spectrum Inventory Act”.
+
+## § 2. Annual reports regarding Federal spectrum usage
+
+- **(a)** *In general* Not later than 180 days after the date of enactment of this Act, and annually thereafter, the National Telecommunications and Information Administration shall issue a report, which shall be known as the Federal Government Spectrum Use Report.
+- **(b)** *Requirements* Each report issued under subsection (a) shall—
+  - **(1)** address the bands of frequencies from 225 megahertz to 50 gigahertz (referred to in this subsection as the “covered bands”);
+  - **(2)** include—
+    - **(A)** an introduction that summarizes the types of Federal spectrum usage in the covered bands;
+    - **(B)** an excerpt from the United States Table of Frequency Allocations, which shall show—
+      - **(i)** the most recent frequency allocations in the covered bands within the United States; and
+      - **(ii)** each relevant footnote, whether international or with respect to the United States, that may authorize additional uses, or impose limits on certain uses, in the covered bands;
+    - **(C)** a table that lists the number and type of frequency assignments that the National Telecommunications and Information Administration has authorized within the covered bands;
+    - **(D)** a summary of the major systems and applications using each frequency band or sub-band within the covered bands; and
+    - **(E)** a description of future uses within each band within the covered bands, where applicable; and
+  - **(3)** be made available on the public website of the National Telecommunications and Information Administration, except that the report shall contain a classified annex.
