@@ -1,7 +1,7 @@
 ---
 measure: S. 2882
 congress: 119
-version: Introduced in Senate
+version: Placed on Calendar Senate
 derived: true
 ---
 
