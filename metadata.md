@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3628
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3628
@@ -29,3 +29,11 @@ State Planning for Reliability and Affordability Act
 - 2025-05-29 — Introduced in House
 - 2025-05-29 — Introduced in House
 - 2025-05-29 — Referred to the House Committee on Energy and Commerce.
+- 2025-06-03 — Referred to the Subcommittee on Energy.
+- 2025-06-05 — Forwarded by Subcommittee to Full Committee by Voice Vote.
+- 2025-06-05 — Subcommittee Consideration and Mark-up Session Held
+- 2025-06-25 — Committee Consideration and Mark-up Session Held
+- 2025-06-25 — Ordered to be Reported by the Yeas and Nays: 25 - 23.
+- 2025-09-19 — Placed on the Union Calendar, Calendar No. 260.
+- 2025-09-19 — Reported by the Committee on Energy and Commerce. H. Rept. 119-306.
+- 2025-09-19 — Reported by the Committee on Energy and Commerce. H. Rept. 119-306.
