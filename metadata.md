@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3015
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3015
@@ -24,9 +24,10 @@ National Coal Council Reestablishment Act
 - Rep. Griffith, H. Morgan [R-VA-9] (G000568)
 - Rep. Houchin, Erin [R-IN-9] (H001093)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -55,3 +56,4 @@ National Coal Council Reestablishment Act
 - 2025-09-18 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 217 - 209 (Roll no. 278). (text of amendment in the nature of a substitute: CR H4428: 1)
 - 2025-09-18 — Rule provides for consideration of H.R. 4922, H.R. 5143, H.R. 5140, H.R. 5125, H.R. 1047, H.R. 3015 and H.R. 3062. The resolution provides for consideration of H.R. 4922, H.R. 5143, H.R. 5140, H.R. 5125, H.R. 1047, H.R. 3015, and H.R. 3062 under a closed rule, and provides for a motion to recommit on each measure.
 - 2025-09-18 — The previous question was ordered pursuant to the rule.
+- 2025-09-19 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
