@@ -1,7 +1,7 @@
 ---
 measure: S. 1092
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1092
@@ -16,7 +16,7 @@ WIPPES Act
 
 - Sen. Merkley, Jeff [D-OR] (M001176)
 
-## Cosponsors (8)
+## Cosponsors (9)
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Blumenthal, Richard [D-CT] (B001277)
@@ -26,6 +26,7 @@ WIPPES Act
 - Sen. Padilla, Alex [D-CA] (P000145)
 - Sen. Wyden, Ron [D-OR] (W000779)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
 
 ## Committees (1)
 
@@ -35,3 +36,7 @@ WIPPES Act
 
 - 2025-03-24 — Introduced in Senate
 - 2025-03-24 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2025-05-21 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2025-09-19 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-63.
+- 2025-09-19 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-63.
+- 2025-09-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 166.
