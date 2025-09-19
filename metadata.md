@@ -1,7 +1,7 @@
 ---
 measure: S. 269
 congress: 119
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 269
@@ -45,3 +45,18 @@ Ending Improper Payments to Deceased People Act
 - 2025-09-19 — Senate amendment agreed to: Amendment SA 3912 agreed to in Senate by Unanimous Consent.
 - 2025-09-19 — Senate amendment proposed (on the floor): Amendment SA 3912 proposed by Senator Thune for Senator Kennedy.
 - 2025-09-19 — Senate amendment submitted
+- 2025-10-08 — Message on Senate action sent to the House.
+- 2025-10-10 — Held at the desk.
+- 2025-10-10 — Received in the House.
+- 2026-01-12 — Considered under suspension of the rules. (consideration: CR H634-637)
+- 2026-01-12 — DEBATE - The House proceeded with forty minutes of debate on S. 269.
+- 2026-01-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-01-12 — Mr. Smith (MO) moved to suspend the rules and pass the bill.
+- 2026-01-12 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H634)
+- 2026-01-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H634)
+- 2026-02-03 — Presented to President.
+- 2026-02-03 — Presented to President.
+- 2026-02-10 — Became Public Law No: 119-77.
+- 2026-02-10 — Became Public Law No: 119-77.
+- 2026-02-10 — Signed by President.
+- 2026-02-10 — Signed by President.
