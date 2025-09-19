@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3062
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3062
@@ -21,11 +21,12 @@ Promoting Cross-border Energy Infrastructure Act
 - Rep. Dunn, Neal P. [R-FL-2] (D000628)
 - Rep. Joyce, John [R-PA-13] (J000302)
 
-## Committees (3)
+## Committees (4)
 
 - House — Natural Resources Committee
 - House — Transportation and Infrastructure Committee
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -66,3 +67,4 @@ Promoting Cross-border Energy Infrastructure Act
 - 2025-09-18 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 224 - 203 (Roll no. 277). (text of amendment in the nature of a substitute: CR H4424: 7)
 - 2025-09-18 — Rule provides for consideration of H.R. 4922, H.R. 5143, H.R. 5140, H.R. 5125, H.R. 1047, H.R. 3015 and H.R. 3062. The resolution provides for consideration of H.R. 4922, H.R. 5143, H.R. 5140, H.R. 5125, H.R. 1047, H.R. 3015, and H.R. 3062 under a closed rule, and provides for a motion to recommit on each measure.
 - 2025-09-18 — The previous question was ordered pursuant to the rule.
+- 2025-09-19 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
