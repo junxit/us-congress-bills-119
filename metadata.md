@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1047
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1047
@@ -36,9 +36,10 @@ GRID Power Act
 - Rep. Onder, Robert F. [R-MO-3] (O000177)
 - Rep. Wittman, Robert J. [R-VA-1] (W000804)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -71,3 +72,4 @@ GRID Power Act
 - 2025-09-18 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 216 - 206 (Roll no. 279). (text of amendment in the nature of a substitute: CR H4433-4434: 1)
 - 2025-09-18 — Rule provides for consideration of H.R. 4922, H.R. 5143, H.R. 5140, H.R. 5125, H.R. 1047, H.R. 3015 and H.R. 3062. The resolution provides for consideration of H.R. 4922, H.R. 5143, H.R. 5140, H.R. 5125, H.R. 1047, H.R. 3015, and H.R. 3062 under a closed rule, and provides for a motion to recommit on each measure.
 - 2025-09-18 — The previous question was ordered pursuant to the rule.
+- 2025-09-19 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
