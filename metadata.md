@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 719
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 719
@@ -16,7 +16,7 @@ Honoring the life and legacy of Charles Charlie James Kirk.
 
 - Rep. Johnson, Mike [R-LA-4] (J000299)
 
-## Cosponsors (165)
+## Cosponsors (196)
 
 - Rep. Schweikert, David [R-AZ-1] (S001183)
 - Rep. Biggs, Andy [R-AZ-5] (B001302)
@@ -183,10 +183,45 @@ Honoring the life and legacy of Charles Charlie James Kirk.
 - Rep. Kustoff, David [R-TN-8] (K000392)
 - Rep. Gill, Brandon [R-TX-26] (G000603)
 - Rep. Zinke, Ryan K. [R-MT-1] (Z000018)
+- Rep. Gosar, Paul A. [R-AZ-9] (G000565)
+- Rep. Biggs, Sheri [R-SC-3] (B001325)
+- Rep. Tiffany, Thomas P. [R-WI-7] (T000165)
+- Rep. Kiggans, Jennifer A. [R-VA-2] (K000399)
+- Rep. Boebert, Lauren [R-CO-4] (B000825)
+- Rep. Grothman, Glenn [R-WI-6] (G000576)
+- Rep. Joyce, David P. [R-OH-14] (J000295)
+- Rep. Edwards, Chuck [R-NC-11] (E000246)
+- Rep. Carter, John R. [R-TX-31] (C001051)
+- Rep. Lee, Laurel M. [R-FL-15] (L000597)
+- Rep. Kiley, Kevin [R-CA-3] (K000401)
+- Rep. Nehls, Troy E. [R-TX-22] (N000026)
+- Rep. Hageman, Harriet M. [R-WY-At Large] (H001096)
+- Rep. Roy, Chip [R-TX-21] (R000614)
+- Rep. Cole, Tom [R-OK-4] (C001053)
+- Rep. Calvert, Ken [R-CA-41] (C000059)
+- Rep. Malliotakis, Nicole [R-NY-11] (M000317)
+- Rep. Estes, Ron [R-KS-4] (E000298)
+- Rep. Downing, Troy [R-MT-2] (D000634)
+- Rep. Onder, Robert F. [R-MO-3] (O000177)
+- Rep. Carey, Mike [R-OH-15] (C001126)
+- Rep. Obernolte, Jay [R-CA-23] (O000019)
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. Bergman, Jack [R-MI-1] (B001301)
+- Rep. Luttrell, Morgan [R-TX-8] (L000603)
+- Rep. McCormick, Richard [R-GA-7] (M001218)
+- Rep. Hurd, Jeff [R-CO-3] (H001100)
+- Rep. Fulcher, Russ [R-ID-1] (F000469)
+- Rep. Clyde, Andrew S. [R-GA-9] (C001116)
+- Rep. Harris, Andy [R-MD-1] (H001052)
+- Rep. James, John [R-MI-10] (J000307)
 
 ## Committees (1)
 
 - House — Oversight and Government Reform Committee
+
+## Recorded votes (1)
+
+- 2025-09-19 — [House 119-1-282](votes/house-119-1-0282.md) — On Agreeing to the Resolution — **Passed** (310–58)
 
 ## Actions
 
@@ -194,3 +229,13 @@ Honoring the life and legacy of Charles Charlie James Kirk.
 - 2025-09-16 — Rules Committee Resolution H. Res. 722 Reported to House. Rule provides for consideration of H.R. 5371 and H. Res. 719. The resolution provides for consideration of H.R. 5371 and H. Res. 719 under a closed rule with one hour of general debate and one motion to recommit on H.R. 5371.
 - 2025-09-16 — Submitted in House
 - 2025-09-16 — Submitted in House
+- 2025-09-17 — Rule H. Res. 722 passed House.
+- 2025-09-18 — Considered under the provisions of rule H. Res. 722. (consideration: CR H4437)
+- 2025-09-18 — DEBATE - The House proceeded with one hour of debate on H. Res. 719.
+- 2025-09-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.Res 719, the Chair put the question on agreeing to the resolution, and by voice vote, announced that the ayes had prevailed. Mr. Biggs (AZ) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2025-09-18 — Rule provides for consideration of H.R. 5371 and H. Res. 719. The resolution provides for consideration of H.R. 5371 and H. Res. 719 under a closed rule with one hour of general debate and one motion to recommit on H.R. 5371.
+- 2025-09-18 — The previous question was ordered on the resolution and the preamble pursuant to the rule.
+- 2025-09-19 — Considered as unfinished business. (consideration: CR H4477-4478)
+- 2025-09-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-09-19 — On agreeing to the resolution Agreed to by the Yeas and Nays: 310 - 58, 38 Present (Roll no. 282). (text: CR 9/18/2025 H4437)
+- 2025-09-19 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 310 - 58, 38 Present (Roll no. 282).
