@@ -1,0 +1,24 @@
+---
+legis-num: S. 2919
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2919
+
+> To amend the Sarbanes-Oxley Act of 2002 to promote transparency by permitting the Public Company Accounting Oversight Board to allow its disciplinary proceedings to be open to the public, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “PCAOB Enforcement Transparency Act of 2025”.
+
+## § 2. Open meetings authorized
+
+Section 105(c) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7215(c)) is amended by striking paragraph (2) and inserting the following:
+
+> - **(2)** *Public hearings* Hearings under this section shall be open to the public, unless the Board, on its own motion or after considering the motion of a party, orders otherwise.
+
+## § 3. Publication of determinations
+
+Section 105(d)(1)(C) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7215(d)(1)(C)) is amended by striking “(once any stay on the imposition of such sanction has been lifted)”.
