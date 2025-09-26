@@ -1,7 +1,7 @@
 ---
 measure: H.R. 659
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 659
@@ -16,9 +16,12 @@ Veterans Law Judge Experience Act of 2025
 
 - Rep. Brownley, Julia [D-CA-26] (B001285)
 
-## Cosponsors (1)
+## Cosponsors (4)
 
 - Rep. Grijalva, Raúl M. [D-AZ-7] (G000551)
+- Rep. Soto, Darren [D-FL-9] (S001200)
+- Rep. Ramirez, Delia C. [D-IL-3] (R000617)
+- Rep. Garcia, Robert [D-CA-42] (G000598)
 
 ## Committees (1)
 
@@ -29,3 +32,11 @@ Veterans Law Judge Experience Act of 2025
 - 2025-01-23 — Introduced in House
 - 2025-01-23 — Introduced in House
 - 2025-01-23 — Referred to the House Committee on Veterans' Affairs.
+- 2025-03-04 — Referred to the Subcommittee on Disability Assistance and Memorial Affairs.
+- 2025-06-24 — Subcommittee Hearings Held
+- 2025-07-03 — Subcommittee on Disability Assistance and Memorial Affairs Discharged
+- 2025-07-23 — Committee Consideration and Mark-up Session Held
+- 2025-07-23 — Ordered to be Reported by Voice Vote.
+- 2025-09-26 — Placed on the Union Calendar, Calendar No. 263.
+- 2025-09-26 — Reported by the Committee on Veterans' Affairs. H. Rept. 119-309.
+- 2025-09-26 — Reported by the Committee on Veterans' Affairs. H. Rept. 119-309.
