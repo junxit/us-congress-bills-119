@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Protect Children’s Innocence Act of 2025”.
+This Act may be cited as the “Protect Children’s Innocence Act”.
 
 ## § 2. Genital and bodily mutilation of a minor; chemical castration of a minor
 
@@ -38,14 +38,17 @@ This Act may be cited as the “Protect Children’s Innocence Act of 2025”.
   >     - **(A)** *In general* Genital or bodily mutilation or chemical castration is not a violation of this section if such genital or bodily mutilation or chemical castration is—
   >       - **(i)** necessary to the health of the minor on whom it is conducted, and is conducted by a person licensed in the place of such conduct as a medical practitioner; or
   >       - **(ii)** in the case of female genital mutilation, performed on a minor in labor or who has just given birth and is performed for medical purposes connected with that labor or birth by a person licensed in the place it is performed as a medical practitioner, midwife, or person in training to become such a practitioner or midwife.
-  >     - **(B)** *Health of a minor* For the purposes of subparagraph (A), the health of a minor does not include a mental health disorder.
+  >     - **(B)** *Health of a minor* For the purposes of subparagraph (A), the health of a minor does not include—
+  >       - **(i)** mental, behavioral, or emotional distress; or
+  >       - **(ii)** a mental, behavioral, or emotional disorder.
   >   - **(2)** *Exemption* Genital or bodily mutilation or chemical castration is not a violation of this section if such genital or bodily mutilation or chemical castration is conducted with respect to any of the following individuals:
   >     - **(A)** An individual with both ovarian and testicular tissue.
   >     - **(B)** An individual with respect to whom a physician has determined through genetic or biochemical testing that the individual does not have normal sex chromosome structure, sex steroid hormone production, or sex steroid hormone action.
-  >     - **(C)** An individual experiencing infection, disease, injury, or disorder caused or exacerbated by previous gender transition procedures.
+  >     - **(C)** An individual experiencing infection, disease, injury, or disorder caused or exacerbated by a previous genital or bodily mutilation procedure or chemical castration.
   >     - **(D)** An individual suffering from a physical disorder, physical injury, or physical illness that would, as certified by a physician, place the individual in imminent danger of impairment of a major bodily function unless the procedure is performed.
+  >     - **(E)** An individual diagnosed with precocious puberty, to the extent such genital or bodily mutilation or chemical castration is for the purpose of normalizing puberty.
   > - **(h)** *Definitions* In this section:
-  >   - **(1)** *Genital or bodily mutilation* The term “genital or bodily mutilation” means, with respect to an individual, any of the following:
+  >   - **(1)** *Genital or bodily mutilation* The term genital or bodily mutilation means, with respect to an individual, any of the following:
   >     - **(A)** Female genital mutilation.
   >     - **(B)** Any surgery performed for the purpose of changing the body of such individual to correspond to a sex that differs from their biological sex, including—
   >       - **(i)** castration;
@@ -64,19 +67,22 @@ This Act may be cited as the “Protect Children’s Innocence Act of 2025”.
   >       - **(xiv)** reduction thyrochondroplasty;
   >       - **(xv)** chondrolaryngoplasty; and
   >       - **(xvi)** mastectomy.
-  >     - **(C)** Any plastic surgery that feminizes or masculinizes the facial features for the purposes described in subparagraph (B).
+  >     - **(C)** Any plastic surgery that feminizes or masculinizes the facial or other physiological features for the purposes described in subparagraph (B).
   >     - **(D)** Any placement of chest implants to create feminine breasts for the purposes described in subparagraph (B).
   >     - **(E)** Any placement of fat or artificial implants in the gluteal region for the purposes described in subparagraph (B).
-  >   - **(2)** *Chemical castration* The term “chemical castration” means administering, supplying, prescribing, dispensing, distributing, or otherwise conveying to an individual medications for the purposes described in paragraph (1)(B), including—
+  >     - **(F)** Any surgery to reconstruct the fixed part of the urethra, whether or not such surgery includes a metoidioplasty or a phalloplasty, for the purposes described in subparagraph (B).
+  >   - **(2)** *Chemical castration* The term chemical castration means administering, supplying, prescribing, dispensing, distributing, or otherwise conveying to an individual medications for the purposes described in paragraph (1)(B), including—
   >     - **(A)** gonadotropin-releasing hormone (GnRH) analogues or other puberty-blocking drugs to stop or delay normal puberty;
   >     - **(B)** testosterone or other androgens to biological females at doses that are supraphysiologic to the female sex; and
   >     - **(C)** estrogen to biological males at doses that are supraphysiologic to the male sex.
-  >   - **(3)** *Biological sex* The term biological sex means the indication of male or female sex by reproductive potential or capacity, sex chromosomes, naturally occurring sex hormones, gonads, or internal or external genitalia present at birth.
-  >   - **(4)** *Female genital mutilation* The term “female genital mutilation” means any procedure performed for non-medical reasons that involves partial or total removal of, or other injury to, the external female genitalia, and includes—
+  >   - **(3)** *Biological sex* The term biological sex means, with respect to a person, the classification of the person as male or female at birth.
+  >   - **(4)** *Female genital mutilation* The term female genital mutilation means any procedure performed for non-medical reasons that involves partial or total removal of, or other injury to, the external female genitalia, and includes—
   >     - **(A)** a clitoridectomy or the partial or total removal of the clitoris or the prepuce or clitoral hood;
   >     - **(B)** excision or the partial or total removal (with or without excision of the clitoris) of the labia minora or the labia majora, or both;
   >     - **(C)** infibulation or the narrowing of the vaginal opening (with or without excision of the clitoris); or
   >     - **(D)** other procedures that are harmful to the external female genitalia, including pricking, incising, scraping, or cauterizing the genital area.
   >   - **(5)** *Minor* The term minor means any person under the age of eighteen years.
+  >   - **(6)** *Male* The term male means a person who naturally has, had, will have, or would have, but for a congenital anomaly, historical accident, or intentional or unintentional disruption, the reproductive system that at some point produces, transports, and utilizes sperm for fertilization.
+  >   - **(7)** *Female* The term female means a person who naturally has, had, will have, or would have, but for a congenital anomaly, historical accident, or intentional or unintentional disruption, the reproductive system that at some point produces, transports, and utilizes eggs for fertilization.
 
 - **(b)** *Clerical amendment* The table of sections for chapter 7 of title 18, United States Code, is amended by striking the item related to section 116 and inserting the following:

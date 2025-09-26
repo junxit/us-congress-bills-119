@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3492
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3492
@@ -16,7 +16,7 @@ Protect Children’s Innocence Act
 
 - Rep. Greene, Marjorie Taylor [R-GA-14] (G000596)
 
-## Cosponsors (38)
+## Cosponsors (44)
 
 - Rep. Crane, Elijah [R-AZ-2] (C001132)
 - Rep. Finstad, Brad [R-MN-1] (F000475)
@@ -56,6 +56,12 @@ Protect Children’s Innocence Act
 - Rep. McDowell, Addison P. [R-NC-6] (M001240)
 - Rep. Harshbarger, Diana [R-TN-1] (H001086)
 - Rep. Gooden, Lance [R-TX-5] (G000589)
+- Rep. Rulli, Michael A. [R-OH-6] (R000619)
+- Rep. Guest, Michael [R-MS-3] (G000591)
+- Rep. Moore, Barry [R-AL-1] (M001212)
+- Rep. Carter, Earl L. "Buddy" [R-GA-1] (C001103)
+- Rep. Gosar, Paul A. [R-AZ-9] (G000565)
+- Rep. Hinson, Ashley [R-IA-2] (H001091)
 
 ## Committees (1)
 
@@ -66,3 +72,8 @@ Protect Children’s Innocence Act
 - 2025-05-19 — Introduced in House
 - 2025-05-19 — Introduced in House
 - 2025-05-19 — Referred to the House Committee on the Judiciary.
+- 2025-06-10 — Committee Consideration and Mark-up Session Held
+- 2025-06-10 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 17 - 10.
+- 2025-09-26 — Placed on the Union Calendar, Calendar No. 265.
+- 2025-09-26 — Reported (Amended) by the Committee on Judiciary. H. Rept. 119-311.
+- 2025-09-26 — Reported (Amended) by the Committee on Judiciary. H. Rept. 119-311.
