@@ -1,7 +1,7 @@
 ---
 measure: S. 428
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -33,7 +33,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | amend | Section 50701 of title 51, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | The table of sections for chapter 507 of title 51, United States Code, is amended by striking the item relating to section 50701 and inserting the following: | the bill names no machine-readable US Code section |
-| — | insert | Subsection (a) of section 50702 of title 51, United States Code, is amended by inserting before the period at the end the following: “, which, not later than 5 years after the date of the enactment of this Act, shall be elevated by the S… | the bill names no machine-readable US Code section |
+| — | insert | Subsection (a) of section 50702 of title 51, United States Code, is amended by inserting before the period at the end the following: “, which, not later than 5 years after the date of the enactment of the SAFE Orbit Actthis Act , shall b… | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (4), by striking “; and” and inserting a semicolon; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (5), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
