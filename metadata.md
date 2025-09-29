@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 418
 congress: 119
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 418
@@ -57,3 +57,7 @@ A resolution expressing support for the designation of the week of September 20 
 
 - 2025-09-19 — Introduced in Senate
 - 2025-09-19 — Referred to the Committee on Environment and Public Works.
+- 2025-09-29 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2025-09-29 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (text: CR 9/19/2025 S6795-6796)
+- 2025-09-29 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.
+- 2025-09-29 — Senate Committee on Environment and Public Works discharged by Unanimous Consent. (consideration: CR S6844)
