@@ -1,7 +1,7 @@
 ---
 measure: S. 428
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 428
@@ -34,3 +34,7 @@ SAFE Orbit Act
 
 - 2025-02-05 — Introduced in Senate
 - 2025-02-05 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2025-03-12 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment favorably.
+- 2025-09-29 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with amendments. With written report No. 119-65.
+- 2025-09-29 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with amendments. With written report No. 119-65.
+- 2025-09-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 170.
