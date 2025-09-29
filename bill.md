@@ -13,49 +13,68 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 - **(a)** *Definitions* In this section:
   - **(1)** *Applicable legislative officers* The term applicable legislative officers means—
-    - **(A)** with respect to a Member of the Senate, the Sergeant at Arms and Doorkeeper of the Senate and the Secretary of the Senate, acting jointly; and
-    - **(B)** with respect to a Member of, or Delegate or Resident Commissioner to, the House of Representatives, the Sergeant at Arms of the House of Representatives and the Chief Administrative Officer of the House of Representatives, acting jointly.
+    - **(A)** with respect to a Member of the Senate or a designated Senate employee, the Sergeant at Arms and Doorkeeper of the Senate and the Secretary of the Senate, acting jointly; and
+    - **(B)** with respect to a Member of, or Delegate or Resident Commissioner to, the House of Representatives or a designated House employee, the Sergeant at Arms of the House of Representatives and the Chief Administrative Officer of the House of Representatives, acting jointly.
   - **(2)** *At-risk individual* The term at-risk individual means—
     - **(A)** a Member of Congress;
     - **(B)** any individual who is the spouse, parent, sibling, or child of an individual described in subparagraph (A);
     - **(C)** any individual to whom an individual described in subparagraph (A) stands in loco parentis;
     - **(D)** any other individual living in the household of an individual described in subparagraph (A);
-    - **(E)** any employee whose pay is disbursed by the Secretary of the Senate who is identified by the Director of Senate Security as the target of an ongoing threat; or
-    - **(F)** any employee whose pay is disbursed by the Chief Administrative Officer of the House of Representatives who is identified by the Director of the Office of House Security as the target of an ongoing threat.
-  - **(3)** *Covered information* The term covered information means—
-    - **(A)** a home address, including a primary residence or secondary residences;
-    - **(B)** a home or personal mobile telephone number;
-    - **(C)** a personal email address;
-    - **(D)** a social security number or driver’s license number;
-    - **(E)** a bank account or credit or debit card number;
-    - **(F)** a license plate number or other unique identifier of a vehicle owned, leased, or regularly used by an at-risk individual;
-    - **(G)** the identification of a child, who is under 18 years of age, of an at-risk individual;
-    - **(H)** information regarding current or future school or day care attendance, including the name or addresses of the school or day care;
-    - **(I)** information regarding schedules of school or day care attendance or routes taken to or from the school or day care by an at-risk individual;
-    - **(J)** information regarding routes taken to or from an employment location by an at-risk individual; or
-    - **(K)** precise geolocation data that is not anonymized and can identify the location of a device of an at-risk individual.
-  - **(4)** *Data broker*
+    - **(E)** any designated Senate employee;
+    - **(F)** any designated House employee; or
+    - **(G)** a former Member of Congress.
+  - **(3)** *Candidate* The term candidate has the meaning given the term in section 301 of the Federal Election Campaign Act of 1971 (52 U.S.C. 30101).
+  - **(4)** *Covered employee* The term covered employee has the same meaning given such term in section 101 of the Congressional Accountability Act of 1995 (2 U.S.C. 1301).
+  - **(5)** *Covered information* The term covered information—
+    - **(A)** means—
+      - **(i)** a home address, including a primary residence or secondary residences;
+      - **(ii)** a home or personal mobile telephone number;
+      - **(iii)** a personal email address;
+      - **(iv)** a social security number or driver’s license number;
+      - **(v)** a bank account or credit or debit card number;
+      - **(vi)** a license plate number or other unique identifier of a vehicle owned, leased, or regularly used by an at-risk individual;
+      - **(vii)** the identification of a child, who is under 18 years of age, of an at-risk individual;
+      - **(viii)** information regarding current or future school or day care attendance, including the name or addresses of the school or day care;
+      - **(ix)** information regarding schedules of school or day care attendance or routes taken to or from the school or day care by an at-risk individual;
+      - **(x)** information regarding routes taken to or from an employment location by an at-risk individual; or
+      - **(xi)** precise geolocation data that is not anonymized and can identify the location of a device of an at-risk individual; and
+    - **(B)** does not include information described in subparagraph (A) that is contained in—
+      - **(i)** any report or other record required to be filed with the Federal Election Commission; or
+      - **(ii)** any report or other record otherwise required under Federal or State law to be filed—
+        - **(I)** by an individual to qualify as a candidate for the office of Member of Congress; or
+        - **(II)** by any candidate for the office of Member of Congress.
+  - **(6)** *Data broker*
     - **(A)** *In general* The term data broker means a commercial entity engaged in collecting, assembling, or maintaining personal information concerning an individual who is not a customer, client, or an employee of that entity in order to sell the information or otherwise profit from providing third-party access to the information.
     - **(B)** *Exclusion* The term data broker does not include a commercial entity engaged in the following activities:
       - **(i)** Engaging in reporting, news-gathering, speaking, or other activities intended to inform the public on matters of public interest or public concern.
       - **(ii)** Providing 411 directory assistance or directory information services, including name, address, and telephone number, on behalf of or as a function of a telecommunications carrier.
       - **(iii)** Using personal information internally, providing access to businesses under common ownership or affiliated by corporate control, or selling or providing data for a transaction or service requested by or concerning the individual whose personal information is being transferred.
       - **(iv)** Providing publicly available information via real-time or near-real-time alert services for health or safety purposes.
-      - **(v)** A consumer reporting agency subject to the Fair Credit Reporting Act (15 U.S.C. 1681 et seq.).
+      - **(v)** A consumer reporting agency, only while engaging in activity subject to the Fair Credit Reporting Act (15 U.S.C. 1681 et seq.).
       - **(vi)** A financial institution subject to the Gramm-Leach-Bliley Act (Public Law 106–102) and regulations implementing that Act.
       - **(vii)** A covered entity for purposes of the privacy regulations promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note).
       - **(viii)** The collection and sale or licensing of covered information incidental to conducting the activities described in clauses (i) through (vii).
-  - **(5)** *Government agency* The term Government agency includes—
+  - **(7)** *Designated House employee* The term designated House employee means—
+    - **(A)** a covered employee designated in writing by—
+      - **(i)** a Member of, or Delegate or Resident Commissioner to, the House of Representatives; or
+      - **(ii)** an officer of the House of Representatives; or
+    - **(B)** an officer of the House of Representatives.
+  - **(8)** *Designated Senate employee* The term designated Senate employee means—
+    - **(A)** a covered employee designated in writing by—
+      - **(i)** a Member of the Senate; or
+      - **(ii)** an officer of the Senate; or
+    - **(B)** an officer of the Senate.
+  - **(9)** *Government agency* The term Government agency includes—
     - **(A)** an Executive agency, as defined in section 105 of title 5, United States Code; and
     - **(B)** any agency in the judicial branch or legislative branch.
-  - **(6)** *Immediate family member* The term immediate family member means an at-risk individual—
+  - **(10)** *Immediate family member* The term immediate family member means an at-risk individual—
     - **(A)** who is the spouse, parent, sibling, or child of another at-risk individual;
     - **(B)** to whom another at-risk individual stands in loco parentis; or
     - **(C)** living in the household of another at-risk individual.
-  - **(7)** *Member of Congress* The term Member of Congress means—
+  - **(11)** *Member of Congress* The term Member of Congress means—
     - **(A)** a Member of the Senate; or
     - **(B)** a Member of, or Delegate or Resident Commissioner to, the House of Representatives.
-  - **(8)** *Transfer* The term transfer means to sell, license, trade, or exchange for consideration the covered information of an at-risk individual.
+  - **(12)** *Transfer* The term transfer means to sell, license, trade, or exchange for consideration the covered information of an at-risk individual.
 - **(b)** *Government agencies*
   - **(1)** *In general* Each at-risk individual may—
     - **(A)** file written notice of the status of the individual as an at-risk individual, for themselves and their immediate family members, with each Government agency that includes information necessary to ensure compliance with this section, as determined by the applicable legislative officers; and
@@ -69,9 +88,14 @@ chamber: IN THE SENATE OF THE UNITED STATES
     - **(C)** executes a confidentiality agreement with the Government agency.
 - **(c)** *Delegation of authority*
   - **(1)** *In general* An at-risk individual may directly, or through an agent designated by the at-risk individual, make any notice or request required or authorized by this section on behalf of the at-risk individual. The notice or request shall include information necessary to ensure compliance with this section.
-  - **(2)** *Authorization of legislative officers to make requests*
-    - **(A)** *Legislative officers* Upon written request of a Member of Congress, the applicable legislative officers are authorized to make any notice or request required or authorized by this section on behalf of the Member of Congress. The notice or request shall include information necessary to ensure compliance with this section, as determined by the applicable legislative officers. Any notice or request made under this paragraph shall be deemed to have been made by the Member of Congress and comply with the notice and request requirements of this section.
-    - **(B)** *List* In lieu of individual notices or requests, the applicable legislative officers may provide Government agencies, data brokers, persons, businesses, or associations with a list of Members of Congress and their immediate family members that includes information necessary to ensure compliance with this section, as determined by the applicable legislative officers for the purpose of maintaining compliance with this section. Such list shall be deemed to comply with individual notice and request requirements of this section.
+  - **(2)** *Authorization of legislative officers and employees to make requests*
+    - **(A)** *Legislative officers* Upon written request of a Member of Congress, designated Senate employee, or designated House employee, the applicable legislative officers are authorized to make any notice or request required or authorized by this section on behalf of the Member of Congress, designated Senate employee, or designated House employee, respectively. The notice or request shall include information necessary to ensure compliance with this section, as determined by the applicable legislative officers. Any notice or request made under this subparagraph shall be deemed to have been made by the Member of Congress, designated Senate employee, or designated House employee, as applicable, and comply with the notice and request requirements of this section.
+    - **(B)** *List*
+      - **(i)** *In general* In lieu of individual notices or requests, the applicable legislative officers may provide Government agencies, data brokers, persons, businesses, or associations with a list of—
+        - **(I)** Members of Congress, designated Senate employees, and designated House employees making a written request described in subparagraph (A); and
+        - **(II)** immediate family members of the Members of Congress, designated Senate employees, and designated House employees on whose behalf the written request was made.
+      - **(ii)** *Contents* A list provided under clause (i) shall include information necessary to ensure compliance with this section, as determined by the applicable legislative officers for the purpose of maintaining compliance with this section.
+      - **(iii)** *Compliance with notice and request requirement* A list provided under clause (i) shall be deemed to comply with individual notice and request requirements of this section.
 - **(d)** *Data brokers and other businesses*
   - **(1)** *Prohibitions*
     - **(A)** *Data brokers* It shall be unlawful for a data broker to knowingly sell, license, trade for consideration, or purchase covered information of an at-risk individual.
@@ -80,7 +104,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
       - **(ii)** *Exceptions* Clause (i) shall not apply to—
         - **(I)** the display on the internet of the covered information of an at-risk individual if the information is relevant to and displayed as part of a news story, commentary, editorial, or other speech on a matter of public concern;
         - **(II)** covered information that the at-risk individual voluntarily publishes on the internet after the date of enactment of this Act; or
-        - **(III)** covered information received from a Federal Government source (or from an employee or agent of the Federal Government).
+        - **(III)** covered information lawfully received from a Federal Government source (or from an employee or agent of the Federal Government).
   - **(2)** *Required conduct*
     - **(A)** *In general* After receiving a written request under paragraph (1)(B)(i), the person, business, or association shall—
       - **(i)** remove within 72 hours the covered information from the internet and ensure that the information is not made available on any website or subsidiary website controlled by that person, business, or association; and
