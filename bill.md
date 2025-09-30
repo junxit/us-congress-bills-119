@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 5629
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5629
+
+> To provide that the final rule of the Department of Health and Human Services titled “Medications for the Treatment of Opioid Use Disorder”, except for the portion of the final rule relating to accreditation of opioid treatment programs, shall have no force or effect.
+
+## § 1. Rule relating to medications for the treatment of opioid use disorder
+
+- **(a)** *In general* Except as provided by subsection (b), the final rule of the Department of Health and Human Services titled “Medications for the Treatment of Opioid Use Disorder” (89 Fed. Reg. 7549; published February 2, 2024) shall have no force or effect.
+- **(b)** *Exception* Subsection (a) shall not apply to the portion of the final rule that makes modifications to subpart B of part 8 of title 42, Code of Federal Regulations (relating to accreditation of opioid treatment programs).
