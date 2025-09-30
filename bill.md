@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “District of Columbia Attorney General Appointment Reform Act”.
+This Act may be cited as the “District of Columbia Attorney General Appointment Reform Act of 2025”.
 
 ## § 2. Appointment of Attorney General for District of Columbia by President
 
