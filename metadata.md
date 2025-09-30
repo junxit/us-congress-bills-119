@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5107
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5107
@@ -16,7 +16,7 @@ Common-Sense Law Enforcement and Accountability Now in DC Act of 2025
 
 - Rep. Clyde, Andrew S. [R-GA-9] (C001116)
 
-## Cosponsors (28)
+## Cosponsors (29)
 
 - Rep. Higgins, Clay [R-LA-3] (H001077)
 - Rep. Stauber, Pete [R-MN-8] (S001212)
@@ -46,6 +46,7 @@ Common-Sense Law Enforcement and Accountability Now in DC Act of 2025
 - Rep. Ogles, Andrew [R-TN-5] (O000175)
 - Rep. Cuellar, Henry [D-TX-28] (C001063)
 - Rep. Arrington, Jodey C. [R-TX-19] (A000375)
+- Rep. Hinson, Ashley [R-IA-2] (H001091)
 
 ## Committees (1)
 
@@ -56,3 +57,8 @@ Common-Sense Law Enforcement and Accountability Now in DC Act of 2025
 - 2025-09-03 — Introduced in House
 - 2025-09-03 — Introduced in House
 - 2025-09-03 — Referred to the House Committee on Oversight and Government Reform.
+- 2025-09-10 — Committee Consideration and Mark-up Session Held
+- 2025-09-10 — Ordered to be Reported (Amended) by the Yeas and Nays: 26 - 19.
+- 2025-09-30 — Placed on the Union Calendar, Calendar No. 271.
+- 2025-09-30 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 119-317.
+- 2025-09-30 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 119-317.

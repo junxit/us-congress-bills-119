@@ -11,8 +11,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Common-Sense Law Enforcement and Accountability Now in DC Act” or the “CLEAN DC Act”.
+This Act may be cited as the “Common-Sense Law Enforcement and Accountability Now in DC Act of 2025” or the “CLEAN DC Act of 2025”.
 
-## § 2. Repeal of Comprehensive Policing and Justice Reform Amendment Act of 2022
+## § 2. Repeal of certain provisions of Comprehensive Policing and Justice Reform Amendment Act of 2022
 
-The Comprehensive Policing and Justice Reform Amendment Act of 2022 (D.C. Law 24–345) is repealed, and any provision of law amended or repealed by that Act shall be restored or revived as if that Act had not been enacted into law.
+- **(a)** *In general* Except as provided in subsection (b), the Comprehensive Policing and Justice Reform Amendment Act of 2022 (D.C. Law 24–345) is hereby repealed, and any provision of law amended or repealed by such Act is restored or revived as if such Act had not been enacted into law.
+- **(b)** *Exception* The repeal under subsection (a) shall not apply with respect to—
+  - **(1)** subtitle S of title I of such Act (sec. 5–365.01 et seq., D.C. Official Code); and
+  - **(2)** subtitle A of title I of such Act (sec. 5–125.01 et seq. and sec. 5–302, D.C. Official Code).
