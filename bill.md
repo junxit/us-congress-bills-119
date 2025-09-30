@@ -21,4 +21,4 @@ This Act may be cited as the “Fair and Accountable IRS Reviews Act”.
 - **(b)** *Immediate supervisor defined* Section 6751(b) of such Code is amended by adding at the end the following new paragraph:
   > - **(3)** *Immediate supervisor* For purposes of this subsection, the term “immediate supervisor” means, with respect to an individual making a determination under paragraph (1), the person to whom such individual reports.
 
-- **(c)** *Effective date* The amendments made by this subsection shall apply to notices issued, and penalties assessed, after December 31, 2025.
+- **(c)** *Effective date* The amendments made by this section shall apply to notices issued, and penalties assessed, after December 31, 2025.
