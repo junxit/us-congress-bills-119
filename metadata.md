@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3965
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3965
@@ -16,7 +16,7 @@ PEARL Act
 
 - Rep. Gonzales, Tony [R-TX-23] (G000594)
 
-## Cosponsors (11)
+## Cosponsors (12)
 
 - Rep. Correa, J. Luis [D-CA-46] (C001110)
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
@@ -29,6 +29,7 @@ PEARL Act
 - Rep. Davis, Donald G. [D-NC-1] (D000230)
 - Rep. De La Cruz, Monica [R-TX-15] (D000594)
 - Rep. Kennedy, Timothy M. [D-NY-26] (K000402)
+- Rep. Lawler, Michael [R-NY-17] (L000599)
 
 ## Committees (1)
 
@@ -40,3 +41,9 @@ PEARL Act
 - 2025-06-12 — Introduced in House
 - 2025-06-12 — Referred to the House Committee on Homeland Security.
 - 2025-06-12 — Referred to the Subcommittee on Border Security and Enforcement.
+- 2025-06-25 — Committee Consideration and Mark-up Session Held
+- 2025-06-25 — Ordered to be Reported by Voice Vote.
+- 2025-06-25 — Subcommittee on Border Security and Enforcement Discharged
+- 2025-09-30 — Placed on the Union Calendar, Calendar No. 268.
+- 2025-09-30 — Reported by the Committee on Homeland Security. H. Rept. 119-314.
+- 2025-09-30 — Reported by the Committee on Homeland Security. H. Rept. 119-314.
