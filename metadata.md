@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5214
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5214
@@ -16,10 +16,11 @@ District of Columbia Cash Bail Reform Act of 2025
 
 - Rep. Stefanik, Elise M. [R-NY-21] (S001196)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Rep. James, John [R-MI-10] (J000307)
 - Rep. Moore, Tim [R-NC-14] (M001236)
+- Rep. Nehls, Troy E. [R-TX-22] (N000026)
 
 ## Committees (1)
 
@@ -30,3 +31,8 @@ District of Columbia Cash Bail Reform Act of 2025
 - 2025-09-08 — Introduced in House
 - 2025-09-08 — Introduced in House
 - 2025-09-08 — Referred to the House Committee on Oversight and Government Reform.
+- 2025-09-10 — Committee Consideration and Mark-up Session Held
+- 2025-09-10 — Ordered to be Reported (Amended) by the Yeas and Nays: 26 - 19.
+- 2025-09-30 — Placed on the Union Calendar, Calendar No. 269.
+- 2025-09-30 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 119-315.
+- 2025-09-30 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 119-315.
