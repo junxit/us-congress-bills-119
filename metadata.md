@@ -1,7 +1,7 @@
 ---
 measure: H.R. 165
 congress: 119
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 165
@@ -39,3 +39,7 @@ Wounded Knee Massacre Memorial and Sacred Site Act
 - 2025-01-22 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 22). (text: 1/21/2025 CR H246-247)
 - 2025-01-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 416 - 0 (Roll no. 22). (text: 1/21/2025 CR H246-247)
 - 2025-01-23 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
+- 2025-03-05 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2025-10-02 — Committee on Indian Affairs. Reported by Senator Murkowski without amendment. With written report No. 119-72.
+- 2025-10-02 — Committee on Indian Affairs. Reported by Senator Murkowski without amendment. With written report No. 119-72.
+- 2025-10-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 177.
