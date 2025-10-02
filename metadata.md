@@ -1,7 +1,7 @@
 ---
 measure: H.R. 165
 congress: 119
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 165
@@ -43,3 +43,12 @@ Wounded Knee Massacre Memorial and Sacred Site Act
 - 2025-10-02 — Committee on Indian Affairs. Reported by Senator Murkowski without amendment. With written report No. 119-72.
 - 2025-10-02 — Committee on Indian Affairs. Reported by Senator Murkowski without amendment. With written report No. 119-72.
 - 2025-10-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 177.
+- 2025-12-11 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8685)
+- 2025-12-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2025-12-15 — Message on Senate action sent to the House.
+- 2025-12-18 — Presented to President.
+- 2025-12-18 — Presented to President.
+- 2025-12-19 — Became Public Law No: 119-61.
+- 2025-12-19 — Became Public Law No: 119-61.
+- 2025-12-19 — Signed by President.
+- 2025-12-19 — Signed by President.
