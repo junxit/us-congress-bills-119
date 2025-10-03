@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Firearm Due Process Protection Act”.
+This Act may be cited as the “Firearm Due Process Protection Act of 2025”.
 
 ## § 2. Enforcement of deadline for final disposition of requests to correct records of the National Instant Criminal Background Check System; due process protections
 

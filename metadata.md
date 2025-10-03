@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2184
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2184
@@ -16,7 +16,7 @@ Firearm Due Process Protection Act of 2025
 
 - Rep. Emmer, Tom [R-MN-6] (E000294)
 
-## Cosponsors (14)
+## Cosponsors (24)
 
 - Rep. Bean, Aaron [R-FL-4] (B001314)
 - Rep. Biggs, Andy [R-AZ-5] (B001302)
@@ -32,6 +32,16 @@ Firearm Due Process Protection Act of 2025
 - Rep. Tenney, Claudia [R-NY-24] (T000478)
 - Rep. Timmons, William R. [R-SC-4] (T000480)
 - Rep. Reschenthaler, Guy [R-PA-14] (R000610)
+- Rep. Van Drew, Jefferson [R-NJ-2] (V000133)
+- Rep. Newhouse, Dan [R-WA-4] (N000189)
+- Rep. Grothman, Glenn [R-WI-6] (G000576)
+- Rep. Mann, Tracey [R-KS-1] (M000871)
+- Rep. Barr, Andy [R-KY-6] (B001282)
+- Rep. Rogers, Mike D. [R-AL-3] (R000575)
+- Rep. Calvert, Ken [R-CA-41] (C000059)
+- Rep. Stefanik, Elise M. [R-NY-21] (S001196)
+- Rep. Fischbach, Michelle [R-MN-7] (F000470)
+- Rep. Hamadeh, Abraham J. [R-AZ-8] (H001098)
 
 ## Committees (1)
 
@@ -42,3 +52,8 @@ Firearm Due Process Protection Act of 2025
 - 2025-03-18 — Introduced in House
 - 2025-03-18 — Introduced in House
 - 2025-03-18 — Referred to the House Committee on the Judiciary.
+- 2025-03-25 — Committee Consideration and Mark-up Session Held
+- 2025-03-25 — Ordered to be Reported (Amended) by Voice Vote.
+- 2025-10-03 — Placed on the Union Calendar, Calendar No. 290.
+- 2025-10-03 — Reported (Amended) by the Committee on Judiciary. H. Rept. 119-338.
+- 2025-10-03 — Reported (Amended) by the Committee on Judiciary. H. Rept. 119-338.
