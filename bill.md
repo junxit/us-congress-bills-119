@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “NICS Data Reporting Act”.
+This Act may be cited as the “NICS Data Reporting Act of 2025”.
 
 ## § 2. NICS report
 

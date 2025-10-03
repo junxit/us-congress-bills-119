@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2267
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2267
@@ -30,3 +30,8 @@ NICS Data Reporting Act of 2026
 - 2025-03-21 — Introduced in House
 - 2025-03-21 — Introduced in House
 - 2025-03-21 — Referred to the House Committee on the Judiciary.
+- 2025-03-25 — Committee Consideration and Mark-up Session Held
+- 2025-03-25 — Ordered to be Reported (Amended) by Voice Vote.
+- 2025-10-03 — Placed on the Union Calendar, Calendar No. 288.
+- 2025-10-03 — Reported (Amended) by the Committee on Judiciary. H. Rept. 119-336.
+- 2025-10-03 — Reported (Amended) by the Committee on Judiciary. H. Rept. 119-336.
