@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3419
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3419
@@ -29,3 +29,11 @@ To amend the Public Health Service Act to reauthorize the telehealth network and
 - 2025-05-14 — Introduced in House
 - 2025-05-14 — Introduced in House
 - 2025-05-14 — Referred to the House Committee on Energy and Commerce.
+- 2025-09-10 — Forwarded by Subcommittee to Full Committee by Voice Vote.
+- 2025-09-10 — Referred to the Subcommittee on Health.
+- 2025-09-10 — Subcommittee Consideration and Mark-up Session Held
+- 2025-09-17 — Committee Consideration and Mark-up Session Held
+- 2025-09-17 — Ordered to be Reported by the Yeas and Nays: 48 - 0.
+- 2025-10-03 — Placed on the Union Calendar, Calendar No. 275.
+- 2025-10-03 — Reported by the Committee on Energy and Commerce. H. Rept. 119-322.
+- 2025-10-03 — Reported by the Committee on Energy and Commerce. H. Rept. 119-322.
