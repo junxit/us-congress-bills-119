@@ -15,7 +15,7 @@ This Act may be cited as the “Claiming Age Clarity Act”.
 
 ## § 2. Changes to social security terminology
 
-Not later than January 1, 2027, the Commissioner of Social Security shall ensure that, in any rules, regulation, guidance, or other materials of the Social Security Administration, whether online or in print—
+Not later than the later of the date that is 12 months after the date of enactment of this Act or January 1, 2027, the Commissioner of Social Security shall ensure that, in any rules, regulation, guidance, or other materials of the Social Security Administration, whether online or in print—
 
 - **(1)** the term early eligibility age is replaced with the term minimum monthly benefit age;
 - **(2)** the terms full retirement age and normal retirement age are replaced with the term standard monthly benefit age; and
