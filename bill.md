@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Strong Sentences for Safer D.C. Streets Act”.
+This Act may be cited as the “Strong Sentences for Safer D.C. Streets Act of 2025”.
 
 ## § 2. Increase in mandatory minimum sentences for certain crimes in District of Columbia
 
@@ -22,9 +22,9 @@ This Act may be cited as the “Strong Sentences for Safer D.C. Streets Act”.
   - **(2)** *Conforming amendment relating to sentencing procedure* Section 801a of the Act to establish a code of law for the District of Columbia, approved March 3, 1901 (sec. 22–2104.01, D.C. Official Code) is repealed.
   - **(3)** *Conforming amendment relating to conditions for imposition of sentence in excess of 60 years* Section 3a(b–2)(1) of the Act to establish a Board of Indeterminate Sentence and Parole for the District of Columbia and to determine its functions, and for other purposes, approved July 15, 1932 (sec. 24–403.01(b–2)(1), D.C. Official Code) is amended by striking “in excess of 60 years for first degree murder or first degree murder while armed,”.
 - **(b)** *Second degree murder* Section 801(c) of the Act to establish a code of law for the District of Columbia, approved March 3, 1901 (sec. 22–2104(c), D.C. Official Code) is amended by striking “not more than life” and inserting “not less than 10 years or more than life”.
-- **(c)** *Rape and first degree sexual abuse* Section 801a of the Act to establish a code of law for the District of Columbia, approved March 3, 1901 (sec. 22–2104.01, D.C. Official Code) is repealed.
+- **(c)** *Rape and first degree sexual abuse*
   - **(1)** *Mandatory minimum for rape* Section 3(b) of the Act to establish a Board of Indeterminate Sentence and Parole for the District of Columbia and to determine its functions, and for other purposes, approved July 15, 1932 (sec. 24–403(b), D.C. Official Code) is amended by striking “shall not be less than 7 years if the violation occurs after the person has been convicted in the District of Columbia or elsewhere of a crime of violence, as so defined” and inserting “shall be not less than 25 years or, if the violation occurs after the person has been convicted in the District of Columbia or elsewhere of a crime of violence, as so defined, shall be not less than 30 years”.
-  - **(2)** *Mandatory minimum for first degree sexual abuse* Section 201(a) of the Anti-Sexual Abuse Act of 1994 (sec. 22–3002(a), D.C. Official Code) is amended by striking “for any term of years or life” and inserting “for a term of not less than 25 years or more than life”.
+  - **(2)** *Mandatory minimum for first degree sexual abuse* Section 201(a) of the Anti-Sexual Abuse Act of 1994 (sec. 22–3002(a), D.C. Official Code) is amended by striking “for any term of years or for life” and inserting “for a term of not less than 25 years or more than life”.
   - **(3)** *Removal of requirement of aggravating circumstances for imposition of sentence in excess of 30 years* Section 201(b) of the Anti-Sexual Abuse Act of 1994 (sec. 22–3002(b), D.C. Official Code) is amended by striking “The court may impose” and inserting “Except in the case of a sentence imposed under subsection (a) or imposed on a person convicted of rape pursuant to section 3(b) of the Act to establish a Board of Indeterminate Sentence and Parole for the District of Columbia and to determine its functions, and for other purposes, approved July 15, 1932, the court may impose”.
 - **(d)** *Kidnaping* Section 812 of the Act to establish a code of law for the District of Columbia, approved March 3, 1901 (sec. 22–2001, D.C. Official Code) is amended by striking “not more than 30 years” and inserting “not less than 10 years or more than 30 years”.
 - **(e)** *Car jacking*
@@ -34,4 +34,4 @@ This Act may be cited as the “Strong Sentences for Safer D.C. Streets Act”.
 
 ## § 3. Effective date
 
-This Act and the amendments made by this Act shall apply with respect to individuals charged on or after the date of the enactment of this Act with an offense to which such an amendment applies.
+This Act, and the amendments made by this Act, shall apply with respect to criminal conduct that occurred after the date of the enactment of this Act.
