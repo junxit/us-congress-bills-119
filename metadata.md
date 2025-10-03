@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2846
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2846
@@ -16,9 +16,12 @@ To amend title II of the Public Health Service Act to include as an additional r
 
 - Rep. Houlahan, Chrissy [D-PA-6] (H001085)
 
-## Cosponsors (1)
+## Cosponsors (4)
 
 - Rep. Bacon, Don [R-NE-2] (B001298)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
+- Rep. Tokuda, Jill N. [D-HI-2] (T000487)
 
 ## Committees (1)
 
@@ -29,3 +32,11 @@ To amend title II of the Public Health Service Act to include as an additional r
 - 2025-04-10 — Introduced in House
 - 2025-04-10 — Introduced in House
 - 2025-04-10 — Referred to the House Committee on Energy and Commerce.
+- 2025-09-10 — Forwarded by Subcommittee to Full Committee by Voice Vote.
+- 2025-09-10 — Referred to the Subcommittee on Health.
+- 2025-09-10 — Subcommittee Consideration and Mark-up Session Held
+- 2025-09-17 — Committee Consideration and Mark-up Session Held
+- 2025-09-17 — Ordered to be Reported by the Yeas and Nays: 46 - 0.
+- 2025-10-03 — Placed on the Union Calendar, Calendar No. 280.
+- 2025-10-03 — Reported by the Committee on Energy and Commerce. H. Rept. 119-327.
+- 2025-10-03 — Reported by the Committee on Energy and Commerce. H. Rept. 119-327.
