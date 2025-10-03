@@ -21,33 +21,38 @@ Section 203 of the Robert T. Stafford Disaster Relief and Emergency Assistance A
 
 ## § 3. Hazard mitigation revolving loan fund program
 
-Section 205(f)(5) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5135(f)(5)) is amended—
+Section 205(f) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5135(f)) is amended—
 
-- **(1)** in the paragraph heading by striking “Establishing” and insert “Implementing”;
-- **(2)** by striking “establish” and insert “implement”;
-- **(3)** by inserting “2” after “latest”; and
-- **(4)** by inserting “, including any amendments made by State, local, Tribal, or territorial governments to such codes, specifications, and standards,” after “standards”.
+- **(1)** by striking paragraph (5); and
+- **(2)** by redesignating paragraphs (6), (7), and (8) as paragraphs (5), (6), and (7), respectively.
 
 ## § 4. Residential retrofit and resilience pilot program
 
-- **(a)** *Establishment* The Administrator of the Federal Emergency Management Agency shall carry out a residential resilience pilot program through the program established under section 203 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5133) to make available assistance to States and local governments for the purpose of providing grants to individuals for residential resilience retrofits.
-- **(b)** *Amount of funds* The Administrator may use not more than 10 percent of the assistance made available to applicants on an annual basis under section 203 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5133) to provide assistance under this section.
-- **(c)** *Timeline* The Administrator shall establish the pilot program under this section not later than 1 year after the date of enactment of this Act and the program shall terminate on September 30, 2028.
-- **(d)** *Priority* In carrying out the pilot program under this section, the Administrator shall ensure that a State or local government receiving assistance under the program provides grants to individuals that demonstrate financial need.
-- **(e)** *Report* Not later than 4 years after the date of enactment of this Act, the Administrator shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate a report that includes—
+- **(a)** *Definitions* In this section:
+  - **(1)** *Administrator* The term Administrator means the Administrator of the Federal Emergency Management Agency.
+  - **(2)** *Residential resilient retrofits* The term residential resilient retrofits—
+    - **(A)** means a project that—
+      - **(i)** is designed to increase the resilience of an existing home or residence using mitigation measures that the Administrator determines reduce damage and impacts from natural disaster hazards and risks that are most likely to occur in the area where the home is located; and
+      - **(ii)** to the extent applicable, are consistent with the 2 most recently published editions of relevant consensus-based codes, specifications, and standards, including any amendments made by State, local, Tribal, or territorial governments to those codes, specifications, and standards that incorporate the latest hazard-resistant designs and establish criteria for the design, construction, and maintenance of residential structures and facilities that may be eligible for assistance under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) for the purpose of protecting the health, safety, and general welfare of users of the buildings against disasters; and
+    - **(B)** includes—
+      - **(i)** elevations of homes and elevations of utilities within and around structures to mitigate damages;
+      - **(ii)** floodproofing measures;
+      - **(iii)** the construction of tornado safe rooms;
+      - **(iv)** seismic retrofits;
+      - **(v)** wildfire retrofit and mitigation measures;
+      - **(vi)** wind retrofits, including roof replacements, hurricane straps, and tie-downs; and
+      - **(vii)** any other measures that meet the requirements of subparagraph (A), as determined by the Administrator.
+- **(b)** *Establishment* The Administrator shall carry out a residential resilience pilot program through the program established under section 203 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5133) to make available assistance to States and local governments for the purpose of providing grants to individuals for residential resilience retrofits.
+- **(c)** *Amount of funds* The Administrator may use not more than 10 percent of the assistance made available to applicants on an annual basis under section 203 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5133) to provide assistance under this section.
+- **(d)** *Timeline* The Administrator shall establish the pilot program under this section not later than 1 year after the date of enactment of this Act and the program shall terminate on September 30, 2030.
+- **(e)** *Priority* In carrying out the pilot program under this section, the Administrator shall ensure that a State or local government receiving assistance under the program provides grants to individuals that demonstrate financial need.
+- **(f)** *Report* Not later than 6 years after the date of enactment of this Act, the Administrator shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that includes—
   - **(1)** a summary of the grant awards and projects carried out under this section;
-  - **(2)** a detailed compilation of results achieved by the grant awards and projects carried out under this section, including the number of homes receiving retrofits, the types and average costs of retrofits, demographic information for participants in the program, and estimate avoidance in disaster impacts and Federal disaster payments as a result of the grant investments; and
-  - **(3)** any identified implementation challenges and recommendations for improvements to the pilot program.
-- **(f)** *Applicability* This section shall only apply to amounts appropriated on or after the date of enactment of this Act.
-- **(g)** *Residential resilient retrofits defined*
-  - **(1)** *In general* In this section, the term residential resilient retrofits means a project that—
-    - **(A)** is designed to increase the resilience of an existing home or residence using mitigation measures which the administrator determines reduce damage and impacts from natural disaster hazards and risks that are most likely to occur in the area where the home is located; and
-    - **(B)** to the extent applicable, are consistent with the 2 most recently published editions of relevant consensus-based codes, specifications, and standards, including any amendments made by State, local, tribal, or territorial governments to such codes, specifications, and standards that incorporate the latest hazard-resistant designs and establish criteria for the design, construction, and maintenance of residential structures and facilities that may be eligible for assistance under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.) for the purpose of protecting the health, safety, and general welfare of the buildings’ users against disasters.
-  - **(2)** *Inclusion* In this section, the term residential resilient retrofits includes—
-    - **(A)** elevations of homes and elevations of utilities within and around structures to mitigate damages;
-    - **(B)** floodproofing measures;
-    - **(C)** the construction of tornado safe rooms;
-    - **(D)** seismic retrofits;
-    - **(E)** wildfire retrofit and mitigation measures;
-    - **(F)** wind retrofits, including roof replacements, hurricane straps, and tie-downs; and
-    - **(G)** any other measures that meet the requirements of paragraph (1), as determined by the Administrator.
+  - **(2)** a detailed compilation of results achieved by the grant awards and projects carried out under this section, including the number of homes receiving retrofits, the types and average costs of retrofits, and demographic information for participants in the pilot program;
+  - **(3)** an estimate of avoidance in disaster impacts and Federal disaster payments as a result of the grant investments carried out under this section, and whether that avoidance is different than other mitigation projects funded through section 203 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5133); and
+  - **(4)** any identified implementation challenges and recommendations for improvements to the pilot program.
+- **(g)** *Applicability* This section shall only apply to amounts appropriated on or after the date of enactment of this Act.
+
+## § 5. Rule of construction
+
+Nothing in this Act or the amendments made by this Act shall be construed to affect any program other than the predisaster hazard mitigation program or the hazard mitigation revolving loan fund program established under section 203 or 205 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5133, 5135), respectively.
