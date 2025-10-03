@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2462
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2462
@@ -16,7 +16,7 @@ Black Vulture Relief Act
 
 - Rep. Rose, John W. [R-TN-6] (R000612)
 
-## Cosponsors (14)
+## Cosponsors (26)
 
 - Rep. Soto, Darren [D-FL-9] (S001200)
 - Rep. Rouzer, David [R-NC-7] (R000603)
@@ -32,6 +32,18 @@ Black Vulture Relief Act
 - Rep. Alford, Mark [R-MO-4] (A000379)
 - Rep. Graves, Sam [R-MO-6] (G000546)
 - Rep. Rulli, Michael A. [R-OH-6] (R000619)
+- Rep. Harrigan, Pat [R-NC-10] (H001101)
+- Rep. Sessions, Pete [R-TX-17] (S000250)
+- Rep. Carter, Earl L. "Buddy" [R-GA-1] (C001103)
+- Rep. Lucas, Frank D. [R-OK-3] (L000491)
+- Rep. Collins, Mike [R-GA-10] (C001129)
+- Rep. Kustoff, David [R-TN-8] (K000392)
+- Rep. Knott, Brad [R-NC-13] (K000405)
+- Rep. Massie, Thomas [R-KY-4] (M001184)
+- Rep. Cole, Tom [R-OK-4] (C001053)
+- Rep. Miller, Max L. [R-OH-7] (M001222)
+- Rep. Yakym, Rudy [R-IN-2] (Y000067)
+- Rep. Hill, J. French [R-AR-2] (H001072)
 
 ## Committees (1)
 
@@ -42,3 +54,8 @@ Black Vulture Relief Act
 - 2025-03-27 — Introduced in House
 - 2025-03-27 — Introduced in House
 - 2025-03-27 — Referred to the House Committee on Natural Resources.
+- 2025-07-15 — Committee Consideration and Mark-up Session Held
+- 2025-07-15 — Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 22 - 18.
+- 2025-10-03 — Placed on the Union Calendar, Calendar No. 286.
+- 2025-10-03 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-334.
+- 2025-10-03 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-334.
