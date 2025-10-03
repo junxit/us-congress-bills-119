@@ -1,0 +1,23 @@
+---
+legis-num: S. 2969
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 2969
+
+> To amend title 54, United States Code, to provide that State law shall apply to the use of motor vehicles on roads within a System unit.
+
+## § 1. Application of State law applicable to the use of motor vehicles on roads within a System unit
+
+- **(a)** *In general* Subchapter II of chapter 1015 of title 54, United States Code, is amended by adding at the end the following:
+  > ## § 101513. State law
+  >
+  > - **(a)** *Definitions* In this section:
+  >   - **(1)** *Off-highway vehicle* The term off-highway vehicle shall be defined by the State in which the applicable System unit is located, in accordance with the law of the State.
+  >   - **(2)** *Road* The term road means the main-traveled surface of a roadway open to motor vehicles that is owned, controlled, or otherwise administered by the Service.
+  > - **(b)** *Applicable law* The law of the State in which a System unit is located shall apply to the use of motor vehicles (including off-highway vehicles) on roads within a System unit.
+  > - **(c)** *Violations* Violating a provision of State law applicable to a System unit under subsection (b) shall be prohibited in the applicable System unit.
+
+- **(b)** *Clerical amendment* The analysis for subchapter II of chapter 1015 of title 54, United States Code, is amended by adding at the end the following:
