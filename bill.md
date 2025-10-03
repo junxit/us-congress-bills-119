@@ -13,8 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 - **(a)** *Short title* This Act may be cited as the “Tax Court Improvement Act”.
 - **(b)** *Amendment of 1986 code* Except as otherwise expressly provided, whenever in this Act an amendment is expressed in terms of an amendment to a section or other provision, the reference shall be considered to be made to a section or other provision of the Internal Revenue Code of 1986.
-- **(c)** *References to Secretary* For purposes of this Act, the term Secretary means the Secretary of the Treasury or the Secretary’s delegate.
-- **(d)** *Table of contents* The table of contents of this Act is as follows:
+- **(c)** *Table of contents* The table of contents of this Act is as follows:
 
 ## § 2. Authorization of subpoenas before hearings to facilitate settlements
 
@@ -36,7 +35,7 @@ Section 7456(a) is amended to read as follows:
 - **(c)** *Contempt authority* Section 7443A is amended by adding at the end the following new subsection:
   > - **(f)** *Incidental powers* A special trial judge appointed under this section shall have the power to punish for contempt of the authority of the Tax Court as provided in section 7456(c), except the sentence imposed by such a special trial judge for any contempt shall not exceed the penalties for a Class C misdemeanor as set forth in sections 3571(b)(6) and 3581(b)(8) of title 18, United States Code. This subsection shall not be construed to limit the authority of a special trial judge to order sanctions under any other statute or any rule of the Tax Court prescribed pursuant to section 7453.
 
-- **(d)** *Effective date* The amendment made by subsections (a) and (b) shall take effect on the date the United States Tax Court adopts rules implementing the consent procedures of section 7443A.
+- **(d)** *Effective date* The amendments made by subsections (a) and (b) shall take effect on the date the United States Tax Court adopts rules implementing the consent procedures of section 7443A.
 
 ## § 4. Disqualification of judges and special trial judges
 
@@ -65,5 +64,5 @@ Section 7456(a) is amended to read as follows:
   - **(2)** by adding at the end the following new paragraph:
     > - **(2)** *Exception* Paragraph (1) shall not apply with respect to any dismissal which is solely based on a determination of the Tax Court not to toll the period for filing a petition under section 6213(a).
 
-- **(c)** *Effective date* The amendments made by this subsection shall apply to filings made after the date of the enactment of this Act.
+- **(c)** *Effective date* The amendments made by this section shall apply to filings made after the date of the enactment of this Act.
 - **(d)** *No inference* The amendment made by subsections (a) shall not be construed to create any inference with respect to the jurisdiction of the Tax Court with respect to any petition filed on or before the date of the enactment of this Act.
