@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4346
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4346
@@ -16,9 +16,12 @@ PEACE Act of 2025
 
 - Rep. Nunn, Zachary [R-IA-3] (N000193)
 
-## Cosponsors (1)
+## Cosponsors (4)
 
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
+- Rep. Barrett, Tom [R-MI-7] (B001321)
+- Rep. Conaway, Herbert C. [D-NJ-3] (C001136)
+- Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
 
 ## Committees (1)
 
@@ -29,3 +32,8 @@ PEACE Act of 2025
 - 2025-07-10 — Introduced in House
 - 2025-07-10 — Introduced in House
 - 2025-07-10 — Referred to the House Committee on Financial Services.
+- 2025-07-22 — Committee Consideration and Mark-up Session Held
+- 2025-07-22 — Ordered to be Reported (Amended) by the Yeas and Nays: 53 - 1.
+- 2025-10-03 — Placed on the Union Calendar, Calendar No. 277.
+- 2025-10-03 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-324.
+- 2025-10-03 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-324.
