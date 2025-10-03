@@ -1,7 +1,7 @@
 ---
 measure: H.R. 281
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 281
@@ -32,3 +32,8 @@ Grizzly Bear State Management Act
 - 2025-01-09 — Introduced in House
 - 2025-01-09 — Introduced in House
 - 2025-01-09 — Referred to the House Committee on Natural Resources.
+- 2025-07-15 — Committee Consideration and Mark-up Session Held
+- 2025-07-15 — Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 20 - 19.
+- 2025-10-03 — Placed on the Union Calendar, Calendar No. 281.
+- 2025-10-03 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-328.
+- 2025-10-03 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-328.
