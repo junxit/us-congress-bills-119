@@ -1,7 +1,7 @@
 ---
 measure: H.R. 38
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 38
@@ -16,7 +16,7 @@ Constitutional Concealed Carry Reciprocity Act of 2025
 
 - Rep. Hudson, Richard [R-NC-9] (H001067)
 
-## Cosponsors (119)
+## Cosponsors (189)
 
 - Rep. Murphy, Gregory F. [R-NC-3] (M001210)
 - Rep. Hern, Kevin [R-OK-1] (H001082)
@@ -137,6 +137,76 @@ Constitutional Concealed Carry Reciprocity Act of 2025
 - Rep. Haridopolos, Mike [R-FL-8] (H001099)
 - Rep. Moore, Tim [R-NC-14] (M001236)
 - Rep. Carter, John R. [R-TX-31] (C001051)
+- Rep. Lucas, Frank D. [R-OK-3] (L000491)
+- Rep. Obernolte, Jay [R-CA-23] (O000019)
+- Rep. McDowell, Addison [R-NC-6] (M001240)
+- Rep. Taylor, David [R-OH-2] (T000490)
+- Rep. Hill, J. French [R-AR-2] (H001072)
+- Rep. Rogers, Harold [R-KY-5] (R000395)
+- Rep. De La Cruz, Monica [R-TX-15] (D000594)
+- Rep. Smith, Adrian [R-NE-3] (S001172)
+- Rep. Harris, Andy [R-MD-1] (H001052)
+- Rep. Golden, Jared F. [D-ME-2] (G000592)
+- Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
+- Rep. Evans, Gabe [R-CO-8] (E000300)
+- Rep. Tiffany, Thomas P. [R-WI-7] (T000165)
+- Rep. Lee, Laurel M. [R-FL-15] (L000597)
+- Rep. Burchett, Tim [R-TN-2] (B001309)
+- Rep. Fallon, Pat [R-TX-4] (F000246)
+- Rep. Sessions, Pete [R-TX-17] (S000250)
+- Rep. Loudermilk, Barry [R-GA-11] (L000583)
+- Rep. Webster, Daniel [R-FL-11] (W000806)
+- Rep. Messmer, Mark [R-IN-8] (M001233)
+- Rep. Moore, Riley [R-WV-2] (M001235)
+- Rep. Burlison, Eric [R-MO-7] (B001316)
+- Rep. Knott, Brad [R-NC-13] (K000405)
+- Rep. Onder, Robert [R-MO-3] (O000177)
+- Rep. Westerman, Bruce [R-AR-4] (W000821)
+- Rep. Bentz, Cliff [R-OR-2] (B000668)
+- Rep. Walberg, Tim [R-MI-5] (W000798)
+- Rep. Rulli, Michael A. [R-OH-6] (R000619)
+- Rep. Downing, Troy [R-MT-2] (D000634)
+- Rep. Harris, Mark [R-NC-8] (H001102)
+- Rep. Cloud, Michael [R-TX-27] (C001115)
+- Rep. Edwards, Chuck [R-NC-11] (E000246)
+- Rep. Van Orden, Derrick [R-WI-3] (V000135)
+- Rep. DesJarlais, Scott [R-TN-4] (D000616)
+- Rep. Steube, W. Gregory [R-FL-17] (S001214)
+- Rep. Gosar, Paul A. [R-AZ-9] (G000565)
+- Rep. Rogers, Mike D. [R-AL-3] (R000575)
+- Rep. Miller, Max L. [R-OH-7] (M001222)
+- Rep. Stutzman, Marlin A. [R-IN-3] (S001188)
+- Rep. Flood, Mike [R-NE-1] (F000474)
+- Rep. McGuire, John [R-VA-5] (M001239)
+- Rep. Fong, Vince [R-CA-20] (F000480)
+- Rep. Steil, Bryan [R-WI-1] (S001213)
+- Rep. Miller-Meeks, Mariannette [R-IA-1] (M001215)
+- Rep. Hamadeh, Abraham [R-AZ-8] (H001098)
+- Rep. Kiggans, Jennifer A. [R-VA-2] (K000399)
+- Rep. Calvert, Ken [R-CA-41] (C000059)
+- Rep. Newhouse, Dan [R-WA-4] (N000189)
+- Rep. Baumgartner, Michael [R-WA-5] (B001322)
+- Rep. Valadao, David G. [R-CA-22] (V000129)
+- Rep. Barr, Andy [R-KY-6] (B001282)
+- Rep. Baird, James R. [R-IN-4] (B001307)
+- Rep. Smucker, Lloyd [R-PA-11] (S001199)
+- Rep. Kennedy, Mike [R-UT-3] (K000403)
+- Rep. Mills, Cory [R-FL-7] (M001216)
+- Rep. Wied, Tony [R-WI-8] (W000829)
+- Rep. Hurd, Jeff [R-CO-3] (H001100)
+- Rep. Barrett, Tom [R-MI-7] (B001321)
+- Rep. Kelly, Trent [R-MS-1] (K000388)
+- Rep. Stefanik, Elise M. [R-NY-21] (S001196)
+- Rep. Greene, Marjorie Taylor [R-GA-14] (G000596)
+- Rep. Jack, Brian [R-GA-3] (J000311)
+- Rep. Donalds, Byron [R-FL-19] (D000032)
+- Rep. Fedorchak, Julie [R-ND-At Large] (F000482)
+- Rep. Fine, Randy [R-FL-6] (F000484)
+- Rep. McCormick, Richard [R-GA-7] (M001218)
+- Rep. Carey, Mike [R-OH-15] (C001126)
+- Rep. Kelly, Mike [R-PA-16] (K000376)
+- Rep. James, John [R-MI-10] (J000307)
+- Rep. Patronis, Jimmy [R-FL-1] (P000622)
 
 ## Committees (1)
 
@@ -147,3 +217,8 @@ Constitutional Concealed Carry Reciprocity Act of 2025
 - 2025-01-03 — Introduced in House
 - 2025-01-03 — Introduced in House
 - 2025-01-03 — Referred to the House Committee on the Judiciary.
+- 2025-03-25 — Committee Consideration and Mark-up Session Held
+- 2025-03-25 — Ordered to be Reported (Amended) by the Yeas and Nays: 18 - 9.
+- 2025-10-03 — Placed on the Union Calendar, Calendar No. 289.
+- 2025-10-03 — Reported (Amended) by the Committee on Judiciary. H. Rept. 119-337.
+- 2025-10-03 — Reported (Amended) by the Committee on Judiciary. H. Rept. 119-337.
