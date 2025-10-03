@@ -1,7 +1,7 @@
 ---
 measure: H.R. 845
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 845
@@ -16,7 +16,7 @@ Pet and Livestock Protection Act
 
 - Rep. Boebert, Lauren [R-CO-4] (B000825)
 
-## Cosponsors (31)
+## Cosponsors (37)
 
 - Rep. Tiffany, Thomas P. [R-WI-7] (T000165)
 - Rep. Begich, Nicholas [R-AK-At Large] (B001323)
@@ -49,6 +49,12 @@ Pet and Livestock Protection Act
 - Rep. Stauber, Pete [R-MN-8] (S001212)
 - Rep. Van Orden, Derrick [R-WI-3] (V000135)
 - Rep. Wied, Tony [R-WI-8] (W000829)
+- Rep. Miller, Max L. [R-OH-7] (M001222)
+- Rep. Joyce, David P. [R-OH-14] (J000295)
+- Rep. Clyde, Andrew S. [R-GA-9] (C001116)
+- Rep. Carter, Earl L. "Buddy" [R-GA-1] (C001103)
+- Rep. Rulli, Michael A. [R-OH-6] (R000619)
+- Rep. Baumgartner, Michael [R-WA-5] (B001322)
 
 ## Committees (1)
 
@@ -59,3 +65,11 @@ Pet and Livestock Protection Act
 - 2025-01-31 — Introduced in House
 - 2025-01-31 — Introduced in House
 - 2025-01-31 — Referred to the House Committee on Natural Resources.
+- 2025-03-18 — Referred to the Subcommittee on Water, Wildlife and Fisheries.
+- 2025-03-25 — Subcommittee Hearings Held
+- 2025-04-09 — Committee Consideration and Mark-up Session Held
+- 2025-04-09 — Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 24 - 17.
+- 2025-04-09 — Subcommittee on Water, Wildlife and Fisheries Discharged
+- 2025-10-03 — Placed on the Union Calendar, Calendar No. 285.
+- 2025-10-03 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-332.
+- 2025-10-03 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-332.

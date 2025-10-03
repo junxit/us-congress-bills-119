@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Pet and Livestock Protection Act of 2025”.
+This Act may be cited as the “Pet and Livestock Protection Act”.
 
 ## § 2. Removing the gray wolf from the list of endangered and threatened wildlife
 
