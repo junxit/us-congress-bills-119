@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 422
 congress: 119
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 422
@@ -34,3 +34,7 @@ A resolution recognizing the seriousness of polycystic ovary syndrome (PCOS) and
 
 - 2025-09-30 — Introduced in Senate
 - 2025-09-30 — Referred to the Committee on Health, Education, Labor, and Pensions.
+- 2025-10-06 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2025-10-06 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S6959; text: CR 9/30/2025 S6877)
+- 2025-10-06 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2025-10-06 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.

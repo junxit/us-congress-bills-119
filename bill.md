@@ -13,7 +13,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 - Whereas polycystic ovary syndrome (referred to in this preamble as “PCOS”) is a common health problem among women and girls involving a hormonal imbalance;
 - Whereas there is no universal definition of PCOS, but researchers estimate that 10 percent of women in the United States are affected by the condition;
-- Whereas, according to a 2023 study, the annual burden of PCOS in the United States is estimated to be in excess of $15,000,000,000, and this estimate does not include— (1) the cost of all comorbidities in post-menopause or adolescence; or (2) indirect and intangible costs related to the disorder;
+- Whereas, according to a 2023 study, the annual burden of PCOS in the United States is estimated to be in excess of $15,000,000,000, and this estimate does not include—(1)the cost of all comorbidities in post-menopause or adolescence; or(2)indirect and intangible costs related to the disorder;
 - Whereas PCOS can affect girls at the onset of puberty and throughout the remainder of their lives;
 - Whereas the symptoms of PCOS include infertility, irregular or absent menstrual periods, acne, weight gain, thinning of scalp hair, excessive facial and body hair growth, numerous small ovarian cysts, pelvic pain, and mental health problems;
 - Whereas women with PCOS have higher rates of mental health disorders, including depression, anxiety, bipolar disorder, and eating disorders, and are at greater risk for suicide;
