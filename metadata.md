@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 406
 congress: 119
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 406
@@ -53,3 +53,7 @@ A resolution designating September 30, 2025, as "Impact Aid Recognition Day" to 
 
 - 2025-09-18 — Introduced in Senate
 - 2025-09-18 — Referred to the Committee on the Judiciary. (text: CR S6737)
+- 2025-10-06 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2025-10-06 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S6959; text: CR 9/18/2025 S6737)
+- 2025-10-06 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2025-10-06 — Senate Committee on the Judiciary discharged by Unanimous Consent.
