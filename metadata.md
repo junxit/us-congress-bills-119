@@ -1,7 +1,7 @@
 ---
 measure: S. 318
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 318
@@ -32,3 +32,6 @@ ANCHOR Act
 - 2025-09-29 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-64.
 - 2025-09-29 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-64.
 - 2025-09-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 169.
+- 2025-10-08 — Message on Senate action sent to the House.
+- 2025-10-08 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S7007-7009; text: CR S7008-7009)
+- 2025-10-08 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
