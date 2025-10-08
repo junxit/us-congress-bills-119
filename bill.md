@@ -29,3 +29,7 @@ This Act may be cited as the “Ernest Peltz Accrued Veterans Benefits Act”.
   - **(1)** *Conforming amendment* Section 5121(a) of such title is amended, in the matter preceding paragraph (1), by inserting “section 5121B of this title, or” before “sections 3329 and 3330”.
   - **(2)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by inserting, after the item relating to section 5121A, the following new item:
 - **(c)** *Effective date* The amendments made by this section shall apply with respect to the death of a veteran that occurs on or after the date of the enactment of this Act.
+
+## § 3. Extension of certain limits on payments of pension
+
+Section 5503(d)(7) of title 38, United States Code, is amended by striking “November 30, 2031” and inserting “December 31, 2031”.

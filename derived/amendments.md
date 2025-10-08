@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3123
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,3 +34,4 @@ complete account of the bill's effect, which it is not.
 | — | insert | Chapter 51 of title 38, United States Code, is amended by inserting, after section 5121A, the following new section: | the bill names no machine-readable US Code section |
 | — | insert | Section 5121(a) of such title is amended, in the matter preceding paragraph (1), by inserting “section 5121B of this title, or” before “sections 3329 and 3330”. | the bill names no machine-readable US Code section |
 | — | insert | The table of sections at the beginning of such chapter is amended by inserting, after the item relating to section 5121A, the following new item: | the bill names no machine-readable US Code section |
+| — | replace | Section 5503(d)(7) of title 38, United States Code, is amended by striking “November 30, 2031” and inserting “December 31, 2031”. | the bill names no machine-readable US Code section |
