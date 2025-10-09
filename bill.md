@@ -20,6 +20,11 @@ This Act may be cited as the “Retire through Ownership Act”.
   - **(2)** by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively;
   - **(3)** by inserting “(A)” before “The term”; and
   - **(4)** by adding at the end the following:
-    > - **(B)** For purposes of clause (ii), a fiduciary of an employee stock ownership plan as defined in section 407(d)(6) may make a good faith reliance on the principles and methodologies set forth in Internal Revenue Service Revenue Ruling 59–60 (as in effect on the date of enactment of the ERISA Adequate Consideration Act of 2025) in determining the fair market value of an asset described in such clause.
+    > - **(B)**
+    >   - **(i)** For purposes of clause (ii) of subparagraph (A), a fiduciary of an employee stock ownership plan (as defined in section 407(d)(6)) may make a good faith reliance on a valuation provided by an independent valuation expert or business appraiser that has relied upon the principles and methodologies set forth in Internal Revenue Service Revenue Ruling 59–60 (as amplified and modified by the Internal Revenue Service from time to time) in determining the fair market value of an asset described in such clause.
+    >   - **(ii)** Clause (i) shall not be interpreted to—
+    >     - **(I)** preclude the Secretary from promulgating, in accordance with section 553 of title 5, United States Code, any regulation interpreting such clause;
+    >     - **(II)** expand the regulatory authority of the Secretary with respect to the term “adequate consideration” beyond such authority available to the Secretary on the day before the date of enactment of the Retire through Ownership Act; or
+    >     - **(III)** modify a fiduciary's obligations under section 404.
 
 - **(b)** *Effective Date* The amendments made by subsection (a) shall apply with respect to determinations described in section 3(18)(B) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1002(18)(B)) (as added by such subsection) that are made on or after the date of enactment of this Act.
