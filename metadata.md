@@ -1,7 +1,7 @@
 ---
 measure: S. 1728
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1728
@@ -33,3 +33,5 @@ Employee Ownership Representation Act of 2025
 - 2025-09-11 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy with an amendment in the nature of a substitute. Without written report.
 - 2025-09-11 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy with an amendment in the nature of a substitute. Without written report.
 - 2025-09-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 157.
+- 2025-10-09 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S7101-7103; text: CR S7102-7103)
+- 2025-10-09 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
