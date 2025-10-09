@@ -15,11 +15,17 @@ This Act may be cited as the “National Defense Authorization Act for Fiscal Ye
 
 ## § 2. Organization of Act into divisions; table of contents
 
-- **(a)** *Divisions* This Act is organized into four divisions as follows:
+- **(a)** *Divisions* This Act is organized into ten divisions as follows:
   - **(1)** Division A—Department of Defense Authorizations.
   - **(2)** Division B—Military Construction Authorizations.
   - **(3)** Division C—Department of Energy National Security Authorizations and Other Authorizations.
   - **(4)** Division D—Funding Tables.
+  - **(5)** Division E—Additional Provisions.
+  - **(6)** Division F—Intelligence Authorization Act for Fiscal Year 2026.
+  - **(7)** Division G—Department of State Matters.
+  - **(8)** Division H—Coast Guard Authorization Act of 2025.
+  - **(9)** Division I—ROAD to Housing Act.
+  - **(10)** Division J—Department of State Authorization Act for Fiscal Year 2026.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 3. Congressional defense committees
