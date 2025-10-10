@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3455
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3455
@@ -25,3 +25,11 @@ Veterans Affairs Distributed Ledger Innovation Act of 2025
 - 2025-05-15 — Introduced in House
 - 2025-05-15 — Introduced in House
 - 2025-05-15 — Referred to the House Committee on Veterans' Affairs.
+- 2025-06-06 — Referred to the Subcommittee on Oversight and Investigations.
+- 2025-06-11 — Subcommittee Hearings Held
+- 2025-07-23 — Committee Consideration and Mark-up Session Held
+- 2025-07-23 — Ordered to be Reported by Voice Vote.
+- 2025-07-23 — Subcommittee on Oversight and Investigations Discharged
+- 2025-10-10 — Placed on the Union Calendar, Calendar No. 292.
+- 2025-10-10 — Reported by the Committee on Veterans' Affairs. H. Rept. 119-340.
+- 2025-10-10 — Reported by the Committee on Veterans' Affairs. H. Rept. 119-340.
