@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 5743
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5743
+
+> To require the Bureau of the Census to revise the tabulation of the total population by State for the 2020 decennial census counting only citizens of the United States, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “One Citizen, One Seat Act”.
+
+## § 2. Citizen only census population tabulation
+
+- **(a)** *In general* The Secretary of Commerce shall revise the tabulation of total population by States for the 2020 decennial census under section 141(a) of title 13, United States Code, to include only individuals who are citizens of the United States.
+- **(b)** *Distribution* Not later than 60 days after the date of the enactment of this Act, the Secretary of Commerce shall provide to each State the tabulation of total population for such State as revised under subsection (a).
+- **(c)** *Federal grant eligibility* Notwithstanding any other provision of law, beginning on the date that is 60 days after the date on which the Secretary of Commerce provides to a State the tabulation of total population for such State as revised under subsection (a), no grant may be awarded by the Federal Government to such State unless such State—
+  - **(1)** uses only such tabulation as so revised for all purposes for which such State would have used such tabulation prior to such revision; and
+  - **(2)** does not otherwise use such tabulation other than as so revised.
