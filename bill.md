@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 5763
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5763
+
+> To amend the Small Business Investment Act of 1958 to modify the criteria for loans for plant acquisition, construction, conversion or expansion, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Main Street Parity Act”.
+
+## § 2. Modification to criteria for loans for plant acquisition, construction, conversion or expansion
+
+- **(a)** *In general* Section 502(3)(C) of the Small Business Investment Act of 1958 (15 U.S.C. 696(3)(C)) is amended—
+  - **(1)** by striking clauses (ii) and (iii);
+  - **(2)** in clause (i), by inserting “or” at the end; and
+  - **(3)** by redesignating clause (iv) as clause (ii).
+- **(b)** *Conforming amendment* Section 502(3)(B)(ii) of the Small Business Investment Act of 1958 (15 U.S.C. 696(3)(B)(ii)) is amended by striking “clauses (i), (ii), or (iii) of subparagraph (C)” and inserting “clause (i) of subparagraph (C)”.
