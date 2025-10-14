@@ -1,0 +1,25 @@
+---
+legis-num: H.R. 5758
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5758
+
+> To amend title 38, United States Code, to permit the voluntary transmission of patient contact information to certain religious or faith-based organizations by chaplains employed by the Department of Veterans Affairs, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Enhancing Faith-Based Support for Veterans Act of 2025”.
+
+## § 2. Voluntary transmission of patient contact information to certain organizations by Department of Veterans Affairs chaplains
+
+Subchapter III of chapter 17 of title 38, United States Code, is amended by adding at the end the following new section (and conforming the table of sections at the beginning of such chapter accordingly):
+
+> ## § 1730D. Voluntary transmission by Department chaplains of patient contact information to certain religious or faith-based organizations
+>
+> - **(a)** *In general* With respect to a patient on whom a chaplain employed by the Department has conducted a spiritual assessment, such chaplain may, at the election of the patient, transmit the contact information of such patient to a non-Department religious or faith-based organization specified by such patient.
+> - **(b)** *Spiritual assessment defined* In this section, the term “spiritual assessment” means an evaluation of a patient entitled to receive medical treatment under this chapter by a chaplain employed by the Department to—
+>   - **(1)** gather spiritual information about such patient; and
+>   - **(2)** inform the medical treatment plan of such patient, if applicable.
