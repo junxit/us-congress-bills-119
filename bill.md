@@ -9,8 +9,14 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To prohibit camping on public property in the District of Columbia.
 
-## § 1. Prohibition on camping on public property in District of Columbia
+## § 1. Short title
 
-- **(a)** *In general* Beginning on and after the date of the enactment of this Act, it shall be unlawful in the District of Columbia to camp outdoors on public property.
-- **(b)** *Penalty* Any person who violates subsection (a) shall be fined not more than $500, imprisoned for not more than 30 days, or both.
-- **(c)** *Camp defined* In this section, the term “camp” means to use any material to set up, maintain, or establish a temporary place of abode.
+This Act may be cited as the “Clean and Managed Public Spaces Act”.
+
+## § 2. Prohibition on camping on public property in District of Columbia
+
+Section 824 of the Act to establish a code of law for the District of Columbia, as approved March 3, 1901 (sec. 22–3302, D.C. Official Code) is amended by adding at the end the following new subsection:
+
+> - **(c)**
+>   - **(1)** Any person who, without lawful authority, engages in camping outdoors on public property in the District of Columbia shall be fined not more than $500, imprisoned for not more than 30 days, or both.
+>   - **(2)** For purposes of this subsection, the term “camping” means erecting, placing, maintaining, or using temporary structures, including tents, tarps, and other temporary shelters for living accommodation activities, including sleeping or making preparations to sleep, sleeping inside or outside of a motor vehicle or making preparations to sleep outside of a motor vehicle, including laying down a sleeping bag, blanket, or other material used for bedding.
