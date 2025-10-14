@@ -1,0 +1,34 @@
+---
+legis-num: H.R. 5759
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5759
+
+> To amend the Child Nutrition Act of 1966 to change the competitive bidding process for infant formula manufacturers under the special supplemental nutrition program for women, infants, and children, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Improving Newborn Formula Access for a Nutritious Tomorrow Act of 2025” or the “INFANT Act of 2025”.
+
+## § 2. WIC infant formula contracting
+
+Section 17 of the Child Nutrition Act of 1966 (42 U.S.C. 1786) is amended—
+
+- **(1)** in subsection (b)—
+  - **(A)** by amending paragraph (17) to read as follows:
+    > - **(17)** *Competitive bidding*
+    >   - **(A)** *In general* The term competitive bidding means a procurement process under which the Secretary or a State agency selects 2 manufacturers offering the lowest price, as determined by the submission of sealed bids, for a product for which bids are sought for use in the program authorized by this section.
+    >   - **(B)** *Designation* Of the manufacturers described in subparagraph (A), 1 such manufacturer may be designated as the primary manufacturer and 1 such manufacturer may be designated as the secondary manufacturer.
+
+  - **(B)** in paragraph (22)—
+    - **(i)** by striking “primary” in the heading and each place it appears and inserting “manufacturer”;
+    - **(ii)** by striking “specific”; and
+    - **(iii)** by striking “a contract is awarded” and inserting “contracts are awarded”; and
+- **(2)** in subsection (h)(8)(A)—
+  - **(A)** in clause (ii)(I), by striking “primary” and inserting “manufacturer”; and
+  - **(B)** in clause (v)—
+    - **(i)** by striking “first” in the heading and each place it appears; and
+    - **(ii)** by striking “primary” in each place it appears and inserting “manufacturer”.
