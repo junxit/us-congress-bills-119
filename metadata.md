@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5242
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5242
@@ -16,6 +16,10 @@ To repeal the Second Chance Amendment Act of 2022 and the Incarceration Reductio
 
 - Rep. Kustoff, David [R-TN-8] (K000392)
 
+## Cosponsors (1)
+
+- Rep. Wilson, Joe [R-SC-2] (W000795)
+
 ## Committees (1)
 
 - House — Oversight and Government Reform Committee
@@ -27,3 +31,6 @@ To repeal the Second Chance Amendment Act of 2022 and the Incarceration Reductio
 - 2025-09-10 — Introduced in House
 - 2025-09-10 — Ordered to be Reported (Amended) by the Yeas and Nays: 24 - 20.
 - 2025-09-10 — Referred to the House Committee on Oversight and Government Reform.
+- 2025-10-14 — Placed on the Union Calendar, Calendar No. 293.
+- 2025-10-14 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 119-341.
+- 2025-10-14 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 119-341.
