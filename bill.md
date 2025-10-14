@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 5756
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5756
+
+> To provide funding for LIHEAP during a Federal Government shutdown.
+
+## § 1. Short title
+
+This Act may be cited as the “Home Energy Assistance in Times of Shutdown Act” or the “HEATS Act”.
+
+## § 2. Funding for LIHEAP during a Federal Government shutdown
+
+Out of any money in the Treasury not otherwise appropriated, there is appropriated such sums as are necessary to pay, during any period of a lapse in discretionary appropriations during any fiscal year, for making payments under section 2602(b) of the Low-Income Home Energy Assistance Act of 1981 (42 U.S.C. 8621(b)) during such lapse.
