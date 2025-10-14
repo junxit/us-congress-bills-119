@@ -1,7 +1,7 @@
 ---
 measure: S. 748
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 748
@@ -24,3 +24,7 @@ A bill to reaffirm the applicability of the Indian Reorganization Act to the Lyt
 
 - 2025-02-26 — Introduced in Senate
 - 2025-02-26 — Read twice and referred to the Committee on Indian Affairs.
+- 2025-03-05 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2025-10-14 — Committee on Indian Affairs. Reported by Senator Murkowski without amendment. With written report No. 119-79.
+- 2025-10-14 — Committee on Indian Affairs. Reported by Senator Murkowski without amendment. With written report No. 119-79.
+- 2025-10-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 188.
