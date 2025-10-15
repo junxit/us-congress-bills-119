@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 449
 congress: 119
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 449
@@ -33,7 +33,15 @@ A resolution designating the week beginning on October 12, 2025, as "National Wi
 - Sen. Blumenthal, Richard [D-CT] (B001277)
 - Sen. Booker, Cory A. [D-NJ] (B001288)
 
+## Committees (1)
+
+- Senate — Judiciary Committee
+
 ## Actions
 
 - 2025-10-09 — Introduced in Senate
 - 2025-10-09 — Referred to the Committee on the Judiciary. (text: CR S7098-7099)
+- 2025-10-15 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2025-10-15 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S7141)
+- 2025-10-15 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2025-10-15 — Senate Committee on the Judiciary discharged by Unanimous Consent.
