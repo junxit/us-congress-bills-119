@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 69
 congress: 119
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 69
@@ -16,9 +16,13 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Sen. Kennedy, John [R-LA] (K000393)
 
-## Cosponsors (1)
+## Cosponsors (5)
 
 - Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Britt, Katie Boyd [R-AL] (B001319)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Blackburn, Marsha [R-TN] (B001243)
+- Sen. Lankford, James [R-OK] (L000575)
 
 ## Committees (1)
 
@@ -28,3 +32,6 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - 2025-07-24 — Introduced in Senate
 - 2025-07-24 — Read twice and referred to the Committee on Environment and Public Works.
+- 2025-10-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 190.
+- 2025-10-15 — Senate Committee on Environment and Public Works discharged, by petition, pursuant to 5 U.S.C. 802(c).
+- 2025-10-15 — Senate Committee on Environment and Public Works discharged, by petition, pursuant to 5 U.S.C. 802(c).
