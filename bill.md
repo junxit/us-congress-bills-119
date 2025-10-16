@@ -1,0 +1,29 @@
+---
+legis-num: S. RES. 455
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. RES. 455
+
+> Commending and congratulating the Summerlin South Little League baseball team on winning the 2025 Little League World Series United States Championship.
+
+## Preamble
+
+- Whereas, on August 23, 2025, the Summerlin South Little League baseball team (referred to in this resolution as the “Summerlin South”) won the 2025 Little League World Series United States Championship;
+- Whereas the Summerlin South Little League defeated Fairfield National Little League, winning the United States Championship 8–2;
+- Whereas this is the first team from Summerlin South to advance to the Little League World Series Tournament in Williamsport, Pennsylvania;
+- Whereas Summerlin South became the second team from Nevada to win the Little League World Series United States Championship since the State began competing in 1957;
+- Whereas Summerlin South is the fourth team from Nevada to advance to the Little League World Series Tournament in Williamsport, Pennsylvania;
+- Whereas Summerlin South won all 3 games in the Mountain Region Tournament, outscoring opponents 45–15 and winning the region finals by a score of 6–3;
+- Whereas Summerlin South players should be congratulated for their dedication, teamwork, and display of impressive athletic talent; and
+- Whereas behind the Summerlin South players is a team of parents, coaches, and league support staff without whom those players could not have been successful: Now, therefore, be it
+
+That the Senate—
+
+- **(1)** commends and congratulates Summerlin South Little League on winning the 2025 Little League World Series United States Championship and completing a successful 2025 season;
+- **(2)** recognizes the achievements of all players, coaches, parents, and league staff who contributed to the success of Summerlin South Little League during the 2025 season; and
+- **(3)** respectfully requests that the Secretary of the Senate transmit an enrolled copy of this resolution to—
+  - **(A)** Summerlin South president Chris Mallory; and
+  - **(B)** Summerlin South manager TJ Fechser.
