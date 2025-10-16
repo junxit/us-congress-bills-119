@@ -1,7 +1,7 @@
 ---
 measure: S. 1872
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1872
@@ -28,3 +28,7 @@ Critical Infrastructure Manufacturing Feasibility Act
 
 - 2025-05-22 — Introduced in Senate
 - 2025-05-22 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2025-06-25 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2025-10-16 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-81.
+- 2025-10-16 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-81.
+- 2025-10-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 192.
