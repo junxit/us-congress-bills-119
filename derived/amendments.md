@@ -1,7 +1,7 @@
 ---
 measure: H.R. 647
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,7 +31,9 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| — | strike | Subsection (b)(2) of section 2306 of title 38, United States Code, is amended in subparagraphs (B) and (C) by striking “who dies on or after November 11, 1998,” each place it appears. | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “In lieu of furnishing a headstone or marker under this section for” and inserting “In the case of”; | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (2); | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (3) through (5) as paragraphs (2) through (4), respectively; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1) by striking “paragraph (3)” and inserting “paragraph (2)”. | the bill names no machine-readable US Code section |
+| — | replace | Section 5503(d)(7) of title 38, United States Code, is amended by striking “November 30, 2031” and inserting “May 31, 2033”. | the bill names no machine-readable US Code section |
