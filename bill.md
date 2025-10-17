@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Trafficking Survivors Relief Act of 2025”.
+This Act may be cited as the “Trafficking Survivors Relief Act”.
 
 ## § 2. Federal expungement for victims of trafficking
 
