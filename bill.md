@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Count the Crimes to Cut Act of 2025”.
+This Act may be cited as the “Count the Crimes to Cut Act”.
 
 ## § 2. Report on Federal criminal offenses
 
