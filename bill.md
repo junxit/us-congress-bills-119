@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 5766
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5766
+
+> To require the Secretary of State to annually award an honorary Trump Peace Prize.
+
+## § 1. Short title
+
+This Act may be cited as the “President Donald J. Trump Peace Prize Act”.
+
+## § 2. Trump Peace Prize
+
+- **(a)** *In general* The Secretary of State shall annually confer an honorary award, to be known as the “Trump Peace Prize”, on an individual who is a peacemaker.
+- **(b)** *First awardee* The Secretary shall confer the first Trump Peace Prize on President Donald Trump.
