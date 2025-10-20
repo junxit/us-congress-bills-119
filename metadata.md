@@ -1,7 +1,7 @@
 ---
 measure: S. 582
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 582
@@ -28,3 +28,7 @@ Astronaut Ground Travel Support Act
 
 - 2025-02-13 — Introduced in Senate
 - 2025-02-13 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2025-03-12 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2025-10-20 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-82.
+- 2025-10-20 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-82.
+- 2025-10-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 193.
