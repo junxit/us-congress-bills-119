@@ -24,3 +24,7 @@ This Act may be cited as the “Protecting Veteran’s Claim Options Act”.
   > - **(d)** *Cases remanded by the Court of Appeals for Veterans Claims*
   >   - **(1)** Except as provided in paragraph (2), for cases remanded to the Board by the Court of Appeals for Veterans Claims, the evidentiary record before the Board shall be limited to the evidence previously considered by the Board in such case.
   >   - **(2)** The evidentiary record before the Board for cases described in paragraph (1) shall include evidence submitted by the appellant and his or her representative, if any, within 90 days following such remand, which the Board shall consider in the first instance.
+
+## § 3. Extension of certain limits on payments of pension
+
+Section 5503(d)(7) of title 38, United States Code, is amended by striking “November 30, 2031” and inserting “January 30, 2035”.
