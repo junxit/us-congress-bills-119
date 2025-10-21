@@ -1,7 +1,7 @@
 ---
 measure: S. 1278
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1278
@@ -28,3 +28,7 @@ Fog Observations and Geographic Forecasting Act
 
 - 2025-04-03 — Introduced in Senate
 - 2025-04-03 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2025-04-30 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2025-10-21 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-86.
+- 2025-10-21 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-86.
+- 2025-10-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 197.
