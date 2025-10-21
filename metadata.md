@@ -1,7 +1,7 @@
 ---
 measure: S. 613
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 613
@@ -28,3 +28,7 @@ Improving Flood and Agricultural Forecasts Act of 2025
 
 - 2025-02-18 — Introduced in Senate
 - 2025-02-18 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2025-03-12 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2025-10-21 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-83.
+- 2025-10-21 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-83.
+- 2025-10-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 194.
