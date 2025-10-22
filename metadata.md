@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 82
 congress: 119
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 82
@@ -16,7 +16,7 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Sen. King, Angus S., Jr. [I-ME] (K000383)
 
-## Cosponsors (31)
+## Cosponsors (35)
 
 - Sen. Wyden, Ron [D-OR] (W000779)
 - Sen. Alsobrooks, Angela D. [D-MD] (A000382)
@@ -49,6 +49,10 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 - Sen. Baldwin, Tammy [D-WI] (B001230)
 - Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
 
 ## Committees (1)
 
@@ -58,3 +62,6 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - 2025-09-18 — Introduced in Senate
 - 2025-09-18 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2025-10-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 203.
+- 2025-10-22 — Senate Committee on Health, Education, Labor, and Pensions discharged by petition pursuant to 5 U.S.C. 802(c).
+- 2025-10-22 — Senate Committee on Health, Education, Labor, and Pensions discharged by petition pursuant to 5 U.S.C. 802(c).
