@@ -1,7 +1,7 @@
 ---
 measure: S. 99
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 99
@@ -32,3 +32,6 @@ Strengthening Support for American Manufacturing Act
 - 2025-03-31 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-9.
 - 2025-03-31 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-9.
 - 2025-03-31 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 35.
+- 2025-10-23 — Message on Senate action sent to the House.
+- 2025-10-23 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7734; text: CR S7734-7735)
+- 2025-10-23 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
