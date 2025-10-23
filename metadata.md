@@ -1,7 +1,7 @@
 ---
 measure: S. 259
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 259
@@ -34,3 +34,6 @@ Foreign Adversary Communications Transparency Act
 - 2025-07-09 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-36.
 - 2025-07-09 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-36.
 - 2025-07-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 110.
+- 2025-10-23 — Message on Senate action sent to the House.
+- 2025-10-23 — Passed Senate without amendment by Voice Vote. (consideration: CR S7734; text: CR S7734)
+- 2025-10-23 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
