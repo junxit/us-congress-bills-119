@@ -1,0 +1,26 @@
+---
+legis-num: H.R. 5815
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5815
+
+> To amend title XIX of the Social Security Act to bring fairness to the Medicaid Federal medical assistance percentage for the District of Columbia.
+
+## § 1. Short title
+
+This Act may be cited as the “District of Columbia Medicaid Fairness Act”.
+
+## § 2. Adjustment of FMAP for District of Columbia
+
+Section 1905 of the Social Security Act (42 U.S.C. 1396d) is amended—
+
+- **(1)** in the first sentence of subsection (b), by striking “this title” and everything that follows through “shall be 70 percent” and inserting “title XXI, the Federal medical assistance percentage for the District of Columbia shall be 70 percent, and for purposes of this title, for fiscal years before 2030, the Federal medical assistance percentage for the District of Columbia shall be equal to the percentage that would otherwise be determined under this subsection without application of this clause or the percentage specified in subsection (ll) for such fiscal year (whichever is greater), and for fiscal year 2030 and each subsequent fiscal year, the Federal medical assistance percentage for the District of Columbia shall be equal to the percentage that would otherwise be determined under this subsection without application of this clause”; and
+- **(2)** by adding at the end the following new subsection:
+  > - **(ll)** *Federal medical assistance percentage for the District of Columbia* For purposes of clause (3) of the first sentence of subsection (b), the percentage specified in this subsection for a fiscal year is—
+  >   - **(1)** for a fiscal year before fiscal year 2027, 70 percent;
+  >   - **(2)** for fiscal year 2027, 65 percent;
+  >   - **(3)** for fiscal year 2028, 60 percent; and
+  >   - **(4)** for fiscal year 2029, 55 percent.
