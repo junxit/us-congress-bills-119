@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1612
 congress: 119
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 1612
@@ -33,3 +33,7 @@ Flatside Wilderness Additions Act
 - 2025-05-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1967)
 - 2025-05-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H1967)
 - 2025-05-14 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
+- 2025-10-21 — Committee on Agriculture, Nutrition, and Forestry. Ordered to be reported without amendment favorably.
+- 2025-10-27 — Committee on Agriculture, Nutrition, and Forestry. Reported by Senator Boozman without amendment. Without written report.
+- 2025-10-27 — Committee on Agriculture, Nutrition, and Forestry. Reported by Senator Boozman without amendment. Without written report.
+- 2025-10-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 219.
