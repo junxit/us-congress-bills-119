@@ -1,7 +1,7 @@
 ---
 measure: H.R. 197
 congress: 119
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 197
@@ -38,3 +38,7 @@ Lake Winnibigoshish Land Exchange Act of 2025
 - 2025-01-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H242-243)
 - 2025-01-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H242-243)
 - 2025-01-22 — Received in the Senate and Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
+- 2025-10-21 — Committee on Agriculture, Nutrition, and Forestry. Ordered to be reported without amendment favorably.
+- 2025-10-27 — Committee on Agriculture, Nutrition, and Forestry. Reported by Senator Boozman without amendment. Without written report.
+- 2025-10-27 — Committee on Agriculture, Nutrition, and Forestry. Reported by Senator Boozman without amendment. Without written report.
+- 2025-10-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 218.
