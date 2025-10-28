@@ -1,7 +1,7 @@
 ---
 measure: H.R. 689
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 689
@@ -16,7 +16,7 @@ FREE Act
 
 - Rep. Maloy, Celeste [R-UT-2] (M001228)
 
-## Cosponsors (17)
+## Cosponsors (19)
 
 - Rep. Finstad, Brad [R-MN-1] (F000475)
 - Rep. Moore, Blake D. [R-UT-1] (M001213)
@@ -35,6 +35,8 @@ FREE Act
 - Rep. Gosar, Paul A. [R-AZ-9] (G000565)
 - Rep. Fulcher, Russ [R-ID-1] (F000469)
 - Rep. Kennedy, Mike [R-UT-3] (K000403)
+- Rep. Hageman, Harriet M. [R-WY-At Large] (H001096)
+- Rep. Hurd, Jeff [R-CO-3] (H001100)
 
 ## Committees (1)
 
@@ -45,3 +47,8 @@ FREE Act
 - 2025-01-23 — Introduced in House
 - 2025-01-23 — Introduced in House
 - 2025-01-23 — Referred to the House Committee on Oversight and Government Reform.
+- 2025-05-21 — Committee Consideration and Mark-up Session Held
+- 2025-05-21 — Ordered to be Reported by the Yeas and Nays: 23 - 19.
+- 2025-10-28 — Placed on the Union Calendar, Calendar No. 303.
+- 2025-10-28 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 119-351.
+- 2025-10-28 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 119-351.
