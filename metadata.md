@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4550
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4550
@@ -20,9 +20,10 @@ United States Grain Standards Reauthorization Act of 2025
 
 - Rep. Craig, Angie [D-MN-2] (C001119)
 
-## Committees (1)
+## Committees (2)
 
 - House — Agriculture Committee
+- Senate — Agriculture, Nutrition, and Forestry Committee
 
 ## Actions
 
@@ -40,3 +41,5 @@ United States Grain Standards Reauthorization Act of 2025
 - 2025-09-08 — Mr. Thompson (PA) moved to suspend the rules and pass the bill.
 - 2025-09-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3870)
 - 2025-09-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3870)
+- 2025-09-09 — Received in the Senate.
+- 2025-10-28 — Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
