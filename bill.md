@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 5846
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5846
+
+> To reauthorize funding for the Solid Waste Infrastructure for Recycling Grant Program of the Environmental Protection Agency.
+
+## § 1. Short title
+
+This Act may be cited as the “Solid Waste Infrastructure for Recycling Grant Program Reauthorization Act”.
+
+## § 2. Reauthorization of Solid Waste Infrastructure for Recycling Grant Program
+
+Section 302(g)(1) of the Save Our Seas 2.0 Act (33 U.S.C. 4282(g)(1)) is amended by inserting “and $65,000,000 for each of fiscal years 2027 through 2036” after “fiscal years 2021 through 2025”.
