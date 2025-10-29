@@ -1,7 +1,7 @@
 ---
 measure: S. 287
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 287
@@ -28,3 +28,7 @@ Marcella LeBeau Recognition Act
 
 - 2025-01-28 — Introduced in Senate
 - 2025-01-28 — Read twice and referred to the Committee on Environment and Public Works.
+- 2025-10-29 — Committee on Environment and Public Works. Ordered to be reported without amendment favorably.
+- 2025-10-29 — Committee on Environment and Public Works. Reported by Senator Capito without amendment. Without written report.
+- 2025-10-29 — Committee on Environment and Public Works. Reported by Senator Capito without amendment. Without written report.
+- 2025-10-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 223.
