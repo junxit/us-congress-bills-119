@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 77
 congress: 119
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 77
@@ -16,7 +16,7 @@ A joint resolution terminating the national emergency declared to impose duties 
 
 - Sen. Kaine, Tim [D-VA] (K000384)
 
-## Cosponsors (13)
+## Cosponsors (16)
 
 - Sen. Paul, Rand [R-KY] (P000603)
 - Sen. Klobuchar, Amy [D-MN] (K000367)
@@ -31,12 +31,24 @@ A joint resolution terminating the national emergency declared to impose duties 
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 - Sen. Wyden, Ron [D-OR] (W000779)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Reed, Jack [D-RI] (R000122)
 
 ## Committees (1)
 
 - Senate — Finance Committee
 
+## Recorded votes (1)
+
+- 2025-10-29 — [Senate 119-1-598](votes/senate-119-1-0598.md) — On the Joint Resolution — **Joint Resolution Passed** (50–46)
+
 ## Actions
 
 - 2025-09-16 — Introduced in Senate
 - 2025-09-16 — Read twice and referred to the Committee on Finance.
+- 2025-10-29 — Measure laid before Senate by unanimous consent. (consideration: CR S7811-7822)
+- 2025-10-29 — Passed Senate without amendment by Yea-Nay Vote. 50 - 46. Record Vote Number: 598. (text: CR S7822)
+- 2025-10-29 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 50 - 46. Record Vote Number: 598.
+- 2025-10-29 — Senate Committee on Finance discharged pursuant to the order of 10/07/2025.
+- 2025-10-29 — Senate Committee on Finance discharged pursuant to the order of 10/07/2025.
