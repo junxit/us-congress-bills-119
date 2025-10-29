@@ -1,0 +1,18 @@
+---
+legis-num: S. 3074
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3074
+
+> To direct the Secretary of Agriculture to reimburse State agencies for costs incurred in carrying out the supplemental nutrition assistance program during a lapse in appropriations.
+
+## § 1. Short title
+
+This Act may be cited as the “Supplemental Nutrition Assistance Program Benefits And Compensation for Keep-up Act of 2025” or the “SNAP BACK Act of 2025”.
+
+## § 2. SNAP reimbursement to States
+
+The Secretary of Agriculture shall reimburse States for costs incurred in carrying out the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.) during a lapse in appropriations for that program, to the extent that the State carried out that program in accordance with Federal law (including regulations) during that lapse.
