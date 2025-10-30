@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 80
 congress: 119
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S.J.Res. 80
@@ -24,6 +24,11 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Senate — Energy and Natural Resources Committee
 
+## Recorded votes (2)
+
+- 2025-10-29 — [Senate 119-1-595](votes/senate-119-1-0595.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (54–46)
+- 2025-10-30 — [Senate 119-1-599](votes/senate-119-1-0599.md) — On the Joint Resolution — **Joint Resolution Passed** (52–45)
+
 ## Actions
 
 - 2025-09-18 — Introduced in Senate
@@ -31,3 +36,8 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - 2025-10-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 221.
 - 2025-10-28 — Senate Committee on Energy and Natural Resources discharged, by petition, pursuant to 5 U.S.C. 802(c).
 - 2025-10-28 — Senate Committee on Energy and Natural Resources discharged, by petition, pursuant to 5 U.S.C. 802(c).
+- 2025-10-29 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 54 - 46. Record Vote Number: 595.
+- 2025-10-30 — Measure laid before Senate by unanimous consent. (consideration: CR S7842)
+- 2025-10-30 — Message on Senate action sent to the House.
+- 2025-10-30 — Passed Senate without amendment by Yea-Nay Vote. 52 - 45. Record Vote Number: 599. (text: CR S7842)
+- 2025-10-30 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 52 - 45. Record Vote Number: 599.
