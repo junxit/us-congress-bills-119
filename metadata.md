@@ -1,7 +1,7 @@
 ---
 measure: S. 2684
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2684
@@ -16,11 +16,12 @@ United States - Taiwan Partnership in the Americas Act
 
 - Sen. Merkley, Jeff [D-OR] (M001176)
 
-## Cosponsors (3)
+## Cosponsors (4)
 
 - Sen. Curtis, John R. [R-UT] (C001114)
 - Sen. Kaine, Tim [D-VA] (K000384)
 - Sen. Ricketts, Pete [R-NE] (R000618)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
 
 ## Committees (1)
 
@@ -30,3 +31,7 @@ United States - Taiwan Partnership in the Americas Act
 
 - 2025-09-02 — Introduced in Senate
 - 2025-09-02 — Read twice and referred to the Committee on Foreign Relations.
+- 2025-10-22 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2025-10-30 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
+- 2025-10-30 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
+- 2025-10-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 242.
