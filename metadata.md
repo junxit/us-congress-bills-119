@@ -1,7 +1,7 @@
 ---
 measure: S. 2960
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2960
@@ -16,6 +16,12 @@ Deter PRC Aggression Against Taiwan Act
 
 - Sen. Risch, James E. [R-ID] (R000584)
 
+## Cosponsors (3)
+
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Ricketts, Pete [R-NE] (R000618)
+
 ## Committees (1)
 
 - Senate — Foreign Relations Committee
@@ -24,3 +30,7 @@ Deter PRC Aggression Against Taiwan Act
 
 - 2025-10-01 — Introduced in Senate
 - 2025-10-01 — Read twice and referred to the Committee on Foreign Relations.
+- 2025-10-22 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2025-10-30 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
+- 2025-10-30 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
+- 2025-10-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 245.
