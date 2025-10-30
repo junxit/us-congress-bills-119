@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 226
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 226
@@ -29,3 +29,7 @@ A resolution condemning the Government of the People's Republic of China for eng
 
 - 2025-05-14 — Introduced in Senate
 - 2025-05-14 — Referred to the Committee on Foreign Relations. (text: CR S2930-2931)
+- 2025-10-22 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2025-10-30 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2025-10-30 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute and with an amended preamble. Without written report.
+- 2025-10-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 247.
