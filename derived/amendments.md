@@ -1,7 +1,7 @@
 ---
 measure: S. 2130
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 2 executed, 3 stated and not applied.
+6 amendatory instructions. 2 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -54,3 +54,4 @@ complete account of the bill's effect, which it is not.
 | `22 U.S.C. § 2778` | add-at-end | Section 38(l) of the Arms Export Control Act (22 U.S.C. 2778(l)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2776` | redesignate | by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 2776` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2778` | add-at-end | Section 38(l) of the Arms Export Control Act (22 U.S.C. 2778(l)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
