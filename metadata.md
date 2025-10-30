@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 409
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 409
@@ -16,7 +16,7 @@ A resolution recognizing the 74th anniversary of the signing of the Mutual Defen
 
 - Sen. Ricketts, Pete [R-NE] (R000618)
 
-## Cosponsors (11)
+## Cosponsors (15)
 
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 - Sen. Cornyn, John [R-TX] (C001056)
@@ -29,6 +29,10 @@ A resolution recognizing the 74th anniversary of the signing of the Mutual Defen
 - Sen. Duckworth, Tammy [D-IL] (D000622)
 - Sen. Fischer, Deb [R-NE] (F000463)
 - Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Wicker, Roger F. [R-MS] (W000437)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. McCormick, David [R-PA] (M001243)
+- Sen. Risch, James E. [R-ID] (R000584)
 
 ## Committees (1)
 
@@ -38,3 +42,7 @@ A resolution recognizing the 74th anniversary of the signing of the Mutual Defen
 
 - 2025-09-18 — Introduced in Senate
 - 2025-09-18 — Referred to the Committee on Foreign Relations. (text: CR S6739)
+- 2025-10-22 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2025-10-30 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with a preamble. Without written report.
+- 2025-10-30 — Committee on Foreign Relations. Reported by Senator Risch without amendment and with a preamble. Without written report.
+- 2025-10-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 248.
