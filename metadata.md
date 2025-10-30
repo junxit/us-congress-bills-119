@@ -1,7 +1,7 @@
 ---
 measure: S. 2657
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2657
@@ -28,3 +28,7 @@ STOP China and Russia Act of 2025
 
 - 2025-08-01 — Introduced in Senate
 - 2025-08-01 — Read twice and referred to the Committee on Foreign Relations.
+- 2025-10-22 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2025-10-30 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
+- 2025-10-30 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
+- 2025-10-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 241.
