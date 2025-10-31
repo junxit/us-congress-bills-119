@@ -81,7 +81,7 @@ Section 508(b) of the Food and Drug Administration Safety and Innovation Act (21
 - **(2)** in paragraph (15), by striking “and” at the end;
 - **(3)** in paragraph (16), by striking the period at the end and inserting “; and”; and
 - **(4)** by adding at the end the following:
-  > - **(17)** a listing of penalties, settlements, or payments under section 303 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 353) for failure to comply with requirements under such section 505B, including, for each penalty, settlement, or payment, the name of the drug, the sponsor thereof, and the amount of the penalty, settlement, or payment imposed; and
+  > - **(17)** a listing of penalties, settlements, or payments under section 303 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 353) for failure to comply with requirements under such section 505B, including, for each penalty, settlement, or payment, the name of the drug, the sponsor thereof, and the amount of the penalty, settlement, or payment imposed.
 
 ## § 5. Extension of authority to issue priority review vouchers to encourage treatments for rare pediatric diseases
 
@@ -124,7 +124,7 @@ Section 508(b) of the Food and Drug Administration Safety and Innovation Act (21
 
 ## § 7. Program for pediatric studies of drugs
 
-Section 409I(d)(1) of the Public Health Service Act (42 U.S.C. 284m(d)(1)) is amended by striking “section,” and all that follows through the period at the end and inserting “section, $25,000,000 for each of fiscal years 2025 through 2027.”.
+Section 409I(d)(1) of the Public Health Service Act (42 U.S.C. 284m(d)(1)) is amended by striking “section,” and all that follows through the period at the end and inserting “section, $25,000,000 for each of fiscal years 2026 through 2028.”.
 
 ## § 8. Organ Procurement and Transplantation Network
 
@@ -185,4 +185,33 @@ Section 372 of the Public Health Service Act (42 U.S.C. 274) is amended—
     - **(B)** a numerical count of parties that the Office has helped facilitate interactions or feedback pursuant to section 1015(c)(1)(B) of the Federal Food, Drug, and Cosmetic Act (as added by subsection (a));
     - **(C)** a summary of technical assistance provided to regulatory partners in Abraham Accords countries pursuant to subparagraph (A) of such section 1015(c)(1); and
     - **(D)** recommendations for increasing and improving coordination between the Food and Drug Administration and entities in Abraham Accords countries.
-  - **(2)** *Abraham Accords country defined* In this subsection, the term “Abraham Accords country” has the meaning given such term in section 1015(d) of the Federal Food, Drug, and Cosmetic Act (as added by subsection (a)).
+  - **(2)** *Abraham Accords country defined* In this subsection, the term Abraham Accords country has the meaning given such term in section 1015(d) of the Federal Food, Drug, and Cosmetic Act (as added by subsection (a)).
+
+## § 10. Increasing transparency in generic drug applications
+
+- **(a)** *In general* Section 505(j)(3) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(j)(3)) is amended by adding at the end the following:
+  > - **(H)**
+  >   - **(i)** Upon request (in controlled correspondence or an analogous process) by a person that has submitted or intends to submit an abbreviated application under this subsection for a drug that is required by regulation to contain one or more of the same inactive ingredients in the same concentrations as the listed drug referred to, or for which the Secretary determines there is a scientific justification for an approach that is in vitro, in whole or in part, to be used to demonstrate bioequivalence for a drug if such a drug contains one or more of the same inactive ingredients in the same concentrations as the listed drug referred to, the Secretary shall inform the person whether such drug is qualitatively and quantitatively the same as the listed drug. The Secretary may also provide such information to such a person on the Secretary’s own initiative during the review of an abbreviated application under this subsection for such drug.
+  >   - **(ii)** Notwithstanding section 301(j), if the Secretary determines that such drug is not qualitatively or quantitatively the same as the listed drug, the Secretary shall identify and disclose to the person—
+  >     - **(I)** the ingredient or ingredients that cause such drug not to be qualitatively or quantitatively the same as the listed drug; and
+  >     - **(II)** for any ingredient for which there is an identified quantitative deviation, the amount of such deviation.
+  >   - **(iii)** If the Secretary determines that such drug is qualitatively and quantitatively the same as the listed drug, the Secretary shall not change or rescind such determination after the submission of an abbreviated application for such drug under this subsection unless—
+  >     - **(I)** the formulation of the listed drug has been changed and the Secretary has determined that the prior listed drug formulation was withdrawn for reasons of safety or effectiveness; or
+  >     - **(II)** the Secretary makes a written determination that the prior determination must be changed because an error has been identified.
+  >   - **(iv)** If the Secretary makes a written determination described in clause (iii)(II), the Secretary shall provide notice and a copy of the written determination to the person making the request under clause (i).
+  >   - **(v)** The disclosures authorized under clauses (i) and (ii) are disclosures authorized by law, including for purposes of section 1905 of title 18, United States Code. This subparagraph shall not otherwise be construed to authorize the disclosure of nonpublic qualitative or quantitative information about the ingredients in a listed drug, or to affect the status, if any, of such information as trade secret or confidential commercial information for purposes of section 301(j) of this Act, section 552 of title 5, United States Code, or section 1905 of title 18, United States Code.
+
+- **(b)** *Guidance*
+  - **(1)** *In general* Not later than one year after the date of enactment of this Act, the Secretary of Health and Human Services shall issue draft guidance, or update guidance, describing how the Secretary will determine whether a drug is qualitatively and quantitatively the same as the listed drug (as such terms are used in section 505(j)(3)(H) of the Federal Food, Drug, and Cosmetic Act, as added by subsection (a)), including with respect to assessing pH adjusters.
+  - **(2)** *Process* In issuing guidance under this subsection, the Secretary of Health and Human Services shall—
+    - **(A)** publish draft guidance;
+    - **(B)** provide a period of at least 60 days for comment on the draft guidance; and
+    - **(C)** after considering any comments received and not later than one year after the close of the comment period on the draft guidance, publish final guidance.
+- **(c)** *Applicability* Section 505(j)(3)(H) of the Federal Food, Drug, and Cosmetic Act, as added by subsection (a), applies beginning on the date of enactment of this Act, irrespective of the date on which the guidance required by subsection (b) is finalized.
+
+## § 11. Medicare Improvement Fund
+
+Section 1898(b)(1) of the Social Security Act (42 U.S.C. 1395iii(b)(1)) is amended—
+
+- **(1)** by striking “fiscal year 2026” and inserting “fiscal year 2027”; and
+- **(2)** by striking “$1,804,000,000” and inserting “$3,047,000,000”.
