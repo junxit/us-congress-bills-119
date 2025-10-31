@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2306
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2306
@@ -16,13 +16,16 @@ Adams Memorial-Great American Heroes Act
 
 - Rep. Moolenaar, John R. [R-MI-2] (M001194)
 
-## Cosponsors (5)
+## Cosponsors (8)
 
 - Rep. Connolly, Gerald E. [D-VA-11] (C001078)
 - Rep. McCormick, Richard [R-GA-7] (M001218)
 - Rep. Griffith, H. Morgan [R-VA-9] (G000568)
 - Rep. Lynch, Stephen F. [D-MA-8] (L000562)
 - Rep. Moulton, Seth [D-MA-6] (M001196)
+- Rep. Auchincloss, Jake [D-MA-4] (A000148)
+- Rep. Keating, William R. [D-MA-9] (K000375)
+- Rep. Amodei, Mark E. [R-NV-2] (A000369)
 
 ## Committees (1)
 
@@ -33,3 +36,11 @@ Adams Memorial-Great American Heroes Act
 - 2025-03-24 — Introduced in House
 - 2025-03-24 — Introduced in House
 - 2025-03-24 — Referred to the House Committee on Natural Resources.
+- 2025-07-09 — Referred to the Subcommittee on Federal Lands.
+- 2025-07-16 — Subcommittee Hearings Held
+- 2025-09-17 — Committee Consideration and Mark-up Session Held
+- 2025-09-17 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2025-09-17 — Subcommittee on Federal Lands Discharged
+- 2025-10-31 — Placed on the Union Calendar, Calendar No. 305.
+- 2025-10-31 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-353.
+- 2025-10-31 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-353.
