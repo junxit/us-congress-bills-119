@@ -41,3 +41,7 @@ In this Act:
 ## § 5. Public access easement
 
 The conveyance of the Federal land under section 4 shall be subject to the reservation of a public easement under section 17(b) of the Alaska Native Claims Settlement Act (43 U.S.C. 1616(b)) to allow for access to National Forest System land further inland on Revillagigedo Island from the George Inlet.
+
+## § 6. Valid existing rights
+
+Unless otherwise agreed to by the Secretary, the Secretary of Agriculture, and Cape Fox, the conveyances under this legislation shall be subject to any valid existing rights, reservations, rights-of-way, and other encumbrances of third parties in, to, or on the Federal land as of the date of enactment of this Act.
