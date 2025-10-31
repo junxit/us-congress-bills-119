@@ -1,0 +1,23 @@
+---
+legis-num: H.R. 5882
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5882
+
+> To amend the Federal Food, Drug, and Cosmetic Act to include food containing dyes, flavoring, and sweeteners as misbranded unless the packaging of such food states such fact.
+
+## § 1. Short title
+
+This Act may be cited as the “No Tricks on Treats Act of 2025”.
+
+## § 2. Inclusion of food containing dyes, flavoring, and sweeteners as misbranded
+
+Section 403 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 343) is amended by adding at the end the following:
+
+> - **(z)**
+>   - **(1)** If, in the case of food other than a dietary supplement, such food bears or contains any synthetic dye, or any added artificial or natural flavoring, unless such fact is prominently stated on the principal display panel of the packaging of such food.
+>   - **(2)** For the purposes of this paragraph, the term synthetic dye means a batch-certified dye subject to certification under part 74 of title 21, Code of Federal Regulations (or any successor regulations).
+> - **(aa)** If, in the case of food other than a dietary supplement, such food bears or contains any nonnutritive sweetener, unless such fact is prominently stated on the principal display panel of the packaging of such food.
