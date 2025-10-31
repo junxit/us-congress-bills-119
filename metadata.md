@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3872
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3872
@@ -16,9 +16,10 @@ To amend the Mineral Leasing Act for Acquired Lands to make that Act applicable 
 
 - Rep. Fallon, Pat [R-TX-4] (F000246)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Moran, Nathaniel [R-TX-1] (M001224)
+- Rep. Harrigan, Pat [R-NC-10] (H001101)
 
 ## Committees (1)
 
@@ -29,3 +30,11 @@ To amend the Mineral Leasing Act for Acquired Lands to make that Act applicable 
 - 2025-06-10 — Introduced in House
 - 2025-06-10 — Introduced in House
 - 2025-06-10 — Referred to the House Committee on Natural Resources.
+- 2025-07-02 — Referred to the Subcommittee on Energy and Mineral Resources.
+- 2025-09-03 — Subcommittee Hearings Held
+- 2025-09-17 — Committee Consideration and Mark-up Session Held
+- 2025-09-17 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2025-09-17 — Subcommittee on Energy and Mineral Resources Discharged
+- 2025-10-31 — Placed on the Union Calendar, Calendar No. 309.
+- 2025-10-31 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-357.
+- 2025-10-31 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-357.

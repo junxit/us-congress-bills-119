@@ -9,11 +9,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To amend the Mineral Leasing Act for Acquired Lands to make that Act applicable to hardrock minerals.
 
-## § 1. Short title
-
-This Act may be cited as the “Mineral Extraction for Renewable Industry and Critical Applications Act of 2025” or the “MERICA Act of 2025”.
-
-## § 2. Application of Mineral Leasing Act for Acquired Lands to hardrock minerals
+## § 1. Application of Mineral Leasing Act for Acquired Lands to hardrock minerals
 
 The Mineral Leasing Act for Acquired Lands (30 U.S.C. 351 et seq.) is amended—
 
@@ -26,7 +22,7 @@ The Mineral Leasing Act for Acquired Lands (30 U.S.C. 351 et seq.) is amended—
     > Alaska.
     > - **(2)** *Acquired lands; lands acquired by the United States* The term acquired lands
 
-  - **(C)** by striking “552). “Secretary” and inserting the following:
+  - **(C)** by striking “552). “Secretary”” and inserting the following:
     > 552).
     > - **(3)** *Secretary* The term Secretary
 
@@ -48,7 +44,7 @@ The Mineral Leasing Act for Acquired Lands (30 U.S.C. 351 et seq.) is amended—
     >     - **(i)** minerals found in sedimentary or other rocks;
     >     - **(ii)** base metals;
     >     - **(iii)** precious metals;
-    >     - **(iv)** industrial metals; and
+    >     - **(iv)** industrial minerals; and
     >     - **(v)** precious and semi-precious gemstones; and
     >   - **(B)** does not include deposits of—
     >     - **(i)** coal;

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3872
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -44,7 +44,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `30 U.S.C. § 351` | replace | by striking “Act United States” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `30 U.S.C. § 351` | replace | by striking “Alaska. Acquired lands” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `30 U.S.C. § 351` | replace | by striking “552). “Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `30 U.S.C. § 351` | replace | by striking “552). Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `30 U.S.C. § 351` | replace | by striking “Interior. Mineral leasing laws shall mean” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `30 U.S.C. § 351` | replace | by striking “Acts. Lease” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `30 U.S.C. § 351` | replace | by striking “requires. The term” and inserting the following: | the bill quotes the text struck but describes what replaces it |
