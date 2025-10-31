@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2916
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2916
@@ -25,3 +25,11 @@ To authorize, ratify, and confirm the Agreement of Settlement and Compromise to 
 - 2025-04-14 — Introduced in House
 - 2025-04-14 — Introduced in House
 - 2025-04-14 — Referred to the House Committee on Natural Resources.
+- 2025-06-04 — Referred to the Subcommittee on Indian and Insular Affairs.
+- 2025-06-11 — Subcommittee Hearings Held
+- 2025-09-17 — Committee Consideration and Mark-up Session Held
+- 2025-09-17 — Ordered to be Reported by Unanimous Consent.
+- 2025-09-17 — Subcommittee on Indian and Insular Affairs Discharged
+- 2025-10-31 — Placed on the Union Calendar, Calendar No. 307.
+- 2025-10-31 — Reported by the Committee on Natural Resources. H. Rept. 119-355.
+- 2025-10-31 — Reported by the Committee on Natural Resources. H. Rept. 119-355.
