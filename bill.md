@@ -21,9 +21,12 @@ Section 1866G(a)(1) of the Social Security Act (42 U.S.C. 1395cc–7(a)(1)) is a
 
 Section 1866G of the Social Security Act (42 U.S.C. 1395cc–7), as amended by section 2, is further amended—
 
-- **(3)** in subsection (b), in the subsection heading, by striking “Study” and inserting “Initial study”;
-- **(4)** by redesignating subsections (c) and (d) as subsections (d) and (e), respectively; and
-- **(5)** by inserting after subsection (b) the following new subsection:
+- **(1)** in subsection (a)(3)(E)—
+  - **(A)** in clause (ii), by striking “the study described in subsection (b)” and inserting “the studies described in subsections (b) and (c)”; and
+  - **(B)** by adding at the end the following new flush sentence:
+- **(2)** in subsection (b), in the subsection heading, by striking “Study” and inserting “Initial study”;
+- **(3)** by redesignating subsections (c) and (d) as subsections (d) and (e), respectively; and
+- **(4)** by inserting after subsection (b) the following new subsection:
   > - **(c)** *Subsequent study and report*
   >   - **(1)** *In general* Not later than September 30, 2028, the Secretary shall conduct a study to—
   >     - **(A)** analyze, to the extent practicable, the criteria established by hospitals under the Acute Hospital Care at Home initiative to determine which individuals may be furnished services under such initiative; and

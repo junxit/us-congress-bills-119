@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4313
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 2 executed, 2 stated and not applied.
+6 amendatory instructions. 3 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,6 +35,15 @@ to guess them.
 
 ### 42 U.S.C. § 1395cc-7
 
+> in clause (ii), by striking “the study described in subsection (b)” and inserting “the studies described in subsections (b) and (c)”; and
+
+| | |
+|---|---|
+| Removed | `the study described in subsection (b)` |
+| Inserted | `the studies described in subsections (b) and (c)` |
+
+### 42 U.S.C. § 1395cc-7
+
 > in subsection (b), in the subsection heading, by striking “Study” and inserting “Initial study”;
 
 | | |
@@ -51,5 +60,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| `42 U.S.C. § 1395cc-7` | add-at-end | by adding at the end the following new flush sentence: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395cc-7` | redesignate | by redesignating subsections (c) and (d) as subsections (d) and (e), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395cc-7` | insert | by inserting after subsection (b) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
