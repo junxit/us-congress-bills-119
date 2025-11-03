@@ -1,7 +1,7 @@
 ---
 measure: S. 572
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 0 executed, 6 stated and not applied.
+12 amendatory instructions. 0 executed, 12 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,12 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| `6 U.S.C. § 251` | add-at-end | Subtitle D of title IV of the Homeland Security Act of 2002 (6 U.S.C. 251 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | amend | Not later than 180 days after the date of the enactment of the Shadow Wolves Improvement Act, the Director, in consultation with appropriate representatives of partnering Tribal governments, including the Tohono O'odham Nation, shall upd… | the bill names no machine-readable US Code section |
+| `6 U.S.C. § 101` | insert | The table of contents for the Homeland Security Act of 2002 (6 U.S.C. 101 et seq.) is amended by inserting after the item relating to section 447 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | strike | in paragraph (2), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | `6 U.S.C. § 251` | add-at-end | Subtitle D of title IV of the Homeland Security Act of 2002 (6 U.S.C. 251 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | amend | Not later than 180 days after the date of the enactment of the Shadow Wolves Improvement Act, the Director, in consultation with appropriate representatives of partnering Tribal governments, including the Tohono O'odham Nation, shall upd… | the bill names no machine-readable US Code section |
 | `6 U.S.C. § 101` | insert | The table of contents for the Homeland Security Act of 2002 (6 U.S.C. 101 et seq.) is amended by inserting after the item relating to section 447 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
