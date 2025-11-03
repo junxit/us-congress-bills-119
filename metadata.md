@@ -1,7 +1,7 @@
 ---
 measure: S. 850
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 850
@@ -16,11 +16,12 @@ Northern Border Security Enhancement and Review Act
 
 - Sen. Hassan, Margaret Wood [D-NH] (H001076)
 
-## Cosponsors (3)
+## Cosponsors (4)
 
 - Sen. Cramer, Kevin [R-ND] (C001096)
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
 - Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Hoeven, John [R-ND] (H001061)
 
 ## Committees (1)
 
@@ -30,3 +31,7 @@ Northern Border Security Enhancement and Review Act
 
 - 2025-03-05 — Introduced in Senate
 - 2025-03-05 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2025-07-30 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2025-11-03 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Paul without amendment. Without written report.
+- 2025-11-03 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Paul without amendment. Without written report.
+- 2025-11-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 256.
