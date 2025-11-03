@@ -1,7 +1,7 @@
 ---
 measure: S. 594
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 594
@@ -28,3 +28,7 @@ HELP Response and Recovery Act
 
 - 2025-02-13 — Introduced in Senate
 - 2025-02-13 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2025-07-30 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2025-11-03 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Paul with an amendment in the nature of a substitute. Without written report.
+- 2025-11-03 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Paul with an amendment in the nature of a substitute. Without written report.
+- 2025-11-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 252.
