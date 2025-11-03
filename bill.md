@@ -153,3 +153,230 @@ This Act may be cited as the “National Landslide Preparedness Act Reauthorizat
 
   - **(3)** *Grants and cooperative agreements* Section 5(d)(3) of the National Landslide Preparedness Act (43 U.S.C. 3104(d)(3)) is amended by striking “publically” and inserting “publicly”.
   - **(4)** *Funding* Section 5(e) of the National Landslide Preparedness Act (43 U.S.C. 3104(e)) is amended by striking “2024” and inserting “2030”.
+
+## § 3. Reauthorization of National Landslide Preparedness Act
+
+- **(a)** *Definitions* Section 2 of the National Landslide Preparedness Act (43 U.S.C. 3101) is amended—
+  - **(1)** by redesignating paragraphs (4) through (11) as paragraphs (7), (8), (10), (11), (13), (14), (15), and (16), respectively;
+  - **(2)** by inserting after paragraph (3) the following:
+    > - **(4)** *Atmospheric river* The term atmospheric river has the meaning given the term in section 12(a) of the Flood Level Observation, Operations, and Decision Support Act (15 U.S.C. 9707(a)).
+    > - **(5)** *Atmospheric river flooding event* The term atmospheric river flooding event has the meaning given the term in section 12(a) of the Flood Level Observation, Operations, and Decision Support Act (15 U.S.C. 9707(a)).
+    > - **(6)** *Extreme precipitation event* The term extreme precipitation event has the meaning given the term in section 12(a) of the Flood Level Observation, Operations, and Decision Support Act (15 U.S.C. 9707(a)).
+
+  - **(3)** by inserting after paragraph (8) (as so redesignated) the following:
+    > - **(9)** *Institution of higher education* The term institution of higher education has the meaning given the term in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)).
+
+  - **(4)** by inserting after paragraph (11) (as so redesignated) the following:
+    > - **(12)** *Native Hawaiian Organization* The term Native Hawaiian organization has the meaning given the term in section 6207 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7517), except that the term includes the Department of Hawaiian Home Lands and the Office of Hawaiian Affairs.
+
+  - **(5)** by adding at the end the following:
+    > - **(17)** *Tribal organization* The term Tribal organization has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304).
+
+- **(b)** *National landslide hazards reduction program*
+  - **(1)** *Establishment* Section 3(a)(3) of the National Landslide Preparedness Act (43 U.S.C. 3102(a)(3)) is amended by striking “protect” and inserting “contribute to protecting”.
+  - **(2)** *Program activities* Section 3(b)(1)(C)(ii) of the National Landslide Preparedness Act (43 U.S.C. 3102(b)(1)(C)(ii)) is amended by striking “implement” and inserting “disseminate”.
+  - **(3)** *National strategy* Section 3(b)(2) of the National Landslide Preparedness Act (43 U.S.C. 3102(b)(2)) is amended—
+    - **(A)** by redesignating subparagraphs (A) through (C) as clauses (i) through (iii), respectively, and indenting appropriately;
+    - **(B)** in the matter preceding clause (i) (as so redesignated), by striking “Not later than” and inserting the following:
+      > - **(A)** *In general* Not later than
+
+    - **(C)** by adding at the end the following:
+      > - **(B)** *Assessment* For purposes of the first national strategy published after the date of enactment of the National Landslide Preparedness Act Reauthorization Act of 2025 under subparagraph (A), the Secretary, in consultation with the Secretary of Commerce, shall include an assessment of the risks that atmospheric river flooding events and extreme precipitation events pose to the safety of life and property in the United States with respect to landslide hazards.
+
+  - **(4)** *National landslide hazards database* Section 3(b)(3) of the National Landslide Preparedness Act (43 U.S.C. 3102(b)(3)) is amended—
+    - **(A)** by redesignating subparagraphs (C) and (D) as subparagraphs (D) and (E), respectively; and
+    - **(B)** by inserting after subparagraph (B) the following:
+      > - **(C)** the identification of areas in need of additional hazard risk assessment, including areas that may be at risk due to—
+      >   - **(i)** hydrology or changes in hydrology that may include erosion, drought, or other characteristics that could impact landslide risk;
+      >   - **(ii)** atmospheric river flooding events and extreme precipitation events, as identified by the Secretary of Commerce and the Secretary;
+      >   - **(iii)** geologic activity, such as volcanic eruptions, earthquakes, or tsunamis; or
+      >   - **(iv)** data-poor areas or hazards with poor monitoring that could contribute to increased landslide risk;
+
+  - **(5)** *Landslide hazard and risk preparedness for communities* Section 3(b)(4) of the National Landslide Preparedness Act (43 U.S.C. 3102(b)(4)) is amended—
+    - **(A)** in the matter preceding subparagraph (A), by inserting “Native Hawaiian organizations and other stakeholders, as appropriate,” before “and Indian tribes”;
+    - **(B)** in subparagraph (A)—
+      - **(i)** in the matter preceding clause (i), by striking “local, and Tribal governments and decisionmakers” and inserting “and local governments, Indian tribes, Tribal organizations, Native Hawaiian organizations, and other decisionmakers”;
+      - **(ii)** by striking clause (iii) and inserting the following:
+        > - **(iii)** health and safety with respect to landslides;
+
+      - **(iii)** by redesignating clause (iv) as clause (v); and
+      - **(iv)** by inserting after clause (iii) the following:
+        > - **(iv)** reducing losses from landslides, including the threats caused by atmospheric rivers and other extreme precipitation events; and
+
+    - **(C)** in subparagraph (B)—
+      - **(i)** in clause (i), by striking “local, and Tribal officials” and inserting “and local officials, Indian tribes, Tribal organizations, and Native Hawaiian organizations”; and
+      - **(ii)** in clause (ii), by striking “local, and Tribal emergency managers” and inserting “and local emergency managers and emergency managers of Indian tribes, Tribal organizations, and Native Hawaiian organizations”.
+  - **(6)** *Debris flow early warning system* Section 3(b)(5) of the National Landslide Preparedness Act (43 U.S.C. 3102(b)(5)) is amended—
+    - **(A)** in subparagraph (B), by striking “State, territorial, local, and Tribal governments” and inserting “State, territorial, and local governments, Indian tribes, Tribal organizations, and Native Hawaiian organizations”;
+    - **(B)** by redesignating subparagraphs (A) through (C) as clauses (i) through (iii), respectively, and indenting appropriately;
+    - **(C)** in the matter preceding clause (i) (as so redesignated), by striking “In carrying out” and inserting the following:
+      > - **(A)** *In general* In carrying out
+
+    - **(D)** by adding at the end the following:
+      > - **(B)** *Consultation* In carrying out subparagraph (A), the Secretary may consult with an institution of higher education described in subsection (d)(2)(B)(iv) and other stakeholders to establish and support emergency response procedures, as appropriate.
+
+  - **(7)** *Emergency response activities* Section 3(b)(6) of the National Landslide Preparedness Act (43 U.S.C. 3102(b)(6)) is amended—
+    - **(A)** by redesignating subparagraphs (A) through (C) as clauses (i) through (iii), respectively, and indenting appropriately;
+    - **(B)** in the matter preceding clause (i) (as so redesignated), by striking “In carrying” and inserting the following:
+      > - **(A)** *In general* In carrying
+
+    - **(C)** in subparagraph (A) (as so designated)—
+      - **(i)** in the matter preceding clause (i) (as so redesignated), by inserting “Native Hawaiian organizations,” before “and Indian tribes”;
+      - **(ii)** in clause (ii) (as so redesignated), by striking “and” at the end;
+      - **(iii)** in clause (iii) (as so redesignated), by striking the period at the end and inserting “; and”; and
+      - **(iv)** by adding at the end the following:
+        > - **(iv)** to improve real-time risk management during landslide events, including with respect to landslide events caused by—
+        >   - **(I)** hydrology or changes in hydrology that may include erosion, drought, or other characteristics that could impact landslide risk;
+        >   - **(II)** atmospheric river flooding events and extreme precipitation events, as identified by the Secretary of Commerce and the Secretary;
+        >   - **(III)** geologic activity, such as volcanic eruptions, earthquakes, or tsunamis;
+        >   - **(IV)** data-poor areas or hazards with poor monitoring that could contribute to increased landslide risk; or
+        >   - **(V)** thawing permafrost and glacial retreat causing destabilization of slopes.
+
+    - **(D)** by adding at the end the following:
+      > - **(B)** *Consultation* In carrying out subparagraph (A), the Secretary may consult with an institution of higher education described in subsection (d)(2)(B)(iv) and the private sector.
+
+  - **(8)** *Advisory committee* Section 3(d)(2)(B) of the National Landslide Preparedness Act (43 U.S.C. 3102(d)(2)(B)) is amended—
+    - **(A)** in clause (iii), by striking “geological”; and
+    - **(B)** in clause (vi), by striking “local, and Tribal emergency management agencies” and inserting “and local emergency management agencies and emergency management agencies of Indian tribes and Native Hawaiian organizations”.
+  - **(9)** *Regional partnerships* Section 3 of the National Landslide Preparedness Act (43 U.S.C. 3102) is amended—
+    - **(A)** by redesignating subsections (e) through (i) as subsections (f) through (j), respectively; and
+    - **(B)** by inserting after subsection (d) the following:
+      > - **(e)** *Regional partnerships*
+      >   - **(1)** *In general* As soon as practicable after the date of enactment of the National Landslide Preparedness Act Reauthorization Act of 2025, the Secretary shall establish in each region in which the Secretary determines that there is a high landslide hazard a regional partnership with an eligible partner described in paragraph (2).
+      >   - **(2)** *Eligible partners* An organization or institution of higher education with expertise in landslide mapping, research, and monitoring shall be eligible for a regional partnership under paragraph (1).
+      >   - **(3)** *Purposes and duties* A regional partnership established under paragraph (1) shall—
+      >     - **(A)** allow the Secretary to leverage applicable expertise in regional organizations;
+      >     - **(B)** coordinate long-term landslide research specific to the applicable region; and
+      >     - **(C)** align interagency landslide monitoring efforts.
+
+  - **(10)** *Grant programs* Section 3 of the National Landslide Preparedness Act (43 U.S.C. 3102) is amended, in paragraph (1) of subsection (f) (as redesignated by paragraph (9)(A))—
+    - **(A)** in subparagraph (A)(i), by striking “local, and Tribal governments to research, map, assess” and inserting “and local governments, Indian tribes, Tribal organizations, and Native Hawaiian organizations to research, map, assess, monitor”;
+    - **(B)** in subparagraph (B)—
+      - **(i)** in clause (i), by inserting “institutions of higher education described in subsection (d)(2)(B)(iv),” before “and Indian tribes”; and
+      - **(ii)** in clause (ii)—
+        - **(I)** by redesignating subclauses (II) through (IV) as subclauses (III) through (V), respectively; and
+        - **(II)** by inserting after subclause (I) the following:
+          > - **(II)** in regions that have recently experienced loss of life due to landslides;
+
+    - **(C)** in subparagraph (C)—
+      - **(i)** in clause (i), by inserting “awarded” after “grants”; and
+      - **(ii)** in clause (ii), by striking “made” and inserting “or other accomplishments resulting”.
+  - **(11)** *Significant events* Section 3 of the National Landslide Preparedness Act (43 U.S.C. 3102) is amended, in subsection (h)(3) (as so redesignated), by striking “local, and Tribal partners” and inserting “and local partners, Indian tribes, Tribal organizations, and Native Hawaiian organizations”.
+  - **(12)** *Funding* Section 3 of the National Landslide Preparedness Act (43 U.S.C. 3102) is amended, in subsection (i) (as redesignated by paragraph (9)(A))—
+    - **(A)** in the matter preceding paragraph (1), by striking “2024” and inserting “2030”; and
+    - **(B)** in paragraph (1), by striking “$25,000,000 to carry out this section” and inserting “$35,000,000 to carry out this section, of which not less than $10,000,000 shall be made available for the purchase, deployment, and repair of landslide early warning systems in high risk areas”.
+- **(c)** *3D elevation program*
+  - **(1)** *Establishment* Section 5(a) of the National Landslide Preparedness Act (43 U.S.C. 3104(a)) is amended—
+    - **(A)** in paragraph (1)(A), by inserting “and derivative” after “3D elevation”; and
+    - **(B)** in paragraph (2)(B)(i), by inserting “, process, and integrate” after “acquire”.
+  - **(2)** *3D Elevation Federal Interagency Coordinating Committee* Section 5(b)(3) of the National Landslide Preparedness Act (43 U.S.C. 3104(b)(3)) is amended—
+    - **(A)** by redesignating subparagraphs (D) and (E) as subparagraphs (E) and (F), respectively; and
+    - **(B)** by inserting after subparagraph (C) the following:
+      > - **(D)** the 3D Hydrography Program Working Group;
+
+  - **(3)** *Grants and cooperative agreements* Section 5(d)(3) of the National Landslide Preparedness Act (43 U.S.C. 3104(d)(3)) is amended by striking “publically” and inserting “publicly”.
+  - **(4)** *Funding* Section 5(e) of the National Landslide Preparedness Act (43 U.S.C. 3104(e)) is amended by striking “2024” and inserting “2034”.
+
+## § 4. Next Generation Water Observing System
+
+The Act of December 24, 1942 (56 Stat. 1086, chapter 822; 43 U.S.C. 36b), is amended—
+
+- **(1)** in the first section, by striking “That the Secretary of the Interior” and inserting the following:
+  > ## § 1. Gaging streams and underground water resources
+  >
+  > The Secretary of the Interior (referred to in this Act as the Secretary)
+
+- **(2)** in section 1 (as so designated)—
+  - **(A)** in the second sentence, by striking “of the Interior”; and
+  - **(B)** in the proviso—
+    - **(i)** by striking “this Act” each place it appears and inserting “this section”; and
+    - **(ii)** by striking “of the Interior”; and
+- **(3)** by adding at the end the following:
+  > ## § 2. Next Generation Water Observing System
+  >
+  > - **(a)** *Establishment* The Secretary shall establish within the United States Geological Survey a system, to be known as the “Next Generation Water Observing System” (referred to in this section as the System).
+  > - **(b)** *Purpose* The purpose of the System is to provide real-time data on water quantity and quality—
+  >   - **(1)** that, as compared to previous systems, is more affordable, more rapid, and available in more locations; and
+  >   - **(2)** to support advanced modeling tools—
+  >     - **(A)** to provide state-of-the-art flood and drought forecasts;
+  >     - **(B)** to inform emergency- and water-management decision support systems; and
+  >     - **(C)** to help evaluate—
+  >       - **(i)** the near-term and long-term risks of floods and droughts, including any scenarios that modify those risks;
+  >       - **(ii)** the quantity of water stored in seasonal snow packs, and how changes in seasonal snow packs affect water supplies;
+  >       - **(iii)** the early stages of drought;
+  >       - **(iv)** the predicted timelines for drought recovery;
+  >       - **(v)** the quantity of water lost to evapotranspiration;
+  >       - **(vi)** water quality differences during wet and dry periods;
+  >       - **(vii)** the effects of streamflow on groundwater;
+  >       - **(viii)** the effects of groundwater on streamflow; and
+  >       - **(ix)** ice and water volume stored in glaciers and changing water volumes due to glacial retreat.
+  > - **(c)** *System requirements* The System shall provide for—
+  >   - **(1)** state-of-the-art measurements;
+  >   - **(2)** a dense array of sensors at selected sites;
+  >   - **(3)** increased spatial and temporal coverage;
+  >   - **(4)** new technology testing and implementation;
+  >   - **(5)** improved operational efficiency; and
+  >   - **(6)** modernized and timely data storage and delivery.
+  > - **(d)** *Priority regions* In determining in which regions of the United States Geological Survey to carry out the System, the Secretary shall give priority to regions of the United States Geological Survey in which there is—
+  >   - **(1)** a high level of drought;
+  >   - **(2)** a reliance on reservoirs for water storage;
+  >   - **(3)** a reliance on hydrologic storage, including groundwater, aquifers, and snowpack; and
+  >   - **(4)** flooding and extreme rainfall.
+  > - **(e)** *Authorization of appropriations*
+  >   - **(1)** *In general* There is authorized to be appropriated to carry out this section in 10 initial basins, as determined by the Secretary, $30,000,000 for fiscal year 2026, to remain available until expended.
+  >   - **(2)** *Derivation of funds* Amounts made available to carry out this section shall be derived from amounts appropriated or otherwise made available to the United States Geological Survey.
+
+## § 5. Water data enhancement and national groundwater resources monitoring by United States Geological Survey
+
+Section 9507 of the Omnibus Public Land Management Act of 2009 (42 U.S.C. 10367) is amended—
+
+- **(1)** in subsection (a)—
+  - **(A)** in paragraph (2)(C)—
+    - **(i)** in clause (i), by striking “and” at the end;
+    - **(ii)** in clause (ii), by inserting “and” after the semicolon at the end; and
+    - **(iii)** by adding at the end the following:
+      > - **(iii)** the conduct of groundwater quality assessments relating to permafrost thaw and changes in precipitation rates;
+
+  - **(B)** in paragraph (4)—
+    - **(i)** in subparagraph (A)—
+      - **(I)** in the matter preceding clause (i), by striking “10 years” and inserting “11 years”; and
+      - **(II)** in clause (i), by striking “national streamflow information program” and inserting “Federal priority streamgage program”;
+    - **(ii)** in subparagraph (B), by striking “Federal Priority streamgage program” and inserting “Federal Priority Streamgage Network”; and
+    - **(iii)** by adding at the end the following:
+      > - **(C)** *Priority sites* In selecting sites for the installation of streamgages under subparagraph (A), the Secretary shall give priority to regions of the United States Geological Survey in which there is—
+      >   - **(i)** a high level of drought;
+      >   - **(ii)** a reliance on reservoirs for water storage;
+      >   - **(iii)** a reliance on hydrologic storage, including groundwater, aquifers, and snowpack; and
+      >   - **(iv)** flooding and extreme rainfall.
+      > - **(D)** *No impact on existing sites* The priority provided under subparagraph (C) shall have no impact on any site or region in which a streamgage has been installed, and is operating, as of the date of enactment of the National Landslide Preparedness Act Reauthorization Act of 2025, subject to the condition that the data from such a site or region are continuing to meet the priority needs of stakeholders, as determined by the Secretary.
+
+  - **(C)** in paragraph (6)—
+    - **(i)** in subparagraph (B), by striking “$10,000,000 for each of fiscal years 2009 through 2028” and inserting “$30,000,000 for each of fiscal years 2026 through 2033”; and
+    - **(ii)** by adding at the end the following:
+      > - **(C)** *Derivation of funds* Amounts made available to carry out this subsection shall be derived from amounts appropriated or otherwise made available to the United States Geological Survey.
+
+- **(2)** in subsection (b)—
+  - **(A)** in paragraph (2)—
+    - **(i)** in subparagraph (B), in the matter preceding clause (i), by striking “and State and local water resource agencies and Tribes” and inserting “, State and local water resource agencies, Indian tribes, Tribal organizations, and Native Hawaiian organizations”; and
+    - **(ii)** in subparagraph (C), by striking “State water resource agency or Tribe” and inserting “State water resource agency, Indian tribe, Tribal organization, or Native Hawaiian organization”;
+  - **(B)** in paragraph (6)—
+    - **(i)** by striking “give priority to those activities” and inserting the following:
+      > give priority to—
+      > - **(A)** activities
+
+    - **(ii)** in subparagraph (A) (as so designated)—
+      - **(I)** by striking “State, a Tribe” and inserting “State, Indian tribe, Tribal organization, Native Hawaiian organization,”; and
+      - **(II)** by striking the period at the end and inserting “; and”; and
+    - **(iii)** by adding at the end the following:
+      > - **(B)** activities conducted in regions of the United States Geological Survey in which there is—
+      >   - **(i)** a high level of drought;
+      >   - **(ii)** a reliance on reservoirs for water storage;
+      >   - **(iii)** a reliance on hydrologic storage, including groundwater, aquifers, and snowpack; and
+      >   - **(iv)** flooding and extreme rainfall.
+
+  - **(C)** in paragraph (7)—
+    - **(i)** by striking “There are authorized to be appropriated” and inserting the following:
+      > - **(A)** *In general* There is authorized to be appropriated
+
+    - **(ii)** by adding at the end the following:
+      > - **(B)** *Derivation of funds* Amounts made available to carry out this subsection shall be derived from amounts appropriated or otherwise made available to the United States Geological Survey.

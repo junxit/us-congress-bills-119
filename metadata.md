@@ -1,7 +1,7 @@
 ---
 measure: S. 1626
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1626
@@ -28,3 +28,7 @@ National Landslide Preparedness Act Reauthorization Act of 2025
 
 - 2025-05-06 — Introduced in Senate
 - 2025-05-06 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2025-05-21 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment favorably.
+- 2025-11-03 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment. With written report No. 119-92.
+- 2025-11-03 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment. With written report No. 119-92.
+- 2025-11-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 249.
