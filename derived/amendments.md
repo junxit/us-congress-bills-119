@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4550
 congress: 119
-version: Referred in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-27 amendatory instructions. 19 executed, 8 stated and not applied.
+56 amendatory instructions. 26 executed, 30 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -195,6 +195,69 @@ to guess them.
 | Removed | `2025` |
 | Inserted | `2030` |
 
+### 7 U.S.C. § 79
+
+> in paragraph (3), in the second sentence, by striking “Secretary shall be credited to the fund” and inserting “Secretary, and the interest earned from the investment of those penalties, shall be credited to the trust fund created in paragraph (1)”; and
+
+| | |
+|---|---|
+| Removed | `Secretary shall be credited to the fund` |
+| Inserted | `Secretary, and the interest earned from the investment of those penalties, shall be credited to the trust fund created in paragraph (1)` |
+
+### 7 U.S.C. § 79
+
+> in paragraph (5), in the first sentence, by striking “2025” and inserting “2030”.
+
+| | |
+|---|---|
+| Removed | `2025` |
+| Inserted | `2030` |
+
+### 7 U.S.C. § 79d
+
+> by striking “2025” and inserting “2030”.
+
+| | |
+|---|---|
+| Removed | `2025` |
+| Inserted | `2030` |
+
+### 7 U.S.C. § 87j
+
+> in paragraph (4) (as so designated), by striking “terms” and inserting “terms unless the member is continuing to serve in accordance with paragraph (5)(C)”; and
+
+| | |
+|---|---|
+| Removed | `terms` |
+| Inserted | `terms unless the member is continuing to serve in accordance with paragraph (5)(C)` |
+
+### 7 U.S.C. § 87j
+
+> in subsection (e), by striking “2025” and inserting “2030”.
+
+| | |
+|---|---|
+| Removed | `2025` |
+| Inserted | `2030` |
+
+### 7 U.S.C. § 79a
+
+> Section 7A(l)(4) of the United States Grain Standards Act (7 U.S.C. 79a(l)(4)) is amended, in the first sentence, by striking “2025” and inserting “2030”.
+
+| | |
+|---|---|
+| Removed | `2025` |
+| Inserted | `2030` |
+
+### 7 U.S.C. § 87h
+
+> Section 19(a) of the United States Grain Standards Act (7 U.S.C. 87h(a)) is amended by striking “2025” and inserting “2030”.
+
+| | |
+|---|---|
+| Removed | `2025` |
+| Inserted | `2030` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -212,3 +275,25 @@ complete account of the bill's effect, which it is not.
 | `7 U.S.C. § 87f-2` | redesignate | by redesignating paragraph (2) as paragraph (3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 87f-2` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `7 U.S.C. § 87j` | add-at-end | in subsection (a), by adding at the end the following: “Notwithstanding the previous sentence, if the Secretary does not make a new appointment upon the completion of a term of an existing member (including such existing member’s second … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 74` | strike | in paragraph (2), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `7 U.S.C. § 74` | replace | in paragraph (3)(F), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `7 U.S.C. § 74` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 79` | add-at-end | Section 7(e) of the United States Grain Standards Act (7 U.S.C. 79(e)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 79a` | insert | Section 7A(c)(2) of the United States Grain Standards Act (7 U.S.C. 79a(c)(2)) is amended, in the first sentence, by inserting “or official agency” after “State agency”. | the bill quotes the text inserted but describes where it goes |
+| `7 U.S.C. § 79` | insert | by inserting “trust” before “fund” each place it appears; | the bill quotes the text inserted but describes where it goes |
+| `7 U.S.C. § 79` | insert | Section 7(g)(2) of the United States Grain Standards Act (7 U.S.C. 79(g)(2)) is amended, in the second sentence, by inserting “trust” before “fund”. | the bill quotes the text inserted but describes where it goes |
+| `7 U.S.C. § 79a` | insert | Section 7A(l) of the United States Grain Standards Act (7 U.S.C. 79a(l)) is amended by inserting “trust” before “fund created in section 7(j)” each place it appears. | the bill quotes the text inserted but describes where it goes |
+| `7 U.S.C. § 79b` | insert | Section 7B(a) of the United States Grain Standards Act (7 U.S.C. 79b(a)) is amended, in the third sentence, by inserting “trust” before “fund”. | the bill quotes the text inserted but describes where it goes |
+| `7 U.S.C. § 87e` | insert | Section 16(j) of the United States Grain Standards Act (7 U.S.C. 87e(j)) is amended by inserting “trust” before “fund”. | the bill quotes the text inserted but describes where it goes |
+| `7 U.S.C. § 87f-1` | insert | Section 17A(e) of the United States Grain Standards Act (7 U.S.C. 87f–1(e)) is amended, in the third sentence, by inserting “trust” before “fund”. | the bill quotes the text inserted but describes where it goes |
+| `7 U.S.C. § 79d` | insert | by inserting “, equipment, and development of technology” after “activities”; and | the bill quotes the text inserted but describes where it goes |
+| `7 U.S.C. § 87e` | insert | Section 16(e) of the United States Grain Standards Act (7 U.S.C. 87e(e)) is amended by inserting “State agencies delegated authority under sections 7 and 7A, and official agencies,” after “Department of Agriculture,”. | the bill quotes the text inserted but describes where it goes |
+| `7 U.S.C. § 87f-2` | redesignate | by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively, and indenting appropriately; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 87f-2` | redesignate | in the matter preceding subparagraph (A) (as so redesignated), by striking “The Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `7 U.S.C. § 87f-2` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 87j` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 87j` | replace | in the fourth sentence, by striking “No member” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `7 U.S.C. § 87j` | replace | in the third sentence, by striking “Members” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `7 U.S.C. § 87j` | replace | in the second sentence, by striking “The advisory” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `7 U.S.C. § 87j` | insert | in the first sentence, by inserting “(referred to in this section as the advisory committee)” before the period at the end; and | the bill quotes the text inserted but describes where it goes |
+| `7 U.S.C. § 87j` | replace | by striking “(a) Not later” and inserting the following: | the bill quotes the text struck but describes what replaces it |

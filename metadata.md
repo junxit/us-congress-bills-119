@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4550
 congress: 119
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 4550
@@ -43,3 +43,7 @@ United States Grain Standards Reauthorization Act of 2025
 - 2025-09-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3870)
 - 2025-09-09 — Received in the Senate.
 - 2025-10-28 — Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
+- 2025-11-03 — Committee on Agriculture, Nutrition, and Forestry. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2025-11-04 — Committee on Agriculture, Nutrition, and Forestry. Reported by Senator Boozman with an amendment in the nature of a substitute. Without written report.
+- 2025-11-04 — Committee on Agriculture, Nutrition, and Forestry. Reported by Senator Boozman with an amendment in the nature of a substitute. Without written report.
+- 2025-11-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 263.
