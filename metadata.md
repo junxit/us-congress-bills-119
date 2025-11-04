@@ -1,7 +1,7 @@
 ---
 measure: S. 503
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 503
@@ -34,3 +34,5 @@ NET Act
 - 2025-09-29 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-66.
 - 2025-09-29 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-66.
 - 2025-09-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 171.
+- 2025-11-04 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S7904-7905; text: CR S7905)
+- 2025-11-04 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
