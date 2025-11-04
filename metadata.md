@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 399
 congress: 119
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 399
@@ -30,3 +30,7 @@ A resolution congratulating the people of North Macedonia on the 34th anniversar
 
 - 2025-09-17 — Introduced in Senate
 - 2025-09-17 — Referred to the Committee on Foreign Relations.
+- 2025-11-04 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2025-11-04 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S7905; text: CR 9/17/2025 S6698)
+- 2025-11-04 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2025-11-04 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
