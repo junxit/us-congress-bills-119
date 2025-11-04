@@ -16,7 +16,7 @@ This Act may be cited as the “Financial Exploitation Prevention Act of 2025”
 ## § 2. Redemption of certain securities postponed
 
 - **(a)** *In general* Section 22 of the Investment Company Act of 1940 (15 U.S.C. 80a–22) is amended by adding at the end the following:
-  > - **(h)** *Requirements with respect to non-Institutional direct at-Fund accounts*
+  > - **(h)** *Requirements with respect to non-institutional direct at-fund accounts*
   >   - **(1)** *Election*
   >     - **(A)** *In general* A registered open-end investment company and a transfer agent described under paragraph (2) may elect to comply with the requirements under paragraph (2) and subsection (i) by notifying the Commission of such election.
   >     - **(B)** *Effect of election* Paragraph (2) and subsection (i) shall only apply to a registered open-end investment company and a transfer agent that have made the election under subparagraph (A).
@@ -60,7 +60,7 @@ This Act may be cited as the “Financial Exploitation Prevention Act of 2025”
   >     - **(F)** *Information included in certain statements* An open-end investment company shall include in each prospectus or statement of additional information a notification that the company or transfer agent acting on behalf of such company may postpone redemption of certain securities under this subsection.
   >     - **(G)** *Record retention* An open-end investment company or transfer agent acting on behalf of such company shall—
   >       - **(i)** document and retain records of—
-  >         - **(I)** each postponement of redemption under subparagraph (A), (B), and (C);
+  >         - **(I)** each postponement of redemption under subparagraph (A), (B), or (C);
   >         - **(II)** each finding under subparagraph (B)(i);
   >         - **(III)** the name and position of each employee described in subparagraph (E)(iii);
   >         - **(IV)** each notification carried out under subparagraph (B)(ii); and
@@ -70,7 +70,7 @@ This Act may be cited as the “Financial Exploitation Prevention Act of 2025”
   >     - **(A)** an individual age 65 or older; or
   >     - **(B)** an individual age 18 or older who a registered open-end investment company or a transfer agent acting on behalf of such company reasonably believes has a mental or physical impairment that renders the individual unable to protect the individual’s own interests.
 
-- **(b)** *Recommendations*
+- **(b)** *Regulatory and legislative recommendations*
   - **(1)** *In general* Not later than 1 year after the date of the enactment of this section, the Securities and Exchange Commission, in consultation with the entities specified in paragraph (2), shall submit to Congress a report that includes recommendations regarding the regulatory and legislative changes necessary to address the financial exploitation of security holders who are specified adults (as defined in subsection (i)(3) of section 22 of the Investment Company Act of 1940 (15 U.S.C. 80a–22), as added by this section).
   - **(2)** *Consultation* The entities specified in this paragraph are as follows:
     - **(A)** The Commodity Futures Trading Commission.
