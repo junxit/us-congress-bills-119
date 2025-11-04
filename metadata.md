@@ -1,7 +1,7 @@
 ---
 measure: S. 240
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 240
@@ -28,3 +28,7 @@ Crow Tribe Water Rights Settlement Amendments Act of 2025
 
 - 2025-01-24 — Introduced in Senate
 - 2025-01-24 — Read twice and referred to the Committee on Indian Affairs.
+- 2025-03-05 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2025-11-04 — Committee on Indian Affairs. Reported by Senator Murkowski without amendment. With written report No. 119-93.
+- 2025-11-04 — Committee on Indian Affairs. Reported by Senator Murkowski without amendment. With written report No. 119-93.
+- 2025-11-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 260.
