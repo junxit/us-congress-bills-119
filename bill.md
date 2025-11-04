@@ -13,11 +13,22 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Business Owners Protection Act of 2025”.
 
-## § 2. Termination of certain unused authorities of Securities and Exchange Commission
+## § 2. Repeal of certain unused authority to restrict mandatory predispute arbitration
 
-Section 23 of the Securities Exchange Act of 1934 (15 U.S.C. 78w) is amended by adding at the end the following:
+- **(a)** *In general* Section 15 of the Securities Exchange Act of 1934 (15 U.S.C. 78o) is amended by repealing subsection (o).
+- **(b)** *Conforming amendment* Section 921 of the Investor Protection and Securities Reform Act of 2010 is amended by striking subsection (a).
 
-> - **(e)** *Termination of certain unused authorities*
->   - **(1)** *In general* With respect to authorities of the Commission that were established pursuant to the Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5301 et seq.), any such authority that provides discretion as to whether to establish a requirement for private entities, and for which the Commission had not issued a notice of proposed rulemaking under section 553 of title 5, United States Code, or a guidance document before January 1, 2025, is terminated upon the date of enactment of this subsection.
->   - **(2)** *Inclusion of authorities* The reference in paragraph (1) to authorities established pursuant to the Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5301 et seq.) includes authorities established for the Commission through amendments made by such Act to this Act.
->   - **(3)** *List of authorities* Not later than 180 days after the date of enactment of this subsection, the Commission shall submit to Congress and publish a publicly available list of each authority that is terminated under paragraph (1).
+## § 3. Removal of certain authority related to fiduciary duties
+
+- **(a)** *Securities Exchange Act of 1934* The second subsection (l) of section 15 of the Securities Exchange Act of 1934 (15 U.S.C. 78o; relating to “Other matters”) is amended—
+  - **(1)** by striking “Commission shall” and all that follows through “(1) facilitate” and inserting “Commission shall facilitate”;
+  - **(2)** in paragraph (1), by striking “; and” and inserting a period; and
+  - **(3)** by striking paragraph (2).
+- **(b)** *Investment Advisers Act of 1940* Section 211(h) of the Investment Advisers Act of 1940 (15 U.S.C. 80b–11(h)) is amended—
+  - **(1)** by striking “Commission shall” and all that follows through “(1) facilitate” and inserting “Commission shall facilitate”;
+  - **(2)** in paragraph (1), by striking “; and” and inserting a period; and
+  - **(3)** by striking paragraph (2).
+
+## § 4. Repeal of certain unused authority related to standards of conduct
+
+Section 15 of the Securities Exchange Act of 1934 (15 U.S.C. 78o) is amended by repealing the second subsection (k) (relating to “Standard of Conduct”).
