@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 459
 congress: 119
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 459
@@ -31,3 +31,7 @@ A resolution honoring the strategic importance of the C5+1 diplomatic platform a
 
 - 2025-10-21 — Introduced in Senate
 - 2025-10-21 — Referred to the Committee on Foreign Relations.
+- 2025-11-04 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2025-11-04 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S7905; text: CR 10/21/2025 S7188)
+- 2025-11-04 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2025-11-04 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
