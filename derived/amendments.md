@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5344
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+5 amendatory instructions. 0 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,7 +31,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | in the heading, by striking ‘Kleptocracy Asset Recovery Rewards Pilot Program’ and inserting “Kleptocracy Asset Recovery Rewards Program”; | the bill names no machine-readable US Code section |
-| — | replace | in subsection (a)(1), by striking “Kleptocracy Asset Recovery Rewards Pilot Program” and inserting “‘Kleptocracy Asset Recovery Rewards Program”; | the bill names no machine-readable US Code section |
+| — | replace | in the heading, by striking “Kleptocracy Asset Recovery Rewards Pilot Program” and inserting “Kleptocracy Asset Recovery Rewards Program”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a)(1), by striking “‘Kleptocracy Asset Recovery Rewards Pilot Program’” and inserting “‘Kleptocracy Asset Recovery Rewards Program”; | the bill names no machine-readable US Code section |
 | — | strike | in subsection (g)(1), by striking “for 3 years”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking subsection (i) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | The table of contents in section 2(b) and in title XCVII of the National Defense Authorization Act for Fiscal Year 2021 are each amended, in the item relating to section 9703, by striking “Kleptocracy Asset Recovery Rewards Pilot Program… | the bill names no machine-readable US Code section |
