@@ -1,0 +1,22 @@
+---
+legis-num: S. 3113
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3113
+
+> To amend the Immigration and Nationality Act to clarify that aliens who have been convicted of defrauding the United States Government or unlawfully receiving public benefits are inadmissible and deportable.
+
+## § 1. Short title
+
+This Act may be cited as the “Deporting Fraudsters Act of 2025”.
+
+## § 2. Inadmissibility and deportability related to defrauding the United States Government or unlawfully receiving public benefits
+
+- **(a)** *Inadmissibility* Section 212(a)(2) of the Immigration and Nationality Act (8 U.S.C. 1182(a)(2)) is amended by adding at the end the following:
+  > - **(J)** *Defrauding the united states government or unlawfully receiving public benefits* Any alien who has been convicted of, who admits having committed, or who admits committing acts constituting the essential elements of, an offense that involves defrauding the United States Government or unlawfully receiving a Federal public benefit (as such term is defined in section 401(c) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (8 U.S.C. 1611(c)) or a State or local public benefit (as such term is defined in section 411(c) of such Act (8 U.S.C. 1621(c))), or a conspiracy to commit such an offense, is inadmissible.
+
+- **(b)** *Deportability* Section 237(a)(2) of the Immigration and Nationality Act (8 U.S.C. 1227(a)(2)) is amended by adding at the end the following:
+  > - **(G)** *Defrauding the united states government or unlawfully receiving public benefits* Any alien who has been convicted of an offense that involves defrauding the United States Government or unlawfully receiving a Federal public benefit (as such term is defined in section 401(c) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (8 U.S.C. 1611(c)) or a State or local public benefit (as such term is defined in section 411(c) of such Act (8 U.S.C. 1621(c))), or a conspiracy to commit such an offense, is deportable.
