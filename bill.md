@@ -1,0 +1,25 @@
+---
+legis-num: H. RES. 865
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 865
+
+> Amending the Rules of the House of Representatives to provide a process for Members to call for an end to certain district work periods, and for other purposes.
+
+## § 1. Short title
+
+This resolution may be cited as the “Opening the People’s House Resolution”.
+
+## § 2. Requirement with respect to district work periods
+
+Clause 13 of rule I of the Rules of the House of Representatives is amended by adding at the end the following new paragraph:
+
+> - **(d)**
+>   - **(1)** On any day during a district work period described in paragraph (a), any Member may submit to the Clerk a letter calling for an end to such district work period. The Clerk shall make any such letter submitted a matter of public record, causing the names of the Members who have submitted such a letter during a district work period to be published in a portion of the Congressional Record designated for that purpose and making cumulative lists of such names available each day for public inspection in an appropriate office of the House. The Clerk shall devise a means for making such lists available to offices of the House and to the public in electronic form.
+>   - **(2)** If, with respect to a district work period described in paragraph (a), a majority of the membership of the House, duly chosen and sworn, submit a letter described in subparagraph (1)—
+>   - **(A)** it shall be entered on the Journal and published in the Record;
+>   - **(B)** such district work period shall terminate within 2 days; and
+>   - **(C)** the Speaker may not designate another district work period under paragraph (a) during the period that begins on the date the House next reconvenes and ends on the date that is 3 weeks after such reconvening.
