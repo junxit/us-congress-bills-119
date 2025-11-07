@@ -1,0 +1,27 @@
+---
+legis-num: H.R. 5954
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5954
+
+> To require the United States Trade Representative, in consultation with the Secretary of Agriculture, to determine a means of reinstating mandatory country of origin labeling for beef that is in compliance with all applicable rules of the World Trade Organization, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Beef Origin Labeling Accountability Act”.
+
+## § 2. Reinstatement of mandatory country of origin labeling for beef
+
+- **(a)** *In general* The United States Trade Representative, in consultation with the Secretary of Agriculture, shall determine a means of reinstating mandatory country of origin labeling for beef that is in compliance with all applicable rules of the World Trade Organization.
+- **(b)** *Report* Not later than 180 days after the date of the enactment of this Act, and every 180 days thereafter as appropriate, the United States Trade Representative shall submit to the appropriate congressional committees a report that includes—
+  - **(1)** a description of progress in meeting the requirements of subsection (a); and
+  - **(2)** recommendations for legislation to implement the requirements of subsection (a), including the means of reinstating mandatory country of origin labeling for beef, if necessary, as well as engagements with the Trade Representative’s counterparts in other governments on this matter.
+- **(c)** *Consultations To resolve WTO dispute settlements* The United States Trade Representative shall seek to enter into consultations with—
+  - **(1)** the Trade Representative’s counterpart in the Government of Canada to resolve the matters involved in the World Trade Organization’s dispute settlement identified as “DS384” and titled “United States–Certain Country of Origin Labeling Requirements”; and
+  - **(2)** the Trade Representative’s counterpart in the Government of Mexico to resolve the matters involved in the World Trade Organization’s dispute settlement identified as “DS386” and titled “United States–Certain Country of Origin Labeling Requirements”.
+- **(d)** *Appropriate congressional committees* In this section, the term “appropriate congressional committees” means—
+  - **(1)** the Committee on Agriculture and the Committee on Ways and Means of the House of Representatives; and
+  - **(2)** the Committee on Agriculture, Nutrition, and Forestry and the Committee on Finance of the Senate.
