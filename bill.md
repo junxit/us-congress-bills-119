@@ -1,0 +1,28 @@
+---
+legis-num: H.R. 5969
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5969
+
+> To amend the Federal Food, Drug, and Cosmetic Act to ensure that abortion-inducing drugs bear a label identifying the name and address of the dispenser and the name of the prescriber, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Linking Abortion-drug Batches for Enforcement and Liability Act” or the “LABEL Act”.
+
+## § 2. Labeling requirements for abortion-inducing drugs
+
+- **(a)** *In general* Section 503(b) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 353(b)) is amended by adding at the end the following:
+  > - **(6)**
+  >   - **(A)** Notwithstanding any other provision of this Act, in the case of an abortion-inducing drug, the drug shall be deemed to be misbranded unless the drug bears a label that identifies—
+  >     - **(i)** the name and address of the dispenser; and
+  >     - **(ii)** the name of the prescriber.
+  >   - **(B)** No State or political subdivision of a State may establish, continue in effect, or enforce a labeling requirement for an abortion-inducing drug that is not at least as stringent as the labeling requirement in subparagraph (A).
+  >   - **(C)** In this paragraph, the term abortion-inducing drug—
+  >     - **(i)** means a drug that is intended, alone or in combination with 1 or more other drugs, for use or that is in fact used (irrespective of how the drug is labeled) to kill the unborn child of a woman known to be pregnant or to terminate the pregnancy of a woman known to be pregnant; but
+  >     - **(ii)** does not include a drug that is intended, alone or in combination with 1 or more other drugs, for use to remove a dead unborn child of a woman known to be pregnant or to treat an ectopic pregnancy.
+
+- **(b)** *Severability* If any provision of this section, the amendment made by this section, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this section, the amendment made by this section, and the application of the provision to such person or circumstance shall not be affected thereby.
