@@ -1,0 +1,20 @@
+---
+legis-num: H.R. 5988
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5988
+
+> To amend section 2680 of title 18, United States Code, to provide for an exception to the Federal Tort Claims Act.
+
+## § 1. Short title
+
+This Act may be cited as the “Ceasing Outrageous Restitution and Reimbursement Under President Trump Act” or the “CORRUPT Act”.
+
+## § 2. Exception to Federal tort claims act
+
+Section 2680 of title 18, United States Code, is amended by adding at the end the following:
+
+> - **(o)** Any claim brought by the President of the United States or a covered relative of such President during the term for which such President shall have been elected. For the purposes of this subsection, a “covered relative” means a spouse, child, sibling, or in-law of the President.
