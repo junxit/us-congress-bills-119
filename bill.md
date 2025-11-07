@@ -1,0 +1,24 @@
+---
+legis-num: H.R. 5978
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5978
+
+> To direct the Comptroller General of the United States and the Secretary of the Treasury to investigate and report on foreign government programs that facilitate Federal tax evasion.
+
+## § 1. Short title
+
+This Act may be cited as the “Foreign Remittance Accountability and Transparency Act”.
+
+## § 2. Study and report
+
+- **(a)** *Study* The Comptroller General of the United States (hereinafter the “Comptroller General”), in consultation with the Secretary of the Treasury (or the Secretary’s delegate), shall conduct a study on foreign government programs that facilitate Federal tax evasion. In conducting the study, the Comptroller General shall—
+  - **(1)** identify foreign programs explicitly designed to support remittance transfers from individuals in the United States,
+  - **(2)** determine whether programs identified in paragraph (1) bypass the tax laws or reporting laws of the United States and whether such bypass is intentional, and
+  - **(3)** identify the scope, financial volume, and policy implications of programs identified in paragraph (1).
+- **(b)** *Report* Not later than 180 days after the date of the enactment of this Act, the Comptroller General shall submit to Congress a report that contains—
+  - **(1)** the results of the study required by subsection (a), and
+  - **(2)** policy recommendations for enforcement or regulatory responses to such results.
