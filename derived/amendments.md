@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3812
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 0 executed, 5 stated and not applied.
+3 amendatory instructions. 0 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,8 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | by striking the heading and inserting “Prohibitions on collection of copayments under certain conditions ”; | the bill names no machine-readable US Code section |
-| — | replace | in the heading, by striking “Prohibition” and inserting “Prohibitions”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “the Secretary may not require” and all that follows through the end of the subsection and inserting the following: | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subsection (b) as subsection (c); and | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subsection (a) the following new subsection: | the bill names no machine-readable US Code section |
+| `38 U.S.C. § 1722C` | insert | Subchapter III of chapter 17 of title 38, United States Code, is amended by inserting after section 1722C the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 1722C` | insert | The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 1722C the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 5503(d)(7) of title 38, United States Code, is amended by striking “November 30, 2031” and inserting “February 29, 2032”. | the bill names no machine-readable US Code section |
