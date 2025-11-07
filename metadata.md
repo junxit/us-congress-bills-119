@@ -1,7 +1,7 @@
 ---
 measure: S. 861
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 861
@@ -16,11 +16,13 @@ Disaster Assistance Simplification Act
 
 - Sen. Peters, Gary C. [D-MI] (P000595)
 
-## Cosponsors (3)
+## Cosponsors (5)
 
 - Sen. Lankford, James [R-OK] (L000575)
 - Sen. Paul, Rand [R-KY] (P000603)
 - Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Budd, Ted [R-NC] (B001305)
 
 ## Committees (1)
 
@@ -30,3 +32,7 @@ Disaster Assistance Simplification Act
 
 - 2025-03-05 — Introduced in Senate
 - 2025-03-05 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2025-07-30 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2025-11-07 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Paul without amendment. Without written report.
+- 2025-11-07 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Paul without amendment. Without written report.
+- 2025-11-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 264.
