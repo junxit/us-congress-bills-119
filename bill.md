@@ -1,0 +1,26 @@
+---
+legis-num: S. 3166
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3166
+
+> To rescind unused COVID funding and reduce the deficit.
+
+## § 1. Short title
+
+This Act may be cited as the “Returning Unspent COVID Funds Act”.
+
+## § 2. Rescission of unused COVID funding
+
+- **(a)** *In general* Subject to subsection (b), effective on the date of enactment of this Act, the unobligated balances of amounts made available under the following are rescinded:
+  - **(1)** The American Rescue Plan Act of 2021 (Public Law 117–2; 135 Stat. 4).
+  - **(2)** Division M or N of the Consolidated Appropriations Act, 2021 (Public Law 116–260; 134 Stat. 1182).
+  - **(3)** The Paycheck Protection Program and Health Care Enhancement Act (Public Law 116–139; 134 Stat. 620).
+  - **(4)** The CARES Act (Public Law 116–136; 134 Stat. 281).
+  - **(5)** The Families First Coronavirus Response Act (Public Law 116–127; 134 Stat. 178).
+  - **(6)** The Coronavirus Preparedness and Response Supplemental Appropriations Act, 2020 (Public Law 116–123; 134 Stat. 146).
+- **(b)** *National security waiver* Amounts described in subsection (a) that were made available for an account or program shall not be rescinded if, not later than 60 days after the date of enactment of this Act, the President submits to the Committee on the Budget of the House of Representatives and the Committee on Finance of the Senate a notice waiving the rescission under subsection (a) with respect to the account or program.
+- **(c)** *Use for deficit reduction* Amounts rescinded under subsection (a) shall remain in the general fund of the Treasury for the sole purpose of deficit reduction.
