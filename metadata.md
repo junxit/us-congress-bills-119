@@ -1,7 +1,7 @@
 ---
 measure: S. 2392
 congress: 119
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2392
@@ -55,3 +55,18 @@ Veterans’ Compensation Cost-of-Living Adjustment Act of 2025
 - 2025-10-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 202.
 - 2025-11-09 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8035-8036; text: CR S8035-8036)
 - 2025-11-09 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2025-11-10 — Message on Senate action sent to the House.
+- 2025-11-12 — Held at the desk.
+- 2025-11-12 — Received in the House.
+- 2025-11-17 — Considered under suspension of the rules. (consideration: CR H4676-4678)
+- 2025-11-17 — DEBATE - The House proceeded with forty minutes of debate on S. 2392.
+- 2025-11-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-11-17 — Mr. Bost moved to suspend the rules and pass the bill. (consideration: CR H4676-4678)
+- 2025-11-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4676)
+- 2025-11-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4676)
+- 2025-11-25 — Became Public Law No: 119-42.
+- 2025-11-25 — Became Public Law No: 119-42.
+- 2025-11-25 — Presented to President.
+- 2025-11-25 — Presented to President.
+- 2025-11-25 — Signed by President.
+- 2025-11-25 — Signed by President.
