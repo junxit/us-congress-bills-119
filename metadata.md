@@ -1,7 +1,7 @@
 ---
 measure: S. 778
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 778
@@ -33,3 +33,5 @@ Lactation Spaces for Veteran Moms Act
 - 2025-10-22 — Committee on Veterans' Affairs. Reported by Senator Moran with an amendment in the nature of a substitute. Without written report.
 - 2025-10-22 — Committee on Veterans' Affairs. Reported by Senator Moran with an amendment in the nature of a substitute. Without written report.
 - 2025-10-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 200.
+- 2025-11-09 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S8036; text: CR S8036)
+- 2025-11-09 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
