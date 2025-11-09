@@ -1,7 +1,7 @@
 ---
 measure: S. 2392
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2392
@@ -16,7 +16,7 @@ Veterans’ Compensation Cost-of-Living Adjustment Act of 2025
 
 - Sen. Moran, Jerry [R-KS] (M000934)
 
-## Cosponsors (21)
+## Cosponsors (22)
 
 - Sen. Blumenthal, Richard [D-CT] (B001277)
 - Sen. Boozman, John [R-AR] (B001236)
@@ -39,6 +39,7 @@ Veterans’ Compensation Cost-of-Living Adjustment Act of 2025
 - Sen. Kelly, Mark [D-AZ] (K000377)
 - Sen. Warnock, Raphael G. [D-GA] (W000790)
 - Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Heinrich, Martin [D-NM] (H001046)
 
 ## Committees (1)
 
@@ -52,3 +53,5 @@ Veterans’ Compensation Cost-of-Living Adjustment Act of 2025
 - 2025-10-22 — Committee on Veterans' Affairs. Reported by Senator Moran without amendment. Without written report.
 - 2025-10-22 — Committee on Veterans' Affairs. Reported by Senator Moran without amendment. Without written report.
 - 2025-10-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 202.
+- 2025-11-09 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8035-8036; text: CR S8035-8036)
+- 2025-11-09 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
