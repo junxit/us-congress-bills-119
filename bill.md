@@ -18,7 +18,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas the United States Marine Corps has distinguished itself as a premier fighting force that is consistently prepared to face the challenges of tomorrow and adapt to the evolving character of warfare;
 - Whereas the United States Marine Corps has consistently demonstrated its ability to adapt to emerging threats and to respond to the security needs of the United States from its founding to the present day;
 - Whereas tradition has it that the United States Marine Corps had its beginning at Tun Tavern in the city of Philadelphia on the 10th day of November 1775, 250 years ago; and
-- Whereas this historic milestone is the result of the skill of the United States Marine Corps in battle, its distinguished leadership, its extraordinary courage, and its selfless sacrifice in every major war of the United States from the Revolution to the Global War on Terrorism, including service at such historic battles as Princeton, Derna, Chapultepec, First Bull Run, Belleau Wood, Guadalcanal, Tarawa, Peleliu, Iwo Jima, Okinawa, the Chosin Reservoir, Khe Sanh, Hue, the liberation of Kuwait, and Fallujah: Now, therefore, be it
+- Whereas this historic milestone is the result of the skill of the United States Marine Corps in battle, its distinguished leadership, its extraordinary courage, and its selfless sacrifice in every major war of the United States from the Revolution to the Global War on Terrorism, including service at such historic battles as Princeton, Derna, Chapultepec, First Bull Run, Belleau Wood, Guadalcanal, Tarawa, Peleliu, Iwo Jima, Okinawa, the Chosin Reservoir, Khe Sanh, Hue, and the liberation of Kuwait, Fallujah, and Helmand Province: Now, therefore, be it
 
 That the Senate—
 
