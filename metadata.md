@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5371
 congress: 119
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5371
@@ -27,10 +27,11 @@ Continuing Appropriations, Agriculture, Legislative Branch, Military Constructio
 - House — Appropriations Committee
 - House — Budget Committee
 
-## Recorded votes (18)
+## Recorded votes (26)
 
 - 2025-09-19 — [House 119-1-280](votes/house-119-1-0280.md) — On Motion to Recommit — **Failed** (210–218)
 - 2025-09-19 — [House 119-1-281](votes/house-119-1-0281.md) — On Passage — **Passed** (217–212)
+- 2025-11-12 — [House 119-1-285](votes/house-119-1-0285.md) — On Motion to Concur in the Senate Amendment — **Passed** (222–209)
 - 2025-09-19 — Senate 119-1-528 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00528.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00528.xml answered HTTP 403
 - 2025-09-30 — Senate 119-1-535 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00535.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00535.xml answered HTTP 403
 - 2025-10-01 — Senate 119-1-537 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00537.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00537.xml answered HTTP 403
@@ -47,6 +48,13 @@ Continuing Appropriations, Agriculture, Legislative Branch, Military Constructio
 - 2025-11-04 — Senate 119-1-603 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00603.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00603.xml answered HTTP 403
 - 2025-11-10 — Senate 119-1-610 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00610.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00610.xml answered HTTP 403
 - 2025-11-10 — Senate 119-1-611 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00611.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00611.xml answered HTTP 403
+- 2025-11-11 — Senate 119-1-612 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00612.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00612.xml answered HTTP 403
+- 2025-11-11 — Senate 119-1-613 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00613.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00613.xml answered HTTP 403
+- 2025-11-11 — Senate 119-1-614 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00614.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00614.xml answered HTTP 403
+- 2025-11-11 — Senate 119-1-615 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00615.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00615.xml answered HTTP 403
+- 2025-11-11 — Senate 119-1-616 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00616.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00616.xml answered HTTP 403
+- 2025-11-11 — Senate 119-1-617 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00617.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00617.xml answered HTTP 403
+- 2025-11-11 — Senate 119-1-618 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00618.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00618.xml answered HTTP 403
 
 ## Actions
 
@@ -213,3 +221,16 @@ Continuing Appropriations, Agriculture, Legislative Branch, Military Constructio
 - 2025-11-10 — Senate amendment submitted
 - 2025-11-10 — Senate amendment submitted
 - 2025-11-10 — Senate amendment submitted
+- 2025-11-12 — Became Public Law No: 119-37.
+- 2025-11-12 — Became Public Law No: 119-37.
+- 2025-11-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-11-12 — Mr. Cole moved that the House agree to the Senate amendment. (consideration: CR H4652-4664)
+- 2025-11-12 — On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 222 - 209 (Roll no. 285). (text: CR H4609-4652)
+- 2025-11-12 — Presented to President.
+- 2025-11-12 — Presented to President.
+- 2025-11-12 — Pursuant to the provisions of H.Res. 873, Mr. Cole moved that the House agree to the Senate amendment to H.R. 5371.
+- 2025-11-12 — Pursuant to the provisions of H.Res. 873, the House proceeded with one hour of debate on the motion to agree to the Senate amendment to H.R. 5371.
+- 2025-11-12 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 222 - 209 (Roll no. 285).
+- 2025-11-12 — Signed by President.
+- 2025-11-12 — Signed by President.
+- 2025-11-12 — The previous question was ordered pursuant to the rule.
