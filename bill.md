@@ -1,0 +1,24 @@
+---
+legis-num: H.R. 5992
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 5992
+
+> To direct the Secretary of Veterans Affairs to implement automated systems with callback functionality for each customer service telephone line of the Department of Veterans Affairs, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Stuck On Hold Act”.
+
+## § 2. Improvements regarding wait times for callers to certain service telephone lines of the Department of Veterans Affairs
+
+- **(a)** *Automated system* Not later than one year after the date of the enactment of this Act, the Secretary of Veterans Affairs shall implement, for each covered line, an automated system that—
+  - **(1)** informs any caller to a covered line about the anticipated wait time, if any; and
+  - **(2)** automatically offers a callback to any such caller with an anticipated wait time of more than 10 minutes.
+- **(b)** *Guidance regarding caller wait times* The Secretary shall issue such guidance the Secretary determines necessary to reduce the average wait time of a caller to a covered line to not more than 10 minutes.
+- **(c)** *Covered line defined* In this section, the term covered line means a customer service telephone line of the Department of Veterans Affairs. Such term does not include—
+  - **(1)** the toll-free hotline for veterans provided by the Secretary under section 1720F(h) of title 38, United States Code; or
+  - **(2)** a phone line for the emergency department of a health care facility of the Department.
