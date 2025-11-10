@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 6018
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6018
+
+> To ensure that Farm Services Agency offices stay open during a government shutdown.
+
+## § 1. Short title
+
+This Act may be cited as the “Bringing Assistance for Rural Needs During Shutdowns Act”.
+
+## § 2. Farm Services Agency to be regarded as providing essential services during a government shutdown
+
+Any services by an officer or employee of the Farm Services Agency shall be deemed, for purposes of section 1342 of title 31, United States Code, services for emergencies involving the safety of human life or the protection of property.
