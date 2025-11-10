@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5371
 congress: 119
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5371
@@ -27,7 +27,7 @@ Continuing Appropriations, Agriculture, Legislative Branch, Military Constructio
 - House — Appropriations Committee
 - House — Budget Committee
 
-## Recorded votes (25)
+## Recorded votes (26)
 
 - 2025-09-19 — [House 119-1-280](votes/house-119-1-0280.md) — On Motion to Recommit — **Failed** (210–218)
 - 2025-09-19 — [House 119-1-281](votes/house-119-1-0281.md) — On Passage — **Passed** (217–212)
@@ -54,6 +54,7 @@ Continuing Appropriations, Agriculture, Legislative Branch, Military Constructio
 - 2025-11-10 — [Senate 119-1-616](votes/senate-119-1-0616.md) — On the Amendment — **Amendment Agreed to** (60–40)
 - 2025-11-10 — [Senate 119-1-617](votes/senate-119-1-0617.md) — On the Cloture Motion — **Cloture Motion Agreed to** (60–40)
 - 2025-11-10 — [Senate 119-1-618](votes/senate-119-1-0618.md) — On Passage of the Bill — **Bill Passed** (60–40)
+- 2025-11-12 — [House 119-1-285](votes/house-119-1-0285.md) — On Motion to Concur in the Senate Amendment — **Passed** (222–209)
 
 ## Actions
 
@@ -220,3 +221,16 @@ Continuing Appropriations, Agriculture, Legislative Branch, Military Constructio
 - 2025-11-10 — Senate amendment submitted
 - 2025-11-10 — Senate amendment submitted
 - 2025-11-10 — Senate amendment submitted
+- 2025-11-12 — Became Public Law No: 119-37.
+- 2025-11-12 — Became Public Law No: 119-37.
+- 2025-11-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-11-12 — Mr. Cole moved that the House agree to the Senate amendment. (consideration: CR H4652-4664)
+- 2025-11-12 — On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 222 - 209 (Roll no. 285). (text: CR H4609-4652)
+- 2025-11-12 — Presented to President.
+- 2025-11-12 — Presented to President.
+- 2025-11-12 — Pursuant to the provisions of H.Res. 873, Mr. Cole moved that the House agree to the Senate amendment to H.R. 5371.
+- 2025-11-12 — Pursuant to the provisions of H.Res. 873, the House proceeded with one hour of debate on the motion to agree to the Senate amendment to H.R. 5371.
+- 2025-11-12 — Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to by the Yeas and Nays: 222 - 209 (Roll no. 285).
+- 2025-11-12 — Signed by President.
+- 2025-11-12 — Signed by President.
+- 2025-11-12 — The previous question was ordered pursuant to the rule.
