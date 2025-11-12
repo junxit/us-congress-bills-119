@@ -17,7 +17,4 @@ This Act may be cited as the “DHS Intelligence Rotational Assignment Program a
 
 Section 844 of the Homeland Security Act of 2002 (6 U.S.C. 414) is amended by adding at the end the following new subsection:
 
-> - **(b)** *Intelligence rotational assignment program*
->   - **(1)** *Establishment* Not later than one year after the date of the enactment of this subsection, the Secretary shall establish an Intelligence Rotational Assignment Program as part of the Rotation Program under subsection (a).
->   - **(2)** *Eligibility* The Intelligence Rotational Assignment Program shall be open to analysts serving in analyst positions in an intelligence component of the Department, in the Office of Strategic Intelligence and Information of the United States Secret Service, or in other positions in the Department, as determined by the Secretary.
->   - **(3)** *Coordination* The responsibilities specified in subsection (a)(3)(B) that apply to the Rotation Program under such subsection shall, as applicable, apply to the Intelligence Rotational Assignment Program under this subsection.
+> - **(b)** *Office of the Director of National Intelligence (ODNI) Intelligence Community Civilian Joint Duty Program* The Secretary shall require all components of the Department that are members of the DHS Intelligence Enterprise to participate in the ODNI Intelligence Community Civilian Joint Duty Program in a manner consistent with the policies established by the Director of National Intelligence for the Program.
