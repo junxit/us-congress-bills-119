@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5062
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5062
@@ -31,3 +31,9 @@ Pipeline Security Act
 - 2025-08-29 — Introduced in House
 - 2025-08-29 — Referred to the House Committee on Homeland Security.
 - 2025-08-29 — Referred to the Subcommittee on Transportation and Maritime Security.
+- 2025-09-03 — Committee Consideration and Mark-up Session Held
+- 2025-09-03 — Ordered to be Reported by the Yeas and Nays: 22 - 0.
+- 2025-09-03 — Subcommittee on Transportation and Maritime Security Discharged
+- 2025-11-12 — Placed on the Union Calendar, Calendar No. 327.
+- 2025-11-12 — Reported by the Committee on Homeland Security. H. Rept. 119-376.
+- 2025-11-12 — Reported by the Committee on Homeland Security. H. Rept. 119-376.
