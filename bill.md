@@ -29,11 +29,11 @@ Section 2220A of the Homeland Security Act of 2002 (6 U.S.C. 665g) is amended—
   - **(D)** by inserting after paragraph (6), as so redesignated, the following new paragraph:
     > - **(7)** *Multi-factor authentication* The term “multi factor authentication” means an authentication system that requires more than one distinct type of authentication factor for successful authentication of a user, including by using a multi-factor authenticator or by combining single-factor authenticators that provide different types of factors.
 
-- **(2)** in subsection (b)(1), by striking “information systems owned” and inserting “information systems or operational technology systems, including either or both of such systems using artificial intelligence, maintained, owned, or”;
-- **(3)** in subsection (d)(4), by striking “to the information systems owned” and inserting “to the information systems or operational technology systems, including either or both of such systems using artificial intelligence, maintained, owned, or”;
+- **(2)** in subsection (b)(1), by striking “information systems owned” and inserting “information systems or operational technology systems, including either or both of such systems using artificial intelligence, maintained, owned,”;
+- **(3)** in subsection (d)(4), by striking “to the information systems owned” and inserting “to the information systems or operational technology systems, including either or both of such systems using artificial intelligence, maintained, owned,”;
 - **(4)** in subsection (e)—
   - **(A)** in paragraph (2)—
-    - **(i)** in subparagraph (A)(i), by striking “information systems owned” and inserting “information systems or operational technology systems, including either or both of such systems using artificial intelligence, maintained, owned, or”;
+    - **(i)** in subparagraph (A)(i), by striking “information systems owned” and inserting “information systems or operational technology systems, including either or both of such systems using artificial intelligence, maintained, owned,”;
     - **(ii)** in subparagraph (B)—
       - **(I)** by amending clauses (i) through (v) to read as follows:
         > - **(i)** manage, monitor, and track applications, user accounts, and information systems and operational technology systems, including either or both of such systems using artificial intelligence, that are maintained, owned, or operated by, or on behalf of, the eligible entity, or, if the eligible entity is a State, local governments within the jurisdiction of the eligible entity, and the information technology deployed on such information systems or operational technology systems (as the case may be), including legacy information systems, operational technology systems, and information technology that are no longer supported by the manufacturer of the systems or technology at issue;
@@ -83,26 +83,26 @@ Section 2220A of the Homeland Security Act of 2002 (6 U.S.C. 665g) is amended—
     - **(ii)** in subparagraph (B), by striking “2023” and inserting “2027”; and
   - **(C)** in paragraph (4)—
     - **(i)** in the matter preceding subparagraph (A), by striking “shall” and inserting “may”; and
-    - **(ii)** in subparagraph (A), by striking “information systems owned” inserting “information systems or operational technology systems, including either or both of such systems using artificial intelligence, maintained, owned,”;
+    - **(ii)** in subparagraph (A), by striking “information systems owned” and inserting “information systems or operational technology systems, including either or both of such systems using artificial intelligence, maintained, owned,”;
 - **(7)** in subsection (j)(1)—
   - **(A)** in subparagraph (D), by striking “or” after the semicolon;
   - **(B)** in subparagraph (E)—
     - **(i)** by striking “information systems owned” and inserting “information systems or operational technology systems, including either or both of such systems using artificial intelligence, maintained, owned,”; and
     - **(ii)** by striking the period and inserting a semicolon; and
   - **(C)** by adding at the end the following new subparagraphs:
-    > - **(E)** to purchase software or hardware, or products or services of such software or hardware, as the case may be, that do not align with guidance relevant to such software or hardware, or products or services, as the case may be, provided by the Agency, including Secure by Design or successor guidance; or
-    > - **(F)** to purchase software or hardware, or products or services of such software or hardware, as the case may be, that are designed, developed, operated, maintained, manufactured, or sold by a foreign entity of concern and do not align with guidance provided by the Agency.
+    > - **(F)** to purchase software or hardware, or products or services of such software or hardware, as the case may be, that do not align with guidance relevant to such software or hardware, or products or services, as the case may be, provided by the Agency, including Secure by Design or successor guidance; or
+    > - **(G)** to purchase software or hardware, or products or services of such software or hardware, as the case may be, that are designed, developed, operated, maintained, manufactured, or sold by a foreign entity of concern and do not align with guidance provided by the Agency.
 
 - **(8)** in subsection (l), in the matter preceding paragraph (1), by striking “2022” and inserting “2026”;
 - **(9)** in subsection (m), by amending paragraph (1) to read as follows:
   > - **(1)** *In general* The Federal share of activities carried out using funds made available pursuant to the award of a grant under this section may not exceed—
-  >   - **(A)** in the case of a grant to an eligible entity, 60 percent for each fiscal year through fiscal year 2035; and
-  >   - **(B)** in the case of a grant to a multi-entity group, 70 percent for each fiscal year through fiscal year 2035.
+  >   - **(A)** in the case of a grant to an eligible entity, 60 percent for each fiscal year through fiscal year 2033; and
+  >   - **(B)** in the case of a grant to a multi-entity group, 70 percent for each fiscal year through fiscal year 2033.
 
 - **(10)** in subsection (n)—
   - **(A)** in paragraph (2)—
     - **(i)** in subparagraph (A)—
-      - **(I)** in the matter preceding clause (i), by striking “a grant” and inserting “a grant on or after January 1, 2026, or changes the allocation of funding as permissible within the allowances of”; and
+      - **(I)** in the matter preceding clause (i), by striking “a grant” and inserting “a grant on or after January 1, 2026, or changes the allocation of funding as permissible within the allowances”; and
       - **(II)** by amending clauses (ii) and (iii) to read as follows:
         > - **(ii)** with the consent of the local governments, items, in-kind services, capabilities, or activities, or a combination of funding and other services, having a value of not less than 80 percent of the amount of the grant; or
         > - **(iii)** with the consent of the local governments, grant funds combined with other items, in-kind services, capabilities, or activities, or a combination of funding and other services, having the total value of not less than 80 percent of the amount of the grant.
@@ -123,14 +123,14 @@ Section 2220A of the Homeland Security Act of 2002 (6 U.S.C. 665g) is amended—
   - **(A)** in paragraph (1)(A)—
     - **(i)** in clause (i), by striking “and” after the semicolon;
     - **(ii)** in clause (ii)—
-      - **(I)** by striking “information systems owned” inserting “information systems or operational technology systems, including either or both of such systems using artificial intelligence, maintained, owned,”; and
+      - **(I)** by striking “information systems owned” and inserting “information systems or operational technology systems, including either or both of such systems using artificial intelligence, maintained, owned,”; and
       - **(II)** by striking the period and inserting “; and”; and
     - **(iii)** by adding at the end the following new clause:
       > - **(iii)** assuming the costs associated with continuing the programs specified in the Cybersecurity Plan by including such programs in State and local government budgets upon full expenditure of grant funds by the eligible entity.
 
   - **(B)** in paragraph (2)(E)(ii), by striking “information systems owned” and inserting “information systems or operational technology systems, including either or both of such systems using artificial intelligence, maintained, owned”; and
   - **(C)** by amending paragraph (6) to read as follows:
-    > - **(6)** *GAO review* Not later than four years after the date of the enactment of this paragraph and every four years thereafter until the termination of the State and Local Cybersecurity Grant Program, the Comptroller General of the United States shall conduct a review of the Program, including relating to the following:
+    > - **(6)** *GAO review* Not later than three years after the date of the enactment of this paragraph and every three years thereafter until the termination of the State and Local Cybersecurity Grant Program, the Comptroller General of the United States shall conduct a review of the Program, including relating to the following:
     >   - **(A)** The grant selection process of the Secretary.
     >   - **(B)** A sample of grants awarded under this section.
     >   - **(C)** A review of artificial intelligence adoption across the sample of grants reviewed.
@@ -138,4 +138,4 @@ Section 2220A of the Homeland Security Act of 2002 (6 U.S.C. 665g) is amended—
 - **(15)** in subsection (s), as so redesignated, by amending paragraph (1) to read as follows:
   > - **(1)** *In general* The activities under this section are subject to the availability of appropriations.
 
-- **(16)** in subsection (t), as so redesignated, in paragraph (1), by striking “2025” and inserting “2035”.
+- **(16)** in subsection (t), as so redesignated, in paragraph (1), by striking “2025” and inserting “2033”.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5078
 congress: 119
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-48 amendatory instructions. 13 executed, 35 stated and not applied.
+48 amendatory instructions. 15 executed, 33 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,30 +26,30 @@ to guess them.
 
 ### 6 U.S.C. § 665g
 
-> in subsection (b)(1), by striking “information systems owned” and inserting “information systems or operational technology systems, including either or both of such systems using artificial intelligence, maintained, owned, or”;
+> in subsection (b)(1), by striking “information systems owned” and inserting “information systems or operational technology systems, including either or both of such systems using artificial intelligence, maintained, owned,”;
 
 | | |
 |---|---|
 | Removed | `information systems owned` |
-| Inserted | `information systems or operational technology systems, including either or both of such systems using artificial intelligence, maintained, owned, or` |
+| Inserted | `information systems or operational technology systems, including either or both of such systems using artificial intelligence, maintained, owned,` |
 
 ### 6 U.S.C. § 665g
 
-> in subsection (d)(4), by striking “to the information systems owned” and inserting “to the information systems or operational technology systems, including either or both of such systems using artificial intelligence, maintained, owned, or”;
+> in subsection (d)(4), by striking “to the information systems owned” and inserting “to the information systems or operational technology systems, including either or both of such systems using artificial intelligence, maintained, owned,”;
 
 | | |
 |---|---|
 | Removed | `to the information systems owned` |
-| Inserted | `to the information systems or operational technology systems, including either or both of such systems using artificial intelligence, maintained, owned, or` |
+| Inserted | `to the information systems or operational technology systems, including either or both of such systems using artificial intelligence, maintained, owned,` |
 
 ### 6 U.S.C. § 665g
 
-> in subparagraph (A)(i), by striking “information systems owned” and inserting “information systems or operational technology systems, including either or both of such systems using artificial intelligence, maintained, owned, or”;
+> in subparagraph (A)(i), by striking “information systems owned” and inserting “information systems or operational technology systems, including either or both of such systems using artificial intelligence, maintained, owned,”;
 
 | | |
 |---|---|
 | Removed | `information systems owned` |
-| Inserted | `information systems or operational technology systems, including either or both of such systems using artificial intelligence, maintained, owned, or` |
+| Inserted | `information systems or operational technology systems, including either or both of such systems using artificial intelligence, maintained, owned,` |
 
 ### 6 U.S.C. § 665g
 
@@ -98,6 +98,15 @@ to guess them.
 
 ### 6 U.S.C. § 665g
 
+> in subparagraph (A), by striking “information systems owned” and inserting “information systems or operational technology systems, including either or both of such systems using artificial intelligence, maintained, owned,”;
+
+| | |
+|---|---|
+| Removed | `information systems owned` |
+| Inserted | `information systems or operational technology systems, including either or both of such systems using artificial intelligence, maintained, owned,` |
+
+### 6 U.S.C. § 665g
+
 > by striking “information systems owned” and inserting “information systems or operational technology systems, including either or both of such systems using artificial intelligence, maintained, owned,”; and
 
 | | |
@@ -116,12 +125,21 @@ to guess them.
 
 ### 6 U.S.C. § 665g
 
-> in the matter preceding clause (i), by striking “a grant” and inserting “a grant on or after January 1, 2026, or changes the allocation of funding as permissible within the allowances of”; and
+> in the matter preceding clause (i), by striking “a grant” and inserting “a grant on or after January 1, 2026, or changes the allocation of funding as permissible within the allowances”; and
 
 | | |
 |---|---|
 | Removed | `a grant` |
-| Inserted | `a grant on or after January 1, 2026, or changes the allocation of funding as permissible within the allowances of` |
+| Inserted | `a grant on or after January 1, 2026, or changes the allocation of funding as permissible within the allowances` |
+
+### 6 U.S.C. § 665g
+
+> by striking “information systems owned” and inserting “information systems or operational technology systems, including either or both of such systems using artificial intelligence, maintained, owned,”; and
+
+| | |
+|---|---|
+| Removed | `information systems owned` |
+| Inserted | `information systems or operational technology systems, including either or both of such systems using artificial intelligence, maintained, owned,` |
 
 ### 6 U.S.C. § 665g
 
@@ -134,12 +152,12 @@ to guess them.
 
 ### 6 U.S.C. § 665g
 
-> in subsection (t), as so redesignated, in paragraph (1), by striking “2025” and inserting “2035”.
+> in subsection (t), as so redesignated, in paragraph (1), by striking “2025” and inserting “2033”.
 
 | | |
 |---|---|
 | Removed | `2025` |
-| Inserted | `2035` |
+| Inserted | `2033` |
 
 ## Stated, not applied
 
@@ -168,7 +186,6 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 665g` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 665g` | insert | in paragraph (2)(A)(ii), by inserting “including, as appropriate, representatives of rural, suburban, and high-population jurisdictions (including such jurisdictions with low or otherwise limited operating budgets)” before the semicolon;… | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 665g` | amend | by amending paragraph (5) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `6 U.S.C. § 665g` | replace | in subparagraph (A), by striking “information systems owned” inserting “information systems or operational technology systems, including either or both of such systems using artificial intelligence, maintained, owned,”; | the bill quotes text on both sides, but not as a single substitution this could carry out |
 | `6 U.S.C. § 665g` | strike | in subparagraph (D), by striking “or” after the semicolon; | the bill quotes the text struck but describes what replaces it |
 | `6 U.S.C. § 665g` | replace | by striking the period and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 665g` | add-at-end | by adding at the end the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -180,7 +197,6 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 665g` | redesignate | by redesignating subsections (p) through (s) as subsections (q) through (t), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 665g` | insert | by inserting after subsection (o) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 665g` | strike | in clause (i), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
-| `6 U.S.C. § 665g` | replace | by striking “information systems owned” inserting “information systems or operational technology systems, including either or both of such systems using artificial intelligence, maintained, owned,”; and | the bill quotes text on both sides, but not as a single substitution this could carry out |
 | `6 U.S.C. § 665g` | replace | by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 665g` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 665g` | amend | by amending paragraph (6) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
