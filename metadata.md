@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1608
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1608
@@ -25,6 +25,10 @@ Department of Homeland Security Vehicular Terrorism Prevention and Mitigation Ac
 
 - House — Homeland Security Committee
 
+## Recorded votes (1)
+
+- 2025-11-17 — [House 119-1-286](votes/house-119-1-0286.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (400–15)
+
 ## Actions
 
 - 2025-02-26 — Introduced in House
@@ -39,3 +43,11 @@ Department of Homeland Security Vehicular Terrorism Prevention and Mitigation Ac
 - 2025-08-08 — Placed on the Union Calendar, Calendar No. 180.
 - 2025-08-08 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 119-222.
 - 2025-08-08 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 119-222.
+- 2025-11-17 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2025-11-17 — Considered as unfinished business. (consideration: CR H4691-4692)
+- 2025-11-17 — Considered under suspension of the rules. (consideration: CR H4681-4682)
+- 2025-11-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1608.
+- 2025-11-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-11-17 — Mr. Garbarino moved to suspend the rules and pass the bill, as amended.
+- 2025-11-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 15 (Roll no. 286). (text: CR H4681-4682)
+- 2025-11-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 15 (Roll no. 286). (text: CR H4681-4682)
