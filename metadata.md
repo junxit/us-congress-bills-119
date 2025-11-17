@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 782
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 782
@@ -16,7 +16,7 @@ Expressing condolences and support for the victims of the July 4 flooding in Tex
 
 - Rep. Roy, Chip [R-TX-21] (R000614)
 
-## Cosponsors (28)
+## Cosponsors (29)
 
 - Rep. Pfluger, August [R-TX-11] (P000048)
 - Rep. Moran, Nathaniel [R-TX-1] (M001224)
@@ -46,6 +46,7 @@ Expressing condolences and support for the victims of the July 4 flooding in Tex
 - Rep. Gonzalez, Vicente [D-TX-34] (G000581)
 - Rep. Babin, Brian [R-TX-36] (B001291)
 - Rep. Hunt, Wesley [R-TX-38] (H001095)
+- Rep. Veasey, Marc A. [D-TX-33] (V000131)
 
 ## Committees (1)
 
@@ -56,3 +57,9 @@ Expressing condolences and support for the victims of the July 4 flooding in Tex
 - 2025-09-30 — Referred to the House Committee on Transportation and Infrastructure.
 - 2025-09-30 — Submitted in House
 - 2025-09-30 — Submitted in House
+- 2025-11-17 — Considered under suspension of the rules. (consideration: CR H4678-4680)
+- 2025-11-17 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 782.
+- 2025-11-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-11-17 — Mr. Babin moved to suspend the rules and agree to the resolution.
+- 2025-11-17 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H4678)
+- 2025-11-17 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H4678)
