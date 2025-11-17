@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 6063
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6063
+
+> To provide for the designation of the Guam and Western Pacific USDA Rural Development office as the representative of USDA Rural Development in Guam, the Commonwealth of the Northern Mariana Islands, American Samoa, and the Freely Associated States.
+
+## § 1. Short title
+
+This Act may be cited as the “Designating the Guam and Western Pacific USDA Rural Development Office Act”.
+
+## § 2. Designation of the guam and western pacific usda rural development office
+
+Within 90 days after the date of enactment of this Act, the Secretary of Agriculture and the Undersecretary for Rural Development shall designate the Guam and Western Pacific USDA Rural Development office to be the representative of USDA Rural Development in Guam, the Commonwealth of the Northern Mariana Islands, American Samoa, the Republic of the Marshall Islands, Palau, and the Federated States of Micronesia, and shall delegate to that office the same rights and responsibilities as are delegated to the USDA Rural Development office for any State.
