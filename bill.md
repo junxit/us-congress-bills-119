@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 6067
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6067
+
+> To amend the Communications Act of 1934 to add access to telecommunications and information services in Indian country and areas with high populations of Indian people to the universal service principle relating to access to such services in rural, insular, and high cost areas.
+
+## § 1. Short title
+
+This Act may be cited as the “Tribal Internet Expansion Act of 2025”.
+
+## § 2. Universal service in Indian country and areas with high populations of Indian people
+
+Section 254(b)(3) of the Communications Act of 1934 (47 U.S.C. 254(b)(3)) is amended by inserting “and in Indian country (as defined in section 1151 of title 18, United States Code) and areas with high populations of Indian (as defined in section 19 of the Act of June 18, 1934 (Chapter 576; 48 Stat. 988; 25 U.S.C. 5129)) people” after “high cost areas”.
