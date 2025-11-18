@@ -1,0 +1,25 @@
+---
+legis-num: H.R. 6097
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6097
+
+> To amend title 10, United States Code, to establish additional factors considered in the design of pathways in the Transition Assistance Program.
+
+## § 1. Short title
+
+This Act may be cited as the “Transition Improvement by Estimating Risk Act of 2025” or the “TIER Act of 2025”.
+
+## § 2. Additional factors in the design of pathways in the Transition Assistance Program
+
+Section 1142(c)(1) of title 10, United States Code, is amended—
+
+- **(1)** by redesignating subparagraph (M) as subparagraph (Q); and
+- **(2)** by inserting after subparagraph (L) the following new subparagraphs:
+  > - **(M)** Child care requirements of the member (including whether a dependent of the member is enrolled in the Exceptional Family Member Program).
+  > - **(N)** The employment status of other adults in the household of the member.
+  > - **(O)** The location of the duty station of the member (including whether the member was separated from family while on duty).
+  > - **(P)** The effects of operating tempo and personnel tempo on the member and the household of the member.
