@@ -1,0 +1,24 @@
+---
+legis-num: S. 3194
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3194
+
+> To authorize the Secretary of the Interior to conduct a study to assess the suitability and feasibility of designating certain land in California as the Monterey Bay National Heritage Area, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Monterey Bay National Heritage Area Study Act”.
+
+## § 2. Study
+
+- **(a)** *In general* The Secretary of the Interior, in consultation with the State of California, local organizations and governmental agencies, Tribal Governments, nonprofit organizations, and other appropriate entities, including the Monterey Bay Economic Partnership, shall conduct a study to assess the suitability and feasibility of designating the areas described in subsection (b) as a National Heritage Area, to be known as the “Monterey Bay National Heritage Area”.
+- **(b)** *Description of study area* The areas to be studied under subsection (a) include—
+  - **(1)** Monterey, San Mateo, Santa Cruz, and San Luis Obispo counties in the State of California; and
+  - **(2)** any other area in the State of California that—
+    - **(A)** has heritage aspects that are similar to the heritage aspects of an area described in paragraph (1); and
+    - **(B)** is adjacent to, or in the vicinity of, an area described in paragraph (1).
+- **(c)** *Applicable Law* The study required under subsection (a) shall be conducted in accordance with section 120103(a) of title 54, United States Code.
