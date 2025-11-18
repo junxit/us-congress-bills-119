@@ -1,0 +1,28 @@
+---
+legis-num: H.R. 6109
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6109
+
+> To amend title XVIII of the Social Security Act to establish certain requirements with respect to rates of reversed prior authorization coverage determinations under Medicare Advantage plans.
+
+## § 1. Establishing requirements with respect to rates of reversed prior authorization coverage determinations under Medicare Advantage plans
+
+Section 1857 of the Social Security Act (42 U.S.C. 1395w–27) is amended—
+
+- **(1)** in subsection (e), by adding at the end the following new paragraph:
+  > - **(6)** *Requirement on rates of reversed prior authorization coverage determinations*
+  >   - **(A)** *In general* In the case of a Medicare Advantage plan that imposes any prior authorization requirement with respect to items or services furnished during a plan year beginning on or after the date that is 1 year after the date of the enactment of this paragraph, if the Secretary determines that such plan exceeds the allowable rate of reversed prior authorization coverage determinations under subparagraph (B) with respect to such plan year, the Secretary shall terminate the contract with respect to the offering of such plan under this section.
+  >   - **(B)** *Allowable rate of reversed prior authorization coverage determinations* For purposes of subparagraph (A), a Medicare Advantage plan exceeds the allowable rate of reversed prior authorization coverage determinations under this subparagraph with respect to a plan year if—
+  >     - **(i)** greater than 25 percent of prior authorization coverage determinations made during such plan year initially deny coverage and are later—
+  >       - **(I)** reconsidered and reversed pursuant to section 1852(g)(2); or
+  >       - **(II)** appealed and reversed pursuant to section 1852(g)(5); or
+  >     - **(ii)** the Secretary determines that—
+  >       - **(I)** significantly fewer prior authorization coverage determinations made during such plan year that are reconsidered pursuant to section 1852(g)(2) are reversed, as compared to the number of such determinations made during the previous plan year that are so reconsidered and reversed; and
+  >       - **(II)** the reduction in the number of reconsidered and reversed prior authorization coverage determinations described in subclause (I) occurred because the Medicare Advantage organization that offers such plan failed to appropriately reconsider prior authorization coverage determinations made during such plan year pursuant to section 1852(g)(2).
+  >   - **(C)** *Prior authorization coverage determination defined* In this paragraph, the term “prior authorization coverage determination” means, with respect to a Medicare Advantage plan, a coverage determination made under section 1852(g) regarding whether an individual enrolled in such plan is entitled to receive an item or service under the prior authorization requirement imposed under such plan with respect to such item or service.
+
+- **(2)** in subsection (h)(1)(A), by inserting “except in the case of a termination of a contract due to failure to meet the requirement under subsection (e)(6),” before “the Secretary”.
