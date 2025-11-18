@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2261
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2261
@@ -21,9 +21,10 @@ Strengthening Oversight of DHS Intelligence Act
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 - Rep. Evans, Gabe [R-CO-8] (E000300)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Strengthening Oversight of DHS Intelligence Act
 - 2025-11-17 — Mr. Garbarino moved to suspend the rules and pass the bill.
 - 2025-11-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4690)
 - 2025-11-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4690)
+- 2025-11-18 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
