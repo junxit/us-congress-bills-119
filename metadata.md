@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1608
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1608
@@ -21,9 +21,10 @@ Department of Homeland Security Vehicular Terrorism Prevention and Mitigation Ac
 - Rep. Green, Mark E. [R-TN-7] (G000590)
 - Rep. Carter, Troy A. [D-LA-2] (C001125)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -51,3 +52,4 @@ Department of Homeland Security Vehicular Terrorism Prevention and Mitigation Ac
 - 2025-11-17 — Mr. Garbarino moved to suspend the rules and pass the bill, as amended.
 - 2025-11-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 15 (Roll no. 286). (text: CR H4681-4682)
 - 2025-11-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 400 - 15 (Roll no. 286). (text: CR H4681-4682)
+- 2025-11-18 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
