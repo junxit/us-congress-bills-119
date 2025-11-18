@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 878
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 878
@@ -16,9 +16,10 @@ Disapproving the behavior of Representative Jesús G. Chuy García of Illinois.
 
 - Rep. Perez, Marie Gluesenkamp [D-WA-3] (G000600)
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2025-11-17 — [House 119-1-288](votes/house-119-1-0288.md) — On Motion to Table — **Failed** (206–211)
+- 2025-11-18 — [House 119-1-292](votes/house-119-1-0292.md) — On Agreeing to the Resolution — **Passed** (236–183)
 
 ## Actions
 
@@ -32,3 +33,7 @@ Disapproving the behavior of Representative Jesús G. Chuy García of Illinois.
 - 2025-11-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 878, the Chair put the question on agreeing to the resolution and by voice vote announced that the ayes had prevailed. Ms. Perez demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
 - 2025-11-17 — QUESTION OF THE PRIVILEGES OF THE HOUSE - Ms. Perez rose to a question of the privileges of the House and offered the resolution. The Chair directed the Clerk to report the resolution. Upon examination of the resolution, the Chair determined that the resolution did constitute a question of the privileges of the House.
 - 2025-11-17 — The previous question was ordered without objection.
+- 2025-11-18 — Considered as unfinished business. (consideration: CR H4736-4737)
+- 2025-11-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-11-18 — On agreeing to the resolution Agreed to by the Yeas and Nays: 236 - 183, 4 Present (Roll no. 292). (text: CR 11/17/2025 H4692)
+- 2025-11-18 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 236 - 183, 4 Present (Roll no. 292). (text: CR 11/17/2025 H4692)
