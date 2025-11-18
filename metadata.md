@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 133
 congress: 119
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.J.Res. 133
@@ -38,3 +38,13 @@ Requesting the Secretary of the Interior to authorize unique and one-time arrang
 - 2025-11-18 — Mr. Gosar asked unanimous consent to discharge from committee and consider.
 - 2025-11-18 — On passage Passed without objection. (text: CR H4758-4759)
 - 2025-11-18 — Passed/agreed to in House: On passage Passed without objection. (text: CR H4758-4759)
+- 2025-11-19 — Received in the Senate, read twice.
+- 2025-11-20 — Message on Senate action sent to the House.
+- 2025-11-20 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8399)
+- 2025-11-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2025-11-21 — Presented to President.
+- 2025-11-21 — Presented to President.
+- 2025-12-02 — Became Public Law No: 119-46.
+- 2025-12-02 — Became Public Law No: 119-46.
+- 2025-12-02 — Signed by President.
+- 2025-12-02 — Signed by President.
