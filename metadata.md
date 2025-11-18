@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 131
 congress: 119
-version: Engrossed in House
+version: Enrolled Bill
 ---
 
 # H.J.Res. 131
@@ -20,9 +20,10 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 
 - House — Natural Resources Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2025-11-18 — [House 119-1-295](votes/house-119-1-0295.md) — On Passage — **Passed** (217–209)
+- 2025-12-04 — [Senate 119-1-632](votes/senate-119-1-0632.md) — On the Joint Resolution — **Joint Resolution Passed** (49–45)
 
 ## Actions
 
@@ -39,3 +40,14 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2025-11-18 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 217 - 209 (Roll no. 295). (text: CR H4750)
 - 2025-11-18 — Rule provides for consideration of S.J. Res. 80, H.J. Res. 130, H.J. Res. 131, H. Con. Res. 58, H.R. 1949, H.R. 3109, H.R. 5107 and H.R. 5214. The resolution provides for consideration of S.J. Res. 80, H.J. Res. 130, H.J. Res. 131, H. Con. Res. 58, H.R. 1949, H.R. 3109, H.R. 5107, and H.R. 5214 under a closed rule with one hour of general debate on each measure. The resolution also provides for one motion to recommit on H.J. Res. 130, H.J. Res. 131, H.R. 1949, H.R. 3109, H.R. 5107, and H.R. 5214, and one motion to commit S.J. Res. 80.
 - 2025-11-18 — The previous question was ordered pursuant to the rule.
+- 2025-11-19 — Received in the Senate, read twice.
+- 2025-12-04 — Measure laid before Senate by motion. (consideration: CR S8500)
+- 2025-12-04 — Message on Senate action sent to the House.
+- 2025-12-04 — Passed Senate without amendment by Yea-Nay Vote. 49 - 45. Record Vote Number: 632.
+- 2025-12-04 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 49 - 45. Record Vote Number: 632.
+- 2025-12-10 — Presented to President.
+- 2025-12-10 — Presented to President.
+- 2025-12-11 — Became Public Law No: 119-52.
+- 2025-12-11 — Became Public Law No: 119-52.
+- 2025-12-11 — Signed by President.
+- 2025-12-11 — Signed by President.
