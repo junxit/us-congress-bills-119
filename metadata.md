@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 133
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.J.Res. 133
@@ -31,3 +31,10 @@ Requesting the Secretary of the Interior to authorize unique and one-time arrang
 - 2025-11-04 — Introduced in House
 - 2025-11-04 — Introduced in House
 - 2025-11-04 — Referred to the House Committee on Natural Resources.
+- 2025-11-18 — Committee on Natural Resources discharged.
+- 2025-11-18 — Committee on Natural Resources discharged.
+- 2025-11-18 — Considered by unanimous consent. (consideration: CR H4757-4758)
+- 2025-11-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-11-18 — Mr. Gosar asked unanimous consent to discharge from committee and consider.
+- 2025-11-18 — On passage Passed without objection. (text: CR H4758-4759)
+- 2025-11-18 — Passed/agreed to in House: On passage Passed without objection. (text: CR H4758-4759)
