@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2659
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2659
@@ -23,9 +23,10 @@ Strengthening Cyber Resilience Against State-Sponsored Threats Act
 - Rep. Moolenaar, John R. [R-MI-2] (M001194)
 - Rep. Garbarino, Andrew R. [R-NY-2] (G000597)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -51,3 +52,4 @@ Strengthening Cyber Resilience Against State-Sponsored Threats Act
 - 2025-11-17 — Mr. Garbarino moved to suspend the rules and pass the bill.
 - 2025-11-17 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 402 - 8 (Roll no. 287). (text: CR H4682-4684)
 - 2025-11-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 402 - 8 (Roll no. 287). (text: CR H4682-4684)
+- 2025-11-18 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
