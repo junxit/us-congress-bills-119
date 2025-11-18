@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 879
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 879
@@ -16,9 +16,28 @@ Providing for consideration of the joint resolution (S.J. Res. 80) providing for
 
 - Rep. Foxx, Virginia [R-NC-5] (F000450)
 
+## Committees (1)
+
+- House — Rules Committee
+
+## Recorded votes (2)
+
+- 2025-11-18 — [House 119-1-290](votes/house-119-1-0290.md) — On Ordering the Previous Question — **Passed** (217–211)
+- 2025-11-18 — [House 119-1-291](votes/house-119-1-0291.md) — On Agreeing to the Resolution — **Passed** (217–210)
+
 ## Actions
 
 - 2025-11-17 — Placed on the House Calendar, Calendar No. 47.
 - 2025-11-17 — The House Committee on Rules reported an original measure, H. Rept. 119-380, by Ms. Foxx.
 - 2025-11-17 — The House Committee on Rules reported an original measure, H. Rept. 119-380, by Ms. Foxx.
 - 2025-11-17 — The resolution provides for consideration of S.J. Res. 80, H.J. Res. 130, H.J. Res. 131, H. Con. Res. 58, H.R. 1949, H.R. 3109, H.R. 5107, and H.R. 5214 under a closed rule with one hour of general debate on each measure. The resolution also provides for one motion to recommit on H.J. Res. 130, H.J. Res. 131, H.R. 1949, H.R. 3109, H.R. 5107, and H.R. 5214, and one motion to commit S.J. Res. 80.
+- 2025-11-18 — Considered as privileged matter. (consideration: CR H4718-4725)
+- 2025-11-18 — Considered as unfinished business. (consideration: CR H4734-4735)
+- 2025-11-18 — Considered as unfinished business. (consideration: CR H4735-4736)
+- 2025-11-18 — DEBATE - The House proceeded with one hour of debate on H. Res. 879.
+- 2025-11-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-11-18 — On agreeing to the resolution Agreed to by recorded vote: 217 - 210 (Roll no. 291). (text: CR H4719)
+- 2025-11-18 — On ordering the previous question Agreed to by the Yeas and Nays: 217 - 211 (Roll no. 290).
+- 2025-11-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 879, the Chair put the question on ordering the previous question, and by voice vote announced that the noes had prevailed. Ms. Foxx demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2025-11-18 — POSTPONED PROCEEDINGS - The Chair put the question on agreeing to the resolution and by voice vote, announced the ayes had prevailed. Mr. McGovern demanded a recorded vote and the Chair postponed further proceedings until a time to be announced.
+- 2025-11-18 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 217 - 210 (Roll no. 291). (text: CR H4719)
