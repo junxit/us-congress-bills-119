@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1669
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1669
@@ -16,6 +16,10 @@ To amend the Public Health Service Act to reauthorize the Stop, Observe, Ask, an
 
 - Rep. Cohen, Steve [D-TN-9] (C001068)
 
+## Cosponsors (1)
+
+- Rep. Carter, Earl L. "Buddy" [R-GA-1] (C001103)
+
 ## Committees (1)
 
 - House — Energy and Commerce Committee
@@ -25,3 +29,8 @@ To amend the Public Health Service Act to reauthorize the Stop, Observe, Ask, an
 - 2025-02-27 — Introduced in House
 - 2025-02-27 — Introduced in House
 - 2025-02-27 — Referred to the House Committee on Energy and Commerce.
+- 2025-04-29 — Committee Consideration and Mark-up Session Held
+- 2025-04-29 — Ordered to be Reported by Voice Vote.
+- 2025-11-18 — Placed on the Union Calendar, Calendar No. 331.
+- 2025-11-18 — Reported by the Committee on Energy and Commerce. H. Rept. 119-381.
+- 2025-11-18 — Reported by the Committee on Energy and Commerce. H. Rept. 119-381.
