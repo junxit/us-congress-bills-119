@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5078
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5078
@@ -23,9 +23,10 @@ PILLAR Act
 - Rep. Evans, Gabe [R-CO-8] (E000300)
 - Rep. Vindman, Eugene Simon [D-VA-7] (V000138)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ PILLAR Act
 - 2025-11-17 — Mr. Garbarino moved to suspend the rules and pass the bill, as amended.
 - 2025-11-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4685-4687)
 - 2025-11-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4685-4687)
+- 2025-11-18 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
