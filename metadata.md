@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1736
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1736
@@ -39,3 +39,10 @@ Generative AI Terrorism Risk Assessment Act
 - 2025-11-12 — Placed on the Union Calendar, Calendar No. 324.
 - 2025-11-12 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 119-373.
 - 2025-11-12 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 119-373.
+- 2025-11-19 — Considered under suspension of the rules. (consideration: CR H4783-4785)
+- 2025-11-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1736.
+- 2025-11-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-11-19 — Mr. Guest moved to suspend the rules and pass the bill, as amended.
+- 2025-11-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4783-4784)
+- 2025-11-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4783-4784)
+- 2025-11-19 — The title of the measure was amended. Agreed to without objection.
