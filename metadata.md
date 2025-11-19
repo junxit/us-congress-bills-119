@@ -1,7 +1,7 @@
 ---
 measure: S. 3022
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3022
@@ -32,3 +32,5 @@ Save Our Seas 2.0 Marine Debris Infrastructure Programs Reauthorization Act
 - 2025-10-29 — Committee on Environment and Public Works. Reported by Senator Capito without amendment. Without written report.
 - 2025-10-29 — Committee on Environment and Public Works. Reported by Senator Capito without amendment. Without written report.
 - 2025-10-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 230.
+- 2025-11-19 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8248; text: CR S8248)
+- 2025-11-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.

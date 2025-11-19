@@ -1,7 +1,7 @@
 ---
 measure: S. 3022
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
