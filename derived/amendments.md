@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3426
 congress: 119
-version: Referred in Senate
+version: Returned to the House by Unanimous Consent
 derived: true
 ---
 

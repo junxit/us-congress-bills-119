@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3426
 congress: 119
-version: Referred in Senate
+version: Returned to the House by Unanimous Consent
 ---
 
 # H.R. 3426
@@ -44,3 +44,7 @@ Courthouse Affordability and Space Efficiency Act of 2025
 - 2025-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4278)
 - 2025-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4278)
 - 2025-09-16 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2025-09-19 — House requested return of papers pursuant to H.Res. 747
+- 2025-11-19 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.
+- 2025-11-19 — Senate Committee on Environment and Public Works discharged by Unanimous Consent.
+- 2025-11-19 — Senate returned papers to House by by Unanimous Consent.
