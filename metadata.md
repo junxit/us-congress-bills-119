@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4405
 congress: 119
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4405
@@ -62,3 +62,12 @@ Epstein Files Transparency Act
 - 2025-11-18 — Mr. Jordan moved to suspend the rules and pass the bill.
 - 2025-11-18 — On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 427 - 1 (Roll no. 289). (text: CR H4725)
 - 2025-11-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 427 - 1 (Roll no. 289). (text: CR H4725)
+- 2025-11-19 — Became Public Law No: 119-38.
+- 2025-11-19 — Became Public Law No: 119-38.
+- 2025-11-19 — Message on Senate action sent to the House.
+- 2025-11-19 — Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed, under the order of 11/18/2025, without amendment by Unanimous Consent.
+- 2025-11-19 — Presented to President.
+- 2025-11-19 — Presented to President.
+- 2025-11-19 — Received in the Senate, read twice, considered, read the third time, and passed, under the order of 11/18/2025, without amendment by Unanimous Consent. (consideration: CR S8211)
+- 2025-11-19 — Signed by President.
+- 2025-11-19 — Signed by President.
