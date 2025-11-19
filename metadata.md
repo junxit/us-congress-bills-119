@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4405
 congress: 119
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4405
