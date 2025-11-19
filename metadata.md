@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4070
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4070
@@ -66,3 +66,9 @@ Tren de Aragua Border Security Threat Assessment Act
 - 2025-09-26 — Placed on the Union Calendar, Calendar No. 267.
 - 2025-09-26 — Reported by the Committee on Homeland Security. H. Rept. 119-313.
 - 2025-09-26 — Reported by the Committee on Homeland Security. H. Rept. 119-313.
+- 2025-11-19 — Considered under suspension of the rules. (consideration: CR H4786-4788)
+- 2025-11-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4070.
+- 2025-11-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-11-19 — Mr. Guest moved to suspend the rules and pass the bill.
+- 2025-11-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4787)
+- 2025-11-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4787)
