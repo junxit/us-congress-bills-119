@@ -1,7 +1,7 @@
 ---
 measure: S. 2741
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2741
@@ -32,3 +32,5 @@ Legacy Mine Cleanup Act of 2025
 - 2025-10-29 — Committee on Environment and Public Works. Reported by Senator Capito with an amendment. Without written report.
 - 2025-10-29 — Committee on Environment and Public Works. Reported by Senator Capito with an amendment. Without written report.
 - 2025-10-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 228.
+- 2025-11-19 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S8245-8248; text: CR S8247-8248)
+- 2025-11-19 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
