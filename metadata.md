@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1327
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1327
@@ -39,3 +39,9 @@ Syria Terrorism Threat Assessment Act
 - 2025-07-10 — Placed on the Union Calendar, Calendar No. 162.
 - 2025-07-10 — Reported by the Committee on Homeland Security. H. Rept. 119-198.
 - 2025-07-10 — Reported by the Committee on Homeland Security. H. Rept. 119-198.
+- 2025-11-19 — Considered under suspension of the rules. (consideration: CR H4782-4783)
+- 2025-11-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1327.
+- 2025-11-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-11-19 — Mr. Guest moved to suspend the rules and pass the bill, as amended.
+- 2025-11-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4782)
+- 2025-11-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4782)

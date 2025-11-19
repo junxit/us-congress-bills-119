@@ -26,9 +26,11 @@ This Act may be cited as the “Syria Terrorism Threat Assessment Act”.
     - **(D)** A description of any action of the Department with respect to the following:
       - **(i)** Mitigating the terrorist threats to the United States posed by such individuals.
       - **(ii)** Preventing such individuals from entering the United States.
-- **(b)** *Congressional notification* Not later than 60 days after the date of the enactment of this Act, the Secretary shall—
-  - **(1)** submit to the appropriate congressional committees the threat assessment required under subsection (a); and
-  - **(2)** provide a briefing to the appropriate congressional committees on such assessment.
+- **(b)** *Congressional notification*
+  - **(1)** *In general* Not later than 60 days after the date of the enactment of this Act, the Secretary shall—
+    - **(A)** submit to the appropriate congressional committees the threat assessment required under subsection (a); and
+    - **(B)** provide a briefing to the appropriate congressional committees on such assessment.
+  - **(2)** *Form* The threat assessment required under subsection (a) shall be submitted in unclassified form, but may include a classified annex.
 - **(c)** *Definitions* In this Act:
   - **(1)** *Appropriate congressional committees* The term “appropriate congressional committees” means—
     - **(A)** the Committee on Homeland Security of the House of Representatives; and
