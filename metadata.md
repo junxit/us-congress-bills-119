@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4058
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4058
@@ -26,6 +26,10 @@ Enhancing Stakeholder Support and Outreach for Preparedness Grants Act
 
 - House — Homeland Security Committee
 
+## Recorded votes (1)
+
+- 2025-11-19 — [House 119-1-300](votes/house-119-1-0300.md) — On Motion to Suspend the Rules and Pass — **Passed** (380–45)
+
 ## Actions
 
 - 2025-06-20 — Introduced in House
@@ -38,3 +42,11 @@ Enhancing Stakeholder Support and Outreach for Preparedness Grants Act
 - 2025-09-15 — Placed on the Union Calendar, Calendar No. 252.
 - 2025-09-15 — Reported by the Committee on Homeland Security. H. Rept. 119-296.
 - 2025-09-15 — Reported by the Committee on Homeland Security. H. Rept. 119-296.
+- 2025-11-19 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2025-11-19 — Considered as unfinished business. (consideration: CR H4807-4808)
+- 2025-11-19 — Considered under suspension of the rules. (consideration: CR H4789-4790)
+- 2025-11-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4058.
+- 2025-11-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-11-19 — Mr. Guest moved to suspend the rules and pass the bill.
+- 2025-11-19 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 380 - 45 (Roll no. 300). (text: CR H4789)
+- 2025-11-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 380 - 45 (Roll no. 300). (text: CR H4789)
