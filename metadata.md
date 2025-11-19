@@ -1,0 +1,151 @@
+---
+measure: H.R. 6151
+congress: 119
+version: Introduced in House
+---
+
+# H.R. 6151
+
+Global Respect Act
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. McBride, Sarah [D-DE-At Large] (M001238)
+
+## Cosponsors (119)
+
+- Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
+- Rep. Jacobs, Sara [D-CA-51] (J000305)
+- Rep. Aguilar, Pete [D-CA-33] (A000371)
+- Rep. Amo, Gabe [D-RI-1] (A000380)
+- Rep. Ansari, Yassamin [D-AZ-3] (A000381)
+- Rep. Balint, Becca [D-VT-At Large] (B001318)
+- Rep. Barragán, Nanette Diaz [D-CA-44] (B001300)
+- Rep. Beyer, Donald S. [D-VA-8] (B001292)
+- Rep. Bonamici, Suzanne [D-OR-1] (B001278)
+- Rep. Brownley, Julia [D-CA-26] (B001285)
+- Rep. Budzinski, Nikki [D-IL-13] (B001315)
+- Rep. Carbajal, Salud O. [D-CA-24] (C001112)
+- Rep. Carson, André [D-IN-7] (C001072)
+- Rep. Carter, Troy A. [D-LA-2] (C001125)
+- Rep. Casar, Greg [D-TX-35] (C001131)
+- Rep. Case, Ed [D-HI-1] (C001055)
+- Rep. Casten, Sean [D-IL-6] (C001117)
+- Rep. Castro, Joaquin [D-TX-20] (C001091)
+- Rep. Cherfilus-McCormick, Sheila [D-FL-20] (C001127)
+- Rep. Chu, Judy [D-CA-28] (C001080)
+- Rep. Cisneros, Gilbert Ray [D-CA-31] (C001123)
+- Rep. Cohen, Steve [D-TN-9] (C001068)
+- Rep. Correa, J. Luis [D-CA-46] (C001110)
+- Rep. Costa, Jim [D-CA-21] (C001059)
+- Rep. Craig, Angie [D-MN-2] (C001119)
+- Rep. Davis, Danny K. [D-IL-7] (D000096)
+- Rep. Dean, Madeleine [D-PA-4] (D000631)
+- Rep. DeLauro, Rosa L. [D-CT-3] (D000216)
+- Rep. DelBene, Suzan K. [D-WA-1] (D000617)
+- Rep. Deluzio, Christopher R. [D-PA-17] (D000530)
+- Rep. DeSaulnier, Mark [D-CA-10] (D000623)
+- Rep. Dexter, Maxine [D-OR-3] (D000635)
+- Rep. Dingell, Debbie [D-MI-6] (D000624)
+- Rep. Espaillat, Adriano [D-NY-13] (E000297)
+- Rep. Evans, Dwight [D-PA-3] (E000296)
+- Rep. Fletcher, Lizzie [D-TX-7] (F000468)
+- Rep. Foushee, Valerie P. [D-NC-4] (F000477)
+- Rep. Frankel, Lois [D-FL-22] (F000462)
+- Rep. Frost, Maxwell [D-FL-10] (F000476)
+- Rep. Garcia, Robert [D-CA-42] (G000598)
+- Rep. Garcia, Sylvia R. [D-TX-29] (G000587)
+- Rep. García, Jesús G. "Chuy" [D-IL-4] (G000586)
+- Rep. Goldman, Daniel S. [D-NY-10] (G000599)
+- Rep. Gomez, Jimmy [D-CA-34] (G000585)
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
+- Rep. Hayes, Jahana [D-CT-5] (H001081)
+- Rep. Himes, James A. [D-CT-4] (H001047)
+- Rep. Horsford, Steven [D-NV-4] (H001066)
+- Rep. Houlahan, Chrissy [D-PA-6] (H001085)
+- Rep. Hoyle, Val T. [D-OR-4] (H001094)
+- Rep. Huffman, Jared [D-CA-2] (H001068)
+- Rep. Ivey, Glenn [D-MD-4] (I000058)
+- Rep. Jackson, Jonathan L. [D-IL-1] (J000309)
+- Rep. Johnson, Julie [D-TX-32] (J000310)
+- Rep. Kamlager-Dove, Sydney [D-CA-37] (K000400)
+- Rep. Keating, William R. [D-MA-9] (K000375)
+- Rep. Kelly, Robin L. [D-IL-2] (K000385)
+- Rep. Kennedy, Timothy M. [D-NY-26] (K000402)
+- Rep. Khanna, Ro [D-CA-17] (K000389)
+- Rep. Krishnamoorthi, Raja [D-IL-8] (K000391)
+- Rep. Larsen, Rick [D-WA-2] (L000560)
+- Rep. Larson, John B. [D-CT-1] (L000557)
+- Rep. Latimer, George [D-NY-16] (L000606)
+- Rep. Leger Fernandez, Teresa [D-NM-3] (L000273)
+- Rep. Levin, Mike [D-CA-49] (L000593)
+- Rep. Lieu, Ted [D-CA-36] (L000582)
+- Rep. Lofgren, Zoe [D-CA-18] (L000397)
+- Rep. Lynch, Stephen F. [D-MA-8] (L000562)
+- Rep. Magaziner, Seth [D-RI-2] (M001223)
+- Rep. Matsui, Doris O. [D-CA-7] (M001163)
+- Rep. McCollum, Betty [D-MN-4] (M001143)
+- Rep. McGarvey, Morgan [D-KY-3] (M001220)
+- Rep. McGovern, James P. [D-MA-2] (M000312)
+- Rep. McIver, LaMonica [D-NJ-10] (M001229)
+- Rep. Meeks, Gregory W. [D-NY-5] (M001137)
+- Rep. Meng, Grace [D-NY-6] (M001188)
+- Rep. Min, Dave [D-CA-47] (M001241)
+- Rep. Morrison, Kelly [D-MN-3] (M001234)
+- Rep. Moskowitz, Jared [D-FL-23] (M001217)
+- Rep. Moulton, Seth [D-MA-6] (M001196)
+- Rep. Mullin, Kevin [D-CA-15] (M001225)
+- Rep. Norcross, Donald [D-NJ-1] (N000188)
+- Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
+- Rep. Omar, Ilhan [D-MN-5] (O000173)
+- Rep. Panetta, Jimmy [D-CA-19] (P000613)
+- Rep. Peters, Scott H. [D-CA-50] (P000608)
+- Rep. Pettersen, Brittany [D-CO-7] (P000620)
+- Rep. Pingree, Chellie [D-ME-1] (P000597)
+- Rep. Pocan, Mark [D-WI-2] (P000607)
+- Rep. Quigley, Mike [D-IL-5] (Q000023)
+- Rep. Ramirez, Delia C. [D-IL-3] (R000617)
+- Rep. Raskin, Jamie [D-MD-8] (R000606)
+- Rep. Salinas, Andrea [D-OR-6] (S001226)
+- Rep. Scanlon, Mary Gay [D-PA-5] (S001205)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. Schneider, Bradley Scott [D-IL-10] (S001190)
+- Rep. Scholten, Hillary J. [D-MI-3] (S001221)
+- Rep. Sherman, Brad [D-CA-32] (S000344)
+- Rep. Sherrill, Mikie [D-NJ-11] (S001207)
+- Rep. Simon, Lateefah [D-CA-12] (S001231)
+- Rep. Sorensen, Eric [D-IL-17] (S001225)
+- Rep. Stanton, Greg [D-AZ-4] (S001211)
+- Rep. Swalwell, Eric [D-CA-14] (S001193)
+- Rep. Sykes, Emilia Strong [D-OH-13] (S001223)
+- Rep. Takano, Mark [D-CA-39] (T000472)
+- Rep. Thanedar, Shri [D-MI-13] (T000488)
+- Rep. Titus, Dina [D-NV-1] (T000468)
+- Rep. Tlaib, Rashida [D-MI-12] (T000481)
+- Rep. Tokuda, Jill N. [D-HI-2] (T000487)
+- Rep. Tonko, Paul [D-NY-20] (T000469)
+- Rep. Torres, Ritchie [D-NY-15] (T000486)
+- Rep. Tran, Derek [D-CA-45] (T000491)
+- Rep. Underwood, Lauren [D-IL-14] (U000040)
+- Rep. Vargas, Juan [D-CA-52] (V000130)
+- Rep. Veasey, Marc A. [D-TX-33] (V000131)
+- Rep. Velázquez, Nydia M. [D-NY-7] (V000081)
+- Rep. Wasserman Schultz, Debbie [D-FL-25] (W000797)
+- Rep. Wilson, Frederica S. [D-FL-24] (W000808)
+- Rep. Nadler, Jerrold [D-NY-12] (N000002)
+
+## Committees (2)
+
+- House — Judiciary Committee
+- House — Foreign Affairs Committee
+
+## Actions
+
+- 2025-11-19 — Introduced in House
+- 2025-11-19 — Introduced in House
+- 2025-11-19 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-11-19 — Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
