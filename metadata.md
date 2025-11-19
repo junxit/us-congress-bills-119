@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4071
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4071
@@ -41,3 +41,9 @@ Combatting International Drug Trafficking and Human Smuggling Partnership Act of
 - 2025-10-03 — Placed on the Union Calendar, Calendar No. 276.
 - 2025-10-03 — Reported by the Committee on Homeland Security. H. Rept. 119-323, Part I.
 - 2025-10-03 — Reported by the Committee on Homeland Security. H. Rept. 119-323, Part I.
+- 2025-11-19 — Considered under suspension of the rules. (consideration: CR H4788-4789)
+- 2025-11-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4071.
+- 2025-11-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-11-19 — Mr. Guest moved to suspend the rules and pass the bill.
+- 2025-11-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4788)
+- 2025-11-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4788)
