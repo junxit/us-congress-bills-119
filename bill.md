@@ -1,18 +1,8 @@
 ---
 legis-num: S. 2878
-congress: 119th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: 
+session: 
+chamber: 
 ---
 
 # S. 2878
-
-> To reauthorize funding to monitor, assess, and research the Great Lakes Basin, and for other purposes.
-
-## § 1. Short title
-
-This Act may be cited as the “Great Lakes Fishery Research Reauthorization Act”.
-
-## § 2. Reauthorization of funding to monitor, assess, and research Great Lakes Basin
-
-Section 201(d) of title II of division P of the Further Consolidated Appropriations Act, 2020 (16 U.S.C. 941h(d)), is amended by striking “2025” and inserting “2030”.
