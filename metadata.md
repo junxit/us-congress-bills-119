@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5107
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5107
@@ -52,6 +52,10 @@ Common-Sense Law Enforcement and Accountability Now in DC Act of 2025
 
 - House — Oversight and Government Reform Committee
 
+## Recorded votes (1)
+
+- 2025-11-19 — [House 119-1-299](votes/house-119-1-0299.md) — On Passage — **Passed** (233–190)
+
 ## Actions
 
 - 2025-09-03 — Introduced in House
@@ -62,3 +66,17 @@ Common-Sense Law Enforcement and Accountability Now in DC Act of 2025
 - 2025-09-30 — Placed on the Union Calendar, Calendar No. 271.
 - 2025-09-30 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 119-317.
 - 2025-09-30 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 119-317.
+- 2025-11-17 — Rules Committee Resolution H. Res. 879 Reported to House. Rule provides for consideration of S.J. Res. 80, H.J. Res. 130, H.J. Res. 131, H. Con. Res. 58, H.R. 1949, H.R. 3109, H.R. 5107 and H.R. 5214. The resolution provides for consideration of S.J. Res. 80, H.J. Res. 130, H.J. Res. 131, H. Con. Res. 58, H.R. 1949, H.R. 3109, H.R. 5107, and H.R. 5214 under a closed rule with one hour of general debate on each measure. The resolution also provides for one motion to recommit on H.J. Res. 130, H.J. Res. 131, H.R. 1949, H.R. 3109, H.R. 5107, and H.R. 5214, and one motion to commit S.J. Res. 80.
+- 2025-11-19 — Amendment reported by the House Committee on Rules.
+- 2025-11-19 — Considered as unfinished business. (consideration: CR H4806-4807)
+- 2025-11-19 — Considered under the provisions of rule H. Res. 879. (consideration: CR H4800-4805)
+- 2025-11-19 — DEBATE - The House proceeded with one hour of debate on H.R. 5107.
+- 2025-11-19 — House amendment considered as adopted: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2025-11-19 — House amendment offered/reported by: Amendment reported by the House Committee on Rules.
+- 2025-11-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-11-19 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2025-11-19 — On passage Passed by the Yeas and Nays: 233 - 190 (Roll no. 299). (text of amendment in the nature of a substitute: CR H4800-4801)
+- 2025-11-19 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 5107, the Chair put the question on passage of the bill and by voice vote announced the ayes had prevailed. Mr. Clyde demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2025-11-19 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 233 - 190 (Roll no. 299). (text of amendment in the nature of a substitute: CR H4800-4801)
+- 2025-11-19 — Rule provides for consideration of S.J. Res. 80, H.J. Res. 130, H.J. Res. 131, H. Con. Res. 58, H.R. 1949, H.R. 3109, H.R. 5107 and H.R. 5214. The resolution provides for consideration of S.J. Res. 80, H.J. Res. 130, H.J. Res. 131, H. Con. Res. 58, H.R. 1949, H.R. 3109, H.R. 5107, and H.R. 5214 under a closed rule with one hour of general debate on each measure. The resolution also provides for one motion to recommit on H.J. Res. 130, H.J. Res. 131, H.R. 1949, H.R. 3109, H.R. 5107, and H.R. 5214, and one motion to commit S.J. Res. 80.
+- 2025-11-19 — The previous question was ordered pursuant to the rule.
