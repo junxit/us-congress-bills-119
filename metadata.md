@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1736
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1736
@@ -22,9 +22,10 @@ Generative AI Terrorism Risk Assessment Act
 - Rep. Evans, Gabe [R-CO-8] (E000300)
 - Rescom. Hernández, Pablo Jose [D-PR-At Large] (H001103)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Generative AI Terrorism Risk Assessment Act
 - 2025-11-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4783-4784)
 - 2025-11-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4783-4784)
 - 2025-11-19 — The title of the measure was amended. Agreed to without objection.
+- 2025-11-20 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
