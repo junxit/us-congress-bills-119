@@ -1,7 +1,7 @@
 ---
 measure: S. 222
 congress: 119
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 222
@@ -53,3 +53,15 @@ Whole Milk for Healthy Kids Act of 2025
 - 2025-11-20 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S8259-8261; text: CR S8261)
 - 2025-11-20 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
 - 2025-11-20 — Received in the House.
+- 2025-12-15 — Considered under suspension of the rules. (consideration: CR H5857-5861)
+- 2025-12-15 — DEBATE - The House proceeded with forty minutes of debate on S. 222.
+- 2025-12-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-12-15 — Mr. Thompson (PA) moved to suspend the rules and pass the bill.
+- 2025-12-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2025-12-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2026-01-06 — Presented to President.
+- 2026-01-06 — Presented to President.
+- 2026-01-14 — Became Public Law No: 119-69.
+- 2026-01-14 — Became Public Law No: 119-69.
+- 2026-01-14 — Signed by President.
+- 2026-01-14 — Signed by President.
