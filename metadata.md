@@ -1,7 +1,7 @@
 ---
 measure: S. 1318
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1318
@@ -16,7 +16,7 @@ Fallen Servicemembers Religious Heritage Restoration Act
 
 - Sen. Moran, Jerry [R-KS] (M000934)
 
-## Cosponsors (19)
+## Cosponsors (20)
 
 - Sen. Rosen, Jacky [D-NV] (R000608)
 - Sen. Blumenthal, Richard [D-CT] (B001277)
@@ -37,6 +37,7 @@ Fallen Servicemembers Religious Heritage Restoration Act
 - Sen. Lankford, James [R-OK] (L000575)
 - Sen. Ossoff, Jon [D-GA] (O000174)
 - Sen. Husted, Jon [R-OH] (H001104)
+- Sen. Gallego, Ruben [D-AZ] (G000574)
 
 ## Committees (1)
 
@@ -51,3 +52,8 @@ Fallen Servicemembers Religious Heritage Restoration Act
 - 2025-10-22 — Committee on Veterans' Affairs. Reported by Senator Moran without amendment. With written report No. 119-89.
 - 2025-10-22 — Committee on Veterans' Affairs. Reported by Senator Moran without amendment. With written report No. 119-89.
 - 2025-10-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 201.
+- 2025-11-20 — Held at the desk.
+- 2025-11-20 — Message on Senate action sent to the House.
+- 2025-11-20 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8399; text: CR S8399)
+- 2025-11-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2025-11-20 — Received in the House.
