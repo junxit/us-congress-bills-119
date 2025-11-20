@@ -1,7 +1,7 @@
 ---
 measure: S. 222
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 222
@@ -48,3 +48,8 @@ Whole Milk for Healthy Kids Act of 2025
 - 2025-07-10 — Committee on Agriculture, Nutrition, and Forestry. Reported by Senator Boozman with an amendment in the nature of a substitute. Without written report.
 - 2025-07-10 — Committee on Agriculture, Nutrition, and Forestry. Reported by Senator Boozman with an amendment in the nature of a substitute. Without written report.
 - 2025-07-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 111.
+- 2025-11-20 — Held at the desk.
+- 2025-11-20 — Message on Senate action sent to the House.
+- 2025-11-20 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S8259-8261; text: CR S8261)
+- 2025-11-20 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2025-11-20 — Received in the House.
