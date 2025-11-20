@@ -1,7 +1,7 @@
 ---
 measure: S. 2110
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2110
@@ -32,3 +32,8 @@ REUSE Act of 2025
 - 2025-10-29 — Committee on Environment and Public Works. Reported by Senator Capito without amendment. Without written report.
 - 2025-10-29 — Committee on Environment and Public Works. Reported by Senator Capito without amendment. Without written report.
 - 2025-10-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 225.
+- 2025-11-20 — Held at the desk.
+- 2025-11-20 — Message on Senate action sent to the House.
+- 2025-11-20 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8398; text: CR S8398)
+- 2025-11-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2025-11-20 — Received in the House.
