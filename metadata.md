@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1949
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1949
@@ -66,6 +66,10 @@ Unlocking our Domestic LNG Potential Act of 2025
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2025-11-20 — [House 119-1-304](votes/house-119-1-0304.md) — On Passage — **Passed** (217–188)
+
 ## Actions
 
 - 2025-03-06 — Introduced in House
@@ -79,3 +83,15 @@ Unlocking our Domestic LNG Potential Act of 2025
 - 2025-09-11 — Placed on the Union Calendar, Calendar No. 225.
 - 2025-09-11 — Reported by the Committee on Energy and Commerce. H. Rept. 119-269.
 - 2025-09-11 — Reported by the Committee on Energy and Commerce. H. Rept. 119-269.
+- 2025-11-17 — Rules Committee Resolution H. Res. 879 Reported to House. Rule provides for consideration of S.J. Res. 80, H.J. Res. 130, H.J. Res. 131, H. Con. Res. 58, H.R. 1949, H.R. 3109, H.R. 5107 and H.R. 5214. The resolution provides for consideration of S.J. Res. 80, H.J. Res. 130, H.J. Res. 131, H. Con. Res. 58, H.R. 1949, H.R. 3109, H.R. 5107, and H.R. 5214 under a closed rule with one hour of general debate on each measure. The resolution also provides for one motion to recommit on H.J. Res. 130, H.J. Res. 131, H.R. 1949, H.R. 3109, H.R. 5107, and H.R. 5214, and one motion to commit S.J. Res. 80.
+- 2025-11-17 — Supplemental report filed by the Committee on Energy and Commerce, H. Rept. 119-269, Part II.
+- 2025-11-17 — Supplemental report filed by the Committee on Energy and Commerce, H. Rept. 119-269, Part II.
+- 2025-11-20 — Considered as unfinished business. (consideration: CR H4850-4851)
+- 2025-11-20 — Considered under the provisions of rule H. Res. 879. (consideration: CR H4841-4849)
+- 2025-11-20 — DEBATE - The House proceeded with one hour of debate on H.R. 1949.
+- 2025-11-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-11-20 — On passage Passed by the Yeas and Nays: 217 - 188 (Roll no. 304). (text: CR H4841)
+- 2025-11-20 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 1949, the Chair put the question on passage of the bill and by voice vote announced the ayes had prevailed. Mr. Pallone demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2025-11-20 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 217 - 188 (Roll no. 304). (text: CR H4841)
+- 2025-11-20 — Rule provides for consideration of S.J. Res. 80, H.J. Res. 130, H.J. Res. 131, H. Con. Res. 58, H.R. 1949, H.R. 3109, H.R. 5107 and H.R. 5214. The resolution provides for consideration of S.J. Res. 80, H.J. Res. 130, H.J. Res. 131, H. Con. Res. 58, H.R. 1949, H.R. 3109, H.R. 5107, and H.R. 5214 under a closed rule with one hour of general debate on each measure. The resolution also provides for one motion to recommit on H.J. Res. 130, H.J. Res. 131, H.R. 1949, H.R. 3109, H.R. 5107, and H.R. 5214, and one motion to commit S.J. Res. 80.
+- 2025-11-20 — The previous question was ordered pursuant to the rule.
