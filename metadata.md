@@ -1,7 +1,7 @@
 ---
 measure: S. 351
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 351
@@ -34,3 +34,8 @@ STEWARD Act of 2025
 - 2025-02-05 — Committee on Environment and Public Works. Reported by Senator Capito without amendment. Without written report.
 - 2025-02-05 — Committee on Environment and Public Works. Reported by Senator Capito without amendment. Without written report.
 - 2025-02-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 7.
+- 2025-11-20 — Held at the desk.
+- 2025-11-20 — Message on Senate action sent to the House.
+- 2025-11-20 — Passed Senate without amendment by Voice Vote. (consideration: CR S8395-8398; text: CR S8395-8398)
+- 2025-11-20 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2025-11-20 — Received in the House.
