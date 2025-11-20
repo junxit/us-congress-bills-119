@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1327
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1327
@@ -22,9 +22,10 @@ Syria Terrorism Threat Assessment Act
 - Rep. Pfluger, August [R-TX-11] (P000048)
 - Rep. Correa, J. Luis [D-CA-46] (C001110)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Syria Terrorism Threat Assessment Act
 - 2025-11-19 — Mr. Guest moved to suspend the rules and pass the bill, as amended.
 - 2025-11-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4782)
 - 2025-11-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4782)
+- 2025-11-20 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
