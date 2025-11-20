@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4070
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4070
@@ -50,9 +50,10 @@ Tren de Aragua Border Security Threat Assessment Act
 - Rep. Walberg, Tim [R-MI-5] (W000798)
 - Rep. Fry, Russell [R-SC-7] (F000478)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -72,3 +73,4 @@ Tren de Aragua Border Security Threat Assessment Act
 - 2025-11-19 — Mr. Guest moved to suspend the rules and pass the bill.
 - 2025-11-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4787)
 - 2025-11-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4787)
+- 2025-11-20 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
