@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4071
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4071
@@ -21,10 +21,11 @@ Combatting International Drug Trafficking and Human Smuggling Partnership Act of
 - Rep. Pou, Nellie [D-NJ-9] (P000621)
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 
-## Committees (2)
+## Committees (3)
 
 - House — Ways and Means Committee
 - House — Homeland Security Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Combatting International Drug Trafficking and Human Smuggling Partnership Act of
 - 2025-11-19 — Mr. Guest moved to suspend the rules and pass the bill.
 - 2025-11-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4788)
 - 2025-11-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4788)
+- 2025-11-20 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
