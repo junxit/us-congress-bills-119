@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2259
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
