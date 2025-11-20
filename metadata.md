@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3965
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3965
@@ -31,9 +31,10 @@ PEARL Act
 - Rep. Kennedy, Timothy M. [D-NY-26] (K000402)
 - Rep. Lawler, Michael [R-NY-17] (L000599)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -53,3 +54,4 @@ PEARL Act
 - 2025-11-19 — Mr. Guest moved to suspend the rules and pass the bill.
 - 2025-11-19 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4786)
 - 2025-11-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4786)
+- 2025-11-20 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
