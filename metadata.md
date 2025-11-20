@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4058
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4058
@@ -22,9 +22,10 @@ Enhancing Stakeholder Support and Outreach for Preparedness Grants Act
 - Rescom. Hernández, Pablo Jose [D-PR-At Large] (H001103)
 - Rep. Green, Mark E. [R-TN-7] (G000590)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -50,3 +51,4 @@ Enhancing Stakeholder Support and Outreach for Preparedness Grants Act
 - 2025-11-19 — Mr. Guest moved to suspend the rules and pass the bill.
 - 2025-11-19 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 380 - 45 (Roll no. 300). (text: CR H4789)
 - 2025-11-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 380 - 45 (Roll no. 300). (text: CR H4789)
+- 2025-11-20 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
