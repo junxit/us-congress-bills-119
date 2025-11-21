@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 6247
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6247
+
+> To designate the facility of the United States Postal Service located at 13355 North Lon Adams Road in Marana, Arizona, as the “Mayor Ed Honea Memorial Post Office”.
+
+## § 1. Mayor Ed Honea Memorial Post Office
+
+- **(a)** *Designation* The facility of the United States Postal Service located at 13355 North Lon Adams Road in Marana, Arizona, shall be known and designated as the “Mayor Ed Honea Memorial Post Office”.
+- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the “Mayor Ed Honea Memorial Post Office”.
