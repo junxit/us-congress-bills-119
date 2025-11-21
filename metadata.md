@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 58
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 58
@@ -16,7 +16,7 @@ Denouncing the horrors of socialism.
 
 - Rep. Salazar, Maria Elvira [R-FL-27] (S000168)
 
-## Cosponsors (56)
+## Cosponsors (63)
 
 - Rep. Scalise, Steve [R-LA-1] (S001176)
 - Rep. Huizenga, Bill [R-MI-4] (H001058)
@@ -74,13 +74,34 @@ Denouncing the horrors of socialism.
 - Rep. Gonzales, Tony [R-TX-23] (G000594)
 - Rep. Langworthy, Nicholas A. [R-NY-23] (L000600)
 - Rep. Garbarino, Andrew R. [R-NY-2] (G000597)
+- Rep. Luna, Anna Paulina [R-FL-13] (L000596)
+- Rep. Self, Keith [R-TX-3] (S001224)
+- Rep. Strong, Dale W. [R-AL-5] (S001220)
+- Rep. Rutherford, John H. [R-FL-5] (R000609)
+- Rep. Gill, Brandon [R-TX-26] (G000603)
+- Rep. Donalds, Byron [R-FL-19] (D000032)
+- Rep. Maloy, Celeste [R-UT-2] (M001228)
 
 ## Committees (1)
 
 - House — Financial Services Committee
+
+## Recorded votes (1)
+
+- 2025-11-21 — [House 119-1-305](votes/house-119-1-0305.md) — On Agreeing to the Resolution — **Passed** (285–98)
 
 ## Actions
 
 - 2025-10-24 — Referred to the House Committee on Financial Services.
 - 2025-10-24 — Submitted in House
 - 2025-10-24 — Submitted in House
+- 2025-11-17 — Rules Committee Resolution H. Res. 879 Reported to House. Rule provides for consideration of S.J. Res. 80, H.J. Res. 130, H.J. Res. 131, H. Con. Res. 58, H.R. 1949, H.R. 3109, H.R. 5107 and H.R. 5214. The resolution provides for consideration of S.J. Res. 80, H.J. Res. 130, H.J. Res. 131, H. Con. Res. 58, H.R. 1949, H.R. 3109, H.R. 5107, and H.R. 5214 under a closed rule with one hour of general debate on each measure. The resolution also provides for one motion to recommit on H.J. Res. 130, H.J. Res. 131, H.R. 1949, H.R. 3109, H.R. 5107, and H.R. 5214, and one motion to commit S.J. Res. 80.
+- 2025-11-21 — Considered under the provisions of rule H. Res. 879. (consideration: CR H4883-4890)
+- 2025-11-21 — DEBATE - The House proceeded with one hour of debate on H. Con. Res. 58.
+- 2025-11-21 — DEBATE - The House resumed debate on H. Con. Res. 58.
+- 2025-11-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-11-21 — On agreeing to the resolution Agreed to by the Yeas and Nays: 285 - 98, 2 Present (Roll no. 305). (text: CR H4883)
+- 2025-11-21 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 285 - 98, 2 Present (Roll no. 305).
+- 2025-11-21 — Rule provides for consideration of S.J. Res. 80, H.J. Res. 130, H.J. Res. 131, H. Con. Res. 58, H.R. 1949, H.R. 3109, H.R. 5107 and H.R. 5214. The resolution provides for consideration of S.J. Res. 80, H.J. Res. 130, H.J. Res. 131, H. Con. Res. 58, H.R. 1949, H.R. 3109, H.R. 5107, and H.R. 5214 under a closed rule with one hour of general debate on each measure. The resolution also provides for one motion to recommit on H.J. Res. 130, H.J. Res. 131, H.R. 1949, H.R. 3109, H.R. 5107, and H.R. 5214, and one motion to commit S.J. Res. 80.
+- 2025-11-21 — The previous question was ordered pursuant to the rule on the concurent resolution and preamble.
+- 2025-11-21 — WORDS TAKEN DOWN - During the course of debate, exception was taken to certain words used and a demand was made to have the words take down. Ms. Salazar asked unanimous consent to withdraw the words, Without Objection, the words were withdrawn.
