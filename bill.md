@@ -9,7 +9,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To codify certain provisions of certain Executive Orders relating to domestic mining and hardrock mineral resources, and for other purposes.
 
-## § 1. Policy
+## § 1. Short title
+
+This Act may be cited as the “Critical Mineral Dominance Act”.
+
+## § 2. Policy
 
 It is the policy of the United States to establish the position of the United States as the leading producer of hardrock minerals, including rare earth minerals, which will—
 
@@ -18,14 +22,14 @@ It is the policy of the United States to establish the position of the United St
 - **(3)** safeguard the national Security of the United States; and
 - **(4)** reduce the global influence of malign and adversarial states.
 
-## § 2. Analyzing economic impacts of mineral net import reliance
+## § 3. Analyzing economic impacts of mineral net import reliance
 
 - **(a)** *Cost of net import reliance* Not later than 90 days after the date of the enactment of this Act, the Secretary shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate—
   - **(1)** for each mineral commodity included in the document published by the United States Geological Survey titled “Mineral Commodity Summaries 2025” (Version 1.2; March 2025) for which the United States is reliant on imports, the dollar value associated with such reliance; and
   - **(2)** the overall impact on the economy of the United States of imports and exports of mineral commodities listed in the document published by the United States Geological Survey titled “Mineral Commodity Summaries 2025” (Version 1.2; March 2025) for which the United States is reliant on imports.
 - **(b)** *Subsequent inclusion* Beginning in 2026, the Secretary, acting through the Director of the United States Geological Survey, shall include in each Mineral Commodity Summaries published by the United States Geological Survey the information described in paragraphs (1) and (2) of subsection (a).
 
-## § 3. Priority projects
+## § 4. Priority projects
 
 - **(a)** *Project identification*
   - **(1)** *In general* Not later than 10 days after the date of the enactment of this Act and annually thereafter, the Secretary, in consultation with the Secretary of Agriculture, shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a list of each mining project on Federal land for which a plan of operations, a permit application, or other application for approval has been submitted to the Department of the Interior.
@@ -34,10 +38,12 @@ It is the policy of the United States to establish the position of the United St
     - **(B)** take all necessary and appropriate actions to expedite and approve or issue each such plan of operations, permit application, and other application for approval.
 - **(b)** *Identification of potential hardrock mineral and byproduct production* Not later than 10 days after the date of the enactment of this Act, the Secretary, in consultation with the Secretary of Agriculture, shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a list of each mining project on Federal land, whether active, inactive, or proposed, that has the potential to—
   - **(1)** increase production of hardrock minerals or the byproducts of hardrock minerals;
-  - **(2)** expand operations to include the byproducts of hardrock minerals; or
-  - **(3)** produce hardrock minerals from mine tailings.
+  - **(2)** expand operations to include the byproducts of hardrock minerals;
+  - **(3)** produce hardrock minerals from mine tailings; or
+  - **(4)** produce hardrock minerals from coal ash and other coal byproducts.
+- **(c)** *Report on barriers to byproduct production* Not later than one year after the date of enactment of this Act, the Secretary shall submit a report to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate on the barriers to byproduct production from mining projects on Federal land, including recommendations to Congress on how to reduce those barriers.
 
-## § 4. Mining potential on Federal land
+## § 5. Mining potential on Federal land
 
 - **(a)** *In general* The Secretary shall identify all Federal land managed by the Secretary or the Secretary of Agriculture, which may be leased for the exploration, development, or production of hardrock minerals or is open to location under the Act of May 10, 1872 (commonly known as the Mining Law of 1872), where—
   - **(1)** hardrock mineral exploration is being conducted;
@@ -48,7 +54,7 @@ It is the policy of the United States to establish the position of the United St
   - **(2)** would have the greatest potential effect on the robustness of the domestic mineral supply chain.
 - **(c)** *Submission of list* The Secretary shall annually submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a list of all Federal land identified under subsection (a).
 
-## § 5. Regulatory review
+## § 6. Regulatory review
 
 - **(a)** *Identifying burdensome Federal regulations* Not later than 90 days after the date of the enactment of this Act, the Secretary, in consultation with the Secretary of Agriculture, shall—
   - **(1)** review all existing regulations, orders, guidance documents, policies, settlements, consent orders, public land withdrawals, and any other agency actions within the jurisdiction of the Secretary (in this section referred to collectively as “agency action”) to identify each agency action that imposes an undue burden on the exploration, identification, development, or operation of domestic mining projects;
@@ -57,15 +63,15 @@ It is the policy of the United States to establish the position of the United St
     - **(A)** to implement industry feedback received pursuant to paragraph (2); and
     - **(B)** suspend, revise, or rescind, as applicable, each agency action identified as unduly burdensome under paragraph (1) as expeditiously as possible.
 - **(b)** *Report* Not later than 180 days after the date of the enactment of this Act, the Secretary, in consultation with the Secretary of Agriculture, shall submit to Congress a report including—
-  - **(1)** recommendations for changes to law in effect as of the date of the enactment of this Act necessary to accomplish the policy described in section 1; and
+  - **(1)** recommendations for changes to law in effect as of the date of the enactment of this Act necessary to accomplish the policy described in section 2; and
   - **(2)** a nationwide review of State and local statutes, regulations, and ordinances the Secretary determines impede development of domestic mining and mineral exploration projects.
 
-## § 6. Map baby map
+## § 7. Map baby map
 
 - **(a)** *In general* The Secretary shall prioritize efforts to accelerate the ongoing, detailed geologic mapping of the United States, with a focus on mapping previously unknown deposits of hardrock minerals.
 - **(b)** *Report* Not later than 1 year after the date of the enactment of this Act, the Secretary shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report regarding the progress and estimated completion date of the comprehensive national modern surface and subsurface mapping and data integration effort of the Department of the Interior described in section 40201 of the Infrastructure Investment and Jobs Act (43 U.S.C. 311).
 
-## § 7. Definitions
+## § 8. Definitions
 
 In this Act:
 
@@ -78,7 +84,7 @@ In this Act:
     - **(i)** minerals found in sedimentary or other rocks;
     - **(ii)** base metals;
     - **(iii)** precious metals;
-    - **(iv)** industrial metals; and
+    - **(iv)** industrial minerals; and
     - **(v)** precious and semi-precious gemstones; and
   - **(B)** does not include deposits of—
     - **(i)** coal;
@@ -89,5 +95,6 @@ In this Act:
     - **(vi)** potassium;
     - **(vii)** sulfur; or
     - **(viii)** mineral materials subject to disposition under the Act of July 31, 1947, commonly known as the Materials Act of 1947 (30 U.S.C. 601 et seq.).
-- **(3)** *Public lands* The term public lands has the meaning given the term in section 103 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1702).
-- **(4)** *Secretary* The term Secretary means the Secretary of the Interior.
+- **(3)** *Mining project* The term “mining project” means a project that involves the exploration for or development, extraction, or processing of a hardrock mineral.
+- **(4)** *Public lands* The term public lands has the meaning given the term in section 103 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1702).
+- **(5)** *Secretary* The term Secretary means the Secretary of the Interior.
