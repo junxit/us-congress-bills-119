@@ -22,7 +22,7 @@ This Act may be cited as the “Pressure Regulatory Organizations To End Chinese
   - **(4)** The Basel Committee on Banking Supervision.
   - **(5)** The International Association of Insurance Supervisors.
   - **(6)** The International Organization of Securities Commissions.
-- **(b)** *Policy advancement* The Secretary of the Treasury, the Board of Governors of the Federal Reserve System, and the Securities and Exchange Commission, shall take all necessary steps to advance the policy set forth in subsection (a).
+- **(b)** *Policy advancement* The Secretary of the Treasury, the Board of Governors of the Federal Reserve System, and the Securities and Exchange Commission shall take all necessary steps to advance the policy set forth in subsection (a).
 - **(c)** *Waiver* The President may waive the application of subsection (a) with respect to an organization upon submission of a report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate—
   - **(1)** that such waiver is in the national interest of the United States; and
   - **(2)** that contains an explanation of the reasons therefor.
