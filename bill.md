@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Protecting Access for Hunters and Anglers Act of 2025”.
+This Act may be cited as the “Protecting Access for Hunters and Anglers Act”.
 
 ## § 2. Protecting access for hunters and anglers on federal land and water
 
@@ -26,4 +26,4 @@ This Act may be cited as the “Protecting Access for Hunters and Anglers Act of
     - **(A)** consistent with the law of the State in which the specific Federal land or water is located;
     - **(B)** consistent with an applicable policy of the fish and wildlife department of the State in which the specific Federal land or water is located; or
     - **(C)** approved by the applicable fish and wildlife department of the State in which the specific Federal land or water is located.
-- **(c)** *Federal register notice* The applicable Secretary shall include in a Federal Register notice with respect to any prohibition or regulations that meet the requirements of paragraphs (1) and (2) of subsection (b) an explanation of how the prohibition or regulations, as applicable, meet those requirements.
+- **(c)** *Federal Register notice* The applicable Secretary shall include in a Federal Register notice with respect to any prohibition or regulations that meet the requirements of paragraphs (1) and (2) of subsection (b) an explanation of how the prohibition or regulations, as applicable, meet those requirements.

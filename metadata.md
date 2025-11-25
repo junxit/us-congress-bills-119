@@ -1,7 +1,7 @@
 ---
 measure: H.R. 556
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 556
@@ -16,7 +16,7 @@ Protecting Access for Hunters and Anglers Act
 
 - Rep. Wittman, Robert J. [R-VA-1] (W000804)
 
-## Cosponsors (41)
+## Cosponsors (83)
 
 - Rep. McGuire, John [R-VA-5] (M001239)
 - Rep. Weber, Randy K. Sr. [R-TX-14] (W000814)
@@ -59,6 +59,48 @@ Protecting Access for Hunters and Anglers Act
 - Rep. Fitzgerald, Scott [R-WI-5] (F000471)
 - Rep. Letlow, Julia [R-LA-5] (L000595)
 - Rep. Fleischmann, Charles J. "Chuck" [R-TN-3] (F000459)
+- Rep. Gosar, Paul A. [R-AZ-9] (G000565)
+- Rep. Owens, Burgess [R-UT-4] (O000086)
+- Rep. Self, Keith [R-TX-3] (S001224)
+- Rep. Carter, John R. [R-TX-31] (C001051)
+- Rep. Grothman, Glenn [R-WI-6] (G000576)
+- Rep. Biggs, Sheri [R-SC-3] (B001325)
+- Rep. Fallon, Pat [R-TX-4] (F000246)
+- Rep. Hurd, Jeff [R-CO-3] (H001100)
+- Rep. Langworthy, Nicholas A. [R-NY-23] (L000600)
+- Rep. Babin, Brian [R-TX-36] (B001291)
+- Rep. Moore, Tim [R-NC-14] (M001236)
+- Rep. Womack, Steve [R-AR-3] (W000809)
+- Rep. McDowell, Addison [R-NC-6] (M001240)
+- Rep. Estes, Ron [R-KS-4] (E000298)
+- Rep. Rutherford, John H. [R-FL-5] (R000609)
+- Rep. Fry, Russell [R-SC-7] (F000478)
+- Rep. Johnson, Dusty [R-SD-At Large] (J000301)
+- Rep. Kustoff, David [R-TN-8] (K000392)
+- Rep. Rulli, Michael A. [R-OH-6] (R000619)
+- Rep. Donalds, Byron [R-FL-19] (D000032)
+- Rep. Mann, Tracey [R-KS-1] (M000871)
+- Rep. Hinson, Ashley [R-IA-2] (H001091)
+- Rep. Sessions, Pete [R-TX-17] (S000250)
+- Rep. Harrigan, Pat [R-NC-10] (H001101)
+- Rep. Stefanik, Elise M. [R-NY-21] (S001196)
+- Rep. Wied, Tony [R-WI-8] (W000829)
+- Rep. Downing, Troy [R-MT-2] (D000634)
+- Rep. Hamadeh, Abraham J. [R-AZ-8] (H001098)
+- Rep. Crank, Jeff [R-CO-5] (C001137)
+- Rep. Latta, Robert E. [R-OH-5] (L000566)
+- Rep. Crenshaw, Dan [R-TX-2] (C001120)
+- Rep. Van Duyne, Beth [R-TX-24] (V000134)
+- Rep. Pfluger, August [R-TX-11] (P000048)
+- Rep. Steube, W. Gregory [R-FL-17] (S001214)
+- Rep. Miller-Meeks, Mariannette [R-IA-1] (M001215)
+- Rep. Harris, Mark [R-NC-8] (H001102)
+- Rep. DesJarlais, Scott [R-TN-4] (D000616)
+- Rep. Evans, Gabe [R-CO-8] (E000300)
+- Rep. Jackson, Ronny [R-TX-13] (J000304)
+- Rep. Miller, Max L. [R-OH-7] (M001222)
+- Rep. Roy, Chip [R-TX-21] (R000614)
+- Rep. Nehls, Troy E. [R-TX-22] (N000026)
 
 ## Committees (2)
 
@@ -71,3 +113,11 @@ Protecting Access for Hunters and Anglers Act
 - 2025-01-16 — Introduced in House
 - 2025-01-16 — Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2025-01-16 — Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-02-20 — Referred to the Subcommittee on Forestry and Horticulture.
+- 2025-07-15 — Committee Consideration and Mark-up Session Held
+- 2025-07-15 — Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 23 - 17.
+- 2025-11-25 — Committee on Agriculture discharged.
+- 2025-11-25 — Committee on Agriculture discharged.
+- 2025-11-25 — Placed on the Union Calendar, Calendar No. 335.
+- 2025-11-25 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-385, Part I.
+- 2025-11-25 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-385, Part I.
