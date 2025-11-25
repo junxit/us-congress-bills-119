@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Water Rights Protection Act of 2025”.
+This Act may be cited as the “Water Rights Protection Act”.
 
 ## § 2. Definitions
 

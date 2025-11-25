@@ -1,7 +1,7 @@
 ---
 measure: H.R. 302
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 302
@@ -16,12 +16,14 @@ Water Rights Protection Act
 
 - Rep. Maloy, Celeste [R-UT-2] (M001228)
 
-## Cosponsors (4)
+## Cosponsors (6)
 
 - Rep. Moore, Blake D. [R-UT-1] (M001213)
 - Rep. Fulcher, Russ [R-ID-1] (F000469)
 - Rep. Biggs, Andy [R-AZ-5] (B001302)
 - Rep. Estes, Ron [R-KS-4] (E000298)
+- Rep. Owens, Burgess [R-UT-4] (O000086)
+- Rep. Kennedy, Mike [R-UT-3] (K000403)
 
 ## Committees (2)
 
@@ -34,3 +36,11 @@ Water Rights Protection Act
 - 2025-01-09 — Introduced in House
 - 2025-01-09 — Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2025-01-09 — Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-02-12 — Committee Consideration and Mark-up Session Held
+- 2025-02-12 — Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 22 - 16.
+- 2025-02-14 — Referred to the Subcommittee on Conservation, Research, and Biotechnology.
+- 2025-11-25 — Committee on Agriculture discharged.
+- 2025-11-25 — Committee on Agriculture discharged.
+- 2025-11-25 — Placed on the Union Calendar, Calendar No. 334.
+- 2025-11-25 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-384, Part I.
+- 2025-11-25 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-384, Part I.
