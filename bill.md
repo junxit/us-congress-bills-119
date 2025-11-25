@@ -11,11 +11,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Mining Regulatory Clarity Act of 2025”.
+This Act may be cited as the “Mining Regulatory Clarity Act”.
 
 ## § 2. Hardrock mining mill sites
 
-- **(a)** *Multiple mill sites* Section 2337 of the Revised Statutes (30 U.S.C. 42) is amended by adding at the end the following:
+- **(a)** *Multiple mill sites* Section 2337 of the Revised Statutes of the United States (30 U.S.C. 42) is amended by adding at the end the following:
   > - **(c)** *Additional mill sites*
   >   - **(1)** *Definitions* In this subsection:
   >     - **(A)** *Mill site* The term mill site means a location of public land that is reasonably necessary for waste rock or tailings disposal or other operations reasonably incident to mineral development on, or production from land included in a plan of operations.
@@ -23,7 +23,7 @@ This Act may be cited as the “Mining Regulatory Clarity Act of 2025”.
   >     - **(C)** *Plan of operations* The term plan of operations means a plan of operations that an operator must submit and the Secretary of the Interior or the Secretary of Agriculture, as applicable, must approve before an operator may begin operations, in accordance with, as applicable—
   >       - **(i)** subpart 3809 of title 43, Code of Federal Regulations (or successor regulations establishing application and approval requirements); and
   >       - **(ii)** part 228 of title 36, Code of Federal Regulations (or successor regulations establishing application and approval requirements).
-  >     - **(D)** *Public land* The term public land means land owned by the United States that is open to location under sections 2319 through 2344 of the Revised Statutes (30 U.S.C. 22 et seq.), including—
+  >     - **(D)** *Public land* The term public land means land owned by the United States that is open to location under sections 2319 through 2344 of the Revised Statutes of the United States (30 U.S.C. 22 et seq.), including—
   >       - **(i)** land that is mineral-in-character (as defined in section 3830.5 of title 43, Code of Federal Regulations (as in effect on the date of enactment of this subsection));
   >       - **(ii)** nonmineral land (as defined in section 3830.5 of title 43, Code of Federal Regulations (as in effect on the date of enactment of this subsection)); and
   >       - **(iii)** land where the mineral character has not been determined.
@@ -54,13 +54,13 @@ This Act may be cited as the “Mining Regulatory Clarity Act of 2025”.
 
 - **(b)** *Abandoned Hardrock Mine Fund*
   - **(1)** *Establishment* There is established in the Treasury of the United States a separate account, to be known as the “Abandoned Hardrock Mine Fund” (referred to in this subsection as the “Fund”).
-  - **(2)** *Source of deposits* Any amounts collected by the Secretary of the Interior pursuant to the claim maintenance fee under section 10101(a)(1) of the Omnibus Budget Reconciliation Act of 1993 (30 U.S.C. 28f(a)(1)) on mill sites located under subsection (c) of section 2337 of the Revised Statutes (30 U.S.C. 42) shall be deposited into the Fund.
+  - **(2)** *Source of deposits* Any amounts collected by the Secretary of the Interior pursuant to the claim maintenance fee under section 10101(a)(1) of the Omnibus Budget Reconciliation Act of 1993 (30 U.S.C. 28f(a)(1)) on mill sites located under subsection (c) of section 2337 of the Revised Statutes of the United States (30 U.S.C. 42) shall be deposited into the Fund.
   - **(3)** *Use* The Secretary of the Interior may make expenditures from amounts available in the Fund, without further appropriations, only to carry out section 40704 of the Infrastructure Investment and Jobs Act (30 U.S.C. 1245).
   - **(4)** *Allocation of funds* Amounts made available under paragraph (3)—
     - **(A)** shall be allocated in accordance with section 40704(e)(1) of the Infrastructure Investment and Jobs Act (30 U.S.C. 1245(e)(1)); and
     - **(B)** may be transferred in accordance with section 40704(e)(2) of that Act (30 U.S.C. 1245(e)(2)).
 - **(c)** *Clerical amendments* Section 10101 of the Omnibus Budget Reconciliation Act of 1993 (30 U.S.C. 28f) is amended—
-  - **(1)** by striking “the Mining Law of 1872 (30 U.S.C. 28–28e)” each place it appears and inserting “sections 2319 through 2344 of the Revised Statutes (30 U.S.C. 22 et seq.)”;
+  - **(1)** by striking “the Mining Law of 1872 (30 U.S.C. 28–28e)” each place it appears and inserting “sections 2319 through 2344 of the Revised Statutes of the United States (30 U.S.C. 22 et seq.)”;
   - **(2)** in subsection (a)—
     - **(A)** in paragraph (1)—
       - **(i)** in the second sentence, by striking “Such claim maintenance fee” and inserting the following:

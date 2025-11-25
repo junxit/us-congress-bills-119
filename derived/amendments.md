@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1366
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,12 +26,12 @@ to guess them.
 
 ### 30 U.S.C. § 28-28e
 
-> by striking “the Mining Law of 1872 (30 U.S.C. 28–28e)” each place it appears and inserting “sections 2319 through 2344 of the Revised Statutes (30 U.S.C. 22 et seq.)”;
+> by striking “the Mining Law of 1872 (30 U.S.C. 28–28e)” each place it appears and inserting “sections 2319 through 2344 of the Revised Statutes of the United States (30 U.S.C. 22 et seq.)”;
 
 | | |
 |---|---|
 | Removed | `the Mining Law of 1872 (30 U.S.C. 28–28e)` |
-| Inserted | `sections 2319 through 2344 of the Revised Statutes (30 U.S.C. 22 et seq.)` |
+| Inserted | `sections 2319 through 2344 of the Revised Statutes of the United States (30 U.S.C. 22 et seq.)` |
 
 ## Stated, not applied
 
@@ -42,7 +42,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `30 U.S.C. § 42` | add-at-end | Section 2337 of the Revised Statutes (30 U.S.C. 42) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `30 U.S.C. § 42` | add-at-end | Section 2337 of the Revised Statutes of the United States (30 U.S.C. 42) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `30 U.S.C. § 28f` | replace | in the second sentence, by striking “Such claim maintenance fee” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `30 U.S.C. § 28f` | replace | in the first sentence, by striking “The holder of” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `30 U.S.C. § 28f` | replace | in the second sentence, by striking “Such claim maintenance fee” and inserting the following: | the bill quotes the text struck but describes what replaces it |
