@@ -1,0 +1,28 @@
+---
+legis-num: H.R. 6320
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6320
+
+> To amend title XIX of the Social Security Act to require coverage of lung cancer biomarker testing under the Medicaid program.
+
+## § 1. Short title
+
+This Act may be cited as the “Improving Medicaid Precision and Cancer Test Act of 2025”.
+
+## § 2. Requiring coverage of lung cancer biomarker testing under the Medicaid program
+
+- **(a)** *In general* Title XIX of the Social Security Act (42 U.S.C. 1396 et seq.) is amended—
+  - **(1)** in section 1902(a)(10)(A), in the matter preceding clause (i), by striking “and (30)” and inserting “(30), and (32)”;
+  - **(2)** in section 1905—
+    - **(A)** in subsection (a)—
+      - **(i)** in paragraph (31), by striking “; and” and inserting a semicolon;
+      - **(ii)** by redesignating paragraph (32) as paragraph (33); and
+      - **(iii)** by inserting the following paragraph after paragraph (31):
+        > - **(32)** lung cancer biomarker testing; and
+
+  - **(3)** in section 1937(b)(5), by inserting before the period at the end the following: “, and beginning January 1, 2027, coverage of lung cancer biomarker testing”.
+- **(b)** *Effective date* The amendments made by this section shall apply beginning January 1, 2027.
