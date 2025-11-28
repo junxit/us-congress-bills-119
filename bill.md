@@ -1,0 +1,26 @@
+---
+legis-num: H.R. 6319
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6319
+
+> To direct the Secretary of Health and Human Services to establish a Lung Cancer Task Force, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Benay Taub Lung Cancer Research Act”.
+
+## § 2. Lung Cancer Task Force
+
+- **(a)** *Establishment* The Secretary of Health and Human Services shall establish a task force, to be known as the Lung Cancer Task Force, within the National Institutes of Health.
+- **(b)** *Membership* The members of the task force shall be appointed by the Secretary, and shall include—
+  - **(1)** at least one representative of the National Cancer Institute; and
+  - **(2)** at least one representative of the National Comprehensive Cancer Control Program of the Centers for Disease Control and Prevention.
+- **(c)** *Duties* The task force shall examine—
+  - **(1)** disparities in lung cancer research, funding, and patient access to treatments as compared to other diseases, taking into account the number of people affected by lung cancer;
+  - **(2)** the level of Federal funding for lung cancer research in relation to the burden caused by the disease; and
+  - **(3)** lung cancer screenings in the United States.
+- **(d)** *Report to Congress* Not later than 180 days after the date of enactment of this Act, the Secretary shall transmit to Congress a report containing the findings and recommendations of the task force, including recommendations for increasing the level of Federal funding for lung cancer research.
