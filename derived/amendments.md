@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1013
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -44,12 +44,12 @@ to guess them.
 
 ### 15 U.S.C. § 77c
 
-> by striking “(iii) which is a plan funded” and all that follows through “retirement income account).” and inserting “(iii) in the case of a plan not described in subparagraph (D) or (E), which is a plan funded by an annuity contract described in section 403(b) of such Code”.
+> by striking “(iii) which is a plan funded” and all that follows through “retirement income account).” and inserting “(iii) in the case of a plan not described in subparagraph (D) or (E), which is a plan funded by an annuity contract described in section 403(b) of such Code.”.
 
 | | |
 |---|---|
 | Removed | `(iii) which is a plan funded” and all that follows through “retirement income account).` |
-| Inserted | `(iii) in the case of a plan not described in subparagraph (D) or (E), which is a plan funded by an annuity contract described in section 403(b) of such Code` |
+| Inserted | `(iii) in the case of a plan not described in subparagraph (D) or (E), which is a plan funded by an annuity contract described in section 403(b) of such Code.` |
 
 ### 29 U.S.C. § 1001
 
