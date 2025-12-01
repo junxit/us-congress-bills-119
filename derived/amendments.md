@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4313
 congress: 119
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 3 executed, 3 stated and not applied.
+8 amendatory instructions. 4 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,12 +26,12 @@ to guess them.
 
 ### 42 U.S.C. § 1395cc-7
 
-> Section 1866G(a)(1) of the Social Security Act (42 U.S.C. 1395cc–7(a)(1)) is amended by striking “2025” and inserting “2030”.
+> Section 1866G(a)(1) of the Social Security Act (42 U.S.C. 1395cc–7(a)(1)) is amended by striking “January 30, 2026” and inserting “September 30, 2030”.
 
 | | |
 |---|---|
-| Removed | `2025` |
-| Inserted | `2030` |
+| Removed | `January 30, 2026` |
+| Inserted | `September 30, 2030` |
 
 ### 42 U.S.C. § 1395cc-7
 
@@ -44,12 +44,21 @@ to guess them.
 
 ### 42 U.S.C. § 1395cc-7
 
-> in subsection (b), in the subsection heading, by striking “Study” and inserting “Initial study”;
+> in the subsection heading, by striking “Study” and inserting “Initial study”; and
 
 | | |
 |---|---|
 | Removed | `Study` |
 | Inserted | `Initial study` |
+
+### 42 U.S.C. § 1395iii
+
+> Section 1898(b)(1) of the Social Security Act (42 U.S.C. 1395iii(b)(1)) is amended by striking “$1,403,000,000” and inserting “$1,400,500,000”.
+
+| | |
+|---|---|
+| Removed | `$1,403,000,000` |
+| Inserted | `$1,400,500,000` |
 
 ## Stated, not applied
 
@@ -61,5 +70,6 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `42 U.S.C. § 1395cc-7` | add-at-end | by adding at the end the following new flush sentence: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1395cc-7` | insert | in paragraph (3), by inserting “or subsection (c)” before the period at the end; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1395cc-7` | redesignate | by redesignating subsections (c) and (d) as subsections (d) and (e), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1395cc-7` | insert | by inserting after subsection (b) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

@@ -15,7 +15,7 @@ This Act may be cited as the “Hospital Inpatient Services Modernization Act”
 
 ## § 2. Extending acute hospital care at home waiver flexibilities
 
-Section 1866G(a)(1) of the Social Security Act (42 U.S.C. 1395cc–7(a)(1)) is amended by striking “2025” and inserting “2030”.
+Section 1866G(a)(1) of the Social Security Act (42 U.S.C. 1395cc–7(a)(1)) is amended by striking “January 30, 2026” and inserting “September 30, 2030”.
 
 ## § 3. Requiring additional study and report on acute hospital care at home waiver flexibilities
 
@@ -24,7 +24,9 @@ Section 1866G of the Social Security Act (42 U.S.C. 1395cc–7), as amended by s
 - **(1)** in subsection (a)(3)(E)—
   - **(A)** in clause (ii), by striking “the study described in subsection (b)” and inserting “the studies described in subsections (b) and (c)”; and
   - **(B)** by adding at the end the following new flush sentence:
-- **(2)** in subsection (b), in the subsection heading, by striking “Study” and inserting “Initial study”;
+- **(2)** in subsection (b)—
+  - **(A)** in the subsection heading, by striking “Study” and inserting “Initial study”; and
+  - **(B)** in paragraph (3), by inserting “or subsection (c)” before the period at the end;
 - **(3)** by redesignating subsections (c) and (d) as subsections (d) and (e), respectively; and
 - **(4)** by inserting after subsection (b) the following new subsection:
   > - **(c)** *Subsequent study and report*
@@ -39,3 +41,8 @@ Section 1866G of the Social Security Act (42 U.S.C. 1395cc–7), as amended by s
   >       - **(vi)** the quality of care, outcomes, costs, quantity and intensity of services, and other relevant metrics between individuals who entered into the Acute Hospital Care at Home initiative directly from an emergency department compared with individuals who entered into the Acute Hospital Care at Home initiative directly from an existing inpatient stay in a hospital.
   >   - **(2)** *Selection bias* In conducting the study under paragraph (1), the Secretary shall, to the extent practicable, analyze and compare individuals who participate and do not participate in the initiative controlling for selection bias or other factors that may impact the reliability of data.
   >   - **(3)** *Report* Not later than September 30, 2028, the Secretary of Health and Human Services shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on the study conducted under paragraph (1).
+  >   - **(4)** *Funding* In addition to amounts otherwise available, there is appropriated to the Centers for Medicare & Medicaid Services Program Management Account for fiscal year 2026, out of any amounts in the Treasury not otherwise appropriated, $2,500,000, to remain available until expended, for purposes of carrying out this subsection.
+
+## § 4. Medicare Improvement Fund
+
+Section 1898(b)(1) of the Social Security Act (42 U.S.C. 1395iii(b)(1)) is amended by striking “$1,403,000,000” and inserting “$1,400,500,000”.
