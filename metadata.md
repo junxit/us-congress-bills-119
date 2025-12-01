@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4431
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4431
@@ -34,3 +34,9 @@ Improving Capital Allocation for Newcomers Act of 2025
 - 2025-09-08 — Placed on the Union Calendar, Calendar No. 205.
 - 2025-09-08 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-248.
 - 2025-09-08 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-248.
+- 2025-12-01 — Considered under suspension of the rules. (consideration: CR H4950-4952)
+- 2025-12-01 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4431.
+- 2025-12-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-12-01 — Mr. Davidson moved to suspend the rules and pass the bill, as amended.
+- 2025-12-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4950-4951)
+- 2025-12-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4950-4951)

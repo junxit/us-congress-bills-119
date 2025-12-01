@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4431
 congress: 119
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 2 executed, 0 stated and not applied.
+3 amendatory instructions. 3 executed, 0 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,9 +35,18 @@ to guess them.
 
 ### 15 U.S.C. § 80a-3
 
-> in subparagraph (C)(i), by striking “$10,000,000” and inserting “$50,000,000”.
+> by striking “$10,000,000” and inserting “$50,000,000”; and
 
 | | |
 |---|---|
 | Removed | `$10,000,000` |
 | Inserted | `$50,000,000` |
+
+### 15 U.S.C. § 80a-3
+
+> by striking “beginning from a measurement made by the Commission on a date selected by the Commission” and inserting “beginning from a measurement made on the date of the enactment of the Improving Capital Allocation for Newcomers Act of 2025”.
+
+| | |
+|---|---|
+| Removed | `beginning from a measurement made by the Commission on a date selected by the Commission` |
+| Inserted | `beginning from a measurement made on the date of the enactment of the Improving Capital Allocation for Newcomers Act of 2025` |
