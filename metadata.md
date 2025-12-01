@@ -1,7 +1,7 @@
 ---
 measure: H.R. 176
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 176
@@ -52,3 +52,9 @@ No Immigration Benefits for Hamas Terrorists Act of 2025
 - 2025-03-21 — Placed on the Union Calendar, Calendar No. 17.
 - 2025-03-21 — Reported (Amended) by the Committee on Judiciary. H. Rept. 119-27.
 - 2025-03-21 — Reported (Amended) by the Committee on Judiciary. H. Rept. 119-27.
+- 2025-12-01 — Considered under suspension of the rules. (consideration: CR H4926–4928)
+- 2025-12-01 — DEBATE - The House proceeded with forty minutes of debate on H.R. 176.
+- 2025-12-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-12-01 — Mr. McClintock moved to suspend the rules and pass the bill, as amended.
+- 2025-12-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4926)
+- 2025-12-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4926)
