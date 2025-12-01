@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2159
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2159
@@ -37,3 +37,9 @@ Count the Crimes to Cut Act
 - 2025-10-17 — Placed on the Union Calendar, Calendar No. 298.
 - 2025-10-17 — Reported (Amended) by the Committee on Judiciary. H. Rept. 119-346.
 - 2025-10-17 — Reported (Amended) by the Committee on Judiciary. H. Rept. 119-346.
+- 2025-12-01 — Considered under suspension of the rules. (consideration: CR H4923-4926)
+- 2025-12-01 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2159.
+- 2025-12-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-12-01 — Mr. Roy moved to suspend the rules and pass the bill, as amended.
+- 2025-12-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4923)
+- 2025-12-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4923)
