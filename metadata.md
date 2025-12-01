@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 62
 congress: 119
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 62
@@ -32,3 +32,4 @@ Authorizing the use of Emancipation Hall in the Capitol Visitor Center for an ev
 - 2025-11-20 — Mr. Steil asked unanimous consent to discharge from committee and consider.
 - 2025-11-20 — On agreeing to the resolution Agreed to without objection. (text: CR H4851)
 - 2025-11-20 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection. (text: CR H4851)
+- 2025-12-01 — Received in the Senate.
