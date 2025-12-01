@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title; table of contents
 
-- **(a)** *Short title* This Act may be cited as the “Give Kids a Chance Act of 2025”.
+- **(a)** *Short title* This Act may be cited as the “Mikaela Naylon Give Kids a Chance Act”.
 - **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 2. Research into pediatric uses of drugs; additional authorities of Food and Drug Administration regarding molecularly targeted cancer drugs
@@ -158,7 +158,7 @@ Section 372 of the Public Health Service Act (42 U.S.C. 274) is amended—
   >   - **(5)** *GAO review* Not later than 2 years after the date of enactment of this subsection, the Comptroller General of the United States shall, to the extent data are available—
   >     - **(A)** conduct a review concerning the activities under this subsection; and
   >     - **(B)** submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Finance of the Senate and the Committee on Energy and Commerce of the House of Representatives, a report on such review, including related recommendations, as applicable.
-  >   - **(6)** *Sunset* The authority to collect registration fees under paragraph (1) shall expire on the date that is 3 years after the date of enactment of the Give Kids a Chance Act of 2025.
+  >   - **(6)** *Sunset* The authority to collect registration fees under paragraph (1) shall expire on the date that is 3 years after the date of enactment of the Mikaela Naylon Give Kids a Chance Act.
 
 ## § 9. Establishment of Abraham Accords Office within Food and Drug Administration
 
@@ -211,7 +211,4 @@ Section 372 of the Public Health Service Act (42 U.S.C. 274) is amended—
 
 ## § 11. Medicare Improvement Fund
 
-Section 1898(b)(1) of the Social Security Act (42 U.S.C. 1395iii(b)(1)) is amended—
-
-- **(1)** by striking “fiscal year 2026” and inserting “fiscal year 2027”; and
-- **(2)** by striking “$1,804,000,000” and inserting “$3,047,000,000”.
+Section 1898(b)(1) of the Social Security Act (42 U.S.C. 1395iii(b)(1)) is amended by striking “$1,403,000,000” and inserting “$2,622,000,000”.

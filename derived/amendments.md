@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1262
 congress: 119
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-36 amendatory instructions. 16 executed, 20 stated and not applied.
+35 amendatory instructions. 15 executed, 20 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -152,21 +152,12 @@ to guess them.
 
 ### 42 U.S.C. § 1395iii
 
-> by striking “fiscal year 2026” and inserting “fiscal year 2027”; and
+> Section 1898(b)(1) of the Social Security Act (42 U.S.C. 1395iii(b)(1)) is amended by striking “$1,403,000,000” and inserting “$2,622,000,000”.
 
 | | |
 |---|---|
-| Removed | `fiscal year 2026` |
-| Inserted | `fiscal year 2027` |
-
-### 42 U.S.C. § 1395iii
-
-> by striking “$1,804,000,000” and inserting “$3,047,000,000”.
-
-| | |
-|---|---|
-| Removed | `$1,804,000,000` |
-| Inserted | `$3,047,000,000` |
+| Removed | `$1,403,000,000` |
+| Inserted | `$2,622,000,000` |
 
 ## Stated, not applied
 
