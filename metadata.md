@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3109
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3109
@@ -20,9 +20,10 @@ REFINER Act
 
 - Rep. Dunn, Neal P. [R-FL-2] (D000628)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -52,3 +53,4 @@ REFINER Act
 - 2025-11-20 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 230 - 176 (Roll no. 303). (text: CR H4835)
 - 2025-11-20 — Rule provides for consideration of S.J. Res. 80, H.J. Res. 130, H.J. Res. 131, H. Con. Res. 58, H.R. 1949, H.R. 3109, H.R. 5107 and H.R. 5214. The resolution provides for consideration of S.J. Res. 80, H.J. Res. 130, H.J. Res. 131, H. Con. Res. 58, H.R. 1949, H.R. 3109, H.R. 5107, and H.R. 5214 under a closed rule with one hour of general debate on each measure. The resolution also provides for one motion to recommit on H.J. Res. 130, H.J. Res. 131, H.R. 1949, H.R. 3109, H.R. 5107, and H.R. 5214, and one motion to commit S.J. Res. 80.
 - 2025-11-20 — The previous question was ordered pursuant to the rule.
+- 2025-12-01 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
