@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3174
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3174
@@ -45,3 +45,9 @@ Made in America Manufacturing Finance Act
 - 2025-08-15 — Placed on the Union Calendar, Calendar No. 182.
 - 2025-08-15 — Reported (Amended) by the Committee on Small Business. H. Rept. 119-224.
 - 2025-08-15 — Reported (Amended) by the Committee on Small Business. H. Rept. 119-224.
+- 2025-12-01 — Considered under suspension of the rules. (consideration: CR H4912-4913)
+- 2025-12-01 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3174.
+- 2025-12-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-12-01 — Mr. Williams (TX) moved to suspend the rules and pass the bill, as amended.
+- 2025-12-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4912)
+- 2025-12-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4912)
