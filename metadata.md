@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4491
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4491
@@ -34,3 +34,9 @@ SBA IT Modernization Reporting Act
 - 2025-08-15 — Placed on the Union Calendar, Calendar No. 181.
 - 2025-08-15 — Reported by the Committee on Small Business. H. Rept. 119-223.
 - 2025-08-15 — Reported by the Committee on Small Business. H. Rept. 119-223.
+- 2025-12-01 — Considered under suspension of the rules. (consideration: CR H4913-4914)
+- 2025-12-01 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4491.
+- 2025-12-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-12-01 — Mr. Williams (TX) moved to suspend the rules and pass the bill.
+- 2025-12-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4913-4914)
+- 2025-12-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4913-4914)
