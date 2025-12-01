@@ -19,7 +19,7 @@ Not later than the end of the 180-day period beginning on the date of the enactm
 
 - **(1)** revise the definition of a qualifying investment under paragraph (c) of section 275.203(l)–1 of title 17, Code of Federal Regulations—
   - **(A)** to include an equity security issued by a qualifying portfolio company, whether acquired directly from the company or in a secondary acquisition; and
-  - **(B)** to specify that an investment in another venture capital fund is a qualifying investment under such definition; and
-- **(2)** revise paragraph (a) of such section to—
-  - **(A)** require, as a condition of a private fund qualifying as a venture capital fund under such paragraph, that not less than 51 percent of the fund’s aggregate capital contributions and uncalled committed capital (other than short term holdings) shall consist of equity securities acquired directly from a qualifying portfolio company, including immediately after the acquisition of any asset; and
-  - **(B)** specify that up to 49 percent of the fund’s aggregate capital contributions and uncalled committed capital (other than short term holdings) may consist of investments in one or more venture capital funds, as well as securities acquired in a secondary acquisition.
+  - **(B)** to specify that an investment in another venture capital fund (as defined in paragraph (a) section 275.203(l)–1 of title 17, Code of Federal Regulations) is a qualifying investment under such definition; and
+- **(2)** revise paragraph (a) of such section to require, as a condition of a private fund qualifying as a venture capital fund under such paragraph, that, immediately after the acquisition of any asset, such fund holds no more than 49 percent of the amount of the fund’s aggregate capital contributions and uncalled committed capital (excluding short-term holdings) in—
+  - **(A)** one or more venture capital funds; or
+  - **(B)** qualifying investments acquired in a secondary acquisition, valued at cost or fair value, consistently applied by the fund.
