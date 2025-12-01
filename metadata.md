@@ -1,7 +1,7 @@
 ---
 measure: H.R. 225
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 225
@@ -45,3 +45,9 @@ HUD Transparency Act of 2025
 - 2025-07-15 — Placed on the Union Calendar, Calendar No. 164.
 - 2025-07-15 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-201.
 - 2025-07-15 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-201.
+- 2025-12-01 — Considered under suspension of the rules. (consideration: CR H4944-4945)
+- 2025-12-01 — DEBATE - The House proceeded with forty minutes of debate on H.R. 225.
+- 2025-12-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-12-01 — Mr. Davidson moved to suspend the rules and pass the bill, as amended.
+- 2025-12-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4944)
+- 2025-12-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4944)
