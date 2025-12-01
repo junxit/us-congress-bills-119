@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 62
 congress: 119
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 62
@@ -33,3 +33,6 @@ Authorizing the use of Emancipation Hall in the Capitol Visitor Center for an ev
 - 2025-11-20 — On agreeing to the resolution Agreed to without objection. (text: CR H4851)
 - 2025-11-20 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection. (text: CR H4851)
 - 2025-12-01 — Received in the Senate.
+- 2025-12-04 — Message on Senate action sent to the House.
+- 2025-12-04 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.
+- 2025-12-04 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S8517)
