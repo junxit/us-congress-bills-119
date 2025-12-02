@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4430
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4430
@@ -22,9 +22,10 @@ Expanding WKSI Eligibility Act
 - Rep. Meuser, Daniel [R-PA-9] (M001204)
 - Rep. Himes, James A. [D-CT-4] (H001047)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Expanding WKSI Eligibility Act
 - 2025-12-01 — Mr. Davidson moved to suspend the rules and pass the bill, as amended.
 - 2025-12-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4952)
 - 2025-12-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4952)
+- 2025-12-02 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
