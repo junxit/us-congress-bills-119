@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4549
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4549
@@ -42,3 +42,4 @@ Office of Rural Affairs Enhancement Act
 - 2025-12-01 — Mr. Williams (TX) moved to suspend the rules and pass the bill.
 - 2025-12-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4916-4917)
 - 2025-12-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4916-4917)
+- 2025-12-02 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 282.
