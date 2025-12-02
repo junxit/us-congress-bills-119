@@ -52,3 +52,7 @@ This Act may be cited as the “Improving Veteran Access to Care Act”.
 - **(i)** *Definitions* In this section:
   - **(1)** *Appropriate committees of Congress* The term appropriate committees of Congress means the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives.
   - **(2)** *Fully schedule* The term fully schedule, with respect to booking an appointment, means that the appointment booking is completed, rather than simply requested.
+
+## § 1. Short title
+
+This Act may be cited as the “Improving Veteran Access to Care Act”.
