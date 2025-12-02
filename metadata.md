@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 916
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 916
@@ -16,9 +16,26 @@ Providing for consideration of the bill (H.R. 4312) to protect the name, image, 
 
 - Rep. Griffith, H. Morgan [R-VA-9] (G000568)
 
+## Committees (1)
+
+- House — Rules Committee
+
+## Recorded votes (2)
+
+- 2025-12-02 — [House 119-1-308](votes/house-119-1-0308.md) — On Ordering the Previous Question — **Passed** (210–205)
+- 2025-12-02 — [House 119-1-309](votes/house-119-1-0309.md) — On Agreeing to the Resolution — **Passed** (210–209)
+
 ## Actions
 
 - 2025-12-01 — Placed on the House Calendar, Calendar No. 48.
 - 2025-12-01 — The House Committee on Rules reported an original measure, H. Rept. 119-391, by Mr. Griffith.
 - 2025-12-01 — The House Committee on Rules reported an original measure, H. Rept. 119-391, by Mr. Griffith.
 - 2025-12-01 — The resolution provides for consideration of H.R. 4312, H.R. 1005, H.R. 1049, H.R. 1069, H.R. 2965, and H.R. 4305 under a closed rule with one hour of general debate and one motion to recommit on each bill.
+- 2025-12-02 — Considered as privileged matter. (consideration: CR H4978-4985)
+- 2025-12-02 — Considered as unfinished business. (consideration: CR H4985-4987)
+- 2025-12-02 — DEBATE - The House proceeded with one hour of debate on H. Res. 916.
+- 2025-12-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-12-02 — On agreeing to the resolution Agreed to by recorded vote: 210 - 209 (Roll no. 309). (text: CR H4978-4979)
+- 2025-12-02 — On ordering the previous question Agreed to by the Yeas and Nays: 210 - 205 (Roll no. 308).
+- 2025-12-02 — POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 916, the Chair put the question on ordering the previous question, and by voice vote announced that the ayes had prevailed. Mr. McGovern demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2025-12-02 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 210 - 209 (Roll no. 309). (text: CR H4978-4979)
