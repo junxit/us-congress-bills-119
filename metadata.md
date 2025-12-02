@@ -1,7 +1,7 @@
 ---
 measure: H.R. 176
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 176
@@ -38,9 +38,10 @@ No Immigration Benefits for Hamas Terrorists Act of 2025
 - Rep. Owens, Burgess [R-UT-4] (O000086)
 - Rep. Cline, Ben [R-VA-6] (C001118)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -58,3 +59,4 @@ No Immigration Benefits for Hamas Terrorists Act of 2025
 - 2025-12-01 — Mr. McClintock moved to suspend the rules and pass the bill, as amended.
 - 2025-12-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4926)
 - 2025-12-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4926)
+- 2025-12-02 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
