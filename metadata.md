@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3174
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3174
@@ -31,9 +31,10 @@ Made in America Manufacturing Finance Act
 - Rep. Van Duyne, Beth [R-TX-24] (V000134)
 - Rep. Schmidt, Derek [R-KS-2] (S001228)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ Made in America Manufacturing Finance Act
 - 2025-12-01 — Mr. Williams (TX) moved to suspend the rules and pass the bill, as amended.
 - 2025-12-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4912)
 - 2025-12-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4912)
+- 2025-12-02 — Received in the Senate and Read twice and referred to the Committee on Finance.
