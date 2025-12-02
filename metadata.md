@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2066
 congress: 119
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2066
@@ -49,3 +49,14 @@ Investing in All of America Act of 2025
 - 2025-12-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4918)
 - 2025-12-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4918)
 - 2025-12-02 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
+- 2026-04-15 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S1789-1790)
+- 2026-04-15 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2026-04-15 — Senate Committee on Small Business and Entrepreneurship discharged by Unanimous Consent.
+- 2026-04-15 — Senate Committee on Small Business and Entrepreneurship discharged by Unanimous Consent.
+- 2026-04-16 — Message on Senate action sent to the House.
+- 2026-05-12 — Presented to President.
+- 2026-05-12 — Presented to President.
+- 2026-05-19 — Became Public Law No: 119-92.
+- 2026-05-19 — Became Public Law No: 119-92.
+- 2026-05-19 — Signed by President.
+- 2026-05-19 — Signed by President.
