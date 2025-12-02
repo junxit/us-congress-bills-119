@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5348
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5348
@@ -20,9 +20,10 @@ Social Security Child Protection Act of 2025
 
 - Rep. Malliotakis, Nicole [R-NY-11] (M000317)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ Social Security Child Protection Act of 2025
 - 2025-12-01 — Mr. Smith (MO) moved to suspend the rules and pass the bill, as amended.
 - 2025-12-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 386 - 0, 1 Present (Roll no. 306). (text: CR H4939-4940)
 - 2025-12-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 386 - 0, 1 Present (Roll no. 306). (text: CR H4939-4940)
+- 2025-12-02 — Received in the Senate and Read twice and referred to the Committee on Finance.
