@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5284
 congress: 119
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5284
@@ -50,3 +50,7 @@ Claiming Age Clarity Act
 - 2025-12-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4937)
 - 2025-12-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4937)
 - 2025-12-02 — Received in the Senate and Read twice and referred to the Committee on Finance.
+- 2026-09-29 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5184)
+- 2026-09-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (consideration: CR S5184)
+- 2026-09-29 — Senate Committee on Finance discharged by Unanimous Consent.
+- 2026-09-29 — Senate Committee on Finance discharged by Unanimous Consent.
