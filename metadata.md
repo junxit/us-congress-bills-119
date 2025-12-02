@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5284
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5284
@@ -28,9 +28,10 @@ Claiming Age Clarity Act
 - Rep. Vindman, Eugene Simon [D-VA-7] (V000138)
 - Rep. Carey, Mike [R-OH-15] (C001126)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Claiming Age Clarity Act
 - 2025-12-01 — Mr. Smith (MO) moved to suspend the rules and pass the bill, as amended.
 - 2025-12-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4937)
 - 2025-12-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4937)
+- 2025-12-02 — Received in the Senate and Read twice and referred to the Committee on Finance.
