@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2159
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2159
@@ -23,9 +23,10 @@ Count the Crimes to Cut Act
 - Rep. Cohen, Steve [D-TN-9] (C001068)
 - Rep. Self, Keith [R-TX-3] (S001224)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Count the Crimes to Cut Act
 - 2025-12-01 — Mr. Roy moved to suspend the rules and pass the bill, as amended.
 - 2025-12-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4923)
 - 2025-12-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4923)
+- 2025-12-02 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
