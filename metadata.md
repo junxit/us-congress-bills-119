@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4323
 congress: 119
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4323
@@ -59,3 +59,12 @@ Trafficking Survivors Relief Act
 - 2025-12-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4919-4921)
 - 2025-12-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4919-4921)
 - 2025-12-02 — Received in the Senate, read twice.
+- 2025-12-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8894)
+- 2025-12-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2025-12-19 — Message on Senate action sent to the House.
+- 2026-01-12 — Presented to President.
+- 2026-01-12 — Presented to President.
+- 2026-01-23 — Became Public Law No: 119-73.
+- 2026-01-23 — Became Public Law No: 119-73.
+- 2026-01-23 — Signed by President.
+- 2026-01-23 — Signed by President.
