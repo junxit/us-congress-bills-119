@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5349
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
@@ -14,24 +14,13 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-9 amendatory instructions. 1 executed, 8 stated and not applied.
+9 amendatory instructions. 0 executed, 9 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
-
-## Executed
-
-### 26 U.S.C. § 7443A
-
-> Section 7443A(c) is amended by striking “or (6)” and inserting “(6), or (7)”.
-
-| | |
-|---|---|
-| Removed | `or (6)` |
-| Inserted | `(6), or (7)` |
 
 ## Stated, not applied
 
@@ -42,11 +31,12 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `26 U.S.C. § 7456` | amend | Section 7456(a) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 7443A` | redesignate | Section 7443A(b) is amended by striking “and” at the end of paragraph (6), by redesignating paragraph (7) as paragraph (8), and by inserting after paragraph (6) the following new paragraph: | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 7443A` | add-at-end | Section 7443A is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | amend | Section 7456(a) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | redesignate | Section 7443A(b) is amended by striking “and” at the end of paragraph (6), by redesignating paragraph (7) as paragraph (8), and by inserting after paragraph (6) the following new paragraph: | the bill names no machine-readable US Code section |
+| — | replace | Section 7443A(c) is amended by striking “or (6)” and inserting “(6), or (7)”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 7443A is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Part II of subchapter C of chapter 76 is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of sections for such part is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
-| `26 U.S.C. § 7451` | amend | Section 7451(b) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `26 U.S.C. § 7459` | replace | by striking “If a petition” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `26 U.S.C. § 7459` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | amend | Section 7451(b) is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | by striking “If a petition” and inserting the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
