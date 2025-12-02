@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4495
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4495
@@ -41,3 +41,4 @@ SBA Fraud Enforcement Extension Act
 - 2025-12-01 — Mr. Williams (TX) moved to suspend the rules and pass the bill.
 - 2025-12-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4914-4916)
 - 2025-12-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4914-4916)
+- 2025-12-02 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 281.
