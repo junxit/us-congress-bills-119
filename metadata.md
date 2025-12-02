@@ -1,7 +1,7 @@
 ---
 measure: H.R. 225
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 225
@@ -31,9 +31,10 @@ HUD Transparency Act of 2025
 - Rep. Huizenga, Bill [R-MI-4] (H001058)
 - Rep. Sessions, Pete [R-TX-17] (S000250)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ HUD Transparency Act of 2025
 - 2025-12-01 — Mr. Davidson moved to suspend the rules and pass the bill, as amended.
 - 2025-12-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4944)
 - 2025-12-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4944)
+- 2025-12-02 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
