@@ -2,7 +2,7 @@
 legis-num: H.R. 3716
 congress: 119th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 3716
@@ -52,4 +52,4 @@ This Act may be cited as the “Systemic Risk Authority Transparency Act”.
   >     - **(i)** faces ongoing circumstances that require the Federal banking agency to prioritize activities to promote stability of the U.S. banking system; and
   >     - **(ii)** notifies the Congress of such extension and the reasons for such extension.
   >   - **(D)** *Consolidated reports* A Federal banking agency may consolidate multiple reports required under this paragraph so long as the individual reports being consolidated all meet the timing requirements under this paragraph.
-  >   - **(E)** *Rule of construction* Nothing in this paragraph or reports or materials provided pursuant to this paragraph may be construed to limit the authority of a Federal agency to enforce violations of Federal statutes, rules, or orders.
+  >   - **(E)** *Rule of construction* Nothing in this paragraph or reports or materials provided pursuant to this paragraph may be construed to limit the authority of a Federal agen-cy to enforce violations of Federal statutes, rules, or orders.

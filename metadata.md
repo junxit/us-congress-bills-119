@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3716
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3716
@@ -16,9 +16,10 @@ Systemic Risk Authority Transparency Act
 
 - Rep. Green, Al [D-TX-9] (G000553)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ Systemic Risk Authority Transparency Act
 - 2025-12-01 — Mr. Davidson moved to suspend the rules and pass the bill, as amended.
 - 2025-12-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4947)
 - 2025-12-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4947)
+- 2025-12-02 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
