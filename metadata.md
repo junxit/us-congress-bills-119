@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4323
 congress: 119
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4323
@@ -58,3 +58,4 @@ Trafficking Survivors Relief Act
 - 2025-12-01 — Mr. Fry moved to suspend the rules and pass the bill, as amended.
 - 2025-12-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4919-4921)
 - 2025-12-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4919-4921)
+- 2025-12-02 — Received in the Senate, read twice.
