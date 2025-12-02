@@ -1,0 +1,24 @@
+---
+legis-num: S. 3314
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3314
+
+> To direct the Secretary of Veterans Affairs to expand a directive of the Veterans Health Administration regarding informed consent to apply to certain types of medications.
+
+## § 1. Short title
+
+This Act may be cited as the “Written Informed Consent Act”.
+
+## § 2. Expansion of certain directive of the Veterans Health Administration regarding informed consent to apply to certain types of medications
+
+The Secretary of Veterans Affairs shall update directive 1005 of the Veterans Health Administration, dated May 13, 2020, and titled “Informed Consent for Long-Term Opioid Therapy for Pain”, to apply to the following types of medications:
+
+- **(1)** Antipsychotics.
+- **(2)** Stimulants.
+- **(3)** Antidepressants.
+- **(4)** Anxiolytics.
+- **(5)** Narcotics.
