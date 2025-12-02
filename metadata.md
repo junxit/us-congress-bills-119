@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5346
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5346
@@ -20,9 +20,10 @@ Fair and Accountable IRS Reviews Act
 
 - Rep. Smith, Adrian [R-NE-3] (S001172)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Fair and Accountable IRS Reviews Act
 - 2025-12-01 — Mr. Smith (MO) moved to suspend the rules and pass the bill, as amended.
 - 2025-12-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4940-4941)
 - 2025-12-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4940-4941)
+- 2025-12-02 — Received in the Senate and Read twice and referred to the Committee on Finance.
