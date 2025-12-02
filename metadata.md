@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4491
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4491
@@ -20,9 +20,10 @@ SBA IT Modernization Reporting Act
 
 - Rep. Jack, Brian [R-GA-3] (J000311)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ SBA IT Modernization Reporting Act
 - 2025-12-01 — Mr. Williams (TX) moved to suspend the rules and pass the bill.
 - 2025-12-01 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4913-4914)
 - 2025-12-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4913-4914)
+- 2025-12-02 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.

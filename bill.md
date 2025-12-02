@@ -2,7 +2,7 @@
 legis-num: H.R. 4491
 congress: 119th CONGRESS
 session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 4491
@@ -29,4 +29,4 @@ This Act may be cited as the “SBA IT Modernization Reporting Act”.
   - **(10)** develop master schedules using the guidelines contained in the publication of the Comptroller General titled “GAO Schedule Assessment Guide: Best Practices for Project Schedules” (GAO–16–89G; published December 22, 2015); and
   - **(11)** develop cost estimates using the guidelines contained in the publication of the Comptroller General titled “Cost Estimating and Assessment Guide: Best Practices for Developing and Managing Program Costs” (GAO–20–195G; published March 12, 2020).
 - **(c)** *Additional requirements* The implementation plan required by this section shall include the actions required to carry out the requirements listed in paragraphs (1) through (11) of subsection (b), an identification of the office of the Administration responsible for implementation, and the timelines for completion of each action.
-- **(d)** *Briefing required* Not later than 30 days after the submission of the implementation plan required under this section, the Administrator shall provide to the Committee on Small Business of the House of Representatives and the Committee on Small Business and Entrepreneurship of the Senate a briefing on the plan.
+- **(d)** *Briefing required* Not later than 30 days after the submission of the implementation plan required under this section, the Administrator shall provide to the Committee on Small Business of the House of Representa-tives and the Committee on Small Business and Entrepreneurship of the Senate a briefing on the plan.
