@@ -1,7 +1,7 @@
 ---
 measure: S. 654
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 0 executed, 4 stated and not applied.
+8 amendatory instructions. 0 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,3 +35,7 @@ complete account of the bill's effect, which it is not.
 | `38 U.S.C. § 1703G` | insert | The table of sections at the beginning of chapter 17 of title 38, United States Code, is amended by inserting after the item relating to section 1703G the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `38 U.S.C. § 1703G` | insert | in subsection (a)(2)(A), by inserting “, including pursuant to the program under section 1703H of this title,” after “medical appointments”; and | the bill quotes the text inserted but describes where it goes |
 | `38 U.S.C. § 1703G` | insert | in subsection (h)(2)(B), by inserting “, including pursuant to the program under section 1703H of this title” before the period at the end. | the bill quotes the text inserted but describes where it goes |
+| — | insert | in subsection (a)(2)(A), by inserting “, including pursuant to the systems required under subsection (q),” after “medical appointments”; | the bill names no machine-readable US Code section |
+| — | insert | in subsection (h)(2)(B), by inserting “, including pursuant to the systems required under subsection (q)” before the period at the end; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (q) as subsection (r); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (p) the following new subsection (q): | the bill names no machine-readable US Code section |

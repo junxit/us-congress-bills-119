@@ -1,7 +1,7 @@
 ---
 measure: S. 654
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 654
@@ -30,3 +30,8 @@ A bill to amend title 38, United States Code, to establish an external provider 
 
 - 2025-02-20 — Introduced in Senate
 - 2025-02-20 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2025-03-11 — Committee on Veterans' Affairs. Hearings held. Hearings printed: S.Hrg. 119-35.
+- 2025-07-30 — Committee on Veterans' Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2025-12-02 — Committee on Veterans' Affairs. Reported by Senator Moran with an amendment in the nature of a substitute. Without written report.
+- 2025-12-02 — Committee on Veterans' Affairs. Reported by Senator Moran with an amendment in the nature of a substitute. Without written report.
+- 2025-12-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 274.
