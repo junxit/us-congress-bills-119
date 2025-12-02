@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4423
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4423
@@ -22,9 +22,10 @@ No New Burma Funds Act
 - Rep. De La Cruz, Monica [R-TX-15] (D000594)
 - Rep. Kennedy, Timothy M. [D-NY-26] (K000402)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -48,3 +49,4 @@ No New Burma Funds Act
 - 2025-12-01 — Mr. Davidson moved to suspend the rules and pass the bill, as amended.
 - 2025-12-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 385 - 0 (Roll no. 307). (text: CR H4945)
 - 2025-12-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 385 - 0 (Roll no. 307). (text: CR H4945)
+- 2025-12-02 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
