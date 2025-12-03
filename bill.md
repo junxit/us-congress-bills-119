@@ -1,0 +1,18 @@
+---
+legis-num: S. 3327
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3327
+
+> To repeal the Human Rights Sanctuary Amendment Act of 2022.
+
+## § 1. Short title
+
+-  This Act may be cited as the “D.C. Shield Law Repeal Act”.
+
+## § 2. Repeal of Human Rights Sanctuary Amendment Act of 2022
+
+The Human Rights Sanctuary Amendment Act of 2022 (D.C. Law 24–257) is hereby repealed, and any provision of law amended or repealed by such Act is restored or revived as if such Act had not been enacted into law.
