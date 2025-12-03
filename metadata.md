@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 516
 congress: 119
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 516
@@ -28,3 +28,7 @@ A resolution ensuring that the adoption and foster care system in the United Sta
 
 - 2025-11-20 — Introduced in Senate
 - 2025-11-20 — Referred to the Committee on Health, Education, Labor, and Pensions.
+- 2025-12-03 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2025-12-03 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S8487)
+- 2025-12-03 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2025-12-03 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
