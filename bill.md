@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 1005
 
-> To prohibit elementary and secondary schools from accepting funds from or entering into contracts with the Government of the People’s Republic of China and the Chinese Communist Party, and for other purposes.
+> To require public elementary and secondary schools to disclose certain funds received from, or contracts with, a foreign source, and for other purposes.
 
 ## § 1. Short title
 
