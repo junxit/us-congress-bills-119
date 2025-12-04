@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1005
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1005
@@ -24,9 +24,10 @@ Combating the Lies of Authoritarians in School Systems Act
 - Rep. Taylor, David [R-OH-2] (T000490)
 - Rep. Carey, Mike [R-OH-15] (C001126)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -57,3 +58,4 @@ Combating the Lies of Authoritarians in School Systems Act
 - 2025-12-03 — Rule provides for consideration of H.R. 4312, H.R. 1005, H.R. 1049, H.R. 1069, H.R. 2965 and H.R. 4305. The resolution provides for consideration of H.R. 4312, H.R. 1005, H.R. 1049, H.R. 1069, H.R. 2965, and H.R. 4305 under a closed rule with one hour of general debate and one motion to recommit on each bill.
 - 2025-12-03 — The previous question was ordered pursuant to the rule.
 - 2025-12-03 — The title of the measure was amended. Agreed to without objection.
+- 2025-12-04 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
