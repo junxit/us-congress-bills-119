@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4305
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4305
@@ -22,9 +22,10 @@ DUMP Red Tape Act
 - Rep. Schmidt, Derek [R-KS-2] (S001228)
 - Rep. Patronis, Jimmy [R-FL-1] (P000622)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Recorded votes (1)
 
@@ -54,3 +55,4 @@ DUMP Red Tape Act
 - 2025-12-03 — Motion to reconsider laid on the table Agreed to without objection.
 - 2025-12-03 — On passage Passed by the Yeas and Nays: 269 - 146 (Roll no. 311). (text: CR 12/02/2025 H4989-4990)
 - 2025-12-03 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 269 - 146 (Roll no. 311). (text: CR 12/02/2025 H4989-4990)
+- 2025-12-04 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
