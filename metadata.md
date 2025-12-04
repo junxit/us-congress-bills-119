@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4503
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4503
@@ -16,9 +16,19 @@ ePermit Act
 
 - Rep. Johnson, Dusty [R-SD-At Large] (J000301)
 
-## Cosponsors (1)
+## Cosponsors (11)
 
 - Rep. Peters, Scott H. [D-CA-50] (P000608)
+- Rep. Crank, Jeff [R-CO-5] (C001137)
+- Rep. Magaziner, Seth [D-RI-2] (M001223)
+- Rep. Evans, Gabe [R-CO-8] (E000300)
+- Rep. Gray, Adam [D-CA-13] (G000605)
+- Rep. Calvert, Ken [R-CA-41] (C000059)
+- Rep. Davids, Sharice [D-KS-3] (D000629)
+- Rep. Kiggans, Jennifer A. [R-VA-2] (K000399)
+- Rep. Auchincloss, Jake [D-MA-4] (A000148)
+- Rep. Hurd, Jeff [R-CO-3] (H001100)
+- Rep. Vindman, Eugene Simon [D-VA-7] (V000138)
 
 ## Committees (1)
 
@@ -29,3 +39,9 @@ ePermit Act
 - 2025-07-17 — Introduced in House
 - 2025-07-17 — Introduced in House
 - 2025-07-17 — Referred to the House Committee on Natural Resources.
+- 2025-09-10 — Committee Hearings Held
+- 2025-11-20 — Committee Consideration and Mark-up Session Held
+- 2025-11-20 — Ordered to be Reported in the Nature of a Substitute by Unanimous Consent.
+- 2025-12-04 — Placed on the Union Calendar, Calendar No. 341.
+- 2025-12-04 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-392.
+- 2025-12-04 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-392.

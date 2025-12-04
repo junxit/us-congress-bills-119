@@ -24,8 +24,8 @@ The Congress finds that—
   - **(A)** effective project management and process improvement;
   - **(B)** enabling workflow automation, transparency, and tracking; and
   - **(C)** simplifying reporting requirements;
-- **(5)** modern business process management systems that track Federal agency workflows and produce interoperable event, task, and other milestone data that can be shared with other Federal agency systems can reduce costs and improve performance for Federal agencies responsible for environmental reviews and authorizations;
-- **(6)** case management systems—
+- **(5)** modern business process management systems that track Federal agency workflows and produce vendor neutral, interoperable event, task, and other milestone data that can be shared with other Federal agency systems can reduce costs and improve performance for Federal agencies responsible for environmental reviews and authorizations;
+- **(6)** case and project management systems—
   - **(A)** are essential tools for managing the tasks and activities associated with environmental reviews and authorizations; and
   - **(B)** provide Federal agencies more data and insight into such environmental reviews and authorizations;
 - **(7)** well-defined business rules can enable process automation that allows Federal agencies responsible for environmental reviews or authorizations to expedite routine tasks and workflows, and improve transparency and accuracy of project timeline estimates, which in turn can help project sponsors better plan for application preparation and project delivery milestones;
@@ -35,10 +35,10 @@ The Congress finds that—
 
 ## § 3. Establishment of data standards
 
-- **(a)** *In general* Not later than 180 days after the date of enactment of this Act, the Chair of the Council on Environmental Quality, in consultation with the Federal Permitting Improvement Steering Council, the Chief Information Officers Council, the Office of Management and Budget, and other relevant stakeholders and Federal agencies, shall develop, publish, and iteratively update data standards for the collection and curation of authorization data by Federal agencies, which shall be used to—
+- **(a)** *In general* Not later than 60 days after the date of enactment of this Act, the Chair of the Council on Environmental Quality, in consultation with the Federal Permitting Improvement Steering Council, the Chief Information Officers Council, the Office of Management and Budget, and other relevant stakeholders and Federal agencies, shall develop, publish, and iteratively update data standards for the collection and curation of authorization data by Federal agencies, which shall be used to—
   - **(1)** assist with environmental reviews and authorizations;
   - **(2)** organize, define, and standardize various concepts, formats, and protocols that are included in environmental reviews and authorizations; and
-  - **(3)** reduce the need for redundant environmental reviews by creating a shared vocabulary and software systems that will support data interoperability and automatic data exchange between Federal agencies.
+  - **(3)** reduce the need for redundant environmental reviews by creating a shared vocabulary and software systems that will support vendor neutrality, data interoperability, workflow automation, and automatic data exchange between Federal agencies.
 - **(b)** *Inclusions* The data standards developed, published, and iteratively updated under subsection (a) shall include the following:
   - **(1)** A standardized taxonomy that allows Federal agencies to identify and track data types, relationships, and values.
   - **(2)** Comprehensive categories for data, such as—
@@ -55,21 +55,23 @@ The Congress finds that—
 
 The Chair of the Council on Environmental Quality, in consultation with the Administrator of General Services, the Federal Permitting Improvement Steering Council, the Chief Information Officers Council, the Director of the Office of Management and Budget, and other relevant stakeholders and Federal agencies, shall design, test, and build prototype tools for environmental reviews and authorizations that will assist Federal agencies in implementing the minimum functional requirements described in section 5. The Chair of the Council on Environmental Quality shall prioritize designing, testing, and building tools under this section that—
 
-- **(1)** support authorization case management systems that manage tasks, milestones, and activities associated with environmental reviews and authorizations, and provide Federal agencies more data and insight into such reviews and authorizations;
-- **(2)** enable application submission and tracking portals used by project sponsors, enabling greater transparency;
+- **(1)** support authorization case or project management systems that manage tasks, milestones, and activities associated with environmental reviews and authorizations, and provide Federal agencies more data and insight into such reviews and authorizations;
+- **(2)** enable—
+  - **(A)** application submission and tracking portals used by project sponsors, enabling greater transparency; and
+  - **(B)** public comment opportunity tracking portals to increase transparency;
 - **(3)** facilitate automated applications, environmental reviews. and authorizations;
 - **(4)** allow data exchange between Federal agency systems; and
 - **(5)** accelerate complex environmental reviews.
 
 ## § 5. Publication of guidance for implementation of data standards and minimum functional requirements
 
-- **(a)** *Publication* Not later than 30 days after the date of enactment of this Act, the Chair of the Council on Environmental Quality shall publish guidance for how each Federal agency responsible for environmental reviews or authorizations implements—
+- **(a)** *Publication* Not later than 120 days after the date of enactment of this Act, the Chair of the Council on Environmental Quality shall publish guidance for how each Federal agency responsible for environmental reviews or authorizations implements—
   - **(1)** the data standards published under section 3; and
   - **(2)** the following minimum functional requirements:
     - **(A)** Application data sharing that enables automated transfer of relevant environmental review and authorization data among Federal agencies.
     - **(B)** Automated project screening to assist frontline staff with reviewing project sponsor provided information for completeness and accuracy and determining if a categorical exclusion or other general authorization applies to an action. Automated project screening may not be used by the Council on Environmental Quality or a Federal agency to unlawfully restrict any activities on Federal lands.
     - **(C)** Public availability of screening criteria and related decision models.
-    - **(D)** Automated case management tools which include a repository of relevant data and metadata that enable advanced tracking, reporting, and optimization to aid workflows.
+    - **(D)** Automated case or project management tools which include a repository of relevant data and metadata that enable advanced tracking, reporting, and optimization to aid workflows.
     - **(E)** Integrated geographic information system analysis tools which incorporate geospatial data layers and models for each resource analyzed as part of an environmental review or authorization for a given study area.
     - **(F)** Document management tools that preserve metadata associated with geospatial analysis, modeling, and other analytic processes conducted during an environmental review or authorization, to support future reviews and enable Artificial Intelligence-assisted analysis of past decisions.
     - **(G)** Automated comment compilation and analysis tools, including services for comment categorization and response that handle the lifecycle of comment submission, analysis, categorization and response with Artificial Intelligence support where appropriate.
@@ -83,7 +85,7 @@ The Chair of the Council on Environmental Quality, in consultation with the Admi
 
 - **(a)** *Implementation* The head of each Federal agency responsible for environmental reviews or authorizations shall—
   - **(1)** not later than 90 days after the date of enactment of this Act—
-    - **(A)** compare existing Federal agency systems for environmental reviews and authorizations with the data standards published under section 3 and the minimum functional requirements described in section 5(a)(2) and report findings from such comparison to the Council on Environmental Quality;
+    - **(A)** compare existing Federal agency systems for environmental reviews and authorizations under their authority with the data standards published under section 3 and the minimum functional requirements described in section 5(a)(2) and report findings from such comparison to the Council on Environmental Quality;
     - **(B)** assess whether existing Federal agency technological capabilities are consistent with the data standards published under section 3 and the minimum functional requirements described in section 5(a)(2);
     - **(C)** submit to the Council on Environmental Quality a report that estimates the completion dates for implementing the data standards published under section 3 and the minimum functional requirements described in section 5(a)(2); and
     - **(D)** submit to the Council on Environmental Quality, in consultation with the Council on Environmental Quality, an implementation plan that—
@@ -101,15 +103,16 @@ The Chair of the Council on Environmental Quality, in consultation with the Admi
       - **(i)** be designed in a manner consistent with—
         - **(I)** the recommendations of the Council on Environmental Quality included in the study submitted pursuant to section 110 of the National Environmental Policy Act of 1969 (42 U.S.C. 4336d) titled “Council on Environmental Quality Report to Congress on the Potential for Online and Digital Technologies to Address Delays in Reviews and Improve Public Accessibility and Transparency under 42 U.S.C. 4332(2)(C)”; and
         - **(II)** the minimum functional requirements described in section 5(a)(2);
-      - **(ii)** serve as a centralized platform for tracking and displaying real-time data on environmental reviews and authorizations made available through application programming interfaces or other reporting mechanisms from Federal agency systems that are compliant with the data standards and data architecture described in this Act;
-      - **(iii)** include a mechanism for the dissemination of relevant information (such as a notice of intent for public comment, public meetings, project statuses, or a notice of intent to begin an environmental review) to local communities, as applicable;
-      - **(iv)** allow a project sponsor to submit all necessary documentation for environmental reviews and authorizations in one unified and secure portal;
-      - **(v)** support interactive, digital, and cloud-based tools enabling applicants to edit documents and collaborate with relevant Federal agencies in real time;
-      - **(vi)** support visual features, including video, animation, geographic information system displays, interactive maps, and three-dimensional renderings;
-      - **(vii)** provide for the exchange of information to and from Federal agency data systems via an application programming interface or another reporting mechanisms;
-      - **(viii)** allow for the submission of geospatial data associated with project location, footprint, and impact;
-      - **(ix)** support automatic documentation of submission and process timelines; and
-      - **(x)** allow the following metrics to be tracked over time—
+      - **(ii)** serve as a platform for tracking and displaying real-time data on environmental reviews and authorizations made available through application programming interfaces or other reporting mechanisms from Federal agency systems that are compliant with the data standards and data architecture described in this Act;
+      - **(iii)** be supported by a decentralized, cross-network digital infrastructure software that ensures vendor neutrality and interoperability of data and models across Federal agencies;
+      - **(iv)** include a mechanism for the dissemination of relevant information (such as a notice of intent for public comment, public meetings, project statuses, or a notice of intent to begin an environmental review) to local communities, as applicable;
+      - **(v)** allow a project sponsor to submit all necessary documentation for environmental reviews and authorizations in one unified and secure portal;
+      - **(vi)** support interactive, digital, and cloud-based tools enabling applicants to edit documents and collaborate with relevant Federal agencies in real time;
+      - **(vii)** support visual features, including video, animation, geographic information system displays, interactive maps, and three-dimensional renderings;
+      - **(viii)** provide for the exchange of information to and from Federal agency data systems via an application programming interface or another reporting mechanisms;
+      - **(ix)** allow for the submission of geospatial data associated with project location, footprint, and impact;
+      - **(x)** support automatic documentation of submission and process timelines; and
+      - **(xi)** allow the following metrics to be tracked over time—
         - **(I)** estimates of achieved efficiencies, such as reductions in the time between receipt of applications and final authorization decisions;
         - **(II)** comparisons of authorization timelines before and after the implementation of this Act;
         - **(III)** usage of the authorization portal and other statistics from the Digital Analytics Program;
@@ -122,16 +125,16 @@ The Chair of the Council on Environmental Quality, in consultation with the Admi
     - **(D)** *Public accessibility* To the extent practicable and consistent with other law, the authorization portal shall provide public access to non-sensitive data, including authorization timelines, location, project type, environmental reviews, and mitigation measures.
     - **(E)** *Congressional access and oversight*
       - **(i)** *In general* The authorization portal shall provide Congress with direct access to aggregated performance data and other analytics to enable real-time oversight of Federal agencies.
-      - **(ii)** *Technical assistance* The Council on Environmental Quality shall provide to Congress technical assistance upon request to ensure effective use of the authorization portal for oversight purposes.
-  - **(3)** *Cybersecurity and compliance considerations* The authorization portal shall be designed to promote interoperability, reduce redundancy, and ensure compliance and coordination with other laws, including—
+      - **(ii)** *Artificial intelligence support systems and training materials* Congress shall have access to the data, fine-tuning procedures, and prompt configurations specifically created or adapted for Artificial Intelligence systems used to support environmental review or authorization activities, excluding proprietary or general pretraining materials unrelated to such agency-specific customization.
+      - **(iii)** *Technical assistance* The Council on Environmental Quality shall provide to Congress technical assistance upon request to ensure effective use of the authorization portal and Artificial Intelligence systems for oversight purposes.
+  - **(3)** *Cybersecurity and compliance considerations* The authorization portal shall be designed to promote vendor neutral interoperability, reduce redundancy, and ensure compliance and coordination with other laws, including—
     - **(A)** section 552a of title 5, United States Code (commonly referred to as the Privacy Act of 1974), and subchapter II of chapter 35 of title 44, United States Code;
     - **(B)** the Federal Risk and Authorization Management Program established under section 3608 of title 44, United States Code; and
     - **(C)** the Cybersecurity and Infrastructure Security Agency of the Department of Homeland Security, for a case in which the project is in coordination with a Federal agency with stringent security requirements.
 - **(b)** *Deadlines*
   - **(1)** *Shared services pilot* Not later than one year after the date of enactment of this Act, the Council on Environmental Quality shall oversee piloting of shared services for environmental reviews and authorizations, including the authorization portal under subsection (a)(2).
   - **(2)** *Unified system development and implementation* To the maximum extent practicable, not later than December 1, 2027, the Chair of the Council on Environmental Quality shall develop and implement the unified interagency data system required under subsection (a)(1).
-- **(c)** *Report* Not less frequently than annually, the Chair of the Council on Environmental Quality, in consultation with the Federal Permitting Improvement Steering Council, the Chief Information Officers Council, and other relevant stakeholders and Federal agencies, shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report on the Council on Environmental Quality’s progress on developing a unified interagency data system under subsection (a).
-- **(d)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $1,000,000 for each of fiscal years 2026 through 2032, to remain available until expended.
+- **(c)** *Report* Not less frequently than annually, the Chair of the Council on Environmental Quality, in consultation with the Federal Permitting Improvement Steering Council, the Chief Information Officers Council, and other relevant stakeholders and Federal agencies, shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate a report on the Council on Environmental Quality’s progress on developing a unified interagency data system under subsection (a).
 
 ## § 8. Authority to enter into contracts
 
@@ -141,7 +144,11 @@ The Council on Environmental Quality may enter into contracts and other arrangem
 
 Nothing in this Act shall be construed to authorize the Council on Environmental Quality or a Federal agency to impose additional regulatory processes or requirements beyond those expressly stipulated under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) or any other law.
 
-## § 10. Definitions
+## § 10. Savings clause
+
+To the extent that a data system, technology, or tool developed or incorporated into a unified interagency data system under this Act is not limited by project type, the data system, technology, or tool shall not have its use be restricted by project type.
+
+## § 11. Definitions
 
 In this Act:
 
@@ -152,7 +159,7 @@ In this Act:
     - **(ii)** determine whether to issue such authorization; and
   - **(B)** any community input or public comment on such determinations.
 - **(3)** *Data architecture* The term data architecture means the design and organization of data systems, including frameworks for data storage, processing, and exchange.
-- **(4)** *Data standards* The term data standards means agreed-upon specifications for data formats, structures, and definitions to ensure consistency and interoperability.
+- **(4)** *Data standards* The term data standards means agreed-upon specifications for data formats, structures, and definitions to ensure consistency and vendor neutral interoperability.
 - **(5)** *Environmental review* The term environmental review means any Federal agency procedures or processes for—
   - **(A)** applying a categorical exclusion; or
   - **(B)** preparing an environmental assessment, an environmental impact statement, or another document required under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
