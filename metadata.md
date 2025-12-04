@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2965
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2965
@@ -24,9 +24,10 @@ Small Business Regulatory Reduction Act of 2025
 - Rep. Finstad, Brad [R-MN-1] (F000475)
 - Rep. Bean, Aaron [R-FL-4] (B001314)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Recorded votes (1)
 
@@ -55,3 +56,4 @@ Small Business Regulatory Reduction Act of 2025
 - 2025-12-03 — Motion to reconsider laid on the table Agreed to without objection.
 - 2025-12-03 — On passage Passed by the Yeas and Nays: 223 - 190 (Roll no. 310). (text of amendment in the nature of a substitute: CR 12/02/2025 H4987)
 - 2025-12-03 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 223 - 190 (Roll no. 310). (text of amendment in the nature of a substitute: CR 12/02/2025 H4987)
+- 2025-12-04 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
