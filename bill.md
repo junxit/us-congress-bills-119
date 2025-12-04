@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 6474
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6474
+
+> To amend the Internal Revenue Code of 1986 to expand the meaning and eligibility of energy communities for purposes of the increased renewable electricity production and increased clean electricity investment credit rates.
+
+## § 1. Expansion of meaning and eligibility of energy communities for purposes of increased renewable electricity production and increased clean electricity investment credit rates
+
+- **(a)** *Increased renewable electricity production credit rate* Section 45(b)(11)(B)(iv) of the Internal Revenue Code of 1986 is amended by inserting “or non-metropolitan statistical area” after “a metropolitan statistical area”.
+- **(b)** *Increased clean electricity investment credit rate* Section 48E(a)(3)(A)(i) of such Code is amended by striking “, as applied without regard to clause (iv) thereof”.
+- **(c)** *Effective dates*
+  - **(1)** *Increased renewable electricity production credit rate* The amendment made by subsection (a) shall take effect as if included in section 70512(f)(1) of Public Law 119–21.
+  - **(2)** *Increased clean electricity investment credit rate* The amendment made by subsection (b) shall take effect as if included in section 70512(f)(2) of Public Law 119–21.
