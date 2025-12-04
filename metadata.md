@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3174
 congress: 119
-version: Referred in Senate
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3174
@@ -53,3 +53,5 @@ Made in America Manufacturing Finance Act
 - 2025-12-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4912)
 - 2025-12-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4912)
 - 2025-12-02 — Received in the Senate and Read twice and referred to the Committee on Finance.
+- 2025-12-04 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 283.
+- 2025-12-04 — Senate vitiated previous action of 12/02/2025 by Unanimous Consent.

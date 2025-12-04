@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3174
 congress: 119
-version: Referred in Senate
+version: Placed on Calendar Senate
 derived: true
 ---
 
