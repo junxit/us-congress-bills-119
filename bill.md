@@ -1,0 +1,25 @@
+---
+legis-num: S. 3351
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3351
+
+> To require the Securities and Exchange Commission to revise the definition of a qualifying investment, for purposes of the exemption from registration for venture capital fund advisers under the Investment Advisers Act of 1940, to include an equity security issued by a qualifying portfolio company and to include an investment in another venture capital fund, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Developing and Empowering our Aspiring Leaders Act of 2025”.
+
+## § 2. Revisions of regulatory definitions
+
+Not later than 180 days after the date of enactment of this Act, the Securities and Exchange Commission shall—
+
+- **(1)** revise the definition of a qualifying investment under section 275.203(l)–1(c) of title 17, Code of Federal Regulations, or any successor regulation—
+  - **(A)** to include an equity security issued by a qualifying portfolio company, whether acquired directly from the company or in a secondary acquisition; and
+  - **(B)** to specify that an investment in another venture capital fund (as defined in section 275.203(l)–1(a) of title 17, Code of Federal Regulations, or any successor regulation) is a qualifying investment under that definition; and
+- **(2)** revise section 275.203(l)–1(a) of title 17, Code of Federal Regulations, or any successor regulation, to require, as a condition of a private fund qualifying as a venture capital fund under that provision, that, immediately after the acquisition of any asset, the fund holds not more than 49 percent of the amount of the aggregate capital contributions and uncalled committed capital (excluding short-term holdings) of the fund in—
+  - **(A)** 1 or more venture capital funds; or
+  - **(B)** qualifying investments acquired in a secondary acquisition, valued at cost or fair value, consistently applied by the fund.
