@@ -17,56 +17,62 @@ This Act may be cited as the “Studying NEPA’s Impact on Projects Act”.
 
 Section 201 of the National Environmental Policy Act of 1969 (42 U.S.C. 4341) is amended to read as follows:
 
-> ## § 201. Annual report on NEPA’s impact on projects
+> ## § 201. Annual reports on NEPA’s impact on projects
 >
-> - **(a)** *Report required* Beginning July 1, 2025, the Council on Environmental Quality shall annually publish on the website of the Council on Environmental Quality, and submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate, a report on—
->   - **(1)** each cause of action based on alleged non-compliance with this Act that was active during the period beginning June 1 of the preceding year and ending June 1 of the current year, which shall identify—
->     - **(A)** with respect to each such cause of action—
->       - **(i)** the defendant lead agency and the lead plaintiff; and
->       - **(ii)** the court in which the cause of action was brought and any court to which a decision on the cause of action was appealed;
->     - **(B)** the number of such causes of action, disaggregated by the defendant lead agency;
->     - **(C)** the alleged basis for each such cause of action, disaggregated by type; and
->     - **(D)** the status and outcome, if applicable, of each cause of action based on alleged non-compliance with this Act that was active during the period beginning June 1 of the preceding year and ending June 1 of the current year, including whether—
->       - **(i)** the cause of action resulted in the major Federal action being reversed;
->       - **(ii)** the defendant lead agency was allowed to move forward with the major Federal action;
->       - **(iii)** the court issued a ruling directing the defendant lead agency to take additional measures to be in compliance;
->       - **(iv)** the lead plaintiff and the defendant lead agency settled amongst themselves;
->       - **(v)** the cause of action is still active; and
->       - **(vi)** the lead plaintiff received an award, including an award of costs pursuant to section 2412 of title 28, United States Code;
->   - **(2)** the length of environmental impact statements and environmental assessments prepared pursuant to section 102(2)(C) during the period of 5 years that ends on June 1 of the current year, which shall include—
->     - **(A)** the average and median page count of each draft and final environmental impact statement and environmental assessment (including the appendix) published in the Federal Register during such period of 5 years, including such page counts disaggregated by quartiles;
->     - **(B)** the number of draft and final environmental impact statements and environmental assessments published in the Federal Register during such period of 5 years, disaggregated by defendant lead agency and subagency as applicable; and
->     - **(C)** a description of trends in average and median page count of draft and final environmental impact statements and environmental assessments published in the Federal Register during such period of 5 years compared to prior reports published by the Council on Environmental Quality;
->   - **(3)** the total cost to prepare the environmental impact statements and environmental assessments described in paragraph (2), including—
->     - **(A)** the full-time equivalent personnel hour costs, contractor costs, and other direct costs of the lead agency that prepared the environmental impact statement or environmental assessment; and
->     - **(B)** if practicable, and noted where not practicable, the costs incurred by cooperating agencies, participating agencies, applicants, and contractors; and
->   - **(4)** the timelines to complete environmental reviews pursuant to section 102(2)(C) during the period of 10 years that ends on June 1 of the current year, which shall include—
+> - **(a)** *Submissions by lead agencies* Not later than July 1, 2026, and annually thereafter, the head of each lead agency shall submit to the Council on Environmental Quality a report on—
+>   - **(1)** each civil action alleging an agency action in violation of this Act that was active during the period beginning June 1 of the preceding year and ending June 1 of the current year, which shall identify—
+>     - **(A)** with respect to each such civil action—
+>       - **(i)** the defendant lead agency, where applicable, and each plaintiff; and
+>       - **(ii)** the court in which the civil action was brought and any court to which a decision on the civil action was appealed;
+>     - **(B)** the number of such civil actions, disaggregated by the defendant agency, with a single entry denoting the lead agency, where applicable, for cases involving multiple Federal agency defendants;
+>     - **(C)** the alleged basis for each such civil action, disaggregated by covered sectors; and
+>     - **(D)** the status and outcome, if applicable, of each civil action alleging an agency action in violation of this Act that was active during the period beginning June 1 of the preceding year and ending June 1 of the current year, including whether—
+>       - **(i)** the civil action resulted in a decision to hold unlawful and set aside the agency action within the meaning of section 706(2) of title 5, United States Code;
+>       - **(ii)** the civil action resulted in a decision allowing the Federal agency to proceed with the major Federal action;
+>       - **(iii)** the civil action resulted in an order remanding the matter to the agency for reconsideration without vacating the analysis;
+>       - **(iv)** any claim under the civil action was resolved by a settlement agreement or consent decree between any plaintiff and the defendant lead agency;
+>       - **(v)** the civil action is still active; and
+>       - **(vi)** any of the plaintiffs received an award, including an award of costs pursuant to section 2412 of title 28, United States Code, except that if such information is received after the lead agency submits the applicable report to the Council on Environmental Quality, the lead agency shall include such information in the subsequent report;
+>   - **(2)** the length of environmental impact statements made publicly available pursuant to section 102(2)(C) during the period of 5 years that ends on June 1 of the current year, which shall include—
+>     - **(A)** the average and median page count of all such environmental impact statements (not including the page count of any citations or appendices), including such page counts disaggregated by quartiles;
+>     - **(B)** the average and median page count of any citations and appendices included in such environmental impact statements;
+>     - **(C)** the number of such environmental impact statements, disaggregated by lead agency and subagency as applicable;
+>     - **(D)** a description of trends in average and median page count of such environmental impact statements and any citations and appendices included in such environmental impact statements compared to prior reports published by the Council on Environmental Quality; and
+>     - **(E)** for each report submitted under this section through 2028, a disaggregation of the data from before and after the date of the enactment of the Fiscal Responsibility Act of 2023;
+>   - **(3)** an estimate of the cost to prepare the environmental impact statements described in paragraph (2), including—
+>     - **(A)** the full-time equivalent personnel hour costs, contractor costs, and other direct costs of the lead agency that prepared the environmental impact statement; and
+>     - **(B)** if practicable, and noted where not practicable, the costs incurred by cooperating agencies, participating agencies, any project sponsor that prepared an environmental impact statement under the supervision of the lead agency, and contractors; and
+>   - **(4)** the timelines to complete environmental impact statements pursuant to section 102(2)(C) during the period of 10 years that ends on June 1 of the current year, which shall include—
 >     - **(A)** with respect to each major Federal action commenced during such period of 10 years, the date on which (as applicable)—
 >       - **(i)** the project sponsor submitted an application for any permit or other authorization for the project;
 >       - **(ii)** the lead agency began the scoping;
->       - **(iii)** the notice of intent to prepare the environmental impact statement was published in the Federal Register;
->       - **(iv)** the draft environmental impact statement was published in the Federal Register;
->       - **(v)** the final environmental impact statement was published in the Federal Register;
->       - **(vi)** the record of decision was published in the Federal Register; and
->       - **(vii)** the lead agency provided to the project sponsor notice to proceed on the project;
->     - **(B)** the average and median publication timelines during such period of 10 years for each document described in subparagraph (A); and
->     - **(C)** a description of trends in completion times during such period of 10 years for such documents compared to prior reports published by the Council on Environmental Quality.
-> - **(b)** *Format*
->   - **(1)** *In general* The information included in each report required under subsection (a) shall be disaggregated by the type of project and covered sector.
->   - **(2)** *Covered sectors* In this subsection, the term covered sector means any of the following sectors:
->     - **(A)** Aviation and space.
->     - **(B)** Broadband.
->     - **(C)** Carbon capture and sequestration.
->     - **(D)** Conventional energy production.
->     - **(E)** Renewable energy production.
->     - **(F)** Electricity transmission.
->     - **(G)** Manufacturing.
->     - **(H)** Mining.
->     - **(I)** Pipelines.
->     - **(J)** Ports and waterways.
->     - **(K)** Surface transportation.
->     - **(L)** Information technology infrastructure.
->     - **(M)** Water resources.
->     - **(N)** Forestry.
->     - **(O)** Any other sector as determined by the Council on Environmental Quality.
-> - **(c)** *Public availability of data* The Council on Environmental Quality shall publish with each report published under subsection (a) the underlying data used to prepare each such report and include any citations or other information necessary for the public to locate records related to the court proceedings for any cause of action described in subsection (a)(1).
+>       - **(iii)** the notice of intent to prepare the environmental impact statement was made publicly available;
+>       - **(iv)** the environmental impact statement was made publicly available;
+>       - **(v)** the record of decision was made publicly available; and
+>       - **(vi)** the lead agency provided to the project sponsor notice to proceed on the project;
+>     - **(B)** the average and median completion timelines during such period of 10 years for each document described in subparagraph (A);
+>     - **(C)** a description of trends in completion timelines during such period of 10 years for such documents compared to prior reports published by the Council on Environmental Quality; and
+>     - **(D)** for each report submitted under this section through 2033, a disaggregation of the data from before and after the date of the enactment of the Fiscal Responsibility Act of 2023.
+> - **(b)** *Publication and submission of reports by the Council on Environmental Quality*
+>   - **(1)** *In general* The Council on Environmental Qualify shall annually—
+>     - **(A)** publish the reports received under subsection (a) on the website of the Council on Environmental Quality; and
+>     - **(B)** submit such reports to the Committee on Natural Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate.
+>   - **(2)** *Inclusion in other reports* The Council on Environmental Quality may carry out paragraph (1)(B) by including the reports received under subsection (a) in the report submitted under section 107(h).
+>   - **(3)** *Public availability of data* The Council on Environmental Quality shall publish with each report published under paragraph (1)(A) the underlying data used to prepare each such report and include any citations or other information necessary for the public to locate records related to the court proceedings for any civil action described in subsection (a)(1).
+> - **(c)** *Format* To the extent practicable, the information included in each report submitted to the Council on Environmental Quality under subsection (a) shall be disaggregated by covered sector.
+> - **(d)** *Covered sector defined* In this section, the term covered sector means any of the following sectors:
+>   - **(1)** Aviation and space.
+>   - **(2)** Broadband.
+>   - **(3)** Carbon capture and sequestration.
+>   - **(4)** Conventional energy production.
+>   - **(5)** Electricity transmission.
+>   - **(6)** Forestry.
+>   - **(7)** Information technology infrastructure.
+>   - **(8)** Manufacturing.
+>   - **(9)** Mining.
+>   - **(10)** Pipelines.
+>   - **(11)** Ports and waterways.
+>   - **(12)** Renewable energy production.
+>   - **(13)** Surface transportation.
+>   - **(14)** Water resources.
+>   - **(15)** Any other sector as determined by the Council on Environmental Quality or lead agency.
