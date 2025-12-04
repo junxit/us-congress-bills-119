@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Improving Access to Workers’ Compensation for Injured Federal Workers Act”.
+This Act may be cited as the “Improving Access to Workers’ Compensation for Injured Federal Workers Act of 2025”.
 
 ## § 2. Inclusion of physician assistants and nurse practitioners in Federal Employees’ Compensation Act
 
