@@ -1,0 +1,34 @@
+---
+legis-num: S. RES. 535
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. RES. 535
+
+> Commending and congratulating the Las Vegas Aces professional basketball team on winning the 2025 Women’s National Basketball Association championship.
+
+## Preamble
+
+- Whereas, on October 10, 2025, the Las Vegas Aces basketball team (referred to in this preamble as the “Aces”) won the 2025 Women’s National Basketball Association (referred to in this preamble as the “WNBA”) championship;
+- Whereas the Aces previously won back-to-back WNBA championships in 2022 and 2023;
+- Whereas the Aces were in danger of missing the postseason altogether, starting the regular season at 14–14, then went on a 16-game regular season winning streak, setting a new franchise record and tying the second-longest winning streak in WNBA history;
+- Whereas the Aces finished the regular season 30–14 and the playoffs 9–3 with series victories over the Seattle Storm (2–1), Indiana Fever (3–2), and Phoenix Mercury (4–0) in the first ever best-of-seven WNBA Finals;
+- Whereas Aces center A’ja Wilson became the first WNBA player in league history to win the WNBA Most Valuable Player (referred to in this preamble as “MVP”) (her fourth MVP), Defensive Player of the Year, and Finals MVP in the same season;
+- Whereas Aces guard Chelsea Gray now holds four WNBA championship titles and as of the end of the 2025 season has the most championships among all active WNBA players;
+- Whereas Aces Head Coach Becky Hammon guided the team throughout a turbulent regular season to secure her third championship in only four seasons as head coach;
+- Whereas every member of the Las Vegas Aces organization, including players, coaches, and support staff, contributed to the team’s success during their 2025 WNBA championship run;
+- Whereas the ownership of the Aces has demonstrated a strong commitment to advancing women’s sports, investing significantly in the Aces organization, facilities, and staff; and
+- Whereas the Aces represent their loyal fans, the Las Vegas community, and the entire State of Nevada with a commitment to excellence: Now, therefore, be it
+
+That the Senate—
+
+- **(1)** congratulates the Las Vegas Aces on winning the 2025 Women’s National Basketball Association (referred to in this resolution as the “WNBA”) championship;
+- **(2)** recognizes the Aces for—
+  - **(A)** the team’s perseverance and dedication in bringing the 2025 WNBA championship title back to Las Vegas, Nevada; and
+  - **(B)** the achievements of all players, coaches, and staff who contributed to the success of the Las Vegas Aces during the 2025 season; and
+- **(3)** respectfully requests that the Secretary of the Senate transmit an enrolled copy of this resolution to—
+  - **(A)** Las Vegas Aces owner Mark Davis;
+  - **(B)** Las Vegas Aces President Nikki Fargas; and
+  - **(C)** Las Vegas Aces Head Coach Becky Hammon.
