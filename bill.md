@@ -42,12 +42,12 @@ It is the sense of Congress that—
     - **(A)** government authorities actively or implicitly permit, enable, or perpetuate scam compound operations; or
     - **(B)** ineffective law enforcement or a failure to enact legislation intended to prevent facilitating services from reaching scam compounds or significant transnational criminal organizations enables scam compound operators to obtain facilitating services.
   - **(4)** *Forced criminality* The term forced criminality means a form of forced labor for the purpose of causing the victim to engage in criminal activity, which may include cyber-enabled fraud.
-  - **(5)** *Forced labor* The term forced labor has the meaning given the term severe form of trafficking in persons in section 103(11)(B) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102(11)(B)).
+  - **(5)** *Forced labor* The term forced labor has the meaning given the term severe form of trafficking in persons in section 103(11)(B) of the Trafficking Victims Protection Act of 2000(22 U.S.C. 7102(11)(B)).
   - **(6)** *Relevant foreign assistance programs and diplomatic efforts* The term relevant foreign assistance programs and diplomatic efforts—
     - **(A)** means unclassified voluntary support programs funded directly by the United States Government that provide assistance to one or more foreign countries for the purpose of combating scam compound operations and related significant transnational criminal organizations; and
     - **(B)** excludes intelligence activities, including activities authorized by the President and reported to Congress in accordance with section 503 of the National Security Act of 1947 (50 U.S.C. 3093).
-  - **(7)** *Human trafficking* The term human trafficking has the meaning given the term severe form of trafficking in persons in section 103(11) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102(11)).
-  - **(8)** *Human trafficking victim* The terms human trafficking victim and victim of human trafficking mean a person subject to an act or practice described in section 103(11) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7102(11)).
+  - **(7)** *Human trafficking* The term human trafficking has the meaning given the term severe form of trafficking in persons in section 103(11) of the Trafficking Victims Protection Act of 2000(22 U.S.C. 7102(11)).
+  - **(8)** *Human trafficking victim* The terms human trafficking victim and victim of human trafficking mean a person subject to an act or practice described in section 103(11) of the Trafficking Victims Protection Act of 2000(22 U.S.C. 7102(11)).
   - **(9)** *Impacted country* The term impacted country means a country that is a significant—
     - **(A)** transit location for victims of human trafficking to scam compounds;
     - **(B)** source location for victims of human trafficking for scam compounds; or
@@ -71,7 +71,7 @@ It is the sense of Congress that—
   - **(2)** develop a comprehensive list of enabling countries and impacted countries;
   - **(3)** identify all active executive branch relevant foreign assistance programs and diplomatic efforts underway to address scam compounds, significant transnational criminal organizations connected to scam compounds, and related money laundering, human trafficking and forced criminality, including efforts with enabling countries and impacted countries;
   - **(4)** identify relevant foreign assistance resources needed to fully implement the Strategy and any obstacles to the response of the Federal Government to scam compounds, including coordination with partner governments, to address the human trafficking, including forced criminality, and money laundering that facilitates and sustains scam compound operations;
-  - **(5)** include objectives, activities, and performance indicators regarding the response of the Federal Government to scam compounds, including—
+  - **(5)** include objectives, activities, and performance indicators regarding the response of the Federal government to scam compounds, including—
     - **(A)** the prevention of recruitment fraud and human trafficking, including by—
       - **(i)** engaging private sector entities operating internet platforms or other services that can be abused or exploited to perpetrate recruitment fraud, human trafficking or cyber-enabled fraud;
       - **(ii)** raising awareness among at-risk populations to identify common recruitment fraud strategies and improve due diligence and self-protection measures;
@@ -100,8 +100,8 @@ It is the sense of Congress that—
 ## § 6. Strengthening tools to dismantle scam compounds and hold significant transnational criminal organizations accountable
 
 - **(a)** *Imposition of sanctions with respect to significant actors in scam compound operations* Beginning on and after the date that is 180 days after the date of the enactment of this Act, the President may impose the sanctions described in subsection (b) with respect to any foreign person that the President determines—
-  - **(1)** has materially assisted in, or provided significant financial or technological support to, or provided significant goods or services in support of, the activities of international scam compounds or enabling services, including recruitment fraud, human trafficking (including forced criminality), cyber-enabled fraud, or money laundering; or
-  - **(2)** owned, controlled, directed, or acted for, or on behalf of, a significant scam compound operation or enabling service, including recruitment fraud, human trafficking (including forced criminality), cyber-enabled fraud, or money laundering.
+  - **(1)** has materially assisted in, or provided significant financial or technological support to, or provided significant goods or services in support of, the activities of international scam compounds or enabling services, including recruitment fraud, human trafficking (including forced criminality), cyber-enabled fraud, or money-laundering; or
+  - **(2)** owned, controlled, directed, or acted for, or on behalf of, a significant scam compound operation or enabling service, including recruitment fraud, human trafficking (including forced criminality), cyber-enabled fraud, or money-laundering.
 - **(b)** *Sanctions described* The President may exercise of all powers granted to the President under the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) to the extent necessary to block and prohibit all transactions in all property and interests in property of a foreign person described in subsection (a), including, to the extent appropriate, the vessel of which the person is the beneficial owner, if such property or interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
 - **(c)** *Implementation; penalties*
   - **(1)** *Implementation* The President may exercise all authorities provided under sections 203 and 205 of the International Emergency Economic Powers Act (50 U.S.C. 1702 and 1704) to carry out this section.
@@ -121,6 +121,14 @@ It is the sense of Congress that—
     - **(A)** the name of the individual or institution that is benefitting from such waiver; and
     - **(B)** if the beneficiary is an individual, a detailed justification explaining how the waiver serves the national security interests of the United States.
 
-## § 7. Sunset
+## § 7. Redress to victims of international scam compound operations
+
+Not later than 90 days after the date of the enactment of this Act, the Attorney General, in consultation with the Secretary of State, the Secretary of the Treasury, and the heads of other appropriate Federal departments and agencies, shall submit to the appropriate congressional committees a report containing an assessment of existing forfeiture law that—
+
+- **(1)** outlines challenges or limitations to providing financial redress to victims of international scam compound operations;
+- **(2)** offers recommendations to amend existing forfeiture law to enable the Department of Justice to use assets forfeited as a result of law enforcement activities targeting international scam compound operations to provide financial redress to United States citizen victims of scam operations; and
+- **(3)** offers recommendations for the administration of such a redress mechanism.
+
+## § 8. Sunset
 
 This Act shall cease to be effective beginning on the date that is 7 years after the date of the enactment of this Act.
