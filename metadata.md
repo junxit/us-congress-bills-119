@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1949
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1949
@@ -95,3 +95,6 @@ Unlocking our Domestic LNG Potential Act of 2025
 - 2025-11-20 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 217 - 188 (Roll no. 304). (text: CR H4841)
 - 2025-11-20 — Rule provides for consideration of S.J. Res. 80, H.J. Res. 130, H.J. Res. 131, H. Con. Res. 58, H.R. 1949, H.R. 3109, H.R. 5107 and H.R. 5214. The resolution provides for consideration of S.J. Res. 80, H.J. Res. 130, H.J. Res. 131, H. Con. Res. 58, H.R. 1949, H.R. 3109, H.R. 5107, and H.R. 5214 under a closed rule with one hour of general debate on each measure. The resolution also provides for one motion to recommit on H.J. Res. 130, H.J. Res. 131, H.R. 1949, H.R. 3109, H.R. 5107, and H.R. 5214, and one motion to commit S.J. Res. 80.
 - 2025-11-20 — The previous question was ordered pursuant to the rule.
+- 2025-12-02 — Received in the Senate.
+- 2025-12-08 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time. (Legislative Day December 4, 2025).
+- 2025-12-08 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 286.
