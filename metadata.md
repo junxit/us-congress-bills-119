@@ -1,7 +1,7 @@
 ---
 measure: H.R. 504
 congress: 119
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 504
@@ -26,6 +26,10 @@ Miccosukee Reserved Area Amendments Act
 
 - House — Natural Resources Committee
 - House — Transportation and Infrastructure Committee
+
+## Recorded votes (1)
+
+- 2026-01-08 — [House 119-2-8](votes/house-119-2-0008.md) — Passage, Objections of the President To The Contrary Notwithstanding — **Failed** (236–188)
 
 ## Actions
 
@@ -52,3 +56,23 @@ Miccosukee Reserved Area Amendments Act
 - 2025-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3228-3229)
 - 2025-07-15 — Received in the Senate.
 - 2025-12-09 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 291.
+- 2025-12-11 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8693)
+- 2025-12-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2025-12-15 — Message on Senate action sent to the House.
+- 2025-12-18 — Presented to President.
+- 2025-12-18 — Presented to President.
+- 2025-12-29 — Vetoed by President.
+- 2025-12-29 — Vetoed by President.
+- 2026-01-02 — POSTPONED CONSIDERATION OF VETO MESSAGE - The Chair announced that further consideration of the veto message and the bill, H.R. 504, is postponed until the legislative day of January 8, 2026. Agreed to without objection.
+- 2026-01-02 — The Chair announced that the objections of the President to H.R. 504 would be spread at large upon the Journal and the veto message would be printed as a House Document (119-120).
+- 2026-01-02 — The Chair laid before the House the veto message from the President. (text: CR H6136)
+- 2026-01-08 — DEBATE - Pursuant to a previous order of the House of January 2, 2026, the unfinished business is the further consideration of the veto message of the President on H.R. 504. The House proceeded with one hour of debate on the objections of the President to the contrary notwithstanding. (consideration: CR H208-209)
+- 2026-01-08 — Failed of passage in House over veto On passage, the objections of the President to the contrary notwithstanding Failed by the Yeas and Nays: (2/3 required): 236 - 188 (Roll no. 8).
+- 2026-01-08 — Motion to refer the bill and accompanying veto message to the Committee on Natural Resources.
+- 2026-01-08 — On motion to refer the bill and the accompanying veto message to the Committee on Natural Resources.
+- 2026-01-08 — On passage, the objections of the President to the contrary notwithstanding Failed by the Yeas and Nays: (2/3 required): 236 - 188 (Roll no. 8).
+- 2026-01-08 — POSTPONED PROCEEDINGS - At the conclusion of debate on the veto message of the President to H.R. 504, the Chair put the question on will the House, on reconsideration, pass the bill, the objections of the President to the contrary notwithstanding. Under the Constitution, the vote must be taken by the yeas and nays. Further proceedings were postponed until a time to be announced.
+- 2026-01-08 — The Chair announced the unfinished business to be the consideration of the veto. (consideration: CR H211-212)
+- 2026-01-08 — The Chair directed the Clerk to notify the Senate of the action of the House.
+- 2026-01-08 — The Chair laid before the House the veto message from the President.
+- 2026-01-08 — The previous question was ordered without objection.
