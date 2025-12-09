@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1098
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 4 executed, 2 stated and not applied.
+3 amendatory instructions. 1 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,39 +26,12 @@ to guess them.
 
 ### 16 U.S.C. § 719c
 
-> by striking “$350,000” and inserting “$550,000”; and
-
-| | |
-|---|---|
-| Removed | `$350,000` |
-| Inserted | `$550,000` |
-
-### 16 U.S.C. § 719c
-
-> by striking “2006 through 2010” and inserting “2025 through 2031”; and
+> Section 6 of the Junior Duck Stamp Conservation and Design Program Act of 1994 (16 U.S.C. 719c) is amended in subsection (a) by striking “2006 through 2010” and inserting “2025 through 2031”.
 
 | | |
 |---|---|
 | Removed | `2006 through 2010` |
 | Inserted | `2025 through 2031` |
-
-### 16 U.S.C. § 719c
-
-> in paragraph (1), by striking “$100,000” and inserting “$200,000”; and
-
-| | |
-|---|---|
-| Removed | `$100,000` |
-| Inserted | `$200,000` |
-
-### 16 U.S.C. § 719c
-
-> in paragraph (2), by striking “$250,000” and inserting “$350,000”.
-
-| | |
-|---|---|
-| Removed | `$250,000` |
-| Inserted | `$350,000` |
 
 ## Stated, not applied
 
