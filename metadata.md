@@ -1,7 +1,7 @@
 ---
 measure: S. 414
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 414
@@ -32,3 +32,5 @@ ADS for Mental Health Services Act
 - 2025-06-24 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-32.
 - 2025-06-24 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-32.
 - 2025-06-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 102.
+- 2025-12-09 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S8581-8582; text: CR S8581-8582)
+- 2025-12-09 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
