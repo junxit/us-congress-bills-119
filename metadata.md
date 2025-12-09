@@ -1,7 +1,7 @@
 ---
 measure: S. 1437
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1437
@@ -32,3 +32,5 @@ ASCEND Act
 - 2025-09-29 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-68.
 - 2025-09-29 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-68.
 - 2025-09-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 173.
+- 2025-12-09 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S8581; text: CR S8581)
+- 2025-12-09 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.

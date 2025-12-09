@@ -18,7 +18,7 @@ This Act may be cited as the “Accessing Satellite Capabilities to Enable New D
 - **(a)** *Findings* Congress makes the following findings:
   - **(1)** Section 60501 of title 51, United States Code, states that the goal for the Earth Science program of the National Aeronautics and Space Administration (referred to in this section as “NASA”) shall be to pursue a program of Earth observations, research, and applications activities to better understand the Earth, how it supports life, and how human activities affect its ability to do so in the future.
   - **(2)** Section 50115 of title 51, United States Code, states that the Administrator of NASA shall, to the extent possible and while satisfying the scientific or educational requirements of NASA, and where appropriate, of other Federal agencies and scientific researchers, acquire, where cost effective, space-based and airborne commercial Earth remote sensing data, services, distribution, and applications from a commercial provider.
-  - **(3)** The Administrator of NASA established the Commercial SmallSat Data Acquisition Pilot Program in 2019 to identify, validate, and acquire from commercial sources data that support the Earth science research and application goals.
+  - **(3)** After the completion of the Private-Sector Small Constellation Satellite Data Product Pilot launch in 2017, the Administrator of NASA established the Commercial SmallSat Data Acquisition Pilot Program in 2019 to identify, evaluate, validate, and acquire from commercial sources data that support the Earth science research and application goals.
   - **(4)** The Administrator of NASA has—
     - **(A)** determined that the pilot program described in paragraph (3) has been a success, as described in the final evaluation entitled “Commercial SmallSat Data Acquisition Program Pilot Evaluation Report” issued in 2020;
     - **(B)** established a formal process for evaluating and onboarding new commercial vendors in such pilot program;
@@ -28,10 +28,10 @@ This Act may be cited as the “Accessing Satellite Capabilities to Enable New D
   - **(1)** *In general* Chapter 603 of title 51, United States Code, is amended by adding at the end the following:
     > ## § 60307. Commercial Satellite Data Acquisition Program
     >
-    > - **(a)** *In general* The Administrator shall establish within the Earth Science Division of the Science Mission Directorate a program to acquire and disseminate commercial Earth observation data and imagery in order to satisfy the scientific, operational, and educational requirements of the Administration, and where appropriate, of other Federal agencies and scientific researchers.
-    > - **(b)** *Data publication and transparency* The terms and conditions of commercial Earth remote sensing data and imagery acquisitions under the program described in subsection (a) shall not prevent—
-    >   - **(1)** the publication of commercial data or imagery for scientific purposes; or
-    >   - **(2)** the publication of information that is derived from, incorporates, or enhances the original commercial data or imagery of a vendor.
+    > - **(a)** *In general* The Administrator shall establish within the Earth Science Division of the Science Mission Directorate a program, to be known as the “Commercial Satellite Data Acquisition Program”, to cost-effectively acquire and disseminate commercial Earth observation data and imagery in order to complement the scientific, operational, and educational requirements of the Administration, and where appropriate, of other Federal agencies and scientific researchers.
+    > - **(b)** *Data publication and accessibility* The terms and conditions of commercial Earth remote sensing data and imagery acquisitions under the program described in subsection (a) shall not prevent—
+    >   - **(1)** the publication of commercial data or imagery in academic or scientific articles, papers, or other similar publications for scientific purposes; or
+    >   - **(2)** the publication, in academic or scientific articles, papers, or other similar publications, of information that is derived from, incorporates, or enhances the original commercial data or imagery of a vendor.
     > - **(c)** *Authorization*
     >   - **(1)** *In general* In carrying out the program under this section, the Administrator may—
     >     - **(A)** procure commercial Earth remote sensing data and imagery from commercial vendors to advance scientific research and applications for the purpose set forth in subsection (a); and
