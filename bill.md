@@ -1,0 +1,28 @@
+---
+legis-num: H.R. 6528
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6528
+
+> To require a report on the purchases of Iranian oil by the People’s Republic of China, support from entities and individuals in the People’s Republic of China for Iran’s ballistic missile program, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Tracking and Restricting Adversarial Circumvention of Embargoes Act of 2025”.
+
+## § 2. Reporting requirement
+
+- **(a)** *In general* Not later than 180 days after the date of the enactment of this Act, the Director of National Intelligence shall submit to the appropriate congressional committees and Secretary of the Treasury a report analyzing oil and ballistic missile-related transactions between the People’s Republic of China and the Islamic Republic of Iran.
+- **(b)** *Elements* The report required by subsection (a) shall include the following:
+  - **(1)** An assessment of the purchases of Iranian oil by the People’s Republic of China since 2020, including an assessment of the use of transshipment points and shell companies as methods to insulate the People’s Republic of China from sanctions.
+  - **(2)** An assessment of significant financial transactions by entities in the People’s Republic of China related to the sale, supply, or transfer to Iran of chemical precursors and other materials that may support the ballistic missile program of Iran.
+- **(c)** *Appropriate congressional committees defined* In this section, the term appropriate congressional committees means—
+  - **(1)** the Committee on Banking, Housing, and Urban Affairs, the Committee on Commerce, Science, and Transportation, the Committee on Armed Services, the Committee on Foreign Relations, and the Select Committee on Intelligence of the Senate; and
+  - **(2)** the Committee on Financial Services, the Committee on Energy and Commerce, the Committee on Armed Services, the Committee on Foreign Affairs, and the Permanent Select Committee on Intelligence of the House of Representatives.
+
+## § 3. Determination
+
+Not later than 6 months after the submission of the report required by section 2, the Secretary of the Treasury shall determine whether the People’s Republic of China is conducting any sanctionable activities and report such determination to Congress.
