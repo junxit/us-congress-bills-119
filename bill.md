@@ -15,7 +15,9 @@ This Act may be cited as the “Adams Memorial-Great American Heroes Act”.
 
 ## § 2. Extension of authority; location of memorial
 
-- **(a)** *Adams memorial commission* Section 2406(l) of the John D. Dingell, Jr. Conservation, Management, and Recreation Act (Public Law 116–9) is amended by striking “2025” and inserting “2032”.
+- **(a)** *Adams memorial commission*
+  - **(1)** *Extension* Section 2406(l) of the John D. Dingell, Jr. Conservation, Management, and Recreation Act (Public Law 116–9) is amended by striking “2025” and inserting “2032”.
+  - **(2)** *Effective date* The amendment made by paragraph (1) shall take effect as if enacted on December 1, 2025.
 - **(b)** *Compliance with standards for commemorative works* Section 1(c) of Public Law 107–62 (115 Stat. 411; 124 Stat. 1192; 127 Stat. 3880; 133 Stat. 750) is amended—
   - **(1)** by striking “The establishment” and inserting “Notwithstanding section 8908(c) of title 40, United States Code, the establishment”; and
   - **(2)** by striking “2025” and inserting “2032”.
