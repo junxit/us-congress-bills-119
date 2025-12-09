@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1372
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1372
@@ -36,3 +36,11 @@ To designate the facility of the United States Postal Service located at 300 Mac
 - 2025-02-14 — Introduced in House
 - 2025-02-14 — Introduced in House
 - 2025-02-14 — Referred to the House Committee on Oversight and Gov Reform.
+- 2025-04-30 — Committee Consideration and Mark-up Session Held
+- 2025-04-30 — Ordered to be Reported by the Yeas and Nays: 23 - 15.
+- 2025-12-09 — Considered under suspension of the rules. (consideration: CR H5099-5100)
+- 2025-12-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1372.
+- 2025-12-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-12-09 — Mr. Gill (TX) moved to suspend the rules and pass the bill.
+- 2025-12-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5099)
+- 2025-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5099)
