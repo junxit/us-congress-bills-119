@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5131
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -33,6 +33,6 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | replace | Section 3015(a) of the Military Lands Withdrawal Act of 1999 (title XXX of Public Law 106–65; 113 Stat. 892) is amended by striking “25 years after November 6, 2001” and inserting “on November 6, 2051”. | the bill names no machine-readable US Code section |
 | — | replace | Section 2910(a) of the Fort Irwin Military Land Withdrawal Act of 2001 (title XXIX of Public Law 107–107; 115 Stat. 1339) is amended by striking “25 years after the date of the enactment of this Act” and inserting “on December 31, 2051”. | the bill names no machine-readable US Code section |
-| — | replace | Section 3011(d)(2) of the Military Lands Withdrawal Act of 1999 (title XXX of Public Law 106–65; 113 Stat. 892) is amended by striking “608,385” and inserting “605,401”. | the bill names no machine-readable US Code section |
-| — | replace | by striking “110,000” and inserting “117,710”; and | the bill names no machine-readable US Code section |
+| — | replace | Section 3011(d)(2) of the Military Lands Withdrawal Act of 1999 (title XXX of Public Law 106–65; 113 Stat. 892) is amended by striking “608,385 acres of land” and inserting “approximately 605,401 acres of land”. | the bill names no machine-readable US Code section |
+| — | replace | by striking “110,000 acres” and inserting “117,710 acres”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “as Proposed Withdrawal Land on the map entitled National Training Center—Proposed Withdrawal of Public Lands for Training Purposes, dated September 21, 2000” and inserting “on the map entitled Fort Irwin Withdrawal dated Feb… | the bill names no machine-readable US Code section |
