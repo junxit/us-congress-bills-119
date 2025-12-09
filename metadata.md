@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1008
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1008
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 298 Rou
 
 - Rep. Lawler, Michael [R-NY-17] (L000599)
 
-## Cosponsors (10)
+## Cosponsors (24)
 
 - Rep. Garbarino, Andrew R. [R-NY-2] (G000597)
 - Rep. Kennedy, Timothy M. [D-NY-26] (K000402)
@@ -28,6 +28,20 @@ To designate the facility of the United States Postal Service located at 298 Rou
 - Rep. Tonko, Paul [D-NY-20] (T000469)
 - Rep. Torres, Ritchie [D-NY-15] (T000486)
 - Rep. Latimer, George [D-NY-16] (L000606)
+- Rep. Langworthy, Nicholas A. [R-NY-23] (L000600)
+- Rep. LaLota, Nick [R-NY-1] (L000598)
+- Rep. Clarke, Yvette D. [D-NY-9] (C001067)
+- Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
+- Rep. Riley, Josh [D-NY-19] (R000622)
+- Rep. Velázquez, Nydia M. [D-NY-7] (V000081)
+- Rep. Meeks, Gregory W. [D-NY-5] (M001137)
+- Rep. Mannion, John [D-NY-22] (M001231)
+- Rep. Gillen, Laura [D-NY-4] (G000602)
+- Rep. Espaillat, Adriano [D-NY-13] (E000297)
+- Rep. Goldman, Daniel S. [D-NY-10] (G000599)
+- Rep. Ocasio-Cortez, Alexandria [D-NY-14] (O000172)
+- Rep. Nadler, Jerrold [D-NY-12] (N000002)
+- Rep. Stefanik, Elise M. [R-NY-21] (S001196)
 
 ## Committees (1)
 
@@ -38,3 +52,11 @@ To designate the facility of the United States Postal Service located at 298 Rou
 - 2025-02-05 — Introduced in House
 - 2025-02-05 — Introduced in House
 - 2025-02-05 — Referred to the House Committee on Oversight and Government Reform.
+- 2025-05-21 — Committee Consideration and Mark-up Session Held
+- 2025-05-21 — Ordered to be Reported by Voice Vote.
+- 2025-12-09 — Considered under suspension of the rules. (consideration: CR H5094-5095)
+- 2025-12-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1008.
+- 2025-12-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-12-09 — Mr. Gill (TX) moved to suspend the rules and pass the bill.
+- 2025-12-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5094)
+- 2025-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5094)
