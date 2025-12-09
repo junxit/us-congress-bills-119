@@ -138,7 +138,7 @@ The Chair of the Council on Environmental Quality, in consultation with the Admi
 
 ## § 8. Authority to enter into contracts
 
-The Council on Environmental Quality may enter into contracts and other arrangements for analyses, services, and products with Federal agencies, private organizations, and businesses, and make such payments as determined necessary by the Council on Environmental Quality to carry out the provisions of this Act.
+Subject to the availability of appropriations, the Council on Environmental Quality may enter into contracts and other arrangements for analyses, services, and products with Federal agencies, private organizations, and businesses, and make such payments as determined necessary by the Council on Environmental Quality to carry out the provisions of this Act.
 
 ## § 9. Clarifying rulemaking authority
 
