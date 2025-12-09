@@ -1,0 +1,47 @@
+---
+legis-num: H.R. 6545
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6545
+
+> To prohibit health insurers, including Medicaid managed care organizations and other private health plans, from imposing arbitrary time caps on reimbursement for anesthesia services and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Anesthesia for All Act”.
+
+## § 2. Findings
+
+Congress finds the following:
+
+- **(1)** Anesthesia care is essential and must be determined by medical necessity, not arbitrary limits.
+- **(2)** Time caps on reimbursement jeopardize patient safety, impose financial burdens, and interfere with informed medical decisions.
+- **(3)** Prohibiting such practices protects patients, promotes fairness, and ensures equitable access to essential healthcare services.
+
+## § 3. Prohibition on arbitrary time caps for anesthesia services
+
+- **(a)** *In general* Part A of title XXVII of the Public Health Service Act (42 U.S.C. 300gg et seq.) is amended by adding at the end the following new section:
+  > ## § 2730. Prohibition on arbitrary time caps for anesthesia services
+  >
+  > - **(a)** *Prohibition on time limits* A group health plan, and a health insurance issuer offering group or individual health insurance coverage, may not impose arbitrary time caps on reimbursement for anesthesia services provided during medically necessary procedures.
+  > - **(b)** *Requirement for reimbursement based on medical necessity* Reimbursement for anesthesia services shall be determined based on medical necessity as assessed by the attending anesthesiologist, certified registered nurse anesthetist, or licensed anesthesia provider.
+  > - **(c)** *Denial of payment* A group health plan, and a health insurance issuer offering group or individual health insurance coverage, are prohibited from denying payment for anesthesia services solely because the duration of care exceeded a pre-set time limit.
+
+- **(b)** *Medicaid* Section 1902(a) of the Social Security Act (42 U.S.C. 1396a(a)) is amended—
+  - **(1)** in paragraph (86), by striking “and” at the end;
+  - **(2)** in paragraph (87), by striking the period and inserting “; and”; and
+  - **(3)** by inserting after paragraph (87) the following new paragraph:
+    > - **(88)** provide that medical assistance consisting of anesthesia, including such assistance furnished through a managed care organization, is not subject to arbitrary time caps on reimbursement when furnished during medically necessary procedures (as determined by the attending anesthesiologist, certified registered nurse anesthetist, or other provider of such anesthesia) and that payment is not denied for such assistance solely because the duration of such assistance exceeded a pre-set time limit.
+
+## § 4. Oversight by inspector general
+
+- **(a)** *Monitoring and audits* The Office of the Inspector General of the Department of Health and Human Services shall—
+  - **(1)** conduct periodic audits of health insurers to assess compliance with the provisions of this Act; and
+  - **(2)** investigate allegations of noncompliance submitted by patients, providers, or other stakeholders.
+- **(b)** *Reporting to congress* Not later than one year after the date of enactment of this Act, and every 3 years thereafter, the Inspector General described in subsection (a) shall submit a report to Congress that includes—
+  - **(1)** the findings of audits conducted under subsection (a);
+  - **(2)** the number and nature of violations referred to the Secretary of Health and Human Services; and
+  - **(3)** recommendations, if any, for improving compliance with the provisions of this Act.
