@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 84
 congress: 119
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 84
@@ -16,7 +16,7 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Sen. Warner, Mark R. [D-VA] (W000805)
 
-## Cosponsors (41)
+## Cosponsors (42)
 
 - Sen. Ossoff, Jon [D-GA] (O000174)
 - Sen. Wyden, Ron [D-OR] (W000779)
@@ -59,6 +59,7 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - Sen. Warren, Elizabeth [D-MA] (W000817)
 - Sen. Welch, Peter [D-VT] (W000800)
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Peters, Gary C. [D-MI] (P000595)
 
 ## Committees (1)
 
@@ -68,3 +69,6 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - 2025-09-30 — Introduced in Senate
 - 2025-09-30 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2025-12-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 293.
+- 2025-12-09 — Senate Committee on Health, Education, Labor, and Pensions discharged, by petition, pursuant to 5 U.S.C. 802(c).
+- 2025-12-09 — Senate Committee on Health, Education, Labor, and Pensions discharged, by petition, pursuant to 5 U.S.C. 802(c).
