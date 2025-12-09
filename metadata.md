@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2701
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2701
@@ -83,3 +83,5 @@ Fallen Servicemembers Religious Heritage Restoration Act
 - 2025-09-15 — Mr. Bost moved to suspend the rules and pass the bill, as amended.
 - 2025-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4294)
 - 2025-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4294: 1)
+- 2025-09-16 — Received in the Senate.
+- 2025-12-09 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 292.
