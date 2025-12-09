@@ -1,7 +1,7 @@
 ---
 measure: S. 972
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 0 executed, 1 stated and not applied.
+5 amendatory instructions. 0 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,3 +32,7 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | strike | Section 3327(f)(3) of title 38, United States Code, is amended by striking “together” and all that follows through “(as applicable),”. | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3), by striking “together” and all that follows through “before” and inserting “not later than 60 days after”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | replace | by striking “paragraphs (2) through (7)” and inserting “paragraphs (2) through (6)”; and | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (1), in the heading, by inserting “for an individual eligible for a monthly housing stipend” after “Additional assistance”. | the bill names no machine-readable US Code section |
