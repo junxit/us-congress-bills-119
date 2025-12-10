@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2916
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2916
@@ -16,9 +16,10 @@ To authorize, ratify, and confirm the Agreement of Settlement and Compromise to 
 
 - Rep. Stefanik, Elise M. [R-NY-21] (S001196)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ To authorize, ratify, and confirm the Agreement of Settlement and Compromise to 
 - 2025-12-09 — Mr. Crank moved to suspend the rules and pass the bill.
 - 2025-12-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5085)
 - 2025-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5085)
+- 2025-12-10 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
