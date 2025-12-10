@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1276
 congress: 119
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1276
@@ -41,3 +41,9 @@ To remove restrictions from a parcel of land in Paducah, Kentucky.
 - 2025-12-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5073)
 - 2025-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5073)
 - 2025-12-10 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2026-03-04 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2026-08-07 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4551-4552)
+- 2026-08-07 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2026-08-07 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
+- 2026-08-07 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
+- 2026-08-10 — Message on Senate action sent to the House.
