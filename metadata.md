@@ -1,7 +1,7 @@
 ---
 measure: H.R. 573
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 573
@@ -25,9 +25,10 @@ Studying NEPA’s Impact on Projects Act
 - Rep. LaMalfa, Doug [R-CA-1] (L000578)
 - Rep. Gill, Brandon [R-TX-26] (G000603)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Studying NEPA’s Impact on Projects Act
 - 2025-12-09 — Mr. Crank moved to suspend the rules and pass the bill, as amended.
 - 2025-12-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5086-5087)
 - 2025-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5086-5087)
+- 2025-12-10 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
