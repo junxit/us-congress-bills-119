@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2290
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2290
@@ -61,9 +61,10 @@ World War II Women's Memorial Location Act
 - Rep. Lawler, Michael [R-NY-17] (L000599)
 - Del. Radewagen, Aumua Amata Coleman [R-AS-At Large] (R000600)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -84,3 +85,4 @@ World War II Women's Memorial Location Act
 - 2025-12-09 — Mr. Crank moved to suspend the rules and pass the bill, as amended.
 - 2025-12-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5082)
 - 2025-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5082)
+- 2025-12-10 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
