@@ -1,7 +1,7 @@
 ---
 measure: S. 1884
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1884
@@ -16,7 +16,7 @@ Holocaust Expropriated Art Recovery Act of 2025
 
 - Sen. Cornyn, John [R-TX] (C001056)
 
-## Cosponsors (18)
+## Cosponsors (21)
 
 - Sen. Blumenthal, Richard [D-CT] (B001277)
 - Sen. Tillis, Thomas [R-NC] (T000476)
@@ -36,6 +36,9 @@ Holocaust Expropriated Art Recovery Act of 2025
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 - Sen. Graham, Lindsey [R-SC] (G000359)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
 
 ## Committees (1)
 
@@ -49,3 +52,5 @@ Holocaust Expropriated Art Recovery Act of 2025
 - 2025-11-18 — Committee on the Judiciary. Reported by Senator Grassley with amendments. Without written report.
 - 2025-11-18 — Committee on the Judiciary. Reported by Senator Grassley with amendments. Without written report.
 - 2025-11-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 271.
+- 2025-12-10 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S8628-8629; text: CR S8629)
+- 2025-12-10 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.
