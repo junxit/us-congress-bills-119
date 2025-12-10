@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1276
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1276
@@ -16,9 +16,10 @@ To remove restrictions from a parcel of land in Paducah, Kentucky.
 
 - Rep. Comer, James [R-KY-1] (C001108)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ To remove restrictions from a parcel of land in Paducah, Kentucky.
 - 2025-12-09 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
 - 2025-12-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5073)
 - 2025-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5073)
+- 2025-12-10 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
