@@ -1,7 +1,7 @@
 ---
 measure: S. 2584
 congress: 119
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 3014(a) of title 18, United States Code, is amended by striking “Beginning on the date of enactment of the Justice for Victims of Trafficking Act of 2015 and ending on September 30, 2025, in addition to the assessment imposed und… | the bill names no machine-readable US Code section |
+| — | replace | Section 3014(a) of title 18, United States Code, is amended by striking “Beginning on the date” and all that follows through the em dash and inserting “In addition to the assessment imposed under section 3013, the court shall assess an a… | the bill names no machine-readable US Code section |
