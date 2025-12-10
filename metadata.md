@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5131
 congress: 119
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 5131
@@ -20,10 +20,11 @@ Public Lands Military Readiness Act of 2025
 
 - Rep. Vindman, Eugene Simon [D-VA-7] (V000138)
 
-## Committees (2)
+## Committees (3)
 
 - House — Armed Services Committee
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Public Lands Military Readiness Act of 2025
 - 2025-12-09 — Placed on the Union Calendar, Calendar No. 346.
 - 2025-12-09 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-397, Part I.
 - 2025-12-09 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-397, Part I.
+- 2025-12-10 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
