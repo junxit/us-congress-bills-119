@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3857
 congress: 119
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -80,12 +80,12 @@ to guess them.
 
 ### 43 U.S.C. § 1477
 
-> in subsection (g), by striking “$15,000,000, in the aggregate, for fiscal years 2022 through 2026” and inserting “$6,500,000 for each of fiscal years 2027 through 2031”.
+> in subsection (g), by striking “$15,000,000, in the aggregate, for fiscal years 2022 through 2026” and inserting “$3,000,000 for each of fiscal years 2027 through 2031”.
 
 | | |
 |---|---|
 | Removed | `$15,000,000, in the aggregate, for fiscal years 2022 through 2026` |
-| Inserted | `$6,500,000 for each of fiscal years 2027 through 2031` |
+| Inserted | `$3,000,000 for each of fiscal years 2027 through 2031` |
 
 ## Stated, not applied
 
