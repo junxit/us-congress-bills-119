@@ -1,7 +1,7 @@
 ---
 measure: H.R. 655
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 655
@@ -16,9 +16,10 @@ Dalles Watershed Development Act
 
 - Rep. Bentz, Cliff [R-OR-2] (B000668)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Dalles Watershed Development Act
 - 2025-12-09 — Mr. Hurd (CO) moved to suspend the rules and pass the bill, as amended.
 - 2025-12-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5075)
 - 2025-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5075)
+- 2025-12-10 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
