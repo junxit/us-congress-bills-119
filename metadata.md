@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2175
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2175
@@ -70,9 +70,10 @@ To designate the facility of the United States Postal Service located at 130 Sou
 - Rep. Calvert, Ken [R-CA-41] (C000059)
 - Rep. Min, Dave [D-CA-47] (M001241)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -87,3 +88,4 @@ To designate the facility of the United States Postal Service located at 130 Sou
 - 2025-12-09 — Mr. Gill (TX) moved to suspend the rules and pass the bill.
 - 2025-12-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5098)
 - 2025-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5098)
+- 2025-12-10 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
