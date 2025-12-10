@@ -1,7 +1,7 @@
 ---
 measure: S. 1884
 congress: 119
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 1884
@@ -54,3 +54,18 @@ Holocaust Expropriated Art Recovery Act of 2025
 - 2025-11-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 271.
 - 2025-12-10 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S8628-8629; text: CR S8629)
 - 2025-12-10 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.
+- 2025-12-11 — Held at the desk.
+- 2025-12-11 — Message on Senate action sent to the House.
+- 2025-12-11 — Received in the House.
+- 2026-03-16 — Considered under suspension of the rules. (consideration: CR H2497-2500)
+- 2026-03-16 — DEBATE - The House proceeded with forty minutes of debate on S. 1884.
+- 2026-03-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-03-16 — Ms. Lee (FL) moved to suspend the rules and pass the bill.
+- 2026-03-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2497)
+- 2026-03-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2497)
+- 2026-04-02 — Presented to President.
+- 2026-04-02 — Presented to President.
+- 2026-04-13 — Became Public Law No: 119-82.
+- 2026-04-13 — Became Public Law No: 119-82.
+- 2026-04-13 — Signed by President.
+- 2026-04-13 — Signed by President.
