@@ -48,4 +48,4 @@ The Snow Water Supply Forecasting Program Authorization Act (43 U.S.C. 1477) is 
     - **(ii)** by striking “technologies” and inserting “and integrated modeling technologies”; and
     - **(iii)** by striking “technology used” and inserting “application, outcome, and data resources used”; and
   - **(C)** in paragraph (2), by striking “or sub-basin”; and
-- **(5)** in subsection (g), by striking “$15,000,000, in the aggregate, for fiscal years 2022 through 2026” and inserting “$6,500,000 for each of fiscal years 2027 through 2031”.
+- **(5)** in subsection (g), by striking “$15,000,000, in the aggregate, for fiscal years 2022 through 2026” and inserting “$3,000,000 for each of fiscal years 2027 through 2031”.
