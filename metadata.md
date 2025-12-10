@@ -1,7 +1,7 @@
 ---
 measure: S. 1498
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1498
@@ -16,9 +16,12 @@ Halting Ownership and Non-Ethical Stock Transactions (HONEST) Act
 
 - Sen. Hawley, Josh [R-MO] (H001089)
 
-## Cosponsors (1)
+## Cosponsors (4)
 
 - Sen. Moreno, Bernie [R-OH] (M001242)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Merkley, Jeff [D-OR] (M001176)
 
 ## Committees (1)
 
@@ -28,3 +31,7 @@ Halting Ownership and Non-Ethical Stock Transactions (HONEST) Act
 
 - 2025-04-28 — Introduced in Senate
 - 2025-04-28 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2025-07-30 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2025-12-10 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Paul with an amendment in the nature of a substitute. Without written report.
+- 2025-12-10 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Paul with an amendment in the nature of a substitute. Without written report.
+- 2025-12-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 294.
