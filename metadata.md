@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4503
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4503
@@ -30,9 +30,10 @@ ePermit Act
 - Rep. Hurd, Jeff [R-CO-3] (H001100)
 - Rep. Vindman, Eugene Simon [D-VA-7] (V000138)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ ePermit Act
 - 2025-12-09 — Mr. Crank moved to suspend the rules and pass the bill, as amended.
 - 2025-12-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5088-5091)
 - 2025-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5088-5091)
+- 2025-12-10 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
