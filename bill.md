@@ -96,6 +96,18 @@ Section 401 of the Federal Water Pollution Control Act (33 U.S.C. 1341) is amend
   >     - **(A)** identification of the proposed categories of activities to be covered by the general license or general permit for which certification is requested;
   >     - **(B)** a description of the proposed general license or general permit, which may include a draft of the proposed general license or permit; and
   >     - **(C)** an estimate of the number of discharges expected to result from the proposed general license or general permit annually.
+  > - **(h)** *Judicial review*
+  >   - **(1)** *Affected certification actions* This subsection shall apply to any civil action for the review of a certification action with respect to an applicant for a license or permit—
+  >     - **(A)** for the construction or operation of facilities for the transmission of electric energy or energy fuels in interstate or foreign commerce; or
+  >     - **(B)** from the Federal Energy Regulatory Commission.
+  >   - **(2)** *Standing and filing deadline* Not withstanding any other provision of law, no court shall have jurisdiction to review a civil action under this subsection, except for a civil action filed not later than 30 days after the final action on the certification by—
+  >     - **(A)** the applicant; or
+  >     - **(B)** a person who has suffered, or likely and imminently will suffer, direct and irreparable economic harm from the authorization; provided that an organization or association satisfies this harm requirement only if each member of the organization or association satisfies the requirement.
+  >   - **(3)** *Expedited consideration*
+  >     - **(A)** The Court shall—
+  >       - **(i)** set any petition for review brought under this subsection for expedited consideration; and
+  >       - **(ii)** issue a final decision no later than 120 days after the filing of the civil action, unless the court finds extraordinary circumstances, in which the Court may take up to 60 additional days to issue a final decision.
+  >     - **(B)** *Failure to comply with deadline* If the civil action concerns a certification that has been granted, the Court’s failure to issue a final decision in compliance with the deadlines in subparagraph (A) shall mean the civil action is denied with prejudice.
 
 ## § 6. Clarifying Federal general permits
 
@@ -271,18 +283,66 @@ Section 404 of the Federal Water Pollution Control Act (33 U.S.C. 1344) is amend
   >       - **(iii)** with respect to a determination regarding a verification that an activity involving a discharge of dredged or fill material is authorized by a general permit issued under this section, the court may not enjoin or otherwise limit the discharge unless the court finds that the activity would present an imminent and substantial danger to human health or the environment for which there is no other equitable remedy available under the law.
   >   - **(4)** *Timeline to act on court order* If a court remands a matter under paragraph (3), the court shall set and enforce a reasonable schedule and deadline, which may not exceed 180 days from the date on which the court remands such matter, except as otherwise required by law, for the Administrator, the Secretary, or the State, as applicable, to take such actions as the court may order.
 
-## § 16. Restoring federalism in clean water permitting
+## § 16. Maintaining cooperative permitting
+
+- **(a)** *Withdrawal of approval without congressional authorization prohibited* The permit programs described in subsection (b) are ratified, approved, and of full force and effect, and the Administrator of the Environmental Protection Agency (referred to in this section as the “Administrator”) may not withdraw the approval of those permit programs, including through the process described in section 404(i) of the Federal Water Pollution Control Act (33 U.S.C. 1344(i)), unless the withdrawal is expressly authorized by an Act of Congress enacted after the date of enactment of this Act.
+- **(b)** *Permit programs described* The permit programs referred to in subsection (a) are the following State permit programs for the discharge of dredged or fill material approved under section 404 of the Federal Water Pollution Control Act (33 U.S.C. 1344):
+  - **(1)** The program of the State of Michigan, approved in the notice of the Environmental Protection Agency entitled “Michigan Department of Natural Resources Section 404 Permit Program Approval” (49 Fed. Reg. 38947 (October 2, 1984)) and as described in section 233.70 of title 40, Code of Federal Regulations (including any updates to the program described in a successor Federal Register notice).
+  - **(2)** The program of the State of New Jersey, approved in the final rule and notice of the Environmental Protection Agency entitled “New Jersey Department of Environmental Protection and Energy Section 404 Permit Program Approval” (59 Fed. Reg. 9933 (March 2, 1994)) and as described in section 233.71 of title 40, Code of Federal Regulations (including any updates to the program described in a successor Federal Register notice).
+  - **(3)** The program of the State of Florida, as described in the notice of the Environmental Protection Agency entitled “EPA’s Approval of Florida’s Clean Water Act Section 404 Assumption Request” (85 Fed. Reg. 83553 (December 22, 2020)) (including any updates to the program described in a successor Federal Register notice), including the Programmatic Biological Opinion with Incidental Take Statement associated with the program.
+- **(c)** *Program transition period* During the 90-day period beginning on the date of enactment of this Act, the Secretary of the Army, acting through the Chief of Engineers (referred to in this section as the “Secretary”), and the State of Florida may both issue permits authorized under the program described in subsection (b)(3) for the discharge of dredged or fill material into navigable waters (as described in subsection 404(g)(1) of the Federal Water Pollution Control Act (33 U.S.C. 1344(g)(1))) within the jurisdiction of the State of Florida.
+- **(d)** *Approval of comparable State programs*
+  - **(1)** *In general* If the Administrator determines that a State program submitted under subsection (g)(1) of section 404 of the Federal Water Pollution Control Act (33 U.S.C. 1344) is comparable to a State program described in any of paragraphs (1) through (3) of subsection (b) of this section, the Administrator shall make the determination described in subsection (h)(2)(A) of such section 404 with respect to that program.
+  - **(2)** *Notification* On making the determination required under paragraph (1), the Administrator shall notify the Secretary and the applicable State of that determination.
+  - **(3)** *Suspension* On notification from the Administrator under paragraph (2) and from a State that the State has begun to administer a program approved pursuant to paragraph (1), the Secretary shall suspend the issuance of permits under subsections (a) and (e) of section 404 of the Federal Water Pollution Control Act (33 U.S.C. 1344) for activities with respect to which a permit may be issued by the State under that program.
+
+## § 17. Restoring federalism in clean water permitting
 
 Not later than 180 days after the date of enactment of this Act, the Administrator of the Environmental Protection Agency shall complete a review of the regulations applicable to the approval of State permit programs under section 404 of the Federal Water Pollution Control Act (33 U.S.C. 1344) in order to identify revisions to such regulations necessary to streamline the approval process, reduce administrative burdens, and encourage additional States to administer a permit program under such section, and the Administrator shall implement any such revisions as appropriate.
 
-## § 17. Jurisdictional determination backlog reduction
+## § 18. Revision of framework for compensatory mitigation
+
+- **(a)** *Requirement to revise* Not later than 180 days after the date of enactment of this Act, the Secretary, in coordination with the Administrator of the Environmental Protection Agency, shall publish in the Federal Register a proposed rule, consistent with section 404 of the Federal Water Pollution Control Act (33 U.S.C. 1344), to revise the regulations issued in the final rule of the Department of Defense and the Environmental Protection Agency titled “Compensatory Mitigation for Losses of Aquatic Resources” and published in the Federal Register on April 10, 2008 (73 Fed. Reg. 19594).
+- **(b)** *Scope of revisions* In carrying out subsection (a), the Secretary shall—
+  - **(1)** incorporate lessons learned since the implementation of the final rule described in subsection (a) and reflect advances in science, restoration practices, and regulatory efficiency;
+  - **(2)** promote equivalency and flexibility among mitigation options, including mitigation banking, in-lieu fee programs, and permittee-responsible mitigation;
+  - **(3)** expedite the approval of plans that use mitigation banks, in-lieu fee programs, and permittee-responsible mitigation;
+  - **(4)** support regional watershed approaches, including by—
+    - **(A)** encouraging compensatory mitigation credit generation and sales across primary, secondary, and tertiary service areas; and
+    - **(B)** implementing mitigation requirements, policies, and guidance that are consistent, predictable, and transparent;
+  - **(5)** ensure timely coordination between Corps of Engineers district offices and Interagency Review Teams;
+  - **(6)** ensure that, for projects involving temporary impacts to aquatic resources, including mining and other energy or infrastructure projects with approved reclamation plans, the revised regulations—
+    - **(A)** take into account the temporary nature of such impacts;
+    - **(B)** recognize activities carried out under an approved reclamation plan as a form of minimization of such impacts, consistent with the guidelines developed under section 404(b)(1) of the Federal Water Pollution Control Act;
+    - **(C)** consider financial assurances already required under applicable regulatory programs (including instruments such as surety bonds, collateral bonds, letters of credit, insurance, trust funds, and, where permitted, self-bonding) when determining the need for additional financial assurances; and
+    - **(D)** allow the use, transfer, or sale of surplus compensatory mitigation credits generated through activities carried out under an approved reclamation plan, if such credits meet applicable environmental performance standards;
+  - **(7)** encourage the use of off-site and out-of-kind mitigation options where appropriate; and
+  - **(8)** include any other revisions determined appropriate by the Secretary.
+- **(c)** *Guidance* After issuing a final rule under this section, the Secretary shall issue guidance establishing objective, measurable success criteria for activities carried out under an approved reclamation plan for purposes of generating compensatory mitigation credits, and a phased credit release schedule tied to milestones for such activities.
+- **(d)** *Definitions* In this section:
+  - **(1)** *Approved reclamation plan* The term approved reclamation plan—
+    - **(A)** means—
+      - **(i)** a reclamation plan approved pursuant to section 510 of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1260);
+      - **(ii)** a reclamation plan, plan of operations, or other similar plan approved by the Secretary of Agriculture or the Secretary of the Interior with respect to the mining or related operations of—
+        - **(I)** minerals subject to location under the general mining laws;
+        - **(II)** minerals subject to leasing under the mineral leasing laws; or
+        - **(III)** mineral materials subject to disposition under the Act of July 31, 1947, commonly known as the Materials Act of 1947 (30 U.S.C. 601 et seq.);
+      - **(iii)** a surface use plan of operations approved pursuant to subpart 3162 of title 43, Code of Federal Regulations (or a successor regulation);
+      - **(iv)** a plan of operations or utilization plan approved pursuant to subpart 3200 of title 43, Code of Federal Regulations (or a successor regulation); and
+      - **(v)** a plan of development approved pursuant to subpart 2805 of title 43, Code of Federal Regulations (or a successor regulation) that includes enforceable reclamation or surface restoration requirements; and
+    - **(B)** includes a plan of operations approved under—
+      - **(i)** subpart 3809 of title 43, Code of Federal Regulations (or a successor regulation); or
+      - **(ii)** part 228 of title 36, Code of Federal Regulations (or a successor regulation).
+  - **(2)** *Secretary* The term Secretary means the Secretary of the Army, acting through the Chief of Engineers.
+
+## § 19. Jurisdictional determination backlog reduction
 
 Not later than 60 days after the date of enactment of this Act, the Secretary of the Army, acting through the Chief of Engineers, shall expedite such procedures and reallocate or augment such personnel and resources of the Corps of Engineers as the Secretary determines necessary to eliminate any backlog existing as of June 5, 2025, of—
 
 - **(1)** applications for permits under section 404 of the Federal Water Pollution Control Act (33 U.S.C. 1344); or
 - **(2)** requests for jurisdictional determinations or wetlands delineations under the jurisdiction of the Secretary.
 
-## § 18. Definition of navigable waters
+## § 20. Definition of navigable waters
 
 Section 502(7) of the Federal Water Pollution Control Act (33 U.S.C. 1362(7)) is amended—
 
@@ -299,12 +359,12 @@ Section 502(7) of the Federal Water Pollution Control Act (33 U.S.C. 1362(7)) is
   >   - **(iii)** Any area that—
   >     - **(I)** prior to December 23, 1985, was drained or otherwise manipulated for the purpose, or having the effect, of making production of an agricultural product possible, as determined by the Administrator and the Secretary of the Army, acting through the Chief of Engineers, which determinations shall be consistent with any designations of prior converted cropland made by the Secretary of Agriculture; and
   >     - **(II)** as determined by the Administrator—
-  >       - **(aa)** at least once in the immediately preceding five years has been used for, or in support of, agricultural purposes, including grazing, haying, idling land for conservation use (such as habitat management, pollinator and wildlife management, water storage and supply management, and flood management), irrigation tailwater storage, farm-raised fish production, cranberry production, nutrient retention, and idling land for soil recovery after natural disasters such as hurricanes and drought; and
+  >       - **(aa)** at least once in the immediately preceding ten years has been used for, or in support of, agricultural purposes, including grazing, haying, idling land for conservation use (such as habitat management, pollinator and wildlife management, water storage and supply management, and flood management), irrigation tailwater storage, farm-raised fish production, cranberry production, nutrient retention, and idling land for soil recovery after natural disasters such as hurricanes and drought; and
   >       - **(bb)** has not reverted to wetlands (as defined in section 120.2 of title 40, Code of Federal Regulations, as in effect on the date of enactment of this clause).
   >   - **(iv)** Groundwater.
   >   - **(v)** Any other features determined to be excluded by the Administrator and the Secretary of the Army, acting through the Chief of Engineers.
 
-## § 19. Applicability of Spill Prevention, Control, and Countermeasure rule
+## § 21. Applicability of Spill Prevention, Control, and Countermeasure rule
 
 Section 1049 of the Water Resources Reform and Development Act of 2014 (33 U.S.C. 1361 note) is amended—
 
@@ -324,10 +384,44 @@ Section 1049 of the Water Resources Reform and Development Act of 2014 (33 U.S.C
   - **(B)** in clause (ii), by striking “2,500” and inserting “3,000”; and
 - **(3)** by striking subsection (d).
 
-## § 20. Coordination with Federal Permitting Improvement Steering Council
+## § 22. Coordination with Federal Permitting Improvement Steering Council
 
 With respect to any covered project (as defined under section 41001 of the FAST Act (42 U.S.C. 4370m)) for which a certification or permit from a State under section 401, 402, or 404 of the Federal Water Pollution Control Act is required, the State is encouraged to choose to participate, to the maximum extent practicable, in the environmental review and authorization process under section 41003(c) of the FAST Act (42 U.S.C. 4370m–2(c)), pursuant to paragraph (3)(A) of such section.
 
-## § 21. Sense of Congress on Chesapeake Bay Watershed Agreement
+## § 23. Sense of Congress on Chesapeake Bay Watershed Agreement
 
 It is the sense of Congress that the Chesapeake Bay Watershed Agreement is a voluntary, cooperative agreement between the Federal Government, the State of Delaware, the District of Columbia, the State of Maryland, the Commonwealth of Pennsylvania, the State of New York, the Commonwealth of Virginia, and the State of West Virginia. As such, the Federal Government should take a collaborative and cooperative approach to the parties with regard to their compliance with the Chesapeake Bay Total Maximum Daily Load outlined in such agreement.
+
+## § 24. Identification and permitting for water recharge on certain Federal lands
+
+- **(a)** *Review and identification* Not later than 1 year after the date of enactment of this Act, the Secretary of the Army, acting through the Chief of Engineers, shall review lands under the jurisdiction of the Secretary to identify parcels of such lands that are hydrologically and geologically well-suited for water recharge efforts, including aquifer recharge, surface water infiltration, or managed aquifer recharge projects, taking into consideration factors such as soil permeability, proximity to water sources, and minimal environmental impact.
+- **(b)** *Streamlined permitting process* The Secretary, in consultation with the Administrator of the Environmental Protection Agency and each relevant State water resource agency, shall—
+  - **(1)** establish clear and simple permitting processes for water recharge projects on parcels of land identified by the Secretary under subsection (a), including a process to facilitate (to the extent practicable)—
+    - **(A)** the actions of the Secretary under section 17 applicable to such projects; and
+    - **(B)** the expedited issuance of a permit under section 404 of the Federal Water Pollution Control Act (33 U.S.C. 1344), as amended by this Act, relating to such projects; and
+  - **(2)** ensure, to the extent practicable, that each process established under paragraph (1) minimizes regulatory burdens, provides for categorical exclusions or streamlined environmental assessments, and promotes collaboration with State and local entities to expand water recharge efforts.
+- **(c)** *Report to Congress* Not later than 18 months after the date of enactment of this Act, the Secretary shall submit to Congress a report detailing the parcels identified under subsection (a) and each permitting process established under subsection (b).
+
+## § 25. State-led permitting efficiency and water quality pilot
+
+- **(a)** *In general* The Administrator of the Environmental Protection Agency shall establish a voluntary pilot program to support State-led water quality improvements in waters listed as impaired for nitrogen or phosphorus under section 303(d) of the Federal Water Pollution Control Act (33 U.S.C. 1313(d)).
+- **(b)** *Voluntary participation* Participation by agricultural producers in the program established under this section shall be voluntary.
+- **(c)** *Savings clause* Nothing in this section may be construed to authorize the regulation of nonpoint sources or expand Federal jurisdiction.
+
+## § 26. International Boundary and Water Commission authority
+
+- **(a)** *Authorization* The Commission is authorized to accept funds from a Federal or non-Federal entity, including through a grant or funding agreement, to study, design, construct, operate, or maintain wastewater treatment works, water conservation projects, or flood control works, and related structures, consistent with the functions of the Commission.
+- **(b)** *Deposit* Any funds accepted by the Commission under this section shall be—
+  - **(1)** deposited into the account in the Treasury of the United States entitled “International Boundary and Water Commission, United States and Mexico”; and
+  - **(2)** subject to the availability of appropriations, available until expended to carry out the activities described in subsection (a).
+- **(c)** *Limitations*
+  - **(1)** *Limit on reimbursement* The Commission may not provide credit towards the non-Federal share of the cost of a project, or reimbursement, to non-Federal entities for funds accepted under this section in an amount that exceeds a total of $5,000,000 in any fiscal year.
+  - **(2)** *Source of funds* The Commission may not accept funds under this section from any non-Federal entity—
+    - **(A)** that is domiciled in, headquartered in, or organized under the laws of, or the principal place of business of which is located in, a foreign country of concern; or
+    - **(B)** that has in place any agreement with a foreign country of concern.
+- **(d)** *Report* Not later than the last day of each fiscal year, the Commission shall submit to the Committee on Foreign Relations of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the funds accepted under this section that includes a description of—
+  - **(1)** the activities carried out with such funds; and
+  - **(2)** costs associated with such activities.
+- **(e)** *Definitions* In this section:
+  - **(1)** The term Commission means the United States Section of the International Boundary and Water Commission, United States and Mexico.
+  - **(2)** The term foreign country of concern has the meaning given that term in section 10638 of the Research and Development, Competition, and Innovation Act (42 U.S.C. 19237).
