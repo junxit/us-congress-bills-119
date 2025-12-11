@@ -1,7 +1,7 @@
 ---
 measure: S. 546
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 546
@@ -34,3 +34,5 @@ Technical Correction to the Shoshone-Paiute Tribes of the Duck Valley Reservatio
 - 2025-11-04 — Committee on Indian Affairs. Reported by Senator Murkowski without amendment. With written report No. 119-94.
 - 2025-11-04 — Committee on Indian Affairs. Reported by Senator Murkowski without amendment. With written report No. 119-94.
 - 2025-11-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 261.
+- 2025-12-11 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8691; text: CR S8691)
+- 2025-12-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
