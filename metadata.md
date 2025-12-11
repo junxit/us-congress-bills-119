@@ -1,7 +1,7 @@
 ---
 measure: S. 642
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 642
@@ -32,3 +32,5 @@ Keweenaw Bay Indian Community Land Claim Settlement Act of 2025
 - 2025-09-29 — Committee on Indian Affairs. Reported by Senator Murkowski without amendment. With written report No. 119-70.
 - 2025-09-29 — Committee on Indian Affairs. Reported by Senator Murkowski without amendment. With written report No. 119-70.
 - 2025-09-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 175.
+- 2025-12-11 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8688-8689; text: CR S8688-8689)
+- 2025-12-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
