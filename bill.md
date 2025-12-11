@@ -17,17 +17,19 @@ This Act may be cited as the “Electric Supply Chain Act”.
 
 - **(a)** *Assessment* In carrying out the requirements of the Department of Energy Organization Act (42 U.S.C. 7101 et seq.), the Secretary shall, for purposes of monitoring the supply chain for the generation and transmission of electricity and in consultation with relevant stakeholders, prepare periodic assessments on such supply chain that—
   - **(1)** include information on—
-    - **(A)** efforts and opportunities to strengthen, secure, and expand such supply chain;
-    - **(B)** any trends, risks, and vulnerabilities in the supply, demand, and availability of components for or related to generating or transmitting electricity, including components that are necessary for the construction or deployment of facilities that generate or transmit electricity;
-    - **(C)** national security and energy security considerations for strengthening, securing, and expanding such supply chain;
+    - **(A)** efforts and opportunities to strengthen, secure, and expand such supply chain, including with respect to overcoming obstacles to broader deployment of advanced transmission technologies, including advanced conductors and other technologies that can be installed to increase the transfer capacity, efficiency, affordability, reliability, or resiliency of transmission infrastructure;
+    - **(B)** any trends, risks, and vulnerabilities in the supply, demand, and availability of components for or related to generating or transmitting electricity, including components that are necessary for the construction or deployment of facilities that generate or transmit electricity or can support advanced transmission technologies, including advanced conductors and other technologies that can be installed to increase the transfer capacity, efficiency, affordability, reliability, or resiliency of transmission infrastructure;
+    - **(C)** national security and energy security considerations for strengthening, securing, and expanding such supply chain, including efforts of any foreign entity of concern to exploit supply chain disruptions for the purposes of undermining United States leadership in artificial intelligence development;
     - **(D)** barriers to expanding the capacity to—
-      - **(i)** manufacture components for or related to generating or transmitting electricity in the United States; and
+      - **(i)** manufacture, deliver, and install components for or related to generating or transmitting electricity in the United States; and
       - **(ii)** process critical materials in the United States;
     - **(E)** domestic policies that deter or otherwise inhibit greater investment into such supply chain;
     - **(F)** the effects of any reliance of the United States on any foreign entity of concern for—
       - **(i)** components for or related to generating or transmitting electricity; and
-      - **(ii)** the exploration, development, or production of critical materials necessary for manufacturing such components; and
+      - **(ii)** the exploration, development, or production of critical materials necessary for manufacturing such components;
     - **(G)** workforce challenges affecting such supply chain;
+    - **(H)** any vulnerabilities from the employment of any non-United States citizen at a facility located in the United States that generates or transmits electricity; and
+    - **(I)** opportunities to expand participation in the workforce supporting such supply chain by veterans, transitioning servicemembers, and military spouses, including any barriers to entry in such workforce and opportunities for enhanced Federal coordination;
   - **(2)** identify emerging issues in such supply chain; and
   - **(3)** include recommendations to—
     - **(A)** address any emerging issues identified under paragraph (2); and
