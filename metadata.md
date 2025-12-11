@@ -1,7 +1,7 @@
 ---
 measure: S. 621
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 621
@@ -32,3 +32,5 @@ A bill to accept the request to revoke the charter of incorporation of the Lower
 - 2025-10-14 — Committee on Indian Affairs. Reported by Senator Murkowski without amendment. With written report No. 119-77.
 - 2025-10-14 — Committee on Indian Affairs. Reported by Senator Murkowski without amendment. With written report No. 119-77.
 - 2025-10-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 186.
+- 2025-12-11 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8687; text: CR S8687)
+- 2025-12-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
