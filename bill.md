@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 6614
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6614
+
+> To prohibit the Administrator of the Environmental Protection Agency from reconsidering, revising, or replacing the final rule relating to the accidental release prevention requirements of the risk management programs under the Clean Air Act.
+
+## § 1. Short title
+
+This Act may be cited as the “Chemical Disaster Prevention Act”.
+
+## § 2. Clean Air Act risk management programs
+
+During the period that begins on the date of enactment of this section and ends January 20, 2029, notwithstanding any other provision of law, the Administrator of the Environmental Protection Agency may not propose, finalize, or implement any action to reconsider, revise, or replace the final rule titled “Accidental Release Prevention Requirements: Risk Management Programs Under the Clean Air Act; Safer Communities by Chemical Accident Prevention” (89 Fed. Reg. 17622; March 11, 2024).
