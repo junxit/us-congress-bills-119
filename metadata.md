@@ -1,7 +1,7 @@
 ---
 measure: S. 766
 congress: 119
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 766
@@ -16,15 +16,17 @@ Billion Dollar Boondoggle Act of 2025
 
 - Sen. Ernst, Joni [R-IA] (E000295)
 
-## Cosponsors (3)
+## Cosponsors (4)
 
 - Sen. Hassan, Margaret Wood [D-NH] (H001076)
 - Sen. Moody, Ashley [R-FL] (M001244)
 - Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Scott, Rick [R-FL] (S001217)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Homeland Security and Governmental Affairs Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -36,3 +38,13 @@ Billion Dollar Boondoggle Act of 2025
 - 2025-11-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 254.
 - 2025-12-11 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8693-8694; text: CR S8693-8694)
 - 2025-12-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2025-12-15 — Held at the desk.
+- 2025-12-15 — Message on Senate action sent to the House.
+- 2025-12-15 — Received in the House.
+- 2026-03-18 — Committee on Small Business and Entrepreneurship. Hearings held.
+- 2026-09-16 — Considered under suspension of the rules.
+- 2026-09-16 — DEBATE - The House proceeded with forty minutes of debate on S. 766.
+- 2026-09-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-09-16 — Mr. Comer moved to suspend the rules and pass the bill.
+- 2026-09-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2026-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
