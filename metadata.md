@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3857
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3857
@@ -21,9 +21,10 @@ Snow Water Supply Forecasting Reauthorization Act of 2025
 - Rep. Neguse, Joe [D-CO-2] (N000191)
 - Rep. Vindman, Eugene Simon [D-VA-7] (V000138)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Snow Water Supply Forecasting Reauthorization Act of 2025
 - 2025-12-10 — Motion to reconsider laid on the table Agreed to without objection.
 - 2025-12-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2025-12-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2025-12-11 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
