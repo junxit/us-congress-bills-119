@@ -1,7 +1,7 @@
 ---
 measure: S. 620
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 620
@@ -34,3 +34,5 @@ Veterinary Services to Improve Public Health in Rural Communities Act
 - 2025-09-29 — Committee on Indian Affairs. Reported by Senator Murkowski without amendment. With written report No. 119-69.
 - 2025-09-29 — Committee on Indian Affairs. Reported by Senator Murkowski without amendment. With written report No. 119-69.
 - 2025-09-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 174.
+- 2025-12-11 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8687; text: CR S8687)
+- 2025-12-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
