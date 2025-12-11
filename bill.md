@@ -44,3 +44,7 @@ The Claims Resolution Act of 2010 (Public Law 111–291) is amended by adding af
 
 - **(a)** *Section 509 of Claims Resolution Act of 2010* Nothing in this Act shall be construed to affect the previous satisfaction of the conditions precedent in section 509(f)(2) of the Claims Resolution Act of 2010 (Public Law 111–291) or to affect the validity of the Secretarial finding published in the Federal Register on October 7, 2016, pursuant to section 509(f)(1) of the Claims Resolution Act of 2010 (Public Law 111–291) that such conditions precedent were fully satisfied.
 - **(b)** *Section 623 of Claims Resolution Act of 2010* Nothing in this Act shall be construed to affect the previous satisfaction of the conditions precedent in section 623(a)(2) of the Claims Resolution Act of 2010 (Public Law 111–291) or to affect the validity of the Secretarial finding published in the Federal Register on September 15, 2017, pursuant to section 623(a)(1) of the Claims Resolution Act of 2010 (Public Law 111–291) that such conditions precedent were fully satisfied.
+
+## § 6. Investment earnings
+
+-  In addition to the deposits authorized under this Act, any investment earnings, including interest, credited to amounts held in the trust funds as provided for in this Act are authorized to be appropriated.
