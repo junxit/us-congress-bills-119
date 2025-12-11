@@ -1,7 +1,7 @@
 ---
 measure: S. 610
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 610
@@ -33,3 +33,5 @@ Ensuring VetSuccess On Campus Act of 2025
 - 2025-12-02 — Committee on Veterans' Affairs. Reported by Senator Moran without amendment. Without written report.
 - 2025-12-02 — Committee on Veterans' Affairs. Reported by Senator Moran without amendment. Without written report.
 - 2025-12-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 273.
+- 2025-12-11 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8696; text: CR S8696)
+- 2025-12-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
