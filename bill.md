@@ -45,3 +45,10 @@ This Act may be cited as the “State Planning for Reliability and Affordability
       >   - **(3)** the State legislature has voted on the implementation of the standard (or a comparable standard) for the State regulated electric utility during the 3-year period ending on that date of enactment.
 
   - **(2)** *Prior and pending proceedings* Section 124 of the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. 2634) is amended by inserting “In the case of the standard established by paragraph (22) of section 111(d), the reference contained in this section to the date of enactment of this Act shall be deemed to be a reference to the date of enactment of that paragraph (22).” after “paragraph (21).”.
+
+## § 3. GAO report on effectiveness of integrated resource planning in ensuring sufficient reliable generation facilities
+
+- **(a)** *Report* Not later than 1 year after the date of enactment of this Act, the Comptroller General of the United States shall submit to Congress a report on the effectiveness of integrated resource planning employed by State regulated electric utilities prior to the implementation of section 111(d)(22) of the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. 2621(d)(22)), as added by section 2 of this Act, in ensuring sufficient reliable generation facilities to maintain the reliability, stability, and affordability of electric service for electric consumers.
+- **(b)** *Definitions* In this section:
+  - **(1)** *Electric consumer; integrated resource planning; State regulated electric utility* The terms electric consumer, “integrated resource planning”, and State regulated electric utility have the meanings given such terms, respectively, in section 3 of the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. 2602).
+  - **(2)** *Reliable generation facility* The term reliable generation facility has the meaning given such term in section 111(d)(22) of the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. 2621(d)(22)), as added by section 2 of this Act.
