@@ -1,7 +1,7 @@
 ---
 measure: S. 1744
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1744
@@ -16,13 +16,14 @@ PORCUPINE Act
 
 - Sen. Ricketts, Pete [R-NE] (R000618)
 
-## Cosponsors (5)
+## Cosponsors (6)
 
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 - Sen. Cornyn, John [R-TX] (C001056)
 - Sen. Bennet, Michael F. [D-CO] (B001267)
 - Sen. Budd, Ted [R-NC] (B001305)
 - Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
 
 ## Committees (1)
 
@@ -36,3 +37,5 @@ PORCUPINE Act
 - 2025-10-30 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
 - 2025-10-30 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
 - 2025-10-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 232.
+- 2025-12-11 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S8693; text of amendment in the nature of a substitute: CR S8693)
+- 2025-12-11 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
