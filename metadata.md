@@ -1,7 +1,7 @@
 ---
 measure: S. 1591
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1591
@@ -16,12 +16,13 @@ ARCA Act of 2025
 
 - Sen. Moran, Jerry [R-KS] (M000934)
 
-## Cosponsors (4)
+## Cosponsors (5)
 
 - Sen. Banks, Jim [R-IN] (B001299)
 - Sen. Warner, Mark R. [D-VA] (W000805)
 - Sen. King, Angus S., Jr. [I-ME] (K000383)
 - Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
 
 ## Committees (1)
 
@@ -36,3 +37,5 @@ ARCA Act of 2025
 - 2025-12-02 — Committee on Veterans' Affairs. Reported by Senator Moran with an amendment in the nature of a substitute. With written report No. 119-97.
 - 2025-12-02 — Committee on Veterans' Affairs. Reported by Senator Moran with an amendment in the nature of a substitute. With written report No. 119-97.
 - 2025-12-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 277.
+- 2025-12-11 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S8694-8696; text of amendment in the nature of a substitute: CR S8694-8696)
+- 2025-12-11 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
