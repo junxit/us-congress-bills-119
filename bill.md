@@ -1,0 +1,26 @@
+---
+legis-num: S. 3456
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3456
+
+> To amend the Federal Lands Recreation Enhancement Act to provide for a free annual National Parks and Federal Recreational Lands Pass for law enforcement officers and firefighters.
+
+## § 1. Short title
+
+This Act may be cited as the “Law Enforcement Officer and Firefighter Recreation Pass Act”.
+
+## § 2. National recreational passes for law enforcement officers and firefighters
+
+Section 805(b) of the Federal Lands Recreation Enhancement Act (16 U.S.C. 6804(b)) is amended by striking paragraph (3) and inserting the following:
+
+> - **(3)** *Annual passes*
+>   - **(A)** *Definitions* In this paragraph:
+>     - **(i)** *Firefighter* The term firefighter means any employee of the Federal Government, a State, a unit of local government, or an Indian Tribe who performs work directly related to suppressing fires, including wildland fires.
+>     - **(ii)** *Law enforcement officer* The term law enforcement officer means any officer, agent, or employee of the Federal Government, a State, a unit of local government, or an Indian Tribe who is—
+>       - **(I)** authorized by law or by a government agency to engage in or supervise the prevention, detection, or investigation of any violation of criminal law; or
+>       - **(II)** authorized by law to supervise sentenced criminal offenders.
+>   - **(B)** *Availability* The Secretary shall make the National Parks and Federal Recreational Lands Pass available, at no cost, to each member of the Armed Forces and their dependents, and each law enforcement officer or firefighter, who provides adequate proof of eligibility for such pass, as determined by the Secretary.
