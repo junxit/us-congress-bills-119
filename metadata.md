@@ -1,7 +1,7 @@
 ---
 measure: S. 766
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 766
@@ -16,10 +16,11 @@ Billion Dollar Boondoggle Act of 2025
 
 - Sen. Ernst, Joni [R-IA] (E000295)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Sen. Hassan, Margaret Wood [D-NH] (H001076)
 - Sen. Moody, Ashley [R-FL] (M001244)
+- Sen. Rosen, Jacky [D-NV] (R000608)
 
 ## Committees (1)
 
@@ -33,3 +34,5 @@ Billion Dollar Boondoggle Act of 2025
 - 2025-11-03 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Paul without amendment. Without written report.
 - 2025-11-03 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Paul without amendment. Without written report.
 - 2025-11-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 254.
+- 2025-12-11 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8693-8694; text: CR S8693-8694)
+- 2025-12-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
