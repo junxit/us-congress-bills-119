@@ -1,0 +1,31 @@
+---
+legis-num: H.R. 6642
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6642
+
+> To amend title 49, United States Code, to authorize limited operation of commercial motor vehicles for eligible drivers under age 21 in interstate commerce, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Responsible Opportunity for Under-21 Trucking Engagement Act” or the “ROUTE Act”.
+
+## § 2. Limited interstate operation of commercial motor vehicles for drivers under 21
+
+- **(a)** *In general* Chapter 313 of title 49, United States Code, is amended by adding at the end the following:
+  > ## § 31318. Limited interstate operation for drivers under 21
+  >
+  > - **(a)** *Definition of eligible driver* In this section, the term ‘eligible driver’ means an individual who—
+  >   - **(1)** holds a commercial driver’s license limited to intrastate operation of a commercial motor vehicle; and
+  >   - **(2)** is—
+  >     - **(A)** not less than 18 years old; and
+  >     - **(B)** less than 21 years old.
+  > - **(b)** *Limited interstate operation of commercial motor vehicles* Notwithstanding any other provision of law, an eligible driver may operate a commercial motor vehicle in interstate commerce (as defined in section 31132) within a 150 air-mile radius of the normal work reporting location of the eligible driver, subject to the conditions that—
+  >   - **(1)** not more than 14 consecutive hours after departing from that normal work reporting location, the eligible driver returns to that normal work reporting location and is released from work;
+  >   - **(2)** the eligible driver has at least 10 consecutive hours off duty separating each on-duty period described in paragraph (1); and
+  >   - **(3)** the normal work reporting location of the eligible driver remains in the State in which the eligible driver holds a commercial driver’s license described in subsection (a)(1).
+
+- **(b)** *Clerical amendment* The analysis for chapter 313 of title 49, United States Code, is amended by adding at the end the following:
