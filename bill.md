@@ -13,6 +13,16 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Enhancing Science, Treatment, and Upkeep of America’s Resilient and Important Estuarine Systems Act” or the “ESTUARIES Act”.
 
-## § 2. National Estuary Program
+## § 2. National estuary program
 
-Section 320(i)(1) of the Federal Water Pollution Control Act (33 U.S.C. 1330(i)(1)), in the matter preceding subparagraph (A), is amended by striking “2026” and inserting “2031”.
+Section 320 of the Federal Water Pollution Control Act (33 U.S.C. 1330) is amended—
+
+- **(1)** in subsection (a)(2)(B), by striking “and Pensacola and Perdido Bays, Florida” and inserting “Pensacola and Perdido Bays, Florida; and Mississippi Sound, Mississippi”; and
+- **(2)** in subsection (i)(1), in the matter preceding subparagraph (A), by striking “2026” and inserting “2031”.
+
+## § 3. Ineligibility with respect to fiscal years 2025 and 2026
+
+With respect to the amendment made by section 2(1), the Administrator of the Environmental Protection Agency may not use for the implementation of that amendment, including, with respect to Mississippi Sound, Mississippi, convening a management conference, developing or carrying out a comprehensive conservation and management plan, or providing grants under section 320 of the Federal Water Pollution Control Act (33 U.S.C. 1330)—
+
+- **(1)** any amounts appropriated to carry out the national estuary program under that section for fiscal year 2025; or
+- **(2)** unless the total amount appropriated to carry out that program for fiscal year 2026 is at least $850,000 more than the total amount appropriated to carry out that program for fiscal year 2024, any amounts appropriated to carry out that program for fiscal year 2026.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3962
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 1 executed, 0 stated and not applied.
+2 amendatory instructions. 2 executed, 0 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,7 +26,16 @@ to guess them.
 
 ### 33 U.S.C. § 1330
 
-> Section 320(i)(1) of the Federal Water Pollution Control Act (33 U.S.C. 1330(i)(1)), in the matter preceding subparagraph (A), is amended by striking “2026” and inserting “2031”.
+> in subsection (a)(2)(B), by striking “and Pensacola and Perdido Bays, Florida” and inserting “Pensacola and Perdido Bays, Florida; and Mississippi Sound, Mississippi”; and
+
+| | |
+|---|---|
+| Removed | `and Pensacola and Perdido Bays, Florida` |
+| Inserted | `Pensacola and Perdido Bays, Florida; and Mississippi Sound, Mississippi` |
+
+### 33 U.S.C. § 1330
+
+> in subsection (i)(1), in the matter preceding subparagraph (A), by striking “2026” and inserting “2031”.
 
 | | |
 |---|---|
