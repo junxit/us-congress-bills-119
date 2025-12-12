@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “AI for Mainstreet Act”.
+This Act may be cited as the “AI for Main Street Act”.
 
 ## § 2. Guidance on the use of artificial intelligence for small business concerns
 
