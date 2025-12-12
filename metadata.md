@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3668
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3668
@@ -27,6 +27,11 @@ Improving Interagency Coordination for Pipeline Reviews Act
 - House — Energy and Commerce Committee
 - House — Transportation and Infrastructure Committee
 
+## Recorded votes (2)
+
+- 2025-12-12 — [House 119-1-333](votes/house-119-1-0333.md) — On Motion to Recommit — **Failed** (194–204)
+- 2025-12-12 — [House 119-1-334](votes/house-119-1-0334.md) — On Passage — **Passed** (213–184)
+
 ## Actions
 
 - 2025-06-02 — Introduced in House
@@ -43,3 +48,16 @@ Improving Interagency Coordination for Pipeline Reviews Act
 - 2025-09-15 — Placed on the Union Calendar, Calendar No. 253.
 - 2025-09-15 — Reported by the Committee on Energy and Commerce. H. Rept. 119-297, Part I.
 - 2025-09-15 — Reported by the Committee on Energy and Commerce. H. Rept. 119-297, Part I.
+- 2025-11-25 — Supplemental report filed by the Committee on Energy and Commerce, H. Rept. 119-297, Part II.
+- 2025-11-25 — Supplemental report filed by the Committee on Energy and Commerce, H. Rept. 119-297, Part II.
+- 2025-12-09 — Rules Committee Resolution H. Res. 936 Reported to House. Rule provides for consideration of H.R. 3898, H.R. 3383, H.R. 3638, H.R. 3628, H.R. 3668 and S. 1071. The resolution provides for consideration of H.R. 3898, H.R. 3383, H.R. 3638, and H.R. 3628 under a structured rule; and H.R. 3668 and S. 1071 under a closed rule. The resolution provides for one motion to recommit on H.R. 3898, H.R. 3383, H.R. 3638, H.R. 3628, and H.R. 3668; and one motion to commit on S. 1071.
+- 2025-12-12 — Considered under the provisions of rule H. Res. 936. (consideration: CR H5814-5822)
+- 2025-12-12 — DEBATE - The House proceeded with one hour of debate on H.R. 3668.
+- 2025-12-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-12-12 — Mr. Landsman moved to recommit to the Committee on Energy and Commerce. (text: CR H5820)
+- 2025-12-12 — On motion to recommit Failed by the Yeas and Nays: 194 - 204 (Roll no. 333).
+- 2025-12-12 — On passage Passed by the Yeas and Nays: 213 - 184 (Roll no. 334). (text: CR H5814-5816)
+- 2025-12-12 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 213 - 184 (Roll no. 334).
+- 2025-12-12 — Rule provides for consideration of H.R. 3898, H.R. 3383, H.R. 3638, H.R. 3628, H.R. 3668 and S. 1071. The resolution provides for consideration of H.R. 3898, H.R. 3383, H.R. 3638, and H.R. 3628 under a structured rule; and H.R. 3668 and S. 1071 under a closed rule. The resolution provides for one motion to recommit on H.R. 3898, H.R. 3383, H.R. 3638, H.R. 3628, and H.R. 3668; and one motion to commit on S. 1071.
+- 2025-12-12 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2025-12-12 — The previous question was ordered pursuant to the rule.
