@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4638
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4638
@@ -16,7 +16,7 @@ Federal Working Animal Protection Act
 
 - Rep. Calvert, Ken [R-CA-41] (C000059)
 
-## Cosponsors (14)
+## Cosponsors (19)
 
 - Rep. Tenney, Claudia [R-NY-24] (T000478)
 - Rep. Tiffany, Thomas P. [R-WI-7] (T000165)
@@ -32,6 +32,11 @@ Federal Working Animal Protection Act
 - Rep. Rulli, Michael A. [R-OH-6] (R000619)
 - Rep. Williams, Roger [R-TX-25] (W000816)
 - Rep. Bacon, Don [R-NE-2] (B001298)
+- Rep. Stauber, Pete [R-MN-8] (S001212)
+- Rep. LaLota, Nick [R-NY-1] (L000598)
+- Rep. Gill, Brandon [R-TX-26] (G000603)
+- Rep. Crane, Elijah [R-AZ-2] (C001132)
+- Rep. Mace, Nancy [R-SC-1] (M000194)
 
 ## Committees (1)
 
@@ -42,3 +47,9 @@ Federal Working Animal Protection Act
 - 2025-07-23 — Introduced in House
 - 2025-07-23 — Introduced in House
 - 2025-07-23 — Referred to the House Committee on the Judiciary.
+- 2025-11-18 — Committee Consideration and Mark-up Session Held
+- 2025-11-20 — Committee Consideration and Mark-up Session Held
+- 2025-11-20 — Ordered to be Reported (Amended) by the Yeas and Nays: 18 - 12.
+- 2025-12-12 — Placed on the Union Calendar, Calendar No. 355.
+- 2025-12-12 — Reported (Amended) by the Committee on Judiciary. H. Rept. 119-407.
+- 2025-12-12 — Reported (Amended) by the Committee on Judiciary. H. Rept. 119-407.

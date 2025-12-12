@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Bill to Outlaw Wounding of Official Working Animals Act” or the “BOWOW Act”.
+This Act may be cited as the “Bill to Outlaw Wounding of Official Working Animals Act of 2025” or the “BOWOW Act of 2025”.
 
 ## § 2. Inadmissibility and deportability related to harming animals used in law enforcement
 
