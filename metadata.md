@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4183
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4183
@@ -31,3 +31,10 @@ Federal Maritime Commission Reauthorization Act of 2025
 - 2025-06-26 — Introduced in House
 - 2025-06-26 — Introduced in House
 - 2025-06-26 — Referred to the House Committee on Transportation and Infrastructure.
+- 2025-06-27 — Referred to the Subcommittee on Coast Guard and Maritime Transportation.
+- 2025-09-17 — Committee Consideration and Mark-up Session Held
+- 2025-09-17 — Ordered to be Reported (Amended) by Voice Vote.
+- 2025-09-17 — Subcommittee on Coast Guard and Maritime Transportation Discharged
+- 2025-12-12 — Placed on the Union Calendar, Calendar No. 349.
+- 2025-12-12 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 119-401.
+- 2025-12-12 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 119-401.

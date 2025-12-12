@@ -38,9 +38,9 @@ Section 40101 of title 46, United States Code, is amended—
     > - **(A)** an ocean common carrier
 
   - **(4)** by adding at the end the following:
-    > - **(B)** such a carrier that is owned or controlled by, a subsidiary of, or otherwise related legally or financially (other than a minority relationship or investment) to a corporation based in a country—
+    > - **(B)** such a carrier that is owned or controlled by, a subsidiary of, or otherwise related legally or financially (other than a minority relationship or investment) to a corporation based in, headquartered in, or otherwise significantly linked to a country—
     >   - **(i)** identified as a nonmarket economy country (as defined in section 771(18) of the Tariff Act of 1930 (19 U.S.C. 1677(18))) as of the date of enactment of the Federal Maritime Commission Reauthorization Act of 2025;
-    >   - **(ii)** identified by the United States Trade Representative in the most recent report required by section 182 of the Trade Act of 1974 (19 U.S.C. 2242) as a priority foreign country under subsection (a)(2) of that section; or
+    >   - **(ii)** identified by the United States Trade Representative on the priority watch list included in the most recent report required by section 182 of the Trade Act of 1974 (19 U.S.C. 2242) as a priority foreign country under subsection (a)(2) of that section; or
     >   - **(iii)** subject to monitoring by the United States Trade Representative under section 306 of the Trade Act of 1974 (19 U.S.C. 2416).
 
 - **(b)** *Conforming amendment* Section 46106(b)(7) of title 46, United States Code, is amended by striking “ocean common carriers, particularly such carriers that are controlled carriers” and all that follows through the period at the end and inserting “controlled carriers;”.
@@ -121,7 +121,7 @@ Section 41302 of title 46, United States Code, is amended by adding at the end t
     >
     > ## § 42504. National ocean carrier advisory committee
     >
-    > - **(a)** *Establishment* There is established a National Ocean Carrier Advisory Committee (in this section referred to as the Carrier Committee”).
+    > - **(a)** *Establishment* There is established a National Ocean Carrier Advisory Committee (in this section referred to as the “Carrier Committee”).
     > - **(b)** *Membership*
     >   - **(1)** *In general* The Carrier Committee shall consist of 9 members appointed by the Commission in accordance with this section.
     >   - **(2)** *Expertise* Each member of the Carrier Committee shall have particular expertise, knowledge, and experience in matters relating to the function of the Committee.
@@ -142,19 +142,20 @@ Section 41302 of title 46, United States Code, is amended by adding at the end t
     - **(A)** by striking “The Committee” each place it appears except in subsection (k) and inserting “Each covered Committee”;
     - **(B)** in subsection (a) by striking “the Committee” and inserting “each such Committee”;
     - **(C)** in subsections (b), (c), (d), (e), (f), and (j) by striking “the Committee” each place it appears and inserting “a covered Committee”;
-    - **(D)** in subsection (h)—
+    - **(D)** in subsection (f), by striking “the Committee’s” and inserting “a covered Committee’s”;
+    - **(E)** in subsection (h)—
       - **(i)** in paragraph (1)—
         - **(I)** by striking “Chair of the Committee” and inserting “Chair of each covered Committee”; and
         - **(II)** by striking “function of the Committee” and inserting “function of the applicable Committee”; and
       - **(ii)** in paragraph (2) by striking “the Committee” and inserting “each covered Committee”;
-    - **(E)** in subsection (i)—
+    - **(F)** in subsection (i)—
       - **(i)** in paragraph (1) by striking “the Committee if the function of the Committee” and inserting “any relevant covered Committee if the function of such Committee”;
       - **(ii)** in paragraph (2) by striking “the Committee” and inserting “each such Committee”;
       - **(iii)** in paragraph (3)—
         - **(I)** by striking “from the Committee” and inserting “from a covered Committee”; and
         - **(II)** in subparagraph (B) by striking “to the Committee” and inserting “to the submitting Committee”; and
       - **(iv)** in paragraph (4) by striking “from the Committee” and inserting “from a covered Committee”; and
-    - **(F)** in subsection (k) by striking “The Committee” and inserting “The covered Committees”.
+    - **(G)** in subsection (k) by striking “The Committee” and inserting “The covered Committees”.
 
 ## § 12. Annual report and public disclosures
 
@@ -162,10 +163,10 @@ Section 41302 of title 46, United States Code, is amended by adding at the end t
   - **(1)** in paragraph (6)—
     - **(A)** by striking “and” at the end; and
     - **(B)** by striking “under this part” and inserting “under chapter 403”;
-  - **(2)** in paragraph (7)—
+  - **(2)** in paragraph (7), as amended by section 5(b) of this Act—
     - **(A)** by inserting “anticompetitive, nonreciprocal trade, or” before “otherwise concerning practices”;
     - **(B)** by inserting “or marine terminal operators” after “controlled carriers”; and
-    - **(C)** by striking the period at the end and inserting “; and”; and
+    - **(C)** by inserting “and” after the semicolon at the end; and
   - **(3)** by adding at the end the following:
     > - **(8)** an analysis of any trade imbalance resulting from the business practices of ocean common carriers, including an analysis of the data collected under section 41110; and
     > - **(9)** the aggregated findings and results of the Vessel-Operating Common Carrier Audit Program established by the Commission on July 18, 2021, pursuant to the Commission rule interpreting section 41102(c).
@@ -174,7 +175,7 @@ Section 41302 of title 46, United States Code, is amended by adding at the end t
 
 ## § 13. Containerized freight indexes
 
-- **(a)** *In general* Not later than 1 year after the date of enactment of this Act, the Federal Maritime Commission shall promulgate an advance notice of proposed rulemaking on price indexes for containerized ocean freight for shippers (as such term is defined in section 40102 of title 46, United States Code) in the United States published by a shipping exchange registered under section 40504 of title 46, United States Code.
+- **(a)** *In general* Not later than 1 year after the date of enactment of this Act, the Federal Maritime Commission shall promulgate an advance notice of proposed rulemaking on the manner in which data is acquired, used, and protected in developing price indexes for containerized ocean freight for shippers (as such term is defined in section 40102 of title 46, United States Code) in the United States published by a shipping exchange registered under section 40504 of title 46, United States Code.
 - **(b)** *Final rule* Not later than 3 years after the date of enactment of this Act, the Commission shall publish a final rule with respect to the advance notice of proposed rulemaking required under subsection (a).
 
 ## § 14. Technical amendments

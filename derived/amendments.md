@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4183
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-50 amendatory instructions. 1 executed, 49 stated and not applied.
+51 amendatory instructions. 1 executed, 50 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -73,6 +73,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “The Committee” each place it appears except in subsection (k) and inserting “Each covered Committee”; | the bill names no machine-readable US Code section |
 | — | replace | in subsection (a) by striking “the Committee” and inserting “each such Committee”; | the bill names no machine-readable US Code section |
 | — | replace | in subsections (b), (c), (d), (e), (f), and (j) by striking “the Committee” each place it appears and inserting “a covered Committee”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (f), by striking “the Committee’s” and inserting “a covered Committee’s”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “Chair of the Committee” and inserting “Chair of each covered Committee”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “function of the Committee” and inserting “function of the applicable Committee”; and | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2) by striking “the Committee” and inserting “each covered Committee”; | the bill names no machine-readable US Code section |
@@ -86,7 +87,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “under this part” and inserting “under chapter 403”; | the bill names no machine-readable US Code section |
 | — | insert | by inserting “anticompetitive, nonreciprocal trade, or” before “otherwise concerning practices”; | the bill names no machine-readable US Code section |
 | — | insert | by inserting “or marine terminal operators” after “controlled carriers”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “and” after the semicolon at the end; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | Section 46106(d)(2) of title 46, United States Code, is amended by inserting “or marine terminal operator” after “common carrier”. | the bill names no machine-readable US Code section |
 | — | replace | The analysis for subtitle IV of title 46, United States Code, is amended by striking the item relating to chapter 425 and inserting the following: | the bill names no machine-readable US Code section |
