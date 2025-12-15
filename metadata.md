@@ -1,7 +1,7 @@
 ---
 measure: S. 1510
 congress: 119
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 1510
@@ -28,3 +28,7 @@ Civil Rights Cold Case Records Collection Reauthorization Act
 
 - 2025-04-29 — Introduced in Senate
 - 2025-04-29 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2025-12-15 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8708; text: CR S8708)
+- 2025-12-15 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2025-12-15 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2025-12-15 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
