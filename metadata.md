@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3638
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3638
@@ -21,9 +21,10 @@ Electric Supply Chain Act
 - Rep. Dunn, Neal P. [R-FL-2] (D000628)
 - Rep. Wittman, Robert J. [R-VA-1] (W000804)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -83,3 +84,4 @@ Electric Supply Chain Act
 - 2025-12-11 — Motion to reconsider laid on the table Agreed to without objection.
 - 2025-12-11 — On passage Passed by the Yeas and Nays: 267 - 159 (Roll no. 324).
 - 2025-12-11 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 267 - 159 (Roll no. 324).
+- 2025-12-15 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
