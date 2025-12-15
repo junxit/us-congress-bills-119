@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 66
 congress: 119
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 66
@@ -25,3 +25,4 @@ Directing the Secretary of the Senate to make a correction in the enrollment of 
 - 2025-12-11 — Mr. Rogers (AL) asked unanimous consent to consider as introduced.
 - 2025-12-11 — On agreeing to the resolution Agreed to without objection. (text: CR H5802)
 - 2025-12-11 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection. (text: CR H5802)
+- 2025-12-15 — Received in the Senate.
