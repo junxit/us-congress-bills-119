@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3898
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3898
@@ -27,9 +27,10 @@ PERMIT Act
 - Rep. Crawford, Eric A. "Rick" [R-AR-1] (C001087)
 - Rep. Taylor, David J. [R-OH-2] (T000490)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (2)
 
@@ -101,3 +102,4 @@ PERMIT Act
 - 2025-12-11 — The Speaker designated the Honorable Addison P. McDowell to act as Chairman of the Committee.
 - 2025-12-11 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2025-12-11 — The previous question was ordered pursuant to the rule.
+- 2025-12-15 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
