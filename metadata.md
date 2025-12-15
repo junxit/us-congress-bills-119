@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3872
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3872
@@ -38,3 +38,9 @@ To amend the Mineral Leasing Act for Acquired Lands to make that Act applicable 
 - 2025-10-31 — Placed on the Union Calendar, Calendar No. 309.
 - 2025-10-31 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-357.
 - 2025-10-31 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-357.
+- 2025-12-15 — Considered under suspension of the rules. (consideration: CR H5884-5885)
+- 2025-12-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3872.
+- 2025-12-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-12-15 — Mr. Stauber moved to suspend the rules and pass the bill, as amended.
+- 2025-12-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5884)
+- 2025-12-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5884)
