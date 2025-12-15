@@ -20,8 +20,9 @@ Congress finds the following:
 - **(1)** Small and large employers offer health benefit plan coverage to employees in self-funded arrangements using company assets or a fund, or by paying premiums to purchase fully-insured coverage from a health insurance company.
 - **(2)** Employers that self-fund health benefit plans will often purchase stop-loss insurance as a financial risk management tool to protect against excess or unexpected catastrophic health plan claims losses that arise above projected costs paid out of company assets.
 - **(3)** Stop-loss coverage insures the employer sponsoring the health benefit plan against unforeseen health plan claims, does not insure the employee health benefit plan itself, and does not pay health care providers for medical services provided to the employees.
-- **(4)** Employer-sponsored health benefit plans are regulated under the Employee Retirement Income Security Act of 1974, however, States regulate the availability and the coverage terms of stop-loss insurance coverage that employers purchase to protect company assets and to protect a fund against excess or unexpected claims losses.
-- **(5)** Both large and small employers that choose to self-fund must also be able to protect company assets or a fund against excess or unexpected claims losses and States must reasonably regulate stop-loss insurance to assure its availability to both large and small employers.
+- **(4)** Employer-sponsored health benefit plans are regulated under the Employee Retirement Income Security Act of 1974.
+- **(5)** However, States regulate the availability and the coverage terms of stop-loss insurance coverage that employers purchase to protect company assets and to protect a fund from excess or unexpected claims losses.
+- **(6)** Both large and small employers that choose to self-fund must also be able to protect company assets or a fund against excess or unexpected claims losses and States must reasonably regulate stop-loss insurance to assure its availability to both large and small employers.
 
 ## § 3. Certain medical stop-loss insurance obtained by certain plan sponsors of group health plans not included under the definition of health insurance coverage
 
