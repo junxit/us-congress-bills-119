@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3668
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3668
@@ -22,10 +22,11 @@ Improving Interagency Coordination for Pipeline Reviews Act
 - Rep. Dunn, Neal P. [R-FL-2] (D000628)
 - Rep. Lawler, Michael [R-NY-17] (L000599)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (2)
 
@@ -61,3 +62,4 @@ Improving Interagency Coordination for Pipeline Reviews Act
 - 2025-12-12 — Rule provides for consideration of H.R. 3898, H.R. 3383, H.R. 3638, H.R. 3628, H.R. 3668 and S. 1071. The resolution provides for consideration of H.R. 3898, H.R. 3383, H.R. 3638, and H.R. 3628 under a structured rule; and H.R. 3668 and S. 1071 under a closed rule. The resolution provides for one motion to recommit on H.R. 3898, H.R. 3383, H.R. 3638, H.R. 3628, and H.R. 3668; and one motion to commit on S. 1071.
 - 2025-12-12 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2025-12-12 — The previous question was ordered pursuant to the rule.
+- 2025-12-15 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
