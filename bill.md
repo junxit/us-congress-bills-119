@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Federal Supervisor Education Act of 2025”.
+This Act may be cited as the “Federal Supervisor Education Act”.
 
 ## § 2. Mandatory training programs for supervisors
 
@@ -33,7 +33,7 @@ This Act may be cited as the “Federal Supervisor Education Act of 2025”.
   >       - **(iii)** mentoring and coaching employees and improving employee engagement, performance, and productivity;
   >       - **(iv)** fostering a work environment characterized by fairness, respect, equal opportunity, and attention paid to the merit of the work of employees;
   >       - **(v)** effectively managing employees with unacceptable performance, including training to understand the disciplinary options and procedures available to the supervisor;
-  >       - **(vi)** effectively using the probationary period to examine whether an employee has demonstrated successful performance or conduct to continue past the probationary period, and to assess the needs and interests of the agency with respect to the probationary employee’s final appointment;
+  >       - **(vi)** effectively using the probationary period to examine whether an employee has demonstrated successful performance or conduct to continue past the probationary period;
   >       - **(vii)** addressing reports of a hostile work environment, retaliation, or harassment of, or by, another supervisor or employee;
   >       - **(viii)** meeting supervisor competencies established by the Office of Personnel Management or the employing agency of the supervisor; and
   >       - **(ix)** collaborating with human resources employees to recruit, select, appraise, and reward employees to build a workforce based on organizational goals, budget considerations, and staffing needs;
@@ -54,7 +54,7 @@ This Act may be cited as the “Federal Supervisor Education Act of 2025”.
   > - **(e)** *Information on developmental opportunities* An agency shall make available, in a manner that may be determined by the Director of the Office of Personnel Management, to each supervisor—
   >   - **(1)** a detailed list of developmental opportunities available to the supervisor; and
   >   - **(2)** the policies of the agency for requiring supervisor development.
-  > - **(f)** *Regulations* Not later than 1 year after the date of enactment of the Federal Supervisor Education Act of 2025, and notwithstanding section 4118(c), the Director of the Office of Personnel Management shall prescribe regulations to carry out this section, including the monitoring of agency compliance with this section. Regulations prescribed under this subsection shall include measures by which to assess the effectiveness of agency supervisor training programs.
+  > - **(f)** *Regulations* Not later than 1 year after the date of enactment of the Federal Supervisor Education Act, and notwithstanding section 4118(c), the Director of the Office of Personnel Management shall prescribe regulations to carry out this section, including the monitoring of agency compliance with this section. Regulations prescribed under this subsection shall include measures by which to assess the effectiveness of agency supervisor training programs.
 
 - **(b)** *Regulations* Not later than 1 year after the date of the enactment of this Act, the Director of the Office of Personnel Management shall prescribe regulations under section 4121(f) of title 5, United States Code, as amended by subsection (a) of this section.
 - **(c)** *Effective date and application*
