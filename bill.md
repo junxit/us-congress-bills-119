@@ -1,0 +1,41 @@
+---
+legis-num: H.R. 6727
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6727
+
+> To amend title XIX of the Social Security Act to remove the exclusion from medical assistance under the Medicaid program of items and services for patients in an institution for mental diseases, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Repealing the IMD Exclusion Act”.
+
+## § 2. Removal of age exclusion from medical assistance of items and services for patients in an institution for mental diseases
+
+- **(a)** *In general* Section 1905(a) of the Social Security Act (42 U.S.C. 1396d(a)) is amended, in the first sentence, in the matter following paragraph (32)—
+  - **(1)** by striking “such term does not include—” and all that follows through “(A) any” and inserting “such term does not include any”;
+  - **(2)** by striking “; or” and inserting a period; and
+  - **(3)** by striking subparagraph (B).
+- **(b)** *Conforming amendments To permit medical assistance for IMD patients under 65 years of age* Title XIX of the Social Security Act (42 U.S.C. 1396a et seq.) is amended—
+  - **(1)** in section 1902(a)—
+    - **(A)** in paragraph (20)—
+      - **(i)** in the matter preceding subparagraph (A), by striking “65 years of age or older”; and
+      - **(ii)** in subparagraph (C), by striking “65 years of age or older”; and
+    - **(B)** in paragraph (21) by striking “65 years of age or older”;
+  - **(2)** in section 1905(a)(14), by striking “65 years of age or over”; and
+  - **(3)** in section 1919(e)(7)(B)(i)(I), by striking “65 years of age or older”.
+
+## § 3. Required standards for IMDs
+
+Section 1905(i) of the Social Security Act (42 U.S.C. 1396d(i)) is amended to read as follows:
+
+> - **(i)** *Institution for mental diseases* The term institution for mental diseases means a hospital, nursing facility, or other institution that—
+>   - **(1)** is primarily engaged in providing diagnosis, treatment, or care of persons with mental diseases, including medical attention, nursing care, and related services; and
+>   - **(2)** meets nationally recognized, evidence-based standards for mental health programs (and, in the case of an institution for mental diseases that provides treatment for substance use disorders, meets nationally recognized, evidence-based standards for substance use disorder programs, such as the latest standards set forth by the American Society of Addiction Medicine), approved by the Secretary, including standards that establish the types of services offered, hours of clinical care, and staffing credentials for such an institution, and any other standards as the Secretary may require.
+
+## § 4. Effective date
+
+The amendments made by this Act shall take effect 180 days after the date of enactment of this Act and shall apply to State plans beginning on such date.
