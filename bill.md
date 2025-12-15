@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 4183
 
-> To authorize appropriations for the Federal Maritime Commission for fiscal years 2026 through 2029, and for other purposes.
+> To authorize appropriations for the Federal Maritime Commission for fiscal years 2026 through 2027, and for other purposes.
 
 ## § 1. Short title
 
@@ -19,7 +19,7 @@ The table of contents for this Act is as follows:
 
 ## § 3. Authorization of appropriations
 
-Section 46108 of title 46, United States Code, is amended by striking “$32,869,000 for fiscal year 2022, $38,260,000 for fiscal year 2023, $43,720,000 for fiscal year 2024, and $49,200,000 for fiscal year 2025” and inserting “$49,200,000 for fiscal year 2026, $51,660,000 for fiscal year 2027, $54,243,000 for fiscal year 2028, and $57,016,000 for fiscal year 2029”.
+Section 46108 of title 46, United States Code, is amended by striking “$32,869,000 for fiscal year 2022, $38,260,000 for fiscal year 2023, $43,720,000 for fiscal year 2024, and $49,200,000 for fiscal year 2025” and inserting “$49,200,000 for fiscal year 2026, and $49,200,000 for fiscal year 2027”.
 
 ## § 4. Purposes
 

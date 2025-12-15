@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4183
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4183
@@ -38,3 +38,10 @@ Federal Maritime Commission Reauthorization Act of 2025
 - 2025-12-12 — Placed on the Union Calendar, Calendar No. 349.
 - 2025-12-12 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 119-401.
 - 2025-12-12 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 119-401.
+- 2025-12-15 — Considered under suspension of the rules. (consideration: CR H5869-5872)
+- 2025-12-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4183.
+- 2025-12-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-12-15 — Mr. Johnson (SD) moved to suspend the rules and pass the bill, as amended.
+- 2025-12-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5869-6871)
+- 2025-12-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5869-6871)
+- 2025-12-15 — The title of the measure was amended. Agreed to without objection.
