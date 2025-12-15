@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3628
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3628
@@ -20,9 +20,10 @@ State Planning for Reliability and Affordability Act
 
 - Rep. Langworthy, Nicholas A. [R-NY-23] (L000600)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -56,3 +57,4 @@ State Planning for Reliability and Affordability Act
 - 2025-12-11 — Motion to reconsider laid on the table Agreed to without objection.
 - 2025-12-11 — On passage Passed by the Yeas and Nays: 218 - 207 (Roll no. 323).
 - 2025-12-11 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 218 - 207 (Roll no. 323).
+- 2025-12-15 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
