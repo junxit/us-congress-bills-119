@@ -1,7 +1,7 @@
 ---
 measure: S. 550
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 550
@@ -32,3 +32,5 @@ A bill to provide for the equitable settlement of certain Indian land disputes r
 - 2025-10-14 — Committee on Indian Affairs. Reported by Senator Murkowski without amendment. With written report No. 119-76.
 - 2025-10-14 — Committee on Indian Affairs. Reported by Senator Murkowski without amendment. With written report No. 119-76.
 - 2025-10-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 185.
+- 2025-12-15 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8747; text: CR S8747)
+- 2025-12-15 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
