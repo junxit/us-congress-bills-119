@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3176
 congress: 119
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -35,12 +35,12 @@ to guess them.
 
 ### 43 U.S.C. § 31k
 
-> by striking “2019 through 2023” and inserting “2026 through 2030”; and
+> by striking “2019 through 2023” and inserting “2026 through 2029”; and
 
 | | |
 |---|---|
 | Removed | `2019 through 2023` |
-| Inserted | `2026 through 2030` |
+| Inserted | `2026 through 2029` |
 
 ### 43 U.S.C. § 31k
 
@@ -53,9 +53,9 @@ to guess them.
 
 ### 43 U.S.C. § 31k
 
-> by striking “2023 through 2024” and inserting “2026 through 2030”.
+> by striking “such sums as may be necessary for the period of fiscal years 2023 through 2024” and inserting “$470,000 for each of fiscal years 2026 through 2029”.
 
 | | |
 |---|---|
-| Removed | `2023 through 2024` |
-| Inserted | `2026 through 2030` |
+| Removed | `such sums as may be necessary for the period of fiscal years 2023 through 2024` |
+| Inserted | `$470,000 for each of fiscal years 2026 through 2029` |

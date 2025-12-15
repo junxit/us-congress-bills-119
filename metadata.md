@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3176
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3176
@@ -33,3 +33,9 @@ To amend the John D. Dingell, Jr. Conservation, Management, and Recreation Act t
 - 2025-09-15 — Placed on the Union Calendar, Calendar No. 247.
 - 2025-09-15 — Reported by the Committee on Natural Resources. H. Rept. 119-291.
 - 2025-09-15 — Reported by the Committee on Natural Resources. H. Rept. 119-291.
+- 2025-12-15 — Considered under suspension of the rules. (consideration: CR H5882-5883)
+- 2025-12-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3176.
+- 2025-12-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-12-15 — Mr. Stauber moved to suspend the rules and pass the bill, as amended.
+- 2025-12-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5882)
+- 2025-12-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5882)
