@@ -18,7 +18,7 @@ This Act may be cited as the “Association Health Plans Act”.
 - **(a)** *In general* Section 3(5) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1002(5)) is amended—
   - **(1)** by striking “The term” and inserting “(A) The term”; and
   - **(2)** by adding at the end the following:
-    > - **(B)** For purposes of subparagraph (A), a group or association of employers shall be treated as an “employer”, regardless of whether the employers composing such group or association are in the same industry, trade, or profession, if such group or association—
+    > - **(B)** For purposes of subparagraph (A), a group or association of employers shall be treated as an “employer” solely for purposes of sponsoring a group health plan, regardless of whether the employers composing such group or association are in the same industry, trade, or profession, if such group or association—
     >   - **(i)**
     >     - **(I)** has established and maintains an employee welfare benefit plan that is a group health plan (as defined in section 733(a)(1));
     >     - **(II)** provides coverage under such plan to at least 51 employees after all of the employees employed by all of the employer members of such group or association have been aggregated and counted together as described in subparagraph (D);
@@ -27,7 +27,7 @@ This Act may be cited as the “Association Health Plans Act”.
     >     - **(V)** does not condition membership in the group or association on any health status-related factor (as described in section 702(a)(1)) relating to any individual;
     >     - **(VI)** makes coverage under such plan available to all employer members of such group or association regardless of any health status-related factor (as described in section 702(a)(1)) relating to such employer members;
     >     - **(VII)** does not provide coverage under such plan to any individual other than an employee of an employer member of such group or association;
-    >     - **(VIII)** has established a governing board with by-laws or other similar indications of formality to manage and operate such plan in both form and substance, of which at least 75 percent of the board members shall be made up of employer members of such group or association participating in the plan that are duly elected by each participating employer member casting 1 vote during a scheduled election;
+    >     - **(VIII)** has established a governing board with by-laws or other similar indications of formality to manage and operate such plan in both form and substance, of which at least 75 percent of the board members shall be made up of employer members of such group or association participating in the plan that are duly elected by each participating employer member casting 1 vote during a scheduled election; and
     >     - **(IX)** is not a health insurance issuer (as defined in section 733(b)(2)), and is not owned or controlled by such a health insurance issuer or by a subsidiary or affiliate of such a health insurance issuer, other than to the extent such a health insurance issuer may participate in the group or association as a member;
     >   - **(ii)** is structured in good faith with any set of criteria to qualify for such treatment in any advisory opinion issued prior to the date of enactment of the Association Health Plans Act; or
     >   - **(iii)** meets any other set of criteria to qualify for such treatment that the Secretary by regulation may provide.
@@ -55,27 +55,28 @@ This Act may be cited as the “Association Health Plans Act”.
 
 ## § 3. Rules applicable to employee welfare benefit plans established and maintained by a group or association of employers
 
-Part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1181, et seq.) is amended by adding at the end the following:
+- **(a)** *In general* Part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1181, et seq.) is amended by adding at the end the following:
+  > ## § 736. Rules applicable to employee welfare benefit plans established and maintained by a group or association of employers
+  >
+  > - **(a)** *Premium rates for a group or association of employers*
+  >   - **(1)**
+  >     - **(A)** In the case of an employee welfare benefit plan established and maintained by a group or association of employers described in section 3(5)(B), such plan may, to the extent not prohibited under State law—
+  >       - **(i)** establish base premium rates formed on an actuarially sound, modified community rating methodology that considers the pooling of all plan participant claims; and
+  >       - **(ii)** utilize the specific risk profile of each employer member of such group or association to determine contribution rates for each such employer member’s share of a premium by actuarially adjusting above or below the established base premium rates.
+  >     - **(B)** For purposes of paragraph (1), the term “employer member” means—
+  >       - **(i)** an employer who is a member of such group or association of employers and employs at least 1 common law employee; or
+  >       - **(ii)** a group made up solely of self-employed individuals, within which all of the self-employed individual members of such group or association are aggregated together as a single employer member group, provided the group includes at least 20 self-employed individual members.
+  >   - **(2)** In the event a group or association is made up solely of self-employed individuals (and no employers with at least 1 common law employee are members of such group or association), the employee welfare benefit plan established by such group or association shall—
+  >     - **(A)** treat all self-employed individuals who are members of such group or association as a single risk pool;
+  >     - **(B)** pool all plan participant claims; and
+  >     - **(C)** charge each plan participant the same premium rate.
+  > - **(b)** *Discrimination and pre-Existing condition protections* An employee welfare benefit plan established and maintained by a group or association of employers described in section 3(5)(B) shall be prohibited from—
+  >   - **(1)** establishing any rule for eligibility (including continued eligibility) of any individual (including an employee of an employer member or a self-employed individual, or a dependent of such employee or self-employed individual) to enroll for benefits under the terms of the plan that discriminates based on any health status-related factor that relates to such individual (consistent with the rules under section 702(a)(1));
+  >   - **(2)** requiring an individual (including an employee of an employer member or a self-employed individual, or a dependent of such employee or self-employed individual), as a condition of enrollment or continued enrollment under the plan, to pay a premium or contribution that is greater than the premium or contribution for a similarly situated individual enrolled in the plan based on any health status-related factor that relates to such individual (consistent with the rules under section 702(b)(1)); and
+  >   - **(3)** denying coverage under such plan on the basis of a pre-existing condition (consistent with the rules under section 2704 of the Public Health Service Act).
 
-> ## § 736. Rules applicable to employee welfare benefit plans established and maintained by a group or association of employers
->
-> - **(a)** *Premium rates for a group or association of employers*
->   - **(1)**
->     - **(A)** In the case of an employee welfare benefit plan established and maintained by a group or association of employers described in section 3(5)(B), such plan may, to the extent not prohibited under State law—
->       - **(i)** establish base premium rates formed on an actuarially sound, modified community rating methodology that considers the pooling of all plan participant claims; and
->       - **(ii)** utilize the specific risk profile of each employer member of such group or association to determine contribution rates for each such employer member’s share of a premium by actuarially adjusting above or below the established base premium rates.
->     - **(B)** For purposes of paragraph (1), the term “employer member” means—
->       - **(i)** an employer who is a member of such group or association of employers and employs at least 1 common law employee; or
->       - **(ii)** a group made up solely of self-employed individuals, within which all of the self-employed individual members of such group or association are aggregated together as a single employer member group, provided the group includes at least 20 self-employed individual members.
->   - **(2)** In the event a group or association is made up solely of self-employed individuals (and no employers with at least 1 common law employee are members of such group or association), the employee welfare benefit plan established by such group or association shall—
->     - **(A)** treat all self-employed individuals who are members of such group or association as a single risk pool;
->     - **(B)** pool all plan participant claims; and
->     - **(C)** charge each plan participant the same premium rate.
-> - **(b)** *Discrimination and pre-Existing condition protections* An employee welfare benefit plan established and maintained by a group or association of employers described in section 3(5)(B) shall be prohibited from—
->   - **(1)** establishing any rule for eligibility (including continued eligibility) of any individual (including an employee of an employer member or a self-employed individual, or a dependent of such employee or self-employed individual) to enroll for benefits under the terms of the plan that discriminates based on any health status-related factor that relates to such individual (consistent with the rules under section 702(a)(1));
->   - **(2)** requiring an individual (including an employee of an employer member or a self-employed individual, or a dependent of such employee or self-employed individual), as a condition of enrollment or continued enrollment under the plan, to pay a premium or contribution that is greater than the premium or contribution for a similarly situated individual enrolled in the plan based on any health status-related factor that relates to such individual (consistent with the rules under section 702(b)(1)); and
->   - **(3)** denying coverage under such plan on the basis of a pre-existing condition (consistent with the rules under section 2704 of the Public Health Service Act).
+- **(b)** *Clerical amendment* The table of contents in section 1 of such Act is amended by inserting after the item relating to section 734 the following new items:
 
 ## § 4. Rule of construction
 
-Nothing in this Act shall be construed to exempt a group health plan which is an employee welfare benefit plan offered through a group or association of employers from the requirements of part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1181 et. seq.), including the provisions of part A of title XXVII of the Public Health Service Act as incorporated by reference into this Act through section 715.
+Nothing in this Act shall be construed to exempt a group health plan which is an employee welfare benefit plan offered through a group or association of employers from the requirements of part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1181 et. seq.), including the provisions of part A of title XXVII of the Public Health Service Act as incorporated by reference into the Employee Retirement Income Security Act of 1974 through section 715 of such Act.

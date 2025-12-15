@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2528
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 1 executed, 2 stated and not applied.
+4 amendatory instructions. 1 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -44,3 +44,4 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `26 U.S.C. § 3121` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `29 U.S.C. § 1181` | add-at-end | Part 7 of subtitle B of title I of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1181, et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 1181` | insert | The table of contents in section 1 of such Act is amended by inserting after the item relating to section 734 the following new items: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
