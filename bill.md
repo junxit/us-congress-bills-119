@@ -62,7 +62,7 @@ In this Act:
   - **(2)** the Administrator;
   - **(3)** the Comptroller General of the United States;
   - **(4)** the Committee on Homeland Security and Governmental Affairs of the Senate; and
-  - **(5)** the Committee on Oversight and Accountability of the House of Representatives.
+  - **(5)** the Committee on Oversight and Government Reform of the House of Representatives.
 - **(e)** *Consultation* In order to ensure the utility and standardization of the comprehensive assessment of each agency, including to support the development of each plan and the report required under section 4(e)(2), the Director, in consultation with the Administrator, shall share information, best practices, and recommendations relating to the activities performed in the course of a comprehensive assessment of an agency.
 - **(f)** *Intelligence community* For each element of the intelligence community, a comprehensive assessment described under subsection (a) shall be—
   - **(1)** conducted separately;
@@ -102,11 +102,11 @@ In this Act:
   - **(8)** include any additional information, data, or analysis determined necessary by the Chief Information Officer, or other equivalent official, of the agency.
 - **(c)** *Support* The Chief Information Officer, or other equivalent official, of an agency may request support from the Director and the Administrator for any analysis or developmental needs to create the plan of the agency.
 - **(d)** *Agency submission*
-  - **(1)** *In general* Not later than 1 year after the date on which the head of an agency submits the comprehensive assessment pursuant to section 3(d), the head of the agency shall submit to the Director, the Committee on Homeland Security and Governmental Affairs of the Senate, and the Committee on Oversight and Accountability of the House of Representatives the plan of the agency.
+  - **(1)** *In general* Not later than 1 year after the date on which the head of an agency submits the comprehensive assessment pursuant to section 3(d), the head of the agency shall submit to the Director, the Committee on Homeland Security and Governmental Affairs of the Senate, and the Committee on Oversight and Government Reform of the House of Representatives the plan of the agency.
   - **(2)** *Intelligence community* Not later than 1 year after the date on which the head of an element of the intelligence community submits the summary assessment pursuant to section 3(f)(4), the head of the element shall separately submit the plan of the element to the Director, the Select Committee on Intelligence of the Senate, and the Permanent Select Committee on Intelligence of the House of Representatives.
 - **(e)** *Consultation and coordination* The Director—
   - **(1)** in coordination with the Administrator, the Chief Information Officers Council, the Chief Acquisition Officers Council, the Chief Data Officers Council, the Chief Financial Officers Council, and other government and industry representatives identified by the Director, shall establish processes, using existing reporting functions, as appropriate, to identify, define, and harmonize common definitions, terms and conditions, standardized requirements, and other information and criteria to support agency heads in developing and implementing the plans required by this section; and
-  - **(2)** in coordination with the Administrator, and not later than 2 years after the date of enactment of this Act, submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Accountability of the House of Representatives a report detailing recommendations to leverage Government procurement policies and practices with respect to software acquired by, developed by, deployed within, or in use at 1 or more agencies to—
+  - **(2)** in coordination with the Administrator, and not later than 2 years after the date of enactment of this Act, submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives a report detailing recommendations to leverage Government procurement policies and practices with respect to software acquired by, developed by, deployed within, or in use at 1 or more agencies to—
     - **(A)** increase the interoperability of software licenses, including software entitlements and software built by Government agencies;
     - **(B)** consolidate licenses, as appropriate;
     - **(C)** reduce costs;
@@ -115,7 +115,7 @@ In this Act:
 
 ## § 5. GAO report
 
-Not later than 3 years after the date of enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Accountability of the House of Representatives a report on—
+Not later than 3 years after the date of enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform of the House of Representatives a report on—
 
 - **(1)** Government-wide trends in agency software asset management practices;
 - **(2)** comparisons of software asset management practices among agencies;
