@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1098
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1098
@@ -34,3 +34,9 @@ To reauthorize the Junior Duck Stamp Conservation and Design Program Act of 1994
 - 2025-12-09 — Placed on the Union Calendar, Calendar No. 345.
 - 2025-12-09 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-396.
 - 2025-12-09 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-396.
+- 2025-12-15 — Considered under suspension of the rules. (consideration: CR H5885-5886)
+- 2025-12-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1098.
+- 2025-12-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-12-15 — Mr. Stauber moved to suspend the rules and pass the bill, as amended.
+- 2025-12-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5886)
+- 2025-12-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5886)

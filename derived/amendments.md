@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1098
 congress: 119
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 1 executed, 2 stated and not applied.
+4 amendatory instructions. 1 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,7 +26,7 @@ to guess them.
 
 ### 16 U.S.C. § 719c
 
-> Section 6 of the Junior Duck Stamp Conservation and Design Program Act of 1994 (16 U.S.C. 719c) is amended in subsection (a) by striking “2006 through 2010” and inserting “2025 through 2031”.
+> in subsection (a), by striking “2006 through 2010” and inserting “2025 through 2031”; and
 
 | | |
 |---|---|
@@ -44,3 +44,4 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `16 U.S.C. § 719b-1` | insert | by inserting “and” after “Guam,”; and | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 719b-1` | strike | by striking “, and any other territory or possession” after “Virgin Islands”. | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 719c` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
