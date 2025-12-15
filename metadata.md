@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1045
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1045
@@ -44,3 +44,9 @@ Utah Wildfire Research Institute Act of 2025
 - 2025-09-15 — Placed on the Union Calendar, Calendar No. 236.
 - 2025-09-15 — Reported by the Committee on Natural Resources. H. Rept. 119-280, Part I.
 - 2025-09-15 — Reported by the Committee on Natural Resources. H. Rept. 119-280, Part I.
+- 2025-12-15 — Considered under suspension of the rules. (consideration: CR H5876-5878)
+- 2025-12-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1045.
+- 2025-12-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-12-15 — Mr. Stauber moved to suspend the rules and pass the bill.
+- 2025-12-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5876-5877)
+- 2025-12-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5876-5877)
