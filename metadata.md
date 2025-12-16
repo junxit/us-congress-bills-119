@@ -1,7 +1,7 @@
 ---
 measure: S. 865
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 865
@@ -32,3 +32,5 @@ Lobbying Disclosure Improvement Act
 - 2025-11-03 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Paul without amendment. Without written report.
 - 2025-11-03 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Paul without amendment. Without written report.
 - 2025-11-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 258.
+- 2025-12-16 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8794; text: CR S8794)
+- 2025-12-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
