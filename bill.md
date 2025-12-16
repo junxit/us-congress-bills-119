@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 6762
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6762
+
+> To prohibit the Secretary of Homeland Security from implementing any policy that would require the personal approval of the Secretary of any expenditure of the Federal Emergency Management Agency of $100,000 or more, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “FEMA Administrative Reform Act”.
+
+## § 2. FEMA administrative reform
+
+Notwithstanding any other provision of law, the Secretary of Homeland Security may not implement any policy that would require the personal approval of the Secretary of any expenditure of the Federal Emergency Management Agency of more than $100,000 for disaster-related costs.
