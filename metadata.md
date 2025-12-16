@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1045
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1045
@@ -22,10 +22,11 @@ Utah Wildfire Research Institute Act of 2025
 - Rep. Moore, Blake D. [R-UT-1] (M001213)
 - Rep. Maloy, Celeste [R-UT-2] (M001228)
 
-## Committees (2)
+## Committees (3)
 
 - House — Agriculture Committee
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ Utah Wildfire Research Institute Act of 2025
 - 2025-12-15 — Mr. Stauber moved to suspend the rules and pass the bill.
 - 2025-12-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5876-5877)
 - 2025-12-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5876-5877)
+- 2025-12-16 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
