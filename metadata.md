@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3872
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3872
@@ -21,9 +21,10 @@ To amend the Mineral Leasing Act for Acquired Lands to make that Act applicable 
 - Rep. Moran, Nathaniel [R-TX-1] (M001224)
 - Rep. Harrigan, Pat [R-NC-10] (H001101)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ To amend the Mineral Leasing Act for Acquired Lands to make that Act applicable 
 - 2025-12-15 — Mr. Stauber moved to suspend the rules and pass the bill, as amended.
 - 2025-12-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5884)
 - 2025-12-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5884)
+- 2025-12-16 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
