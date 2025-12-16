@@ -22,7 +22,7 @@ The Post-Katrina Emergency Management Reform Act of 2006 (Public Law 109–295; 
 - **(a)** *Covered period defined* In this section, the term covered period means—
   - **(1)** with respect to an initial report required under subsection (b), the period between the date of enactment of this Act and the date of the report; and
   - **(2)** with respect to any succeeding report required under subsection (b), the period between the date of the most recent report and the succeeding report.
-- **(b)** *Requirement* Not later than 540 days after the date of enactment of this Act, and annually thereafter until the date that is 5 years thereafter, the Secretary of Homeland Security shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that—
+- **(b)** *Requirement* Not later than 2 years after the date of enactment of this Act, and annually thereafter until the date that is 5 years thereafter, the Secretary of Homeland Security shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that—
   - **(1)** reviews how the repeal under section 2 has—
     - **(A)** prevented waste, fraud, and abuse; and
     - **(B)** promoted taxpayer savings; and
