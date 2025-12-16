@@ -1,7 +1,7 @@
 ---
 measure: S. 612
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `25 U.S.C. § 4355` | redesignate | by redesignating section 6 (25 U.S.C. 4355) as section 7; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `25 U.S.C. § 4354` | insert | by inserting after section 5 (25 U.S.C. 4354) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | redesignate | by redesignating section 6 (25 U.S.C. 4355) as section 7; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after section 5 (25 U.S.C. 4354) the following: | the bill names no machine-readable US Code section |
