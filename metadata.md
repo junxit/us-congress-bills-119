@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3187
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3187
@@ -45,3 +45,4 @@ To require the Secretary of Agriculture to convey a parcel of property of the Fo
 - 2025-12-15 — Mr. Stauber moved to suspend the rules and pass the bill, as amended.
 - 2025-12-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 388 - 0 (Roll no. 336). (text: CR H5883)
 - 2025-12-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 388 - 0 (Roll no. 336). (text: CR H5883)
+- 2025-12-16 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 295.
