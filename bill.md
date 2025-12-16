@@ -20,6 +20,6 @@ In this Act, the term anti-trafficking recommendations means the recommendations
 ## § 3. Continued implementation of anti-trafficking programs for children
 
 - **(a)** *In general* The Office for Victims of Crime of the Department of Justice, in coordination with the Office on Trafficking in Persons of the Administration for Children and Families, shall continue implementing the anti-trafficking recommendations by—
-  - **(1)** working together, in accordance with the leading collaboration practices referenced in GAO–24-106038, to develop and implement strategies to prevent child trafficking and support child trafficking survivors; and
+  - **(1)** working together, in accordance with the leading collaboration practices referenced in GAO–24–106038, to develop and implement strategies to prevent child trafficking and support child trafficking survivors; and
   - **(2)** establishing achievable performance goals and targets for anti-trafficking programs for children that reflect leading practices, such as being objective, measurable, and quantifiable, using baseline data from program grantees.
 - **(b)** *Report* Not later than 180 days after the date of the enactment of this Act, the Director of the Office for Victims of Crime shall submit a report to the Committee on the Judiciary of the Senate and Committee on the Judiciary of the House of Representatives that explicitly describes the steps taken pursuant to subsection (a).
