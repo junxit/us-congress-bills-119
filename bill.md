@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 4371
 
-> To amend the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008 to enhance efforts to combat the trafficking of children.
+> To amend the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008 and the Homeland Security Act of 2002 to enhance efforts to combat the trafficking of children.
 
 ## § 1. Short title
 
