@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3962
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3962
@@ -45,9 +45,10 @@ ESTUARIES Act
 - Rep. Pallone, Frank [D-NJ-6] (P000034)
 - Rep. Menendez, Robert [D-NJ-8] (M001226)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -67,3 +68,4 @@ ESTUARIES Act
 - 2025-12-15 — Mr. Johnson (SD) moved to suspend the rules and pass the bill, as amended.
 - 2025-12-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5872)
 - 2025-12-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5872)
+- 2025-12-16 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
