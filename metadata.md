@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1098
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1098
@@ -20,9 +20,10 @@ To reauthorize the Junior Duck Stamp Conservation and Design Program Act of 1994
 
 - Rep. Yakym, Rudy [R-IN-2] (Y000067)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ To reauthorize the Junior Duck Stamp Conservation and Design Program Act of 1994
 - 2025-12-15 — Mr. Stauber moved to suspend the rules and pass the bill, as amended.
 - 2025-12-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5886)
 - 2025-12-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5886)
+- 2025-12-16 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
