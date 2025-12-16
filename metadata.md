@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5457
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5457
@@ -22,9 +22,10 @@ Strengthening Agency Management and Oversight of Software Assets Act
 - Rep. Fallon, Pat [R-TX-4] (F000246)
 - Rep. McClain Delaney, April [D-MD-6] (M001232)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Strengthening Agency Management and Oversight of Software Assets Act
 - 2025-12-15 — Mr. Timmons moved to suspend the rules and pass the bill, as amended.
 - 2025-12-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5862-5864)
 - 2025-12-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5862-5864)
+- 2025-12-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
