@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 6742
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6742
+
+> To reauthorize the Next Generation Quantum Leaders Pilot Program of the National Science Foundation for the education and training of the next generation of students and teachers in the fundamental principles of quantum mechanics, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Quantum Leaders Education and Advancement Program Act” or the “Q–LEAP”.
+
+## § 2. Reauthorization of Next Generation Quantum Leaders Pilot Program of the National Science Foundation
+
+Paragraph (5) of section 10661(f) of the Research and Development, Competition, and Innovation Act (Public Law 117–167; relating to the Next Generation Quantum Leaders Pilot Program of the National Science Foundation for the education and training of the next generation of students and teachers in the fundamental principles of quantum mechanics) is amended by striking “2026” and inserting “2028”.
