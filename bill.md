@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 6749
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6749
+
+> To codify Executive Order 14243 (relating to stopping waste, fraud, and abuse by eliminating information silos).
+
+## § 1. Short title
+
+This Act may be cited as the “Eliminating Information Silos Act of 2025”.
+
+## § 2. Codification of Executive Order 14243
+
+Executive Order 14243 (90 Fed. Reg. 13681; relating to stopping waste, fraud, and abuse by eliminating information silos) shall have the force and effect of law.
