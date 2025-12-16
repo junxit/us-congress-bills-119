@@ -38,4 +38,7 @@ This Act may be cited as the “U.S. Customs and Border Protection Officer Retir
     - **(B)** the internal controls used by CBP to ensure that all eligible employees, and only eligible employees, receive such enhanced retirement benefits;
     - **(C)** the policies regarding the use of employees’ personnel files to ensure compliance with current laws governing retirement benefits; and
     - **(D)** the adequacy of the training provided to CBP senior executives regarding human resources and hiring practices at CBP; and
-  - **(2)** not later than 18 months after the date of the enactment of this Act, shall submit a report to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Homeland Security of the House of Representatives that describes the results of the review conducted pursuant to paragraph (1).
+  - **(2)** not later than 18 months after the date of the enactment of this Act, shall submit a report that describes the results of the review conducted pursuant to paragraph (1) to—
+    - **(A)** the Committee on Homeland Security and Governmental Affairs of the Senate;
+    - **(B)** the Committee on Homeland Security of the House of Representatives; and
+    - **(C)** the Committee on Oversight and Government Reform of the House of Representatives.
