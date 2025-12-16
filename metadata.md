@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4183
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4183
@@ -22,9 +22,10 @@ Federal Maritime Commission Reauthorization Act of 2025
 - Rep. Ezell, Mike [R-MS-4] (E000235)
 - Rep. Carbajal, Salud O. [D-CA-24] (C001112)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Federal Maritime Commission Reauthorization Act of 2025
 - 2025-12-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5869-6871)
 - 2025-12-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5869-6871)
 - 2025-12-15 — The title of the measure was amended. Agreed to without objection.
+- 2025-12-16 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
