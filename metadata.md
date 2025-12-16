@@ -1,7 +1,7 @@
 ---
 measure: H.R. 972
 congress: 119
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 972
@@ -39,3 +39,14 @@ Sloan Canyon Conservation and Lateral Pipeline Act
 - 2025-12-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5875)
 - 2025-12-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5875)
 - 2025-12-16 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2026-02-26 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S697-699)
+- 2026-02-26 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2026-02-26 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
+- 2026-02-26 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
+- 2026-03-03 — Message on Senate action sent to the House.
+- 2026-05-12 — Presented to President.
+- 2026-05-12 — Presented to President.
+- 2026-05-19 — Became Public Law No: 119-91.
+- 2026-05-19 — Became Public Law No: 119-91.
+- 2026-05-19 — Signed by President.
+- 2026-05-19 — Signed by President.
