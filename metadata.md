@@ -1,7 +1,7 @@
 ---
 measure: S. 861
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 861
@@ -36,3 +36,5 @@ Disaster Assistance Simplification Act
 - 2025-11-07 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Paul without amendment. Without written report.
 - 2025-11-07 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Paul without amendment. Without written report.
 - 2025-11-07 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 264.
+- 2025-12-16 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8763-8764; text: CR S8763-8764)
+- 2025-12-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
