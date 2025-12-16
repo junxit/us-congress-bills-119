@@ -1,7 +1,7 @@
 ---
 measure: S. 3021
 congress: 119
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 3021
@@ -30,3 +30,7 @@ ENFORCE Act
 
 - 2025-10-21 — Introduced in Senate
 - 2025-10-21 — Read twice and referred to the Committee on the Judiciary.
+- 2025-12-16 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8754-8755; text: CR S8754-8755)
+- 2025-12-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2025-12-16 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2025-12-16 — Senate Committee on the Judiciary discharged by Unanimous Consent.

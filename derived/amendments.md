@@ -1,7 +1,7 @@
 ---
 measure: S. 3021
 congress: 119
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,24 +14,13 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-10 amendatory instructions. 1 executed, 9 stated and not applied.
+10 amendatory instructions. 0 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
-
-## Executed
-
-### 34 U.S.C. § 20911
-
-> in subsection (c)(1)(B), in the undesignated matter following clause (xiv), by striking “that involves” and all that follows through “2425 of this title” and inserting “that involves an offense described in subsection (e)(3)(E)”; and
-
-| | |
-|---|---|
-| Removed | `that involves” and all that follows through “2425 of this title` |
-| Inserted | `that involves an offense described in subsection (e)(3)(E)` |
 
 ## Stated, not applied
 
@@ -45,9 +34,10 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subsection (a), by striking paragraph (7) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “or (6)” and inserting “(6), or (7)”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (3). | the bill names no machine-readable US Code section |
-| `34 U.S.C. § 20911` | insert | Section 3299 of title 18, United States Code, is amended by inserting “1466A or” before “1591”. | the bill quotes the text inserted but describes where it goes |
-| `34 U.S.C. § 20911` | insert | Section 111(5)(A)(iii) of the Adam Walsh Child Protection and Safety Act of 2006 (34 U.S.C. 20911(5)(A)(iii)) is amended by inserting “1466A or” before “1591”. | the bill quotes the text inserted but describes where it goes |
-| `34 U.S.C. § 20911` | redesignate | by redesignating subsection (f) as subsection (g); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `34 U.S.C. § 20911` | insert | by inserting after subsection (e) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `34 U.S.C. § 20911` | replace | in subsection (e)(3), by striking subparagraph (E) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `34 U.S.C. § 20911` | insert | Section 3583(k) of title 18, United States Code, is amended, in the first sentence, by inserting “1466A,” before “1591,”. | the bill quotes the text inserted but describes where it goes |
+| — | insert | Section 3299 of title 18, United States Code, is amended by inserting “1466A or” before “1591”. | the bill names no machine-readable US Code section |
+| — | insert | Section 111(5)(A)(iii) of the Adam Walsh Child Protection and Safety Act of 2006 (34 U.S.C. 20911(5)(A)(iii)) is amended by inserting “1466A or” before “1591”. | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (f) as subsection (g); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (e) the following: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (c)(1)(B), in the undesignated matter following clause (xiv), by striking “that involves” and all that follows through “2425 of this title” and inserting “that involves an offense described in subsection (e)(3)(E)”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (e)(3), by striking subparagraph (E) and inserting the following: | the bill names no machine-readable US Code section |
+| — | insert | Section 3583(k) of title 18, United States Code, is amended, in the first sentence, by inserting “1466A,” before “1591,”. | the bill names no machine-readable US Code section |
