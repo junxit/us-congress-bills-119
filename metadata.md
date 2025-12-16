@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3620
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3620
@@ -16,10 +16,11 @@ Southcentral Foundation Land Transfer Act of 2025
 
 - Rep. Begich, Nicholas J. [R-AK-At Large] (B001323)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Southcentral Foundation Land Transfer Act of 2025
 - 2025-12-15 — Mr. Stauber moved to suspend the rules and pass the bill.
 - 2025-12-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5880-5881)
 - 2025-12-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5880-5881)
+- 2025-12-16 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
