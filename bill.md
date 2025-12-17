@@ -16,10 +16,10 @@ This Act may be cited as the “FDA Modernization Act 3.0”.
 ## § 2. Regulations on nonclinical testing methods
 
 - **(a)** *Interim final rule*
-  - **(1)** *In general* Not later than 1 year after the date of enactment of this Act, the Secretary of Health and Human Services, acting through the Commissioner of Food and Drugs, shall publish an interim final rule pursuant to subsections (b) and (c) to ensure implementation of the amendments to section 505(i) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(i)) made by section 3209(a) of the Consolidated Appropriations Act, 2023 (Public Law 117–328; 136 Stat. 5821).
-  - **(2)** *Effectiveness of interim final rule* Notwithstanding subparagraph (B) of section 553(b) of title 5, United States Code, the interim final rule issued by the Secretary of Health and Human Services under paragraph (1) shall become immediately effective as an interim final rule without requiring the Secretary of Health and Human Services to demonstrate good cause therefor.
-- **(b)** *Inclusions*
-  - **(1)** *In general* The interim final rule shall replace any references to “animal” tests, data, studies, models, and research with a reference to nonclinical tests, data, studies, models, and research in the following sections of title 21, Code of Federal Regulations:
+  - **(1)** *In general* In order to ensure implementation of the amendments to section 505(i) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(i)) made by section 3209(a) of the Consolidated Appropriations Act, 2023 (Public Law 117–328; 136 Stat. 5821), not later than 1 year after the date of enactment of this Act, the Secretary of Health and Human Services, acting through the Commissioner of Food and Drugs, shall publish an interim final rule—
+    - **(A)** to amend the sections of title 21, Code of Federal Regulations, described in paragraph (2) to replace any references to “animal” tests, data, studies, models, and research with a reference to nonclinical tests, data, studies, models, and research; and
+    - **(B)** to add the definition of nonclinical test in section 505(z) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(z)) to sections 312.3, 314.3, 315.2, and 601.31 of title 21, Code of Federal Regulations.
+  - **(2)** *CFR sections described* The sections of title 21, Code of Federal Regulations, described in this paragraph are the following:
     - **(A)** Section 312.22(c).
     - **(B)** Section 312.23(a)(3)(iv).
     - **(C)** Section 312.23(a)(5)(ii).
@@ -42,6 +42,5 @@ This Act may be cited as the “FDA Modernization Act 3.0”.
     - **(T)** Section 330.10(a)(2).
     - **(U)** Section 601.35(d).
     - **(V)** Any other section necessary to ensure regulatory consistency with the amendments to section 505(i) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(i)) made by section 3209(a) of the Consolidated Appropriations Act, 2023 (Public Law 117–328; 136 Stat. 5821).
-  - **(2)** *Additional changes* The Secretary may make such additional changes to the sections of title 21, Code of Federal Regulations, described in subparagraphs (A) through (V) of paragraph (1) as the Secretary determines appropriate to fully implement the replacement required under such paragraph.
-- **(c)** *Definition of nonclinical test* The definition of nonclinical test in section 505(z) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(z)) shall be added to sections 312.3, 314.3, 315.2, and 601.31 of title 21, Code of Federal Regulations.
-- **(d)** *Technical amendment* Section 505 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355) is amended by designating the second subsection (z) (relating to clinical trial diversity action plans), as added by section 3601(a) of the Health Extenders, Improving Access to Medicare, Medicaid, and CHIP, and Strengthening Public Health Act of 2022 (division FF of Public Law 117–328), as subsection (aa).
+  - **(3)** *Effectiveness of interim final rule* Notwithstanding subparagraph (B) of section 553(b) of title 5, United States Code, the interim final rule issued by the Secretary of Health and Human Services under paragraph (1) shall become immediately effective as an interim final rule without requiring the Secretary of Health and Human Services to demonstrate good cause therefor.
+- **(b)** *Technical amendment* Section 505 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355) is amended by designating the second subsection (z) (relating to clinical trial diversity action plans), as added by section 3601(a) of the Health Extenders, Improving Access to Medicare, Medicaid, and CHIP, and Strengthening Public Health Act of 2022 (division FF of Public Law 117–328), as subsection (aa).
