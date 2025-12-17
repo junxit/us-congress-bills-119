@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3616
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3616
@@ -43,6 +43,10 @@ Reliable Power Act
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2025-12-17 — [House 119-1-347](votes/house-119-1-0347.md) — On Passage — **Passed** (225–203)
+
 ## Actions
 
 - 2025-05-29 — Introduced in House
@@ -56,3 +60,19 @@ Reliable Power Act
 - 2025-09-17 — Placed on the Union Calendar, Calendar No. 256.
 - 2025-09-17 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-302.
 - 2025-09-17 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-302.
+- 2025-11-25 — Supplemental report filed by the Committee on Energy and Commerce, H. Rept. 119-302, Part II.
+- 2025-11-25 — Supplemental report filed by the Committee on Energy and Commerce, H. Rept. 119-302, Part II.
+- 2025-12-16 — Rules Committee Resolution H. Res. 951 Reported to House. Rule provides for consideration of H.R. 4776, H.R. 1366, H.R. 845, H.R. 3616, H.R. 3632 and H.R. 4371. The resolution provides for consideration of H.R. 4776, under a structured rule and H.R. 1366, H.R. 845, H.R. 3616, H.R. 3632, and H.R. 4371 under a closed rule. The resolution provides one motion to recommit on each bill.
+- 2025-12-17 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2025-12-17 — At the conclusion of debate on H.R. 3616, the Chair put the question on passage of the bill and by voice vote announced the ayes had prevailed. Mr. Weber (TX) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2025-12-17 — Considered as unfinished business. (consideration: CR H6006)
+- 2025-12-17 — Considered under the provisions of rule H. Res. 951. (consideration: CR H6000-6004)
+- 2025-12-17 — DEBATE - The House proceeded with one hour of debate on H.R. 3616.
+- 2025-12-17 — House amendment considered as adopted: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2025-12-17 — House amendment offered/reported by: Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2025-12-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-12-17 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2025-12-17 — On passage Passed by the Yeas and Nays: 225 - 203 (Roll no. 347). (text of amendment in the nature of a substitute: CR H6000)
+- 2025-12-17 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 225 - 203 (Roll no. 347).
+- 2025-12-17 — Rule provides for consideration of H.R. 4776, H.R. 1366, H.R. 845, H.R. 3616, H.R. 3632 and H.R. 4371. The resolution provides for consideration of H.R. 4776, under a structured rule and H.R. 1366, H.R. 845, H.R. 3616, H.R. 3632, and H.R. 4371 under a closed rule. The resolution provides one motion to recommit on each bill.
+- 2025-12-17 — The previous question was ordered pursuant to the rule.
