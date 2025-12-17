@@ -1,7 +1,7 @@
 ---
 measure: S. 3436
 congress: 119
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 3436
@@ -36,3 +36,7 @@ Caring for Veterans and Strengthening National Security Act
 
 - 2025-12-11 — Introduced in Senate
 - 2025-12-11 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2025-12-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8874; text: CR S8874)
+- 2025-12-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2025-12-17 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2025-12-17 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
