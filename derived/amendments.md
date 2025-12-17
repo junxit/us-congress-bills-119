@@ -1,7 +1,7 @@
 ---
 measure: S. 2503
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+1 amendatory instruction. 0 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,5 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `49 U.S.C. § 40101` | repeal | Section 1046 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (49 U.S.C. 40101 note) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `49 U.S.C. § 40101` | repeal | Section 1046 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (49 U.S.C. 40101 note) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | repeal | Section 373(a) of the National Defense Authorization Act for Fiscal Year 2026 is repealed, and Chapter 157 of title 10, United States Code, shall be applied as if the amendments made by such section had not been enacted. | the bill names no machine-readable US Code section |

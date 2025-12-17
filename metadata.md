@@ -1,7 +1,7 @@
 ---
 measure: S. 2503
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2503
@@ -16,7 +16,7 @@ ROTOR Act
 
 - Sen. Cruz, Ted [R-TX] (C001098)
 
-## Cosponsors (13)
+## Cosponsors (17)
 
 - Sen. Moran, Jerry [R-KS] (M000934)
 - Sen. Blackburn, Marsha [R-TN] (B001243)
@@ -31,6 +31,10 @@ ROTOR Act
 - Sen. Kaine, Tim [D-VA] (K000384)
 - Sen. Warner, Mark R. [D-VA] (W000805)
 - Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Cantwell, Maria [D-WA] (C000127)
 
 ## Committees (1)
 
@@ -44,3 +48,13 @@ ROTOR Act
 - 2025-11-18 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. Without written report.
 - 2025-11-18 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. Without written report.
 - 2025-11-18 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 269.
+- 2025-12-17 — 
+- 2025-12-17 — Amendment SA 4070 agreed to in Senate by Unanimous Consent.
+- 2025-12-17 — Amendment SA 4070 proposed by Senator Cruz. (consideration: CR S8813-8817) In the nature of a substitute.
+- 2025-12-17 — Measure laid before Senate by unanimous consent. (consideration: CR S8811-8817)
+- 2025-12-17 — Passed Senate with an amendment by Unanimous Consent. (text: CR S8813-8817)
+- 2025-12-17 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2025-12-17 — Senate amendment agreed to: Amendment SA 4070 agreed to in Senate by Unanimous Consent.
+- 2025-12-17 — Senate amendment proposed (on the floor): Amendment SA 4070 proposed by Senator Cruz.
+- 2025-12-17 — Senate amendment submitted
+- 2025-12-17 — The committee substitute withdrawn by Unanimous Consent.
