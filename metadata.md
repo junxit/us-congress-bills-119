@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 953
 congress: 119
-version: Engrossed in House
+version: Reported in House
 ---
 
 # H.Res. 953
