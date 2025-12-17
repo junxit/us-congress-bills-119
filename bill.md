@@ -1,0 +1,193 @@
+---
+legis-num: S. 3523
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3523
+
+> To amend the Internal Revenue Code of 1986 to create a carbon border adjustment based on carbon intensity, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Clean Competition Act”.
+
+## § 2. Carbon intensity charge
+
+- **(a)** *In general* Chapter 38 of the Internal Revenue Code of 1986 is amended by adding at the end the following new subchapter:
+- **(b)** *Clerical amendment* The table of subchapters for chapter 38 of the Internal Revenue Code of 1986 is amended by adding at the end thereof the following new item:
+- **(c)** *Investing in industrial competitiveness*
+  - **(1)** *Definitions* In this subsection:
+    - **(A)** *Administrator* The term Administrator means the Administrator of the Environmental Protection Agency.
+    - **(B)** *Advanced industrial technology* The term advanced industrial technology means a technology that—
+      - **(i)** is directly involved in an industrial process described in paragraphs (1) through (6) of section 454(c) of the Energy Independence and Security Act of 2007 (42 U.S.C. 17113(c)); and
+      - **(ii)** is designed to accelerate greenhouse gas emissions reduction progress to net-zero at an eligible facility, as determined by the Secretary.
+    - **(C)** *Ambition level* The term “ambition level” means the level of reduction in carbon intensity described in each of subclauses (I) through (III) of paragraph (3)(C)(iv).
+    - **(D)** *Applicable fair market value* The term applicable fair market value, with respect to an eligible good, means the average market dollar value of 1 unit of the relevant quantity of that eligible good, as determined by the Secretary using publicly available market prices and other market data.
+    - **(E)** *Baseline carbon intensity* The term baseline carbon intensity has the meaning given the term in section 4695 of the Internal Revenue Code of 1986 (as added by subsection (a)).
+    - **(F)** *Benchmark carbon intensity* The term benchmark carbon intensity, with respect to a covered primary good or eligible good, means the carbon intensity of the covered national industry in the United States for that covered primary good or eligible good for the preceding calendar year.
+    - **(G)** *Best-in-class carbon intensity* The term best-in-class carbon intensity, with respect to any proposed eligible facility, means that the carbon intensity of such facility would be not greater than the carbon intensity of the existing facility with the lowest carbon intensity within the relevant covered national industry, as determined as of the date of the application for a grant under the program.
+    - **(H)** *Carbon intensity* The term carbon intensity has the meaning given the term under section 4691(b)(1) of the Internal Revenue Code of 1986 (as added by subsection (a)).
+    - **(I)** *Covered primary good* The term “covered primary good” has the meaning given the term in section 4695 of the Internal Revenue Code of 1986 (as added by subsection (a)).
+    - **(J)** *Covered program* The term “covered program” means each of the programs established under paragraphs (2)(A) and (3)(A).
+    - **(K)** *Covered national industry* The term “covered national industry” has the meaning given the term in section 4695 of the Internal Revenue Code of 1986 (as added by subsection (a)).
+    - **(L)** *Eligible entity* The term eligible entity means any person that operates an eligible facility or will operate a proposed eligible facility.
+    - **(M)** *Eligible facility* The term “eligible facility” has the meaning given the term in section 4695 of the Internal Revenue Code of 1986 (as added by subsection (a)).
+    - **(N)** *Eligible good* The term eligible good means a covered primary good determined eligible for a contract for difference by the Secretary under paragraph (3)(B).
+    - **(O)** *Eligible goods class* The term eligible goods class means an eligible goods class as described in paragraph (3)(C)(iii).
+    - **(P)** *Price discovery* The term price discovery means a process of determining the true and accurate price of producing 1 unit of the relevant quantity of an eligible good using a unique production process.
+    - **(Q)** *Relevant quantity* The term relevant quantity has the meaning given the term under section 4691(b)(1)(E) of the Internal Revenue Code of 1986 (as added by subsection (a)).
+    - **(R)** *Secretary* The term Secretary means the Secretary of Energy (or a designee).
+    - **(S)** *Strike price* The term strike price means the dollar value of 1 unit of the relevant quantity of an eligible good.
+  - **(2)** *Investments in advanced industrial technology*
+    - **(A)** *Establishment* The Secretary shall establish a competitive program (referred to in this paragraph as the “program”) to award to eligible entities grants, rebates, or low-interest loans, as determined appropriate by the Secretary, to support investments in advanced industrial technology, including in dedicated power generation and storage—
+      - **(i)** in the case of an existing eligible facility, to reduce the carbon intensity of the existing eligible facility by at least 20 percent;
+      - **(ii)** in the case of a proposed eligible facility, to ensure at least best-in-class carbon intensity of that proposed eligible facility, with a goal of achieving net-zero carbon intensity; and
+      - **(iii)** in the case of existing and proposed eligible facilities—
+        - **(I)** to increase the technological and economic competitiveness of covered national industries in the United States;
+        - **(II)** to increase the viability and competitiveness of United States industrial exports; and
+        - **(III)** to achieve emissions reduction in covered national industries.
+    - **(B)** *Application process* The Secretary shall develop an application process for the program similar to the application process for the national grant program of the Administrator under subtitle G of title VII of the Energy Policy Act of 2005 (42 U.S.C. 16131 et seq.).
+    - **(C)** *Preference* In awarding funding under the program, the Secretary shall give preference to eligible entities—
+      - **(i)** for projects that would—
+        - **(I)** result in the greatest decrease in carbon intensity;
+        - **(II)** support the demonstration and catalyze the deployment of first-of-a-kind technologies and processes;
+        - **(III)** provide the greatest benefit for the greatest number of people within the area in which the eligible facility is located;
+        - **(IV)** advance United States global strategic interests;
+        - **(V)** provide the greatest potential for direct and indirect domestic job creation; and
+        - **(VI)** maximize improvement in local air quality; and
+      - **(ii)** for facilities located in—
+        - **(I)** economically distressed communities that have experienced a loss of manufacturing jobs; and
+        - **(II)** communities with high cumulative pollution burdens, as determined by the Administrator.
+    - **(D)** *Cost share* The Secretary shall require an eligible entity to provide not less than 50 percent of the cost of a project carried out pursuant to the program.
+    - **(E)** *Recapture of funds* The Secretary shall recapture, pursuant to such regulations or other guidance issued by the Secretary, the funding awarded to an eligible entity if the eligible entity fails—
+      - **(i)** within 3 years of the award of funding, to complete the proposed investments or achieve an interim progress milestone agreed to with the Secretary; or
+      - **(ii)** during the 10-year period after the proposed investments are placed in service—
+        - **(I)** in the case of an existing eligible facility, to achieve and maintain the reduction in carbon intensity proposed in the application; or
+        - **(II)** in the case of a proposed eligible facility, to achieve and maintain the best-in-class carbon intensity proposed in the application.
+    - **(F)** *Outreach* The Secretary shall conduct outreach—
+      - **(i)** to notify the public about the program; and
+      - **(ii)** to inform eligible entities of technologies that can reduce facility carbon intensity or ensure best-in-class carbon intensity.
+  - **(3)** *Contracts for difference*
+    - **(A)** *Establishment* The Secretary shall establish a program (referred to in this paragraph as the “program”) to enter into contracts for difference (referred to in this paragraph as “covered contracts”), on a competitive basis, with eligible entities for payment of costs associated with the production of eligible goods manufactured by those eligible entities—
+      - **(i)** to accelerate the deployment of commercially available advanced industrial technology;
+      - **(ii)** to demonstrate and advance the commercialization of first-of-a-kind advanced industrial technology;
+      - **(iii)** to increase the technological and economic competitiveness of covered national industries in the United States;
+      - **(iv)** to increase the viability and competitiveness of United States advanced industrial technology exports; and
+      - **(v)** to reduce the carbon intensity of covered national industries in the United States.
+    - **(B)** *Eligible goods*
+      - **(i)** *In general* The Secretary shall determine which covered primary goods are eligible for covered contracts under the program.
+      - **(ii)** *Priority* In making determinations under clause (i), the Secretary shall give priority to covered primary goods—
+        - **(I)** that contribute a greater proportion of total covered emissions relative to other covered primary goods in the same covered national industry;
+        - **(II)** the market conditions for which are conducive to fair and competitive auctions;
+        - **(III)** that have transparent and accurate price indices;
+        - **(IV)** that face large marginal costs of decarbonization that cannot feasibly be equalized by the carbon intensity charge levied under section 4692 of the Internal Revenue Code of 1982 (as added by subsection (a));
+        - **(V)** that provide the greatest potential for direct and indirect domestic job creation;
+        - **(VI)** that are feasibly expected to continue to have robust market demand for the duration of the applicable covered contract; and
+        - **(VII)** that have the greatest ability to reduce hazardous local air quality if awarded a covered contract.
+    - **(C)** *Auctions*
+      - **(i)** *In general* To award covered contracts under the program, the Secretary shall hold competitive auctions for each eligible goods class.
+      - **(ii)** *Application* To participate in an auction under clause (i), an eligible entity shall submit to the Secretary an application that includes—
+        - **(I)** a description of the eligible goods covered under the proposed covered contract;
+        - **(II)** information on any existing or proposed facilities that will produce the eligible goods covered under the proposed covered contract, including location, employment numbers, and any planned or ongoing investments in or retrofits of the facilities;
+        - **(III)** a description of the method of production, including technologies and feedstocks, that will be used to manufacture the eligible goods covered under the proposed covered contract;
+        - **(IV)** the details of any investments or retrofits required to produce the eligible goods covered under the proposed covered contract, including the construction of new facilities;
+        - **(V)** the expected carbon intensity of the eligible goods covered under the proposed covered contract for each year of the duration of the proposed covered contract;
+        - **(VI)** the proposed strike price of the eligible goods covered under the proposed covered contract;
+        - **(VII)** the expected annual production volume (expressed in the relevant quantity) of the eligible goods covered under the proposed covered contract for each year of the proposed covered contract; and
+        - **(VIII)** any other information determined necessary by the Secretary.
+      - **(iii)** *Eligible goods class*
+        - **(I)** *In general* For each auction under clause (i), the Secretary shall assign each eligible good to an eligible goods class, which may comprise a single eligible good or multiple eligible goods.
+        - **(II)** *Class of multiple eligible goods* In determining the eligible goods that shall be grouped into a single eligible goods class for purposes of an auction under clause (i), the Secretary shall—
+          - **(aa)** only group eligible goods that can reasonably compete with each other for market share in the economy and on the basis of carbon intensity in the auction; and
+          - **(bb)** prioritize the creation of eligible goods classes that are conducive to fair and competitive auctions.
+        - **(III)** *Benchmark carbon intensity* The benchmark carbon intensity for an eligible goods class with eligible goods from multiple covered national industries shall be the mean benchmark carbon intensity of those covered national industries (after converting to the same relevant quantity, if necessary).
+      - **(iv)** *Ambition level* If the Secretary determines that there are conditions to support sufficient auction competitiveness, the Secretary may hold separate auctions within an eligible goods class for projects that yield each of the following percentages of reduction in carbon intensity:
+        - **(I)** A reduction in carbon intensity from benchmark carbon intensity of not less than 20 percent but not more than 50 percent.
+        - **(II)** A reduction in carbon intensity from benchmark carbon intensity of not less than 50 percent but not more than 80 percent.
+        - **(III)** A reduction in carbon intensity from benchmark carbon intensity of more than 80 percent.
+      - **(v)** *Selection* The Secretary shall determine the winners of each auction under clause (i) by selecting projects in rank order from the lowest to the highest value of the quotient obtained by dividing—
+        - **(I)** the expected per-unit payment amount described in subparagraph (F)(ii)(II), which shall be determined by the Secretary using the proposed strike price of the eligible entity and the fair market value at the time of auction; by
+        - **(II)** an amount equal to the difference between—
+          - **(aa)** the benchmark carbon intensity; and
+          - **(bb)** the carbon intensity of the eligible good under the proposed covered contract.
+      - **(vi)** *Administration*
+        - **(I)** *In general* The Secretary shall design and manage competitive auctions under clause (i) to maximize fairness, competitiveness, accurate price discovery, and the most efficient utilization of public funds to achieve reductions in carbon intensity and the other goals of the program.
+        - **(II)** *Auction budget* The Secretary shall establish a budget for each auction held under the program.
+    - **(D)** *Requirements*
+      - **(i)** *Carbon intensity reduction* Each covered contract awarded under the program shall be required to achieve at least a 20 percent reduction in carbon intensity as compared to the benchmark carbon intensity on the date of commencement of the contract.
+      - **(ii)** *Labor* An eligible entity awarded a covered contract under the program shall be required—
+        - **(I)** to pay prevailing wages for any work performed, including for the execution of any investments or retrofits necessary to produce the applicable eligible goods; and
+        - **(II)** to establish a community benefits agreement in conjunction with the production of the applicable eligible goods, including the execution of any investments or retrofits necessary to produce those eligible goods.
+    - **(E)** *Contract terms* Each covered contract under the program shall include the following:
+      - **(i)** A description of the project under the covered contract, including—
+        - **(I)** details on the eligible goods, including relevant distinguishing qualities and properties and the methodology of producing those eligible goods;
+        - **(II)** the execution of any investments or retrofits necessary to produce those eligible goods; and
+        - **(III)** performance requirements for the project and procedures and penalties if those requirements are not met.
+      - **(ii)** The maximum payment amount determined pursuant to subparagraph (F)(iv).
+      - **(iii)** The expected carbon intensity of each eligible good covered under the covered contract, estimated for each year of the duration of the covered contract.
+      - **(iv)** The strike price for each eligible good under the covered contract, including any procedures for adjusting the strike price over time, pursuant to subparagraph (F)(iii).
+      - **(v)** The methods and data sources to be used for calculating covered emissions and the applicable fair market value of eligible goods, as established by the Secretary.
+      - **(vi)** Details of the community benefits agreement established pursuant to subparagraph (D)(ii)(II).
+      - **(vii)** The duration of the covered contract, subject to any early termination rules established by the Secretary.
+      - **(viii)** Any other terms determined necessary by the Secretary.
+    - **(F)** *Payments*
+      - **(i)** *In general* Under each covered contract entered into under the program, the Secretary shall make at least 1 payment annually.
+      - **(ii)** *Amount* The amount of a payment under clause (i), with respect to an eligible good produced by an eligible entity over a designated period of time, as determined by the Secretary, shall equal the product obtained by multiplying—
+        - **(I)** the quantity of the eligible good (expressed in the relevant quantity) produced by the eligible entity during the designated period of time; and
+        - **(II)** the per-unit payment amount, which shall be the difference between—
+          - **(aa)** the strike price; and
+          - **(bb)** the average applicable fair market value of the same eligible good during the designated period of time, as determined by the Secretary.
+      - **(iii)** *Dynamic indexing* The Secretary shall adjust the strike price established in each covered contract over time to account for—
+        - **(I)** inflation; and
+        - **(II)** changes in the cost of key inputs to the production of the eligible good, as determined by the Secretary, including, at a minimum—
+          - **(aa)** natural gas;
+          - **(bb)** hydrogen; and
+          - **(cc)** electricity.
+      - **(iv)** *Maximum payment amount* For each covered contract under the program, the Secretary shall establish a maximum amount that may be paid under that covered contract, which amount—
+        - **(I)** takes into consideration expected levels of—
+          - **(aa)** the quantity of eligible goods covered under the covered contract (expressed in the relevant quantity) produced over the duration of the covered contract; and
+          - **(bb)** the per-unit payment amount described in clause (ii)(II);
+        - **(II)** maximizes the deployment of available appropriations and the achievement of the goals of the program; and
+        - **(III)** ensures that obligated expenditures do not exceed available appropriations.
+    - **(G)** *Penalties* The Secretary may impose financial and other penalties on any eligible entity that fails to meet the performance requirements established by the Secretary for the covered contract of that eligible entity.
+    - **(H)** *Public notice* Not later than 180 days before each auction is held under the program, the Secretary shall publish guidance on the auction process, including—
+      - **(i)** the timeline and selection process;
+      - **(ii)** a list of eligible goods, eligible goods classes, and ambition levels, if applicable;
+      - **(iii)** the auction budget for each eligible goods class and ambition level, if applicable;
+      - **(iv)** the benchmark carbon intensity for each eligible goods class;
+      - **(v)** the applicable fair market value for each eligible goods class, measured as the average applicable fair market value over the preceding 12 months; and
+      - **(vi)** any additional information needed to facilitate a fair and competitive auction, as determined by the Secretary.
+    - **(I)** *Rulemaking*
+      - **(i)** *In general* The Secretary shall—
+        - **(I)** not later than 1 year after the date of enactment of this Act, promulgate rules for the implementation of the program; and
+        - **(II)** update those rules at least once every 5 years thereafter.
+      - **(ii)** *Effect on contracts* Any update made under clause (i)(II) shall not apply to covered contracts under the program in effect before the date of effectiveness of the update.
+  - **(4)** *Emissions reduction goal* In awarding funding under the covered programs, the Secretary shall seek to keep the aggregate carbon intensity of each covered national industry in the United States below the value of the applicable percentage of the baseline carbon intensity for that covered national industry.
+  - **(5)** *Allocation of funding* In awarding funding under the covered programs, the Secretary shall, to the maximum extent practicable, allocate funds to eligible entities that produce covered primary goods that are included within a covered national industry in approximate proportion to the share of total greenhouse gas emissions that the covered national industry is responsible for emitting.
+  - **(6)** *Offices* The Secretary may establish 1 or more offices within the Department of Energy to administer the covered programs.
+  - **(7)** *Evaluation and report* Not later than January 1, 2032, the Secretary shall submit to Congress a report evaluating the efficacy of the covered programs.
+  - **(8)** *Appropriations*
+    - **(A)** *In general* For fiscal year 2027 and each subsequent fiscal year, in addition to amounts otherwise available, there are appropriated, out of any funds in the Treasury not otherwise appropriated, to the Secretary to carry out this subsection an amount equal to the amount determined under subparagraph (B) with respect to such fiscal year.
+    - **(B)** *Appropriation*
+      - **(i)** *Fiscal year 2027* For fiscal year 2027, the amount appropriated for purposes of paragraph (2) shall be $75,000,000,000.
+      - **(ii)** *Subsequent fiscal years* For fiscal year 2028 and each subsequent fiscal year, the amount appropriated for purposes of paragraph (2) shall be equal to the applicable amount (as determined under subparagraph (C)) for the preceding fiscal year.
+    - **(C)** *Applicable amount* For purposes of this paragraph, the term applicable amount means—
+      - **(i)** for any fiscal year beginning prior to the date on which the Secretary of the Treasury determines the total increase in revenues to the Treasury by reason of the application of subchapter E of chapter 38 of the Internal Revenue Code of 1986 (as added by subsection (a)) is equal to or greater than $100,000,000,000, $0; or
+      - **(ii)** with respect to any fiscal year beginning after the date described in clause (i), an amount equal to 25 percent of the increase in revenues to the Treasury during such fiscal year by reason of the application of subchapter E of chapter 38 of the Internal Revenue Code of 1986 (as added by subsection (a)).
+- **(d)** *Economic Support Fund of Department of State*
+  - **(1)** *In general* For fiscal year 2027 and each subsequent fiscal year, in addition to amounts otherwise available, there are appropriated, out of any funds in the Treasury not otherwise appropriated, to the Department of State an amount equal to the amount determined under paragraph (2) with respect to such fiscal year, with such amount to be made available for bilateral and multilateral assistance to support climate and clean energy programs.
+  - **(2)** *Preference* In providing assistance under paragraph (1), the Secretary of State (in conjunction with the Secretary of the Treasury, the Secretary of Energy, and the Administrator of the Environmental Protection Agency) shall allocate such assistance in a manner which prioritizes the following goals in the following order of importance:
+    - **(A)** Facilitating the negotiation of carbon club agreements pursuant to section 4694 of the Internal Revenue Code of 1986 (as added by subsection (a)).
+    - **(B)** Providing assistance to countries described in section 4694(d)(2) of such Code.
+    - **(C)** Maximizing the reduction of global greenhouse gas emissions.
+    - **(D)** Securing access for the United States to materials and inputs necessary to manufacture products with lower carbon intensity, particularly those that are not feasibly produced domestically.
+    - **(E)** Supporting human development and reductions in poverty.
+    - **(F)** Advancing the national security and diplomatic interests of the United States.
+  - **(3)** *Appropriation*
+    - **(A)** *Fiscal year 2027* For fiscal year 2027, the amount appropriated for purposes of paragraph (1) shall be $25,000,000,000.
+    - **(B)** *Subsequent fiscal years* For fiscal year 2028 and each subsequent fiscal year, the amount appropriated for purposes of paragraph (1) shall be equal to the applicable amount (as determined under paragraph (4)) for the preceding fiscal year.
+  - **(4)** *Applicable amount* For purposes of this subsection, the term applicable amount means—
+    - **(A)** for any fiscal year beginning prior to the date on which the Secretary of the Treasury determines the total increase in revenues to the Treasury by reason of the application of subchapter E of chapter 38 of the Internal Revenue Code of 1986 (as added by subsection (a)) is equal to or greater than $100,000,000,000, $0, or
+    - **(B)** with respect to any fiscal year beginning after the date described in subparagraph (A), an amount equal to 25 percent of the increase in revenues to the Treasury during such fiscal year by reason of the application of subchapter E of chapter 38 of the Internal Revenue Code of 1986 (as added by subsection (a)).
