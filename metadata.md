@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3632
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3632
@@ -23,9 +23,10 @@ Power Plant Reliability Act of 2025
 - Rep. Onder, Robert F. [R-MO-3] (O000177)
 - Rep. Miller, Carol D. [R-WV-1] (M001205)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (2)
 
@@ -60,3 +61,4 @@ Power Plant Reliability Act of 2025
 - 2025-12-16 — Rules Committee Resolution H. Res. 951 Reported to House. Rule provides for consideration of H.R. 4776, H.R. 1366, H.R. 845, H.R. 3616, H.R. 3632 and H.R. 4371. The resolution provides for consideration of H.R. 4776, under a structured rule and H.R. 1366, H.R. 845, H.R. 3616, H.R. 3632, and H.R. 4371 under a closed rule. The resolution provides one motion to recommit on each bill.
 - 2025-12-16 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2025-12-16 — The previous question was ordered pursuant to the rule.
+- 2025-12-17 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
