@@ -1,0 +1,14 @@
+---
+legis-num: H.R. 6825
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6825
+
+> To require Federal monitors and receivers of public housing agencies to testify before the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+
+## § 1. Federal monitor and receiver testimony
+
+Not later than October 1 of each year, any Federal monitor or receiver that has provided oversight of a public housing agency (as such term is defined in section 3(b) of the United States Housing Act of 1937 (42 U.S.C. 1437a(b))) in the previous year shall appear before the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate and present testimony on management oversight of the Federal monitor or receiver.
