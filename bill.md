@@ -1,0 +1,22 @@
+---
+legis-num: S. 3530
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3530
+
+> To amend the Defense Production Act of 1950 to prohibit discrimination based on energy source in the use of certain authorities under title I and title III of such Act, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Strategic Resources Non-discrimination Act”.
+
+## § 2. Limitations on certain authorities under the Defense Production Act of 1950
+
+- **(a)** *Domestic energy supplies* Section 101(c)(1) of the Defense Production Act of 1950 (50 U.S.C. 4511(c)(1)) is amended by inserting “, other than for purposes of environmental protection,” after “domestic energy supplies”.
+- **(b)** *Prohibition on discrimination based on industry* Title III of the Defense Production Act of 1950 (50 U.S.C. 4531 et seq.) is amended by adding at the end the following:
+  > ## § 306. Prohibition on discrimination based on energy source
+  >
+  > In using the authorities under this title, the President may not deny financial support pursuant to sections 301, 302, or 303, other than for the production of energy, based on engagement by a person in the exploration, development, production, utilization, transportation, or sale of fossil fuel-based energy.
