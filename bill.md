@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 6772
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6772
+
+> To require the Comptroller General of the United States to conduct a study and submit a report to Congress that examines the costs and benefits that could be associated with establishing a Federal uniform residential building code.
+
+## § 1. Short title
+
+This Act may be cited as the “Affordable Housing Through Common-Sense Standards Act”.
+
+## § 2. Uniform building code study
+
+Not later than 1 year after the date of the enactment of this Act, the Comptroller General of the United States shall conduct a study and submit a report to the Congress that examines the costs and benefits that could be associated with establishing a Federal uniform residential building code, including whether such a code could—
+
+- **(1)** reduce the amount of time required for units of local government to approve new construction;
+- **(2)** reduce the cost of residential construction in the United States; or
+- **(3)** increase the quality of available and affordable residential housing in the United States.
