@@ -1,7 +1,7 @@
 ---
 measure: S. 2393
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2393
@@ -32,3 +32,5 @@ Fiscal Year 2025 Veterans Affairs Major Medical Facility Authorization Act
 - 2025-12-02 — Committee on Veterans' Affairs. Reported by Senator Moran without amendment. Without written report.
 - 2025-12-02 — Committee on Veterans' Affairs. Reported by Senator Moran without amendment. Without written report.
 - 2025-12-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 278.
+- 2025-12-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8873-8874; text: CR S8873-8874)
+- 2025-12-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
