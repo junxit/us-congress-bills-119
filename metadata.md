@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3492
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3492
@@ -67,6 +67,11 @@ Protect Children’s Innocence Act
 
 - House — Judiciary Committee
 
+## Recorded votes (2)
+
+- 2025-12-17 — [House 119-1-350](votes/house-119-1-0350.md) — On Motion to Recommit — **Failed** (210–218)
+- 2025-12-17 — [House 119-1-351](votes/house-119-1-0351.md) — On Passage — **Passed** (216–211)
+
 ## Actions
 
 - 2025-05-19 — Introduced in House
@@ -77,3 +82,21 @@ Protect Children’s Innocence Act
 - 2025-09-26 — Placed on the Union Calendar, Calendar No. 265.
 - 2025-09-26 — Reported (Amended) by the Committee on Judiciary. H. Rept. 119-311.
 - 2025-09-26 — Reported (Amended) by the Committee on Judiciary. H. Rept. 119-311.
+- 2025-12-17 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2025-12-17 — Considered as unfinished business. (consideration: CR H6008-6009)
+- 2025-12-17 — Considered under the provisions of rule H. Res. 953. (consideration: CR H5992-6000)
+- 2025-12-17 — DEBATE - The House proceeded with one hour of debate on H.R. 3492.
+- 2025-12-17 — House amendment considered as adopted: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2025-12-17 — House amendment offered/reported by: Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2025-12-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-12-17 — Ms. Balint moved to recommit to the Committee on the Judiciary. (text: CR H5999-6000)
+- 2025-12-17 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2025-12-17 — On motion to recommit Failed by the Yeas and Nays: 210 - 218 (Roll no. 350).
+- 2025-12-17 — On passage Passed by the Yeas and Nays: 216 - 211 (Roll no. 351). (text of amendment in the nature of a substitute: CR H5992-5993)
+- 2025-12-17 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 3492, the Chair put the question on motion to recommit and by voice vote announced the noes had prevailed. Ms. Balint demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2025-12-17 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 216 - 211 (Roll no. 351).
+- 2025-12-17 — Rule H. Res. 953 passed House.
+- 2025-12-17 — Rule provides for consideration of H.R. 6703, H.R. 498 and H.R. 3492. The resolution provides for consideration of H.R. 6703 and H.R. 498 under a closed rule and H.R. 3492 under a structured rule with one hour of general debate and one motion to recommit on each bill.
+- 2025-12-17 — Rules Committee Resolution H. Res. 953 Reported to House. Rule provides for consideration of H.R. 6703, H.R. 498 and H.R. 3492. The resolution provides for consideration of H.R. 6703 and H.R. 498 under a closed rule and H.R. 3492 under a structured rule with one hour of general debate and one motion to recommit on each bill.
+- 2025-12-17 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2025-12-17 — The previous question was ordered pursuant to the rule.
