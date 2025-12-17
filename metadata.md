@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 492
 congress: 119
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 492
@@ -31,3 +31,7 @@ A resolution recognizing community care as an essential tool for meeting the hea
 
 - 2025-11-10 — Introduced in Senate
 - 2025-11-10 — Referred to the Committee on Veterans' Affairs. (text: CR S8133)
+- 2025-12-17 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2025-12-17 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S8874; text: CR S8874)
+- 2025-12-17 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2025-12-17 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
