@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 526
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S.Res. 526
@@ -24,3 +24,6 @@ A resolution withholding the pay of Senators if a Government shutdown occurs.
 
 - 2025-12-03 — Introduced in Senate
 - 2025-12-03 — Referred to the Committee on Rules and Administration. (text: CR S8486)
+- 2025-12-17 — Committee on Rules and Administration. Reported by Senator McConnell without amendment. Without written report.
+- 2025-12-17 — Committee on Rules and Administration. Reported by Senator McConnell without amendment. Without written report.
+- 2025-12-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 296.
