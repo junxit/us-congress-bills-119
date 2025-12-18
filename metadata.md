@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3616
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3616
@@ -39,9 +39,10 @@ Reliable Power Act
 - Rep. McDowell, Addison P. [R-NC-6] (M001240)
 - Rep. Onder, Robert F. [R-MO-3] (O000177)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -76,3 +77,4 @@ Reliable Power Act
 - 2025-12-17 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 225 - 203 (Roll no. 347).
 - 2025-12-17 — Rule provides for consideration of H.R. 4776, H.R. 1366, H.R. 845, H.R. 3616, H.R. 3632 and H.R. 4371. The resolution provides for consideration of H.R. 4776, under a structured rule and H.R. 1366, H.R. 845, H.R. 3616, H.R. 3632, and H.R. 4371 under a closed rule. The resolution provides one motion to recommit on each bill.
 - 2025-12-17 — The previous question was ordered pursuant to the rule.
+- 2025-12-18 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
