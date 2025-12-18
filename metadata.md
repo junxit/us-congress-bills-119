@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3492
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3492
@@ -63,9 +63,10 @@ Protect Children’s Innocence Act
 - Rep. Gosar, Paul A. [R-AZ-9] (G000565)
 - Rep. Hinson, Ashley [R-IA-2] (H001091)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (2)
 
@@ -100,3 +101,4 @@ Protect Children’s Innocence Act
 - 2025-12-17 — Rules Committee Resolution H. Res. 953 Reported to House. Rule provides for consideration of H.R. 6703, H.R. 498 and H.R. 3492. The resolution provides for consideration of H.R. 6703 and H.R. 498 under a closed rule and H.R. 3492 under a structured rule with one hour of general debate and one motion to recommit on each bill.
 - 2025-12-17 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2025-12-17 — The previous question was ordered pursuant to the rule.
+- 2025-12-18 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
