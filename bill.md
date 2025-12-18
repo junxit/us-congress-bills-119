@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Empowering Employer Child and Elder Care Solutions Act”.
 
-## § 2. Exclusion of child care in computing overtime compensation
+## § 2. Exclusion of child and dependent care in computing overtime compensation
 
 - **(a)** *In general* Section 7(e) of the Fair Labor Standards Act of 1938 (29 U.S.C. 207(e)) is amended—
   - **(1)** in paragraph (2), by inserting “payments or reimbursements for child or dependent care services;” after “by the employer;”;

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2270
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2270
@@ -16,11 +16,16 @@ Empowering Employer Child and Elder Care Solutions Act
 
 - Rep. Messmer, Mark [R-IN-8] (M001233)
 
-## Cosponsors (3)
+## Cosponsors (8)
 
 - Rep. Moolenaar, John R. [R-MI-2] (M001194)
 - Rep. Hinson, Ashley [R-IA-2] (H001091)
 - Rep. Harder, Josh [D-CA-9] (H001090)
+- Rep. Thompson, Glenn [R-PA-15] (T000467)
+- Rep. Stefanik, Elise M. [R-NY-21] (S001196)
+- Rep. Fine, Randy [R-FL-6] (F000484)
+- Rep. Harris, Mark [R-NC-8] (H001102)
+- Rep. Onder, Robert F. [R-MO-3] (O000177)
 
 ## Committees (1)
 
@@ -31,3 +36,8 @@ Empowering Employer Child and Elder Care Solutions Act
 - 2025-03-21 — Introduced in House
 - 2025-03-21 — Introduced in House
 - 2025-03-21 — Referred to the House Committee on Education and Workforce.
+- 2025-04-09 — Committee Consideration and Mark-up Session Held
+- 2025-04-09 — Ordered to be Reported (Amended) by the Yeas and Nays: 18 - 13.
+- 2025-12-18 — Placed on the Union Calendar, Calendar No. 359.
+- 2025-12-18 — Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-413.
+- 2025-12-18 — Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-413.
