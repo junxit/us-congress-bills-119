@@ -1,7 +1,7 @@
 ---
 measure: S. 787
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 787
@@ -34,3 +34,13 @@ VetPAC Act of 2025
 - 2025-12-02 — Committee on Veterans' Affairs. Reported by Senator Moran with an amendment in the nature of a substitute. With written report No. 119-98.
 - 2025-12-02 — Committee on Veterans' Affairs. Reported by Senator Moran with an amendment in the nature of a substitute. With written report No. 119-98.
 - 2025-12-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 279.
+- 2025-12-18 — 
+- 2025-12-18 — Amendment SA 4142 agreed to in Senate by Unanimous Consent.
+- 2025-12-18 — Amendment SA 4142 proposed by Senator Thune for Senator Moran. (consideration: CR S8897-8898) To remove the authorization of appropriations for such sums as may be necessary.
+- 2025-12-18 — Measure laid before Senate by unanimous consent. (consideration: CR S8895-8898)
+- 2025-12-18 — Passed Senate with an amendment by Unanimous Consent. (text: CR S8897-8898)
+- 2025-12-18 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2025-12-18 — Senate amendment agreed to: Amendment SA 4142 agreed to in Senate by Unanimous Consent.
+- 2025-12-18 — Senate amendment proposed (on the floor): Amendment SA 4142 proposed by Senator Thune for Senator Moran.
+- 2025-12-18 — Senate amendment submitted
+- 2025-12-18 — The committee substitute as amended agreed to by Unanimous Consent.

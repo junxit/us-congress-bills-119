@@ -15,8 +15,8 @@ This Act may be cited as the “VetPAC Act of 2025”.
 
 ## § 2. Establishment of Veterans Health Administration Policy Advisory Commission
 
-- **(a)** *In general* Subchapter I of chapter 73 of title 38, United States Code, is amended by adding at the end the following new section:
-  > ## § 7310B. Veterans Health Administration Policy Advisory Commission
+- **(a)** *In general* Chapter 1 of title 38, United States Code, is amended by adding at the end the following new section:
+  > ## § 120. Veterans Health Administration Policy Advisory Commission
   >
   > - **(a)** *Establishment* There is established the Veterans Health Administration Policy Advisory Commission (in this section referred to as the “Commission”).
   > - **(b)** *Membership*
@@ -52,14 +52,18 @@ This Act may be cited as the “VetPAC Act of 2025”.
   >     - **(J)** The research program of the Department, including both internal and external research.
   >     - **(K)** Hospital construction, leasing, and capital requirements.
   >     - **(L)** The interaction of care under the Medicare program under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.), the Medicaid program under title XIX of such Act (42 U.S.C. 1396 et seq.), the TRICARE program under chapter 55 of title 10, and commercial health care plans with care furnished by the Veterans Health Administration.
-  >   - **(3)** *Issues regarding veteran health care delivery generally* In carrying out the requirements of this subsection, the Commission shall review the effect of policies under this title on the delivery of health care services to veterans and assess the implications of changes in health care delivery for veterans in the United States.
-  >   - **(4)** *Transmittal of certain reports* If the Secretary or the Inspector General of the Department of Veterans Affairs submits to Congress (or a committee of Congress) a report that is required by law and that relates to policies for health care furnished under the laws administered by the Secretary, the Secretary shall transmit a copy of that report to the Commission.
-  >   - **(5)** *Consultation and additional reviews and studies*
+  >   - **(3)** *Use of existing data* In carrying out the requirements of this subsection, the Commission, to the extent practicable, shall use existing data that has been compiled by the Department, compiled for the Department, or purchased by the Department, including—
+  >     - **(A)** data described in subsection (c)(1) of section 1704A of this title; and
+  >     - **(B)** the results of the independent assessments conducted under such section.
+  >   - **(4)** *Issues regarding veteran health care delivery generally* In carrying out the requirements of this subsection, the Commission shall review the effect of policies under this title on the delivery of health care services to veterans and assess the implications of changes in health care delivery for veterans under the laws administered by the Secretary.
+  >   - **(5)** *Transmittal of certain reports* If the Secretary or the Inspector General of the Department of Veterans Affairs submits to Congress (or a committee of Congress) a report that is required by law and that relates to policies for health care furnished under the laws administered by the Secretary, the Secretary shall transmit a copy of that report to the Commission.
+  >   - **(6)** *Consultation and additional reviews and studies*
   >     - **(A)** *Consultation* In carrying out the requirements of this subsection, the Commission shall consult periodically with the chairmen and ranking members of the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives regarding the agenda of the Commission and progress towards achieving that agenda.
   >     - **(B)** *Additional reviews and reports* The Commission may conduct additional reviews, and may submit additional reports to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives, from time to time on such topics relating to the activities of the Commission as may be requested by the Chairman and members and as the Commission determines appropriate.
   >     - **(C)** *Special studies* The Commission may conduct special studies requested by the chairman or ranking member of the Committee on Veterans’ Affairs of the Senate or the Committee on Veterans’ Affairs of the House of Representatives and as the Commission determines appropriate.
-  >   - **(6)** *Budgetary considerations* Before making any recommendations to Congress, the Commission shall examine the budget consequences of such recommendations, directly or through consultation with appropriate expert entities.
-  >   - **(7)** *Report*
+  >   - **(7)** *Coordination* In carrying out reviews, preparing reports, and conducting studies under this section, the Commission shall, to the extent practicable, coordinate with the Inspector General of the Department to ensure the work of the Commission does not interfere with investigations or remediations underway by the Inspector General.
+  >   - **(8)** *Budgetary considerations* Before making any recommendations to Congress, the Commission shall examine the budget consequences of such recommendations, directly or through consultation with appropriate expert entities.
+  >   - **(9)** *Report*
   >     - **(A)** *In general* By not later than March 15 of each year, the Commission shall submit to Congress a report containing the results and recommendations from the review conducted under paragraph (1).
   >     - **(B)** *Inclusion of recommendations* A recommendation may be included in a report under subparagraph (A) if a simple majority of the members of the Commission vote to include the recommendation in the report.
   > - **(g)** *Powers of Commission*
@@ -85,9 +89,7 @@ This Act may be cited as the “VetPAC Act of 2025”.
   >   - **(3)** *Treatment of personnel* For purposes of pay (other than pay of members of the Commission) and employment benefits, rights, and privileges, all personnel of the Commission shall be treated as if they were employees of the United States Senate.
   > - **(i)** *Detail of Federal employees* An employee of the Federal Government may be detailed to the Commission without reimbursement and without interruption or loss of civil service status or privileges.
   > - **(j)** *Access of congressional support agencies to information* The Commission shall provide to the Comptroller General, the Congressional Research Service, and the Congressional Budget Office unrestricted access to all deliberations, records, and nonproprietary data of the Commission not later than 30 days after such access is requested.
-  > - **(k)** *Authorization of appropriations*
-  >   - **(1)** *Request for appropriations* The Commission shall submit requests for appropriations in the same manner as the Comptroller General submits requests for appropriations, but amounts appropriated for the Commission shall be separate from amounts appropriated for the Comptroller General.
-  >   - **(2)** *Authorization* There are authorized to be appropriated such sums as may be necessary to carry out this section.
+  > - **(k)** *Authorization of appropriations* The Commission shall submit requests for appropriations in the same manner as the Comptroller General submits requests for appropriations, but amounts appropriated for the Commission shall be separate from amounts appropriated for the Comptroller General.
 
-- **(b)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 7310A the following new item:
-- **(c)** *Initial appointment* Not later than 280 days after the date on which amounts are first appropriated to the Veterans Health Administration Policy Advisory Commission established under section 7310B of title 38, United States Code, as added by subsection (a), the Comptroller General of the United States shall make initial appointments of members to the Commission under subsection (b)(1) of such section.
+- **(b)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by inserting after the item relating to section 119 the following new item:
+- **(c)** *Initial appointment* Not later than 280 days after the date on which amounts are first appropriated to the Veterans Health Administration Policy Advisory Commission established under section 120 of title 38, United States Code, as added by subsection (a), the Comptroller General of the United States shall make initial appointments of members to the Commission under subsection (b)(1) of such section.
