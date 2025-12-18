@@ -1,7 +1,7 @@
 ---
 measure: S. 1383
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1383
@@ -40,3 +40,5 @@ Veterans Accessibility Advisory Committee Act of 2025
 - 2025-12-02 — Committee on Veterans' Affairs. Reported by Senator Moran with an amendment in the nature of a substitute. Without written report.
 - 2025-12-02 — Committee on Veterans' Affairs. Reported by Senator Moran with an amendment in the nature of a substitute. Without written report.
 - 2025-12-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 276.
+- 2025-12-18 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S8894-8895; text: CR S8894-8895)
+- 2025-12-18 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
