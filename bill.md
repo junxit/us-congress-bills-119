@@ -211,3 +211,10 @@ Title I of the National Environmental Policy Act of 1969 (42 U.S.C. 4331 et seq.
   >       - **(i)** as expeditiously as practicable; and
   >       - **(ii)** not later than the date that is 180 days after the date on which the appeal is filed.
   > - **(e)** *No effect on review of compliance with other deadlines* This section shall not affect the right to obtain review under section 107(g)(3).
+
+## § 4. Preservation of ongoing administrative corrections
+
+This Act, and the amendments made by this Act, shall not apply to any agency action with respect to which a Federal agency has, during the period beginning on January 20, 2025, and ending on the date of enactment of this Act—
+
+- **(1)** filed a motion to voluntarily remand; or
+- **(2)** otherwise reopened, reconsidered, or initiated corrective action under the statutory authority of the Federal agency, regardless of whether the Federal agency has completed such corrective action as of the date of enactment of this Act.
