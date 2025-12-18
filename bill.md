@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 6838
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6838
+
+> To amend the Federal Credit Union Act, the Federal Deposit Insurance Act, the Revised Statutes, and the Federal Reserve Act to require Federal banking agencies to consider economic growth when conducting supervisory functions.
+
+## § 1. Mandate of economic growth in addition to safety and soundness
+
+- **(a)** *The Federal Credit Union Act* Section 102 of the Federal Credit Union Act (12 U.S.C. 1752a) is amended by adding at the end the following new subsection:
+  > - **(g)** *Economic growth* The Board shall take economic growth into account when conducting supervisory functions under this Act.
+
+- **(b)** *The Federal Deposit Insurance Act* Section 1 of the Federal Deposit Insurance Act (12 U.S.C. 1811) is amended by adding at the end the following new subsection:
+  > - **(c)** *Economic growth* The Corporation shall take economic growth into account when conducting supervisory functions under this Act.
+
+- **(c)** *National Bank Act* Section 324(a) of title VII of the Revised Statutes of the United States (12 U.S.C. 1(a)) is amended by striking “safety and soundness” and inserting “safety, soundness, and economic growth”.
+- **(d)** *The Federal Reserve Act* Section 2A of the Federal Reserve Act (12 U.S.C. 225a) is amended by striking “and moderate long-term interest rates.” and inserting “moderate long-term interest rates, and economic growth.”.
