@@ -1,0 +1,29 @@
+---
+legis-num: H. RES. 965
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 965
+
+> Providing for consideration of the bill (H.R. 1689) to require the Secretary of Homeland Security to designate Haiti for temporary protected status.
+
+That immediately upon adoption of this resolution, the House shall proceed to the consideration in the House of the bill (H.R. 1689) to require the Secretary of Homeland Security to designate Haiti for temporary protected status. All points of order against consideration of the bill are waived. The amendment in the nature of a substitute specified in section 4 of this resolution shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the majority leader and minority leader or their respective designees; and (2) one motion to recommit.
+
+## § 2.
+
+Clause 1(c) of rule XIX and clause 8 of rule XX shall not apply to the consideration of H.R. 1689.
+
+## § 3.
+
+The Clerk shall transmit to the Senate a message that the House has passed H.R. 1689 no later than one week after passage.
+
+## § 4.
+
+The amendment in the nature of a substitute referred to in the first section of this resolution is as follows:
+
+-  Strike all after the enacting clause and insert the following:
+  > ## § 1. Designation of Haiti for temporary protected status
+  >
+  > Notwithstanding any other provision of law, the Secretary of Homeland Security shall designate Haiti for temporary protected status until the date that is 3 months after January 20, 2029.
