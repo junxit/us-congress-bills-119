@@ -1,7 +1,7 @@
 ---
 measure: H.R. 845
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 845
@@ -56,9 +56,15 @@ Pet and Livestock Protection Act
 - Rep. Rulli, Michael A. [R-OH-6] (R000619)
 - Rep. Baumgartner, Michael [R-WA-5] (B001322)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Environment and Public Works Committee
+
+## Recorded votes (2)
+
+- 2025-12-18 — [House 119-1-359](votes/house-119-1-0359.md) — On Motion to Recommit — **Failed** (204–213)
+- 2025-12-18 — [House 119-1-360](votes/house-119-1-0360.md) — On Passage — **Passed** (211–204)
 
 ## Actions
 
@@ -73,3 +79,21 @@ Pet and Livestock Protection Act
 - 2025-10-03 — Placed on the Union Calendar, Calendar No. 285.
 - 2025-10-03 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-332.
 - 2025-10-03 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-332.
+- 2025-12-16 — Rules Committee Resolution H. Res. 951 Reported to House. Rule provides for consideration of H.R. 4776, H.R. 1366, H.R. 845, H.R. 3616, H.R. 3632 and H.R. 4371. The resolution provides for consideration of H.R. 4776, under a structured rule and H.R. 1366, H.R. 845, H.R. 3616, H.R. 3632, and H.R. 4371 under a closed rule. The resolution provides one motion to recommit on each bill.
+- 2025-12-18 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2025-12-18 — Considered as unfinished business. (consideration: CR H6070-6072)
+- 2025-12-18 — Considered under the provisions of rule H. Res. 951. (consideration: CR H6049-6056)
+- 2025-12-18 — DEBATE - The House proceeded with one hour of debate on H.R. 845.
+- 2025-12-18 — House amendment considered as adopted: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2025-12-18 — House amendment offered/reported by: Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2025-12-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2025-12-18 — Mr. Huffman moved to recommit to the Committee on Natural Resources. (text: CR H6056)
+- 2025-12-18 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2025-12-18 — On motion to recommit Failed by the Yeas and Nays: 204 - 213 (Roll no. 359).
+- 2025-12-18 — On passage Passed by the Yeas and Nays: 211 - 204 (Roll no. 360). (text of amendment in the nature of a substitute: CR H6050)
+- 2025-12-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 845, the Chair put the question on motion to recommit and by voice vote announced that the noes had prevailed. Mr. Huffman demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2025-12-18 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 211 - 204 (Roll no. 360).
+- 2025-12-18 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
+- 2025-12-18 — Rule provides for consideration of H.R. 4776, H.R. 1366, H.R. 845, H.R. 3616, H.R. 3632 and H.R. 4371. The resolution provides for consideration of H.R. 4776, under a structured rule and H.R. 1366, H.R. 845, H.R. 3616, H.R. 3632, and H.R. 4371 under a closed rule. The resolution provides one motion to recommit on each bill.
+- 2025-12-18 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2025-12-18 — The previous question was ordered pursuant to the rule.
