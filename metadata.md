@@ -1,7 +1,7 @@
 ---
 measure: S. 1204
 congress: 119
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 1204
@@ -35,3 +35,7 @@ Gold Star and Surviving Spouse Career Services Act
 
 - 2025-03-31 — Introduced in Senate
 - 2025-03-31 — Read twice and referred to the Committee on Veterans' Affairs.
+- 2025-12-18 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8895; text: CR S8895)
+- 2025-12-18 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2025-12-18 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
+- 2025-12-18 — Senate Committee on Veterans' Affairs discharged by Unanimous Consent.
