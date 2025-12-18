@@ -1,7 +1,7 @@
 ---
 measure: S. 607
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 607
@@ -35,3 +35,5 @@ Improving Veteran Access to Care Act
 - 2025-12-02 — Committee on Veterans' Affairs. Reported by Senator Moran with an amendment in the nature of a substitute and an amendment to the title. Without written report.
 - 2025-12-02 — Committee on Veterans' Affairs. Reported by Senator Moran with an amendment in the nature of a substitute and an amendment to the title. Without written report.
 - 2025-12-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 272.
+- 2025-12-18 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent. (consideration: CR S8898-8899; text: CR S8898-8899)
+- 2025-12-18 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
