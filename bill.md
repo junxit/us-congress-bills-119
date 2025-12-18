@@ -25,7 +25,9 @@ This Act may be cited as the “Accreditation Choice and Innovation Act”.
       - **(i)** in clause (i), by striking “principal”; and
       - **(ii)** in clause (ii), by striking “its principal” and inserting “a”; and
     - **(B)** in subparagraph (B), by striking “or” at the end;
-    - **(C)** in subparagraph (C), by inserting “or” at the end; and
+    - **(C)** in subparagraph (C)—
+      - **(i)** by striking “its principal” and inserting “a”; and
+      - **(ii)** by inserting “or” at the end; and
     - **(D)** by adding at the end the following:
       > - **(D)** is an entity (such as an industry-specific quality assurance entity) that has been—
       >   - **(i)** determined by a State to be a reliable authority as to the quality of education or skills development offered in such State for the purposes of this Act; and
@@ -38,11 +40,11 @@ This Act may be cited as the “Accreditation Choice and Innovation Act”.
       >   - **(ii)** both administratively and financially separate from, and independent of, any related, associated, or affiliated trade association or membership organization, by ensuring that—
       >     - **(I)** the members of the board or governing body of the accrediting agency or association are not elected or selected by the board or chief executive officer (or the representative of such board or officer) of any related, associated, or affiliated trade association or membership organization;
       >     - **(II)** among the membership of the board or governing body of the accrediting agency or association—
-      >       - **(aa)** if such board or body is comprised of 5 or fewer members, there is a minimum of one member who is not also a member of any related, associated, or affiliated trade association or membership organization (referred to in this subclause as a “public member”) and who represents business; and
-      >       - **(bb)** if such board or body is comprised of 6 or more members, there is a minimum of 2 public members (at least one of whom represents business) for every 6 members;
+      >       - **(aa)** if such board or body is comprised of 5 or fewer members, there is a minimum of one member who is not also a member of any related, associated, or affiliated trade association or membership organization (referred to in this subclause as a “public member”) and who represents business (such as an owner of a business (including a small business), a chief executive or operating officer of a business, or another other business executive or employer with optimum policymaking or hiring authority); and
+      >       - **(bb)** if such board or body is comprised of 6 or more members, there is a minimum of 2 public members (at least one of whom represents business (as described in item (aa))) for every 6 members;
       >     - **(III)** guidelines are established for such members to avoid conflicts of interest, including specific guidelines to ensure that no such member is an employee of any institution accredited by the agency or association or has a financial interest in any such institution;
       >     - **(IV)** dues to the accrediting agency or association are paid separately from any dues paid to any related, associated, or affiliated trade association or membership organization; and
-      >     - **(V)** the budget of the accrediting agency or association is developed, determined, and maintained by the accrediting agency or association without any review by, consultation with, or approval by any related, associated, or affiliated trade association or membership organization;
+      >     - **(V)** the budget of the accrediting agency or association is developed, determined, and maintained by the accrediting agency or association without any review by, consultation with, or approval by any related, associated, or affiliated trade association or membership organization; or
 
     - **(B)** by striking “or” at the end of subparagraph (B); and
     - **(C)** by striking subparagraph (C);
@@ -54,32 +56,38 @@ This Act may be cited as the “Accreditation Choice and Innovation Act”.
       > - **(B)** such accrediting agency or association consistently applies and enforces standards that respect the stated religious mission of an institution of higher education by—
       >   - **(i)** basing decisions regarding accreditation and preaccreditation on the standards of accreditation of such agency or association; and
       >   - **(ii)** not using as a negative factor the institution’s religious mission based policies, decisions, and practices in the areas covered by subparagraphs (B), (C), (D), (E), and (F) of paragraph (5), except that the agency or association may require that the institution’s or a program of study’s curricula include all core components required by the agency or association that are not inconsistent with the institution’s religious mission; and
-      > - **(C)** such agency or association demonstrates the ability to review, evaluate, and assess the quality of any instruction delivery model or method such agency or association has or seeks to include within its scope of recognition, without giving preference to or differentially treating (such as through separate standards, procedures, or policies) a particular instruction delivery model or method offered by an institution or program, except that in a case in which an instruction delivery model allows for the separation of the student from the instructor, the agency or association requires the institution to have processes through which the institution establishes that the student who registers in a course or program with such an instruction delivery model is the same student who participates in the course or program of study (including, to the extent practicable, the testing or other assessments required under the course or program of study), completes the course or program of study, and receives the academic credit for such course or program of study;
+      > - **(C)** such agency or association demonstrates the ability to review, evaluate, and assess the quality of any instruction delivery model or method such agency or association has or seeks to include within its scope of recognition, without giving preference to or differentially treating (such as through separate standards, procedures, or policies) a particular instruction delivery model or method offered by an institution or program, except that in a case in which an instruction delivery model allows for the separation of the student from the instructor, the agency or association requires the institution to have processes—
+      >   - **(i)** through which the institution establishes that the student who registers in a course or program with such an instruction delivery model is the same student who participates in the course or program of study (including, to the extent practicable, the testing or other assessments required under the course or program of study), completes the course or program of study, and receives the academic credit for such course or program of study; and
+      >   - **(ii)** which are implemented in a manner that is minimally burdensome to the student;
 
   - **(6)** in paragraph (5)—
     - **(A)** by amending subparagraph (A) to read as follows:
       > - **(A)** success with respect to student achievement outcomes in relation to the institution’s mission and to the programs the institution offers, or the mission of a specific degree, certificate, or credential program, which may include different standards for different institutions or programs of study, and which shall include—
       >   - **(i)** standards for consideration of student success outcomes measures, including—
-      >     - **(I)** a comparison of the total price charged to students for a program of study to the value-added earnings of students who completed such program (such as a comparison, with respect to students who completed the program in the same award year, of the median total price charged to such students to the median value-added earnings of such students);
+      >     - **(I)** a comparison of the median total price charged to students in a program of study student cohort to the value-added earnings of such cohort;
       >     - **(II)** completion rates;
       >     - **(III)** retention rates; and
-      >     - **(IV)** loan repayment rates);
+      >     - **(IV)** loan repayment rates;
       >   - **(ii)** standards for consideration of learning outcomes measures (such as competency attainment and licensing examination passage rates); and
-      >   - **(iii)** standards for consideration of labor market outcomes measures (such as employability measures, earnings gains, or other similar approaches); and
+      >   - **(iii)** standards for consideration of labor market outcomes measures (such as employability measures, earnings gains, or other similar approaches);
 
     - **(B)** by amending subparagraph (I) to read as follows:
-      > - **(I)** record of student complaints received by, or available to, the agency or association, and a process for resolving complaints received by the institution; and
+      > - **(I)** record of student complaints received by, or available to, the agency or association, and the institution’s process for resolving complaints against the institution; and
 
-    - **(C)** in the matter following subparagraph (J), by striking “subparagraphs (A), (H), and (J)” and inserting “subparagraph ((J)”.
+    - **(C)** in the matter following subparagraph (J), by striking “subparagraphs (A), (H), and (J)” and inserting “subparagraph (J)”; and
+  - **(7)** in paragraph (6)(A)(ii), by inserting before the semicolon at the end the following: “(including any student complaints received by, or available to, the agency or association)”.
 - **(b)** *Secretarial requirements and authority* Subsection (b) of section 496 of the Higher Education Act of 1965 (20 U.S.C. 1099b) is amended to read as follows:
   > - **(b)** *Secretarial requirements and authority*
   >   - **(1)** *State designated accrediting agency*
   >     - **(A)** *Approval of state plans* The Secretary shall—
-  >       - **(i)** approve a State’s designation of an entity as an accrediting agency or association for the purposes described in subsection (a)(2)(D) for a 5-year period, beginning not later than 30 days after receipt of the plan from such State with respect to such designation, if such plan includes each of the elements listed in subparagraph (B);
-  >       - **(ii)** submit to the State and the authorizing committees, and make publicly available the Secretary’s response to the State with respect to such plan, including whether the plan includes each of the elements listed in subparagraph (B); and
-  >       - **(iii)** if a State’s designation of an entity as an accrediting agency or association is approved pursuant to this subparagraph, publish in the Federal Register with a 30-day public comment period—
-  >         - **(I)** the plan submitted by such State with respect to such designation; and
-  >         - **(II)** the Secretary’s response to such plan.
+  >       - **(i)** if a State’s plan with respect to the State’s designation of an entity as an accrediting agency or association for the purposes described in subsection (a)(2)(D) includes each of the elements listed in subparagraph (B)—
+  >         - **(I)** subject to clause (ii)(I), approve the State’s designation of such entity as such accrediting agency or association for the purposes described in subsection (a)(2)(D) for a 5-year period, beginning not later than 30 days after receipt of the plan from such State with respect to such designation;
+  >         - **(II)** submit to the State and the authorizing committees, and make publicly available, the Secretary’s response to the State with respect to such plan, including whether the plan includes each of the elements listed in subparagraph (B); and
+  >         - **(III)** publish in the Federal Register, with a 30-day public comment period, the plan submitted by such State with respect to such designation, and the Secretary’s response to such plan; and
+  >       - **(ii)** if, not later than 30 days after the 30-day public comment period referred to in clause (i)(III), a State revises the State’s plan approved under clause (i)(I) to incorporate one or more of the comments received during such 30-day comment period, and such revised plan includes each of the elements listed in subparagraph (B)—
+  >         - **(I)** revise the 5-year period described in clause (i)(I) approving the State’s designation of the entity as an accrediting agency or association for the purposes described in subsection (a)(2)(D) to begin not later than 30 days after receipt of such revised plan;
+  >         - **(II)** submit to the State and the authorizing committees, and make publicly available, the Secretary’s response to the State with respect to such revised plan, including whether such revised plan includes each of the elements listed in subparagraph (B); and
+  >         - **(III)** publish in the Federal Register, such revised State plan, and the Secretary’s response to such revised State plan.
   >     - **(B)** *Required plan elements* The required elements of a State plan submitted under subparagraph (A) with respect to the designation of an entity as an accrediting agency or association are as follows:
   >       - **(i)** A description of the process the State used to select the entity for such designation.
   >       - **(ii)** A justification of the State’s decision to select the entity for such designation.
@@ -99,15 +107,19 @@ This Act may be cited as the “Accreditation Choice and Innovation Act”.
   >       - **(i)** has at least one year of experience in making accreditation or preaccreditation decisions; and
   >       - **(ii)** has policies in place that meet all the criteria under subsection (a) for recognition covering the range of the specific degrees, certificates, institutions, and programs of study for which the agency or association seeks such recognition; and
   >     - **(B)** provides an assurance that if the agency or association receives such recognition, the agency or association will submit to the Secretary monitoring reports regarding accreditation or preaccreditation decisions, as appropriate.
-  >   - **(3)** *Development of common terminology* Not later than 18 months after the date of enactment of the Accreditation Choice and Innovation Act, the Secretary shall—
-  >     - **(A)** convene a panel of experts to develop common terminology for accrediting agencies or associations to use in making accrediting decisions with respect to programs of study and institutions, such as a common understanding of monitoring, warning, show cause, and other relevant statuses, as appropriate; and
-  >     - **(B)** publish the recommendations for such common terminology in the Federal Register with a 60-day public comment period.
+  >   - **(3)** *Development of common terminology*
+  >     - **(A)** *In general* Not later than 18 months after the date of enactment of the Accreditation Choice and Innovation Act, the Secretary shall—
+  >       - **(i)** convene a panel of experts to develop common terminology for accrediting agencies or associations to use in making accrediting decisions with respect to programs of study and institutions, such as a common understanding of monitoring, warning, show cause, and other relevant statuses, as appropriate;
+  >       - **(ii)** publish in the Federal Register with a 60-day public comment period, the recommendations for such common terminology; and
+  >       - **(iii)** if the panel revises any recommendations published pursuant to clause (ii) based on the comments received during the 60-day public comment period, publish such revised recommendations in the Federal Register not later than 60 days after such 60-day comment period.
+  >     - **(B)** *Federal Advisory Committee Act* Chapter 10 of title 5, United States Code, shall not apply to the panel convened under this paragraph.
+  >     - **(C)** *Termination* The panel convened under this paragraph shall terminate on the date that is 60 days after the 60-day public comment period referred to in subparagraph (A)(ii).
 
 - **(c)** *Operating procedures required*
-  - **(1)** *On-site inspections and reviews* Paragraph (1) of section 496(c) (20 U.S.C. 1099b(c)) is amended—
+  - **(1)** *On-site inspections and reviews* Paragraph (1) of section 496(c) of the Higher Education Act of 1965 (20 U.S.C. 1099b(c)) is amended—
     - **(A)** by inserting “(which may vary based on institutional risk consistent with policies promulgated by the agency or association to determine such risk and interval frequency as authorized under subsection (p))” after “intervals”; and
     - **(B)** by striking “, including those regarding distance education”.
-  - **(2)** *Mechanism to identify institutions and programs experiencing difficulties* Section 496(c) (20 U.S.C. 1099b(c)) is further amended—
+  - **(2)** *Mechanism to identify institutions and programs experiencing difficulties* Section 496(c) of the Higher Education Act of 1965 (20 U.S.C. 1099b(c)) is further amended—
     - **(A)** by redesignating paragraphs (2) through (9) as paragraphs (3) through (10), respectively; and
     - **(B)** by inserting after paragraph (1) the following:
       > - **(2)** develops a policy process to identify any institution or program of study accredited by the agency or association that is not meeting the standards for accreditation of the agency or association, with a focus on the standards assessing an institution’s or program of study’s student success outcomes described in subsection (a)(5)(A)(i), which shall include—
@@ -116,7 +128,7 @@ This Act may be cited as the “Accreditation Choice and Innovation Act”.
       >     - **(i)** address and remedy performance issues with respect to such compliance; and
       >     - **(ii)** ensure that such plan is successfully implemented;
 
-  - **(3)** *Procedures with respect to substantive changes* Paragraph (5) of section 496(c) (20 U.S.C. 1099b(c)) (as redesignated by paragraph (2)(A)) is amended to read as follows:
+  - **(3)** *Procedures with respect to substantive changes* Paragraph (5) of section 496(c) of the Higher Education Act of 1965 (20 U.S.C. 1099b(c)) (as redesignated by paragraph (2)(A)) is amended to read as follows:
     > - **(5)** establishes and applies or maintains policies to ensure that any substantive change of an institution described in subparagraph (B) after the agency or association has granted the institution accreditation or preaccreditation status does not adversely affect the capacity of the institution to continue to meet the agency’s or association’s standards for such accreditation or preaccreditation status, which shall include policies that—
     >   - **(A)** require the institution to obtain the agency’s or association’s approval of the substantive change before the agency or association includes the change in the scope of the institution’s accreditation or preaccreditation status; and
     >   - **(B)** define substantive change to include—
@@ -125,7 +137,7 @@ This Act may be cited as the “Accreditation Choice and Innovation Act”.
     >     - **(iii)** changing the credential level offered by a program of study that was previously accredited by the agency or association when the program of study offered a different credential level; and
     >     - **(iv)** the entering into a contract under which another institution or an organization not eligible to participate in programs under this title offers more than 25 percent but less than 50 percent of the instruction of a program of study of the institution with such accreditation or preaccreditation status;
 
-  - **(4)** *Public availability* Section 496(c) (20 U.S.C. 1099b(c)) is further amended—
+  - **(4)** *Public availability* Section 496(c) of the Higher Education Act of 1965 (20 U.S.C. 1099b(c)) is further amended—
     - **(A)** in paragraph (8) (as redesignated by paragraph (2)(A))—
       - **(i)** in the matter preceding subparagraph (A), by inserting “, on the agency’s or association’s website,” after “public”; and
       - **(ii)** in subparagraph (C), by inserting before the semicolon at the end the following: “, and a summary of why such action was taken or such placement was made”;
@@ -137,18 +149,18 @@ This Act may be cited as the “Accreditation Choice and Innovation Act”.
       >   - **(B)** the most recent date that accreditation or reaccreditation was granted; and
       >   - **(C)** the anticipated date of the institution’s next evaluation for reaccreditation;
 
-  - **(5)** *Prohibition on assessment of elected or appointed officials* Section 496(c) (20 U.S.C. 1099b(c)) is further amended by adding at the end the following:
+  - **(5)** *Prohibition on assessment of elected or appointed officials* Section 496(c) of the Higher Education Act of 1965 (20 U.S.C. 1099b(c)) is further amended by adding at the end the following:
     > - **(12)** confirms that the standards for accreditation of the agency or association do not assess the roles (including actions or statements) of elected and appointed State and Federal officials and legislative bodies; and
 
-  - **(6)** *Prohibition of practices that result in credential inflation* Section 496(c) (20 U.S.C. 1099b(c)) is further amended by adding at the end the following:
-    > - **(13)** confirms that an institution’s or program of study’s compliance with a standard for accreditation of the agency or association does not require the institution or program to take any action (such as developing a new program of study) that would result in a violation of any other such standard (including the standards for consideration of student success outcomes described in subsection (a)(5)(A)(i) that relate to comparing the total price charged to students for a program of study to the value-added earnings of students who completed such program).
+  - **(6)** *Prohibition of practices that result in credential inflation* Section 496(c) of the Higher Education Act of 1965 (20 U.S.C. 1099b(c)) is further amended by adding at the end the following:
+    > - **(13)** confirms that an institution’s or program of study’s compliance with a standard for accreditation of the agency or association does not require the institution or program to take any action (such as developing a new program of study) that would result in a violation of any other such standard (including the standards for consideration of student success outcomes described in subsection (a)(5)(A)(i) that relate to comparing the median total price charged to students in a program of study student cohort to the value-added earnings of such cohort).
 
-- **(d)** *Limitation on scope of criteria* Section 496 (20 U.S.C. 1099b) is further amended by amending subsection (g) to read as follows:
+- **(d)** *Limitation on scope of criteria* Section 496 of the Higher Education Act of 1965 (20 U.S.C. 1099b) is further amended by amending subsection (g) to read as follows:
   > - **(g)** *Limitation on scope of criteria*
   >   - **(1)** *In general* The Secretary shall not establish criteria for accrediting agencies or associations that are not required by this section.
-  >   - **(2)** *Institutional eligibility* An institution of higher education shall meet the accreditation requirements for certification as an institution of higher education under section 102 and subpart 3 of this part, if the institution is in compliance with the standards of its accrediting agency or association that assess the institution in accordance with subsection (a)(5), regardless of any additional standards adopted by the agency or association for purposes unrelated to participation in programs under this title.
+  >   - **(2)** *Institutional eligibility* An institution that is in compliance with the standards of its accrediting agency or association that assess the institution in accordance with subsection (a)(5) shall meet the accreditation requirements for certification as an institution of higher education under section 102 and subpart 3 of this part, regardless of any additional standards adopted by the agency or association for purposes unrelated to participation in programs under this Act.
 
-- **(e)** *Change of accrediting agency* Section 496 (20 U.S.C. 1099b) is further amended by amending subsection (h) to read as follows:
+- **(e)** *Change of accrediting agency* Section 496 of the Higher Education Act of 1965 (20 U.S.C. 1099b) is further amended by amending subsection (h) to read as follows:
   > - **(h)** *Change of accrediting agency or association*
   >   - **(1)** *In general* With respect to an institution or program of study that is not subject to a covered action and that seeks to change its accrediting agency or association for a reason not related to any such covered action (such as compliance with State law)—
   >     - **(A)** the Secretary shall recognize the accreditation of such institution or program of study while the institution or program is in the process of changing its accrediting agency or association as long as, not later than 10 days before the start of such process, the institution or program of study provides written notification to the Secretary of such process; and
@@ -160,14 +172,16 @@ This Act may be cited as the “Accreditation Choice and Innovation Act”.
   >     - **(D)** Probation or an equivalent status imposed on the institution or program of study by a recognized accrediting agency or association.
   >     - **(E)** The institution is in the process of a substantive change (as described in subsection (c)(5)).
 
-- **(f)** *Dual accreditation rule* Section 496 (20 U.S.C. 1099b) is further amended by amending subsection (i) to read as follows:
+- **(f)** *Dual accreditation rule* Section 496 of the Higher Education Act of 1965 (20 U.S.C. 1099b) is further amended by amending subsection (i) to read as follows:
   > - **(i)** *Dual accreditation rule*
   >   - **(1)** *Recognition by secretary* The Secretary shall recognize the accreditation of any otherwise eligible institution of higher education if the institution of higher education is accredited, as an institution, by more than one accrediting agency or association.
   >   - **(2)** *Designation by institution* If the institution is accredited, as an institution, by more than one accrediting agency or association, the institution—
-  >     - **(A)** shall designate which agency’s or association’s accreditation shall be utilized in determining the institution’s eligibility for participation in programs under this Act; and
-  >     - **(B)** may change this designation at the end of the institution’s period of recognition.
+  >     - **(A)** shall—
+  >       - **(i)** designate which agency’s or association’s accreditation shall be utilized in determining the institution’s eligibility for participation in programs under this Act; and
+  >       - **(ii)** the period such agency’s or association’s accreditation shall be so utilized; and
+  >     - **(B)** after the period described in subparagraph (A)(ii), the institution may designate a different agency’s or association’s accreditation to be utilized in accordance with subparagraph (A)(i).
 
-- **(g)** *Religious institutions rule* Section 496 (20 U.S.C. 1099b) is further amended by amending subsection (k) to read as follows:
+- **(g)** *Religious institutions rule* Section 496 of the Higher Education Act of 1965 (20 U.S.C. 1099b) is further amended by amending subsection (k) to read as follows:
   > - **(k)** *Religious institution rule*
   >   - **(1)** *In general* Notwithstanding subsection (j), the Secretary shall allow an institution that has had its accreditation withdrawn, revoked, or otherwise terminated, or has voluntarily withdrawn from an accreditation agency, to remain certified as an institution of higher education under section 102 and subpart 3 of this part for a period sufficient to allow such institution to obtain alternative accreditation, if the Secretary determines, in accordance with paragraph (2), that such withdrawal, revocation, or termination—
   >     - **(A)** is related to the religious mission or affiliation of the institution; and
@@ -195,7 +209,7 @@ This Act may be cited as the “Accreditation Choice and Innovation Act”.
   >       - **(i)** *In general* The institution shall have a 30-day period beginning on the date on which the agency or association’s response is filed with the Secretary to file with the Secretary (and provide a copy to the agency or association) a response to any issues raised in the response of the agency or association.
   >       - **(ii)** *Waiver of right to respond* An institution that does not file such a response during the 30-day period described in clause (i) shall be deemed to have waived the institution’s right to respond to the response of the agency or association.
   >     - **(E)** *Secretarial action*
-  >       - **(i)** *In general* During the 30-day period described in subparagraph (D)(i)—
+  >       - **(i)** *In general* Not later than 30 days after the institution submits a response pursuant to subparagraph (D)(i), or, in the case of an institution that waives the institution’s right to respond in accordance to subparagraph (D)(ii), 30 days after the date on which the agency or association’s response is filed with the Secretary—
   >         - **(I)** the Secretary shall review the materials to determine if the accrediting agency or association has met its burden of proof under subparagraph (C)(ii)(I); or
   >         - **(II)** in a case in which the Secretary fails to conduct such review—
   >           - **(aa)** the Secretary shall be deemed as determining that the adverse action fails to respect the religious mission of the institution; and
@@ -210,24 +224,24 @@ This Act may be cited as the “Accreditation Choice and Innovation Act”.
   >       - **(i)** an accrediting agency or association from taking an adverse action against an institution of higher education for a failure to comply with the agency or association’s standards of accreditation as long as such standards are in compliance with subsection (a)(4)(B) and any other applicable requirements of this section; or
   >       - **(ii)** an institution of higher education from exercising any other rights to address concerns with respect to an accrediting agency or association or the accreditation process of an accrediting agency or association.
   >     - **(G)** *Regulations and guidance*
-  >       - **(i)** *In general* The Secretary may only issue regulations and guidance under this paragraph that explain or clarify the process for providing notice of an intent to file a complaint or for filing a complaint under this paragraph.
+  >       - **(i)** *In general* The Secretary may only issue regulations and guidance under this paragraph that explain or clarify the process for providing a notice of an intent to file a complaint under this paragraph, and for preparing and filing such a complaint, a response to such complaint by an accrediting agency or association, and a response by an institution to a response filed by an accrediting agency or association.
   >       - **(ii)** *Clarification* The Secretary may not issue regulations, guidance, or otherwise determine or suggest, when discussions to remedy the failure by an accrediting agency or association to respect the religious mission of an institution of higher education referred to in subparagraph (A)(i)(II)(bb) have failed or will fail.
 
-- **(h)** *Independent evaluation* Section 496(n)(3) (20 U.S.C. 1099b(n)(3)) is amended by striking the last sentence.
-- **(i)** *Regulations* Section 496(o) (20 U.S.C. 1099b(o)) is amended by inserting before the period at the end the following: “, or with respect to the policies and procedures of an accreditation agency or association described in paragraph (2) or (5) of subsection (c) or how the agency or association carries out such policies and procedures”.
-- **(j)** *Risk-Based review processes or procedures; waiver* Section 496 (20 U.S.C. 1099b) is further amended—
+- **(h)** *Independent evaluation* Section 496(n)(3) of the Higher Education Act of 1965 (20 U.S.C. 1099b(n)(3)) is amended by striking the last sentence.
+- **(i)** *Regulations* Section 496(o) of the Higher Education Act of 1965 (20 U.S.C. 1099b(o)) is amended by inserting before the period at the end the following: “, or with respect to the policies and procedures of an accreditation agency or association described in paragraph (2) or (5) of subsection (c) or how the agency or association carries out such policies and procedures”.
+- **(j)** *Risk-based review processes or procedures; waiver* Section 496 of the Higher Education Act of 1965 (20 U.S.C. 1099b) is further amended—
   - **(1)** by striking subsections (p) and (q); and
   - **(2)** by adding at the end the following:
-    > - **(p)** *Risk-Based or differentiated review processes or procedures*
+    > - **(p)** *Risk-based or differentiated review processes or procedures*
     >   - **(1)** *In general* Notwithstanding any other provision of law (including subsection (a)(4)(A)), an accrediting agency or association shall establish risk-based processes or procedures for assessing compliance with the accrediting agency or association’s standards (including policies related to substantive change and award of accreditation statuses) under which the agency or association—
     >     - **(A)** creates a system for understanding the performance of each institution and program of study being reviewed by such agency or association in comparison with the performance of other similarly situated institutions or programs of study (which may include the past performance of the institution or program with respect to meeting the accrediting agency or association’s standards, including the standards relating to the student success outcomes described in subsection (a)(5)(A)(i));
     >     - **(B)** with respect to each institution and program of study designated as high-risk, as determined using the accrediting agency or association’s system described in subparagraph (A), requires the institution and program of study to submit the annual plans described in subsection (c)(2)(B) to the agency or association that address the performance issues of such institution or program of study that resulted in such designation;
     >     - **(C)** with respect to each institution and program of study whose performance meets or exceeds the standards of the accrediting agency or association, as determined using the system described in subparagraph (A), reduces any compliance requirements with respect to such standards that are not assessing the institution or program of study in accordance with subsection (a)(5) (such as on-site inspections); and
-    >     - **(D)** may require an institution or program of study that has declining performance (such as an institution or program of study with a high-risk designation described in subparagraph (B)), which has not improved as required by the annual plan submitted under subsection (c)(2)(B), to take actions to avoid or minimize the risks that may lead to revocation of accreditation (such as limiting certain program of study enrollment or recommending to the Secretary to limit funds under this title for such an institution or program).
+    >     - **(D)** may require an institution or program of study that is required to submit an annual plan under subsection (c)(2)(B) (such as an institution or program that has a high-risk designation described in subparagraph (B)) and that has not improved as required by such annual plan, to take actions to avoid or minimize the risks that may lead to revocation of accreditation (such as limiting certain program of study enrollment or recommending to the Secretary to limit funds under this title for such an institution or program).
     >   - **(2)** *Prohibition* Any risk-based review process or procedure established pursuant to this subsection shall not discriminate against, or otherwise preclude, institutions of higher education based on institutional sector or category, including an institution of higher education’s tax status.
 
-- **(k)** *Definitions* Section 496 (20 U.S.C. 1099b) is further amended by adding at the end the following:
-  > - **(q)** *Definitions* For purposes of this Act:
+- **(k)** *Definitions* Section 496 of the Higher Education Act of 1965 (20 U.S.C. 1099b) is further amended by adding at the end the following:
+  > - **(q)** *Definitions* For purposes of this section:
   >   - **(1)** *Program length* The term ‘program length’ means the minimum amount of time in weeks, months, or years that is specified in the catalog, marketing materials, or other official publications of an institution of higher education for a full-time student to complete the requirements for a specific program of study.
   >   - **(2)** *Program of study*
   >     - **(A)** *In general* The term program of study means an eligible program at an institution of higher education that is classified by a combination of—
@@ -236,37 +250,40 @@ This Act may be cited as the “Accreditation Choice and Innovation Act”.
   >     - **(B)** *CIP CODE* The term CIP code means the six-digit taxonomic identification code assigned by an institution of higher education to a specific program of study at the institution, determined by the institution of higher education in accordance with the Classification of Instructional Programs published by the National Center for Education Statistics.
   >     - **(C)** *Credential level*
   >       - **(i)** *In general* The term credential level means the level of the degree or other credential awarded by an institution of higher education to students who complete a program of study of the institution. Each degree or other credential awarded by an institution shall be categorized by the institution as either undergraduate credential level or graduate credential level.
-  >       - **(ii)** *Undergraduate credential* When used with respect to a credential or credential level, the term `undergraduate credential' includes credentials such as an undergraduate certificate, an associate degree, a bachelor's degree, and a post-baccalaureate certificate (including the coursework specified in paragraphs (3)(B) and (4)(B) of section 484(b)).
-  >       - **(iii)** *Graduate credential* When used with respect to a credential or credential level, the term graduate credential includes credentials such as a master's degree, a doctoral degree, a professional degree, and a postgraduate certificate.
-  >   - **(3)** *Religious mission* The term religious mission—
+  >       - **(ii)** *Undergraduate credential* When used with respect to a credential or credential level, the term `undergraduate credential' includes credentials such as an undergraduate certificate, an associate degree, a bachelor’s degree, and a post-baccalaureate certificate (including the coursework specified in paragraphs (3)(B) and (4)(B) of section 484(b)).
+  >       - **(iii)** *Graduate credential* When used with respect to a credential or credential level, the term graduate credential includes credentials such as a master’s degree, a doctoral degree, a professional degree, and a postgraduate certificate.
+  >   - **(3)** *Program of study student cohort*
+  >     - **(A)** *In general* The term program of study student cohort means the cohort of individuals who completed a specific program of study at an institution of higher education during the same award year, except that such cohort shall only include an individual who received Federal financial aid under this title during the period the individual was enrolled in such program of study.
+  >     - **(B)** *Small cohorts* With respect to such a program of study student cohort that has fewer than 30 individuals, the Secretary shall aggregate additional years of data for the program of study in order to achieve a cohort of at least 30 individuals.
+  >   - **(4)** *Religious mission* The term religious mission—
   >     - **(A)** means a published institutional mission that is approved by the governing body of an institution of higher education and that includes, refers to, or is predicated upon religious tenets, beliefs, or teachings; and
   >     - **(B)** may be reflected in any of the institution’s policies, decisions, or practices related to such tenets, beliefs, or teachings (including any policies or decisions concerning housing, employment, curriculum, self-governance, or student admission, continuing enrollment, or graduation).
-  >   - **(4)** *Total price* With respect to a student who received Federal financial assistance under this title and who completes a program of study, the term ‘total price’ means the total amount, before Federal financial assistance under this title was applied, a student was required to pay to complete the program of study. A student’s total price shall be calculated by the Secretary as the difference between—
+  >   - **(5)** *Total price* With respect to a student who received Federal financial assistance under this title and who completes a program of study, the term ‘total price’ means the total amount, before Federal financial assistance under this title was applied, a student was required to pay to complete the program of study. A student’s total price shall be calculated by the Secretary as the difference between—
   >     - **(A)** the total amount of tuition and fees that were charged to such student before the application of any Federal financial assistance provided under this title; minus
   >     - **(B)** the total amount of grants and scholarships described in section 480(i) awarded to such student from non-Federal sources for such program of study.
-  >   - **(5)** *Value-added earnings*
-  >     - **(A)** *In general* With respect to a student who received Federal financial aid under this title and who completed a program of study offered by an institution of higher education, the term ‘value-added earnings’ means—
-  >       - **(i)** the annual earnings of such student measured during the applicable earnings measurement period for such program (as determined under subparagraph (C)); minus
-  >       - **(ii)** in the case of a student who completed a program of study that awards—
-  >         - **(I)** an undergraduate credential, 150 percent of the poverty line applicable to a single individual as determined under section 673(2) of the Community Services Block Grant Act (42 U.S.C. 9902(2)) for such year; or
-  >         - **(II)** a graduate credential, 300 percent of the poverty line applicable to a single individual as determined under section 673(2) of the Community Services Block Grant Act (42 U.S.C. 9902(2)) for such year.
-  >     - **(B)** *Geographic adjustment*
-  >       - **(i)** *In general* Except as provided in clause (ii), the Secretary shall use the geographic location of the institution at which a student completed a program of study to adjust the value-added earnings of the student calculated under subparagraph (A) by dividing—
-  >         - **(I)** the difference between clauses (i) and (ii) of such subparagraph; by
-  >         - **(II)** the most recent regional price parity index of the Bureau of Economics Analysis for the State or, as applicable, metropolitan area in which such institution is located.
-  >       - **(ii)** *Exception* The value-added earnings of a student calculated under subparagraph (A) shall not be adjusted based on geographic location in accordance with clause (i) if such student attended principally through distance education.
-  >     - **(C)** *Earnings measurement period*
-  >       - **(i)** *In general* For the purpose of calculating the value-added earnings of a student, except as provided in clause (ii), the annual earnings of a student shall be measured—
-  >         - **(I)** in the case of a program of study that awards an undergraduate certificate, post baccalaureate certificate, or graduate certificate, 1 year after the student completes such program;
-  >         - **(II)** in the case of a program of study that awards an associate’s degree or master’s degree, 2 years after the student completes such program; and
-  >         - **(III)** in the case of a program of study that awards a bachelor’s degree, doctoral degree, or professional degree, 4 years after the student completes such program.
-  >       - **(ii)** *Exception* The Secretary may, as the Secretary determines appropriate based on the characteristics of a program of study, extend an earnings measurement period described in clause (i) for a program of study that—
+  >   - **(6)** *Value-added earnings*
+  >     - **(A)** *Value-added earnings*
+  >       - **(i)** *In general* The term value-added earnings mean—
+  >         - **(I)** the median annual earnings of a program of study student cohort, as adjusted pursuant to clause (iii) (as appropriate), minus
+  >         - **(II)** the product of—
+  >           - **(aa)** the poverty line applicable to a single individual, (as determined under section 673(2) of the Community Services Block Grant Act (42 U.S.C. 9902(2))) for the year in which such earnings were measured; and
+  >           - **(bb)** the applicable percentage described in clause (ii).
+  >       - **(ii)** *Applicable percentage* The applicable percentage described in this clause is—
+  >         - **(I)** in the case of a program of study student cohort for program of study that awards an undergraduate credential, 150 percent; and
+  >         - **(II)** in the case of a program of study student cohort for a program of study that awards a graduate credential, 300 percent.
+  >       - **(iii)** *Geographic adjustment* Except in the case of a program of study student cohort in which 50 percent or more of the individuals in such cohort participated exclusively online, the Secretary shall adjust the median annual earnings of a program of study student cohort by the regional price parity index of the Bureau of Economic Analysis for the metropolitan statistical area in which the institution offering such program is located.
+  >     - **(B)** *Annual earnings*
+  >       - **(i)** *Annual earnings* The term annual earnings means the earnings of an individual who is in a program of study student cohort, who is working, and who is not enrolled at an institution, measured—
+  >         - **(I)** in the case of an undergraduate certificate, post-baccalaureate certificate, or graduate certificate, 1 year after completion of such program;
+  >         - **(II)** in the case of an associates or masters degree, 2 years after completion of such program; and
+  >         - **(III)** in the case of bachelor’s degree, doctoral degree, or professional degree, 4 years after completion of such program.
+  >       - **(ii)** *Exception* The Secretary may, as the Secretary determines appropriate based on the characteristics of a program of study, extend the applicable measurement period under clause (i) for a program of study that—
   >         - **(I)** requires completion of an additional educational program (such as a residency or fellowship) after completion of the program of study in order to obtain licensure or board certification associated with the credential awarded for such program of study; and
-  >         - **(II)** when combined with the program length of such additional educational program for licensure or board certification, has a total program length that exceeds the relevant earnings measurement period prescribed for such program of study under clause (i),
+  >         - **(II)** when combined with the program length of such additional educational program for licensure or board certification, has a total program length that exceeds the applicable measurement period under clause (i) for such program of study,
 
 ## § 3. National Advisory Committee on Institutional Quality and Integrity (NACIQI)
 
-Section 114 (20 U.S.C. 1011c) is amended—
+Section 114 of the Higher Education Act of 1965 (20 U.S.C. 1011c) is amended—
 
 - **(1)** in subsection (b)—
   - **(A)** in paragraph (2), by redesignating subparagraphs (A) through (C) as clauses (i) through (iii), respectively, and adjusting the margins accordingly;
@@ -279,7 +296,7 @@ Section 114 (20 U.S.C. 1011c) is amended—
 
   - **(E)** in paragraph (3)—
     - **(i)** by striking “Except as provided in paragraph (5), the term” and inserting “The term”; and
-    - **(ii)** by adding at the end the following: “If, during a term of office of a member of the Committee, the member has a changed circumstance that results in such member having a significant conflict of interest (as described in paragraph (2)(B)), such member shall vacate such office and a new member shall be appointed to serve the remainder of such term in accordance with this paragraph.”
+    - **(ii)** by adding at the end the following: “If, during a term of office of a member of the Committee, the member has a changed circumstance that results in such member having a significant conflict of interest (as described in paragraph (2)(B)), such member shall vacate such office and a new member shall be appointed to serve the remainder of such term in accordance with this paragraph.”;
 - **(2)** in subsection (c)—
   - **(A)** in paragraph (4), by adding “and” at the end;
   - **(B)** in paragraph (5), by striking “; and” at the end and inserting a period; and
@@ -287,3 +304,7 @@ Section 114 (20 U.S.C. 1011c) is amended—
 - **(3)** in subsection (d)(2), by inserting at the end the following: “The name of any member of the Committee who has been recused with respect to an agenda item of the meeting shall be included in such agenda.”;
 - **(4)** in subsection (e)(2)(D), by striking “, including any additional functions established by the Secretary through regulation”; and
 - **(5)** in subsection (f), by striking “September 30, 2021” and inserting “September 30, 2028”.
+
+## § 4. Rule of construction
+
+Nothing in this Act, or the amendments made by this Act, shall be construed to prevent religious accreditors from holding and enforcing religious standards on institutions they choose to accredit.
