@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 6912
+congress: 119th CONGRESS
+session: 1st Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6912
+
+> To amend the Internal Revenue Code of 1986 to exclude certain combat zone compensation of certain servicemembers relating to remotely piloted aircraft from gross income.
+
+## § 1. Short title
+
+This Act may be cited as the “Remotely Piloted Aircraft Crews Tax Relief Act”.
+
+## § 2. Expansion of combat zone compensation exclusion
+
+- **(a)** *In general* Section 112 of the Internal Revenue Code of 1986 is amended in subsections (a) and (b) by inserting “including the operation of a remotely piloted aircraft when such aircraft is in a combat zone and the provision of intelligence, targeting, or command and control that is certified by the Secretary of Defense to be in direct support of such operation,” after “served in a combat zone,” both places such term appears.
+- **(b)** *Effective date* The amendments made by this section shall apply with respect to compensation received in taxable years ending after the date of the enactment of this section for periods of active service after such date.
