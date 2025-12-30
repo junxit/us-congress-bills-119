@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Haiti Economic Lift Program Extension Act”.
 
-## § 2. Extension of special rules for Haiti under the Caribbean Basin Economic Recovery Act
+## § 2. Extension of special rules for Haiti under Caribbean Basin Economic Recovery Act
 
 Section 213A of the Caribbean Basin Economic Recovery Act (19 U.S.C. 2703a) is amended—
 
