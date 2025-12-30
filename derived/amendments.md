@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2312
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -35,12 +35,12 @@ to guess them.
 
 ### 29 U.S.C. § 203
 
-> by striking “engaged in an occupation in which he customarily and regularly receives more than $30 a month in tips.” and inserting “, without regard to the duties of the employee, who receives tips and other cash wages for a period described in paragraph (2) at a rate that when combined with the cash wage required under subsection (m)(2)(A)(i) is greater than or equal to the wage in effect under section 6(a)(1).”; and
+> by striking “engaged in an occupation in which he customarily and regularly receives more than $30 a month in tips.” and inserting “, without regard to the duties of the employee, who receives tips and other cash wages for a work period described in paragraph (2) at a rate that, when combined with the cash wage required under subsection (m)(2)(A)(i), is not less than the wage in effect under section 6(a)(1).”; and
 
 | | |
 |---|---|
 | Removed | `engaged in an occupation in which he customarily and regularly receives more than $30 a month in tips.` |
-| Inserted | `, without regard to the duties of the employee, who receives tips and other cash wages for a period described in paragraph (2) at a rate that when combined with the cash wage required under subsection (m)(2)(A)(i) is greater than or equal to the wage in effect under section 6(a)(1).` |
+| Inserted | `, without regard to the duties of the employee, who receives tips and other cash wages for a work period described in paragraph (2) at a rate that, when combined with the cash wage required under subsection (m)(2)(A)(i), is not less than the wage in effect under section 6(a)(1).` |
 
 ## Stated, not applied
 

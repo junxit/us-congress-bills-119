@@ -18,6 +18,6 @@ This Act may be cited as the “Tipped Employee Protection Act”.
 Section 3(t) of the Fair Labor Standards Act of 1938 (29 U.S.C. 203(t)) is amended—
 
 - **(1)** by striking “(t)” and inserting “(t)(1)”;
-- **(2)** by striking “engaged in an occupation in which he customarily and regularly receives more than $30 a month in tips.” and inserting “, without regard to the duties of the employee, who receives tips and other cash wages for a period described in paragraph (2) at a rate that when combined with the cash wage required under subsection (m)(2)(A)(i) is greater than or equal to the wage in effect under section 6(a)(1).”; and
+- **(2)** by striking “engaged in an occupation in which he customarily and regularly receives more than $30 a month in tips.” and inserting “, without regard to the duties of the employee, who receives tips and other cash wages for a work period described in paragraph (2) at a rate that, when combined with the cash wage required under subsection (m)(2)(A)(i), is not less than the wage in effect under section 6(a)(1).”; and
 - **(3)** by adding at the end the following:
-  > - **(2)** The period described in this paragraph may be (as determined by the employer) a period of 1 day, 1 week, every other week, every pay period, or 1 month.
+  > - **(2)** A work period described in this paragraph is a work period that is determined by the employer of the employee, such as a work period of 1 day, 1 week, every 2 weeks, every 28 days, or every pay period.
