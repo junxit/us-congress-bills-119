@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6500
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -62,12 +62,12 @@ to guess them.
 
 ### 19 U.S.C. § 3721
 
-> in the paragraph heading, by striking “September 30, 2025” and inserting “December 31, 2028”;
+> in the paragraph heading, by striking “september 30, 2025” and inserting “december 31, 2028”;
 
 | | |
 |---|---|
-| Removed | `September 30, 2025` |
-| Inserted | `December 31, 2028` |
+| Removed | `september 30, 2025` |
+| Inserted | `december 31, 2028` |
 
 ### 19 U.S.C. § 3721
 

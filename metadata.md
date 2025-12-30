@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6500
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6500
@@ -29,3 +29,8 @@ Continuing Appropriations and Extensions Act, 2027
 - 2025-12-09 — Introduced in House
 - 2025-12-09 — Introduced in House
 - 2025-12-09 — Referred to the House Committee on Ways and Means.
+- 2025-12-10 — Committee Consideration and Mark-up Session Held
+- 2025-12-10 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 37 - 3.
+- 2025-12-30 — Placed on the Union Calendar, Calendar No. 362.
+- 2025-12-30 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-416.
+- 2025-12-30 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-416.

@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “AGOA Extension Act”.
 
-## § 2. Extension of preferential treatment for certain countries in Africa under the African Growth and Opportunity Act; retroactive application
+## § 2. Extension of preferential treatment for certain countries in Africa under African Growth and Opportunity Act; retroactive application
 
 - **(a)** *Extension*
   - **(1)** *Trade Act of 1974* Section 506B of the Trade Act of 1974 (19 U.S.C. 2466b) is amended by striking “September 30, 2025” and inserting “December 31, 2028”.
@@ -23,7 +23,7 @@ This Act may be cited as the “AGOA Extension Act”.
       - **(i)** in clause (i), by striking “21 succeeding” and inserting “24 succeeding”; and
       - **(ii)** in clause (ii)(II), by striking “September 30, 2025” and inserting “December 31, 2028”.
     - **(C)** *Third-country fabric program* Section 112(c)(1) of the African Growth and Opportunity Act (19 U.S.C. 3721(c)(1)) is amended—
-      - **(i)** in the paragraph heading, by striking “September 30, 2025” and inserting “December 31, 2028”;
+      - **(i)** in the paragraph heading, by striking “september 30, 2025” and inserting “december 31, 2028”;
       - **(ii)** in subparagraph (A), by striking “September 30, 2025” and inserting “December 31, 2028”; and
       - **(iii)** in subparagraph (B)(ii), by striking “September 30, 2025” and inserting “December 31, 2028”.
 - **(b)** *Retroactive application*
