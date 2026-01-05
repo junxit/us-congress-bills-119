@@ -1,7 +1,7 @@
 ---
 legis-num: S. 320
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -19,8 +19,9 @@ Section 2 of the Earthquake Hazards Reduction Act of 1977 (42 U.S.C. 7701) is am
 
 - **(1)** in paragraph (1)—
   - **(A)** by striking “50 States, and the Commonwealth of Puerto Rico,” and inserting “States and Tribal jurisdictions”;
-  - **(B)** by striking “of them” and inserting “States”; and
-  - **(C)** by adding at the end the following: “Almost half of the United States population resides in areas that are at risk or experiencing a damaging earthquake during the 50-year period beginning on the date of the enactment of the National Earthquake Hazards Reduction Program Reauthorization Act of 2025”;
+  - **(B)** by striking “of them” and inserting “States”;
+  - **(C)** by striking “Tennessee,,” and inserting “, Tennessee,”; and
+  - **(D)** by striking “A large portion of the population of the United States lives in areas vulnerable to earthquake hazards” and inserting “Almost half of the United States population resides in areas that are at risk or experiencing a damaging earthquake during the 50-year period beginning on the date of the enactment of the National Earthquake Hazards Reduction Program Reauthorization Act of 2025”;
 - **(2)** in paragraph (2)—
   - **(A)** by inserting after the first sentence the following: “A 2023 report by the Federal Emergency Management Agency and the United States Geological Survey (FEMA P–366) estimates the annualized earthquake losses to the national building stock is $14,700,000,000 per year and the total economic exposure to earthquake losses (buildings and contents) across the nation is $107,800,000,000,000.”; and
   - **(B)** in the third sentence—
@@ -52,7 +53,7 @@ Section 3 of the Earthquake Hazards Reduction Act of 1977 (42 U.S.C. 7702) is am
   - **(B)** by striking “locations and structures” and inserting “buildings and infrastructure”;
 - **(2)** in paragraph (2)—
   - **(A)** by striking “and construction” and inserting “, construction, evaluation, and retrofitting”; and
-  - **(B)** by inserting “housing and care facilities for vulnerable populations,” after “occupancy buildings”; and
+  - **(B)** by inserting “housing and care facilities for vulnerable populations,” after “occupancy buildings,”; and
 - **(3)** in paragraph (4)—
   - **(A)** by striking “and local” and inserting “, local, and Tribal government”; and
   - **(B)** by striking “encourage consideration of” and inserting “incorporate”.
@@ -61,7 +62,7 @@ Section 3 of the Earthquake Hazards Reduction Act of 1977 (42 U.S.C. 7702) is am
 
 Section 4 of the Earthquake Hazards Reduction Act of 1977 (42 U.S.C. 7703) is amended—
 
-- **(1)** in paragraph (3), by inserting “, including secondary effects such as earthquake-caused tsunamis”; and
+- **(1)** in paragraph (3), by inserting “, including secondary effects such as earthquake-caused tsunamis” after “earthquakes”; and
 - **(2)** by adding at the end the following:
   > - **(11)** The term Tribal government has the meaning given the term “tribal government” in section 421 of the Congressional Budget Act of 1974 (2 U.S.C. 658).
   > - **(12)** The term functional recovery means a post-earthquake performance state in which a building or lifeline infrastructure system is maintained, or restored, to safely and adequately support the basic intended functions associated with the pre-earthquake use or occupancy of a building, or the pre-earthquake service level of a lifeline infrastructure system.
@@ -72,7 +73,7 @@ Section 4 of the Earthquake Hazards Reduction Act of 1977 (42 U.S.C. 7703) is am
 - **(a)** *Program activities* Subsection (a)(2) of section 5 of the Earthquake Hazards Reduction Act of 1977 (42 U.S.C. 7704) is amended—
   - **(1)** in subparagraph (B)—
     - **(A)** in the matter before clause (i)—
-      - **(i)** by striking “and local” and inserting “, local, and Tribal”; and
+      - **(i)** by striking “and local” and inserting “local, and Tribal”; and
       - **(ii)** by striking “and constructing” and inserting “, designing, constructing, evaluating, and retrofitting”;
     - **(B)** by amending clause (ii) to read as follows:
       > - **(ii)** development of standards, guidelines, and voluntary standards, guidelines, and consensus codes for earthquake hazards reduction for buildings, structures, and lifeline infrastructure, including post-earthquake recovery-based performance objectives that address reoccupancy and downtime of community-prioritized buildings, structures, and services provided by lifeline infrastructure;
@@ -93,7 +94,7 @@ Section 4 of the Earthquake Hazards Reduction Act of 1977 (42 U.S.C. 7703) is am
   - **(3)** by redesignating subparagraph (D) as subparagraph (E); and
   - **(4)** by inserting after subparagraph (C) the following:
     > - **(D)** improve the understanding of—
-    >   - **(i)** the multiple hazards associated with earthquakes, including liquefaction, tsunamis, landslides, structural fires, and the compounding effects of climate on these hazards; and
+    >   - **(i)** the multiple hazards associated with earthquakes, including liquefaction, tsunamis, landslides, and structural fires; and
     >   - **(ii)** potential mitigation measures for such hazards; and
 
 - **(b)** *Duties of Interagency Coordinating Committee on Earthquake Hazards Reduction* Subsection (a)(3)(D)(ii) of such section is amended—
@@ -103,13 +104,10 @@ Section 4 of the Earthquake Hazards Reduction Act of 1977 (42 U.S.C. 7703) is am
 
 - **(c)** *Biennial report* Subsection (a)(4)(A) of such section is amended by striking “under paragraph (3)(D)(i)(I)” each place it appears and inserting “under paragraph (3)(D)(ii)(I)”.
 - **(d)** *Advisory committee* Subsection (a)(5)(A) of such section is amended—
-  - **(1)** by inserting “the Chair of the Scientific Earthquake Studies Advisory Committee and” after “including”;
-  - **(2)** by striking “and local government” and inserting “, local, and Tribal governments”; and
-  - **(3)** by inserting “social,” after “scientific,”.
+  - **(1)** by inserting “the Chair of the Scientific Earthquake Studies Advisory Committee and” after “including”; and
+  - **(2)** by striking “and local government” and inserting “, local, and Tribal governments”.
 - **(e)** *Lead agency for responsibilities of Program agencies* Subsection (b)(1) of such section is amended—
-  - **(1)** in subparagraph (A)—
-    - **(A)** by striking “and local” and inserting “local, and Tribal governments”; and
-    - **(B)** by striking “plan and constructing” and inserting “planning, designing, constructing, evaluating, and retrofitting”;
+  - **(1)** in subparagraph (A), by striking “and local” and all that follows through the semicolon at the end and inserting the following: “local, and Tribal governments, national standards and model building code organizations, architects and engineers, and others with a role in planning, designing, constructing, evaluating, and retrofitting buildings and lifeline infrastructure;”;
   - **(2)** by redesignating subparagraphs (C) and (D) as subparagraphs (F) and (G), respectively; and
   - **(3)** by inserting after subparagraph (B) the following:
     > - **(C)** improve the understanding of earthquake-caused fires and support the development of engineering tools and construction methods that mitigate the risk of fire following earthquakes;
@@ -140,7 +138,7 @@ Section 4 of the Earthquake Hazards Reduction Act of 1977 (42 U.S.C. 7703) is am
 - **(g)** *Responsibilities of United States Geological Survey* Subsection (b)(3) of such section is amended—
   - **(1)** in subparagraph (B), by striking “and local” and inserting “, local, and Tribal”;
   - **(2)** in subparagraph (C), by inserting “, the Chair of the Federal Communications Commission,” after “Agency”;
-  - **(3)** by redesignating subparagraphs (D) through (K) as subparagraphs (L) through (Q), respectively;
+  - **(3)** by redesignating subparagraphs (D) through (K) as subparagraphs (I) through (P), respectively;
   - **(4)** by inserting after subparagraph (C) the following:
     > - **(D)** coordinate with the Administrator of the National Oceanic and Atmospheric Administration and the Administrator of the Federal Emergency Management Agency on data sharing and resource allocation to support a timely response to oceanic earthquakes and tsunamis;
     > - **(E)** in consultation with the Chair of the Federal Communications Commission, ensure that earthquake alerts and early warnings are broadcast as rapidly and reliably as possible, in the predominant languages in the affected region, to ensure maximum warning time for nearby persons;
@@ -151,9 +149,9 @@ Section 4 of the Earthquake Hazards Reduction Act of 1977 (42 U.S.C. 7703) is am
   - **(5)** in subparagraph (I), as redesignated by paragraph (3), by inserting “the Chair of the Federal Communications Commission,” after “Agency,”;
   - **(6)** in subparagraph (L), as redesignated by paragraph (3), by striking “; and” and inserting a semicolon;
   - **(7)** in subparagraph (M), as redesignated by paragraph (3), by striking the period at the end and inserting a semicolon; and
-  - **(8)** in subparagraph (O), as redesignated by paragraph (3), by inserting “maps of natural hazards associated with earthquakes and”.
+  - **(8)** in subparagraph (O), as redesignated by paragraph (3), by inserting “maps of natural hazards associated with earthquakes and” after “including”.
 - **(h)** *Responsibilities of National Science Foundation* Subsection (b)(4)(A) of such section is amended—
-  - **(1)** in clause (iii), by inserting “including updated tsunami and liquefaction risk maps,”; and
+  - **(1)** in clause (iii), by inserting “including updated tsunami and liquefaction risk maps,” after “maps,”; and
   - **(2)** in clause (vii), by striking “Historically Black Colleges and Universities and those serving large proportions of Hispanics, Native Americans, Asian-Pacific Americans, and other underrepresented populations” and inserting “institutions described in section 371(a) of the Higher Education Act of 1965 (20 U.S.C. 1067q(a))”.
 
 ## § 6. Seismic performance property standards
@@ -169,7 +167,7 @@ Section 8 of the Earthquake Hazards Reduction Act of 1977 (42 U.S.C. 7705b) is a
 
 - **(1)** in subsection (b), by striking “under paragraph (1)” and inserting “under subsection (a)”; and
 - **(2)** by adding at the end the following:
-  > - **(c)** *Implementation of recommendations* Each Program agency, as part of their Program responsibilities, shall execute research, projects, grants, and other activities that support, promote, advance, or otherwise implement the recommendations in the report submitted pursuant to subsection (b) to improve the performance of the built environment in terms of post-earthquake reoccupancy and functional recovery time.
+  > - **(c)** *Implementation of recommendations* Each Program agency, as part of their Program responsibilities, shall implement, within the Program activities authorized by this Act, the applicable recommendations in the report submitted pursuant to subsection (b) to improve the performance of the built environment in terms of post-earthquake reoccupancy and functional recovery time.
   > - **(d)** *Biennial reports*
   >   - **(1)** *Biennial reports to Interagency Coordinating Committee* No later than September 30, 2025, and not less frequently than once every 2 years thereafter, each Program agency shall submit to the Interagency Coordinating Committee a report on activities and progress made to support, promote, or advance the implementation of the recommendations included in the report submitted pursuant to subsection (b).
   >   - **(2)** *Inclusion in biennial reports of Interagency Coordinating Committee* The Interagency Coordinating Committee shall include the information received under paragraph (1) in each biennial report submitted under section 5(a)(4), including consideration of a prioritized work plan to coordinate activities among the Program agencies and the necessary Program budget to fully implement the recommendations described in paragraph (1).
@@ -186,31 +184,31 @@ Section 11 of the Earthquake Hazards Reduction Act of 1977 (42 U.S.C. 7705e) is 
 - **(a)** *General authorization for program* Subsection (a)(8) of section 12 of the Earthquake Hazards Reduction Act of 1977 (42 U.S.C. 7706) is amended—
   - **(1)** in subparagraph (I), by striking “, and” and inserting a comma; and
   - **(2)** by inserting after subparagraph (J) the following:
-    > - **(K)** $10,590,000 for fiscal year 2024,
-    > - **(L)** $10,590,000 for fiscal year 2025,
-    > - **(M)** $10,590,000 for fiscal year 2026,
-    > - **(N)** $10,590,000 for fiscal year 2027, and
-    > - **(O)** $10,590,000 for fiscal year 2028,
+    > - **(K)** $8,500,000 for fiscal year 2024,
+    > - **(L)** $8,500,000 for fiscal year 2025,
+    > - **(M)** $8,500,000 for fiscal year 2026,
+    > - **(N)** $8,500,000 for fiscal year 2027, and
+    > - **(O)** $8,500,000 for fiscal year 2028,
 
 - **(b)** *United States Geological Survey* Subsection (b)(2) of such section is amended—
   - **(1)** in subparagraph (I), by striking “; and” and inserting a semicolon;
   - **(2)** in subparagraph (J), by striking the period at the end and inserting a semicolon; and
   - **(3)** by adding at the end the following:
-    > - **(K)** $100,900,000 for fiscal year 2024, of which not less than $36,000,000 shall be made available for completion of the Advanced National Seismic System established under section 13;
-    > - **(L)** $100,900,000 for fiscal year 2025, of which not less than $36,000,000 shall be made available for completion of the Advanced National Seismic System established under section 13;
-    > - **(M)** $100,900,000 for fiscal year 2026, of which not less than $36,000,000 shall be made available for completion of the Advanced National Seismic System established under section 13;
-    > - **(N)** $100,900,000 for fiscal year 2027, of which not less than $36,000,000 shall be made available for completion of the Advanced National Seismic System established under section 13; and
-    > - **(O)** $100,900,000 for fiscal year 2028, of which not less than $36,000,000 shall be made available for completion of the Advanced National Seismic System established under section 13.
+    > - **(K)** $92,427,000 for fiscal year 2024, of which not less than $36,000,000 shall be made available for completion of the Advanced National Seismic System established under section 13;
+    > - **(L)** $92,427,000 for fiscal year 2025, of which not less than $36,000,000 shall be made available for completion of the Advanced National Seismic System established under section 13;
+    > - **(M)** $92,427,000 for fiscal year 2026, of which not less than $36,000,000 shall be made available for completion of the Advanced National Seismic System established under section 13;
+    > - **(N)** $92,427,000 for fiscal year 2027, of which not less than $36,000,000 shall be made available for completion of the Advanced National Seismic System established under section 13; and
+    > - **(O)** $92,427,000 for fiscal year 2028, of which not less than $36,000,000 shall be made available for completion of the Advanced National Seismic System established under section 13.
 
 - **(c)** *National Science Foundation* Subsection (c)(2) of such section is amended—
   - **(1)** in subparagraph (I), by striking “, and” and inserting a comma;
   - **(2)** in subparagraph (J), by striking the period at the end and inserting a comma; and
   - **(3)** by adding at the end the following:
-    > - **(K)** $58,000,000 for fiscal year 2024,
-    > - **(L)** $58,000,000 for fiscal year 2025,
-    > - **(M)** $58,000,000 for fiscal year 2026,
-    > - **(N)** $58,000,000 for fiscal year 2027, and
-    > - **(O)** $58,000,000 for fiscal year 2028.
+    > - **(K)** $54,000,000 for fiscal year 2024,
+    > - **(L)** $54,000,000 for fiscal year 2025,
+    > - **(M)** $54,000,000 for fiscal year 2026,
+    > - **(N)** $54,000,000 for fiscal year 2027, and
+    > - **(O)** $54,000,000 for fiscal year 2028.
 
 - **(d)** *National Institute of Standards and Technology* Subsection (d)(2) of such section is amended—
   - **(1)** in subparagraph (I), by striking “, and” and inserting a comma;
@@ -221,3 +219,10 @@ Section 11 of the Earthquake Hazards Reduction Act of 1977 (42 U.S.C. 7705e) is 
     > - **(M)** $5,900,000 for fiscal year 2026,
     > - **(N)** $5,900,000 for fiscal year 2027, and
     > - **(O)** $5,900,000 for fiscal year 2028,
+
+## § 10. Funding controls
+
+Section 12 of the Earthquake Hazards Reduction Act of 1977 (42 U.S.C. 7706), as amended by section 9, is further amended by adding at the end the following:
+
+> - **(e)** *Funding* Funds used by an agency to carry out this Act may, as provided in advance in appropriations Acts, only come from amounts authorized to be appropriated to that agency.
+> - **(f)** *Deficit reduction* Any amount appropriated to an account of a Federal agency for the Federal agency to carry out a responsibility under this Act that is cancelled pursuant to section 1552(a) of title 31, United States Code, shall be transferred to the general fund of the Treasury and be applied to deficit reduction.
