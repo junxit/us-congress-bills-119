@@ -1,7 +1,7 @@
 ---
 measure: S. 1626
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1626
@@ -32,3 +32,13 @@ National Landslide Preparedness Act Reauthorization Act of 2025
 - 2025-11-03 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment. With written report No. 119-92.
 - 2025-11-03 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment. With written report No. 119-92.
 - 2025-11-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 249.
+- 2026-01-05 — 
+- 2026-01-05 — Amendment SA 4149 agreed to in Senate by Unanimous Consent.
+- 2026-01-05 — Amendment SA 4149 proposed by Senator Marshall for Senator Scott FL. (consideration: CR S13) To include provisions relating to funding and deficit reduction.
+- 2026-01-05 — Measure laid before Senate by unanimous consent. (consideration: CR S10-16)
+- 2026-01-05 — Passed Senate with an amendment by Unanimous Consent.
+- 2026-01-05 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2026-01-05 — Senate amendment agreed to: Amendment SA 4149 agreed to in Senate by Unanimous Consent.
+- 2026-01-05 — Senate amendment proposed (on the floor): Amendment SA 4149 proposed by Senator Marshall for Senator Scott FL.
+- 2026-01-05 — Senate amendment submitted
+- 2026-01-05 — The committee amendment as amended agreed to by Unanimous Consent. (text of amendment in the nature of a substitute: CR S13-16)
