@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 288
 congress: 119
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 288
@@ -16,7 +16,7 @@ A resolution condemning the rise in ideologically motivated attacks on Jewish in
 
 - Sen. McCormick, David [R-PA] (M001243)
 
-## Cosponsors (35)
+## Cosponsors (40)
 
 - Sen. Fetterman, John [D-PA] (F000479)
 - Sen. Grassley, Chuck [R-IA] (G000386)
@@ -53,6 +53,11 @@ A resolution condemning the rise in ideologically motivated attacks on Jewish in
 - Sen. Cassidy, Bill [R-LA] (C001075)
 - Sen. Britt, Katie Boyd [R-AL] (B001319)
 - Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Gallego, Ruben [D-AZ] (G000574)
+- Sen. Hawley, Josh [R-MO] (H001089)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Cruz, Ted [R-TX] (C001098)
 
 ## Committees (1)
 
@@ -62,3 +67,7 @@ A resolution condemning the rise in ideologically motivated attacks on Jewish in
 
 - 2025-06-18 — Introduced in Senate
 - 2025-06-18 — Referred to the Committee on the Judiciary.
+- 2026-01-07 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2026-01-07 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S90; text: CR 6/18/2025 S3474)
+- 2026-01-07 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2026-01-07 — Senate Committee on the Judiciary discharged by Unanimous Consent.
