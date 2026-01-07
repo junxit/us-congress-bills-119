@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6506
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -49,4 +49,4 @@ This Act may be cited as the “Taxpayer Due Process Enhancement Act”.
   >     - **(iii)** any equitable tolling of the 30-day deadline referred to in subparagraph (A).
   >   - **(C)** *Retention of jurisdiction* Upon a determination being made under this section, subparagraphs (A) and (B) shall apply whether or not the Secretary abandons the collection action or proposed collection action at issue in such determination.
 
-- **(b)** *Effective date* The amendment made by this subsection shall apply with respect to petitions filed after the date of the enactment of this Act.
+- **(b)** *Effective date* The amendment made by this section shall apply with respect to petitions filed after the date of the enactment of this Act.
