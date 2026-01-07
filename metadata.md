@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 503
 congress: 119
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 503
@@ -28,3 +28,7 @@ A resolution recognizing the third commemoration of the anti-LGBTQ+ attack that 
 
 - 2025-11-19 — Introduced in Senate
 - 2025-11-19 — Referred to the Committee on the Judiciary.
+- 2026-01-07 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2026-01-07 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S90; text: CR 11/19 S8242)
+- 2026-01-07 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2026-01-07 — Senate Committee on the Judiciary discharged by Unanimous Consent.

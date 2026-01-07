@@ -1,7 +1,7 @@
 ---
 legis-num: S. RES. 503
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -13,7 +13,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 - Whereas, on November 19–20, 2022, a mass shooting took place at Club Q, an LGBTQ+ bar in Colorado Springs, Colorado;
 - Whereas 5 innocent victims were killed, 17 community members were injured by gunshot wounds, and 32 other community members sustained injuries, including mental and emotional trauma from witnessing this violent event;
-- Whereas the 5 innocent victims killed in the shooting were—(1)Raymond Green Vance;(2)Ashley Paugh;(3)Daniel Aston;(4)Kelly Loving; and(5)Derrick Rump;
+- Whereas the 5 innocent victims killed in the shooting were— (1)Raymond Green Vance; (2)Ashley Paugh; (3)Daniel Aston; (4)Kelly Loving; and (5)Derrick Rump;
 - Whereas, at the time of the mass shooting, Club Q was a dedicated LGBTQ+ safe space in Colorado Springs, Colorado;
 - Whereas the shooting brought further trauma and a feeling of loss of safety and security to members of the LGBTQ+ community;
 - Whereas, according to the Centers for Disease Control and Prevention, in 2022, there were more than 48,000 firearm-related deaths in the United States, of which 40 percent were firearm homicides, according to provisional mortality data;
