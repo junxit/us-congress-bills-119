@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6495
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6495
@@ -29,3 +29,8 @@ Taxpayer Notification and Privacy Act
 - 2025-12-05 — Introduced in House
 - 2025-12-05 — Introduced in House
 - 2025-12-05 — Referred to the House Committee on Ways and Means.
+- 2025-12-10 — Committee Consideration and Mark-up Session Held
+- 2025-12-10 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 41 - 0.
+- 2026-01-07 — Placed on the Union Calendar, Calendar No. 372.
+- 2026-01-07 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-427.
+- 2026-01-07 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-427.
