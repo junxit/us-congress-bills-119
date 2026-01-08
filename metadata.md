@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1834
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 1834
@@ -40,6 +40,10 @@ To advance policy priorities that will break the gridlock.
 - House — Natural Resources Committee
 - House — Armed Services Committee
 
+## Recorded votes (1)
+
+- 2026-01-08 — [House 119-2-11](votes/house-119-2-0011.md) — On Passage — **Passed** (230–196)
+
 ## Actions
 
 - 2025-03-04 — Introduced in House
@@ -67,3 +71,15 @@ To advance policy priorities that will break the gridlock.
 - 2025-03-04 — Referred to the Committee on Armed Services, and in addition to the Committees on Natural Resources, House Administration, Transportation and Infrastructure, Agriculture, Science, Space, and Technology, Education and Workforce, Foreign Affairs, Intelligence (Permanent Select), Small Business, the Judiciary, Homeland Security, Financial Services, Veterans' Affairs, Ways and Means, Rules, Ethics, Energy and Commerce, the Budget, Oversight and Government Reform, and Appropriations, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2025-03-04 — Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.
 - 2025-03-04 — Referred to the Subcommittee on Transportation and Maritime Security.
+- 2025-03-21 — Referred to the Subcommittee on Disability Assistance and Memorial Affairs.
+- 2025-03-21 — Referred to the Subcommittee on Economic Opportunity.
+- 2026-01-08 — Amendment (A001) in the nature of a substitute offered by Mr. McGovern.
+- 2026-01-08 — Considered under the provisions of rule H. Res. 780. (consideration: CR H213-227)
+- 2026-01-08 — DEBATE - The House proceeded with one hour of debate on H.R. 1834.
+- 2026-01-08 — House Amendment Offered
+- 2026-01-08 — House amendment agreed to: On agreeing to the McGovern amendment (A001) Agreed to without objection.
+- 2026-01-08 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-01-08 — On agreeing to the McGovern amendment (A001) Agreed to without objection.
+- 2026-01-08 — On passage Passed by the Yeas and Nays: 230 - 196 (Roll no. 11). (text of amendment in the nature of a substitute: CR H213-217)
+- 2026-01-08 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 230 - 196 (Roll no. 11). (text of amendment in the nature of a substitute: CR H213-217)
+- 2026-01-08 — The previous question was ordered pursuant to the rule.
