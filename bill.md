@@ -1,0 +1,20 @@
+---
+legis-num: S. 3596
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3596
+
+> To amend the Internal Revenue Code of 1986 to modify the earned income threshold for the refundable child tax credit.
+
+## § 1. Short title
+
+This Act may be cited as the “Stronger Start for Working Families Act”.
+
+## § 2. Earned income threshold for refundable child tax credit
+
+- **(a)** *In general* Section 24(d)(1)(B)(i) of the Internal Revenue Code of 1986 is amended by striking “$3,000” and inserting “$1”.
+- **(b)** *Conforming amendment* Section 24(h) of such Code is amended by striking paragraph (6).
+- **(c)** *Effective date* The amendments made by this section shall apply to taxable years beginning after December 31, 2025.
