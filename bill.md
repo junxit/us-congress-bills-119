@@ -1,0 +1,28 @@
+---
+legis-num: S. 3603
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3603
+
+> To amend the Food and Nutrition Act of 2008 to improve the cost of living adjustment exclusion from income under the supplemental nutrition assistance program, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “COLAs Don’t Count Act of 2026”.
+
+## § 2. Exclusion from income
+
+Section 5(d) of the Food and Nutrition Act of 2008 (7 U.S.C. 2014(d)) is amended—
+
+- **(1)** in paragraph (12), by striking “July 1” and inserting “January 1”;
+- **(2)** in paragraph (18), by striking “and” at the end;
+- **(3)** by redesignating paragraph (19) as paragraph (20); and
+- **(4)** by inserting after paragraph (18) the following:
+  > - **(19)** supplementary payments of the type described in section 1616(a) of the Social Security Act (42 U.S.C. 1382e(a)); and
+
+## § 3. Effective date
+
+This Act and the amendments made by this Act shall take effect on October 1, 2027.
