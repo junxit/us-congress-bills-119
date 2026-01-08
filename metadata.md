@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6938
 congress: 119
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6938
@@ -16,16 +16,72 @@ Commerce, Justice, Science; Energy and Water Development; and Interior and Envir
 
 - Rep. Cole, Tom [R-OK-4] (C001053)
 
+## Cosponsors (50)
+
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Luján, Ben Ray [D-NM] (L000570)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+
 ## Committees (2)
 
 - House — Budget Committee
 - House — Appropriations Committee
 
-## Recorded votes (3)
+## Recorded votes (6)
 
 - 2026-01-08 — [House 119-2-5](votes/house-119-2-0005.md) — On Retaining Division A — **Passed** (375–47)
 - 2026-01-08 — [House 119-2-6](votes/house-119-2-0006.md) — On Retaining Divisions B and C — **Passed** (419–6)
 - 2026-01-08 — [House 119-2-7](votes/house-119-2-0007.md) — On Passage — **Passed** (397–28)
+- 2026-01-12 — [Senate 119-2-7](votes/senate-119-2-0007.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (80–13)
+- 2026-01-15 — [Senate 119-2-10](votes/senate-119-2-0010.md) — On the Cloture Motion — **Cloture Motion Agreed to** (85–14)
+- 2026-01-15 — [Senate 119-2-11](votes/senate-119-2-0011.md) — On Passage of the Bill — **Bill Passed** (82–15)
 
 ## Actions
 
@@ -54,3 +110,196 @@ Commerce, Justice, Science; Energy and Water Development; and Interior and Envir
 - 2026-01-08 — Rule provides for consideration of H.R. 4593, H.R. 5184 and H.R. 6938. The resolution provides for consideration of H.R. 4593, H.R. 5184, and H.R. 6938 under a closed rule with one hour of general debate and provides for one motion to recommit on each bill.
 - 2026-01-08 — The previous question was ordered pursuant to the rule.
 - 2026-01-08 — UNANIMOUS CONSENT REQUEST - Mr. Cole asked unanimous consent that the question of retaining a portion of the bill on H.R. 6938 may be subject to postponement, as though under clause 8 of rule 20. Agreed to without objection.
+- 2026-01-12 — 
+- 2026-01-12 — 
+- 2026-01-12 — 
+- 2026-01-12 — 
+- 2026-01-12 — 
+- 2026-01-12 — 
+- 2026-01-12 — 
+- 2026-01-12 — 
+- 2026-01-12 — 
+- 2026-01-12 — 
+- 2026-01-12 — 
+- 2026-01-12 — 
+- 2026-01-12 — 
+- 2026-01-12 — 
+- 2026-01-12 — 
+- 2026-01-12 — 
+- 2026-01-12 — 
+- 2026-01-12 — 
+- 2026-01-12 — 
+- 2026-01-12 — 
+- 2026-01-12 — 
+- 2026-01-12 — 
+- 2026-01-12 — 
+- 2026-01-12 — 
+- 2026-01-12 — 
+- 2026-01-12 — 
+- 2026-01-12 — 
+- 2026-01-12 — 
+- 2026-01-12 — 
+- 2026-01-12 — 
+- 2026-01-12 — 
+- 2026-01-12 — 
+- 2026-01-12 — Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 80 - 13. Record Vote Number: 7. (CR S128)
+- 2026-01-12 — Motion to proceed to measure considered in Senate. (consideration: CR S121-128)
+- 2026-01-12 — Senate amendment submitted
+- 2026-01-12 — Senate amendment submitted
+- 2026-01-12 — Senate amendment submitted
+- 2026-01-12 — Senate amendment submitted
+- 2026-01-12 — Senate amendment submitted
+- 2026-01-12 — Senate amendment submitted
+- 2026-01-12 — Senate amendment submitted
+- 2026-01-12 — Senate amendment submitted
+- 2026-01-12 — Senate amendment submitted
+- 2026-01-12 — Senate amendment submitted
+- 2026-01-12 — Senate amendment submitted
+- 2026-01-12 — Senate amendment submitted
+- 2026-01-12 — Senate amendment submitted
+- 2026-01-12 — Senate amendment submitted
+- 2026-01-12 — Senate amendment submitted
+- 2026-01-12 — Senate amendment submitted
+- 2026-01-12 — Senate amendment submitted
+- 2026-01-12 — Senate amendment submitted
+- 2026-01-12 — Senate amendment submitted
+- 2026-01-12 — Senate amendment submitted
+- 2026-01-12 — Senate amendment submitted
+- 2026-01-12 — Senate amendment submitted
+- 2026-01-12 — Senate amendment submitted
+- 2026-01-12 — Senate amendment submitted
+- 2026-01-12 — Senate amendment submitted
+- 2026-01-12 — Senate amendment submitted
+- 2026-01-12 — Senate amendment submitted
+- 2026-01-12 — Senate amendment submitted
+- 2026-01-12 — Senate amendment submitted
+- 2026-01-12 — Senate amendment submitted
+- 2026-01-12 — Senate amendment submitted
+- 2026-01-12 — Senate amendment submitted
+- 2026-01-13 — 
+- 2026-01-13 — 
+- 2026-01-13 — 
+- 2026-01-13 — 
+- 2026-01-13 — 
+- 2026-01-13 — 
+- 2026-01-13 — 
+- 2026-01-13 — 
+- 2026-01-13 — 
+- 2026-01-13 — 
+- 2026-01-13 — 
+- 2026-01-13 — 
+- 2026-01-13 — 
+- 2026-01-13 — 
+- 2026-01-13 — 
+- 2026-01-13 — 
+- 2026-01-13 — 
+- 2026-01-13 — 
+- 2026-01-13 — 
+- 2026-01-13 — 
+- 2026-01-13 — 
+- 2026-01-13 — 
+- 2026-01-13 — 
+- 2026-01-13 — 
+- 2026-01-13 — 
+- 2026-01-13 — 
+- 2026-01-13 — 
+- 2026-01-13 — 
+- 2026-01-13 — 
+- 2026-01-13 — 
+- 2026-01-13 — 
+- 2026-01-13 — 
+- 2026-01-13 — 
+- 2026-01-13 — Amendment SA 4208 proposed by Senator Thune. (consideration: CR S157) To improve the bill.
+- 2026-01-13 — Amendment SA 4209 proposed by Senator Thune to Amendment SA 4208. (consideration: CR S157) To improve the bill.
+- 2026-01-13 — Amendment SA 4210 proposed by Senator Thune. (consideration: CR S157) To improve the bill.
+- 2026-01-13 — Amendment SA 4211 proposed by Senator Thune to Amendment SA 4210 (the instructions of the motion to commit). (consideration: CR S157) To improve the bill.
+- 2026-01-13 — Amendment SA 4212 proposed by Senator Thune to Amendment SA 4211. (consideration: CR S157) To improve the bill.
+- 2026-01-13 — Cloture motion on the measure presented in Senate.
+- 2026-01-13 — Measure laid before Senate by motion.
+- 2026-01-13 — Motion by Senator Thune to commit to Senate Committee on Appropriations with instructions to report back forthwith with the following amendment (SA 4210) made in Senate.
+- 2026-01-13 — Motion to proceed to consideration of measure agreed to in Senate by Voice Vote. (consideration: CR S141-143, S157)
+- 2026-01-13 — Motion to proceed to measure considered in Senate.
+- 2026-01-13 — Senate amendment proposed (on the floor): Amendment SA 4208 proposed by Senator Thune.
+- 2026-01-13 — Senate amendment proposed (on the floor): Amendment SA 4209 proposed by Senator Thune to Amendment SA 4208.
+- 2026-01-13 — Senate amendment proposed (on the floor): Amendment SA 4210 proposed by Senator Thune.
+- 2026-01-13 — Senate amendment proposed (on the floor): Amendment SA 4211 proposed by Senator Thune to Amendment SA 4210 (the instructions of the motion to commit).
+- 2026-01-13 — Senate amendment proposed (on the floor): Amendment SA 4212 proposed by Senator Thune to Amendment SA 4211.
+- 2026-01-13 — Senate amendment submitted
+- 2026-01-13 — Senate amendment submitted
+- 2026-01-13 — Senate amendment submitted
+- 2026-01-13 — Senate amendment submitted
+- 2026-01-13 — Senate amendment submitted
+- 2026-01-13 — Senate amendment submitted
+- 2026-01-13 — Senate amendment submitted
+- 2026-01-13 — Senate amendment submitted
+- 2026-01-13 — Senate amendment submitted
+- 2026-01-13 — Senate amendment submitted
+- 2026-01-13 — Senate amendment submitted
+- 2026-01-13 — Senate amendment submitted
+- 2026-01-13 — Senate amendment submitted
+- 2026-01-13 — Senate amendment submitted
+- 2026-01-13 — Senate amendment submitted
+- 2026-01-13 — Senate amendment submitted
+- 2026-01-13 — Senate amendment submitted
+- 2026-01-13 — Senate amendment submitted
+- 2026-01-13 — Senate amendment submitted
+- 2026-01-13 — Senate amendment submitted
+- 2026-01-13 — Senate amendment submitted
+- 2026-01-13 — Senate amendment submitted
+- 2026-01-13 — Senate amendment submitted
+- 2026-01-13 — Senate amendment submitted
+- 2026-01-13 — Senate amendment submitted
+- 2026-01-13 — Senate amendment submitted
+- 2026-01-13 — Senate amendment submitted
+- 2026-01-13 — Senate amendment submitted
+- 2026-01-13 — Senate amendment submitted
+- 2026-01-13 — Senate amendment submitted
+- 2026-01-13 — Senate amendment submitted
+- 2026-01-13 — Senate amendment submitted
+- 2026-01-13 — Senate amendment submitted
+- 2026-01-14 — 
+- 2026-01-14 — 
+- 2026-01-14 — 
+- 2026-01-14 — 
+- 2026-01-14 — 
+- 2026-01-14 — 
+- 2026-01-14 — 
+- 2026-01-14 — 
+- 2026-01-14 — 
+- 2026-01-14 — Considered by Senate. (consideration: CR S185)
+- 2026-01-14 — Considered by Senate. (consideration: CR S185)
+- 2026-01-14 — Considered by Senate. (consideration: CR S185)
+- 2026-01-14 — Considered by Senate. (consideration: CR S185)
+- 2026-01-14 — Considered by Senate. (consideration: CR S185)
+- 2026-01-14 — Considered by Senate. (consideration: CR S185-218)
+- 2026-01-14 — Senate amendment submitted
+- 2026-01-14 — Senate amendment submitted
+- 2026-01-14 — Senate amendment submitted
+- 2026-01-14 — Senate amendment submitted
+- 2026-01-14 — Senate amendment submitted
+- 2026-01-14 — Senate amendment submitted
+- 2026-01-14 — Senate amendment submitted
+- 2026-01-14 — Senate amendment submitted
+- 2026-01-14 — Senate amendment submitted
+- 2026-01-15 — Cloture on the measure invoked in Senate by Yea-Nay Vote. 85 - 14. Record Vote Number: 10. (CR S230)
+- 2026-01-15 — Considered by Senate. (consideration: CR S227-249)
+- 2026-01-15 — Considered by Senate. (consideration: CR S230)
+- 2026-01-15 — Considered by Senate. (consideration: CR S230)
+- 2026-01-15 — Considered by Senate. (consideration: CR S230)
+- 2026-01-15 — Considered by Senate. (consideration: CR S248)
+- 2026-01-15 — Considered by Senate. (consideration: CR S248)
+- 2026-01-15 — Message on Senate action sent to the House.
+- 2026-01-15 — Motion by Senator Thune to commit to Senate Committee on Appropriations with instructions to report back forthwith with the following amendment (SA 4210) fell when cloture on the measure was invoked in Senate.
+- 2026-01-15 — Passed Senate without amendment by Yea-Nay Vote. 82 - 15. Record Vote Number: 11.
+- 2026-01-15 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 82 - 15. Record Vote Number: 11.
+- 2026-01-15 — Proposed amendment SA 4208 withdrawn in Senate.
+- 2026-01-15 — SA 4209 fell when SA 4208 withdrawn.
+- 2026-01-15 — SA 4210 (the instructions of the motion to commit) fell when cloture invoked on the measure.
+- 2026-01-15 — SA 4211 fell when SA 4210 (the instructions of the motion to commit) fell.
+- 2026-01-15 — SA 4212 fell when SA 4211 fell.
+- 2026-01-22 — Presented to President.
+- 2026-01-22 — Presented to President.
+- 2026-01-23 — Became Public Law No: 119-74.
+- 2026-01-23 — Became Public Law No: 119-74.
+- 2026-01-23 — Signed by President.
+- 2026-01-23 — Signed by President.
