@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 839
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -9,6 +9,10 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To prohibit the implementation of a Land Protection Plan for Muleshoe National Wildlife Refuge.
 
-## § 1. Implementation of Land Protection Plan for Muleshoe National Wildlife Refuge prohibited
+## § 1. Short title
+
+This Act may be cited as the “No Federal Expansion Designation in West Texas Act” or the “No FED in West Texas Act”.
+
+## § 2. Implementation of Land Protection Plan for Muleshoe National Wildlife Refuge prohibited
 
 The Secretary of the Interior may not finalize, implement, administer, or enforce the Land Protection Plan described in the document published by the United States Fish and Wildlife Service titled “Final Land Protection Plan & Environmental Assessment Muleshoe National Wildlife Refuge” (February 2023).
