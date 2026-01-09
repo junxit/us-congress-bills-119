@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 6995
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 6995
+
+> To designate the facility of the United States Postal Service located at 825 Highway 198 in Beaumont, Mississippi, as the “Jeremy Malone Post Office”.
+
+## § 1. Jeremy malone post office
+
+- **(a)** *Designation* The facility of the United States Postal Service located at 825 Highway 198 in Beaumont, Mississippi, shall be known and designated as the “Jeremy Malone Post Office”.
+- **(b)** *References* Any reference in a law, map, regulation, document, paper, or other record of the United States to the facility referred to in subsection (a) shall be deemed to be a reference to the “Jeremy Malone Post Office”.
