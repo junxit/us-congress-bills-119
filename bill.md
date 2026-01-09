@@ -1,13 +1,13 @@
 ---
 legis-num: H.R. 5184
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H.R. 5184
 
-> To prohibit the Secretary of Energy from enforcing energy efficiency standards applicable to manufactured housing, and for other purposes.
+> To authorize the Secretary of Energy to transmit to the Secretary of Housing and Urban Development recommendations for changes to preemptive energy conservation standards applicable to manufactured homes.
 
 ## § 1. Short title
 
