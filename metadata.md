@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6500
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6500
@@ -24,6 +24,10 @@ Continuing Appropriations and Extensions Act, 2027
 
 - House — Ways and Means Committee
 
+## Recorded votes (1)
+
+- 2026-01-12 — [House 119-2-14](votes/house-119-2-0014.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (340–54)
+
 ## Actions
 
 - 2025-12-09 — Introduced in House
@@ -34,3 +38,11 @@ Continuing Appropriations and Extensions Act, 2027
 - 2025-12-30 — Placed on the Union Calendar, Calendar No. 362.
 - 2025-12-30 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-416.
 - 2025-12-30 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-416.
+- 2026-01-12 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2026-01-12 — Considered as unfinished business. (consideration: CR H646)
+- 2026-01-12 — Considered under suspension of the rules. (consideration: CR H637-642)
+- 2026-01-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6500.
+- 2026-01-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-01-12 — Mr. Smith (MO) moved to suspend the rules and pass the bill, as amended.
+- 2026-01-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 340 - 54 (Roll no. 14). (text: CR H637)
+- 2026-01-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 340 - 54 (Roll no. 14). (text: CR H637)
