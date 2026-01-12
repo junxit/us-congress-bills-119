@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2683
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -18,9 +18,7 @@ This Act may be cited as the “Remote Access Security Act”.
 The Export Control Reform Act of 2018 is amended as follows:
 
 - **(1)** In section 1742 (50 U.S.C. 4801), by adding at the end the following:
-  > - **(15)** *Remote access* The term “remote access” means—
-  >   - **(A)** access to an item subject to the jurisdiction of the United States by a foreign person through a network connection, including the internet or a cloud computing service, from a location other than where the item is physically located; or
-  >   - **(B)** any other form of access specified in regulations promulgated by the Secretary.
+  > - **(15)** *Remote access* The term remote access means access on a purposeful, knowing, reckless, or negligent basis to an item subject to the jurisdiction of the United States under this Act by a foreign person through a network connection, including the internet or a cloud computing service, from a location other than where the item is physically located if the Secretary determines that the use of the item could pose a serious risk to the national security or foreign policy of the United States. Nothing in this paragraph may be construed to lower the requisite mens rea required to be proven for criminal liability under section 1760.
 
 - **(2)** In section 1752 (50 U.S.C. 4811)—
   - **(A)** in paragraph (1)—
@@ -40,7 +38,7 @@ The Export Control Reform Act of 2018 is amended as follows:
     - **(i)** in paragraph (6), by striking “and” at the end;
     - **(ii)** in paragraph (7), by striking the period at the end and inserting “; and”; and
     - **(iii)** by adding at the end the following:
-      > - **(8)** regulate the remote access of items described in (a)(3).
+      > - **(8)** regulate the remote access of items described in subsection (a)(3).
 
   - **(C)** in subsection (c)—
     - **(i)** by striking “or in-country transfer” each place it appears and inserting “in-country transfer, or remote access”; and
@@ -80,3 +78,14 @@ The Export Control Reform Act of 2018 is amended as follows:
   - **(A)** in subsection (a)(5), by striking “or in-country transferred” and inserting “in-country transferred, or remotely accessed”; and
   - **(B)** in subsection (h)(1)(B), by striking “or in-country transfer” and inserting “in-country transfer of items, or provide remote access to items”.
 - **(10)** In section 1767(b)(2)(A) (50 U.S.C. 4825(b)(2)(A)), by striking “and in-country transfer” and inserting “in-country transfer, or remote access”.
+
+## § 3. Consultation with Congress
+
+- **(a)** *In general* The Secretary of Commerce shall ensure that the appropriate congressional committees are kept fully and currently informed of any anticipated promulgation of regulations to control the remote access of items under the Export Control Reform Act of 2018, as amended by section 2, including ensuring such committees are informed, in a classified setting as necessary, on—
+  - **(1)** the national security risk that would be addressed by the regulations;
+  - **(2)** how the method of the regulations addresses the national security risk; and
+  - **(3)** how the regulations may impact the economy of the United States.
+- **(b)** *Rule of construction* Nothing in this section may be construed to require the approval of the appropriate congressional committees as a condition precedent to the exercise of an authority under the Export Control Reform Act of 2018, as amended by section 2.
+- **(c)** *Appropriate congressional committees defined* In this section, the term appropriate congressional committees means—
+  - **(1)** the Committee on Foreign Affairs of the House of Representatives; and
+  - **(2)** the Committee on Banking, Housing, and Urban Affairs of the Senate.
