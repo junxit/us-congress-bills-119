@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6715
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Child Predators Accountability Act of 2025”.
+This Act may be cited as the “Child Predators Accountability Act”.
 
 ## § 2. Preventing sexual exploitation and sexually explicit depictions of minors
 
