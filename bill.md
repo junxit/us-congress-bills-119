@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 7016
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7016
+
+> To prohibit action to or the use of Federal funds to invade NATO countries and territories, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “No Funds for NATO Invasion Act”.
+
+## § 2. Prohibition on invasion of NATO territory
+
+- **(a)** *Prohibition on funding* No Federal funds are authorized to be appropriated or otherwise made available for the invasion of—
+  - **(1)** a country that is a member of the North Atlantic Treaty Organization; or
+  - **(2)** any territory to which Article 5 of the North Atlantic Treaty (commonly known as the “Washington Treaty”) applies, including territory described in Article 6 of such treaty.
+- **(b)** *Prohibition on invasion* No officer or employee of the United States may take any action to execute an invasion by the United States of a country or territory described in subsection (a).
