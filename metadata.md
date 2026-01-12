@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5184
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5184
@@ -24,9 +24,10 @@ Affordable HOMES Act
 - Rep. Edwards, Chuck [R-NC-11] (E000246)
 - Rep. Goldman, Craig A. [R-TX-12] (G000601)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -58,3 +59,4 @@ Affordable HOMES Act
 - 2026-01-09 — Rule provides for consideration of H.R. 4593, H.R. 5184 and H.R. 6938. The resolution provides for consideration of H.R. 4593, H.R. 5184, and H.R. 6938 under a closed rule with one hour of general debate and provides for one motion to recommit on each bill.
 - 2026-01-09 — The previous question was ordered pursuant to the rule.
 - 2026-01-09 — The title of the measure was amended. Agreed to without objection.
+- 2026-01-12 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
