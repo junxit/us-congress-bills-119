@@ -1,7 +1,7 @@
 ---
 measure: H.R. 725
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 725
@@ -29,3 +29,8 @@ Crow Revenue Act
 - 2025-01-24 — Introduced in House
 - 2025-01-24 — Introduced in House
 - 2025-01-24 — Referred to the House Committee on Natural Resources.
+- 2025-06-25 — Committee Consideration and Mark-up Session Held
+- 2025-06-25 — Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 27 - 16.
+- 2026-01-12 — Placed on the Union Calendar, Calendar No. 375.
+- 2026-01-12 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-436.
+- 2026-01-12 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-436.
