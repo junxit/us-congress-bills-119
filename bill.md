@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6732
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Coercion and Sexual Abuse Free Environment Act of 2025” or the “CSAFE Act of 2025”.
+This Act may be cited as the “Coercion and Sexual Abuse Free Environment Act” or the “CSAFE Act”.
 
 ## § 2. Unlawfully compelling children
 
@@ -20,9 +20,8 @@ This Act may be cited as the “Coercion and Sexual Abuse Free Environment Act o
   >   - **(1)** Whoever, using the mail or any facility or means of interstate or foreign commerce, or within the special maritime and territorial jurisdiction of the United States, intentionally compels a minor to—
   >     - **(A)** engage in self-harm, including suicide or attempted suicide;
   >     - **(B)** commit animal crushing (as defined in section 48);
-  >     - **(C)** engage in abusive or degrading nonsexual conduct (whether or not physical injury results);
-  >     - **(D)** engage in sexually explicit conduct, as defined in section 2256(2)(A); or
-  >     - **(E)** engage in obscene speech,
+  >     - **(C)** engage in abusive or degrading nonsexual conduct (whether or not physical injury results) for which any person can be charged with a criminal offense; or
+  >     - **(D)** engage in sexually explicit conduct, as defined in section 2256(2)(A),
   >   - **(2)** Whoever violates, attempts to violate, or conspires to violate paragraph (1)—
   >     - **(A)** shall be fined under this title, imprisoned not more than 10 years, or both;
   >     - **(B)** if serious bodily injury results, shall be fined under this title, imprisoned not more than 20 years, or both; or
