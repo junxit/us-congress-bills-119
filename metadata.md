@@ -1,7 +1,7 @@
 ---
 measure: H.R. 909
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 909
@@ -346,9 +346,10 @@ Crime Victims Fund Stabilization Act of 2025
 - Rep. Hunt, Wesley [R-TX-38] (H001095)
 - Rep. Olszewski, Johnny [D-MD-2] (O000176)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -364,3 +365,4 @@ Crime Victims Fund Stabilization Act of 2025
 - 2026-01-12 — Mrs. Wagner moved to suspend the rules and pass the bill, as amended.
 - 2026-01-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H623)
 - 2026-01-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H623)
+- 2026-01-13 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
