@@ -1,0 +1,21 @@
+---
+legis-num: S. 3622
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3622
+
+> To prohibit the naming, renaming, designating, or redesignating of any Federal building, land, or other asset in the name of a sitting President, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Stop Executive Renaming for Vanity and Ego Act” or the “SERVE Act”.
+
+## § 2. Prohibition on naming Federal property after sitting President
+
+- **(a)** *In general* Notwithstanding any other provision of law—
+  - **(1)** no Federal building, land, or other asset may be named, renamed, designated, or redesignated in the name of a sitting President; and
+  - **(2)** no Federal funds may be used to name, rename, designate, or redesignate any Federal building, land, or other asset in the name of a sitting President.
+- **(b)** *Applicability* Any Federal building, land, or other asset named after the sitting President as of the date of enactment of this Act shall be returned to the name given to that Federal building, land, or other asset by Federal law.
