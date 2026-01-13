@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2516
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,12 +11,12 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This title may be cited as the “Accreditation for College Excellence Act of 2025”.
+This Act may be cited as the “Accreditation for College Excellence Act of 2025”.
 
 ## § 2. Prohibition on political litmus tests in accreditation of institutions of higher education
 
 - **(a)** *Operating procedures required* Section 496(c) of the Higher Education Act of 1965 (20 U.S.C. 1099b(c)) is amended—
-  - **(1)** by striking “and” at the end of paragraph (8);
+  - **(1)** in paragraph (8), by striking “and” at the end;
   - **(2)** in paragraph (9), by striking the period at the end and inserting “; and”; and
   - **(3)** by adding at the end the following:
     > - **(10)** confirms that the standards for accreditation of the agency or association do not—
@@ -34,7 +34,11 @@ This title may be cited as the “Accreditation for College Excellence Act of 20
     >     - **(ii)** from requiring an applicant, student, employee, or contractor to take an oath to uphold the Constitution of the United States; or
     >   - **(C)** require, encourage, or coerce an institution of higher education to violate any right protected by the Constitution.
 
-- **(b)** *Limitation on scope of criteria* Section 496(g) of the Higher Education Act of 1965 (20 U.S.C. 1099b(g)) is amended to read as follows:
+- **(b)** *Limitation on scope of criteria* Section 496 of the Higher Education Act of 1965 (20 U.S.C. 1099b) is further amended by amending subsection (g) to read as follows:
   > - **(g)** *Limitation on scope of criteria*
   >   - **(1)** *In general* The Secretary shall not establish criteria for accrediting agencies or associations that are not required by this section.
-  >   - **(2)** *Institutional eligibility* An institution of higher education shall be eligible for participation in programs under this title if the institution is in compliance with the standards of its accrediting agency or association that assess the institution in accordance with subsection (a)(5), regardless of any additional standards adopted by the agency or association for purposes unrelated to participation in programs under this title.
+  >   - **(2)** *Institutional eligibility* An institution that is in compliance with the standards of its accrediting agency or association that assess the institution in accordance with subsection (a)(5) shall meet the accreditation requirements for certification as an institution of higher education under section 102 and subpart 3 of this part, regardless of any additional standards adopted by the agency or association for purposes unrelated to participation in programs under this Act.
+
+## § 3. Rule of construction
+
+Nothing in this Act, or the amendments made by this Act, shall be construed to prevent religious accreditors from holding and enforcing religious standards on institutions they choose to accredit.

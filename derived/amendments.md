@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2516
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,7 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `20 U.S.C. § 1099b` | strike | by striking “and” at the end of paragraph (8); | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 1099b` | strike | in paragraph (8), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1099b` | replace | in paragraph (9), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1099b` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1099b` | amend | Section 496(g) of the Higher Education Act of 1965 (20 U.S.C. 1099b(g)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1099b` | amend | Section 496 of the Higher Education Act of 1965 (20 U.S.C. 1099b) is further amended by amending subsection (g) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

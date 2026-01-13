@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2516
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2516
@@ -16,7 +16,7 @@ Accreditation for College Excellence Act of 2025
 
 - Rep. Owens, Burgess [R-UT-4] (O000086)
 
-## Cosponsors (8)
+## Cosponsors (12)
 
 - Rep. Tenney, Claudia [R-NY-24] (T000478)
 - Rep. Murphy, Gregory F. [R-NC-3] (M001210)
@@ -26,6 +26,10 @@ Accreditation for College Excellence Act of 2025
 - Rep. Onder, Robert [R-MO-3] (O000177)
 - Rep. Moore, Riley [R-WV-2] (M001235)
 - Rep. Messmer, Mark [R-IN-8] (M001233)
+- Rep. Finstad, Brad [R-MN-1] (F000475)
+- Rep. Steube, W. Gregory [R-FL-17] (S001214)
+- Rep. Fine, Randy [R-FL-6] (F000484)
+- Rep. Guthrie, Brett [R-KY-2] (G000558)
 
 ## Committees (1)
 
@@ -36,3 +40,8 @@ Accreditation for College Excellence Act of 2025
 - 2025-03-31 — Introduced in House
 - 2025-03-31 — Introduced in House
 - 2025-03-31 — Referred to the House Committee on Education and Workforce.
+- 2025-06-25 — Committee Consideration and Mark-up Session Held
+- 2025-06-25 — Ordered to be Reported (Amended) by the Yeas and Nays: 21 - 15.
+- 2026-01-13 — Placed on the Union Calendar, Calendar No. 380.
+- 2026-01-13 — Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-444.
+- 2026-01-13 — Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-444.
