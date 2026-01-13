@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6732
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6732
@@ -28,9 +28,10 @@ Coercion and Sexual Abuse Free Environment Act
 - Rep. Moore, Tim [R-NC-14] (M001236)
 - Rep. Gillen, Laura [D-NY-4] (G000602)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Coercion and Sexual Abuse Free Environment Act
 - 2026-01-12 — Mr. Biggs (AZ) moved to suspend the rules and pass the bill, as amended.
 - 2026-01-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H632)
 - 2026-01-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H632)
+- 2026-01-13 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
