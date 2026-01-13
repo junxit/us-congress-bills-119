@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2617
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Say No to Indoctrination Act”.
 
-## § 2. Prohibition on teaching gender ideology
+## § 2. Prohibiting use of ESEA funds to teach gender ideology
 
 Section 8526 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7906) is amended—
 
