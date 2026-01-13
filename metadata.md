@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6504
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6504
@@ -20,9 +20,10 @@ Haiti Economic Lift Program Extension Act
 
 - Rep. Smith, Adrian [R-NE-3] (S001172)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ Haiti Economic Lift Program Extension Act
 - 2026-01-12 — Mr. Smith (MO) moved to suspend the rules and pass the bill, as amended.
 - 2026-01-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 345 - 45 (Roll no. 15). (text: CR H642)
 - 2026-01-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 345 - 45 (Roll no. 15). (text: CR H642)
+- 2026-01-13 — Received in the Senate and Read twice and referred to the Committee on Finance.
