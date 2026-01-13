@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 580
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -20,7 +20,7 @@ The Unfunded Mandates Reform Act of 1995 (2 U.S.C. 1501 et seq.) is amended—
 - **(1)** by striking “tribal” each place that term appears and inserting “Tribal”;
 - **(2)** in section 3 (2 U.S.C. 1502)—
   - **(A)** in paragraph (1), by striking “and” at the end;
-  - **(B)** in paragraph (2), by striking the period at the end and inserting “and”; and
+  - **(B)** in paragraph (2), by striking the period at the end and inserting “; and”; and
   - **(C)** by adding at the end the following:
     > - **(3)** the term major rule means a rule, as defined in section 551 of title 5, United States Code, that the Administrator of the Office of Information and Regulatory Affairs determines is likely to cause—
     >   - **(A)** an annual effect on the economy of $100,000,000 or more, adjusted once every 5 years to reflect increases in the Consumer Price Index for All Urban Consumers, as published by the Bureau of Labor Statistics of the Department of Labor;
@@ -44,11 +44,9 @@ The Unfunded Mandates Reform Act of 1995 (2 U.S.C. 1501 et seq.) is amended—
     >   - **(1)**
     >     - **(A)** an analysis of the anticipated benefits and costs of the major rule, which shall be quantified to the extent feasible;
     >     - **(B)** an analysis of the benefits and costs of a reasonable number of regulatory alternatives within the range of the discretion of the agency under the statute authorizing the major rule, including alternatives that—
-    >       - **(i)** require no action by the Federal Government; and
-    >       - **(ii)**
-    >         - **(I)** use incentives and market-based means to encourage the desired behavior;
-    >         - **(II)** provide information based upon which the public can make choices; or
-    >         - **(III)** employ other flexible regulatory options that permit the greatest flexibility in achieving the objectives of the statute authorizing the major rule; and
+    >       - **(i)** use incentives and market-based means to encourage the desired behavior;
+    >       - **(ii)** provide information based upon which the public can make choices; or
+    >       - **(iii)** employ other flexible regulatory options that permit the greatest flexibility in achieving the objectives of the statute authorizing the major rule; and
     >     - **(C)** an explanation of how the major rule complies with the requirements of section 205;
     >   - **(2)** an assessment of the extent to which—
     >     - **(A)** the costs to State, local, and Tribal governments may be paid with Federal financial assistance (or otherwise paid for by the Federal Government); and

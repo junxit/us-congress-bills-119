@@ -1,7 +1,7 @@
 ---
 measure: H.R. 580
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -88,7 +88,7 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `2 U.S.C. § 1502` | strike | in paragraph (1), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `2 U.S.C. § 1502` | replace | in paragraph (2), by striking the period at the end and inserting “and”; and | the bill quotes the text inserted but describes where it goes |
+| `2 U.S.C. § 1502` | replace | in paragraph (2), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `2 U.S.C. § 1502` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 1532` | replace | by striking the section heading and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 1532` | redesignate | by redesignating subsections (b) and (c) as subsections (d) and (e), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

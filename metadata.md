@@ -1,7 +1,7 @@
 ---
 measure: H.R. 580
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 580
@@ -38,3 +38,14 @@ Unfunded Mandates Accountability and Transparency Act of 2025
 - 2025-01-21 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Rules, the Budget, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2025-01-21 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Rules, the Budget, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2025-01-21 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Rules, the Budget, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-05-21 — Committee Consideration and Mark-up Session Held
+- 2025-05-21 — Ordered to be Reported by the Yeas and Nays: 23 - 19.
+- 2026-01-13 — Committee on Rules discharged.
+- 2026-01-13 — Committee on Rules discharged.
+- 2026-01-13 — Committee on the Budget discharged.
+- 2026-01-13 — Committee on the Budget discharged.
+- 2026-01-13 — Committee on the Judiciary discharged.
+- 2026-01-13 — Committee on the Judiciary discharged.
+- 2026-01-13 — Placed on the Union Calendar, Calendar No. 381.
+- 2026-01-13 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 119-446, Part I.
+- 2026-01-13 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 119-446, Part I.
