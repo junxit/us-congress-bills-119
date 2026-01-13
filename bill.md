@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2616
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,9 +13,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Parental Rights Over The Education and Care of Their Kids Act ” or the “PROTECT Kids Act”.
 
-## § 2. Requirement related to gender markers, pronouns, and preferred names on school forms
+## § 2. Parental consent requirement related to gender markers, pronouns, and preferred names on school forms and sex-based accommodations
 
-- **(a)** *Requirement* As a condition of receiving funds under the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.), a public school that receives funds under such Act shall be required to obtain parental consent before changing a covered student’s—
+- **(a)** *Requirement* As a condition of receiving funds under the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.), a public school that receives funds under such Act shall obtain parental consent before changing a covered student’s—
   - **(1)** gender markers, pronouns, or preferred name on any school form; or
   - **(2)** sex-based accommodations, including locker rooms or bathrooms.
 - **(b)** *Definitions* In this section:
