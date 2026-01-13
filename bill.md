@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3453
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -24,9 +24,9 @@ Section 4303 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 72
     >   - **(A)** provide technical assistance to eligible applicants and authorized public chartering agencies in carrying out the activities described in paragraph (1);
     >   - **(B)** work with authorized public chartering agencies in the State to improve authorizing quality, including developing capacity for, and conducting, fiscal oversight and auditing of charter schools; and
     >   - **(C)** at the State entity’s discretion—
-    >     - **(i)** fund a revolving loan fund or similar mechanisms for expenses under subsection (h) prior to an eligible applicant receiving reimbursement; and
+    >     - **(i)** fund a revolving loan fund or similar mechanisms for the expenses of eligible applicants under subsection (h) prior to the receipt of subgrant funds under paragraph (1); and
     >     - **(ii)** provide assistance to eligible applicants in locating and accessing a facility; and
-    > - **(3)** provide pre-charter planning subgrants (in amounts of no more than $100,000 per prospective applicant) to charter school developers that—
+    > - **(3)** provide pre-charter planning subgrants (in amounts of no more than $100,000 per subgrantee) to charter school developers that—
     >   - **(A)** intend to submit an application—
     >     - **(i)** to an authorized public chartering agency to operate a charter school; or
     >     - **(ii)** to nonprofit or public entities for the provision of financial support to such developers;
@@ -36,13 +36,12 @@ Section 4303 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 72
     >   - **(C)** have successfully completed the development of an initial plan for opening a charter school, as evidenced by a description of the educational needs of the community in which the proposed charter school will be located and how the proposed charter school will be suited to meet those needs.
 
 - **(2)** in subsection (c)(1)—
-  - **(A)** in subparagraph (A), by striking “90 percent” and inserting “80 percent”;
+  - **(A)** in subparagraph (A), by striking “90 percent” and inserting “82 percent”;
   - **(B)** in subparagraph (B)—
     - **(i)** by striking “not less than 7 percent” and inserting “not more than 10 percent”; and
     - **(ii)** by striking “and” after the semicolon;
   - **(C)** by redesignating subparagraph (C) as subparagraph (D);
-  - **(D)** in subparagraph (D), as so redesignated, by striking “3 percent” and inserting “5 percent”; and
-  - **(E)** by inserting after subparagraph (B) the following:
+  - **(D)** by inserting after subparagraph (B) the following:
     > - **(C)** reserve not more than 5 percent of such funds to carry out the activities described in subsection (b)(3); and
 
 - **(3)** in subsection (d)(1)(B), by striking “this section” and inserting “subsection (b)(1)”;

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3453
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-13 amendatory instructions. 7 executed, 6 stated and not applied.
+12 amendatory instructions. 6 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,12 +26,12 @@ to guess them.
 
 ### 20 U.S.C. § 7221b
 
-> in subparagraph (A), by striking “90 percent” and inserting “80 percent”;
+> in subparagraph (A), by striking “90 percent” and inserting “82 percent”;
 
 | | |
 |---|---|
 | Removed | `90 percent` |
-| Inserted | `80 percent` |
+| Inserted | `82 percent` |
 
 ### 20 U.S.C. § 7221b
 
@@ -41,15 +41,6 @@ to guess them.
 |---|---|
 | Removed | `not less than 7 percent` |
 | Inserted | `not more than 10 percent` |
-
-### 20 U.S.C. § 7221b
-
-> in subparagraph (D), as so redesignated, by striking “3 percent” and inserting “5 percent”; and
-
-| | |
-|---|---|
-| Removed | `3 percent` |
-| Inserted | `5 percent` |
 
 ### 20 U.S.C. § 7221b
 
