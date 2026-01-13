@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6719
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6719
@@ -21,9 +21,10 @@ James T. Woods Act
 - Rep. Schmidt, Derek [R-KS-2] (S001228)
 - Rep. Gillen, Laura [D-NY-4] (G000602)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ James T. Woods Act
 - 2026-01-12 — Ms. Lee (FL) moved to suspend the rules and pass the bill, as amended.
 - 2026-01-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H628)
 - 2026-01-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H628)
+- 2026-01-13 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
