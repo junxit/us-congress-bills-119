@@ -1,7 +1,7 @@
 ---
 measure: S. 1837
 congress: 119
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 1837
@@ -35,3 +35,10 @@ DEFIANCE Act of 2025
 
 - 2025-05-21 — Introduced in Senate
 - 2025-05-21 — Read twice and referred to the Committee on the Judiciary. (text: CR S3059-3060)
+- 2026-01-13 — Held at the desk.
+- 2026-01-13 — Message on Senate action sent to the House.
+- 2026-01-13 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S143-147; text: CR S145-146)
+- 2026-01-13 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2026-01-13 — Received in the House.
+- 2026-01-13 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2026-01-13 — Senate Committee on the Judiciary discharged by Unanimous Consent.
