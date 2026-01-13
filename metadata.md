@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2683
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2683
@@ -36,9 +36,10 @@ Remote Access Security Act
 - Rep. Lee, Susie [D-NV-3] (L000590)
 - Rep. Self, Keith [R-TX-3] (S001224)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -59,3 +60,4 @@ Remote Access Security Act
 - 2026-01-12 — Mr. Lawler moved to suspend the rules and pass the bill, as amended.
 - 2026-01-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 369 - 22 (Roll no. 13). (text: CR H621-622)
 - 2026-01-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 369 - 22 (Roll no. 13). (text: CR H621-622)
+- 2026-01-13 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
