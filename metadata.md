@@ -1,7 +1,7 @@
 ---
 measure: H.R. 681
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 681
@@ -25,3 +25,11 @@ To amend the Act of August 9, 1955 (commonly known as the “Long-Term Leasing A
 - 2025-01-23 — Introduced in House
 - 2025-01-23 — Introduced in House
 - 2025-01-23 — Referred to the House Committee on Natural Resources.
+- 2025-09-04 — Referred to the Subcommittee on Indian and Insular Affairs.
+- 2025-09-09 — Subcommittee Hearings Held
+- 2025-11-20 — Committee Consideration and Mark-up Session Held
+- 2025-11-20 — Ordered to be Reported by Unanimous Consent.
+- 2025-11-20 — Subcommittee on Indian and Insular Affairs Discharged
+- 2026-01-14 — Placed on the Union Calendar, Calendar No. 384.
+- 2026-01-14 — Reported by the Committee on Natural Resources. H. Rept. 119-449.
+- 2026-01-14 — Reported by the Committee on Natural Resources. H. Rept. 119-449.
