@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4467
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -16,8 +16,12 @@ This Act may be cited as the “Vicksburg National Military Park Boundary Modifi
 ## § 2. Vicksburg National Military Park conveyance and boundary modification
 
 - **(a)** *Conveyance*
-  - **(1)** *In general* The Secretary of the Interior (referred to in this Act as the “Secretary”) shall convey to the State of Mississippi (referred to in this Act as the “State”), subject to any terms and conditions the Secretary determines appropriate and without consideration, the Federal land described in paragraph (2).
+  - **(1)** *In general* The Secretary of the Interior (referred to in this Act as the “Secretary”) shall convey to the State of Mississippi (referred to in this Act as the “State”), by quitclaim deed and without consideration, the Federal land described in paragraph (2) to be used in accordance with subsection (c).
   - **(2)** *Description of Federal land* The Federal land referred to in paragraph (1) is the following:
-    - **(A)** The parcel of approximately 3.66 acres of National Park Service land within the boundary of Vicksburg National Military Park, as depicted on the map entitled “VICK–2024–01”, to be used by the State for a welcome center or other public use.
-    - **(B)** The approximately 6.48 acres of National Park Service land within the boundary of Vicksburg National Military Park, as depicted on the map entitled “VICK–2024–02”, to be used by the State for an interpretive center, museum, or other public use.
-- **(b)** *Boundary modification* On conveyance of the Federal land under subsection (a), the Secretary shall modify the boundary of the Vicksburg National Military Park to reflect the conveyance.
+    - **(A)** The parcel of approximately 1.69 acres of Federal land within the boundary of Vicksburg National Military Park (referred to in this Act as the “Park”), as depicted on the map entitled “Vicksburg National Military Park Proposed Disposal of a Portion of NPS Tract 01-103”, numbered 306/194,908, and dated September 2024.
+    - **(B)** The parcel of approximately 5.74 acres of Federal land within the boundary of the Park, as depicted on the map entitled “Vicksburg National Military Park Proposed Disposal of a Portion of NPS Tracts Near Union Ave”, numbered 306/194,907, and dated September 2024.
+- **(b)** *Boundary modification* On conveyance of the Federal land described in subsection (a), the Secretary shall modify the boundary of the Park to exclude the Federal land conveyed.
+- **(c)** *Use of lands* The Federal land conveyed to the State under this Act—
+  - **(1)** shall be used to facilitate public access to the Park and to enhance the visitor experience at the Park in a manner consistent with the interpretative mission of the Park, as determined by the Secretary;
+  - **(2)** shall not be used in a manner that adversely impacts Park resources or the Park visitor experience, as determined by the Secretary; and
+  - **(3)** shall be subject to any use restriction the Secretary determines to be appropriate.
