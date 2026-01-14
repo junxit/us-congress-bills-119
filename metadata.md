@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5910
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5910
@@ -16,9 +16,12 @@ To authorize leases of up to 99 years for land held in trust for federally recog
 
 - Rep. Hageman, Harriet M. [R-WY-At Large] (H001096)
 
-## Cosponsors (1)
+## Cosponsors (4)
 
 - Rep. Leger Fernandez, Teresa [D-NM-3] (L000273)
+- Rep. Hurd, Jeff [R-CO-3] (H001100)
+- Rep. LaMalfa, Doug [R-CA-1] (L000578)
+- Rep. Ansari, Yassamin [D-AZ-3] (A000381)
 
 ## Committees (1)
 
@@ -29,3 +32,8 @@ To authorize leases of up to 99 years for land held in trust for federally recog
 - 2025-11-04 — Introduced in House
 - 2025-11-04 — Introduced in House
 - 2025-11-04 — Referred to the House Committee on Natural Resources.
+- 2025-12-17 — Committee Consideration and Mark-up Session Held
+- 2025-12-17 — Ordered to be Reported by Unanimous Consent.
+- 2026-01-14 — Placed on the Union Calendar, Calendar No. 388.
+- 2026-01-14 — Reported by the Committee on Natural Resources. H. Rept. 119-453.
+- 2026-01-14 — Reported by the Committee on Natural Resources. H. Rept. 119-453.
