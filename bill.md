@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4386
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -9,7 +9,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To amend the Federal Lands Recreation Enhancement Act to clarify entrance privileges for vehicles with respect to the America the Beautiful interagency pass.
 
-## § 1. Administrative guidelines
+## § 1. Short title
+
+This Act may be cited as the “America the Beautiful Motorcycle Fairness Act”.
+
+## § 2. Administrative guidelines
 
 Section 805(a)(7) of the Federal Lands Recreation Enhancement Act (16 U.S.C. 6804(a)(7)) is amended—
 
