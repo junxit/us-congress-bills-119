@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 7065
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7065
+
+> To nullify the applicability of the Act of July 2, 1948, with respect to the reservations of the Seneca Nation of Indians in New York.
+
+## § 1. Short title
+
+This Act may be cited as the “Seneca Nation Law Enforcement Efficiency Act”.
+
+## § 2. Nullification of effect of law
+
+Subject to written concurrence of the Attorney General of the United States and the Seneca Nation of Indians, the jurisdiction granted to the State of New York by the Act of July 2, 1948 (62 Stat. 1224, ch. 809; 25 U.S.C. 232) shall not apply with respect to the reservations of the Seneca Nation of Indians.
