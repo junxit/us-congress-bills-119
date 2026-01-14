@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3903
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,33 +13,12 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Chugach Alaska Land Exchange Oil Spill Recovery Act of 2025”.
 
-## § 2. Purposes; Findings
+## § 2. Purposes
 
-- **(a)** *Purposes* The purposes of this Act are—
-  - **(1)** to authorize, direct, and expedite the exchange of land and interests in land between Chugach Alaska and the United States; and
-  - **(2)** to consolidate Federal ownership of the surface and subsurface estate of Federal land and interests acquired under the Program.
-- **(b)** *Findings* Congress finds that—
-  - **(1)** on March 24, 1989, the oil tanker Exxon Valdez ran aground in Prince William Sound, Alaska, spilling 11,000,000 gallons of crude oil, spreading in the months that followed and covering approximately 1,300 miles of coastline, with immense impact for fish and wildlife and their habitats, and for local industries and communities;
-  - **(2)** civil settlement funds of $900,000,000 paid by Exxon to the United States and the State of Alaska were used to establish the Exxon Valdez Oil Spill Trustee Council (referred to in this section as “EVOSTC”) and to develop the Program;
-  - **(3)** through the Program, the EVOSTC dedicated nearly 60 percent of the funds to acquire fee title of, and conservation easements on, the surface estate of more than 600,000 acres in the area impacted by the oil spill, including 241,000 acres of surface estate land and conservation easements in the Chugach Region, giving the United States ownership of, and conservation easements on, 241,000 acres of formerly Native-owned land within the Chugach Region;
-  - **(4)** the conflict described in the Chugach Region Land Study Report and in this Act occurred when surface estate was purchased by the EVOSTC for conservation purposes while development rights remained for the subsurface (dominant estate) owned by Chugach Alaska, which shall be resolved by Chugach Alaska trading approximately 231,000 acres of subsurface estate under surface fee and conservation easements on surface land owned by the Federal Government for 65,374 acres of fee simple land owned by the Federal Government;
-  - **(5)** most of the surface land and conservation easements on surface land in the Chugach Region described in paragraph (3) that were acquired by the EVOSTC were purchased from 4 Alaska Native Village Corporations—
-    - **(A)** Chenega Corporation;
-    - **(B)** the English Bay Corporation;
-    - **(C)** the Eyak Corporation; and
-    - **(D)** the Tatitlek Corporation;
-  - **(6)** in accordance with section 14 of the Alaska Native Claims Settlement Act (43 U.S.C. 1613), when a Village Corporation selects and receives title to the surface estate to fulfill its land entitlement, the Regional Corporation receives title to the subsurface, resulting in split ownership between Alaska Native entities from the same region;
-  - **(7)** Chugach Alaska holds the dominant subsurface estate to approximately 241,000 acres of surface land acquired by the EVOSTC from the Village Corporations under paragraph (5) that is protected under the Program;
-  - **(8)** none of the acquisitions described in paragraph (5) by the EVOSTC included the subsurface interests owned by Chugach Alaska, despite awareness by the EVOSTC of the provisions in the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.) creating split ownership and the existing right of the subsurface owner to use the surface if it constitutes reasonable use in the development of subsurface resources;
-  - **(9)** due to the split estate ownership described in paragraph (8), which became a split between Chugach Alaska and the Federal Government, there is a clear conflict with the preservation goal of the Program and the responsibility of Chugach Alaska, on behalf of the Alaska Native shareholders of Chugach Alaska, to develop the subsurface estate under the land;
-  - **(10)** recognizing the conflicts between the mandates in the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.) on Native Corporations and the goals of the Program, and the significant social and economic impact of the Program on the region and on Chugach Alaska and the land held by Chugach Alaska, Congress directed, in section 1113 of the John D. Dingell, Jr. Conservation, Management, and Recreation Act (Public Law 116–9; 133 Stat. 614), that the Bureau of Land Management conduct a study and identify accessible and economically viable Federal land that could be exchanged with Chugach Alaska, and to recommend exchange options that would consolidate ownership of the surface and subsurface estates of land in the Program;
-  - **(11)** the Bureau of Land Management submitted the Chugach Region Land Study Report to Congress in December 2022, over a year after the 18-month deadline;
-  - **(12)** in the Chugach Region Land Study Report, the Bureau of Land Management explained that the Program acquisitions have greatly increased the complexity and the costs of any development by Chugach Alaska of its subsurface interests, significantly reduced Native-owned land and Native control over management of land in the region, and, along with the larger oil spill cleanup effort, highly disrupted the socio-cultural environment and economies in the Alaska Native communities in the region;
-  - **(13)** the Chugach Region Land Study Report identifies land available for exchange from both the Federal Government and Chugach Alaska to inform a land exchange to address the impact of the Program on Chugach Alaska and the ability of Chugach Alaska to meet its responsibilities to its Native shareholders under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.);
-  - **(14)** the land exchange between Chugach Alaska and the Federal Government in this Act—
-    - **(A)** furthers objectives under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.), including balancing land selections between areas that are significant in cultural history and traditions and areas that have potential economic value for development; and
-    - **(B)** facilitates more efficient Federal land management of the Program by Federal acquisition of nearly 231,000 acres of subsurface estate that underlies federally owned surface fee and conservation easements to perfect conservation of the surface, which is the purpose of the Program; and
-  - **(15)** the land exchange in this Act, based on the findings in this section, is in the public interest.
+The purposes of this Act are—
+
+- **(1)** to authorize, direct, and expedite the exchange of land and interests in land between Chugach Alaska and the United States; and
+- **(2)** to consolidate Federal ownership of the surface and subsurface estate of Federal land and interests acquired under the Program.
 
 ## § 3. Definitions
 
@@ -61,12 +40,12 @@ In this Act:
 
 ## § 4. Land exchange
 
-- **(a)** *In general* Not later than 1 year after the date of enactment of this Act, if Chugach Alaska offers to convey to the Secretary all rights, title, and interest in and to the non-Federal land, the Secretary shall accept the offer and convey in exchange all rights, title, and interest of the Federal Government in and to the Federal exchange land.
+- **(a)** *In general* Not later than 1 year after the date of enactment of this Act, if Chugach Alaska offers to convey to the Secretary all right, title, and interest in and to the non-Federal land, the Secretary shall accept the offer and convey, pursuant to section 22(j)(1) of the Alaska Native Claims Settlement Act (43 U.S.C. 1621(j)(1)), all right, title, and interest of the Federal Government in and to the Federal exchange land subject to the reservation of public easements required under section 17(b) of the Alaska Native Claims Settlement Act (43 U.S.C. 1616(b)).
 - **(b)** *Condition on acceptance* Title to the non-Federal land exchanged in subsection (a) shall be in a form that is acceptable to the Secretary.
 - **(c)** *Treatment of land conveyed* Except as otherwise provided, any land conveyed to Chugach Alaska under subsection (a) shall be considered to be land conveyed by the Secretary under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.).
 - **(d)** *Valid existing rights* The conveyances under subsection (a) shall be subject to any valid existing rights, reservations, rights-of-way, or other encumbrances of third parties in, to, or on the Federal exchange land or the non-Federal land as of the date of enactment of this Act.
-- **(e)** *Conveyance of Federal exchange land* On receipt of title to the non-Federal land, the Secretary shall simultaneously convey to Chugach Alaska—
-  - **(1)** all rights, title, and interest in and to the National Forest System land of the Forest Service identified in the Chugach Regional Land Study and Report, comprising approximately 63,414 total acres, comprising—
+- **(e)** *Conveyance of Federal exchange land* The Secretary shall, as soon as practicable after the date of enactment of this Act, convey to Chugach Alaska—
+  - **(1)** all right, title, and interest in and to the National Forest System land of the Forest Service identified in the Chugach Regional Land Study and Report, comprising approximately 63,414 total acres, comprising—
     - **(A)** T. 3 N., R. 10 E., Seward Meridian, Drier Bay Parcel, comprising approximately 2,996 acres of surface estate;
     - **(B)** T. 17 and 18 S., R. 7 and 8 E., Copper River Meridian, Kushtaka Lake Parcel, comprising approximately 7,876 acres of surface and subsurface estate;
     - **(C)** T. 2 N., R. 1 and 2 E., Seward Meridian, Snow River Parcel, comprising approximately 11,462 acres of surface and subsurface estate;
@@ -79,12 +58,12 @@ In this Act:
     - **(J)** T. 16 S., R. 4 E., secs. 1 through 4, 9 through 13, and 24, Copper River Meridian, Johnson River Parcel, comprising approximately 5,200 acres of surface and subsurface estate;
     - **(K)** T. 16 S., R. 5 E., secs. 5 through 9, and 15 through 22, Copper River Meridian, Johnson River Parcel, comprising approximately 6,165 acres of surface and subsurface estate; and
     - **(L)** T. 19 S., R. 15 E., secs. 12 through 14, 23, 24, 26, 27, 33, and 34, Copper River Meridian, Robinson Mountains Parcel, comprising approximately 5,728 acres of surface and subsurface estate; and
-  - **(2)** all rights, title, and interest in and to the Federal land administered by the Bureau of Land Management and National Park Service identified in the Chugach Regional Land Study and Report, comprising approximately 1,960 total acres, comprising—
+  - **(2)** all right, title, and interest in and to the Federal land administered by the Bureau of Land Management and National Park Service identified in the Chugach Regional Land Study and Report, comprising approximately 1,960 total acres, comprising—
     - **(A)** T. 21 S., R. 24 E., Copper River Meridian, Taan Fjord Parcel, comprising approximately 450 acres of surface and subsurface estate;
     - **(B)** T. 21 and 22 S., R. 24 E., Copper River Meridian, Kageet Point Parcel, comprising approximately 310 acres of surface and subsurface estate; and
     - **(C)** T. 9 S., R. 2 W., secs. 5 and 6, Copper River Meridian, Thompson Pass Parcel, comprising 1,200 acres of surface and subsurface estate.
 - **(f)** *Conveyance of non-Federal Land*
-  - **(1)** *Conveyance* The non-Federal land to which Chugach Alaska may convey to the Secretary all rights, title, and interest, that the Secretary determines to be applicable, includes—
+  - **(1)** *Conveyance* The non-Federal land to which Chugach Alaska may convey to the Secretary all right, title, and interest, that the Secretary determines to be applicable, includes—
     - **(A)** the approximately 130,469.93 subsurface acres, which comprises—
       - **(i)** T. 13 S., R. 1 W., sec. 19, Copper River Meridian, comprising approximately 467 acres;
       - **(ii)** T. 13 S., R. 2 W., secs. 23 through 27, Copper River Meridian, comprising approximately 2,627 acres;
@@ -171,7 +150,7 @@ In this Act:
   - **(2)** *Management* Land acquired by the Secretary under this subsection shall—
     - **(A)** become part of the unit of Federal land in which the land acquired by the Secretary is located; and
     - **(B)** be administered in accordance with that unit of Federal land.
-  - **(3)** *Exclusion of Village Corporation development and shareholder sites* Notwithstanding paragraph (1), Chugach Alaska shall exclude from the conveyance of non-Federal land all rights, title, and interest in any land, not to exceed a total of 209 acres, that—
+  - **(3)** *Exclusion of Village Corporation development and shareholder sites* Notwithstanding paragraph (1), Chugach Alaska shall exclude from the conveyance of non-Federal land all right, title, and interest in any land, not to exceed a total of 209 acres, that—
     - **(A)** a Village Corporation has retained development rights, other than timber development rights; or
     - **(B)** has been designated for a shareholder homesite program.
 

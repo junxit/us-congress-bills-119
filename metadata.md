@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3903
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3903
@@ -16,6 +16,10 @@ Chugach Alaska Land Exchange Oil Spill Recovery Act of 2025
 
 - Rep. Begich, Nicholas J. [R-AK-At Large] (B001323)
 
+## Cosponsors (1)
+
+- Rep. Hurd, Jeff [R-CO-3] (H001100)
+
 ## Committees (1)
 
 - House — Natural Resources Committee
@@ -25,3 +29,11 @@ Chugach Alaska Land Exchange Oil Spill Recovery Act of 2025
 - 2025-06-11 — Introduced in House
 - 2025-06-11 — Introduced in House
 - 2025-06-11 — Referred to the House Committee on Natural Resources.
+- 2025-09-04 — Referred to the Subcommittee on Indian and Insular Affairs.
+- 2025-09-09 — Subcommittee Hearings Held
+- 2025-11-20 — Committee Consideration and Mark-up Session Held
+- 2025-11-20 — Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.
+- 2025-11-20 — Subcommittee on Indian and Insular Affairs Discharged
+- 2026-01-14 — Placed on the Union Calendar, Calendar No. 386.
+- 2026-01-14 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-451.
+- 2026-01-14 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-451.
