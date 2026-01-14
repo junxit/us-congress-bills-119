@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5103
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Make the District of Columbia Safe and Beautiful Act”.
+This Act may be cited as the “Make the District of Columbia Safe and Beautiful Act of 2026”.
 
 ## § 2. Program to beautify District of Columbia
 
