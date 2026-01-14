@@ -1,0 +1,18 @@
+---
+legis-num: S. 3642
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3642
+
+> To direct the Inspector General of the Department of Health and Human Services to investigate certain payment increases under State programs funded by the Department of Health and Human Services.
+
+## § 1. Short title
+
+This Act may be cited as the “Welfare Abuse and Laundering Zillions Act” or the “WALZ Act”.
+
+## § 2. Requiring investigations of certain payment increases under State programs funded by the Department of Health and Human Services
+
+In the case that the total amount paid to providers of services and suppliers under a State program that receives Federal financial assistance administered by the Secretary of Health and Human Services during any 6-month period increases by 10 percent or more as compared to that amount during the prior 6-month period, the Inspector General of the Department of Health and Human Services shall open an investigation into such program.
