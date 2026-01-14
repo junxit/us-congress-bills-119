@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6359
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -18,7 +18,7 @@ This Act may be cited as the “Pregnant Students’ Rights Act”.
 Section 485 of the Higher Education Act of 1965 (20 U.S.C. 1092) is amended by adding at the end the following:
 
 > - **(n)** *Pregnant Students’ Rights, Accommodations, and Resources*
->   - **(1)** *In general* Each institution of higher education participating in any program under this title shall carry out the information dissemination activities described in paragraph (3) for prospective and enrolled students (including those attending or planning to attend less than full time) regarding the information described in paragraph (2) on the rights to, and resources (including protections and accommodations) for, pregnant students to carry a baby to term and students who may become pregnant while enrolled at such institution of higher education to carry a baby to term.
+>   - **(1)** *In general* Each institution of higher education participating in any program under this title shall carry out the information dissemination activities described in paragraph (3) for prospective and enrolled students (including those attending or planning to attend less than full time) regarding the information described in paragraph (2) on the rights of, and resources (including protections and accommodations) for, pregnant students to carry a baby to term and students who may become pregnant while enrolled at such institution of higher education to carry a baby to term.
 >   - **(2)** *Information content* The information described in this paragraph is the following:
 >     - **(A)** A list of resources on campus and in the community that exist to help a pregnant student in carrying the baby to term and caring for the baby after birth.
 >     - **(B)** Information about the accommodations available to help a pregnant student carry the baby to term and parent the baby after birth.
