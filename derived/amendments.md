@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6644
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-127 amendatory instructions. 76 executed, 51 stated and not applied.
+141 amendatory instructions. 84 executed, 57 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,12 +35,12 @@ to guess them.
 
 ### 42 U.S.C. § 3547
 
-> in paragraph (1)(C), in the heading, by striking “State or unit of general local government” and inserting “State, Indian Tribe, or unit of general local government”; and
+> in paragraph (1)(C), in the heading, by striking “state or unit of general local government” and inserting “state, Indian Tribe, or unit of general local government”; and
 
 | | |
 |---|---|
-| Removed | `State or unit of general local government` |
-| Inserted | `State, Indian Tribe, or unit of general local government` |
+| Removed | `state or unit of general local government` |
+| Inserted | `state, Indian Tribe, or unit of general local government` |
 
 ### 12 U.S.C. § 1713
 
@@ -584,48 +584,48 @@ to guess them.
 
 ### 42 U.S.C. § 12721
 
-> in section 214(2), by striking “households that qualify as low-income families” and inserting “families with a household income that does not exceed 100 percent of the median family income of the area, as determined by the Secretary”;
+> in section 214(2), by striking “households that qualify as low-income families” and inserting “families with a household income that does not exceed 100-percent of the median-family income of the area, as determined by the Secretary”;
 
 | | |
 |---|---|
 | Removed | `households that qualify as low-income families` |
-| Inserted | `families with a household income that does not exceed 100 percent of the median family income of the area, as determined by the Secretary` |
+| Inserted | `families with a household income that does not exceed 100-percent of the median-family income of the area, as determined by the Secretary` |
 
 ### 42 U.S.C. § 12721
 
-> in subsection (b)(2), by striking “whose family qualifies as a low-income family” and inserting “with a family income that does not exceed 100 percent of the median family income of the area as determined by the Secretary with adjustments for smaller and larger families”; and
+> in subsection (b)(2), by striking “whose family qualifies as a low-income family” and inserting “with a family income that does not exceed 100-percent of the median-family income of the area as determined by the Secretary with adjustments for smaller and larger families”; and
 
 | | |
 |---|---|
 | Removed | `whose family qualifies as a low-income family` |
-| Inserted | `with a family income that does not exceed 100 percent of the median family income of the area as determined by the Secretary with adjustments for smaller and larger families` |
+| Inserted | `with a family income that does not exceed 100-percent of the median-family income of the area as determined by the Secretary with adjustments for smaller and larger families` |
 
 ### 42 U.S.C. § 12721
 
-> in subsection (b)(3)(A)(ii), by striking “low-income homebuyers” and inserting “homebuyers with a household income that does not exceed 100 percent of the median family income of the area, as determined by the Secretary with adjustments for smaller and larger families”; and
+> in subsection (b)(3)(A)(ii), by striking “low-income homebuyers” and inserting “homebuyers with a household income that does not exceed 100-percent of the median-family income of the area, as determined by the Secretary with adjustments for smaller and larger families”; and
 
 | | |
 |---|---|
 | Removed | `low-income homebuyers` |
-| Inserted | `homebuyers with a household income that does not exceed 100 percent of the median family income of the area, as determined by the Secretary with adjustments for smaller and larger families` |
+| Inserted | `homebuyers with a household income that does not exceed 100-percent of the median-family income of the area, as determined by the Secretary with adjustments for smaller and larger families` |
 
 ### 42 U.S.C. § 12721
 
-> in paragraph (1)(B), by striking “low-income” and inserting “families with a household income that does not exceed 100 percent of the median family income of the area as determined by the Secretary with adjustments for smaller and larger families”; and
+> in paragraph (1)(B), by striking “low-income” and inserting “families with a household income that does not exceed 100-percent of the median-family income of the area as determined by the Secretary with adjustments for smaller and larger families”; and
 
 | | |
 |---|---|
 | Removed | `low-income` |
-| Inserted | `families with a household income that does not exceed 100 percent of the median family income of the area as determined by the Secretary with adjustments for smaller and larger families` |
+| Inserted | `families with a household income that does not exceed 100-percent of the median-family income of the area as determined by the Secretary with adjustments for smaller and larger families` |
 
 ### 42 U.S.C. § 12721
 
-> in paragraph (2)(A), by striking “low-income families” and inserting “families with a household income that does not exceed 100 percent of the median family income of the area as determined by the Secretary with adjustments for smaller and larger families”.
+> in paragraph (2)(A), by striking “low-income families” and inserting “families with a household income that does not exceed 100-percent of the median-family income of the area as determined by the Secretary with adjustments for smaller and larger families”.
 
 | | |
 |---|---|
 | Removed | `low-income families` |
-| Inserted | `families with a household income that does not exceed 100 percent of the median family income of the area as determined by the Secretary with adjustments for smaller and larger families` |
+| Inserted | `families with a household income that does not exceed 100-percent of the median-family income of the area as determined by the Secretary with adjustments for smaller and larger families` |
 
 ### 42 U.S.C. § 12745
 
@@ -672,6 +672,60 @@ to guess them.
 | Removed | `Committee on Banking, Finance and Urban Affairs` |
 | Inserted | `Committee on Financial Services` |
 
+### 42 U.S.C. § 12701
+
+> in section 233(b)(6), by striking “to community land trusts (as such term is defined in subsection (f))” and inserting “to community land trusts (as such term is defined in section 104)”.
+
+| | |
+|---|---|
+| Removed | `to community land trusts (as such term is defined in subsection (f))` |
+| Inserted | `to community land trusts (as such term is defined in section 104)` |
+
+### 42 U.S.C. § 12704
+
+> in paragraph (2), by striking “$500,000” each place that term appears and inserting “$750,000”;
+
+| | |
+|---|---|
+| Removed | `$500,000` |
+| Inserted | `$750,000` |
+
+### 42 U.S.C. § 12704
+
+> by striking “jurisdictions that are allocated an amount of $500,000 or more” and inserting “jurisdictions that are allocated an amount of $750,000 or more”;
+
+| | |
+|---|---|
+| Removed | `jurisdictions that are allocated an amount of $500,000 or more` |
+| Inserted | `jurisdictions that are allocated an amount of $750,000 or more` |
+
+### 42 U.S.C. § 12704
+
+> by striking “that are allocated an amount less than $500,000” and inserting “that are allocated an amount less than $500,000 before the date of the enactment of the Housing for the 21st Century Act or less than $750,000 on or after the date of the enactment of the Housing for the 21st Century Act”; and
+
+| | |
+|---|---|
+| Removed | `that are allocated an amount less than $500,000` |
+| Inserted | `that are allocated an amount less than $500,000 before the date of the enactment of the Housing for the 21st Century Act or less than $750,000 on or after the date of the enactment of the Housing for the 21st Century Act` |
+
+### 42 U.S.C. § 12701
+
+> in section 108(a)(1), by striking “section 105(b)(15)” and inserting “section 105(b)(18)”; and
+
+| | |
+|---|---|
+| Removed | `section 105(b)(15)` |
+| Inserted | `section 105(b)(18)` |
+
+### 42 U.S.C. § 12701
+
+> in section 217(b)(1)(F), by striking “Subcommittee on Housing and Community Development” and inserting “Subcommittee on Housing, Transportation, and Community Development”.
+
+| | |
+|---|---|
+| Removed | `Subcommittee on Housing and Community Development` |
+| Inserted | `Subcommittee on Housing, Transportation, and Community Development` |
+
 ### 42 U.S.C. § 5305
 
 > Section 105(c)(3) of the Housing and Community Development Act of 1974 (42 U.S.C. 5305(c)(3)) is amended by striking “or rehabilitation” and inserting “, rehabilitation, or new construction”.
@@ -699,6 +753,24 @@ to guess them.
 | Removed | `on a permanent chassis` |
 | Inserted | `with or without a permanent chassis` |
 
+### 12 U.S.C. § 24
+
+> The paragraph designated as the “Eleventh” of section 5136 of the Revised Statutes of the United States (12 U.S.C. 24) is amended, in the fifth sentence, by striking “15” each place it appears and inserting “20”.
+
+| | |
+|---|---|
+| Removed | `15` |
+| Inserted | `20` |
+
+### 12 U.S.C. § 338a
+
+> Section 9(23) of the Federal Reserve Act (12 U.S.C. 338a) is amended, in the fifth sentence, by striking “15” each place it appears and inserting “20”.
+
+| | |
+|---|---|
+| Removed | `15` |
+| Inserted | `20` |
+
 ### 12 U.S.C. § 1701x
 
 > in subsection (a)(4)(C), by striking “adequate distribution” and all that follows through “foreclosure rates” and inserting “that the recipients are geographically diverse and include organizations that serve urban or rural areas”;
@@ -721,7 +793,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 3531` | insert | The Department of Housing and Urban Development Act (42 U.S.C. 3531 et seq.) is amended by inserting after section 12 (42 U.S.C. 3537a) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 4103` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1712a` | replace | in subsection (a), in the matter following paragraph (7), by striking “(commencing in 2004” and all that follows through the period at the end and inserting the following: “, commencing on January 1, 2026. The adjustment of the Dollar Am… | the bill quotes the text struck but describes what replaces it |
-| `12 U.S.C. § 1712a` | amend | by amending subsection (b) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1712a` | replace | by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1713` | strike | by striking “, or not to exceed $17,460 per space”; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 12704` | strike | in paragraph (6)(B), by striking “significant”; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 12704` | amend | by adding at end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -736,7 +808,16 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 12748` | redesignate | by redesignating subsection (h) as subsection (g). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 12771` | amend | Section 231(b) of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12771(b)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 12838` | add-at-end | Section 288 of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12838) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 12721` | add-at-end | Title II of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12721 et seq.) is amended by adding at the end the following new sections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 12721` | add-at-end | Title II of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12721 et seq.) is amended by adding at the end the following new sections (and by conforming the table of sections in section 1(b), accordingly): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 12747` | replace | in paragraph (1), by striking the second sentence and inserting the following: “Subject to paragraph (4), jurisdictions eligible for such reallocations shall include participating jurisdictions and jurisdictions meeting the requirements … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 12747` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 12745` | replace | in paragraph (1)(E), by striking “except upon a foreclosure by a lender (or upon other transfer in lieu of foreclosure) if such action (i) recognizes any contractual or legal rights of public agencies, nonprofit sponsors, or others to ta… | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1437f` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 12755` | add-at-end | Section 225 of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12755) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 12704` | add-at-end | Section 104 of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12704) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 12701` | strike | in section 233 by striking subsection (f); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 12704` | strike | by striking “, except as provided in paragraph (4)”; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 12704` | strike | by striking paragraph (4). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5304` | add-at-end | Section 104 of the Housing and Community Development Act of 1974 (42 U.S.C. 5304) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5305` | strike | in paragraph (25)(D), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 5305` | replace | in paragraph (26), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
@@ -744,8 +825,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 5304` | strike | in paragraph (5), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 5304` | replace | in paragraph (6), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 5304` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1474` | insert | in the first sentence, by inserting “and may make a loan to an eligible low-income applicant” after “applicant”; | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1474` | insert | by inserting “Not less than 60 percent of loan funds made available under this section shall be reserved and made available for very low-income applicants.” after the first sentence; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1474` | insert | in the first sentence, by inserting “and may make a loan to an eligible low-income applicant” after “applicant”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1471` | add-at-end | Title V of the Housing Act of 1949 (42 U.S.C. 1471 et seq.), as amended by this section, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1437f` | add-at-end | Section 8(o)(8)(A) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)(8)(A)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1437f` | add-at-end | Section 8(o)(8) of the United States Housing Act of 1937 (42 U.S.C. 1437f(o)(8)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -760,11 +840,9 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1437a` | insert | by inserting after clause (iii) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5302` | add-at-end | Section 102(a)(20) of the Housing and Community Development Act of 1974 (42 U.S.C. 5302(a)(20)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 4541` | add-at-end | Subpart A of part 2 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4541 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 1437` | add-at-end | Title I of the of the United States Housing Act of 1937 (42 U.S.C. 1437 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1437` | add-at-end | Title I of the United States Housing Act of 1937 (42 U.S.C. 1437 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1707` | add-at-end | in subsection (e), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1701x` | redesignate | by redesignating paragraph (3) as paragraph (4); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1701x` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1707` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3535` | add-at-end | Section 7 of the Department of Housing and Urban Development Act (42 U.S.C. 3535) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 11313` | strike | in paragraph (12) by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 11313` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
