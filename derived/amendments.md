@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5577
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -35,7 +35,7 @@ to guess them.
 
 ### 42 U.S.C. § 4026
 
-> Program expiration.—Section 1319 of the National Flood Insurance Act of 1968 (42 U.S.C. 4026) is amended by striking “September 30, 2023” and inserting “September 30, 2026”.
+> Section 1319 of the National Flood Insurance Act of 1968 (42 U.S.C. 4026) is amended by striking “September 30, 2023” and inserting “September 30, 2026”.
 
 | | |
 |---|---|
