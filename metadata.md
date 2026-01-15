@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4593
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4593
@@ -21,9 +21,10 @@ SHOWER Act
 - Rep. Balderson, Troy [R-OH-12] (B001306)
 - Rep. Rulli, Michael A. [R-OH-6] (R000619)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (2)
 
@@ -57,3 +58,4 @@ SHOWER Act
 - 2026-01-13 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 226 - 197 (Roll no. 23). (text: CR 1/7/2026 H127)
 - 2026-01-13 — Pursuant to clause 1(c) of rule XIX, the House resumed consideration of H.R. 4593.
 - 2026-01-13 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2026-01-15 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
