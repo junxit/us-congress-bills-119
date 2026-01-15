@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1834
 congress: 119
-version: Engrossed in House
+version: Returned to the House by Unanimous Consent
 ---
 
 # H.R. 1834
@@ -83,3 +83,7 @@ To advance policy priorities that will break the gridlock.
 - 2026-01-08 — On passage Passed by the Yeas and Nays: 230 - 196 (Roll no. 11). (text of amendment in the nature of a substitute: CR H213-217)
 - 2026-01-08 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 230 - 196 (Roll no. 11). (text of amendment in the nature of a substitute: CR H213-217)
 - 2026-01-08 — The previous question was ordered pursuant to the rule.
+- 2026-01-12 — Received in the Senate.
+- 2026-01-13 — House requested return of papers pursuant to H. Res. 991
+- 2026-01-15 — Message on Senate action sent to the House.
+- 2026-01-15 — Senate returned papers to House by Unanimous Consent.
