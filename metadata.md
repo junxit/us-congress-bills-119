@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 519
 congress: 119
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 519
@@ -33,3 +33,14 @@ A resolution recognizing the achievements and contributions of the AH-64 Apache 
 
 - 2025-12-01 — Introduced in Senate
 - 2025-12-01 — Referred to the Committee on Armed Services. (text: CR S8422)
+- 2026-01-15 — 
+- 2026-01-15 — Amendment SA 4233 agreed to in Senate by Unanimous Consent.
+- 2026-01-15 — Amendment SA 4233 proposed by Senator Barrasso for Senator Kelly. (consideration: CR S263) To improve the preamble.
+- 2026-01-15 — Measure laid before Senate by unanimous consent. (consideration: CR S263)
+- 2026-01-15 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.
+- 2026-01-15 — Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.
+- 2026-01-15 — Senate Committee on Armed Services discharged by Unanimous Consent.
+- 2026-01-15 — Senate Committee on Armed Services discharged by Unanimous Consent.
+- 2026-01-15 — Senate amendment agreed to: Amendment SA 4233 agreed to in Senate by Unanimous Consent.
+- 2026-01-15 — Senate amendment proposed (on the floor): Amendment SA 4233 proposed by Senator Barrasso for Senator Kelly.
+- 2026-01-15 — Senate amendment submitted

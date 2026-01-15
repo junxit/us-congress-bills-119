@@ -1,7 +1,7 @@
 ---
 legis-num: S. RES. 519
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -16,9 +16,9 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas, since its first flight, the AH–64 Apache has become the most advanced, combat-proven attack helicopter in the world, amassing more than 5,200,000 total flight hours, including over 1,300,000 combat hours, in defense of the United States and its allies;
 - Whereas the AH–64 Apache has undergone continuous modernization, from the AH–64A through the AH–64E, incorporating digital avionics, advanced sensors, and networked weapons systems to enhance survivability, lethality, and interoperability;
 - Whereas production and sustainment of the AH–64 Apache have been carried out at facilities across the United States, with final assembly in Arizona and a supplier base across 46 States, reflecting decades of leadership of the United States in aerospace design, engineering, and advanced manufacturing;
-- Whereas the AH–64 Apache has played a decisive role in major combat operations, including—(1)Operation Desert Storm (1991), where it conducted the opening strikes of the Gulf War;(2)Operation Allied Force (1999), during the conflict in Kosovo;(3)Operation Enduring Freedom (2001–2014), providing close air support and reconnaissance in Afghanistan;(4)Operation Iraqi Freedom (2003–2011), supporting ground operations and counterinsurgency missions; and(5)Operation Inherent Resolve (beginning in 2014 and ongoing as of the date of the introduction of this resolution), conducting precision strike operations against the Islamic State of Iraq and Syria;
+- Whereas the AH–64 Apache has played a decisive role in major combat operations, including—(1)Operation Desert Storm (1991), where it conducted the opening strikes of the Gulf War;(2)Operation Allied Force (1999), during the conflict in Kosovo;(3)Operation Enduring Freedom (2001–2014), providing close air support and reconnaissance in Afghanistan;(4)Operation Iraqi Freedom (2003–2010), supporting ground operations and counterinsurgency missions; (5)Operation Inherent Resolve (beginning in 2014 and ongoing as of the date of the introduction of this resolution), conducting precision strike operations against the Islamic State of Iraq and Syria; (6)Operation Just Cause;(7)Operation Freedom's Sentinel (2015–2021); and(8)Operation Atlantic Resolve;
 - Whereas the AH–64 Apache attack helicopters operate from key United States Army installations around the world, including the United States Army Aviation Center of Excellence at Fort Rucker, Alabama, and 4 Army National Guard battalions;
-- Whereas the AH–64 Apache also serves with 18 allied and partner nations, strengthening global security and coalition interoperability and continuing to prove the indispensable role of the AH–64 Apache on the modern battlefield, including in counter-unmanned system efforts;
+- Whereas the AH–64 Apache also serves with 16 allied and partner nations, strengthening global security and coalition interoperability and continuing to prove the indispensable role of the AH–64 Apache on the modern battlefield, including in counter-unmanned system efforts;
 - Whereas the AH–64 Apache continues to demonstrate versatility, resilience, and decisive battlefield capability in combat operations around the world; and
 - Whereas, on the 50th anniversary of the first flight of the AH–64 Apache, it is fitting to recognize the extraordinary innovation, dedication, and service that have defined the aircraft and the individuals who have designed, built, and maintained it: Now, therefore, be it
 
