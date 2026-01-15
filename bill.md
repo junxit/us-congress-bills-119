@@ -1,0 +1,27 @@
+---
+legis-num: H.R. 7095
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7095
+
+> To amend the Ending Importation of Russian Oil Act to provide for a prohibition on importation of energy products produced at refineries outside the Russian Federation.
+
+## § 1. Short title
+
+This Act may be cited as the “Ending Importation of Laundered Russian Oil Act”.
+
+## § 2. Prohibition on importation of energy products produced at refineries outside the Russian Federation
+
+- **(a)** *In general* The Ending Importation of Russian Oil Act (Public Law 117–109; 136 Stat. 1154) is amended—
+  - **(1)** by redesignating section 3 as section 4; and
+  - **(2)** by inserting after section 2 the following:
+    > ## § 3. Prohibition on importation of energy products produced at refineries outside the Russian Federation
+    >
+    > All products classified under chapter 27 of the Harmonized Tariff Schedule that were produced at any refinery that uses crude oil originating in the Russian Federation shall be banned from importation into the United States.
+
+- **(b)** *Conforming amendments* Section 4 of the Ending Importation of Russian Oil Act (Public Law 117–109; 136 Stat. 1154), as redesignated by subsection (a)(1), is amended—
+  - **(1)** in subsection (a), by inserting “or 3” after “section 2”; and
+  - **(2)** in subsection (c)(1), by inserting “or 3” after “section 2”.
