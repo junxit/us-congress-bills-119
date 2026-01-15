@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 7089
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7089
+
+> To prohibit National Park System entrance fee waivers commemorating the birthday of a sitting President, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Protecting America’s Resources from Kings Act” or the “PARK Act”.
+
+## § 2. No entrance fee waiver for certain Presidential birthdays
+
+For each unit of the National Park System or National Wildlife Refuge System at which an entrance fee is charged under section 803(e)(1) of the Federal Lands Recreation Enhancement Act (16 U.S.C. 6802(e)(1)), the entrance fee may not be waived or otherwise reduced to commemorate the birthday of a sitting President, unless the birthday coincides with a Federal holiday listed in section 6103 of title 5, United States Code.
