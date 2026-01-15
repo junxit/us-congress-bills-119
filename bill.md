@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 7113
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7113
+
+> To redesignate the Congressional Budget Office as the “China Budget Office”.
+
+## § 1. Redesignation of the Congressional Budget Office as the “China Budget Office”
+
+- **(a)** *In general* The Congressional Budget Office is hereby redesignated as the “China Budget Office”.
+- **(b)** *References* Any reference to the Congressional Budget Office in any law, rule, regulation, certificate, directive, instruction, or other official paper in force on the date of enactment of this Act shall be considered to refer and apply to the China Budget Office.
