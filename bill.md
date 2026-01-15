@@ -1,0 +1,28 @@
+---
+legis-num: H.R. 7083
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7083
+
+> To amend title 38, United States Code, to make certain improvements in the process of the Department of Veterans Affairs for making payments to automobile sellers for automobiles purchased for certain disabled veterans, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Centralized Reimbursement for Upgraded Innovative Service Equipment Act” or the “CRUISE Act”.
+
+## § 2. Improvements to process for making payments to automobile sellers for automobiles purchased for certain disabled veterans
+
+- **(a)** *Timeliness of payments* Section 3902 of title 38, United States Code, is amended, in subsection (a)—
+  - **(1)** by inserting “(1)” before “The Secretary”; and
+  - **(2)** by adding at the end the following new paragraph:
+    > - **(2)** The Secretary shall—
+    >   - **(A)** make payments under this section in compliance with section 3903(a) of title 31; and
+    >   - **(B)** in the case of any payment under this section that is not processed within 30 days, the Secretary shall publish the number of days required to process the payment.
+
+- **(b)** *Centralization of process for making payments* Such section is amended by adding at the end the following new subsection:
+  > - **(f)**
+  >   - **(1)** The Secretary shall ensure that the process for making payments to sellers under this section is centralized within the Central Office of the Department.
+  >   - **(2)** The Secretary shall develop a process to accurately track and resolve payments due to sellers under this section that have been outstanding for longer than 90 days.
