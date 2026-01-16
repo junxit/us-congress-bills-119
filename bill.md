@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1723
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Tribal Labor Sovereignty Act of 2025”.
 
-## § 2. Definition of employer
+## § 2. Definitions
 
 Section 2 of the National Labor Relations Act (29 U.S.C. 152) is amended—
 
