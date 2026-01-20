@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3496
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3496
@@ -36,3 +36,9 @@ Northern Mariana Islands Small Business Access Act
 - 2025-12-12 — Placed on the Union Calendar, Calendar No. 350.
 - 2025-12-12 — Reported (Amended) by the Committee on Small Business. H. Rept. 119-402.
 - 2025-12-12 — Reported (Amended) by the Committee on Small Business. H. Rept. 119-402.
+- 2026-01-20 — Considered under suspension of the rules. (consideration: CR H929-930)
+- 2026-01-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3496.
+- 2026-01-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-01-20 — Mr. Williams (TX) moved to suspend the rules and pass the bill, as amended.
+- 2026-01-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H929)
+- 2026-01-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H929)
