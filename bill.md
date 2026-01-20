@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5764
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
