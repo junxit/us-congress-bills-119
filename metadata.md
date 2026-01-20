@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5784
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5784
@@ -39,3 +39,9 @@ AI–WISE Act
 - 2025-12-12 — Placed on the Union Calendar, Calendar No. 353.
 - 2025-12-12 — Reported by the Committee on Small Business. H. Rept. 119-405.
 - 2025-12-12 — Reported by the Committee on Small Business. H. Rept. 119-405.
+- 2026-01-20 — Considered under suspension of the rules. (consideration: CR H934-936)
+- 2026-01-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5784.
+- 2026-01-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-01-20 — Mr. Williams (TX) moved to suspend the rules and pass the bill.
+- 2026-01-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H934-935)
+- 2026-01-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H934-935)
