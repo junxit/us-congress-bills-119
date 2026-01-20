@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1663
 congress: 119
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -33,4 +33,4 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | add-at-end | Chapter 3 of title 38, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of sections at the beginning of such chapter is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
-| — | replace | Section 5503(d)(7) of title 38, United States Code, is amended by striking “November 30, 2031” and inserting “January 30, 2032”. | the bill names no machine-readable US Code section |
+| — | replace | Section 5503(d)(7) of title 38, United States Code, is amended by striking “January 31, 2033” and inserting “March 31, 2033”. | the bill names no machine-readable US Code section |

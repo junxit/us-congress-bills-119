@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1663
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -16,7 +16,7 @@ This Act may be cited as the “Veterans Scam And Fraud Evasion Act of 2025” o
 ## § 2. Veterans Scam and Fraud Evasion Officer
 
 - **(a)** *In general* Chapter 3 of title 38, United States Code, is amended by adding at the end the following new section:
-  > ## § 325. Veterans Scam and Fraud Evasion Officer
+  > ## § 326. Veterans Scam and Fraud Evasion Officer
   >
   > - **(a)** *Establishment* There is in the Department a Veterans Scam and Fraud Evasion Officer, who shall—
   >   - **(1)** be responsible for fraud and scam prevention, reporting, and incident response plans at the Department; and
@@ -37,9 +37,10 @@ This Act may be cited as the “Veterans Scam And Fraud Evasion Act of 2025” o
   >   - **(7)** Consulting with veterans service organizations and State, local, and tribal governments, as necessary, to improve understanding of potential fraud and scam risks to veterans.
   > - **(c)** *Full-Time employees* Nothing in this section authorizes an increase in the number of full-time employees otherwise authorized for the Department.
   > - **(d)** *Rule of construction* Nothing in this section shall be construed to limit the authority of the Office of Inspector General of the Department as otherwise provided in this title or in chapter 4 of title 5 (commonly referred to as the Inspector General Act of 1978).
+  > - **(e)** *Sunset* The requirements and authorities of this section shall terminate on September 30, 2030.
 
 - **(b)** *Clerical amendment* The table of sections at the beginning of such chapter is amended by adding at the end the following new item:
 
 ## § 3. Extension of certain limits on payments of pension
 
-Section 5503(d)(7) of title 38, United States Code, is amended by striking “November 30, 2031” and inserting “January 30, 2032”.
+Section 5503(d)(7) of title 38, United States Code, is amended by striking “January 31, 2033” and inserting “March 31, 2033”.
