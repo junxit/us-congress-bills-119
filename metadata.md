@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5763
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5763
@@ -27,6 +27,10 @@ Main Street Parity Act
 
 - House — Small Business Committee
 
+## Recorded votes (1)
+
+- 2026-01-20 — [House 119-2-32](votes/house-119-2-0032.md) — On Motion to Suspend the Rules and Pass — **Passed** (383–8)
+
 ## Actions
 
 - 2025-10-14 — Introduced in House
@@ -37,3 +41,11 @@ Main Street Parity Act
 - 2025-12-12 — Placed on the Union Calendar, Calendar No. 354.
 - 2025-12-12 — Reported by the Committee on Small Business. H. Rept. 119-406.
 - 2025-12-12 — Reported by the Committee on Small Business. H. Rept. 119-406.
+- 2026-01-20 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2026-01-20 — Considered as unfinished business. (consideration: CR H939-940)
+- 2026-01-20 — Considered under suspension of the rules. (consideration: CR H930-931)
+- 2026-01-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5763.
+- 2026-01-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-01-20 — Mr. Williams (TX) moved to suspend the rules and pass the bill.
+- 2026-01-20 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 383 - 8 (Roll no. 32). (text: CR H930)
+- 2026-01-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 383 - 8 (Roll no. 32). (text: CR H930)
