@@ -1,7 +1,7 @@
 ---
 measure: H.R. 659
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 659
@@ -40,3 +40,9 @@ Veterans Law Judge Experience Act of 2025
 - 2025-09-26 — Placed on the Union Calendar, Calendar No. 263.
 - 2025-09-26 — Reported by the Committee on Veterans' Affairs. H. Rept. 119-309.
 - 2025-09-26 — Reported by the Committee on Veterans' Affairs. H. Rept. 119-309.
+- 2026-01-20 — Considered under suspension of the rules. (consideration: CR H936-937)
+- 2026-01-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 659.
+- 2026-01-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-01-20 — Mr. Bost moved to suspend the rules and pass the bill.
+- 2026-01-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H936)
+- 2026-01-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H936)
