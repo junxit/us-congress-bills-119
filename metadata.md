@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1009
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1009
@@ -20,9 +20,22 @@ Providing for consideration of the bill (H.R. 6945) to amend part A of title IV 
 
 - House — Rules Committee
 
+## Recorded votes (2)
+
+- 2026-01-21 — [House 119-2-34](votes/house-119-2-0034.md) — On Ordering the Previous Question — **Passed** (212–210)
+- 2026-01-21 — [House 119-2-35](votes/house-119-2-0035.md) — On Agreeing to the Resolution — **Passed** (213–210)
+
 ## Actions
 
 - 2026-01-20 — Placed on the House Calendar, Calendar No. 55.
 - 2026-01-20 — The House Committee on Rules reported an original measure, H. Rept. 119-459, by Mr. Scott, Austin.
 - 2026-01-20 — The House Committee on Rules reported an original measure, H. Rept. 119-459, by Mr. Scott, Austin.
 - 2026-01-20 — The resolution provides for consideration of H.R. 6945, H.R. 6359, and H.J. Res. 140 under a closed rule with one hour of general debate and one motion to recommit on each measure.
+- 2026-01-21 — Considered as privileged matter. (consideration: CR H1131-1138)
+- 2026-01-21 — Considered as unfinished business. (consideration: CR H1138-1139)
+- 2026-01-21 — DEBATE - The House proceeded with one hour of debate on H. Res. 1009.
+- 2026-01-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-01-21 — On agreeing to the resolution Agreed to by recorded vote: 213 - 210 (Roll no. 35). (text: CR H1131-1132)
+- 2026-01-21 — On ordering the previous question Agreed to by the Yeas and Nays: 212 - 210 (Roll no. 34).
+- 2026-01-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 1009, the Chair put the question on ordering the previous question and by voice vote, announced the ayes had prevailed. Mr. McGovern demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2026-01-21 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 213 - 210 (Roll no. 35). (text: CR H1131-1132)
