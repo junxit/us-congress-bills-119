@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6498
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-11 amendatory instructions. 5 executed, 6 stated and not applied.
+12 amendatory instructions. 5 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -62,7 +62,7 @@ to guess them.
 
 ### 20 U.S.C. § 1001
 
-> The Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), as amended by this Act, is further amended by striking “College Navigator” each place it appears and inserting “College Scorecard”.
+> by striking “College Navigator” each place it appears and inserting “College Scorecard”; and
 
 | | |
 |---|---|
@@ -78,9 +78,10 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `29 U.S.C. § 3141` | replace | by striking subsections (a) through (j) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1015a` | replace | Section 132 of the Higher Education Act of 1965 (20 U.S.C. 1015a) is amended by striking subsections (a) through (j) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1015a` | redesignate | Section 132 of the Higher Education Act of 1965 (20 U.S.C. 1015a) is further amended by redesignating subsections (k) and (l) as subsections (d) and (e), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1087ll` | insert | by inserting “of each program of study at the institution” after “cost of attendance”; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1003` | redesignate | by redesignating paragraphs (15) through (24) as paragraphs (16) through (25), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1003` | insert | by inserting after paragraphs (14) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1003` | insert | by inserting after paragraph (14) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1092f` | repeal | Paragraph (4) of section 485E(b) of the Higher Education Act of 1965 (20 U.S.C. 1092f(b)) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1001` | replace | in the header of section 487(d)(3), by striking “college navigator” and inserting “college scorecard”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
