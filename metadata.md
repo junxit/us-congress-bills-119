@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6502
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6502
@@ -16,9 +16,11 @@ College Financial Aid Clarity Act of 2025
 
 - Rep. McClain, Lisa C. [R-MI-9] (M001136)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Rep. Kim, Young [R-CA-40] (K000397)
+- Rep. Norcross, Donald [D-NJ-1] (N000188)
+- Rep. Vindman, Eugene Simon [D-VA-7] (V000138)
 
 ## Committees (1)
 
@@ -29,3 +31,8 @@ College Financial Aid Clarity Act of 2025
 - 2025-12-09 — Introduced in House
 - 2025-12-09 — Introduced in House
 - 2025-12-09 — Referred to the House Committee on Education and Workforce.
+- 2025-12-11 — Committee Consideration and Mark-up Session Held
+- 2025-12-11 — Ordered to be Reported (Amended) by the Yeas and Nays: 23 - 10.
+- 2026-01-21 — Placed on the Union Calendar, Calendar No. 394.
+- 2026-01-21 — Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-460.
+- 2026-01-21 — Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-460.

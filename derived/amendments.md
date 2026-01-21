@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6502
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -70,5 +70,5 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `20 U.S.C. § 1011` | add-at-end | Part B of title I of the Higher Education Act of 1965 (20 U.S.C. 1011 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1094` | add-at-end | Section 487 of the Higher Education Act of 1965 (20 U.S.C. 1094(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1094` | add-at-end | Section 487(a) of the Higher Education Act of 1965 (20 U.S.C. 1094(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1087ll` | insert | by inserting “of each program of study at the institution” after “cost of attendance”; and | the bill quotes the text inserted but describes where it goes |

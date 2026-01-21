@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6502
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -25,16 +25,14 @@ This Act may be cited as the “College Financial Aid Clarity Act of 2025”.
   >       - **(ii)** provide the supplemental content and disclosures described in paragraph (2); and
   >       - **(iii)** for all communications from the institution related to financial aid offers (including the supplemental content and disclosures described in paragraph (2)), use the terminology referenced in subsection (c) in a consistent manner; and
   >     - **(B)** in the case of an electronic financial aid offer that includes a requirement that a student confirm receipt of such offer, may not consider such confirmation an acceptance or rejection of such offer.
-  >   - **(2)** *Supplemental content and disclosures* Each institution of higher education described in paragraph (1) shall provide, in supplemental documents or through easily accessible weblinks to the institution’s portal or a website, the following:
-  >     - **(A)** The renewability requirements and conditions under which the student can expect to receive similar amounts of financial aid that is included in the student’s financial aid offer for each award year the student is enrolled at the institution.
+  >   - **(2)** *Supplemental content and disclosures* Each institution of higher education described in paragraph (1) shall provide, in supplemental documents or through easily accessible links on the institution’s portal or a website, the following:
+  >     - **(A)** The renewability requirements and conditions under which the student can expect to receive, for each award year the student is enrolled at the institution, similar amounts of financial aid.
   >     - **(B)** Whether the financial aid offer may change if aid from outside sources is applied after the student receives the initial financial aid offer, and, if applicable, how that financial aid offer will change.
-  >     - **(C)** If loans made under part D of title IV or other education loans offered through Federal programs are included, a disclosure that the interest rates and fees on such loans are set annually and affect total cost over time, a link to any website that includes current information on interest rates and fees, and a disclosure that such loans have to be repaid and the student can borrow an amount less than the offered loan amount.
-  >     - **(D)** A link to the College Financing Plan website of the Department (or the successor website).
-  >   - **(3)** *Omission of information* An institution of higher education may omit information listed in subsection (c) or paragraph (2) of this subsection from a financial aid offer or supplemental document provided to a student, respectively, if the information—
-  >     - **(A)** relates to aid—
-  >       - **(i)** for which the student is ineligible; or
-  >       - **(ii)** is provided through a program with which the institution does not participate; or
-  >     - **(B)** is otherwise inapplicable to the student.
+  >     - **(C)** If loans made under part D of title IV or other education loans offered through Federal programs are included—
+  >       - **(i)** a disclosure that the interest rates and fees on such loans are set annually and affect total cost over time;
+  >       - **(ii)** a link to any website that includes current information on interest rates and fees; and
+  >       - **(iii)** a disclosure that such loans have to be repaid and the student can borrow an amount less than the offered loan amount.
+  >     - **(D)** A link to the College Financing Plan website of the Department (or a successor website).
   > - **(b)** *Secretarial requirements*
   >   - **(1)** *Requirements for institutions of higher education*
   >     - **(A)** *Consumer testing* The Secretary shall—
@@ -44,49 +42,60 @@ This Act may be cited as the “College Financial Aid Clarity Act of 2025”.
   >     - **(C)** *Nonapplication of paperwork reduction act* Subchapter I of chapter 35 of title 44, United States Code, shall not apply to the consumer testing process under this subsection.
   >   - **(2)** *Publication and notice* Not later than July 1, 2028, the Secretary shall—
   >     - **(A)** publish the requirements developed pursuant to paragraph (1)(A) on a publicly available website; and
-  >     - **(B)** notify each institution of higher education that receives Federal financial assistance under this Act of such best practices and the requirements of subsection (a).
+  >     - **(B)** notify each institution of higher education that receives Federal financial assistance under this Act of such requirements and the requirements of subsection (a).
+  >   - **(3)** *Sample of financial aid offers* Not later than July 1, 2029, and every other year thereafter, the Secretary shall, in a manner consistent with applicable Federal privacy statutes—
+  >     - **(A)** collect a random representative sample of financial aid offers made by institutions for the most recent award year; and
+  >     - **(B)** review such offers for compliance with the requirements of subsection (a)(1)(A)(i).
   > - **(c)** *Information required* To comply with subsection (a), an institution of higher education shall include the following information in any financial aid offer that is made by the institution:
   >   - **(1)** *Information for the award year covered by the offer*
-  >     - **(A)** *Award year information* The award year covered by the financial aid offer, and an explanation that the amount of financial aid offered may differ—
+  >     - **(A)** *Award year information* The program of study and the award year of such program of study covered by the financial aid offer, and an explanation that the amount of financial aid offered may differ—
   >       - **(i)** for academic periods not covered by the financial aid offer, such as a summer term or future award year; and
   >       - **(ii)** by program of study.
   >     - **(B)** *Annual cost information* Information on the student’s estimated cost of attendance for the award year covered by the financial aid offer, including the following:
   >       - **(i)** The required costs for such award year, including the academic workload used to determined such required costs.
   >       - **(ii)** The cost of attendance for such award year.
-  >       - **(iii)** An indication, as applicable, about whether any of the items used to calculate the required costs included in clause (i) which are subject to change are—
+  >       - **(iii)** An indication, as applicable, about whether any of the items used to calculate the required costs included in clause (i) are—
   >         - **(I)** estimated based on the previous year; or
   >         - **(II)** set for the award year covered by the financial aid offer.
   >     - **(C)** *Annual Grants and scholarships* The amount of grant and scholarship aid for the award year covered by the financial aid offer.
-  >     - **(D)** *Annual net price of attendance*
-  >       - **(i)** *Annual net price of attendance* The annual net price of attendance for the award year covered by the financial aid offer.
-  >       - **(ii)** *Disclosure* A disclosure that the total and annual net price of attendance of the student includes costs that are not required costs and is an estimate.
-  >     - **(E)** *Loans* Information on each loan for which the student is eligible for the award year covered by the offer (including any loan disbursed by the institution, and any other loan (such as a Federal, State, or private loan)), including—
-  >       - **(i)** the total amount of each type of loan offered to the student;
-  >       - **(ii)** for each loan, any applicable interest rate, including any capitalization of interest on the loan, and fees (including origination fees and additional costs);
-  >       - **(iii)** if applicable, information on any loan repayment plan offered by the institution; and
-  >       - **(iv)** a disclosure that the interest rates and fees on such loans can affect total cost over time, and a disclosure that such loans have to be repaid and the student can borrow an amount less than the recommended loan amount.
-  >   - **(2)** *Grants and scholarships for the program length* The amount of grant and scholarship aid for the program length of the student’s program of study.
+  >     - **(D)** *Annual net price*
+  >       - **(i)** *Annual net price for completion* The annual net price for completion for the award year covered by the financial aid offer, and a disclosure that such amount is an estimate.
+  >       - **(ii)** *Annual net price of attendance* The annual net price of attendance for the award year covered by the financial aid offer, and a disclosure that such amount—
+  >         - **(I)** includes costs that are not required costs; and
+  >         - **(II)** is an estimate.
+  >     - **(E)** *Loans* Information on each loan for which the student is eligible for the award year covered by the offer (including any institutional, Federal, State, or private loan), including—
+  >       - **(i)** with respect to each such loan—
+  >         - **(I)** the total amount offered to the student;
+  >         - **(II)** any applicable interest rate, including information on circumstances in which interest may be capitalized on the loan, and any applicable fees (including origination fees and additional costs); and
+  >         - **(III)** information on any applicable loan repayment assistance offered by the institution;
+  >       - **(ii)** a disclosure that the interest rates and fees on such loans can affect total cost over time;
+  >       - **(iii)** a disclosure that such loans have to be repaid; and
+  >       - **(iv)** a disclosure that the student can borrow an amount less than the offered loan amount.
+  >   - **(2)** *Grants and scholarships for the program length* The amount of grant and scholarship aid for the program length of the program of study for which the financial aid offer is provided.
   >   - **(3)** *Student employment* Information on work-study employment opportunities (including work-study programs under part C of title IV, institutional work-study programs, or State work-study programs), including—
   >     - **(A)** the maximum annual amount the student may earn through such an employment opportunity; and
   >     - **(B)** a disclosure that any amounts received pursuant to such an employment opportunity may be—
   >       - **(i)** subject to the availability of qualified employment opportunities upon enrollment; and
   >       - **(ii)** disbursed over time as earned by the student.
   >   - **(4)** *Net price calculator* A link to the universal net price calculator website described in section 132(c)(4).
-  >   - **(5)** *Cost information for the most recent award year*
-  >     - **(A)** *Average annual net price required for completion* Average annual net price required for completion for the most recent award year for the program of study.
-  >     - **(B)** *Total average net price required for completion* The average total net price required for completion based on the time to credential for the program of study (as determined based on the most recent award year).
-  >     - **(C)** *Average annual price of attendance* Average annual price of attendance for the most recent award year for the program of study.
-  >     - **(D)** *Total average annual net price of attendance* The average annual net price of attendance based on the time to credential for the program of study (as determined based on the most recent award year)
-  >     - **(E)** *Disclosure* A disclosure that the information provided in this paragraph is based on required costs and amounts of grant and scholarship aid for the most recent award year, and such information may not be applicable to the student receiving the financial aid offer.
+  >   - **(5)** *Average costs for the most recent award year*
+  >     - **(A)** *In general* With respect to a program of study for which the financial aid offer is provided—
+  >       - **(i)** for the most recent award year for which data is available—
+  >         - **(I)** the average annual net price required for completion; and
+  >         - **(II)** the average annual price of attendance; and
+  >       - **(ii)** with respect to students who completed a credential for the program of study during the most recent award year—
+  >         - **(I)** the average total net price required for completion based on the time to credential for the program of study; and
+  >         - **(II)** the average total net price of attendance based on the time to credential for the program of study.
+  >     - **(B)** *Disclosure* A disclosure that the information provided in subparagraph (A) is based on the required costs and amounts of grant and scholarship aid applicable to other students for the most recent award year, and such information may not be applicable to the student receiving the financial aid offer.
   >   - **(6)** *Process for accepting, adjusting, or declining aid and next steps*
   >     - **(A)** *Deadlines* The deadlines and a summary of the process (including the next steps) for—
   >       - **(i)** accepting the financial aid offered;
   >       - **(ii)** adjusting the amount of aid offered; and
   >       - **(iii)** declining the aid offered.
-  >     - **(B)** *Payment* Information on when and how costs described in paragraph (1)(A) must be paid.
+  >     - **(B)** *Payment* Information on when and how costs described in paragraph (1)(B) must be paid.
   >     - **(C)** *Disclosure* A disclosure that verification of information provided on the Free Application for Federal Student Aid may require the student to submit further documentation.
-  >     - **(D)** *Financial aid information* Information about where a student or the student’s family can seek additional information regarding the financial aid offered, including contact information for the institution’s financial aid office and the Department of Education’s website on financial aid.
-  >     - **(E)** *College costs and student outcome information* Information about where a student or a student’s family can seek additional information on college costs and student outcomes, including a link to the Department of Education’s College Scorecard website (or successor website) and how to use such website to compare information from institutions of higher education regarding such costs and outcomes.
+  >     - **(D)** *Financial aid information* Information about where a student or the student’s family can seek additional information regarding the financial aid offered, including contact information for the institution’s financial aid office and a link to the Department of Education’s student financial aid website.
+  >     - **(E)** *College costs and student outcome information* Information about where a student or a student’s family can seek additional information on college costs and student outcomes, including a link to the Department of Education’s College Scorecard website (or a successor website) and how to use such website to compare information from institutions of higher education regarding such costs and outcomes.
   > - **(d)** *Format requirements*
   >   - **(1)** *In general* To comply with subsection (a), any financial aid offer made by an institution of higher education shall be titled “Financial Aid Offer”, use plain language wherever possible, and format the information listed in subsection (c) in accordance with paragraph (2).
   >   - **(2)** *Format of required information* The information listed in subsection (c) shall be formatted in a financial aid offer made by an institution of higher education as follows:
@@ -112,27 +121,18 @@ This Act may be cited as the “College Financial Aid Clarity Act of 2025”.
   >     - **(D)** offered by a State; or
   >     - **(E)** offered by any other source.
   >   - **(3)** *Net price required for completion*
-  >     - **(A)** *Net price determinations*
-  >       - **(i)** *Total net price required for completion* The term total net price required for completion means, with respect to a student in a program of study—
-  >         - **(I)** the required costs charged to such student for the program of study for the time to credential; minus
-  >         - **(II)** the amount of grant and scholarship aid that is available to the student for such program for the time to credential.
-  >       - **(ii)** *Annual net price required for completion* The term annual net price required for completion means, with respect to a student in a program of study—
-  >         - **(I)** the required costs charged to such student for the program of study for an award year; minus
-  >         - **(II)** the amount of grant and scholarship aid that is available to the student for such program for such award year.
-  >   - **(4)** *Net price required for completion*
-  >     - **(A)** *Net price determinations*
-  >       - **(i)** *Total net price required for completion* The term total net price required for completion means, with respect to a student in a program of study—
-  >         - **(I)** the required costs charged to such student for the program of study for the time to credential; minus
-  >         - **(II)** the amount of grant and scholarship aid that is available to the student for such program for the time to credential.
-  >       - **(ii)** *Annual net price required for completion* The term annual net price required for completion means, with respect to a student in a program of study—
-  >         - **(I)** the required costs charged to such student for the program of study for an award year; minus
-  >         - **(II)** the amount of grant and scholarship aid that is available to the student for such program for such award year.
-  >   - **(5)** *Net price of attendance*
+  >     - **(A)** *Total net price required for completion* The term total net price required for completion means, with respect to a student in a program of study—
+  >       - **(i)** the required costs charged to such student for the program of study for the time to credential; minus
+  >       - **(ii)** the amount of grant and scholarship aid that is available to the student for such program for the time to credential.
+  >     - **(B)** *Annual net price required for completion* The term annual net price required for completion means, with respect to a student in a program of study—
+  >       - **(i)** the required costs charged to such student for the program of study for an award year; minus
+  >       - **(ii)** the amount of grant and scholarship aid that is available to the student for such program for such award year.
+  >   - **(4)** *Net price of attendance*
   >     - **(A)** *Total net price of attendance* The term total net price of attendance means, with respect to a student in a program of study, the sum of—
   >       - **(i)** the total net price required for completion; and
-  >       - **(ii)** the sum, for the program length of the program of study, of all the costs listed in section 472(a) that are not required costs.
-  >     - **(B)** *Annual net price of attendance* The term annual net price of attendance means, with respect to a student in a program of study, the net price of attendance for a specific year of the program of study, determined by disaggregating the total net price of attendance for the student by each year of expected enrollment for the program length of the program of study.
-  >   - **(6)** *Program of study*
+  >       - **(ii)** the sum, for the time to credential of the program of study, of all the costs listed in section 472(a) that are not required costs.
+  >     - **(B)** *Annual net price of attendance* The term annual net price of attendance means, with respect to a student in a program of study, the sum of the annual net price required for completion for an award year and the costs listed in section 472(a) that are not required costs for such award year.
+  >   - **(5)** *Program of study*
   >     - **(A)** *In general* The term program of study—
   >       - **(i)** means an eligible program at an institution of higher education that is classified by a combination of—
   >         - **(I)** one or more CIP codes; and
@@ -143,19 +143,18 @@ This Act may be cited as the “College Financial Aid Clarity Act of 2025”.
   >       - **(i)** *In general* The term credential level means the level of the degree or other credential awarded by an institution of higher education to students who complete a program of study of the institution. Each degree or other credential awarded by an institution shall be categorized by the institution as either undergraduate credential level or graduate credential level.
   >       - **(ii)** *Undergraduate credential* When used with respect to a credential or credential level, the term undergraduate credential includes credentials such as an undergraduate certificate, an associate degree, a bachelor’s degree, and a post-baccalaureate certificate (including the coursework specified in paragraphs (3)(B) and (4)(B) of section 484(b)).
   >       - **(iii)** *Graduate credential* When used with respect to a credential or credential level, the term graduate credential includes credentials such as a master’s degree, a doctoral degree, a professional degree (as defined under section 668.2 of title 34, Code of Federal Regulations), and a postgraduate certificate.
-  >   - **(7)** *Program length* The term program length means the minimum amount of time in weeks, months, or years that is specified in the catalog, marketing materials, or other official publications of an institution of higher education for a full-time student to complete the requirements to obtain the degree or credential awarded for a specific program of study.
-  >   - **(8)** *Time to credential* The term ‘time to credential’ means, with respect to a student, the actual amount of time in weeks, months, or years it takes the student to complete the requirements to obtain the degree or credential awarded for a specific program of study.
-  >   - **(9)** *Cost of attendance* The term cost of attendance has the meaning given such term in section 472.
+  >   - **(6)** *Program length* The term program length means the minimum amount of time in weeks, months, or years that is specified in the catalog, marketing materials, or other official publications of an institution of higher education for a full-time student to complete the requirements to obtain the degree or credential awarded for a specific program of study.
+  >   - **(7)** *Time to credential* The term ‘time to credential’ means, with respect to a student, the actual amount of time in weeks, months, or years it takes the student to complete the requirements to obtain the degree or credential awarded for a specific program of study.
+  >   - **(8)** *Cost of attendance* The term cost of attendance has the meaning given such term in section 472.
 
-- **(b)** *Program participation agreement* Section 487 of the Higher Education Act of 1965 (20 U.S.C. 1094(a)) is amended by adding at the end the following:
+- **(b)** *Program participation agreement* Section 487(a) of the Higher Education Act of 1965 (20 U.S.C. 1094(a)) is amended by adding at the end the following:
   > - **(30)** The institution will comply with the requirements of section 124(a).
 
 - **(c)** *Cost of attendance of a program of study*
-  - **(1)** *Determination of cost of attendance of a program of study*
-    - **(A)** *In general* Section 472(a) of the Higher Education Act of 1965 (20 U.S.C. 1087ll(a)) is amended—
-      - **(i)** in paragraph (1), by striking “carrying the same academic workload” and inserting “enrolled in the same program of study and carrying the same academic workload”;
-      - **(ii)** in paragraph (2), by striking “same course of study” and inserting “same program of study”; and
-      - **(iii)** in paragraph (14), by striking “program” and inserting “program of study”.
+  - **(1)** *Determination of cost of attendance of a program of study* Section 472(a) of the Higher Education Act of 1965 (20 U.S.C. 1087ll(a)) is amended—
+    - **(A)** in paragraph (1), by striking “carrying the same academic workload” and inserting “enrolled in the same program of study and carrying the same academic workload”;
+    - **(B)** in paragraph (2), by striking “same course of study” and inserting “same program of study”; and
+    - **(C)** in paragraph (14), by striking “program” and inserting “program of study”.
   - **(2)** *Disclosure* Section 472(c) of the Higher Education Act of 1965 (20 U.S.C. 1087ll(c)) is amended—
     - **(A)** by inserting “of each program of study at the institution” after “cost of attendance”; and
     - **(B)** by striking “of the institution” and inserting “of such programs of study at the institution”.
