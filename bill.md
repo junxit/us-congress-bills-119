@@ -21,4 +21,4 @@ Section 404 of the Social Security Act (42 U.S.C. 604) is amended by adding at t
 >   - **(1)** *In general* Nothing in this part shall be construed to prohibit a State from using a grant made under section 403 to support pregnancy centers.
 >   - **(2)** *Definition of pregnancy center* In paragraph (1), the term pregnancy center means any organization, such as a pregnancy resource center, pregnancy help center or organization, or pregnancy medical center, that—
 >     - **(A)** supports protecting the life of the mother and the unborn child; and
->     - **(B)** offers resources and services to mothers, fathers, and families, including but not limited to relationship counseling, prenatal and pregnancy education, pregnancy testing, diapers, baby clothes, or material supports.
+>     - **(B)** offers resources and services to mothers, fathers, and families, including but not limited to relationship counseling, prenatal and pregnancy education, pregnancy testing, diapers, baby clothes, or other material supports.
