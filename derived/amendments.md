@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7148
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-355 amendatory instructions. 133 executed, 222 stated and not applied.
+384 amendatory instructions. 143 executed, 241 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,96 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 8 U.S.C. § 1157
+
+> in the matter preceding the first proviso, by striking “September 30, 2030” and inserting “September 30, 2031”; and
+
+| | |
+|---|---|
+| Removed | `September 30, 2030` |
+| Inserted | `September 30, 2031` |
+
+### 8 U.S.C. § 1157
+
+> in the second proviso, by striking “September 30, 2030” and inserting “September 30, 2031”.
+
+| | |
+|---|---|
+| Removed | `September 30, 2030` |
+| Inserted | `September 30, 2031` |
+
+### 8 U.S.C. § 1157
+
+> in subsection (b)(3), by striking “and 2025” and inserting “2025, and 2026”; and
+
+| | |
+|---|---|
+| Removed | `and 2025` |
+| Inserted | `2025, and 2026` |
+
+### 8 U.S.C. § 1157
+
+> in subsection (e), by striking “2025” each place it appears and inserting “2026”; and
+
+| | |
+|---|---|
+| Removed | `2025` |
+| Inserted | `2026` |
+
+### 8 U.S.C. § 1255
+
+> in section 599E(b)(2) (8 U.S.C. 1255 note), by striking “2025” and inserting “2026”.
+
+| | |
+|---|---|
+| Removed | `2025` |
+| Inserted | `2026` |
+
+### 22 U.S.C. § 10601
+
+> in section 5101(6) (22 U.S.C. 10601(6)), by striking “International Conservation” and inserting “Natural Security and Counterterrorism”; and
+
+| | |
+|---|---|
+| Removed | `International Conservation` |
+| Inserted | `Natural Security and Counterterrorism` |
+
+### 22 U.S.C. § 10602
+
+> in the section heading, by striking “international conservation” and inserting “natural security and counterterrorism”; and
+
+| | |
+|---|---|
+| Removed | `international conservation` |
+| Inserted | `natural security and counterterrorism` |
+
+### 22 U.S.C. § 10602
+
+> in subsection (a)(1), by striking “International Conservation” and inserting “Natural Security and Counterterrorism”.
+
+| | |
+|---|---|
+| Removed | `International Conservation` |
+| Inserted | `Natural Security and Counterterrorism` |
+
+### 22 U.S.C. § 2321h
+
+> Section 514(b)(2)(A) of the Foreign Assistance Act of 1961 (22 U.S.C. 2321h(b)(2)(A)) is amended by striking “2027” and inserting “2028”.
+
+| | |
+|---|---|
+| Removed | `2027` |
+| Inserted | `2028` |
+
+### 49 U.S.C. § 44945
+
+> Section 515(b) of Public Law 108–334 (49 U.S.C. 44945 note) is amended by striking “report” each place it appears (including in the subsection heading) and inserting “briefing” and by striking “transmit to” and inserting “provide”.
+
+| | |
+|---|---|
+| Removed | `report` |
+| Inserted | `briefing` |
 
 ### 42 U.S.C. § 4016
 
@@ -1286,6 +1376,25 @@ complete account of the bill's effect, which it is not.
 | — | replace | In the table titled “Interior and Environment Incorporation of Community Project Funding/Congressionally Directed Spending Items” in the explanatory statement for division C of the Commerce, Justice, Science; Energy and Water Development… | the bill names no machine-readable US Code section |
 | — | replace | in the matter preceding the first proviso under the heading “National Park Service—Operation of the National Park System” by striking “$2,877,195,000” and inserting “$2,901,195,000”, striking “$148,285,000” and inserting “$157,165,000”, … | the bill names no machine-readable US Code section |
 | — | replace | in the matter preceding the first proviso under the heading “National Park Service—Historic Preservation Fund”, by striking “$205,059,000” and inserting “$181,059,000”. | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a)(2)(A), by striking “$10,000” and inserting “$15,000”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a)(2)(B), by striking “$50,000” and inserting “$75,000”; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A), by striking “; and” and inserting a semicolon; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraph (B) as subparagraph (C); | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subparagraph (A) the following new subparagraph: “(B) after making reductions under subparagraph (A), ratably reduce the amount of the tuition and fee payment of each eligible student who receives more than $10,000 for… | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (C), as so redesignated, by striking “subparagraph (A)” and inserting “subparagraph (B)”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a)(2)(A), by striking “$2,500” and inserting “$3,750”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a)(2)(B), by striking “$12,500” and inserting “$18,750”; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A), by striking “; and” and inserting a semicolon; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraph (B) as subparagraph (C); | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subparagraph (A) the following new subparagraph: “(B) after making reductions under subparagraph (A), ratably reduce the amount of the tuition and fee payment of each eligible student who receives more than $2,500 for … | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (C), as so redesignated, by striking “subparagraph (A)” and inserting “subparagraph (B)”. | the bill names no machine-readable US Code section |
+| `22 U.S.C. § 284` | add-at-end | The International Development Association Act (22 U.S.C. 284 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 262o` | add-at-end | Title XV of the International Financial Institutions Act (22 U.S.C. 262o et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 262o` | add-at-end | Title XV of the International Financial Institutions Act (22 U.S.C. 262o et seq.) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 285` | add-at-end | The Asian Development Bank Act (22 U.S.C. 285 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 290i` | insert | The African Development Bank Act (22 U.S.C. 290i et seq.) is amended by inserting at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 5547` | insert | Section 118 of the Treasury and General Government Appropriations Act, 2001 (5 U.S.C. 5547 note) is amended, in the first sentence, by inserting “(or, for 2024, to the extent that such aggregate amount would exceed the per annum rate of … | the bill quotes the text inserted but describes where it goes |
+| — | insert | in paragraph (2) by inserting “business” after “fifth”. | the bill names no machine-readable US Code section |
 | — | replace | Section 1(b) of Public Law 117–25 (135 Stat. 297; 136 Stat. 2133; 136 Stat. 5984; 139 Stat. 46) is amended in each of paragraphs (3) and (4) by striking “September 30, 2025” and inserting “September 30, 2026”. | the bill names no machine-readable US Code section |
 | — | strike | Section 3014(a) of title 18, United States Code, is amended by striking “and ending on September 30, 2025”. | the bill names no machine-readable US Code section |
 | — | amend | Section 126 of the Continuing Appropriations Act, 2026 (division A of the Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Veterans Affairs, and Extensions Act, 2026 (Public Law 119–37; 139 Stat. 502)… | the bill names no machine-readable US Code section |
