@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6359
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6359
@@ -26,6 +26,11 @@ Pregnant Students’ Rights Act
 
 - House — Education and Workforce Committee
 
+## Recorded votes (2)
+
+- 2026-01-22 — [House 119-2-46](votes/house-119-2-0046.md) — On Motion to Recommit — **Failed** (213–216)
+- 2026-01-22 — [House 119-2-47](votes/house-119-2-0047.md) — On Passage — **Passed** (217–211)
+
 ## Actions
 
 - 2025-12-02 — Introduced in House
@@ -36,3 +41,20 @@ Pregnant Students’ Rights Act
 - 2026-01-14 — Placed on the Union Calendar, Calendar No. 382.
 - 2026-01-14 — Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-447.
 - 2026-01-14 — Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-447.
+- 2026-01-20 — Rules Committee Resolution H. Res. 1009 Reported to House. Rule provides for consideration of H.R. 6945, H.R. 6359 and H.J. Res. 140. The resolution provides for consideration of H.R. 6945, H.R. 6359, and H.J. Res. 140 under a closed rule with one hour of general debate and one motion to recommit on each measure.
+- 2026-01-22 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2026-01-22 — Considered as unfinished business. (consideration: CR H1333-1334)
+- 2026-01-22 — Considered under the provisions of rule H. Res. 1009. (consideration: CR H1325-1330)
+- 2026-01-22 — DEBATE - The House proceeded with one hour of debate on H.R. 6359.
+- 2026-01-22 — House amendment considered as adopted: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2026-01-22 — House amendment offered/reported by: Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2026-01-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-01-22 — Ms. Bonamici moved to recommit to the Committee on Education and Workforce. (text: CR H1330)
+- 2026-01-22 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2026-01-22 — On motion to recommit Failed by the Yeas and Nays: 213 - 216 (Roll no. 46).
+- 2026-01-22 — On passage Passed by the Yeas and Nays: 217 - 211 (Roll no. 47). (text of amendment in the nature of a substitute: CR H1325)
+- 2026-01-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 6359, the Chair put the question on motion to recommit and by voice vote, announced that the noes prevailed. Ms. Bonamici demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2026-01-22 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 217 - 211 (Roll no. 47). (text of amendment in the nature of a substitute: CR H1325)
+- 2026-01-22 — Rule provides for consideration of H.R. 6945, H.R. 6359 and H.J. Res. 140. The resolution provides for consideration of H.R. 6945, H.R. 6359, and H.J. Res. 140 under a closed rule with one hour of general debate and one motion to recommit on each measure.
+- 2026-01-22 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2026-01-22 — The previous question was ordered pursuant to the rule.
