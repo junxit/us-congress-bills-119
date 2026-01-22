@@ -2,7 +2,7 @@
 legis-num: H. RES. 1014
 congress: 119th CONGRESS
 session: 2d Session
-chamber: In the House of Representatives, U. S.,
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H. RES. 1014
@@ -13,7 +13,7 @@ That at any time after adoption of this resolution the Speaker may, pursuant to 
 
 ## § 2.
 
-Upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 7147) making further consolidated appropriations for the fiscal year ending September 30, 2026, and for other purposes. All points of order against consideration of the bill are waived. The amendment specified in section 7 of this resolution shall be considered as adopted. The bill, as amended, shall be considered as read. All points of order against provisions in the bill, as amended, are waived. The previous question shall be considered as ordered on the bill, as amended, and on any further amendment thereto, to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on Appropriations or their respective designees; and (2) one motion to recommit.
+Upon adoption of this resolution it shall be in order to consider in the House the bill (H.R. 7147) making further consolidated appropriations for the fiscal year ending September 30, 2026, and for other purposes. All points of order against consideration of the bill are waived. The bill shall be considered as read. All points of order against provisions in the bill are waived. The previous question shall be considered as ordered on the bill and on any amendment thereto to final passage without intervening motion except: (1) one hour of debate equally divided and controlled by the chair and ranking minority member of the Committee on Appropriations or their respective designees; and (2) one motion to recommit.
 
 ## § 3.
 
@@ -37,11 +37,3 @@ In the engrossment of H.R. 7148, the Clerk shall—
 ## § 6.
 
 House Resolution 375, as amended by the amendments printed in part C of the report of the Committee on Rules accompanying this resolution, is hereby adopted.
-
-## § 7.
-
-The amendment referred to in section 2 of this resolution is as follows:
-
-> ## § ___. Repeal of Senate Notification Requirements Relating to Legal Process on Disclosures of Senate Data
->
-> Section 213 of title II of division C of the Continuing Appropriations, Agriculture, Legislative Branch, Military Construction and Veterans Affairs, and Extensions Act, 2026, and the amendments made by such section, are hereby repealed and shall have no force or effect.
