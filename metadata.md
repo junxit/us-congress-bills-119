@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 375
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 375
@@ -16,7 +16,7 @@ Expressing support for the designation of May 2025 as Renewable Fuels Month to r
 
 - Rep. Nunn, Zachary [R-IA-3] (N000193)
 
-## Cosponsors (12)
+## Cosponsors (15)
 
 - Rep. Craig, Angie [D-MN-2] (C001119)
 - Rep. Hinson, Ashley [R-IA-2] (H001091)
@@ -30,6 +30,9 @@ Expressing support for the designation of May 2025 as Renewable Fuels Month to r
 - Rep. Stauber, Pete [R-MN-8] (S001212)
 - Rep. Sorensen, Eric [D-IL-17] (S001225)
 - Rep. Feenstra, Randy [R-IA-4] (F000446)
+- Rep. Messmer, Mark B. [R-IN-8] (M001233)
+- Rep. McDonald Rivet, Kristen [D-MI-8] (M001237)
+- Rep. Wagner, Ann [R-MO-2] (W000812)
 
 ## Committees (1)
 
@@ -40,3 +43,5 @@ Expressing support for the designation of May 2025 as Renewable Fuels Month to r
 - 2025-05-01 — Referred to the House Committee on Energy and Commerce.
 - 2025-05-01 — Submitted in House
 - 2025-05-01 — Submitted in House
+- 2026-01-22 — Pursuant to the provisions of H. Res. 1014, H. Res. 375 is considered passed House as amended.
+- 2026-01-22 — Pursuant to the provisions of H. Res. 1014, H. Res. 375 is considered passed House as amended.
