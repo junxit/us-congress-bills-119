@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5788
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5788
@@ -22,9 +22,10 @@ version: Engrossed in House
 - Rep. Cisneros, Gilbert Ray [D-CA-31] (C001123)
 - Rep. Goodlander, Maggie [D-NH-2] (G000604)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ version: Engrossed in House
 - 2026-01-20 — Mr. Williams (TX) moved to suspend the rules and pass the bill.
 - 2026-01-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H933)
 - 2026-01-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H933)
+- 2026-01-26 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
