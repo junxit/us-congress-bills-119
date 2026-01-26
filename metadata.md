@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6359
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 6359
@@ -58,3 +58,4 @@ Pregnant Students’ Rights Act
 - 2026-01-22 — Rule provides for consideration of H.R. 6945, H.R. 6359 and H.J. Res. 140. The resolution provides for consideration of H.R. 6945, H.R. 6359, and H.J. Res. 140 under a closed rule with one hour of general debate and one motion to recommit on each measure.
 - 2026-01-22 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2026-01-22 — The previous question was ordered pursuant to the rule.
+- 2026-01-26 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 303.
