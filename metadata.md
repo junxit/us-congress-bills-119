@@ -1,7 +1,7 @@
 ---
 measure: H.R. 659
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 659
@@ -23,9 +23,10 @@ Veterans Law Judge Experience Act of 2025
 - Rep. Ramirez, Delia C. [D-IL-3] (R000617)
 - Rep. Garcia, Robert [D-CA-42] (G000598)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Veterans Law Judge Experience Act of 2025
 - 2026-01-20 — Mr. Bost moved to suspend the rules and pass the bill.
 - 2026-01-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H936)
 - 2026-01-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H936)
+- 2026-01-26 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
