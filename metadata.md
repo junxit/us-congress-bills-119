@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1663
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1663
@@ -32,9 +32,10 @@ VSAFE Act of 2025
 - Rep. Fong, Vince [R-CA-20] (F000480)
 - Rep. Mackenzie, Ryan [R-PA-7] (M001230)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -55,3 +56,4 @@ VSAFE Act of 2025
 - 2026-01-20 — Mr. Bost moved to suspend the rules and pass the bill, as amended.
 - 2026-01-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H937-938)
 - 2026-01-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H937-938)
+- 2026-01-26 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
