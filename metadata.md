@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 140
 congress: 119
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.J.Res. 140
@@ -47,3 +47,4 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2026-01-21 — Rule H. Res. 1009 passed House.
 - 2026-01-21 — Rule provides for consideration of H.R. 6945, H.R. 6359 and H.J. Res. 140. The resolution provides for consideration of H.R. 6945, H.R. 6359, and H.J. Res. 140 under a closed rule with one hour of general debate and one motion to recommit on each measure.
 - 2026-01-21 — The previous question was ordered pursuant to the rule.
+- 2026-01-26 — Received in the Senate, read twice.
