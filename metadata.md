@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5763
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5763
@@ -23,9 +23,10 @@ Main Street Parity Act
 - Rep. Cisneros, Gilbert Ray [D-CA-31] (C001123)
 - Rep. Goodlander, Maggie [D-NH-2] (G000604)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Recorded votes (1)
 
@@ -49,3 +50,4 @@ Main Street Parity Act
 - 2026-01-20 — Mr. Williams (TX) moved to suspend the rules and pass the bill.
 - 2026-01-20 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 383 - 8 (Roll no. 32). (text: CR H930)
 - 2026-01-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 383 - 8 (Roll no. 32). (text: CR H930)
+- 2026-01-26 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
