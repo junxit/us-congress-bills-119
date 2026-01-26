@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7148
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 7148
@@ -151,3 +151,5 @@ Consolidated Appropriations Act, 2026
 - 2026-01-22 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 7148.
 - 2026-01-22 — The Speaker designated the Honorable Mary E. Miller to act as Chairwoman of the Committee.
 - 2026-01-22 — The previous question was ordered pursuant to the rule.
+- 2026-01-26 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 302.
+- 2026-01-26 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time. (Legislative Day January 15, 2026).
