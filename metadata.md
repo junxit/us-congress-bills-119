@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5764
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5764
@@ -23,9 +23,10 @@ AI for Main Street Act
 - Rep. Harder, Josh [D-CA-9] (H001090)
 - Rep. Cisneros, Gilbert Ray [D-CA-31] (C001123)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Recorded votes (1)
 
@@ -49,3 +50,4 @@ AI for Main Street Act
 - 2026-01-20 — Mr. Williams (TX) moved to suspend the rules and pass the bill, as amended.
 - 2026-01-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 14 (Roll no. 33). (text: CR H931)
 - 2026-01-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 14 (Roll no. 33). (text: CR H931)
+- 2026-01-26 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
