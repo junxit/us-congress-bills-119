@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5784
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5784
@@ -25,9 +25,10 @@ AI–WISE Act
 - Rep. Goodlander, Maggie [D-NH-2] (G000604)
 - Rep. Amo, Gabe [D-RI-1] (A000380)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ AI–WISE Act
 - 2026-01-20 — Mr. Williams (TX) moved to suspend the rules and pass the bill.
 - 2026-01-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H934-935)
 - 2026-01-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H934-935)
+- 2026-01-26 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
