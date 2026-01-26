@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2988
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2988
@@ -16,9 +16,10 @@ Protecting Prudent Investment of Retirement Savings Act
 
 - Rep. Allen, Rick W. [R-GA-12] (A000372)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (3)
 
@@ -58,3 +59,4 @@ Protecting Prudent Investment of Retirement Savings Act
 - 2026-01-15 — Rule provides for consideration of H.R. 2988, H.R. 2262, H.R. 2270, H.R. 2312 and H.R. 4366. The resolution provides for consideration of H.R. 2988 under a structured rule, and H.R. 2262, H.R. 2270, H.R. 2312, and H.R. 4366 under a closed rule. The rule provides for one hour of general debate and one motion to recommit on each bill.
 - 2026-01-15 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2026-01-15 — The previous question was ordered on the amendment and the bill pursuant to the rule.
+- 2026-01-26 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
