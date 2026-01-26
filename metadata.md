@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6945
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6945
@@ -34,9 +34,10 @@ Supporting Pregnant and Parenting Women and Families Act
 - Rep. Fulcher, Russ [R-ID-1] (F000469)
 - Rep. Cammack, Kat [R-FL-3] (C001039)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Recorded votes (2)
 
@@ -67,3 +68,4 @@ Supporting Pregnant and Parenting Women and Families Act
 - 2026-01-21 — Rule provides for consideration of H.R. 6945, H.R. 6359 and H.J. Res. 140. The resolution provides for consideration of H.R. 6945, H.R. 6359, and H.J. Res. 140 under a closed rule with one hour of general debate and one motion to recommit on each measure.
 - 2026-01-21 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2026-01-21 — The previous question was ordered pursuant to the rule.
+- 2026-01-26 — Received in the Senate and Read twice and referred to the Committee on Finance.
