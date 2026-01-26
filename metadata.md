@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 140
 congress: 119
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.J.Res. 140
@@ -27,9 +27,12 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 
 - House — Natural Resources Committee
 
-## Recorded votes (1)
+## Recorded votes (4)
 
 - 2026-01-21 — [House 119-2-38](votes/house-119-2-0038.md) — On Passage — **Passed** (214–208)
+- 2026-04-15 — [Senate 119-2-82](votes/senate-119-2-0082.md) — On the Motion to Table — **Motion to Table Agreed to** (51–48)
+- 2026-04-15 — [Senate 119-2-83](votes/senate-119-2-0083.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (51–49)
+- 2026-04-16 — [Senate 119-2-84](votes/senate-119-2-0084.md) — On the Joint Resolution — **Joint Resolution Passed** (50–49)
 
 ## Actions
 
@@ -48,3 +51,18 @@ Providing for congressional disapproval under chapter 8 of title 5, United State
 - 2026-01-21 — Rule provides for consideration of H.R. 6945, H.R. 6359 and H.J. Res. 140. The resolution provides for consideration of H.R. 6945, H.R. 6359, and H.J. Res. 140 under a closed rule with one hour of general debate and one motion to recommit on each measure.
 - 2026-01-21 — The previous question was ordered pursuant to the rule.
 - 2026-01-26 — Received in the Senate, read twice.
+- 2026-04-15 — Measure laid before Senate by motion.
+- 2026-04-15 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 51 - 49. Record Vote Number: 83. (CR S1790)
+- 2026-04-15 — Motion to proceed to consideration of measure made in Senate. (consideration: CR S1779-1780)
+- 2026-04-15 — Motion to table the point of order that the measure is not entitled to expedited procedures under the Congressional Review Act agreed to in Senate by Yea-Nay Vote. 51 - 48. Record Vote Number: 82.
+- 2026-04-15 — Point of order that the measure is not entitled to expedited procedures under the Congressional Review Act raised in Senate. (CR S1780)
+- 2026-04-16 — Considered by Senate. (consideration: CR S1807-1812)
+- 2026-04-16 — Message on Senate action sent to the House.
+- 2026-04-16 — Passed Senate without amendment by Yea-Nay Vote. 50 - 49. Record Vote Number: 84.
+- 2026-04-16 — Passed/agreed to in Senate: Passed Senate without amendment by Yea-Nay Vote. 50 - 49. Record Vote Number: 84.
+- 2026-04-17 — Presented to President.
+- 2026-04-17 — Presented to President.
+- 2026-04-27 — Became Public Law No: 119-85.
+- 2026-04-27 — Became Public Law No: 119-85.
+- 2026-04-27 — Signed by President.
+- 2026-04-27 — Signed by President.
