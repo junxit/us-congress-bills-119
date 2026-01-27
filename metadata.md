@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6978
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6978
@@ -25,3 +25,8 @@ Preserving Integrity in Immigration Benefits Act
 - 2026-01-08 — Introduced in House
 - 2026-01-08 — Introduced in House
 - 2026-01-08 — Referred to the House Committee on the Judiciary.
+- 2026-01-13 — Committee Consideration and Mark-up Session Held
+- 2026-01-13 — Ordered to be Reported (Amended) by the Yeas and Nays: 18 - 11.
+- 2026-01-27 — Placed on the Union Calendar, Calendar No. 398.
+- 2026-01-27 — Reported (Amended) by the Committee on Judiciary. H. Rept. 119-465.
+- 2026-01-27 — Reported (Amended) by the Committee on Judiciary. H. Rept. 119-465.
