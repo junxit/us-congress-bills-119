@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1295
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -21,11 +21,12 @@ Chapter 9 of title 5, United States Code, is amended—
   - **(A)** in subsection (a)—
     - **(i)** in paragraph (3), by inserting “, including the elimination of operations determined to be unnecessary for the execution of constitutional duties” before the semicolon;
     - **(ii)** in paragraph (5)—
-      - **(I)** by striking “agencies” in each place the term appears and inserting “executive departments”; and
-      - **(II)** by striking “and” at the end;
-    - **(iii)** in paragraph (6), by striking the period and inserting “; and”; and
+      - **(I)** by striking “agencies” in each place the term appears and inserting “executive departments”;
+      - **(II)** by striking “by consolidating” and inserting “or functions thereof by consolidating”; and
+      - **(III)** by striking “and” at the end;
+    - **(iii)** in paragraph (6), by striking the period and inserting a semicolon; and
     - **(iv)** by adding at the end the following:
-      > - **(7)** to reduce the number of federal employees;
+      > - **(7)** to reduce the number of Federal employees;
       > - **(8)** to amend rules, regulations, and other requirements for the purpose of decreasing the cost and difficulty of compliance thereof, and to eliminate unnecessary and burdensome rules, regulations, and other requirements; and
       > - **(9)** to eliminate government operations that do not serve the public interest.
 
@@ -46,12 +47,12 @@ Chapter 9 of title 5, United States Code, is amended—
   - **(A)** in subsection (a)—
     - **(i)** by striking paragraph (1);
     - **(ii)** by redesignating paragraphs (2) through (7) as paragraphs (1) through (6), respectively;
-    - **(iii)** in paragraphs (1), (2), and (3), as so redesignated, by striking “agency” in each place the term appears and inserting “executive department”; and
+    - **(iii)** in paragraphs (1) and (3), as so redesignated, by striking “agency” in each place the term appears and inserting “executive department”;
     - **(iv)** in paragraph (4), as so redesignated, by striking “new agency” and inserting “new executive department”;
     - **(v)** in paragraph (5), as so redesignated, by striking “or”;
     - **(vi)** in paragraph (6), as so redesignated, by striking the period and inserting “; or”; and
     - **(vii)** by adding at the end the following:
-      > - **(7)** creating a net increase in the number of federal workers or a net increase in expenditures.
+      > - **(7)** creating a net increase in the number of Federal workers or a net increase in expenditures.
 
   - **(B)** in subsection (b), by striking “December 31, 1984” and inserting “December 31, 2026”;
 - **(6)** in section 907, by striking “agency” in each place the term appears and inserting “executive department”;

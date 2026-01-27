@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1295
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-22 amendatory instructions. 0 executed, 22 stated and not applied.
+23 amendatory instructions. 0 executed, 23 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,9 +32,10 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | insert | in paragraph (3), by inserting “, including the elimination of operations determined to be unnecessary for the execution of constitutional duties” before the semicolon; | the bill names no machine-readable US Code section |
-| — | replace | by striking “agencies” in each place the term appears and inserting “executive departments”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “agencies” in each place the term appears and inserting “executive departments”; | the bill names no machine-readable US Code section |
+| — | replace | by striking “by consolidating” and inserting “or functions thereof by consolidating”; and | the bill names no machine-readable US Code section |
 | — | strike | by striking “and” at the end; | the bill names no machine-readable US Code section |
-| — | replace | in paragraph (6), by striking the period and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (6), by striking the period and inserting a semicolon; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (d), by striking “agencies” and inserting “executive departments”; | the bill names no machine-readable US Code section |
 | — | replace | in section 902, by striking paragraph (1) and inserting the following: | the bill names no machine-readable US Code section |
@@ -44,7 +45,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in section 904, by striking “agency” in each place the term appears and inserting “executive department”; | the bill names no machine-readable US Code section |
 | — | strike | by striking paragraph (1); | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (2) through (7) as paragraphs (1) through (6), respectively; | the bill names no machine-readable US Code section |
-| — | replace | in paragraphs (1), (2), and (3), as so redesignated, by striking “agency” in each place the term appears and inserting “executive department”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraphs (1) and (3), as so redesignated, by striking “agency” in each place the term appears and inserting “executive department”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (4), as so redesignated, by striking “new agency” and inserting “new executive department”; | the bill names no machine-readable US Code section |
 | — | redesignate | in paragraph (5), as so redesignated, by striking “or”; | the bill names no machine-readable US Code section |
 | — | redesignate | in paragraph (6), as so redesignated, by striking the period and inserting “; or”; and | the bill names no machine-readable US Code section |

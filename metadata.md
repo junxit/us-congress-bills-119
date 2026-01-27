@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1295
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1295
@@ -16,7 +16,7 @@ Reorganizing Government Act of 2025
 
 - Rep. Comer, James [R-KY-1] (C001108)
 
-## Cosponsors (15)
+## Cosponsors (19)
 
 - Rep. Donalds, Byron [R-FL-19] (D000032)
 - Rep. Biggs, Andy [R-AZ-5] (B001302)
@@ -33,6 +33,10 @@ Reorganizing Government Act of 2025
 - Rep. Higgins, Clay [R-LA-3] (H001077)
 - Rep. Boebert, Lauren [R-CO-4] (B000825)
 - Rep. Timmons, William R. [R-SC-4] (T000480)
+- Rep. Pfluger, August [R-TX-11] (P000048)
+- Rep. Mace, Nancy [R-SC-1] (M000194)
+- Rep. McGuire, John [R-VA-5] (M001239)
+- Rep. Gosar, Paul A. [R-AZ-9] (G000565)
 
 ## Committees (2)
 
@@ -45,3 +49,10 @@ Reorganizing Government Act of 2025
 - 2025-02-13 — Introduced in House
 - 2025-02-13 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2025-02-13 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Rules, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-03-25 — Committee Consideration and Mark-up Session Held
+- 2025-03-25 — Ordered to be Reported (Amended) by the Yeas and Nays: 23 - 20.
+- 2026-01-27 — Committee on Rules discharged.
+- 2026-01-27 — Committee on Rules discharged.
+- 2026-01-27 — Placed on the Union Calendar, Calendar No. 397.
+- 2026-01-27 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 119-464, Part I.
+- 2026-01-27 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 119-464, Part I.
