@@ -1,0 +1,18 @@
+---
+legis-num: S. 3693
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3693
+
+> To extend the authorization for a large-scale water recycling and reuse grant program.
+
+## § 1. Short title
+
+This Act may be cited as the “Large-Scale Water Recycling Reauthorization Act”.
+
+## § 2. Reauthorization of competitive grant program for large-scale water recycling and reuse program
+
+Section 40905(k) of the Infrastructure Investment and Jobs Act (43 U.S.C. 3205(k)) is amended by striking “5 years” and inserting “10 years”.
