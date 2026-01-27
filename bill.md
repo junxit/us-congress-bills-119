@@ -1,7 +1,7 @@
 ---
 legis-num: S. 836
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -110,6 +110,8 @@ chamber: IN THE SENATE OF THE UNITED STATES
     >     - **(i)** advertising or marketing to an individual or the device of an individual in response to the individual’s specific request for information or feedback, such as a child's or teen's current search query;
     >     - **(ii)** contextual advertising, such as when an advertisement is displayed based on the content of the website, online service, online application, mobile application, or connected device in which the advertisement appears and does not vary based on personal information related to the viewer; or
     >     - **(iii)** processing personal information solely for measuring or reporting advertising or content performance, reach, or frequency, including independent measurement.
+    >     - **(iii)** processing personal information solely for measuring or reporting advertising or content performance, reach, or frequency, including independent measurement; or
+    >     - **(iv)** advertising or marketing directed to a connected device used by both adult and child or teen members of a household where such advertising or marketing is directed to the profile of the adult user.
     >   - **(C)** *Rule of construction* Nothing in subparagraph (A) shall be construed to prohibit an operator with actual knowledge or knowledge fairly implied on the basis of objective circumstances that a user is under the age of 17 from delivering advertising or marketing that is age-appropriate and intended for a child or teen audience, so long as the operator does not use any personal information other than whether the user is under the age of 17.
     > - **(19)** *Educational agency or institution* The term educational agency or institution means—
     >   - **(A)** a State educational agency or local educational agency, as such terms are defined in section 8101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801); or
@@ -129,7 +131,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
       >   - **(E)** to retain the personal information of a child or teen for longer than is reasonably necessary to fulfill a transaction or provide a service requested by the child or teen except as required or specifically authorized by Federal or State law.
 
     - **(B)** in paragraph (2)—
-      - **(i)** in the header, by striking “parent” and inserting ““parent or teen””;
+      - **(i)** in the header, by striking “parent” and inserting““parent or teen””“parent or teen”;
       - **(ii)** by striking “Notwithstanding paragraph (1)” and inserting “Notwithstanding paragraph (1)(A)”;
       - **(iii)** by striking “of such a website or online service”; and
       - **(iv)** by striking “subsection (b)(1)(B)(iii) to the parent of a child” and inserting “subsection (b)(1)(B)(iv) to the parent of a child or under subsection (b)(1)(C)(iv) to a teen”;
@@ -284,6 +286,10 @@ chamber: IN THE SENATE OF THE UNITED STATES
   - **(1)** identify the type of financial technology products that teens are using;
   - **(2)** identify the potential risks to teens' privacy from using such financial technology products; and
   - **(3)** determine whether existing laws are sufficient to address such risks to teens' privacy.
+- **(a)** *Study* The Comptroller General of the United States (in this section referred to as the Comptroller General) shall conduct a study on the privacy and mental health of teens who use financial technology products. Such study shall—
+  - **(1)** identify the type of financial technology products that teens are using;
+  - **(2)** identify the potential risks to teens' privacy and mental health from using such financial technology products; and
+  - **(3)** determine whether existing laws are sufficient to address such risks to teens' privacy and mental health.
 - **(b)** *Report* Not later than 1 year after the date of enactment of this section, the Comptroller General shall submit to Congress a report containing the results of the study conducted under subsection (a), together with recommendations for such legislation and administrative action as the Comptroller General determines appropriate.
 
 ## § 5. Severability
