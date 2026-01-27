@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1958
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,12 +11,32 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Deporting Fraudsters Act of 2025”.
+This Act may be cited as the “Deporting Fraudsters Act of 2026”.
 
 ## § 2. Inadmissibility and deportability related to defrauding the United States Government or the unlawful receipt of public benefits
 
 - **(a)** *Inadmissibility* Section 212(a)(2) of the Immigration and Nationality Act (8 U.S.C. 1182(a)(2)) is amended by adding at the end the following:
-  > - **(J)** *Defrauding the United States Government or the unlawful receipt of public benefits* Any alien who has been convicted of, who admits having committed, or who admits committing acts which constitute the essential elements of, an offense that involves defrauding the United States Government or the unlawful receipt of a Federal public benefit (as such term is defined in section 401(c) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (8 U.S.C. 1611) or a State or local public benefit (as such term is defined in section 411(c) of such Act (8 U.S.C. 1621), or a conspiracy to commit such an offense, is inadmissible.
+  > - **(J)** *Defrauding the United States Government or the unlawful receipt of public benefits* Any alien who has been convicted of, who admits having committed, or who admits committing acts which constitute the essential elements of—
+  >   - **(i)** an offense described in section 15 of the Food and Nutrition Act of 2008 (7 U.S.C. 2024) (relating to violations of Supplemental Nutrition Assistance Program benefits);
+  >   - **(ii)** an offense described in section 208 of the Social Security Act (42 U.S.C. 408) (relating to fraud involving social security account numbers or social security cards);
+  >   - **(iii)** an offense described in section 666 of title 18, United States Code (relating to theft or bribery concerning programs receiving Federal funds);
+  >   - **(iv)** an offense described in section 1028 of title 18, United States Code (relating to fraud and related activity in connection with identification documents, authentication features, and information);
+  >   - **(v)** an offense described in section 1031 of title 18, United States Code (relating to major fraud against the United States);
+  >   - **(vi)** an offense described under chapter 63 of title 18, United States Code (relating to mail fraud and other fraud offenses);
+  >   - **(vii)** an offense described in section 371 of title 18, United States Code (relating to conspiracy to commit offense or to defraud United States);
+  >   - **(viii)** any other offense that involves defrauding the United States Government or the unlawful receipt of a Federal public benefit (as such term is defined in section 401(c) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (8 U.S.C. 1611) or a State or local public benefit (as such term is defined in section 411(c) of such Act (8 U.S.C. 1621)); or
+  >   - **(ix)** a conspiracy to commit an offense described in clause (i) through (viii),
 
 - **(b)** *Deportability* Section 237(a)(2) of the Immigration and Nationality Act (8 U.S.C. 1227(a)(2)) is amended by adding at the end the following:
-  > - **(G)** *Defrauding the United States government or the unlawful receipt of public benefits* Any alien who has been convicted of an offense that involves defrauding the United States Government or the unlawful receipt of a Federal public benefit (as such term is defined in section 401(c) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (8 U.S.C. 1611) or a State or local public benefit (as such term is defined in section 411(c) of such Act (8 U.S.C. 1621), or a conspiracy to commit such an offense, is deportable.
+  > - **(G)** *Defrauding the United States government or the unlawful receipt of public benefits* Any alien who has been convicted of, who admits having committed, or who admits committing acts which constitute the essential elements of—
+  >   - **(i)** an offense described in section 15 of the Food and Nutrition Act of 2008 (7 U.S.C. 2024) (relating to violations of Supplemental Nutrition Assistance Program benefits);
+  >   - **(ii)** an offense described in section 208 of the Social Security Act (42 U.S.C. 408) (relating to fraud involving social security account numbers or social security cards);
+  >   - **(iii)** an offense described in section 666 of title 18, United States Code (relating to theft or bribery concerning programs receiving Federal funds);
+  >   - **(iv)** an offense described in section 1028 of title 18, United States Code (relating to fraud and related activity in connection with identification documents, authentication features, and information);
+  >   - **(v)** an offense described in section 1031 of title 18, United States Code (relating to major fraud against the United States);
+  >   - **(vi)** an offense described under chapter 63 of title 18, United States Code (relating to mail fraud and other fraud offenses);
+  >   - **(vii)** an offense described in section 371 of title 18, United States Code (relating to conspiracy to commit offense or to defraud United States);
+  >   - **(viii)** any other offense that involves defrauding the United States Government or the unlawful receipt of a Federal public benefit (as such term is defined in section 401(c) of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (8 U.S.C. 1611)) or a State or local public benefit (as such term is defined in section 411(c) of such Act (8 U.S.C. 1621)); or
+  >   - **(ix)** a conspiracy to commit an offense described in clause (i) through (viii),
+
+- **(c)** *Ineligibility for any immigration relief* Any alien described in subparagraph (J) of section 212(a)(2) of the Immigration and Nationality Act (8 U.S.C. 1128(a)(2)(J)) or subparagraph (G) of section 237(a)(2) of the Immigration and Nationality Act (8 U.S.C. 1227(a)(2)) shall be ineligible for any relief under the immigration laws (as such term is defined in section 101 of the Immigration and Nationality Act (8 U.S.C. 1101)), including under section 2242 of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999 (112 Stat. 2681).
