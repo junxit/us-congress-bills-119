@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5183
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “District of Columbia Home Rule Improvement Act”.
+This Act may be cited as the “District of Columbia Home Rule Improvement Act of 2025”.
 
 ## § 2. Uniform 60-day Congressional review period for District of Columbia laws
 
@@ -29,7 +29,7 @@ This Act may be cited as the “District of Columbia Home Rule Improvement Act�
 
 ## § 3. Clarification of expedited procedures applicable to consideration of resolutions of disapproval
 
-- **(a)** *Application of all procedures to all resolutions of disapproval* The third sentence of section 602(c)(1) of the District of Columbia Home Rule Act (sec. 1–206.02(c)(1), D.C. Official Code) is amended by striking “section 604, except subsections (d), (e), and (f) of such section,” and inserting “section 604”.
+- **(a)** *Application of all procedures to all resolutions of disapproval* The fourth sentence of section 602(c)(1) of the District of Columbia Home Rule Act (sec. 1–206.02(c)(1), D.C. Official Code) is amended by striking “section 604, except subsections (d), (e), and (f) of such section,” and inserting “section 604”.
 - **(b)** *Clarification of procedures* Section 604 of such Act (sec. 1–206.04, D.C. Official Code) is amended by striking subsections (c) through (j) and inserting the following:
   > - **(c)** *Referral to Committees* A resolution with respect to Council action shall be referred to the Committee on Oversight and Government Reform of the House of Representatives, or the Committee on Homeland Security and Governmental Affairs of the Senate, by the President of the Senate or the Speaker of the House of Representatives, as the case may be.
   > - **(d)** *Procedures in House of Representatives*
@@ -65,9 +65,7 @@ This Act may be cited as the “District of Columbia Home Rule Improvement Act�
     - **(A)** by striking “disapproving such an act” and inserting “disapproving such an act or any provision thereof”; and
     - **(B)** by striking “to have repealed such act” and inserting “to have repealed such act or such provision (as the case may be)”; and
   - **(3)** in the fourth sentence, by striking “disapproving any act” and inserting “disapproving any act or any provision thereof”.
-- **(b)** *Conforming amendments*
-  - **(1)** *Application of expedited procedures for consideration of resolutions* The fourth sentence of section 602(c)(1) of such Act (sec. 1–206.02(c)(1), D.C. Official Code) is amended by striking “disapproving such act” and inserting “disapproving such act or any provision thereof”.
-  - **(2)** *Clarification of joint resolution definition* Section 604(b) of such Act (sec. 1–206.04(b), D.C. Official Code) is amended by striking “; but does not include a resolution which specifies more than one action”.
+- **(b)** *Conforming amendment* Section 604(b) of such Act (sec. 1–206.04(b), D.C. Official Code) is amended by striking “; but does not include a resolution which specifies more than one action”.
 - **(c)** *Rule of construction* Section 602(c)(1) of such Act (sec. 1–206.02(c)(1), D.C. Official Code) is amended by adding at the end the following new sentence: “The enactment of a resolution disapproving a provision of an act pursuant to this paragraph may not be construed to repeal any of the remaining provisions of such act or prohibit the enactment of any subsequent resolution disapproving any other provision of such act pursuant to this paragraph.”.
 
 ## § 5. Authorizing use of resolutions of disapproval to disapprove executive orders and regulations
@@ -100,7 +98,7 @@ Section 602(c) of the District of Columbia Home Rule Act (sec. 1–206.02(c), D.
 
 - **(b)** *Effective date* The amendment made by subsection (a) shall apply with respect to acts of the District of Columbia which are disapproved by a joint resolution enacted on or after the date of the enactment of this Act.
 
-## § 8. Annual hearing and report on State of District of Columbia
+## § 8. Annual hearing and report on state of District of Columbia
 
 Not less frequently than once every calendar year, the Chair of the Council of the District of Columbia and the Mayor of the District of Columbia shall appear at a hearing of the Committee on Oversight and Government Reform of the House of Representatives and a hearing of the Committee on Homeland Security and Governmental Affairs of the Senate to present a report on the state of the District, including recommendations for such measures as they deem necessary and expedient.
 

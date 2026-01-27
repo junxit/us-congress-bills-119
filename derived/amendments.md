@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5183
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-22 amendatory instructions. 0 executed, 22 stated and not applied.
+21 amendatory instructions. 0 executed, 21 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -37,14 +37,13 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating paragraph (3) as paragraph (2). | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 602(c) of such Act (sec. 1–206.02(c), D.C. Official Code), as amended by subsection (b), is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | replace | Section 412(a) of such Act (sec. 1–204.12(a), D.C. Official Code) is amended by striking “ninety days” and inserting “ninety days, subject to section 602(c)(3)”. | the bill names no machine-readable US Code section |
-| — | replace | The third sentence of section 602(c)(1) of the District of Columbia Home Rule Act (sec. 1–206.02(c)(1), D.C. Official Code) is amended by striking “section 604, except subsections (d), (e), and (f) of such section,” and inserting “sectio… | the bill names no machine-readable US Code section |
+| — | replace | The fourth sentence of section 602(c)(1) of the District of Columbia Home Rule Act (sec. 1–206.02(c)(1), D.C. Official Code) is amended by striking “section 604, except subsections (d), (e), and (f) of such section,” and inserting “secti… | the bill names no machine-readable US Code section |
 | — | replace | Section 604 of such Act (sec. 1–206.04, D.C. Official Code) is amended by striking subsections (c) through (j) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “such act shall take effect” and inserting “such act and each provision thereof shall take effect”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “a joint resolution disapproving such act.” and inserting “a joint resolution disapproving such act or any provision thereof.”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “disapproving such an act” and inserting “disapproving such an act or any provision thereof”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “to have repealed such act” and inserting “to have repealed such act or such provision (as the case may be)”; and | the bill names no machine-readable US Code section |
 | — | replace | in the fourth sentence, by striking “disapproving any act” and inserting “disapproving any act or any provision thereof”. | the bill names no machine-readable US Code section |
-| — | replace | The fourth sentence of section 602(c)(1) of such Act (sec. 1–206.02(c)(1), D.C. Official Code) is amended by striking “disapproving such act” and inserting “disapproving such act or any provision thereof”. | the bill names no machine-readable US Code section |
 | — | strike | Section 604(b) of such Act (sec. 1–206.04(b), D.C. Official Code) is amended by striking “; but does not include a resolution which specifies more than one action”. | the bill names no machine-readable US Code section |
 | — | repeal | Section 602(c)(1) of such Act (sec. 1–206.02(c)(1), D.C. Official Code) is amended by adding at the end the following new sentence: “The enactment of a resolution disapproving a provision of an act pursuant to this paragraph may not be c… | the bill names no machine-readable US Code section |
 | — | add-at-end | Title VI of the District of Columbia Home Rule Act (sec. 1–206.01 et seq., D.C. Official Code) is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
