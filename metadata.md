@@ -1,7 +1,7 @@
 ---
 measure: S. 921
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 921
@@ -16,12 +16,20 @@ Tyler’s Law
 
 - Sen. Banks, Jim [R-IN] (B001299)
 
-## Cosponsors (4)
+## Cosponsors (12)
 
 - Sen. Padilla, Alex [D-CA] (P000145)
 - Sen. Grassley, Chuck [R-IA] (G000386)
 - Sen. Warner, Mark R. [D-VA] (W000805)
 - Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Scott, Rick [R-FL] (S001217)
+- Sen. Mullin, Markwayne [R-OK] (M001190)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Moody, Ashley [R-FL] (M001244)
+- Sen. Tuberville, Tommy [R-AL] (T000278)
 
 ## Committees (1)
 
@@ -31,3 +39,7 @@ Tyler’s Law
 
 - 2025-03-10 — Introduced in Senate
 - 2025-03-10 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2026-01-15 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2026-01-28 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy with an amendment in the nature of a substitute. Without written report.
+- 2026-01-28 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy with an amendment in the nature of a substitute. Without written report.
+- 2026-01-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 307.
