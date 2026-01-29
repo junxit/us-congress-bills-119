@@ -1,0 +1,27 @@
+---
+legis-num: S. 3722
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3722
+
+> To amend the Internal Revenue Code of 1986 to restore and extend certain tax credits to incentivize energy efficiency.
+
+## § 1. Short title
+
+This Act may be cited as the “Lowering Home Energy Costs Act”.
+
+## § 2. Extension of new energy efficient home credit
+
+Section 45L(h) of the Internal Revenue Code of 1986 is amended by striking “June 30, 2026” and inserting “December 31, 2032”.
+
+## § 3. Extension of residential clean energy credit
+
+Section 25D(h) of the Internal Revenue Code of 1986 is amended by striking “December 31, 2025” and inserting “December 31, 2032”.
+
+## § 4. Restoration of energy efficient home improvement credit
+
+- **(a)** *Repeal* Section 70505 of Public Law 119–21 is repealed, and section 25C of the Internal Revenue Code of 1986 is restored as if such section 70505 had not been enacted.
+- **(b)** *Effective date* The amendment made by subsection (a) shall take effect as if included in the enactment of Public Law 119–21.
