@@ -1,0 +1,24 @@
+---
+legis-num: S. 3729
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 3729
+
+> To require the Medicare Payment Advisory Commission (MedPAC) submit to Congress two reports on agreements with pharmacy benefit managers with respect to prescription drug plans and MA–PD plans.
+
+## § 1. Short title
+
+This Act may be cited as the “PBM Reporting Transparency Act”.
+
+## § 2. MedPAC reports on agreements with pharmacy benefit managers with respect to prescription drug plans and MA–PD plans
+
+The Medicare Payment Advisory Commission shall submit to Congress the following reports:
+
+- **(1)** *Initial report* Not later than the first March 15 occurring after the date that is 2 years after the date on which the Secretary makes the data available to the Commission, a report regarding agreements with pharmacy benefit managers with respect to prescription drug plans and MA–PD plans. Such report shall include, to the extent practicable—
+  - **(A)** a description of trends and patterns, including relevant averages, totals, and other figures for the types of information submitted;
+  - **(B)** an analysis of any differences in agreements and their effects on plan enrollee out-of-pocket spending and average pharmacy reimbursement, and other impacts; and
+  - **(C)** any recommendations the Commission determines appropriate.
+- **(2)** *Final report* Not later than 2 years after the date on which the Commission submits the initial report under paragraph (1), a report describing any changes with respect to the information described in paragraph (1) over time, together with any recommendations the Commission determines appropriate.
