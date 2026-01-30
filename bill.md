@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2853
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,24 +11,31 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Combating Organized Retail Crime Act”.
+This Act may be cited as the “Combating Organized Retail Crime Act of 2025”.
 
 ## § 2. Findings
 
 It is the sense of Congress that—
 
-- **(1)** organized theft groups, involving sophisticated and structured groups of individuals, continue to increase criminal activities carried out by the groups against the retail industry and the supply chain of the Nation. These activities, at unprecedented levels, involve theft and fraud of both physical and digital goods, leading to escalating financial losses and violence in the workplace—all impacting the national economy and security of the United States;
-- **(2)** retailers face mounting thefts and fraud because of organized retail crime in and around stores, online, and throughout the retail ecosystem. According to the National Retail Federation, larceny incidents increased by 93 percent in 2023 compared to 2019, with a 90 percent rise in average dollar loss. These thefts are often orchestrated by organized theft groups reselling and redistributing the stolen goods back into the economy of the United States or overseas to gain illicit profit and to finance other criminal activity. More than 84 percent of retailers report that violence and aggression from these criminal activities has become more of a concern since 2022, resulting in injuries and deaths among employees, customers, security officers, and law enforcement personnel;
-- **(3)** product manufacturers and the supply chain of the Nation are victims of alarming increases in cargo theft across rails, roads, and the various distribution points across the Nation. CargoNet, a database of reported incidents in the United States, reported a 27 percent increase in cargo theft incidents in 2024 compared to the previous year. During the same period, the average value per theft rose to over $202,000. These thefts range from large-scale physical theft of goods from containers and storage to sophisticated cybercriminal methods that divert shipments to illicit receivers, causing significant financial losses and operational supply chain disruptions;
-- **(4)** since 2022, more than 30 State laws have been enacted to address organized theft, allow for aggregation of thefts, and adjust penalties and enhancements. In 2024, California voters overwhelmingly approved a constitutional reform to allow aggregation of multiple or repeated thefts. Although larceny and organized retail crime are sometimes prosecuted at State and local levels, States face resource and investigative challenges from groups operating beyond local, State, and regional law enforcement capabilities. More needs to be done to address the cross-jurisdictional, interstate, and international aspects of these crimes;
-- **(5)** organized theft groups vary in scope and scale, operating across State jurisdictions to avoid or disrupt local, State, and Tribal law enforcement response. These organized theft groups build hierarchies to easily redistribute stolen goods and illicit profits back into the economy of the United States or overseas with disregard for product and consumer safety. The groups exist and operate at the local, regional, and transnational level, targeting goods that include raw and finished materials, various branded retail products across all consumer categories, operational assets in retail commerce such as reusable transport packaging products, and consumable goods including agriculture, food products, and medicines;
-- **(6)** these groups are often polycriminal organizations, using profit from the reselling of stolen goods to support crimes involving drugs and weapons trafficking. The organized theft groups engage in human smuggling and have been known to use migrants to commit crimes to support the organizations. The groups move products and illicit proceeds beyond the borders of the United States, funding nefarious groups and activities and threatening the integrity of the international economy;
-- **(7)** organized theft groups—
+- **(1)** organized theft groups, involving sophisticated and structured groups of individuals, continue to increase criminal activities carried out by the groups against the retail industry and the supply chain of the Nation, and these activities, at unprecedented levels, involve theft and fraud of both physical and digital goods, leading to escalating financial losses and violence in the workplace—all impacting the national economy and security of the United States;
+- **(2)** retailers face mounting thefts and fraud because of organized retail crime in and around stores, online, and throughout the retail ecosystem, and, according to the National Retail Federation, larceny incidents increased by 93 percent in 2023 compared to 2019, with a 90 percent rise in average dollar loss;
+- **(3)** these thefts are often orchestrated by organized theft groups reselling and redistributing the stolen goods back into the economy of the United States or overseas to gain illicit profit and to finance other criminal activity, and more than 84 percent of retailers report that violence and aggression from these criminal activities has become more of a concern since 2022, resulting in injuries and deaths among employees, customers, security officers, and law enforcement personnel;
+- **(4)** product manufacturers and the supply chain of the Nation are victims of alarming increases in cargo theft across rails, roads, and the various distribution points across the Nation;
+- **(5)** CargoNet, a database of reported incidents in the United States, reported a 27 percent increase in cargo theft incidents in 2024 compared to the previous year, while during the same period, the average value per theft rose to over $202,000;
+- **(6)** these thefts range from large-scale physical theft of goods from containers and storage to sophisticated cybercriminal methods that divert shipments to illicit receivers, causing significant financial losses and operational supply chain disruptions;
+- **(7)** since 2022, more than 30 State laws have been enacted to address organized theft, allow for aggregation of thefts, and adjust penalties and enhancements, includin in 2024, California voters overwhelmingly approving a constitutional reform to allow aggregation of multiple or repeated thefts;
+- **(8)** although larceny and organized retail crime are sometimes prosecuted at State and local levels, States face resource and investigative challenges from groups operating beyond local, State, and regional law enforcement capabilities, and more needs to be done to address the cross-jurisdictional, interstate, and international aspects of these crimes;
+- **(9)** organized theft groups vary in scope and scale, operating across State jurisdictions to avoid or disrupt local, State, and Tribal law enforcement response, and these organized theft groups build hierarchies to easily redistribute stolen goods and illicit profits back into the economy of the United States or overseas with disregard for product and consumer safety;
+- **(10)** the groups exist and operate at the local, regional, and transnational level, targeting goods that include raw and finished materials, various branded retail products across all consumer categories, operational assets in retail commerce such as reusable transport packaging products, and consumable goods including agriculture, food products, and medicines;
+- **(11)** these groups are often polycriminal organizations, using profit from the reselling of stolen goods to support crimes involving drugs and weapons trafficking;
+- **(12)** the organized theft groups engage in human smuggling and have been known to use migrants to commit crimes to support the organizations;
+- **(13)** the groups move products and illicit proceeds beyond the borders of the United States, funding nefarious groups and activities and threatening the integrity of the international economy;
+- **(14)** organized theft groups—
   - **(A)** threaten the safety and liberty of individuals in the United States when those individuals engage in commerce;
   - **(B)** impact the ability of the Nation to distribute goods to consumers, undermine consumer confidence in the supply chain, and threaten the integrity of agricultural and consumable goods;
   - **(C)** erode the national economy by increasing the cost of goods, resulting in higher prices for consumers, reducing tax revenues, and impacting employees, customers, and businesses alike; and
   - **(D)** impact the national security of the United States through financing transnational criminal activity and providing profit and proceeds supporting larger criminal goals of the criminal organizations; and
-- **(8)** it has become necessary for Congress to—
+- **(15)** it has become necessary for Congress to—
   - **(A)** amend title 18, United States Code, to ensure that law enforcement has the legal tools necessary to combat organized retail crime in the same capacity that law enforcement is able to combat theft and diversion from other portions of the supply chain; and
   - **(B)** direct the executive branch to create a central coordination center to align Federal, State, local, territorial, and Tribal efforts to combat organized retail crime and organized supply chain crime.
 
@@ -41,9 +48,8 @@ Part I of title 18, United States Code, is amended—
   - **(B)** by inserting after subparagraph (B) the following:
     > - **(C)** section 659 (interstate or foreign shipments by carrier; State prosecutions);
 
-  - **(C)** in subparagraph (E), as so redesignated, by striking “; or” and inserting a semicolon;
-  - **(D)** in subparagraph (F), as so redesignated, by striking the period at the end and inserting a semicolon; and
-  - **(E)** by inserting after subparagraph (F), as so redesignated, the following:
+  - **(C)** in subparagraph (E), as so redesignated, by striking “; or” and inserting a semicolon; and
+  - **(D)** by inserting after subparagraph (F), as so redesignated, the following:
     > - **(G)** section 2314 (transportation of stolen goods, securities, moneys, fraudulent State tax stamps, or articles used in counterfeiting); or
     > - **(H)** section 2315 (sale or receipt of stolen goods, securities, moneys, or fraudulent State tax stamps);
 
@@ -53,13 +59,10 @@ Part I of title 18, United States Code, is amended—
     - **(i)** by inserting “section 659 (interstate or foreign shipments by carrier; State prosecutions),” after “section 658 (relating to property mortgaged or pledged to farm credit agencies), ”; and
     - **(ii)** by inserting “section 2314 (transportation of stolen goods, securities, moneys, fraudulent State tax stamps, or articles used in counterfeiting), section 2315 (sale or receipt of stolen goods, securities, moneys, or fraudulent State tax stamps), ” after “section 2281 (relating to violence against maritime fixed platforms),”;
 - **(3)** in section 2314, in the first paragraph—
-  - **(A)** by inserting “, or by using any facility of interstate or foreign commerce,” after “commerce”;
-  - **(B)** by inserting “or of an aggregate value of $5,000 or more during any 12-month period,” after “more, ”;
-  - **(C)** by inserting “, embezzled,” after “stolen”; and
-  - **(D)** by inserting “, false pretense, or other illegal means” after “fraud”; and
-- **(4)** in section 2315, in the first paragraph—
-  - **(A)** by inserting “or of an aggregate value of $5,000 or more during any 12-month period,” after “$5,000 or more, ”; and
-  - **(B)** by striking “; or” and inserting “, or have been stolen, unlawfully converted, or taken by the use of any facility of interstate or foreign commerce in the commission of said act; or”.
+  - **(A)** by inserting “or of an aggregate value of $5,000 or more during any 12-month period,” after “more,”;
+  - **(B)** by inserting “embezzled,” after “stolen,”; and
+  - **(C)** by inserting “, false pretense, or other illegal means” after “fraud”; and
+- **(4)** in section 2315, in the first paragraph, by inserting “or of an aggregate value of $5,000 or more during any 12-month period,” after “$5,000 or more,”.
 
 ## § 4. Establishment of a Center to Combat Organized Retail and Supply Chain Crime
 
@@ -75,7 +78,7 @@ Part I of title 18, United States Code, is amended—
   >   - **(3)** *Secretary* The term “Secretary” means the Secretary of Homeland Security.
   >   - **(4)** *Executive Associate Director* The term “Executive Associate Director” means the Executive Associate Director of Homeland Security Investigations.
   > - **(b)** *Organized Retail and Supply Chain Crime Coordination Center*
-  >   - **(1)** *Establishment* Not later than 90 days after the date of enactment of the Combating Organized Retail Crime Act, the Secretary shall direct the Executive Associate Director to establish the Organized Retail and Supply Chain Crime Coordination Center.
+  >   - **(1)** *Establishment* Not later than 90 days after the date of enactment of the Combating Organized Retail Crime Act of 2025, the Secretary shall direct the Executive Associate Director to establish the Organized Retail and Supply Chain Crime Coordination Center.
   >   - **(2)** *Duties* The duties of the Center shall include—
   >     - **(A)** coordinating Federal law enforcement activities related to organized retail and supply chain crime, including investigations of national and transnational criminal organizations that are engaged in organized retail and supply chain crime;
   >     - **(B)** establishing relationships with State and local law enforcement agencies and organizations, including organized retail crime associations and cargo theft associations, and sharing information regarding organized retail and supply chain crime threats with such agencies and organizations;
@@ -115,7 +118,7 @@ Part I of title 18, United States Code, is amended—
   >       - **(ii)** *Non-delegable authority* The Director may not delegate his or her authority under this subparagraph.
   >   - **(5)** *Reporting requirements*
   >     - **(A)** *Initial report*
-  >       - **(i)** *In general* Not later than 1 year after the date of enactment of the Combating Organized Retail Crime Act, the Secretary shall submit a report regarding the establishment of the Center to—
+  >       - **(i)** *In general* Not later than 1 year after the date of enactment of the Combating Organized Retail Crime Act of 2025, the Secretary shall submit a report regarding the establishment of the Center to—
   >         - **(I)** the Committee on the Judiciary of the Senate;
   >         - **(II)** the Committee on Homeland Security and Governmental Affairs of the Senate;
   >         - **(III)** the Committee on the Judiciary of the House of Representatives; and
@@ -133,7 +136,7 @@ Part I of title 18, United States Code, is amended—
   >     - **(A)** *In general* The authority of the Center shall terminate on the date that is 7 years after the date on which the Center is established under paragraph (1).
   >     - **(B)** *Wind down* The Secretary shall take such actions as may be necessary to wind down the Center in accordance with subparagraph (A).
   > - **(c)** *Training and technical assistance*
-  >   - **(1)** *Evaluation* Not later than 180 days after the date of enactment of the Combating Organized Retail Crime Act, the Secretary and the Attorney General shall conduct an evaluation of existing Federal programs that provide grants, training, and technical support to State, local, and Tribal law enforcement to assist in countering organized retail and supply chain crime.
+  >   - **(1)** *Evaluation* Not later than 180 days after the date of enactment of the Combating Organized Retail Crime Act of 2025, the Secretary and the Attorney General shall conduct an evaluation of existing Federal programs that provide grants, training, and technical support to State, local, and Tribal law enforcement to assist in countering organized retail and supply chain crime.
   >   - **(2)** *Evaluation scope* The evaluation required under paragraph (1) shall evaluate, at a minimum—
   >     - **(A)** the Homeland Security Grant Program at the Federal Emergency Management Agency;
   >     - **(B)** grant programs at the Office of Justice Programs within the Department of Justice; and
