@@ -1,0 +1,14 @@
+---
+legis-num: H.R. 7292
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7292
+
+> To amend the National Quantum Initiative Act to require a biennial report on the progress of the Subcommittee on Quantum Information Science of the National Science and Technology Council in implementing the national workforce strategic plan, and for other purposes.
+
+## § 1. Biennial reports on progress of the Subcommittee on Quantum Information Science in implementing the national workforce strategic plan
+
+Subsection (f) of section 103 of the National Quantum Initiative Act (15 U.S.C. 8813) is amended by adding at the end the following new sentences: “The chairpersons shall biennially submit to the President, the Advisory Committee, and the appropriate committees of Congress a report on the progress of the Subcommittee in implementing the relevant strategic plan developed under subsection (e) and any updates thereto. Each such report shall include a description of such progress and of any challenges encountered, as well as any planned updates to address evolving workforce needs.”.
