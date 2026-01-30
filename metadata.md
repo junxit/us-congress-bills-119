@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7148
 congress: 119
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 7148
@@ -16,17 +16,46 @@ Consolidated Appropriations Act, 2026
 
 - Rep. Cole, Tom [R-OK-4] (C001053)
 
+## Cosponsors (18)
+
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Luján, Ben Ray [D-NM] (L000570)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+
 ## Committees (3)
 
 - House — Ways and Means Committee
 - House — Budget Committee
 - House — Appropriations Committee
 
-## Recorded votes (3)
+## Recorded votes (11)
 
 - 2026-01-22 — [House 119-2-43](votes/house-119-2-0043.md) — On Agreeing to the Amendment — **Failed** (164–268)
 - 2026-01-22 — [House 119-2-44](votes/house-119-2-0044.md) — On Agreeing to the Amendment — **Failed** (136–291)
 - 2026-01-22 — [House 119-2-45](votes/house-119-2-0045.md) — On Passage — **Passed** (341–88)
+- 2026-01-29 — [Senate 119-2-13](votes/senate-119-2-0013.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Rejected** (45–55)
+- 2026-01-30 — [Senate 119-2-14](votes/senate-119-2-0014.md) — On the Amendment — **Amendment Rejected** (32–67)
+- 2026-01-30 — [Senate 119-2-15](votes/senate-119-2-0015.md) — On the Motion to Table — **Motion to Table Agreed to** (67–33)
+- 2026-01-30 — [Senate 119-2-16](votes/senate-119-2-0016.md) — On the Motion to Table — **Motion to Table Agreed to** (58–42)
+- 2026-01-30 — [Senate 119-2-17](votes/senate-119-2-0017.md) — On the Motion to Table — **Motion to Table Agreed to** (58–42)
+- 2026-01-30 — [Senate 119-2-18](votes/senate-119-2-0018.md) — On the Amendment — **Amendment Rejected** (49–51)
+- 2026-01-30 — [Senate 119-2-19](votes/senate-119-2-0019.md) — On the Motion — **Motion Rejected** (47–52)
+- 2026-01-30 — [Senate 119-2-20](votes/senate-119-2-0020.md) — On Passage of the Bill — **Bill Passed** (71–29)
 
 ## Actions
 
@@ -153,3 +182,176 @@ Consolidated Appropriations Act, 2026
 - 2026-01-22 — The previous question was ordered pursuant to the rule.
 - 2026-01-26 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 302.
 - 2026-01-26 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time. (Legislative Day January 15, 2026).
+- 2026-01-27 — 
+- 2026-01-27 — 
+- 2026-01-27 — 
+- 2026-01-27 — 
+- 2026-01-27 — 
+- 2026-01-27 — Cloture motion on the motion to proceed to the measure presented in Senate. (CR S287)
+- 2026-01-27 — Motion to proceed to consideration of measure made in Senate. (CR S281)
+- 2026-01-27 — Senate amendment submitted
+- 2026-01-27 — Senate amendment submitted
+- 2026-01-27 — Senate amendment submitted
+- 2026-01-27 — Senate amendment submitted
+- 2026-01-27 — Senate amendment submitted
+- 2026-01-28 — 
+- 2026-01-28 — 
+- 2026-01-28 — 
+- 2026-01-28 — 
+- 2026-01-28 — 
+- 2026-01-28 — 
+- 2026-01-28 — 
+- 2026-01-28 — 
+- 2026-01-28 — 
+- 2026-01-28 — 
+- 2026-01-28 — 
+- 2026-01-28 — 
+- 2026-01-28 — 
+- 2026-01-28 — 
+- 2026-01-28 — Motion to proceed to measure considered in Senate. (CR S301)
+- 2026-01-28 — Senate amendment submitted
+- 2026-01-28 — Senate amendment submitted
+- 2026-01-28 — Senate amendment submitted
+- 2026-01-28 — Senate amendment submitted
+- 2026-01-28 — Senate amendment submitted
+- 2026-01-28 — Senate amendment submitted
+- 2026-01-28 — Senate amendment submitted
+- 2026-01-28 — Senate amendment submitted
+- 2026-01-28 — Senate amendment submitted
+- 2026-01-28 — Senate amendment submitted
+- 2026-01-28 — Senate amendment submitted
+- 2026-01-28 — Senate amendment submitted
+- 2026-01-28 — Senate amendment submitted
+- 2026-01-28 — Senate amendment submitted
+- 2026-01-29 — 
+- 2026-01-29 — 
+- 2026-01-29 — 
+- 2026-01-29 — 
+- 2026-01-29 — 
+- 2026-01-29 — 
+- 2026-01-29 — 
+- 2026-01-29 — 
+- 2026-01-29 — 
+- 2026-01-29 — 
+- 2026-01-29 — 
+- 2026-01-29 — 
+- 2026-01-29 — 
+- 2026-01-29 — 
+- 2026-01-29 — 
+- 2026-01-29 — 
+- 2026-01-29 — 
+- 2026-01-29 — 
+- 2026-01-29 — 
+- 2026-01-29 — 
+- 2026-01-29 — 
+- 2026-01-29 — 
+- 2026-01-29 — 
+- 2026-01-29 — 
+- 2026-01-29 — 
+- 2026-01-29 — 
+- 2026-01-29 — 
+- 2026-01-29 — 
+- 2026-01-29 — 
+- 2026-01-29 — 
+- 2026-01-29 — 
+- 2026-01-29 — 
+- 2026-01-29 — 
+- 2026-01-29 — 
+- 2026-01-29 — 
+- 2026-01-29 — Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 45 - 55. Record Vote Number: 13. (CR S361)
+- 2026-01-29 — Motion by Senator Thune to reconsider the vote by which cloture on the motion to proceed to the measure was not invoked (Record Vote No. 13) entered in Senate.
+- 2026-01-29 — Motion to proceed to measure considered in Senate. (CR S357)
+- 2026-01-29 — Senate amendment submitted
+- 2026-01-29 — Senate amendment submitted
+- 2026-01-29 — Senate amendment submitted
+- 2026-01-29 — Senate amendment submitted
+- 2026-01-29 — Senate amendment submitted
+- 2026-01-29 — Senate amendment submitted
+- 2026-01-29 — Senate amendment submitted
+- 2026-01-29 — Senate amendment submitted
+- 2026-01-29 — Senate amendment submitted
+- 2026-01-29 — Senate amendment submitted
+- 2026-01-29 — Senate amendment submitted
+- 2026-01-29 — Senate amendment submitted
+- 2026-01-29 — Senate amendment submitted
+- 2026-01-29 — Senate amendment submitted
+- 2026-01-29 — Senate amendment submitted
+- 2026-01-29 — Senate amendment submitted
+- 2026-01-29 — Senate amendment submitted
+- 2026-01-29 — Senate amendment submitted
+- 2026-01-29 — Senate amendment submitted
+- 2026-01-29 — Senate amendment submitted
+- 2026-01-29 — Senate amendment submitted
+- 2026-01-29 — Senate amendment submitted
+- 2026-01-29 — Senate amendment submitted
+- 2026-01-29 — Senate amendment submitted
+- 2026-01-29 — Senate amendment submitted
+- 2026-01-29 — Senate amendment submitted
+- 2026-01-29 — Senate amendment submitted
+- 2026-01-29 — Senate amendment submitted
+- 2026-01-29 — Senate amendment submitted
+- 2026-01-29 — Senate amendment submitted
+- 2026-01-29 — Senate amendment submitted
+- 2026-01-29 — Senate amendment submitted
+- 2026-01-29 — Senate amendment submitted
+- 2026-01-29 — Senate amendment submitted
+- 2026-01-29 — Senate amendment submitted
+- 2026-01-30 — 
+- 2026-01-30 — 
+- 2026-01-30 — 
+- 2026-01-30 — 
+- 2026-01-30 — 
+- 2026-01-30 — 
+- 2026-01-30 — 
+- 2026-01-30 — 
+- 2026-01-30 — Amendment SA 4234 proposed by Senator Scott FL for Senator Lee. (consideration: CR S413-414) To strike the earmark for the Community and Training Center by the New Immigrant Community Empowerment.
+- 2026-01-30 — Amendment SA 4236 proposed by Senator Lee. (consideration: CR S413) To strike all earmarks.
+- 2026-01-30 — Amendment SA 4241 not agreed to in Senate by Voice Vote.
+- 2026-01-30 — Amendment SA 4241 proposed by Senator Schmitt. (consideration: CR S412-413) To eliminate National Endowment for Democracy funding.
+- 2026-01-30 — Amendment SA 4272 not agreed to in Senate by Yea-Nay Vote. 32 - 67. Record Vote Number: 14.
+- 2026-01-30 — Amendment SA 4272 proposed by Senator Paul. (consideration: CR S411-412) To eliminate funding for refugee and entrant assistance.
+- 2026-01-30 — Amendment SA 4273 agreed to in Senate by Unanimous Consent.
+- 2026-01-30 — Amendment SA 4273 proposed by Senator Collins. (consideration: CR S415) To provide continuing appropriations for the Department of Homeland Security.
+- 2026-01-30 — Amendment SA 4286 proposed by Senator Lee. (consideration: CR S414) To eliminate funding for the United States African Development Foundation.
+- 2026-01-30 — Amendment SA 4287 proposed by Senator Merkley. (consideration: CR S415-416) To prevent the deferral or rescission of appropriations within 90 days of their expiration.
+- 2026-01-30 — Amendment SA 4287 ruled out of order by the chair.
+- 2026-01-30 — Amendment SA 4290 proposed by Senator Sanders. (consideration: CR S414-415) To rescind certain amounts appropriated for U.S. Immigration and Customs Enforcement and certain changes to Medicaid.
+- 2026-01-30 — Amendment SA 4290, under the order of 1/30/2026, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 18.
+- 2026-01-30 — Cloture motion on the motion to proceed rendered moot in Senate.
+- 2026-01-30 — Measure laid before Senate by unanimous consent. (consideration: CR S411-416)
+- 2026-01-30 — Motion by Senator Thune to reconsider the vote by which cloture on the motion to proceed to H.R.7148 was not invoked (Record Vote No. 13) rendered moot in Senate.
+- 2026-01-30 — Motion to proceed to consideration of measure agreed to in Senate by Unanimous Consent.
+- 2026-01-30 — Motion to proceed to measure considered in Senate. (CR S401)
+- 2026-01-30 — Motion to table agreed to in Senate by Yea-Nay Vote. 58 - 42. Record Vote Number: 17.
+- 2026-01-30 — Motion to table amendment SA 4234 agreed to in Senate by Yea-Nay Vote. 58 - 42. Record Vote Number: 16.
+- 2026-01-30 — Motion to table amendment SA 4236 agreed to in Senate by Yea-Nay Vote. 67 - 33. Record Vote Number: 15.
+- 2026-01-30 — Motion to waive all applicable budgetary discipline with respect to amendment SA 4287, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 19.
+- 2026-01-30 — Passed Senate, under the order of 1/30/2026, having achieved 60 votes in the affirmative, with amendments by Yea-Nay Vote. 71 - 29. Record Vote Number: 20.
+- 2026-01-30 — Passed/agreed to in Senate: Passed Senate, under the order of 1/30/2026, having achieved 60 votes in the affirmative, with amendments by Yea-Nay Vote. 71 - 29. Record Vote Number: 20.
+- 2026-01-30 — Point of order that the amendment violates section 306 of the CBA raised in Senate with respect to amendment SA 4287.
+- 2026-01-30 — Roll call votes on amendments in Senate: Amendment SA 4272 not agreed to in Senate by Yea-Nay Vote. 32 - 67. Record Vote Number: 14.
+- 2026-01-30 — Roll call votes on amendments in Senate: Amendment SA 4290, under the order of 1/30/2026, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 18.
+- 2026-01-30 — Roll call votes on amendments in Senate: Motion to table agreed to in Senate by Yea-Nay Vote. 58 - 42. Record Vote Number: 17.
+- 2026-01-30 — Roll call votes on amendments in Senate: Motion to table amendment SA 4234 agreed to in Senate by Yea-Nay Vote. 58 - 42. Record Vote Number: 16.
+- 2026-01-30 — Roll call votes on amendments in Senate: Motion to table amendment SA 4236 agreed to in Senate by Yea-Nay Vote. 67 - 33. Record Vote Number: 15.
+- 2026-01-30 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 4287, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 19.
+- 2026-01-30 — Senate amendment agreed to: Amendment SA 4273 agreed to in Senate by Unanimous Consent.
+- 2026-01-30 — Senate amendment not agreed to: Amendment SA 4241 not agreed to in Senate by Voice Vote.
+- 2026-01-30 — Senate amendment not agreed to: Amendment SA 4272 not agreed to in Senate by Yea-Nay Vote. 32 - 67. Record Vote Number: 14.
+- 2026-01-30 — Senate amendment not agreed to: Amendment SA 4290, under the order of 1/30/2026, not having achieved 60 votes in the affirmative, was not agreed to in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 18.
+- 2026-01-30 — Senate amendment proposed (on the floor): Amendment SA 4234 proposed by Senator Scott FL for Senator Lee.
+- 2026-01-30 — Senate amendment proposed (on the floor): Amendment SA 4236 proposed by Senator Lee.
+- 2026-01-30 — Senate amendment proposed (on the floor): Amendment SA 4241 proposed by Senator Schmitt.
+- 2026-01-30 — Senate amendment proposed (on the floor): Amendment SA 4272 proposed by Senator Paul.
+- 2026-01-30 — Senate amendment proposed (on the floor): Amendment SA 4273 proposed by Senator Collins.
+- 2026-01-30 — Senate amendment proposed (on the floor): Amendment SA 4286 proposed by Senator Lee.
+- 2026-01-30 — Senate amendment proposed (on the floor): Amendment SA 4287 proposed by Senator Merkley.
+- 2026-01-30 — Senate amendment proposed (on the floor): Amendment SA 4290 proposed by Senator Sanders.
+- 2026-01-30 — Senate amendment submitted
+- 2026-01-30 — Senate amendment submitted
+- 2026-01-30 — Senate amendment submitted
+- 2026-01-30 — Senate amendment submitted
+- 2026-01-30 — Senate amendment submitted
+- 2026-01-30 — Senate amendment submitted
+- 2026-01-30 — Senate amendment submitted
+- 2026-01-30 — Senate amendment submitted
