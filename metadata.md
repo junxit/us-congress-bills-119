@@ -1,7 +1,7 @@
 ---
 measure: S. 2245
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2245
@@ -16,9 +16,10 @@ A bill to amend the Digital Coast Act to improve the acquisition, integration, a
 
 - Sen. Baldwin, Tammy [D-WI] (B001230)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Sullivan, Dan [R-AK] (S001198)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ A bill to amend the Digital Coast Act to improve the acquisition, integration, a
 
 - 2025-07-10 — Introduced in Senate
 - 2025-07-10 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2025-10-21 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2026-01-30 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-100.
+- 2026-01-30 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-100.
+- 2026-01-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 310.
