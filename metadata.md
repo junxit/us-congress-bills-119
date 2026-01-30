@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7148
 congress: 119
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 7148
@@ -43,11 +43,12 @@ Consolidated Appropriations Act, 2026
 - House — Budget Committee
 - House — Appropriations Committee
 
-## Recorded votes (11)
+## Recorded votes (12)
 
 - 2026-01-22 — [House 119-2-43](votes/house-119-2-0043.md) — On Agreeing to the Amendment — **Failed** (164–268)
 - 2026-01-22 — [House 119-2-44](votes/house-119-2-0044.md) — On Agreeing to the Amendment — **Failed** (136–291)
 - 2026-01-22 — [House 119-2-45](votes/house-119-2-0045.md) — On Passage — **Passed** (341–88)
+- 2026-02-03 — [House 119-2-53](votes/house-119-2-0053.md) — On Motion to Concur in the Senate Amendments — **Passed** (217–214)
 - 2026-01-29 — Senate 119-2-13 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00013.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00013.xml answered HTTP 403
 - 2026-01-30 — Senate 119-2-14 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00014.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00014.xml answered HTTP 403
 - 2026-01-30 — Senate 119-2-15 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00015.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00015.xml answered HTTP 403
@@ -355,3 +356,16 @@ Consolidated Appropriations Act, 2026
 - 2026-01-30 — Senate amendment submitted
 - 2026-01-30 — Senate amendment submitted
 - 2026-01-30 — Senate amendment submitted
+- 2026-02-03 — Became Public Law No: 119-75.
+- 2026-02-03 — Became Public Law No: 119-75.
+- 2026-02-03 — DEBATE - Pursuant to the provisions of H. Res. 1032, the House proceeded with one hour of debate on the motion to agree to the Senate amendments to H.R. 7148.
+- 2026-02-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-02-03 — Mr. Cole moved that the House agree to the Senate amendments (consideration: CR H1960-1967)
+- 2026-02-03 — On motion that the House agree to the Senate amendments Agreed to by the Yeas and Nays: 217 - 214 (Roll no. 53).
+- 2026-02-03 — Presented to President.
+- 2026-02-03 — Presented to President.
+- 2026-02-03 — Pursuant to the provisions of H. Res. 1032, Mr. Cole called up the Senate amendments to H.R. 7148.
+- 2026-02-03 — Resolving differences -- House actions: On motion that the House agree to the Senate amendments Agreed to by the Yeas and Nays: 217 - 214 (Roll no. 53).
+- 2026-02-03 — Signed by President.
+- 2026-02-03 — Signed by President.
+- 2026-02-03 — The previous question was ordered pursuant to the rule.

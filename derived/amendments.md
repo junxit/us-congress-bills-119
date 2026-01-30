@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7148
 congress: 119
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | The Continuing Appropriations Act, 2026 (division A of Public Law 119–37) is amended by striking the date specified in section 106(3) and inserting “February 13, 2026”. | the bill names no machine-readable US Code section |
+| — | insert | the contents in the “Project” column are deemed to be amended by inserting— | the bill names no machine-readable US Code section |
