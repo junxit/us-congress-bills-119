@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7148
 congress: 119
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 7148
@@ -43,7 +43,7 @@ Consolidated Appropriations Act, 2026
 - House — Budget Committee
 - House — Appropriations Committee
 
-## Recorded votes (11)
+## Recorded votes (12)
 
 - 2026-01-22 — [House 119-2-43](votes/house-119-2-0043.md) — On Agreeing to the Amendment — **Failed** (164–268)
 - 2026-01-22 — [House 119-2-44](votes/house-119-2-0044.md) — On Agreeing to the Amendment — **Failed** (136–291)
@@ -56,6 +56,7 @@ Consolidated Appropriations Act, 2026
 - 2026-01-30 — [Senate 119-2-18](votes/senate-119-2-0018.md) — On the Amendment — **Amendment Rejected** (49–51)
 - 2026-01-30 — [Senate 119-2-19](votes/senate-119-2-0019.md) — On the Motion — **Motion Rejected** (47–52)
 - 2026-01-30 — [Senate 119-2-20](votes/senate-119-2-0020.md) — On Passage of the Bill — **Bill Passed** (71–29)
+- 2026-02-03 — [House 119-2-53](votes/house-119-2-0053.md) — On Motion to Concur in the Senate Amendments — **Passed** (217–214)
 
 ## Actions
 
@@ -355,3 +356,16 @@ Consolidated Appropriations Act, 2026
 - 2026-01-30 — Senate amendment submitted
 - 2026-01-30 — Senate amendment submitted
 - 2026-01-30 — Senate amendment submitted
+- 2026-02-03 — Became Public Law No: 119-75.
+- 2026-02-03 — Became Public Law No: 119-75.
+- 2026-02-03 — DEBATE - Pursuant to the provisions of H. Res. 1032, the House proceeded with one hour of debate on the motion to agree to the Senate amendments to H.R. 7148.
+- 2026-02-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-02-03 — Mr. Cole moved that the House agree to the Senate amendments (consideration: CR H1960-1967)
+- 2026-02-03 — On motion that the House agree to the Senate amendments Agreed to by the Yeas and Nays: 217 - 214 (Roll no. 53).
+- 2026-02-03 — Presented to President.
+- 2026-02-03 — Presented to President.
+- 2026-02-03 — Pursuant to the provisions of H. Res. 1032, Mr. Cole called up the Senate amendments to H.R. 7148.
+- 2026-02-03 — Resolving differences -- House actions: On motion that the House agree to the Senate amendments Agreed to by the Yeas and Nays: 217 - 214 (Roll no. 53).
+- 2026-02-03 — Signed by President.
+- 2026-02-03 — Signed by President.
+- 2026-02-03 — The previous question was ordered pursuant to the rule.
