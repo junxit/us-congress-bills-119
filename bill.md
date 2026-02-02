@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3123
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -32,4 +32,4 @@ This Act may be cited as the “Ernest Peltz Accrued Veterans Benefits Act”.
 
 ## § 3. Extension of certain limits on payments of pension
 
-Section 5503(d)(7) of title 38, United States Code, is amended by striking “November 30, 2031” and inserting “December 31, 2031”.
+Section 5503(d)(7) of title 38, United States Code, is amended by striking “January 31, 2033” and inserting “February 28, 2033”.

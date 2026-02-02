@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3123
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3123
@@ -25,6 +25,10 @@ Ernest Peltz Accrued Veterans Benefits Act
 
 - House — Veterans' Affairs Committee
 
+## Recorded votes (1)
+
+- 2026-02-02 — [House 119-2-50](votes/house-119-2-0050.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (405–1)
+
 ## Actions
 
 - 2025-04-30 — Introduced in House
@@ -38,3 +42,11 @@ Ernest Peltz Accrued Veterans Benefits Act
 - 2025-10-08 — Placed on the Union Calendar, Calendar No. 291.
 - 2025-10-08 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-339.
 - 2025-10-08 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-339.
+- 2026-02-02 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2026-02-02 — Considered as unfinished business. (consideration: CR H1937-1938)
+- 2026-02-02 — Considered under suspension of the rules. (consideration: CR H1930-1932)
+- 2026-02-02 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3123.
+- 2026-02-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-02-02 — Mr. Bost moved to suspend the rules and pass the bill, as amended.
+- 2026-02-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 1 (Roll no. 50). (text: CR H1930-1931)
+- 2026-02-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 1 (Roll no. 50). (text: CR H1930-1931)
