@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6556
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -39,7 +39,7 @@ This Act may be cited as the “Failing Bank Acquisition Fairness Act”.
 
     - **(B)** in section 44, by amending subsection (e) to read as follows:
       > - **(e)** *Exception for Banks in Default or in Danger of Default*
-      >   - **(1)** *General exception* The responsible agency, may without regard to paragraph (1), (3), (4), or (5) of subsection (b) or paragraph (2), (4), or (5) of subsection (a), approve an application under subsection (a)(1) for approval of a merger transaction if—
+      >   - **(1)** *General exception* The responsible agency may, without regard to paragraph (1), (3), (4), or (5) of subsection (b) or paragraph (2), (4), or (5) of subsection (a), approve an application under subsection (a)(1) for approval of a merger transaction if—
       >     - **(A)** the merger transaction involves 1 or more banks in default or in danger of default; or
       >     - **(B)** the Corporation provides assistance under section 13(c) to facilitate such merger transaction.
       >   - **(2)** *Concentration limit exception* The responsible agency may, without regard to subsection (b)(2), approve an application under subsection (a)(1) for approval of a merger transaction if—

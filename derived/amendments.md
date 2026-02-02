@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6556
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
