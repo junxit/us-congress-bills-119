@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1458
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -27,7 +27,7 @@ This Act may be cited as the “Veterans Education and Technical Skills Opportun
 - **(b)** *Technical corrections and conforming amendment* Such subsection is further amended—
   - **(1)** by striking “paragraphs (2) through (7)” and inserting “paragraphs (2) through (6)”; and
   - **(2)** in paragraph (1), in the heading, by inserting “for an individual eligible for a monthly housing stipend” after “Additional assistance”.
-- **(c)** *Effective date* The amendments made by this section shall take effect on August 1, 2025.
+- **(c)** *Effective date* The amendments made by this section shall take effect on August 1, 2026.
 
 ## § 3. Treatment of certain independent study programs under educational assistance programs of Department of Veterans Affairs
 
@@ -38,7 +38,7 @@ This Act may be cited as the “Veterans Education and Technical Skills Opportun
   - **(4)** by adding at the end by following new item:
     > - **(cc)** an institution of higher education, as such term is defined in section 102 of the Higher Education Act of 1965 (20 U.S.C. 1002), that is approved to participate or participating in the student financial assistance programs authorized by title IV of that Act; and
 
-- **(b)** *Applicability* The amendment made by subsection (a) shall apply with respect to a quarter, semester, or term, as applicable, that begins on or after August 1, 2025.
+- **(b)** *Applicability* The amendment made by subsection (a) shall apply with respect to a quarter, semester, or term, as applicable, that begins on or after August 1, 2026.
 
 ## § 4. Absence from certain education due to certain service
 
@@ -80,4 +80,4 @@ Section 3693 of such title is amended—
 
 ## § 7. Extension of certain limits on payments of pension
 
-Section 5503(d)(7) of title 38, United States Code, is amended by striking “November 30, 2031” and inserting “March 31, 2033”.
+Section 5503(d)(7) of title 38, United States Code, is amended by striking “January 31, 2033” and inserting “May 31, 2034”.
