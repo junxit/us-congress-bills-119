@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 658
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -18,6 +18,4 @@ Section 7402(b)(10) of title 38, United States Code, is amended—
 - **(3)** by adding at the end the following new subparagraph (B):
   > - **(B)** To be eligible to be appointed to a marriage and family therapist position and qualified to provide clinical supervision, a person must—
   >   - **(i)** have the qualifications set forth in subparagraph (A); and
-  >   - **(ii)**
-  >     - **(I)** be authorized to provide clinical supervision in the State described in clause (ii) of such subparagraph; or
-  >     - **(II)** be designated as an approved supervisor by the American Association for Marriage and Family Therapy.
+  >   - **(ii)** be recognized by the State described in clause (ii) of such subparagraph as a provider of, or otherwise allowed by such State to provide, clinical supervision.
