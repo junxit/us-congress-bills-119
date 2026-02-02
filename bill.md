@@ -1,8 +1,8 @@
 ---
 legis-num: S. 282
 congress: 119th CONGRESS
-session: 1st Session
-chamber: IN THE SENATE OF THE UNITED STATES
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # S. 282

@@ -1,7 +1,7 @@
 ---
 measure: S. 282
 congress: 119
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 282
@@ -16,9 +16,10 @@ Katahdin Woods and Waters National Monument Access Act
 
 - Sen. King, Angus S., Jr. [I-ME] (K000383)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Energy and Natural Resources Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -28,3 +29,7 @@ Katahdin Woods and Waters National Monument Access Act
 - 2025-06-18 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
 - 2025-06-18 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
 - 2025-06-18 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent. (consideration: CR S3458)
+- 2025-06-23 — Held at the desk.
+- 2025-06-23 — Message on Senate action sent to the House.
+- 2025-06-23 — Received in the House.
+- 2026-02-02 — Referred to the House Committee on Natural Resources.
