@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4242
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -21,7 +21,7 @@ This Act may be cited as the “Innovate Less Lethal to De-Escalate Tax Moderniz
     > - **(d)** *Less-than-Lethal projectile devices*
     >   - **(1)** *In general* The tax imposed by section 4181 shall not apply to—
     >     - **(A)** any less-than-lethal projectile device,
-    >     - **(B)** any device contained on the most recent list made available by the Secretary under paragraph (3)(B), and
+    >     - **(B)** any device contained on the most recent list made available by the Secretary under paragraph (4)(B), and
     >     - **(C)** any shell or cartridge that meets the requirement of paragraph (2)(B) and is designed for use in a device referred to in subparagraph (A) or (B).
     >   - **(2)** *Less-than-lethal projectile device* The term less-than-lethal projectile device means a device that—
     >     - **(A)** is not designed or intended to expel, and may not be readily converted to accept and discharge—
@@ -40,7 +40,9 @@ This Act may be cited as the “Innovate Less Lethal to De-Escalate Tax Moderniz
     >         - **(II)** update such list annually to take into account new devices.
     >       - **(ii)** *Report to Congress* The Secretary shall annually submit a written report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate regarding the annual list of devices described in clause (i), including a copy of such list, a description of the devices that were considered for inclusion on such list, and the reasons for including or excluding such devices from such list.
 
-- **(b)** *Effective date* The amendments made by this section shall apply to articles sold by the manufacturer, producer, or importer after the date of the enactment of this Act.
+- **(b)** *Effective date*
+  - **(1)** *In general* Except as otherwise provided in this subsection, the amendments made by this section shall apply to articles sold by the manufacturer, producer, or importer after the date of the enactment of this Act.
+  - **(2)** *Requests for determinations* Section 4182(d)(3) of the Internal Revenue Code of 1986 (as added by this section) shall apply to requests received after the date of the enactment of this Act, except that any request under such section which is received during the 180-day period beginning on the date of the enactment of this Act shall be treated for purposes of such section as received as of the close of such period.
 
 ## § 3. Exemption of certain less-than-lethal projectile devices from National Firearms Act
 
