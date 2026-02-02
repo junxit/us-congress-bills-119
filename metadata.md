@@ -1,7 +1,7 @@
 ---
 measure: H.R. 988
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 988
@@ -31,3 +31,12 @@ To amend title 36, United States Code, to move the place of incorporation and do
 - 2025-02-05 — Introduced in House
 - 2025-02-05 — Introduced in House
 - 2025-02-05 — Referred to the House Committee on the Judiciary.
+- 2025-11-18 — Committee Consideration and Mark-up Session Held
+- 2025-11-20 — Committee Consideration and Mark-up Session Held
+- 2025-11-20 — Ordered to be Reported by Voice Vote.
+- 2026-02-02 — Considered under suspension of the rules. (consideration: CR H1927-1929; text: CR H1927)
+- 2026-02-02 — DEBATE - The House proceeded with forty minutes of debate on H.R. 988.
+- 2026-02-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-02-02 — Mr. Jordan moved to suspend the rules and pass the bill.
+- 2026-02-02 — On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2026-02-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
