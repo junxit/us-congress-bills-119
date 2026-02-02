@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7147
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 7147
@@ -46,3 +46,6 @@ Homeland Security and Further Additional Continuing Appropriations Act, 2026.
 - 2026-01-22 — Rule provides for consideration of H.R. 7148 and H.R. 7147. The resolution provides for consideration of H.R. 7148 under a structured rule and H.R. 7147 under a closed rule. The rule provides for one hour of debate and a motion to recommit on each bill.
 - 2026-01-22 — Rules Committee Resolution H. Res. 1014 Reported to House. Rule provides for consideration of H.R. 7148 and H.R. 7147. The resolution provides for consideration of H.R. 7148 under a structured rule and H.R. 7147 under a closed rule. The rule provides for one hour of debate and a motion to recommit on each bill.
 - 2026-01-22 — The previous question was ordered pursuant to the rule.
+- 2026-01-26 — Received in the Senate.
+- 2026-01-30 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2026-02-02 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 311.
