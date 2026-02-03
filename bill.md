@@ -1,7 +1,7 @@
 ---
 legis-num: S. 688
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -224,3 +224,12 @@ The Commissioner of U.S. Customs and Border Protection, in coordination with the
 - **(d)** *Report* Not later than 24 months after the date of enactment of this Act, the Administrator shall submit to Congress a report on the study conducted under subsection (d) of section 3551 of the Maritime SAFE Act that includes—
   - **(1)** the findings of the National Academies; and
   - **(2)** recommendations on knowledge gaps that warrant further scientific inquiry.
+
+## § 13. Authorization of appropriations for National Sea Grant College Program
+
+Section 212(a) of the National Sea Grant College Program Act (33 U.S.C. 1131(a)) is amended—
+
+- **(1)** in paragraph (1), by striking “this title” and all that follows and inserting “this title $105,700,000 for each of fiscal years 2026 through 2031.”; and
+- **(2)** in paragraph (2)—
+  - **(A)** in the paragraph heading, by striking “for fiscal years 2021 through 2025”; and
+  - **(B)** in the matter preceding subparagraph (A), by striking “fiscal years 2021 through 2025” and inserting “fiscal years 2026 through 2031”.
