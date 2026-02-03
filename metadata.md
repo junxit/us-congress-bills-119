@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3377
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 3377
@@ -25,3 +25,10 @@ To authorize the President to award the Medal of Honor to James Capers, Jr., for
 - 2025-05-13 — Introduced in House
 - 2025-05-13 — Introduced in House
 - 2025-05-13 — Referred to the House Committee on Armed Services.
+- 2026-02-03 — Committee on Armed Services discharged.
+- 2026-02-03 — Committee on Armed Services discharged.
+- 2026-02-03 — Considered by unanimous consent. (consideration: CR H1967)
+- 2026-02-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-02-03 — Mr. Bacon asked unanimous consent to discharge from committee and consider.
+- 2026-02-03 — On passage Passed without objection. (text: CR H1967)
+- 2026-02-03 — Passed/agreed to in House: On passage Passed without objection. (text: CR H1967)
