@@ -1,7 +1,7 @@
 ---
 measure: H.R. 980
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 980
@@ -16,9 +16,10 @@ Veterans Readiness and Employment Improvement Act of 2025
 
 - Rep. Van Orden, Derrick [R-WI-3] (V000135)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -45,3 +46,4 @@ Veterans Readiness and Employment Improvement Act of 2025
 - 2026-02-02 — Mr. Bost moved to suspend the rules and pass the bill, as amended.
 - 2026-02-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 2 (Roll no. 49). (text: CR H1929)
 - 2026-02-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 402 - 2 (Roll no. 49). (text: CR H1929)
+- 2026-02-03 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
