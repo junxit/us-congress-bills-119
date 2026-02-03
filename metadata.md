@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3123
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3123
@@ -21,9 +21,10 @@ Ernest Peltz Accrued Veterans Benefits Act
 - Rep. Khanna, Ro [D-CA-17] (K000389)
 - Rep. Lee, Susie [D-NV-3] (L000590)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -50,3 +51,4 @@ Ernest Peltz Accrued Veterans Benefits Act
 - 2026-02-02 — Mr. Bost moved to suspend the rules and pass the bill, as amended.
 - 2026-02-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 1 (Roll no. 50). (text: CR H1930-1931)
 - 2026-02-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 1 (Roll no. 50). (text: CR H1930-1931)
+- 2026-02-03 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
