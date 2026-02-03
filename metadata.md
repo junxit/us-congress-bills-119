@@ -1,7 +1,7 @@
 ---
 measure: H.R. 658
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 658
@@ -20,9 +20,10 @@ To amend title 38, United States Code, to establish qualifications for the appoi
 
 - Rep. Johnson, Henry C. "Hank" [D-GA-4] (J000288)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ To amend title 38, United States Code, to establish qualifications for the appoi
 - 2026-02-02 — Mr. Bost moved to suspend the rules and pass the bill, as amended.
 - 2026-02-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1932)
 - 2026-02-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1932)
+- 2026-02-03 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
