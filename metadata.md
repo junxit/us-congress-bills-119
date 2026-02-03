@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7008
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7008
@@ -16,7 +16,7 @@ Stop Insider Trading Act
 
 - Rep. Steil, Bryan [R-WI-1] (S001213)
 
-## Cosponsors (72)
+## Cosponsors (93)
 
 - Rep. Hudson, Richard [R-NC-9] (H001067)
 - Rep. Griffith, H. Morgan [R-VA-9] (G000568)
@@ -90,6 +90,27 @@ Stop Insider Trading Act
 - Rep. Miller, Max L. [R-OH-7] (M001222)
 - Rep. McDowell, Addison P. [R-NC-6] (M001240)
 - Rep. Wagner, Ann [R-MO-2] (W000812)
+- Rep. Begich, Nicholas J. [R-AK-At Large] (B001323)
+- Rep. Crane, Elijah [R-AZ-2] (C001132)
+- Rep. LaHood, Darin [R-IL-16] (L000585)
+- Rep. Rogers, Mike D. [R-AL-3] (R000575)
+- Rep. Tenney, Claudia [R-NY-24] (T000478)
+- Rep. Mast, Brian J. [R-FL-21] (M001199)
+- Rep. Gosar, Paul A. [R-AZ-9] (G000565)
+- Rep. Ellzey, Jake [R-TX-6] (E000071)
+- Rep. Fallon, Pat [R-TX-4] (F000246)
+- Rep. Langworthy, Nicholas A. [R-NY-23] (L000600)
+- Rep. Downing, Troy [R-MT-2] (D000634)
+- Rep. Webster, Daniel [R-FL-11] (W000806)
+- Rep. Fong, Vince [R-CA-20] (F000480)
+- Rep. Crank, Jeff [R-CO-5] (C001137)
+- Rep. Bentz, Cliff [R-OR-2] (B000668)
+- Rep. McCormick, Richard [R-GA-7] (M001218)
+- Rep. Haridopolos, Mike [R-FL-8] (H001099)
+- Rep. Guest, Michael [R-MS-3] (G000591)
+- Rep. Case, Ed [D-HI-1] (C001055)
+- Rep. Van Epps, Matt [R-TN-7] (V000139)
+- Rep. Evans, Gabe [R-CO-8] (E000300)
 
 ## Committees (1)
 
@@ -100,3 +121,8 @@ Stop Insider Trading Act
 - 2026-01-12 — Introduced in House
 - 2026-01-12 — Introduced in House
 - 2026-01-12 — Referred to the House Committee on House Administration.
+- 2026-01-14 — Committee Consideration and Mark-up Session Held
+- 2026-01-14 — Ordered to be Reported (Amended) by the Yeas and Nays: 7 - 4.
+- 2026-02-03 — Placed on the Union Calendar, Calendar No. 409.
+- 2026-02-03 — Reported (Amended) by the Committee on House Administration. H. Rept. 119-479.
+- 2026-02-03 — Reported (Amended) by the Committee on House Administration. H. Rept. 119-479.
