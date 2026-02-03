@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1458
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1458
@@ -29,9 +29,10 @@ VETS Opportunity Act of 2025
 - Rep. Vindman, Eugene Simon [D-VA-7] (V000138)
 - Rep. Vasquez, Gabe [D-NM-2] (V000136)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -52,3 +53,4 @@ VETS Opportunity Act of 2025
 - 2026-02-02 — Mr. Bost moved to suspend the rules and pass the bill, as amended.
 - 2026-02-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1933-1934)
 - 2026-02-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1933-1934)
+- 2026-02-03 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
