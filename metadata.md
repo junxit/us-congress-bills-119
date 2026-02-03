@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3497
 congress: 119
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3497
@@ -77,3 +77,14 @@ Medal of Sacrifice Act
 - 2026-02-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1925-1926)
 - 2026-02-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1925-1926)
 - 2026-02-03 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2026-05-11 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2204; text: CR S2204)
+- 2026-05-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2026-05-11 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2026-05-11 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2026-05-12 — Message on Senate action sent to the House.
+- 2026-05-20 — Presented to President.
+- 2026-05-20 — Presented to President.
+- 2026-05-28 — Became Public Law No: 119-94.
+- 2026-05-28 — Became Public Law No: 119-94.
+- 2026-05-28 — Signed by President.
+- 2026-05-28 — Signed by President.
