@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3497
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3497
@@ -55,9 +55,10 @@ Medal of Sacrifice Act
 - Rep. Barr, Andy [R-KY-6] (B001282)
 - Rep. Davis, Donald G. [D-NC-1] (D000230)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -75,3 +76,4 @@ Medal of Sacrifice Act
 - 2026-02-02 — Mr. Jordan moved to suspend the rules and pass the bill, as amended.
 - 2026-02-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1925-1926)
 - 2026-02-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1925-1926)
+- 2026-02-03 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
