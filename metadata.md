@@ -1,7 +1,7 @@
 ---
 measure: H.R. 988
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 988
@@ -22,9 +22,10 @@ To amend title 36, United States Code, to move the place of incorporation and do
 - Rep. Balderson, Troy [R-OH-12] (B001306)
 - Rep. Kean, Thomas H. [R-NJ-7] (K000398)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ To amend title 36, United States Code, to move the place of incorporation and do
 - 2026-02-02 — Mr. Jordan moved to suspend the rules and pass the bill.
 - 2026-02-02 — On motion to suspend the rules and pass the bill Agreed to by voice vote.
 - 2026-02-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2026-02-03 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
