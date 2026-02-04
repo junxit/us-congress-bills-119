@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7211
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7211
@@ -16,9 +16,10 @@ To authorize the President to award the Medal of Honor to John W. Ripley for act
 
 - Rep. Griffith, H. Morgan [R-VA-9] (G000568)
 
-## Committees (1)
+## Committees (2)
 
 - House — Armed Services Committee
+- Senate — Armed Services Committee
 
 ## Actions
 
@@ -32,3 +33,4 @@ To authorize the President to award the Medal of Honor to John W. Ripley for act
 - 2026-02-03 — Mr. Bacon asked unanimous consent to discharge from committee and consider.
 - 2026-02-03 — On passage Passed without objection. (text: CR H1967)
 - 2026-02-03 — Passed/agreed to in House: On passage Passed without objection. (text: CR H1967)
+- 2026-02-04 — Received in the Senate and Read twice and referred to the Committee on Armed Services.
