@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4758
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4758
@@ -31,3 +31,10 @@ Homeowner Energy Freedom Act
 - 2025-07-25 — Introduced in House
 - 2025-07-25 — Referred to the House Committee on Energy and Commerce.
 - 2025-07-25 — Referred to the Subcommittee on Energy.
+- 2025-11-19 — Forwarded by Subcommittee to Full Committee by the Yeas and Nays: 16 - 14.
+- 2025-11-19 — Subcommittee Consideration and Mark-up Session Held
+- 2025-12-03 — Committee Consideration and Mark-up Session Held
+- 2025-12-03 — Ordered to be Reported by the Yeas and Nays: 25 - 21.
+- 2026-02-04 — Placed on the Union Calendar, Calendar No. 414.
+- 2026-02-04 — Reported by the Committee on Energy and Commerce. H. Rept. 119-484.
+- 2026-02-04 — Reported by the Committee on Energy and Commerce. H. Rept. 119-484.
