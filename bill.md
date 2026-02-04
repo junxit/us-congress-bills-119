@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4690
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,24 +11,17 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Reliable Federal infrastructure Act”.
+This Act may be cited as the “Reliable Federal Infrastructure Act”.
 
-## § 2. Repeal of revised Federal building energy efficiency performance standards
+## § 2. Revised Federal building energy efficiency performance standards
 
-- **(a)** *In general*
-  - **(1)** *Repeal* Section 305(a)(3) of the Energy Conservation and Production Act (42 U.S.C. 6834(a)(3)) is amended by striking subparagraph (D).
-  - **(2)** *Standards* Each revised Federal building energy efficiency performance standard established under section 305(a)(3)(D) of the Energy Conservation and Production Act (42 U.S.C. 6834(a)(3)(D)) (as in effect on the day before the date of enactment of this Act) shall have no force or effect, and section 305(a)(3) of the Energy Conservation and Production Act (42 U.S.C. 6834(a)(3)) shall be implemented as though each such standard had never taken effect.
-- **(b)** *Conforming amendments*
-  - **(1)** *Standards* Section 433 of the Energy Independence and Security Act of 2007 (Public Law 110–140) is amended by striking subsection (a).
-  - **(2)** *High-performance green Federal buildings* Section 436 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17092) is amended—
-    - **(A)** in subsection (c)—
-      - **(i)** by striking paragraph (1); and
-      - **(ii)** in paragraph (6), by striking “and section 305(a)(3)(D) of the Energy Conservation and Production Act (42 U.S.C. 6834(a)(3)(D))”;
-    - **(B)** in subsection (e), by striking “in accordance with the requirements of section 305(a)(3)(D) of the Energy Conservation and Production Act (42 U.S.C. 6834(a)(3)(D)),”;
-    - **(C)** in subsection (f)—
-      - **(i)** in paragraph (1)—
-        - **(I)** in the matter preceding subparagraph (A), by striking “, the requirements of section 305(a)(3)(D) of the Energy Conservation and Production Act (42 U.S.C. 6834(a)(3)(D)),”; and
-        - **(II)** in subparagraph (A), by striking “and the requirements of section 305(a)(3)(D) of that Act”; and
-      - **(ii)** by striking paragraph (2); and
-    - **(D)** by striking subsection (h).
-  - **(3)** *Federal green building performance* Section 437(a)(1) of the Energy Independence and Security Act of 2007 (42 U.S.C. 17093(a)(1)) is amended by striking “, section 305(a)(3)(D) of the Energy Conservation and Production Act (42 U.S.C. 6834(a)(3)(D)),”.
+- **(a)** *In general* Section 305(a)(3)(D)(i) of the Energy Conservation and Production Act (42 U.S.C. 6834(a)(3)(D)(i)) is amended—
+  - **(1)** by striking subclauses (I) and (II); and
+  - **(2)** in subclause (III), by inserting after the third sentence the following: “The certification system and level may not prohibit a building from obtaining a certification as a green building or high-performance green building solely based on direct or indirect consumption of fossil fuels.”.
+- **(b)** *Standards*
+  - **(1)** *Repeal of certain standards* Subpart B of part 435, and subpart B of part 433, of title 10, Code of Federal Regulations, as in effect on the day before the date of enactment of this Act, shall have no force or effect.
+  - **(2)** *Transition* Until such time as the Secretary of Energy issues new or revised regulations pursuant to subsection (d) relating to the revised Federal building energy efficiency performance standards under section 305(a)(3)(D) of the Energy Conservation and Production Act (42 U.S.C. 6834(a)(3)(D)) to carry out the amendments made by subsection (a)(1) of this section, such section 305(a)(3)(D) shall be implemented as though the requirements of subclauses (I) and (II) of clause (i) of such section 305(a)(3)(D) (as in effect on the day before the date of enactment of this Act) had never taken effect.
+- **(c)** *Conforming amendment* Section 436(h) of the Energy Independence and Security Act of 2007 (42 U.S.C. 17092(h)) is amended by adding at the end the following:
+  > - **(3)** *Prohibition* The system identified under paragraph (1) may not prohibit a building from obtaining a certification as a green building or high-performance green building solely based on direct or indirect consumption of fossil fuels.
+
+- **(d)** *Revision of regulations* Not later than 180 days after the date of enactment of this Act, the Secretary of Energy shall issue such new or revised regulations as the Secretary determines necessary to carry out the amendments made by this Act.
