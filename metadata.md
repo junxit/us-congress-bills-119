@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7194
 congress: 119
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 7194
@@ -39,3 +39,14 @@ Nicholas Dockery Medal of Honor Act
 - 2026-02-03 — Passed/agreed to in House: On passage Passed without objection. (text of amendment in the nature of a substitute: CR H1968)
 - 2026-02-03 — The title of the measure was amended. Agreed to without objection.
 - 2026-02-04 — Received in the Senate and Read twice and referred to the Committee on Armed Services.
+- 2026-03-03 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S767)
+- 2026-03-03 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2026-03-03 — Senate Committee on Armed Services discharged by Unanimous Consent.
+- 2026-03-03 — Senate Committee on Armed Services discharged by Unanimous Consent.
+- 2026-03-04 — Message on Senate action sent to the House.
+- 2026-03-24 — Presented to President.
+- 2026-03-24 — Presented to President.
+- 2026-03-26 — Became Private Law No: 119-2.
+- 2026-03-26 — Became Private Law No: 119-2.
+- 2026-03-26 — Signed by President.
+- 2026-03-26 — Signed by President.
