@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7194
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7194
@@ -16,9 +16,10 @@ Nicholas Dockery Medal of Honor Act
 
 - Rep. Baird, James R. [R-IN-4] (B001307)
 
-## Committees (1)
+## Committees (2)
 
 - House — Armed Services Committee
+- Senate — Armed Services Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ Nicholas Dockery Medal of Honor Act
 - 2026-02-03 — On passage Passed without objection. (text of amendment in the nature of a substitute: CR H1968)
 - 2026-02-03 — Passed/agreed to in House: On passage Passed without objection. (text of amendment in the nature of a substitute: CR H1968)
 - 2026-02-03 — The title of the measure was amended. Agreed to without objection.
+- 2026-02-04 — Received in the Senate and Read twice and referred to the Committee on Armed Services.
