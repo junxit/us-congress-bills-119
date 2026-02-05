@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4090
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4090
@@ -21,9 +21,10 @@ Critical Mineral Dominance Act
 - Rep. Begich, Nicholas J. [R-AK-At Large] (B001323)
 - Rep. Finstad, Brad [R-MN-1] (F000475)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (2)
 
@@ -61,3 +62,4 @@ Critical Mineral Dominance Act
 - 2026-02-04 — Rule provides for consideration of H.J. Res. 142 and H.R. 4090. The resolution provides for consideration of the Senate amendments to H.R. 7148. Also, the resolution provides for consideration of H.J. Res. 142 and H.R. 4090 under a closed rule and provides for one motion to recommit H.R. 4090.
 - 2026-02-04 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2026-02-04 — The previous question was ordered pursuant to the rule.
+- 2026-02-05 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
