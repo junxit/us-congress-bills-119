@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 25
 congress: 119
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S.Con.Res. 25
@@ -16,7 +16,7 @@ A concurrent resolution recognizing the 15th anniversary of the January 8, 2011,
 
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
 
-## Cosponsors (36)
+## Cosponsors (41)
 
 - Sen. Alsobrooks, Angela D. [D-MD] (A000382)
 - Sen. Kelly, Mark [D-AZ] (K000377)
@@ -54,6 +54,11 @@ A concurrent resolution recognizing the 15th anniversary of the January 8, 2011,
 - Sen. Sanders, Bernard [I-VT] (S000033)
 - Sen. Warner, Mark R. [D-VA] (W000805)
 - Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Blunt Rochester, Lisa [D-DE] (B001303)
 
 ## Committees (1)
 
@@ -63,3 +68,7 @@ A concurrent resolution recognizing the 15th anniversary of the January 8, 2011,
 
 - 2026-01-08 — Introduced in Senate
 - 2026-01-08 — Referred to the Committee on the Judiciary.
+- 2026-02-05 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2026-02-05 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S516; text: CR 1/8/2026 S118-119)
+- 2026-02-05 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2026-02-05 — Senate Committee on the Judiciary discharged by Unanimous Consent.
