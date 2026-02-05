@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 142
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.J.Res. 142
@@ -42,3 +42,4 @@ Disapproving the action of the District of Columbia Council in approving the D.C
 - 2026-02-04 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 215 - 210 (Roll no. 56). (text: CR H2002)
 - 2026-02-04 — Rule provides for consideration of H.J. Res. 142 and H.R. 4090. The resolution provides for consideration of the Senate amendments to H.R. 7148. Also, the resolution provides for consideration of H.J. Res. 142 and H.R. 4090 under a closed rule and provides for one motion to recommit H.R. 4090.
 - 2026-02-04 — The previous question was ordered pursuant to the rule.
+- 2026-02-05 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 315.
