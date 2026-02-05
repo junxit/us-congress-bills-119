@@ -1,0 +1,25 @@
+---
+legis-num: H.R. 7401
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7401
+
+> To require employees of the Small Business Administration to certify that the employee does not have any prohibited conflicts of interest with respect to loans in which the employee is involved, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Small Business Lending Fraud Prevention Act”.
+
+## § 2. Small Business Administration employee conflict of interest certification
+
+- **(a)** *In general* Beginning on the date that is 270 days after the date of the enactment of this Act, an employee of the Administration that will personally and substantially participate in the origination, review, or approval of a loan administered by the Administration shall, prior to such participation in such loan, certify to the Administrator in writing that such employee—
+  - **(1)** to their knowledge, does not have any conflict of interest prohibited under section 208 of title 18, United States Code, or section 2635.502 of title 5, Code of Federal Regulations, with respect to such participation in such loan;
+  - **(2)** upon learning of any such conflict of interest after submitting such certification, will immediately disclose such conflict of interest to the supervisor of such employee and recuse themselves from participating in such loan; and
+  - **(3)** understands the requirements applicable to such employee under Federal law and regulations of the Administration regarding conflicts of interest with respect to such participation in such loan.
+- **(b)** *Regulations* Not later than 180 days after the date of enactment, the Administrator shall issue regulations implementing this Act.
+- **(c)** *Definitions* In this Act:
+  - **(1)** *Administration* The term Administration means the Small Business Administration.
+  - **(2)** *Administrator* The term Administrator means the Administrator of the Administration.
