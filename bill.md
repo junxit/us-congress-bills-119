@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 6644
 
-> A bill to increase the supply of housing in America, and for other purposes.
+> To increase the supply of housing in America, and for other purposes.
 
 ## § 1. Short title; table of contents
 

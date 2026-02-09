@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6644
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6644
@@ -55,6 +55,10 @@ version: Reported in House
 - House — Veterans' Affairs Committee
 - House — Financial Services Committee
 
+## Recorded votes (1)
+
+- 2026-02-09 — [House 119-2-57](votes/house-119-2-0057.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (390–9)
+
 ## Actions
 
 - 2025-12-11 — Introduced in House
@@ -69,3 +73,12 @@ version: Reported in House
 - 2026-01-15 — Placed on the Union Calendar, Calendar No. 392.
 - 2026-01-15 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-457, Part I.
 - 2026-01-15 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-457, Part I.
+- 2026-02-09 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2026-02-09 — Considered as unfinished business. (consideration: CR H2082)
+- 2026-02-09 — Considered under suspension of the rules. (consideration: CR H2050-2074)
+- 2026-02-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6644.
+- 2026-02-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-02-09 — Mr. Hill (AR) moved to suspend the rules and pass the bill, as amended.
+- 2026-02-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 390 - 9 (Roll no. 57). (text: CR H2050-2070)
+- 2026-02-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 390 - 9 (Roll no. 57). (text: CR H2050-2070)
+- 2026-02-09 — The title of the measure was amended. Agreed to without objection.
