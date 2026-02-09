@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 7430
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7430
+
+> To amend MAP-21 to extend the deadline for the conversion of commercial air tour aircraft operating in Grand Canyon National Park to quiet aircraft technology, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Federal Air Improvements for Rural Access and Industry Resilience Act” or the “FAIR AIR Act”.
+
+## § 2. Deadline for conversion to quiet technology aircraft
+
+Section 35001(b)(1) of the MAP-21 (49 U.S.C. 40128 note(b)(1)) is amended by striking “Not later than 15 years after the date of enactment of this Act,” and inserting “Not later than December 31, 2032,”.
