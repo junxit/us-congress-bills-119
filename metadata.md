@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3682
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3682
@@ -53,3 +53,9 @@ Financial Stability Oversight Council Improvement Act of 2025
 - 2025-11-04 — Placed on the Union Calendar, Calendar No. 316.
 - 2025-11-04 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-364.
 - 2025-11-04 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-364.
+- 2026-02-09 — Considered under suspension of the rules. (consideration: CR H2074-2076)
+- 2026-02-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3682.
+- 2026-02-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-02-09 — Mr. Hill (AR) moved to suspend the rules and pass the bill, as amended.
+- 2026-02-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2074)
+- 2026-02-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2074)
