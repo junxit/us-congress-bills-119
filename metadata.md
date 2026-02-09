@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3390
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3390
@@ -36,3 +36,9 @@ Bringing the Discount Window into the 21st Century Act
 - 2025-09-04 — Placed on the Union Calendar, Calendar No. 191.
 - 2025-09-04 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-234.
 - 2025-09-04 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-234.
+- 2026-02-09 — Considered under suspension of the rules. (consideration: CR H2076-2078; text: CR H2076-2077)
+- 2026-02-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3390.
+- 2026-02-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-02-09 — Mr. Hill (AR) moved to suspend the rules and pass the bill, as amended.
+- 2026-02-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2026-02-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
