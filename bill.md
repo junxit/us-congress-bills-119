@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6392
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Home School Graduation Recognition Act”.
 
-## § 2. Recognizing Home School Graduates
+## § 2. Recognizing home school graduates as high school graduates
 
 Section 484(d) of the Higher Education Act of 1965 (20 U.S.C. 1091(d)) is amended—
 
