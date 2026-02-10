@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1834
 congress: 119
-version: Returned to the House by Unanimous Consent
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1834
@@ -87,3 +87,7 @@ To advance policy priorities that will break the gridlock.
 - 2026-01-13 — House requested return of papers pursuant to H. Res. 991
 - 2026-01-15 — Message on Senate action sent to the House.
 - 2026-01-15 — Senate returned papers to House by Unanimous Consent.
+- 2026-01-16 — Senate returned papers to the House.
+- 2026-01-26 — Received in the Senate.
+- 2026-02-09 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2026-02-10 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 319.
