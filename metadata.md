@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6500
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 6500
@@ -46,3 +46,6 @@ Continuing Appropriations and Extensions Act, 2027
 - 2026-01-12 — Mr. Smith (MO) moved to suspend the rules and pass the bill, as amended.
 - 2026-01-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 340 - 54 (Roll no. 14). (text: CR H637)
 - 2026-01-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 340 - 54 (Roll no. 14). (text: CR H637)
+- 2026-01-13 — Received in the Senate.
+- 2026-02-09 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2026-02-10 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 320.
