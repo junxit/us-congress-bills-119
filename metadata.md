@@ -1,7 +1,7 @@
 ---
 measure: S. 3360
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3360
@@ -16,9 +16,11 @@ FREEDOM Act
 
 - Sen. Rosen, Jacky [D-NV] (R000608)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Sen. McCormick, David [R-PA] (M001243)
+- Sen. Gallego, Ruben [D-AZ] (G000574)
+- Sen. Cornyn, John [R-TX] (C001056)
 
 ## Committees (1)
 
@@ -28,3 +30,7 @@ FREEDOM Act
 
 - 2025-12-04 — Introduced in Senate
 - 2025-12-04 — Read twice and referred to the Committee on Foreign Relations.
+- 2026-01-29 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2026-02-10 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
+- 2026-02-10 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
+- 2026-02-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 328.
