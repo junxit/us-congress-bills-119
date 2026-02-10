@@ -1,7 +1,7 @@
 ---
 measure: S. 2222
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2222
@@ -28,3 +28,7 @@ Critical Undersea Infrastructure Resilience Initiative Act
 
 - 2025-07-09 — Introduced in Senate
 - 2025-07-09 — Read twice and referred to the Committee on Foreign Relations.
+- 2026-01-29 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2026-02-10 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute and an amendment to the title. Without written report.
+- 2026-02-10 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute and an amendment to the title. Without written report.
+- 2026-02-10 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 323.
