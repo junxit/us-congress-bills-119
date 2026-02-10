@@ -1,0 +1,28 @@
+---
+legis-num: H.R. 7479
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7479
+
+> To require the Secretary of Labor to issue guidance and regulations regarding opioid overdose reversal medication and employee training.
+
+## § 1. Short title
+
+This Act may be cited as the “Workplace Overdose Reversal Kits to Save Lives Act” or the “WORK to Save Lives Act”.
+
+## § 2. Non-mandatory guidance for employers concerning opioid overdose reversal medication
+
+- **(a)** *In general* Not later than 270 days after the date of enactment of this Act, the Secretary of Labor, acting through the Occupational Safety and Health Administration, shall issue nonmandatory guidance to employers on—
+  - **(1)** acquiring and maintaining opioid overdose reversal medication; and
+  - **(2)** offering voluntary training to employees on an annual basis on the usage of such medication.
+- **(b)** *Employer defined* In this section, the term employer has the meaning given such term in section 3 of the Occupational Safety and Health Act of 1970 (29 U.S.C. 652), except that such term does not include the United States Postal Service.
+
+## § 3. Mandatory regulations for Federal agencies concerning opioid overdose reversal medication
+
+- **(a)** *In general* Not later than 270 days after the date of enactment of this Act, the Secretary of Labor, acting through the Occupational Safety and Health Administration, shall issue regulations to require each Federal agency to—
+  - **(1)** acquire and maintain opioid overdose reversal medication; and
+  - **(2)** offering voluntary training to employees on an annual basis on the usage of such medication.
+- **(b)** *Federal agency defined* In this section, the term Federal agency means any agency or instrumentality of the Federal Government, including the Veterans Health Administration, notwithstanding section 7425(b) of title 38, United States Code.
