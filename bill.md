@@ -1,0 +1,26 @@
+---
+legis-num: H.R. 7477
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7477
+
+> To amend the Commodity Exchange Act to prohibit entities registered under such Act from engaging in transactions involving sporting event or casino-style gaming contracts.
+
+## § 1. Short title
+
+This Act may be cited as the “Fair Markets and Sports Integrity Act”.
+
+## § 2. Prohibitions relating to sporting event and gaming contracts
+
+Section 4c of the Commodity Exchange Act (7 U.S.C. 6c) is amended by adding at the end the following:
+
+> - **(h)** *Sporting event and gaming contract prohibition*
+>   - **(1)** *In general* A registered entity may not list for trading, facilitate, or clear any agreement, contract, or transaction that is based on, references, or derives its value from, or otherwise involves—
+>     - **(A)** any sporting event or athletic competition; or
+>     - **(B)** any casino-style game.
+>   - **(2)** *Definitions* In paragraph (1):
+>     - **(A)** *Casino-style game* The term “casino-style game” means any game customarily offered in casinos or gambling establishments, including slot machines, blackjack, roulette, craps, poker, bingo, lotteries, or any digital or simulated version of such games.
+>     - **(B)** *Sporting event or athletic competition* The term “sporting event or athletic competition” means any live, simulated, or virtual event involving physical or mental skill or athletic performance in which 1 or more participants or teams compete or face a challenge and an outcome, score, or statistical measure is determined, including amateur, intercollegiate, or professional sports.
