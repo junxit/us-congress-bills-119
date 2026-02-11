@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6472
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -9,12 +9,16 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To amend the Higher Education Act of 1965 to provide for in-state tuition rates for certain residents of Guam, the Commonwealth of the Northern Mariana Islands, American Samoa, and the United States Virgin Islands, and for other purposes.
 
-## § 1. Guaranteeing in-State tuition for certain residents of Guam, the Commonwealth of the Northern Mariana Islands, American Samoa, and the United States Virgin Islands
+## § 1. Short title
+
+This Act may be cited as the “Territorial Student Access to Higher Education Act”.
+
+## § 2. In-State tuition for certain residents of Guam, the Commonwealth of the Northern Mariana Islands, American Samoa, and the United States Virgin Islands
 
 - **(a)** *In-State tuition rates* Part C of title I of the Higher Education Act of 1965 (20 U.S.C. 1015 et seq.) is amended by inserting after section 135 the following:
   > ## § 135A. In-State tuition rates for certain residents of Guam, the Commonwealth of the Northern Mariana Islands, American Samoa, and the United States Virgin Islands
   >
-  > - **(a)** *In general* A public institution of higher education that receives assistance under this Act shall not charge a covered individual tuition for attendance at such institution at a rate that is greater than the rate charged for residents of the State in which such institution is located.
+  > - **(a)** *In general* A public institution of higher education that receives assistance under this Act shall not charge a covered individual tuition or fees for attendance at such institution at a rate that is greater than the rate charged for residents of the State in which such institution is located.
   > - **(b)** *Covered individual* In this section, the term covered individual means an individual who—
   >   - **(1)** is a resident of Guam, the Commonwealth of the Northern Mariana Islands, American Samoa, or the United States Virgin Islands; and
   >   - **(2)** is a national of the United States (as such term is defined in section 101(a) of the Immigration and Nationality Act (8 U.S.C. 1101(a))).
