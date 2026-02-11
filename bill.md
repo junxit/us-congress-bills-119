@@ -1,0 +1,26 @@
+---
+legis-num: H.R. 7482
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7482
+
+> To authorize the Secretary of Health and Human Services to fund prize competitions to accelerate innovation in the prevention, diagnosis, and treatment of Lyme disease, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “LymeX Authorization Act”.
+
+## § 2. Policy
+
+It is the policy of the United States to—
+
+- **(1)** engage stakeholders, including academia, nonprofits, industry, small business, entrepreneurs, and government to facilitate patient-centered innovations in Lyme disease care;
+- **(2)** foster breakthroughs in health education and public awareness initiatives focused on Lyme disease patients; and
+- **(3)** accelerate development of next-gen diagnostics that are rapid and patient focused.
+
+## § 3. Authorization of appropriations
+
+There is authorized to be appropriated to the Secretary of Health and Human Services $5,000,000 to carry out prize competitions (as defined in section 24 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719)) to accelerate innovation in the prevention, diagnosis, and treatment of Lyme disease.
