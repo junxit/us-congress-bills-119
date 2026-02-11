@@ -1,7 +1,7 @@
 ---
 measure: S. 544
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 544
@@ -31,3 +31,8 @@ Mining Regulatory Clarity Act
 
 - 2025-02-12 — Introduced in Senate
 - 2025-02-12 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2025-03-12 — Committee on Energy and Natural Resources. Hearings held. Hearings printed: S.Hrg. 119-46.
+- 2025-04-09 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2026-02-11 — Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. With written report No. 119-105.
+- 2026-02-11 — Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. With written report No. 119-105.
+- 2026-02-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 334.
