@@ -1,7 +1,7 @@
 ---
 measure: S. 472
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 472
@@ -16,7 +16,7 @@ Ski Hill Resources for Economic Development Act
 
 - Sen. Barrasso, John [R-WY] (B001261)
 
-## Cosponsors (11)
+## Cosponsors (13)
 
 - Sen. Bennet, Michael F. [D-CO] (B001267)
 - Sen. Hickenlooper, John W. [D-CO] (H000273)
@@ -29,6 +29,8 @@ Ski Hill Resources for Economic Development Act
 - Sen. Crapo, Mike [R-ID] (C000880)
 - Sen. Daines, Steve [R-MT] (D000618)
 - Sen. Sheehy, Tim [R-MT] (S001232)
+- Sen. Luján, Ben Ray [D-NM] (L000570)
+- Sen. Curtis, John R. [R-UT] (C001114)
 
 ## Committees (1)
 
@@ -38,3 +40,7 @@ Ski Hill Resources for Economic Development Act
 
 - 2025-02-06 — Introduced in Senate
 - 2025-02-06 — Read twice and referred to the Committee on Energy and Natural Resources. (text: CR S795-796)
+- 2025-09-11 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2026-02-11 — Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. With written report No. 119-104.
+- 2026-02-11 — Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. With written report No. 119-104.
+- 2026-02-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 333.
