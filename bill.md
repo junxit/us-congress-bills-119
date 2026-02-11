@@ -1,7 +1,7 @@
 ---
 legis-num: S. 362
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -13,7 +13,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 - **(a)** *Definition of Bull Mountains mining plan modification* In this Act, the term Bull Mountains Mining Plan Modification means Amendment 3, Bull Mountains Mine No. 1, Mining Plan Modification for Federal Coal Lease MTM 97988, that was approved by Department of the Interior Principal Deputy Assistant Secretary for Land and Minerals Management in a concurrence memorandum, dated November 18, 2020.
 - **(b)** *Mining of Federal minerals*
-  - **(1)** *In general* All Federal coal reserves leased under Federal Coal Lease MTM 97988 located in the Federal land described in subsection (c) are authorized to be mined in accordance with the Bull Mountains Mining Plan Modification.
+  - **(1)** *In general* All Federal coal reserves leased under Federal Coal Lease MTM 97988 located in the Federal land described in subsection (c) are authorized to be mined in accordance with the Bull Mountains Mining Plan Modification until the date that is 1 year from the date of enactment of this Act.
   - **(2)** *Requirement* Not later than 30 days after the date of enactment of this Act, the Secretary of the Interior shall, without modification or delay, approve the Bull Mountains Mining Plan Modification to the extent necessary to mine the Federal land described in subsection (c).
 - **(c)** *Description of Federal land* The Federal land referred to in subsection (b) is the following land, comprising 800 acres, more or less, located in T. 6 N., R. 27 E., Montana Principal Meridian, Musselshell County, Montana:
   - **(1)** The NE1/4 of section 8.

@@ -1,7 +1,7 @@
 ---
 measure: S. 362
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 362
@@ -28,3 +28,8 @@ A bill to allow certain Federal minerals to be mined consistent with the Bull Mo
 
 - 2025-02-03 — Introduced in Senate
 - 2025-02-03 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2025-03-12 — Committee on Energy and Natural Resources. Hearings held. Hearings printed: S.Hrg. 119-46.
+- 2025-04-09 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.
+- 2026-02-11 — Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment. With written report No. 119-103.
+- 2026-02-11 — Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment. With written report No. 119-103.
+- 2026-02-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 332.
