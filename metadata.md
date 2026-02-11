@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3190
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3190
@@ -36,11 +36,12 @@ BRAVE Burma Act
 - Rep. Williams, Nikema [D-GA-5] (W000788)
 - Rep. Vindman, Eugene Simon [D-VA-7] (V000138)
 
-## Committees (3)
+## Committees (4)
 
 - House — Financial Services Committee
 - House — Judiciary Committee
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -59,3 +60,4 @@ BRAVE Burma Act
 - 2026-02-09 — Mr. Hill (AR) moved to suspend the rules and pass the bill, as amended.
 - 2026-02-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2080)
 - 2026-02-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2080)
+- 2026-02-11 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
