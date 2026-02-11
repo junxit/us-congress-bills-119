@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 7512
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7512
+
+> To amend the Homeland Security Act of 2002 to extend the authorization of the Countering Weapons of Mass Destruction Office of the Department of Homeland Security, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Preserving Counterterrorism Capabilities Act of 2026”.
+
+## § 2. Extension of authorization of Countering Weapons of Mass Destruction Office of the Department of Homeland Security
+
+Section 1901 of the Homeland Security Act of 2002 (6 U.S.C. 591) is amended by striking “the date that is 5 years after the date of the enactment of the Countering Weapons of Mass Destruction Act of 2018” and inserting “February 28, 2027”.
