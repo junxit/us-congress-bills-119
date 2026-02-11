@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1057
 congress: 119
-version: Engrossed in House
+version: Reported in House
 ---
 
 # H.Res. 1057
