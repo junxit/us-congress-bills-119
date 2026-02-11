@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1531
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1531
@@ -21,10 +21,11 @@ PROTECT Taiwan Act
 - Rep. Gonzalez, Vicente [D-TX-34] (G000581)
 - Rep. Lawler, Michael [R-NY-17] (L000599)
 
-## Committees (2)
+## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Financial Services Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -51,3 +52,4 @@ PROTECT Taiwan Act
 - 2026-02-09 — Mr. Hill (AR) moved to suspend the rules and pass the bill, as amended.
 - 2026-02-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 2 (Roll no. 58). (text: CR H2078-2079)
 - 2026-02-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 395 - 2 (Roll no. 58). (text: CR H2078-2079)
+- 2026-02-11 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
