@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 72
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 72
@@ -33,3 +33,10 @@ Authorizing the use of Emancipation Hall in the Capitol Visitor Center for a cer
 - 2026-02-02 — Referred to the House Committee on House Administration.
 - 2026-02-02 — Submitted in House
 - 2026-02-02 — Submitted in House
+- 2026-02-11 — Committee on House Administration discharged.
+- 2026-02-11 — Committee on House Administration discharged.
+- 2026-02-11 — Considered by unanimous consent. (consideration: CR H2172)
+- 2026-02-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-02-11 — Mrs. Miller (IL) asked unanimous consent to discharge from committee and consider.
+- 2026-02-11 — On agreeing to the resolution Agreed to without objection. (text: CR H2172)
+- 2026-02-11 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.
