@@ -1,7 +1,7 @@
 ---
 measure: S. 1453
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1453
@@ -28,3 +28,7 @@ University of Utah Research Park Act
 
 - 2025-04-10 — Introduced in Senate
 - 2025-04-10 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2025-09-11 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2026-02-11 — Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. With written report No. 119-108.
+- 2026-02-11 — Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. With written report No. 119-108.
+- 2026-02-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 337.
