@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 74
 congress: 119
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 74
@@ -24,3 +24,4 @@ Providing for a joint session of Congress to receive a message from the Presiden
 - 2026-02-10 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection. (text: CR H2116-2117)
 - 2026-02-10 — Submitted in House
 - 2026-02-10 — Submitted in House
+- 2026-02-11 — Received in the Senate.
