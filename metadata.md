@@ -1,7 +1,7 @@
 ---
 measure: S. 714
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 714
@@ -32,3 +32,8 @@ Critical Mineral Consistency Act of 2025
 
 - 2025-02-25 — Introduced in Senate
 - 2025-02-25 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2025-03-12 — Committee on Energy and Natural Resources. Hearings held. Hearings printed: S.Hrg. 119-46.
+- 2025-04-30 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2026-02-11 — Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment in the nature of a substitute and an amendment to the title. With written report No. 119-106.
+- 2026-02-11 — Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment in the nature of a substitute and an amendment to the title. With written report No. 119-106.
+- 2026-02-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 335.
