@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3495
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Direct Seller and Real Estate Agent Harmonization Act”.
 
-## § 2. Definitions
+## § 2. Definition of employee
 
 Section 3(e) of the Fair Labor Standards Act of 1938 (29 U.S.C. 203(e)) is amended by inserting after paragraph (5) the following:
 
