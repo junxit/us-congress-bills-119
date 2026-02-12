@@ -1,7 +1,7 @@
 ---
 measure: H.R. 261
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 261
@@ -26,9 +26,10 @@ Undersea Cable Protection Act of 2025
 - Rep. Bentz, Cliff [R-OR-2] (B000668)
 - Rep. Begich, Nicholas J. [R-AK-At Large] (B001323)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (2)
 
@@ -67,3 +68,4 @@ Undersea Cable Protection Act of 2025
 - 2026-02-11 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2026-02-11 — The previous question was ordered pursuant to the rule.
 - 2026-02-11 — The title of the measure was amended. Agreed to without objection.
+- 2026-02-12 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
