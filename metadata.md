@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 72
 congress: 119
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 72
@@ -16,13 +16,14 @@ Authorizing the use of Emancipation Hall in the Capitol Visitor Center for a cer
 
 - Rep. Kustoff, David [R-TN-8] (K000392)
 
-## Cosponsors (5)
+## Cosponsors (6)
 
 - Rep. Miller, Max L. [R-OH-7] (M001222)
 - Rep. Goldman, Craig A. [R-TX-12] (G000601)
 - Rep. Fine, Randy [R-FL-6] (F000484)
 - Rep. Schneider, Bradley Scott [D-IL-10] (S001190)
 - Rep. Landsman, Greg [D-OH-1] (L000601)
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 
 ## Committees (1)
 
@@ -41,3 +42,6 @@ Authorizing the use of Emancipation Hall in the Capitol Visitor Center for a cer
 - 2026-02-11 — On agreeing to the resolution Agreed to without objection. (text: CR H2172)
 - 2026-02-11 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.
 - 2026-02-12 — Received in the Senate.
+- 2026-03-02 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Unanimous Consent.
+- 2026-03-02 — Resolution agreed to in Senate without amendment by Unanimous Consent. (consideration: CR S728)
+- 2026-03-03 — Message on Senate action sent to the House.
