@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2189
 congress: 119
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+5 amendatory instructions. 1 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 26 U.S.C. § 5845
+
+> Section 5845(a) of the Internal Revenue Code of 1986 is amended by striking “an antique firearm or” and inserting “any antique firearm, any less-than-lethal projectile device (as defined in section 4182(d)(2)), any device referred to in section 4182(d)(1)(B), or”.
+
+| | |
+|---|---|
+| Removed | `an antique firearm or` |
+| Inserted | `any antique firearm, any less-than-lethal projectile device (as defined in section 4182(d)(2)), any device referred to in section 4182(d)(1)(B), or` |
 
 ## Stated, not applied
 
@@ -33,3 +44,5 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | insert | in the second sentence of paragraph (3), by inserting “or a less-than-lethal projectile device” before the period; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| `26 U.S.C. § 4182` | redesignate | by redesignating subsection (d) as subsection (e), and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 4182` | insert | by inserting after subsection (c) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

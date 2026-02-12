@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2189
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2189
@@ -118,6 +118,10 @@ To modernize Federal firearms laws to account for advancements in technology and
 
 - House — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2026-02-12 — [House 119-2-70](votes/house-119-2-0070.md) — On Passage — **Passed** (233–185)
+
 ## Actions
 
 - 2025-03-18 — Introduced in House
@@ -129,3 +133,16 @@ To modernize Federal firearms laws to account for advancements in technology and
 - 2026-01-30 — Placed on the Union Calendar, Calendar No. 403.
 - 2026-01-30 — Reported (Amended) by the Committee on Judiciary. H. Rept. 119-472.
 - 2026-01-30 — Reported (Amended) by the Committee on Judiciary. H. Rept. 119-472.
+- 2026-02-09 — Rules Committee Resolution H. Res. 1042 Reported to House. Rule provides for consideration of H.R. 2189, H.R. 261 and H.R. 3617. The resolution provides for consideration of H.R. 2189, H.R. 261, and H.R. 3617 under a closed rule and provides for one hour of debate and one motion to recommit on each bill.
+- 2026-02-11 — Rules Committee Resolution H. Res. 1057 Reported to House. Rule provides for consideration of S. 1383, H.R. 2189, H.R. 261 and H.R. 3617. The resolution provides for consideration of S. 1383, H.R. 2189, H.R. 261, and H.R. 3617 under a closed rule and provides for one motion to recommit H.R. 2189, H.R. 261, and H.R. 3617, and one motion to commit S. 1383.
+- 2026-02-12 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2026-02-12 — Considered under the provisions of rule H. Res. 1057. (consideration: CR H2190-2204)
+- 2026-02-12 — DEBATE - The House proceeded with one hour of debate on H.R. 2189.
+- 2026-02-12 — House amendment considered as adopted: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2026-02-12 — House amendment offered/reported by: Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2026-02-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-02-12 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2026-02-12 — On passage Passed by the Yeas and Nays: 233 - 185 (Roll no. 70). (text of amendment in the nature of a substitute: CR H2190-2191)
+- 2026-02-12 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 233 - 185 (Roll no. 70). (text of amendment in the nature of a substitute: CR H2190-2191)
+- 2026-02-12 — Rule provides for consideration of S. 1383, H.R. 2189, H.R. 261 and H.R. 3617. The resolution provides for consideration of S. 1383, H.R. 2189, H.R. 261, and H.R. 3617 under a closed rule and provides for one motion to recommit H.R. 2189, H.R. 261, and H.R. 3617, and one motion to commit S. 1383.
+- 2026-02-12 — The previous question was ordered pursuant to the rule.

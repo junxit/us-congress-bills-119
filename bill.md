@@ -8,24 +8,3 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 # H.R. 2189
 
 > To modernize Federal firearms laws to account for advancements in technology and less-than-lethal weapons, and for other purposes.
-
-## § 1. Short title
-
-This Act may be cited as the “Law-Enforcement Innovate to De-Escalate Act”.
-
-## § 2. Exemption of certain less-than-lethal projectile devices from restrictions under title 18, United States Code
-
-Section 921(a) of title 18, United States Code, is amended—
-
-- **(1)** in the second sentence of paragraph (3), by inserting “or a less-than-lethal projectile device” before the period; and
-- **(2)** by adding at the end the following:
-  > - **(39)**
-  >   - **(A)** The term less-than-lethal projectile device means a device that—
-  >     - **(i)** is not designed or intended to expel and may not be readily converted to accept and discharge—
-  >       - **(I)** ammunition commonly used in handguns, rifles, or shotguns; or
-  >       - **(II)** any other projectile at a velocity exceeding 500 feet per second;
-  >     - **(ii)** is designed and intended to be used in a manner that is not likely to cause death or serious bodily injury; and
-  >     - **(iii)** does not accept, and is not able to be readily modified to accept, an ammunition feeding device—
-  >       - **(I)** loaded through the inside of a pistol grip; or
-  >       - **(II)** commonly used in semiautomatic firearms.
-  >   - **(B)** If a person requests that the Attorney General determine whether a device satisfies the definition of “less-than-lethal projectile device” under subparagraph (A), the Attorney General shall make the determination not later than 90 days after the date on which the Attorney General receives the device pursuant to the request.
