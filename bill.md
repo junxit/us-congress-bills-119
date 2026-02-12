@@ -2,7 +2,7 @@
 legis-num: H.J. RES. 72
 congress: 119th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.J. RES. 72

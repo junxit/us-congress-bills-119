@@ -1,7 +1,7 @@
 ---
 measure: H.J.Res. 72
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.J.Res. 72
@@ -29,9 +29,10 @@ Relating to a national emergency by the President on February 1, 2025.
 - Rep. Kamlager-Dove, Sydney [D-CA-37] (K000400)
 - Rep. Panetta, Jimmy [D-CA-19] (P000613)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Finance Committee
 
 ## Recorded votes (1)
 
@@ -52,3 +53,4 @@ Relating to a national emergency by the President on February 1, 2025.
 - 2026-02-11 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.J. Res. 72, the Chair put the question on passage of the joint resolution and by voice vote, announced the noes had prevailed. Mr. Meeks demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
 - 2026-02-11 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 219 - 211 (Roll no. 65).
 - 2026-02-11 — The previous question was ordered pursuant to a previous order of the House.
+- 2026-02-12 — Received in the Senate and Read twice and referred to the Committee on Finance.
