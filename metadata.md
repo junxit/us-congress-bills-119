@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3617
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3617
@@ -23,9 +23,10 @@ Securing America’s Critical Minerals Supply Act
 - Rep. Dunn, Neal P. [R-FL-2] (D000628)
 - Rep. Houchin, Erin [R-IN-9] (H001093)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (2)
 
@@ -65,3 +66,4 @@ Securing America’s Critical Minerals Supply Act
 - 2026-02-11 — Rules Committee Resolution H. Res. 1057 Reported to House. Rule provides for consideration of S. 1383, H.R. 2189, H.R. 261 and H.R. 3617. The resolution provides for consideration of S. 1383, H.R. 2189, H.R. 261, and H.R. 3617 under a closed rule and provides for one motion to recommit H.R. 2189, H.R. 261, and H.R. 3617, and one motion to commit S. 1383.
 - 2026-02-11 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2026-02-11 — The previous question was ordered pursuant to the rule.
+- 2026-02-12 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
