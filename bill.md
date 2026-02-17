@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 7597
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7597
+
+> To amend the Department of Housing and Urban Development Act to require that the annual report of the Department of Housing and Urban Development include an identification of significant regulatory barriers to affordable housing.
+
+## § 1. Short title
+
+This Act may be cited as the “Affordable Housing Barriers Transparency Act”.
+
+## § 2. Identification of regulatory barriers to affordable housing in HUD annual report
+
+Section 8 of the Department of Housing and Urban Development Act (42 U.S.C. 3536) is amended by adding at the end the following: “Each such annual report shall include an identification of significant regulatory barriers to affordable housing, within the meaning of such term as provided in the first sentence of section 1203 of the Housing and Community Development Act of 1992 (42 U.S.C. 12705b), and a discussion and analysis of how to reduce or remove such barriers.”.
