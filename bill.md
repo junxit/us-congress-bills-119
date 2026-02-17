@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1028
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Protection of Women in Olympic and Amateur Sports Act”.
+This Act may be cited as the “Protection of Women in Olympic and Amateur Sports Act of 2026”.
 
 ## § 2. Eligibility requirements
 
