@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7396
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7396
@@ -16,11 +16,12 @@ Native American Entrepreneurial Opportunity Act
 
 - Rep. Davids, Sharice [D-KS-3] (D000629)
 
-## Cosponsors (3)
+## Cosponsors (4)
 
 - Rep. Ellzey, Jake [R-TX-6] (E000071)
 - Rep. Morrison, Kelly [D-MN-3] (M001234)
 - Rep. Crane, Elijah [R-AZ-2] (C001132)
+- Rep. Scholten, Hillary J. [D-MI-3] (S001221)
 
 ## Committees (1)
 
@@ -31,3 +32,8 @@ Native American Entrepreneurial Opportunity Act
 - 2026-02-05 — Introduced in House
 - 2026-02-05 — Introduced in House
 - 2026-02-05 — Referred to the House Committee on Small Business.
+- 2026-02-11 — Committee Consideration and Mark-up Session Held
+- 2026-02-11 — Ordered to be Reported by the Yeas and Nays: 24 - 0.
+- 2026-02-17 — Placed on the Union Calendar, Calendar No. 424.
+- 2026-02-17 — Reported by the Committee on Small Business. H. Rept. 119-498.
+- 2026-02-17 — Reported by the Committee on Small Business. H. Rept. 119-498.
