@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2958
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -38,13 +38,13 @@ This Act may be cited as the “Balance the Scales Act”.
   >           - **(cc)** mode of the meeting; and
   >           - **(dd)** the purpose of such meeting and the nature of any information shared; and
   >       - **(iv)** an explanation of how such agreement is consistent with the public policy of promoting the voluntary sponsorship of employee benefit plans subject to this Act.
-  >     - **(B)** *Identifying information* The report described under paragraph (A)—
+  >     - **(B)** *Identifying information* The report described under subparagraph (A)—
   >       - **(i)** shall identify the parties to each agreement; and
   >       - **(ii)** may not include any information that may be used to identify any other person (including an employer, plan sponsor, plan fiduciary, service provider, or any other potential defendant).
 
 - **(b)** *Effective date*
   - **(1)** *In general* Subject to subsection (b), the amendments made by this section shall apply to any adverse assistance provided on or after the date of enactment of this Act.
-  - **(2)** *Existing agreements* For the purposes of section 504(f)(1) (as added by this section) of the Employee Retirement Income Security Act (29 U.S.C. 1134(f)(1)), if, not later than 60 days after the date of enactment of this Act, the Secretary of Labor takes the actions required in paragraphs (A) and (B) of such paragraph in relation to an existing arrangement to provide adverse assistance, the Secretary shall be deemed to have taken such actions prior to providing such adverse assistance.
+  - **(2)** *Existing agreements* For the purposes of paragraph (1) of section 504(f) (as added by this section) of the Employee Retirement Income Security Act (29 U.S.C. 1134(f)), if, not later than 60 days after the date of enactment of this Act, the Secretary of Labor takes the actions required in subparagraphs (A) and (B) of such paragraph in relation to an existing arrangement to provide adverse assistance, the Secretary shall be deemed to have taken such actions prior to providing such adverse assistance.
 
 ## § 3. Private pension plans as integral to the continued well-being and security of employees and their dependants
 
