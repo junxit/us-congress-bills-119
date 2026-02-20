@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3679
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -27,7 +27,7 @@ Section 22A of the National Institute of Standards and Technology Act (15 U.S.C.
   >     - **(C)** Include case studies of practical application across a range of business sizes and types.
   >     - **(D)** Are technology-neutral and relevant to technologies that are accessible and suitable for small businesses.
   >     - **(E)** Are based on international voluntary standards as applicable, and are consistent with the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3701 et seq.).
-  >     - **(F)** Include recommendations and references to existing Federal educational resources, including the risk management framework under subsection (c) and activities relating to the national cybersecurity awareness and education program under section 303 of the Cybersecurity Enhancement Act of 2014 (15 U.S.C. 7443).
+  >     - **(F)** Include recommendations and references to existing Federal educational resources, including the risk management framework under subsection (c), privacy and cybersecurity risk management frameworks established by the Institute, and activities relating to the national cybersecurity awareness and education program under section 303 of the Cybersecurity Enhancement Act of 2014 (15 U.S.C. 7443).
   >   - **(3)** *Review and update of resources* Not later than two years after the date of the enactment of this subsection and not less frequently than once every two years thereafter, the Director shall carry out the following:
   >     - **(A)** Review the resources described in paragraph (1).
   >     - **(B)** Update such resources as the Director considers appropriate.

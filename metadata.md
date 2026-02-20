@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3679
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3679
@@ -16,9 +16,12 @@ Small Business Artificial Intelligence Advancement Act
 
 - Rep. Collins, Mike [R-GA-10] (C001129)
 
-## Cosponsors (1)
+## Cosponsors (4)
 
 - Rep. Stevens, Haley M. [D-MI-11] (S001215)
+- Rep. Gillen, Laura [D-NY-4] (G000602)
+- Rep. Vindman, Eugene Simon [D-VA-7] (V000138)
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 
 ## Committees (1)
 
@@ -29,3 +32,8 @@ Small Business Artificial Intelligence Advancement Act
 - 2025-06-03 — Introduced in House
 - 2025-06-03 — Introduced in House
 - 2025-06-03 — Referred to the House Committee on Science, Space, and Technology.
+- 2025-06-11 — Committee Consideration and Mark-up Session Held
+- 2025-06-11 — Ordered to be Reported (Amended) by the Yeas and Nays: 35 - 0.
+- 2026-02-20 — Placed on the Union Calendar, Calendar No. 429.
+- 2026-02-20 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 119-503.
+- 2026-02-20 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 119-503.
