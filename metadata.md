@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2600
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2600
@@ -16,9 +16,14 @@ ASCEND Act
 
 - Rep. Hurd, Jeff [R-CO-3] (H001100)
 
-## Cosponsors (1)
+## Cosponsors (6)
 
 - Rep. Bonamici, Suzanne [D-OR-1] (B001278)
+- Rep. Subramanyam, Suhas [D-VA-10] (S001230)
+- Rep. Crank, Jeff [R-CO-5] (C001137)
+- Rep. Gillen, Laura [D-NY-4] (G000602)
+- Rep. Riley, Josh [D-NY-19] (R000622)
+- Rep. Kean, Thomas H. [R-NJ-7] (K000398)
 
 ## Committees (1)
 
@@ -29,3 +34,8 @@ ASCEND Act
 - 2025-04-02 — Introduced in House
 - 2025-04-02 — Introduced in House
 - 2025-04-02 — Referred to the House Committee on Science, Space, and Technology.
+- 2025-04-29 — Committee Consideration and Mark-up Session Held
+- 2025-04-29 — Ordered to be Reported by Voice Vote.
+- 2026-02-20 — Placed on the Union Calendar, Calendar No. 428.
+- 2026-02-20 — Reported by the Committee on Science, Space, and Technology. H. Rept. 119-502.
+- 2026-02-20 — Reported by the Committee on Science, Space, and Technology. H. Rept. 119-502.
