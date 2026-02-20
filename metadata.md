@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7401
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7401
@@ -29,3 +29,8 @@ Small Business Lending Fraud Prevention Act
 - 2026-02-05 — Introduced in House
 - 2026-02-05 — Introduced in House
 - 2026-02-05 — Referred to the House Committee on Small Business.
+- 2026-02-11 — Committee Consideration and Mark-up Session Held
+- 2026-02-11 — Ordered to be Reported by the Yeas and Nays: 24 - 0.
+- 2026-02-20 — Placed on the Union Calendar, Calendar No. 426.
+- 2026-02-20 — Reported by the Committee on Small Business. H. Rept. 119-500.
+- 2026-02-20 — Reported by the Committee on Small Business. H. Rept. 119-500.
