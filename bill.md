@@ -1,0 +1,15 @@
+---
+legis-num: H.R. 7614
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7614
+
+> To direct the Architect of the Capitol to install an adult changing room in the Library of Congress and the Capitol Visitor Center.
+
+## § 1. Adult changing rooms in Capitol Visitor Center and Library of Congress
+
+- **(a)** *In general* The Architect of the Capitol shall install, in not less than 1 restroom in the Library of Congress and the Capitol Visitor Center, an adult changing room.
+- **(b)** *Adult changing room defined* In this section, the term “adult changing room” means a private, fully accessible restroom equipped with features such as an adult-sized changing bench, various safety rails attached to a secure surface, a mounted or movable hoist, and sufficient space for 1 or 2 caregivers.
