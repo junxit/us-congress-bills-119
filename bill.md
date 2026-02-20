@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4307
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -19,7 +19,7 @@ In this Act, the term human trafficking means any act or practice described in p
 
 ## § 3. Training for Department personnel to identify human trafficking
 
-- **(a)** *In General* Not later than 180 days after the date of enactment of this Act, the Secretary of Labor shall implement a program to provide the training and periodic continuing education described in subsection (b) to employees of the Department of Labor whom the Secretary determines should receive such training or education based on their official duties. In making such determination with respect to employees of the Wage and Hour Division, the Secretary shall consider the training and education needs of such employees operating in a State with a significant increase in oppressive child labor (as defined in section 3(l) of the Fair Labor Standards Act of 1938 (29 U.S.C. 203(l))).
+- **(a)** *In General* Not later than 180 days after the date of enactment of this Act, the Secretary of Labor shall implement a program to provide the training and periodic continuing education described in subsection (b) to employees of the Department of Labor whom the Secretary determines should receive such training or education based on their official duties. In making such determination with respect to employees of the Wage and Hour Division, the Secretary shall consider the training and education needs of such employees operating in a State with a significant increase in oppressive child labor (as defined in section 3(l) of the Fair Labor Standards Act of 1938 (29 U.S.C. 203(l)).
 - **(b)** *Training and continuing education described* The training and continuing education provided under the program referred to in subsection (a)—
   - **(1)** may be conducted through in-class or virtual learning capabilities; and
   - **(2)** shall include—
