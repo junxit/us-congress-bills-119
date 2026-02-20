@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6956
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6956
@@ -29,3 +29,8 @@ BARCODE Efficiency Act
 - 2026-01-07 — Introduced in House
 - 2026-01-07 — Introduced in House
 - 2026-01-07 — Referred to the House Committee on Ways and Means.
+- 2026-01-14 — Committee Consideration and Mark-up Session Held
+- 2026-01-14 — Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 42 - 0.
+- 2026-02-20 — Placed on the Union Calendar, Calendar No. 434.
+- 2026-02-20 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-508.
+- 2026-02-20 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-508.

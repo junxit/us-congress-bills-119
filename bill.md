@@ -17,7 +17,7 @@ This Act may be cited as the “Barcode Automation for Revenue Collection to Org
 
 - **(a)** *Returns prepared electronically and submitted on paper* With respect to any Federal tax return which is prepared electronically, but is printed and filed on paper—
   - **(1)** such return shall bear a code which, when scanned, converts the data included in such return to electronic format, and
-  - **(2)** subject to subsection (b)(1)(B), the Internal Revenue Service shall use barcode scanning technology to convert the data included in such returns to electronic format.
+  - **(2)** subject to subsection (b)(1)(B), the Internal Revenue Service shall use barcode scanning technology to convert the data included in such return to electronic format.
 - **(b)** *Optical character recognition software* With respect to—
   - **(1)** any Federal tax return which—
     - **(A)** is not prepared electronically and is printed and filed on paper, or
@@ -27,7 +27,7 @@ This Act may be cited as the “Barcode Automation for Revenue Collection to Org
   - **(1)** *In general* Subsection (a) or (b) shall not apply to the extent that the Secretary of the Treasury or the Secretary’s delegate determines that the technology described in such subsection is slower or less reliable than—
     - **(A)** the process of manually transcribing returns or correspondence received in a paper form, or
     - **(B)** any other process that the Internal Revenue Service is using or would otherwise use.
-  - **(2)** *Report to congress* Any exception to the application of subsection (a) or (b) pursuant to paragraph (1) shall not take effect unless the Secretary provides a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate regarding the determination made by the Secretary under such paragraph within 30 days of such determination.
+  - **(2)** *Report to congress* Any exception to the application of subsection (a) or (b) pursuant to paragraph (1) shall not take effect unless the Secretary provides a report to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate regarding the determination made under such paragraph within 30 days of such determination.
 - **(d)** *Effective date* This section shall apply to—
   - **(1)** any individual income tax return (as defined in section 6011(e)(3)(C) of the Internal Revenue Code of 1986) received on or after January 1 of the first calendar year beginning more than 180 days after the date of enactment of this Act,
   - **(2)** any estate tax return (as described in section 6018 of such Code) or gift tax return (as described in section 6019 of such Code) received on or after January 1 of the first calendar year beginning more than 24 months after the date of enactment of this Act, and
