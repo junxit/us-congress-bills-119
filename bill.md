@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 390
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,8 +15,8 @@ This Act may be cited as the “Advanced Capabilities for Emergency Response Ope
 
 ## § 2. Advanced capabilities for emergency response operations
 
-- **(a)** *In general* The Administrator shall leverage NASA-developed tools and technologies to conduct research and development activities under the Advanced Capabilities for Emergency Response Operations (ACERO) project to improve aerial responses to wildfires.
-- **(b)** *Goals* The research and development activities conducted under subsection (a) shall, to the extent practicable, address the following:
+- **(a)** *In general* The Administrator shall leverage NASA-developed tools and technologies to conduct research and development activities under the Advanced Capabilities for Emergency Response Operations (ACERO) project, or appropriate successor project or projects, to improve aerial responses to wildfires.
+- **(b)** *Goals* The research and development activities conducted under subsection (a) may include the following:
   - **(1)** Advanced aircraft technologies and airspace management efforts to assist in the management, deconfliction, and coordination of aerial assets during wildfire response efforts.
   - **(2)** Information sharing and real-time data exchange for wildfire response teams.
   - **(3)** Development of an interoperable platform to provide situational awareness of aerial assets during wildfire response.
@@ -34,12 +34,10 @@ This Act may be cited as the “Advanced Capabilities for Emergency Response Ope
 - **(e)** *Annual reports* Not later than one year after the date of the enactment of this Act and annually thereafter until December 31, 2030, the Administrator shall submit to the Committee on Science, Space and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report describing the activities, including results, carried out pursuant to this section. Each such report, at minimum, shall contain the following:
   - **(1)** A description of any research and development activities.
   - **(2)** A description of the Administrator’s activities pursuant to subsection (c).
-  - **(3)** An assessment of the effectiveness of such activities in preventing injuries and loss of life, protecting property, and reducing economic damage.
-  - **(4)** An identification of any topics related to improvement of aerial responses to wildfires that could benefit from further research.
-  - **(5)** A description of any continuing efforts under this section.
-  - **(6)** Any other information determined appropriate by the Administrator.
-- **(f)** *Authorization of appropriations* There is authorized to be appropriated $15,000,000 for fiscal year 2026 to carry out this section.
-- **(g)** *Definitions* In this section:
+  - **(3)** An identification of any topics related to improvement of aerial responses to wildfires that could benefit from further research.
+  - **(4)** A description of any continuing efforts under this section.
+  - **(5)** Any other information determined appropriate by the Administrator.
+- **(f)** *Definitions* In this section:
   - **(1)** *Administrator* The term “Administrator” means the Administrator of the National Aeronautics and Space Administration.
   - **(2)** *Covered foreign entity* The term “covered foreign entity” has the meaning given such term in section 1822 of the National Defense Authorization Act for Fiscal Year 2024 (Public Law 118–31).
   - **(3)** *NASA* The term “NASA” means the National Aeronautics and Space Administration.
