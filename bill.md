@@ -1,0 +1,24 @@
+---
+legis-num: H.R. 7643
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7643
+
+> To amend title 38, United States Code, to improve the manner in which the Secretary of Veterans Affairs calculates the average employment rate of veterans participating in the VET TEC high technology program, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Veteran Technology Employment Success Act”.
+
+## § 2. Employment rate calculation for VET-TEC high technology program
+
+Section 3699C of title 38, United States Code, is amended—
+
+- **(1)** in subsection (f)—
+  - **(A)** in the matter preceding paragraph (1) by inserting after “House of Representatives” the following: “, and make available to the public,”; and
+  - **(B)** in paragraph (3) by adding at the end the following: “Such rate shall be calculated as a fraction, the denominator of which is the number of covered individuals who completed such a program during such year and the numerator of which is the number of individuals counted in the denominator who are employed on the date that is 180 days after the date on which the individual completed the program, and expressed as a percentage. Notwithstanding the previous sentence, the numerator shall not count a case in which the individual is employed by the same organization that was the provider of the individual’s program of education or a case in which the individual is employed, by a parent or affiliate of such organization, as an instructor for a substantially similar program of education. To the maximum extent practicable, the Secretary shall also report the rates of full-time employment, part-time employment, and self-employment.”; and
+- **(2)** in subsection (g) by adding at the end the following new paragraph:
+  > - **(3)** The Secretary on an ongoing basis shall solicit, collect, and analyze feedback about the program from covered individuals who participate in the program and from the GI Bill School Feedback Tool. The Secretary shall use such feedback to evaluate and improve the implementation of the program.
