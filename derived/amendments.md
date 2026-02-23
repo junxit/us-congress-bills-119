@@ -1,7 +1,7 @@
 ---
 measure: S. 233
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-8 amendatory instructions. 2 executed, 6 stated and not applied.
+11 amendatory instructions. 3 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -42,6 +42,15 @@ to guess them.
 | Removed | `United States Olympic Committee` |
 | Inserted | `United States Olympic and Paralympic Committee` |
 
+### 21 U.S.C. § 2001
+
+> in subsection (b), by striking “United States Olympic Committee” each place it appears and inserting “United States Olympic and Paralympic Committee”; and
+
+| | |
+|---|---|
+| Removed | `United States Olympic Committee` |
+| Inserted | `United States Olympic and Paralympic Committee` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -56,4 +65,6 @@ complete account of the bill's effect, which it is not.
 | `36 U.S.C. § 22501` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 2001` | replace | in paragraph (5), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `21 U.S.C. § 2001` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 2001` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 2001` | replace | by striking subsection (a) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 2001` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
