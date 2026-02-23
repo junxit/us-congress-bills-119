@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 390
 
-> To utlitize the Advanced Capabilities for Emergency Response to Operations project of NASA to improve aerial responses to wildfires, and for other purposes.
+> To utilize the Advanced Capabilities for Emergency Response to Operations project of NASA to improve aerial responses to wildfires, and for other purposes.
 
 ## § 1. Short title
 
