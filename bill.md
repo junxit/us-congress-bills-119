@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5235
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Skills-Based Federal Contracting Act”.
+This Act may be cited as the “Skills-Based Federal Contracting Act of 2025”.
 
 ## § 2. Use of requirements regarding education of contractor personnel
 
@@ -29,7 +29,7 @@ This Act may be cited as the “Skills-Based Federal Contracting Act”.
 - **(e)** *Repeal* Section 813 of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (Public Law 106–398; 114 Stat. 1654A–214), as implemented in subpart 39.104 of the Federal Acquisition Regulation, as in effect on January 3, 2025, is repealed as of the date that the guidance required by subsection (c) becomes effective.
 - **(f)** *GAO report* Not later than 3 years after the date of the enactment of this Act, the Comptroller General shall submit to Congress an evaluation of executive agency compliance with section 3313 of title 41, United States Code, as added by subsection (a).
 - **(g)** *Definitions* In this section:
-  - **(1)** *Education* The term education means an associate, baccalaureate, graduate, or professional degree, specified coursework, or other form of educational attainment awarded by a junior or community college, college, or university that is accredited as a collegiate institution by a recognized accrediting agency or approved by the appropriate State education authority under State law to grant associate or higher degrees.
+  - **(1)** *Education* The term education means an associate, baccalaureate, graduate, or professional degree, specified coursework, or other form of educational attainment awarded by a junior or community college, college, or university that is accredited as a collegiate institution by a recognized accrediting agency or approved by the appropriate State education authority under State law (or the appropriate education authority of the District of Columbia) to grant associate or higher degrees.
   - **(2)** *Education requirement* The term “education requirement” includes a requirement that can be met either through—
     - **(A)** education alone;
     - **(B)** education or experience; or
