@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6365
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -23,7 +23,7 @@ Section 2 of the Act of June 30, 1936 (49 Stat. 2041, chapter 883; 54 Stat. 250,
 
 - **(2)** by striking the period at the end and inserting “; and”; and
 - **(3)** by adding at the end the following:
-  > - **(2)** shall issue the right-of-way generally depicted as “Proposed Egress” on the map entitled “Blue Ridge Parkway, Proposed Wintergreen Emergency Egress Near Milepost 9.6”, numbered 601/194,694, and dated September 2024, if the Secretary certifies that—
+  > - **(2)** shall issue the right-of-way generally depicted as “Proposed Egress” on the map entitled “Blue Ridge Parkway, Proposed Wintergreen Emergency Egress Near Milepost 9.6”, numbered 601/194,694, and dated September 2024, if the Secretary reports to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate that—
   >   - **(A)** an evaluation has been completed of alternatives to the right-of-way for egress that do not cross Federal land that includes evaluating whether existing trails can be converted to roads;
   >   - **(B)** an analysis of expected fire ecology behavior in the event of a fire emergency has been completed with respect to the right-of-way; and
   >   - **(C)** any required reviews with respect to the right-of-way have been completed in accordance with—
