@@ -1,7 +1,7 @@
 ---
 measure: S. 337
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 337
@@ -28,3 +28,7 @@ Household Goods Shipping Consumer Protection Act
 
 - 2025-01-30 — Introduced in Senate
 - 2025-01-30 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2025-05-21 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2026-02-23 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-112.
+- 2026-02-23 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-112.
+- 2026-02-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 341.
