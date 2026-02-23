@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3679
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3679
@@ -37,3 +37,9 @@ Small Business Artificial Intelligence Advancement Act
 - 2026-02-20 — Placed on the Union Calendar, Calendar No. 429.
 - 2026-02-20 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 119-503.
 - 2026-02-20 — Reported (Amended) by the Committee on Science, Space, and Technology. H. Rept. 119-503.
+- 2026-02-23 — Considered under suspension of the rules. (consideration: CR H2244-2245)
+- 2026-02-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3679.
+- 2026-02-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-02-23 — Mr. Babin moved to suspend the rules and pass the bill, as amended.
+- 2026-02-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2244)
+- 2026-02-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2244)
