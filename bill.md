@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5419
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,28 +13,26 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Enhancing Administrative Reviews for Broadband Deployment Act”.
 
-## § 2. Ensuring timely review of communications use authorizations
+## § 2. Ensuring timely review of broadband land use authorizations
 
 - **(a)** *Study and report*
   - **(1)** *Study* The Secretaries concerned shall each conduct, with respect to the relevant covered department, a study to determine—
-    - **(A)** if there are programmatic or administrative barriers to the timely review of requests for communications use authorizations;
-    - **(B)** if there are revisions to rules or regulations that could be implemented to improve efficiency with respect to reviewing requests for communications use authorizations; and
-    - **(C)** if there are processes for prioritizing the review of requests for communications use authorizations.
+    - **(A)** if there are programmatic or administrative barriers to the timely review of requests for broadband land use authorizations;
+    - **(B)** if there are revisions to rules or regulations that could be implemented to improve efficiency with respect to reviewing requests for broadband land use authorizations; and
+    - **(C)** if there are processes for prioritizing the review of requests for broadband land use authorizations.
   - **(2)** *Report* Not later than 1 year after the date of the enactment of this Act, the Secretaries concerned shall jointly submit to the appropriate congressional committees a report that—
     - **(A)** describes the results of the studies conducted under paragraph (1), including any barriers, revisions, or processes identified under subparagraphs (A) through (C) of such paragraph; and
-    - **(B)** includes a plan for providing, with respect to the organizational units of the relevant covered departments, the staffing necessary to ensure timely review of communications use authorizations.
+    - **(B)** includes a plan for providing, with respect to the organizational units of the relevant covered departments, the staffing necessary to ensure timely review of broadband land use authorizations.
 - **(b)** *Definitions* In this section:
-  - **(1)** *Appropriate congressional committees* The term appropriate congressional committees means—
-    - **(A)** the Committee on Energy and Commerce of the House of Representatives;
-    - **(B)** the Committee on Natural Resources of the House of Representatives;
-    - **(C)** the Committee on Commerce, Science, and Transportation of the Senate; and
-    - **(D)** the Committee on Environment and Public Works of the Senate.
-  - **(2)** *Communications facility* The term communications facility has the meaning given the term communications facility installation in section 6409(d) of the Middle Class Tax Relief and Job Creation Act of 2012 (47 U.S.C. 1455(d)).
-  - **(3)** *Communications use* The term communications use means the placement and operation of a communications facility.
-  - **(4)** *Communications use authorization* The term communications use authorization means an easement, right-of-way, lease, license, or other authorization—
+  - **(1)** *Appropriate congressional committees* The term appropriate congressional committees means the—
+    - **(A)** Committees on Natural Resources, Agriculture, and Energy and Commerce of the House of Representatives; and
+    - **(B)** Committees on Commerce, Science, and Transportation and Environment and Public Works of the Senate.
+  - **(2)** *Broadband land use authorization* The term broadband land use authorization means an easement, right-of-way, lease, license, or other authorization—
     - **(A)** provided by the Secretary of the Interior or the Secretary of Agriculture;
     - **(B)** to locate or modify a communications facility on covered land; and
     - **(C)** for the primary purpose of authorizing the occupancy and use of such covered land for communications use.
+  - **(3)** *Communications facility* The term communications facility has the meaning given the term communications facility installation in section 6409(d) of the Middle Class Tax Relief and Job Creation Act of 2012 (47 U.S.C. 1455(d)).
+  - **(4)** *Communications use* The term communications use means the placement and operation of a communications facility.
   - **(5)** *Covered land* The term covered land means—
     - **(A)** public lands; and
     - **(B)** National Forest System land.
@@ -42,9 +40,8 @@ This Act may be cited as the “Enhancing Administrative Reviews for Broadband D
   - **(7)** *Organizational unit* The term organizational unit means—
     - **(A)** with respect to the Department of the Interior—
       - **(i)** a State office of the Bureau of Land Management;
-      - **(ii)** a regional office of the Bureau of Land Management;
-      - **(iii)** a district office of the Bureau of Land Management; or
-      - **(iv)** a field office of the Bureau of Land Management; and
+      - **(ii)** a district office of the Bureau of Land Management; or
+      - **(iii)** a field office of the Bureau of Land Management; and
     - **(B)** with respect to the Department of Agriculture—
       - **(i)** a regional office of the Forest Service;
       - **(ii)** a management unit of the Forest Service; or

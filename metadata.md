@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5419
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5419
@@ -27,3 +27,13 @@ Enhancing Administrative Reviews for Broadband Deployment Act
 - 2025-09-17 — Introduced in House
 - 2025-09-17 — Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2025-09-17 — Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-12-04 — Referred to the Subcommittee on Federal Lands.
+- 2025-12-11 — Subcommittee Hearings Held
+- 2026-02-11 — Committee Consideration and Mark-up Session Held
+- 2026-02-11 — Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.
+- 2026-02-11 — Subcommittee on Federal Lands Discharged
+- 2026-02-24 — Committee on Agriculture discharged.
+- 2026-02-24 — Committee on Agriculture discharged.
+- 2026-02-24 — Placed on the Union Calendar, Calendar No. 441.
+- 2026-02-24 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-516, Part I.
+- 2026-02-24 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-516, Part I.
