@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 755
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,14 +13,19 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Critical Mineral Consistency Act of 2025”.
 
-## § 2. Critical materials included as critical minerals
+## § 2. Critical minerals and materials list
 
 Section 7002 of the Energy Act of 2020 (30 U.S.C. 1606) is amended—
 
-- **(1)** in subsection (a)(3)(A), to read as follows:
-  > - **(A)** *In general* The term “critical mineral” means—
-  >   - **(i)** any mineral, element, substance, or material designated as critical by the Secretary under subsection (c); or
-  >   - **(ii)** a critical material as determined by the Secretary of Energy under paragraph (2)(A).
-
-- **(2)** in subsection (c)(5), by adding at the end the following:
-  > - **(C)** *Inclusion of critical materials* Not later than 45 days after the date on which the Secretary of Energy determines a non-fuel mineral, element, substance, or material to be a critical material under subsection (a)(2)(A), the Secretary shall update the list of critical minerals published under paragraph (3) to include such critical material.
+- **(1)** in subsection (c)(4)(C), by inserting “minerals or materials” after “critical”;
+- **(2)** by redesignating subsection (o) as subsection (p); and
+- **(3)** by inserting after subsection (n) the following:
+  > - **(o)** *Critical minerals and materials list*
+  >   - **(1)** *In general* Not later than 45 days after the date of enactment of the Critical Mineral Consistency Act of 2025, the Secretary shall publish a Critical Minerals and Materials List, which shall include—
+  >     - **(A)** any critical mineral designated by the Secretary under subsection (c); and
+  >     - **(B)** any non-fuel mineral, element, substance, or material that the Secretary of Energy has determined to be a critical material under subsection (a)(2) as of that date of enactment.
+  >   - **(2)** *Updates* The Secretary shall update the Critical Minerals and Materials List published under paragraph (1)—
+  >     - **(A)** not later than 45 days after the date on which the Secretary updates a critical mineral designation under subsection (c); and
+  >     - **(B)** not later than 45 days after the date on which the Secretary of Energy updates a critical material designation under subsection (a)(2).
+  >   - **(3)** *Publication alignment* To the maximum extent practicable, the Secretary and the Secretary of Energy shall coordinate when updates to the Critical Minerals and Materials List may be required under paragraph (2).
+  >   - **(4)** *Administration* For the purposes of administering programs involving critical minerals or critical materials, the Secretary, the Secretary of Energy, and the heads of other Federal departments and agencies where such department or agency has incorporated by reference the definition of “critical mineral” or “critical material” from this section, as applicable, shall use the most recently published version of the Critical Minerals and Materials List published under paragraph (1).
