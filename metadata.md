@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6644
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 6644
@@ -82,3 +82,6 @@ version: Engrossed in House
 - 2026-02-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 390 - 9 (Roll no. 57). (text: CR H2050-2070)
 - 2026-02-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 390 - 9 (Roll no. 57). (text: CR H2050-2070)
 - 2026-02-09 — The title of the measure was amended. Agreed to without objection.
+- 2026-02-11 — Received in the Senate.
+- 2026-02-23 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2026-02-24 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 343.
