@@ -1,7 +1,7 @@
 ---
 measure: H.R. 390
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 390
@@ -26,9 +26,10 @@ ACERO Act
 - Rep. Harder, Josh [D-CA-9] (H001090)
 - Rep. Neguse, Joe [D-CO-2] (N000191)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ ACERO Act
 - 2026-02-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2241)
 - 2026-02-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2241)
 - 2026-02-23 — The title of the measure was amended. Agreed to without objection.
+- 2026-02-24 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
