@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3679
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3679
@@ -23,9 +23,10 @@ Small Business Artificial Intelligence Advancement Act
 - Rep. Vindman, Eugene Simon [D-VA-7] (V000138)
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Small Business Artificial Intelligence Advancement Act
 - 2026-02-23 — Mr. Babin moved to suspend the rules and pass the bill, as amended.
 - 2026-02-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2244)
 - 2026-02-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2244)
+- 2026-02-24 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
