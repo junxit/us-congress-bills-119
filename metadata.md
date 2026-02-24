@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5235
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5235
@@ -21,9 +21,10 @@ Skills-Based Federal Contracting Act of 2025
 - Rep. Krishnamoorthi, Raja [D-IL-8] (K000391)
 - Rep. Perez, Marie Gluesenkamp [D-WA-3] (G000600)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ Skills-Based Federal Contracting Act of 2025
 - 2026-02-23 — Mr. Timmons moved to suspend the rules and pass the bill, as amended.
 - 2026-02-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2247)
 - 2026-02-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2247)
+- 2026-02-24 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.

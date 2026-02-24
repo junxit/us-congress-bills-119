@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5235
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
