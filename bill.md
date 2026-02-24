@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Don’t Mess With My Home Appliances Act”.
+This Act may be cited as the “Home Appliance Protection and Affordability Act”.
 
 ## § 2. Prescribing new or amended energy conservation standards
 
