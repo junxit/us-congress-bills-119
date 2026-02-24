@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2600
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2600
@@ -45,3 +45,4 @@ ASCEND Act
 - 2026-02-23 — Mr. Babin moved to suspend the rules and pass the bill, as amended.
 - 2026-02-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2242-2243)
 - 2026-02-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2242-2243)
+- 2026-02-24 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 344.
