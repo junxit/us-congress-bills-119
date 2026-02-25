@@ -1,0 +1,26 @@
+---
+legis-num: H. RES. 1081
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 1081
+
+> Raising awareness for the sarcoma cancer chordoma.
+
+## Preamble
+
+- Whereas chordoma is a slow growing, yet aggressive bone cancer of the skull and spine;
+- Whereas it strikes people of all ages and affects more than 25,000 individuals worldwide;
+- Whereas, each year, thousands of people are diagnosed with chordoma including about 300 people annually in the United States;
+- Whereas chordomas are among the most complicated tumors to treat due to involvement of critical structures such as the brain stem, spinal cord, and important nerves and arteries;
+- Whereas surgery or radiation performed by a skilled treatment team can be curative for some patients, but even with the best care possible, the recurrence rate remains high; and
+- Whereas no drugs are known to cure or effectively control the disease, meaning that patients whose disease progresses after exhausting surgical and radiation options have little hope for a full recovery: Now, therefore, be it
+
+That it is the sense of the House of Representatives that chordoma patients and families need increased funding and support for—
+
+- **(1)** accurate and early diagnosis;
+- **(2)** the development of new treatments, diagnostics, and cures;
+- **(3)** fewer hurdles between research and new treatments; and
+- **(4)** patient-centric approaches to drug discovery and development.
