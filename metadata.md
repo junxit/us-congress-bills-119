@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6329
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6329
@@ -20,10 +20,11 @@ Information Quality Assurance Act of 2025
 
 - Rep. Simon, Lateefah [D-CA-12] (S001231)
 
-## Committees (2)
+## Committees (3)
 
 - House — Oversight and Government Reform Committee
 - House — Judiciary Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -45,3 +46,4 @@ Information Quality Assurance Act of 2025
 - 2026-02-24 — Motion to reconsider laid on the table Agreed to without objection.
 - 2026-02-24 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 362 - 1 (Roll no. 71).
 - 2026-02-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 362 - 1 (Roll no. 71).
+- 2026-02-25 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
