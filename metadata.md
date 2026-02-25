@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 602
 congress: 119
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 602
@@ -16,7 +16,7 @@ A resolution supporting the United States Olympic and Paralympic Teams in the 20
 
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 
-## Cosponsors (21)
+## Cosponsors (22)
 
 - Sen. Bennet, Michael F. [D-CO] (B001267)
 - Sen. Lankford, James [R-OK] (L000575)
@@ -39,6 +39,7 @@ A resolution supporting the United States Olympic and Paralympic Teams in the 20
 - Sen. Slotkin, Elissa [D-MI] (S001208)
 - Sen. Justice, James C. [R-WV] (J000312)
 - Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
 
 ## Committees (1)
 
@@ -48,3 +49,13 @@ A resolution supporting the United States Olympic and Paralympic Teams in the 20
 
 - 2026-02-05 — Referred to the Committee on Commerce, Science, and Transportation. (text: CR S515)
 - 2026-02-05 — Submitted in Senate
+- 2026-02-25 — 
+- 2026-02-25 — Amendment SA 4302 agreed to in Senate by Unanimous Consent.
+- 2026-02-25 — Amendment SA 4302 proposed by Senator Moreno for Senator Klobuchar. To modify the number of medals won by Team USA.
+- 2026-02-25 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.
+- 2026-02-25 — Resolution agreed to in Senate without amendment and an amended preamble by Unanimous Consent.
+- 2026-02-25 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2026-02-25 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2026-02-25 — Senate amendment agreed to: Amendment SA 4302 agreed to in Senate by Unanimous Consent.
+- 2026-02-25 — Senate amendment proposed (on the floor): Amendment SA 4302 proposed by Senator Moreno for Senator Klobuchar.
+- 2026-02-25 — Senate amendment submitted

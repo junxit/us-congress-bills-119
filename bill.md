@@ -13,7 +13,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 - Whereas, for more than 100 years, the Olympic and Paralympic Movements have—(1)educated young people through amateur athletics;(2)brought together athletes from many countries in friendly competition; and(3)forged new relationships among athletes bound by friendship, solidarity, and fair play;
 - Whereas the Milano Cortina 2026 Olympic Games will take place in Italy from February 6, 2026, to February 22, 2026, and the Milano Cortina 2026 Paralympic Games will take place in Italy from March 6, 2026, to March 15, 2026;
-- Whereas the United States Olympic and Paralympic Teams (referred to in this preamble as “Team USA”) have won 2,077 gold medals, 1,780 silver medals, and 1,657 bronze medals, totaling 5,514 medals, during the past Summer and Winter Olympic and Paralympic Games;
+- Whereas the United States Olympic and Paralympic Teams (referred to in this preamble as “Team USA”) have won, between 2000 and 2026, 622 gold medals, 622 silver medals, and 559 bronze medals, totaling 1,803 medals, during the past Summer and Winter Olympic and Paralympic Games;
 - Whereas, at the 2026 Olympic Games, over 2,900 athletes from 93 countries will compete in 16 sports disciplines and 116 medal events, and at the 2026 Paralympic Games, 665 athletes from more than 50 countries will compete in 16 sports disciplines and 79 events;
 - Whereas, at the 2026 Olympic Games, Team USA will compete in 16 sports disciplines and 111 contested events;
 - Whereas the United States plans to send 232 athletes to participate in the 2026 Olympic Games, including 115 women and 117 men;
