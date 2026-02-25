@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6546
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,12 +15,14 @@ This Act may be cited as the “Merger Process Review Act”.
 
 ## § 2. Inspector general review of the handling of insured depository institution merger applications
 
-- **(a)** *Review* Not later than 1 year after the date of enactment of this Act, and every 3 years thereafter, the Inspector General of each Federal depository institution regulatory agency shall review the Federal depository institution regulatory agency’s record of timeliness and efficiency in reviewing and acting upon insured depository institution merger applications. The review shall—
+- **(a)** *Review* Not later than 1 year after the date of enactment of this Act, and every 3 years thereafter, the Inspector General of each Federal depository institution regulatory agency shall review the Federal depository institution regulatory agency’s merger review procedures, including record of timeliness and efficiency in reviewing and acting upon insured depository institution merger applications. The review shall—
   - **(1)** include an evaluation of relevant quantifiable metrics, including mean and median application processing times;
-  - **(2)** identify sources of delay that may hinder the timely consummation of proposals that meet the relevant statutory factors; and
-  - **(3)** include specific recommendations to improve the timeliness and efficiency of application processing, consistent with the Federal depository institution regulatory agency’s statutory responsibilities.
-- **(b)** *Report* Each Inspector General described under subsection (a) shall, at the conclusion of each review required under subsection (a), issue a report to Congress containing all findings and determinations made in carrying out the review.
-- **(c)** *Agency response* In response to each report issued to Congress under subsection (a), the appropriate Federal depository institution regulatory agency shall submit to Congress a written response, including a plan to implement the recommendations in the report, to the extent such implementation is appropriate.
+  - **(2)** identify sources of delay that may hinder the timely consummation of proposals that meet the relevant statutory factors;
+  - **(3)** consider the benefits and risks of utilizing different merger review approaches and procedures in compliance with the law;
+  - **(4)** include an evaluation of the impact of such merger review procedures and resulting approved mergers on safety and soundness, financial stability, competition, and the availability of financial products and services offered by insured depository institutions; and
+  - **(5)** include specific recommendations to improve the merger review process, including timeliness and efficiency of application processing, consistent with the Federal depository institution regulatory agency’s statutory responsibilities.
+- **(b)** *Report* Each Inspector General described under subsection (a) shall, at the conclusion of each review required under subsection (a), issue a report to Congress containing all findings and determinations made in carrying out the review, and publish such report online.
+- **(c)** *Agency response* In response to each report issued to Congress under subsection (a), the appropriate Federal depository institution regulatory agency shall submit to Congress and publish online a written response, including a plan to implement the recommendations in the report, to the extent such implementation is appropriate.
 - **(d)** *Definitions* In this section:
   - **(1)** *Application* The term “application” means an application, notice, or other similar request for permission submitted to a Federal depository institution regulatory agency.
   - **(2)** *Federal depository institution regulatory agency* The term “Federal depository institution regulatory agency” means the Board of Governors of the Federal Reserve System, the Comptroller of the Currency, the Federal Deposit Insurance Corporation, and the National Credit Union Administration Board.
