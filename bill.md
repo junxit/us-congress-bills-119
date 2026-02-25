@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6554
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -17,7 +17,7 @@ This Act may be cited as the “Community Bank Representation Act”.
 
 - **(a)** *Federal Reserve Act* Section 10 of the Federal Reserve Act is amended—
   - **(1)** in the first undesignated paragraph (12 U.S.C. 241), by striking “having less than $10,000,000,000 in total assets”;
-  - **(2)** in the second undesignated paragraph (12 U.S.C. 242), by inserting after “regulation of such firms.” the following: “The Chairman shall select one member of the Board with demonstrated primary experience working in or supervising community banks to develop policy recommendations for the Board regarding supervision and regulation of banking organizations supervised by the Board having less than $17,000,000,000 in total assets, and to oversee the supervision and regulation of such banking organizations.”;
+  - **(2)** in the second undesignated paragraph (12 U.S.C. 242), by inserting after “regulation of such firms.” the following: “The Chairman shall select one member of the Board with demonstrated primary experience working in or supervising community banks to, in consultation with the Vice Chairman for Supervision and any other member of the Board with demonstrated primary experience working in or supervising community banks, develop policy recommendations for the Board regarding supervision and regulation of banking organizations supervised by the Board having less than $17,000,000,000 in total assets, and to oversee the supervision and regulation of such banking organizations in consultation with the Vice Chairman for Supervision and any other member of the Board with demonstrated primary experience working in or supervising community banks.”;
   - **(3)** in paragraph (12) (12 U.S.C. 247b)—
     - **(A)** by striking “The Vice Chairman for Supervision” and inserting the following:
       > - **(A)** *Vice Chairman for Supervision* The Vice Chairman for Supervision
@@ -33,4 +33,4 @@ This Act may be cited as the “Community Bank Representation Act”.
     >     - **(ii)** the nominal gross domestic product of the United States for the covered year.
     >   - **(B)** *Determination of GDP* In this paragraph, the Board shall use nominal gross domestic product statistics determined by the Bureau of Economic Analysis.
 
-- **(b)** *Federal Financial Institutions Examination Council Act of 1978* Section 1004(a)(3) of the Federal Financial Institutions Examination Council Act of 1978 (12 U.S.C. 3303(a)(2)) is amended by adding at the end the following: “and such Governor shall consult with the Governor with demonstrated primary experience working in or supervising community banks selected by the Chairman of the Board to develop policy recommendations for the Board regarding supervision and regulation of banking organizations supervised by the Board having less than $17,000,000,000 in total assets, and to oversee the supervision and regulation of such banking organizations,”.
+- **(b)** *Federal Financial Institutions Examination Council Act of 1978* Section 1004(a)(3) of the Federal Financial Institutions Examination Council Act of 1978 (12 U.S.C. 3303(a)(3)) is amended by adding at the end the following: “and such Governor shall consult with the Governor with demonstrated primary experience working in or supervising community banks selected by the Chairman of the Board to develop policy recommendations for the Board regarding supervision and regulation of banking organizations supervised by the Board having less than $17,000,000,000 in total assets, and to oversee the supervision and regulation of such banking organizations,”.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6554
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -47,4 +47,4 @@ complete account of the bill's effect, which it is not.
 | `12 U.S.C. § 247b` | replace | by striking “The Vice Chairman for Supervision” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 247b` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 241` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 3303` | add-at-end | Section 1004(a)(3) of the Federal Financial Institutions Examination Council Act of 1978 (12 U.S.C. 3303(a)(2)) is amended by adding at the end the following: “and such Governor shall consult with the Governor with demonstrated primary e… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 3303` | add-at-end | Section 1004(a)(3) of the Federal Financial Institutions Examination Council Act of 1978 (12 U.S.C. 3303(a)(3)) is amended by adding at the end the following: “and such Governor shall consult with the Governor with demonstrated primary e… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
