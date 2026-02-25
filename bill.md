@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1078
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,4 +15,4 @@ This Act may be cited as the “Respect State Housing Laws Act”.
 
 ## § 2. Clarification
 
-Section 4024 of the CARES Act (15 U.S.C. 9058) is amended by striking subsection (c).
+The CARES Act (Public Law 116–136) is amended, in section 4024 (15 U.S.C. 9058), by striking subsection (c).

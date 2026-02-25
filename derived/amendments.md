@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1078
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `15 U.S.C. § 9058` | strike | Section 4024 of the CARES Act (15 U.S.C. 9058) is amended by striking subsection (c). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 9058` | strike | The CARES Act (Public Law 116–136) is amended, in section 4024 (15 U.S.C. 9058), by striking subsection (c). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
