@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6550
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -36,7 +36,7 @@ This Act may be cited as the “American Financial Institution Regulatory Sovere
     >     - **(IX)** a description of any amendments to Federal statutes, regulations of the Board, guidance of the Board, or changes to the Board’s supervisory practices the Board anticipates will be necessary to implement any final policies, standards, or recommendations adopted by the global financial supervisory or regulatory forum during the period covered by the report;
     >     - **(X)** a discussion of rules proposed, rules under consideration, final rules adopted, guidance proposed, guidance under consideration, final guidance adopted, or any other similar actions taken by the Board during the period covered by the report to implement agreements of the global financial regulatory or supervisory forum, including an economic impact analysis and a justification for why the expected costs of implementing actions are at least offset by the expected benefits related to economic, national security, financial stability, or other national interests; and
     >     - **(XI)** such other information relating to interactions with the global financial regulatory or supervisory forum during the period covered by the report separately requested in writing by the Committee on Banking, Housing, and Urban Affairs of the Senate or the Committee on Financial Services of the House of Representatives.
-    > - **(C)** *Global financial regulatory or supervisory forum*
+    > - **(C)** *Global financial regulatory or supervisory forum defined*
     >   - **(i)** *In general* In this paragraph, the term “global financial regulatory or supervisory forum” means any association or union of nations through or by which two or more foreign authorities engage in some aspect of their conduct of international affairs regarding financial supervision and regulation, including—
     >     - **(I)** the Bank for International Settlements;
     >     - **(II)** the Basel Committee on Banking Supervision;
@@ -66,7 +66,7 @@ This Act may be cited as the “American Financial Institution Regulatory Sovere
     >     - **(I)** a description of any amendments to Federal statutes, regulations of the Comptroller, guidance of the Comptroller, or changes to the Comptroller’s supervisory practices the Comptroller anticipates will be necessary to implement any final policies, standards, or recommendations adopted by the global financial supervisory or regulatory forum during the period covered by the report;
     >     - **(J)** a discussion of rules proposed, rules under consideration, final rules adopted, guidance proposed, guidance under consideration, final guidance adopted, or any other similar actions taken by the Comptroller during the period covered by the report to implement agreements of the global financial regulatory or supervisory forum, including an economic impact analysis and a justification for why the expected costs of implementing actions are at least offset by the expected benefits related to economic, national security, financial stability, or other national interests; and
     >     - **(K)** such other information relating to interactions with the global financial regulatory or supervisory forum during the period covered by the report separately requested in writing by the Committee on Banking, Housing, and Urban Affairs of the Senate or the Committee on Financial Services of the House of Representatives.
-    > - **(c)** *Global financial regulatory or supervisory forum*
+    > - **(c)** *Global financial regulatory or supervisory forum defined*
     >   - **(1)** *In general* In this section, the term “global financial regulatory or supervisory forum” means any association or union of nations through or by which two or more foreign authorities engage in some aspect of their conduct of international affairs regarding financial supervision and regulation, including—
     >     - **(A)** the Bank for International Settlements;
     >     - **(B)** the Basel Committee on Banking Supervision;
@@ -96,7 +96,7 @@ This Act may be cited as the “American Financial Institution Regulatory Sovere
   >     - **(ix)** a description of any amendments to Federal statutes, regulations of the Corporation, guidance of the Corporation, or changes to the Corporation’s supervisory practices the Corporation anticipates will be necessary to implement any final policies, standards, or recommendations adopted by the global financial supervisory or regulatory forum during the period covered by the report;
   >     - **(x)** a discussion of rules proposed, rules under consideration, final rules adopted, guidance proposed, guidance under consideration, final guidance adopted, or any other similar actions taken by the Corporation during the period covered by the report to implement agreements of the global financial regulatory or supervisory forum, including an economic impact analysis and a justification for why the expected costs of implementing actions are at least offset by the expected benefits related to economic, national security, financial stability, or other national interests; and
   >     - **(xi)** such other information relating to interactions with the global financial regulatory or supervisory forum during the period covered by the report separately requested in writing by the Committee on Banking, Housing, and Urban Affairs of the Senate or the Committee on Financial Services of the House of Representatives.
-  > - **(4)** *Global financial regulatory or supervisory forum*
+  > - **(4)** *Global financial regulatory or supervisory forum defined*
   >   - **(A)** *In general* In this subsection, the term “global financial regulatory or supervisory forum” means any association or union of nations through or by which two or more foreign authorities engage in some aspect of their conduct of international affairs regarding financial supervision and regulation, including—
   >     - **(i)** the Bank for International Settlements;
   >     - **(ii)** the Basel Committee on Banking Supervision;
