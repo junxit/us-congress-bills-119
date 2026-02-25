@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4626
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4626
@@ -16,9 +16,10 @@ Home Appliance Protection and Affordability Act
 
 - Rep. Allen, Rick W. [R-GA-12] (A000372)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (2)
 
@@ -55,3 +56,4 @@ Home Appliance Protection and Affordability Act
 - 2026-02-24 — Rules Committee Resolution H. Res. 1075 Reported to House. Rule provides for consideration of H.R. 4626 and H.R. 4758. The resolution provides for consideration of H.R. 4626 and H.R. 4758 under a closed rule with one motion to recommit for each bill. The resolution provides for one hour of general debate on each bill.
 - 2026-02-24 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2026-02-24 — The previous question was ordered pursuant to the rule.
+- 2026-02-25 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
