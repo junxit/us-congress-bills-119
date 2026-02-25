@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6570
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6570
@@ -16,6 +16,10 @@ Merger Agreement Approvals Clarity and Predictability Act
 
 - Rep. Fitzgerald, Scott [R-WI-5] (F000471)
 
+## Cosponsors (1)
+
+- Rep. Lawler, Michael [R-NY-17] (L000599)
+
 ## Committees (1)
 
 - House — Financial Services Committee
@@ -25,3 +29,9 @@ Merger Agreement Approvals Clarity and Predictability Act
 - 2025-12-10 — Introduced in House
 - 2025-12-10 — Introduced in House
 - 2025-12-10 — Referred to the House Committee on Financial Services.
+- 2025-12-16 — Committee Consideration and Mark-up Session Held
+- 2025-12-17 — Committee Consideration and Mark-up Session Held
+- 2025-12-17 — Ordered to be Reported (Amended) by the Yeas and Nays: 52 - 0.
+- 2026-02-25 — Placed on the Union Calendar, Calendar No. 460.
+- 2026-02-25 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-535.
+- 2026-02-25 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-535.

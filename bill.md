@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6570
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,10 +15,12 @@ This Act may be cited as the “Merger Agreement Approvals Clarity and Predictab
 
 ## § 2. GAO study on use of commitments and conditions in connection with insured depository institution merger applications
 
-- **(a)** *Study* The Comptroller General of the United States shall carry out a study on the use of commitments and conditions by Federal depository institution regulatory agencies in connection with insured depository institution merger applications. The study shall—
-  - **(1)** include an evaluation of relevant quantifiable metrics; and
-  - **(2)** review the extent to which the use of commitments and conditions has aligned with statutory requirements, including a review of whether the use of commitments and conditions has been influenced by extrastatutory issues or considerations.
-- **(b)** *Report* Not later than 6 months after the date of enactment of this Act, the Comptroller General shall issue a report to Congress containing all findings and determinations made in carrying out the study required under subsection (a).
+- **(a)** *Study* The Comptroller General of the United States shall carry out a study on the use of commitments, conditions, and other aspects of merger review procedures by Federal depository institution regulatory agencies in connection with insured depository institution merger applications. The study shall—
+  - **(1)** include an evaluation of relevant quantifiable metrics;
+  - **(2)** review the extent to which the use of commitments and conditions has aligned with statutory requirements, including a review of whether the use of commitments and conditions has been influenced by extrastatutory issues or considerations;
+  - **(3)** consider the benefits and risks of utilizing different merger review approaches and procedures in compliance with the law; and
+  - **(4)** include an evaluation of the impact of such merger review procedures and resulting approved mergers on safety and soundness, financial stability, competition, and the availability of financial products and services offered by insured depository institutions.
+- **(b)** *Report* Not later than 1 year after the date of enactment of this Act, the Comptroller General shall issue a report to Congress containing all findings and determinations made in carrying out the study required under subsection (a).
 - **(c)** *Definitions* In this section:
   - **(1)** *Application* The term “application” means an application, notice, or other similar request for permission submitted to a Federal depository institution regulatory agency.
   - **(2)** *Federal depository institution regulatory agency* The term “Federal depository institution regulatory agency” means the Board of Governors of the Federal Reserve System, the Comptroller of the Currency, the Federal Deposit Insurance Corporation, and the National Credit Union Administration Board.
