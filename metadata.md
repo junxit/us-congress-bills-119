@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6551
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6551
@@ -16,6 +16,11 @@ New BANK Act of 2025
 
 - Rep. Loudermilk, Barry [R-GA-11] (L000583)
 
+## Cosponsors (2)
+
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
+- Rep. Lawler, Michael [R-NY-17] (L000599)
+
 ## Committees (1)
 
 - House — Financial Services Committee
@@ -25,3 +30,9 @@ New BANK Act of 2025
 - 2025-12-10 — Introduced in House
 - 2025-12-10 — Introduced in House
 - 2025-12-10 — Referred to the House Committee on Financial Services.
+- 2025-12-16 — Committee Consideration and Mark-up Session Held
+- 2025-12-17 — Committee Consideration and Mark-up Session Held
+- 2025-12-17 — Ordered to be Reported (Amended) by the Yeas and Nays: 53 - 0.
+- 2026-02-25 — Placed on the Union Calendar, Calendar No. 455.
+- 2026-02-25 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-530.
+- 2026-02-25 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-530.
