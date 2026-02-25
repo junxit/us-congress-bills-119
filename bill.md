@@ -1,0 +1,18 @@
+---
+legis-num: H.R. 7703
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7703
+
+> To amend title 18, United States Code, to provide that the prohibition on the possession of firearms and ammunition by certain aliens shall apply with respect to the use of firearms and ammunition by government entities.
+
+## § 1. Short title
+
+This Act may be cited as the “Stop Illegal Alien Cops Act”.
+
+## § 2. Use of firearms and ammunition by government entities
+
+Section 925(a)(1) of title 18, United States Code, is amended by striking “sections 922(d)(9) and 922(g)(9)” and inserting “subsections (d)(5), (d)(9), (g)(5), and (g)(9) of section 922”.
