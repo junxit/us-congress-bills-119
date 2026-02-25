@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6553
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This act may be cited as the “Tailoring and Indexing Enhanced Regulations Act of 2025” or the “TIER Act of 2025”.
+This Act may be cited as the “Tailoring and Indexing Enhanced Regulations Act of 2025” or the “TIER Act of 2025”.
 
 ## § 2. Threshold adjustments to account for historical increases in current-dollar united states gross domestic product
 
