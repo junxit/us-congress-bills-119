@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6544
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -35,21 +35,12 @@ to guess them.
 
 ### 12 U.S.C. § 3311
 
-> by striking “appropriate Federal banking agencies” each place such term appears and inserting “Federal financial institutions regulatory agencies”;
-
-| | |
-|---|---|
-| Removed | `appropriate Federal banking agencies` |
-| Inserted | `Federal financial institutions regulatory agencies` |
-
-### 12 U.S.C. § 3311
-
-> by striking “once every 10 years” and inserting “once every 5 years”;
+> by striking “once every 10 years” and inserting “once every 7 years”;
 
 | | |
 |---|---|
 | Removed | `once every 10 years` |
-| Inserted | `once every 5 years` |
+| Inserted | `once every 7 years` |
 
 ### 12 U.S.C. § 3311
 
@@ -62,12 +53,21 @@ to guess them.
 
 ### 12 U.S.C. § 3311
 
-> by striking “once every 10 years” and inserting “once every 5 years”;
+> by striking “once every 10 years” and inserting “once every 7 years”;
 
 | | |
 |---|---|
 | Removed | `once every 10 years` |
-| Inserted | `once every 5 years` |
+| Inserted | `once every 7 years` |
+
+### 12 U.S.C. § 3311
+
+> by striking “appropriate Federal banking agencies” and inserting “Federal financial institutions regulatory agencies”; and
+
+| | |
+|---|---|
+| Removed | `appropriate Federal banking agencies` |
+| Inserted | `Federal financial institutions regulatory agencies` |
 
 ### 12 U.S.C. § 3311
 
@@ -91,7 +91,7 @@ complete account of the bill's effect, which it is not.
 | `12 U.S.C. § 3311` | redesignate | by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively (and adjusting the margins accordingly); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 3311` | replace | by striking “In conducting” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 3311` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 3311` | strike | in paragraph (1), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `12 U.S.C. § 3311` | strike | by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 3311` | redesignate | by redesignating paragraph (2) as paragraph (3); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 3311` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 3302` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
