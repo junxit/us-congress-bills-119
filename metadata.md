@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4130
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4130
@@ -16,6 +16,10 @@ Small Business Relief Act
 
 - Rep. Garbarino, Andrew R. [R-NY-2] (G000597)
 
+## Cosponsors (1)
+
+- Rep. Sessions, Pete [R-TX-17] (S000250)
+
 ## Committees (1)
 
 - House — Financial Services Committee
@@ -25,3 +29,9 @@ Small Business Relief Act
 - 2025-06-25 — Introduced in House
 - 2025-06-25 — Introduced in House
 - 2025-06-25 — Referred to the House Committee on Financial Services.
+- 2025-12-16 — Committee Consideration and Mark-up Session Held
+- 2025-12-17 — Committee Consideration and Mark-up Session Held
+- 2025-12-17 — Ordered to be Reported (Amended) by the Yeas and Nays: 28 - 24.
+- 2026-02-25 — Placed on the Union Calendar, Calendar No. 450.
+- 2026-02-25 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-525.
+- 2026-02-25 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-525.
