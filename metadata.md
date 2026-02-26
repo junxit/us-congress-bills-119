@@ -1,7 +1,7 @@
 ---
 measure: S. 1070
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1070
@@ -32,3 +32,5 @@ National STEM Week Act
 - 2026-02-12 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-110.
 - 2026-02-12 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-110.
 - 2026-02-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 339.
+- 2026-02-26 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S716; text of amendment in the nature of a substitute: CR S716)
+- 2026-02-26 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
