@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6719
 congress: 119
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 6719
@@ -40,3 +40,7 @@ James T. Woods Act
 - 2026-01-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H628)
 - 2026-01-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H628)
 - 2026-01-13 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2026-02-26 — Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2026-03-02 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
+- 2026-03-02 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
+- 2026-03-02 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 346.
