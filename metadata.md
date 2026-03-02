@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5729
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5729
@@ -16,13 +16,15 @@ North Rim Restoration Act
 
 - Rep. Crane, Elijah [R-AZ-2] (C001132)
 
-## Cosponsors (5)
+## Cosponsors (7)
 
 - Rep. Gosar, Paul A. [R-AZ-9] (G000565)
 - Rep. Maloy, Celeste [R-UT-2] (M001228)
 - Rep. Biggs, Andy [R-AZ-5] (B001302)
 - Rep. LaMalfa, Doug [R-CA-1] (L000578)
 - Rep. Tiffany, Thomas P. [R-WI-7] (T000165)
+- Rep. Hamadeh, Abraham J. [R-AZ-8] (H001098)
+- Rep. Ciscomani, Juan [R-AZ-6] (C001133)
 
 ## Committees (1)
 
@@ -33,3 +35,11 @@ North Rim Restoration Act
 - 2025-10-10 — Introduced in House
 - 2025-10-10 — Introduced in House
 - 2025-10-10 — Referred to the House Committee on Natural Resources.
+- 2025-12-04 — Referred to the Subcommittee on Federal Lands.
+- 2025-12-11 — Subcommittee Hearings Held
+- 2026-01-22 — Committee Consideration and Mark-up Session Held
+- 2026-01-22 — Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.
+- 2026-01-22 — Subcommittee on Federal Lands Discharged
+- 2026-03-02 — Placed on the Union Calendar, Calendar No. 462.
+- 2026-03-02 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-537.
+- 2026-03-02 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-537.
