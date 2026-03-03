@@ -23,6 +23,6 @@ Section 805(a)(7) of the Federal Lands Recreation Enhancement Act (16 U.S.C. 680
 - **(2)** by adding at the end the following:
   > - **(B)** *Vehicles* For purposes of this paragraph, where a National Parks and Federal Recreational Lands Pass is used for access to Federal recreational lands and waters on a per-vehicle fee basis, such Pass shall cover the entrance fee and standard amenity recreation fee—
   >   - **(i)** for the passholder and any passengers accompanying the passholder in a single private, noncommercial vehicle; or
-  >   - **(ii)** if the passholder is entering by motorcyle—
-  >     - **(I)** the passholder and any passengers on the motorcyle; and
+  >   - **(ii)** if the passholder is entering by motorcycle—
+  >     - **(I)** the passholder and any passengers on the motorcycle; and
   >     - **(II)** one additional motorcycle, including passengers, accompanying the passholder.
