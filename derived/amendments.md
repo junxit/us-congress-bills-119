@@ -1,0 +1,143 @@
+---
+measure: H.R. 7774
+congress: 119
+version: Introduced in House
+derived: true
+---
+
+# What H.R. 7774 would do to existing law
+
+> **Derived, unofficial, and not law.** This file is generated from the
+> bill's own amendatory instructions. It is not published by any
+> government body, it has not been reviewed, and it is wrong wherever
+> the instruction was more subtle than the reading of it. Nothing here
+> should be relied on; read `bill.md` beside it, and the US Code for the
+> text being amended.
+
+28 amendatory instructions. 10 executed, 18 stated and not applied.
+
+An instruction is executed here only when the bill states **both** the
+text removed and the text inserted, so the result follows from this
+document alone. Where a bill says *strike subsection (k)*, the words it
+removes are in the US Code and not in the bill, and no attempt is made
+to guess them.
+
+## Executed
+
+### 23 U.S.C. § 147
+
+> Section 5336(h)(1) of title 49, United States Code, is amended by striking “$30,000,000” and inserting “$100,000,000”.
+
+| | |
+|---|---|
+| Removed | `$30,000,000` |
+| Inserted | `$100,000,000` |
+
+### 23 U.S.C. § 147
+
+> by striking “a pilot program to provide grants” and inserting “a grant program under which the Secretary may issues grants to a covered entity”;
+
+| | |
+|---|---|
+| Removed | `a pilot program to provide grants` |
+| Inserted | `a grant program under which the Secretary may issues grants to a covered entity` |
+
+### 23 U.S.C. § 147
+
+> by striking “of or” and inserting “of, or”; and
+
+| | |
+|---|---|
+| Removed | `of or` |
+| Inserted | `of, or` |
+
+### 23 U.S.C. § 147
+
+> by striking “from existing” and inserting “from, existing”;
+
+| | |
+|---|---|
+| Removed | `from existing` |
+| Inserted | `from, existing` |
+
+### 23 U.S.C. § 147
+
+> by striking “pilot program” and inserting “grant program”;
+
+| | |
+|---|---|
+| Removed | `pilot program` |
+| Inserted | `grant program` |
+
+### 23 U.S.C. § 147
+
+> by striking “ensure that” and inserting “ensure that, to the extent practicable”;
+
+| | |
+|---|---|
+| Removed | `ensure that` |
+| Inserted | `ensure that, to the extent practicable` |
+
+### 23 U.S.C. § 147
+
+> in subsection (d) by striking “$50,000,000” and all that follows through the period at the end and inserting “$140,000,000 for each of fiscal years 2027 through 2031.”.
+
+| | |
+|---|---|
+| Removed | `$50,000,000` |
+| Inserted | `$140,000,000 for each of fiscal years 2027 through 2031.` |
+
+### 23 U.S.C. § 147
+
+> in subsection (b) by striking “establish a program to” and all that follows through the period at the end and inserting “maintain a program under which the Secretary may provide competitive grants to States for the provision of a basic essential ferry service in rural areas.”;
+
+| | |
+|---|---|
+| Removed | `establish a program to` |
+| Inserted | `maintain a program under which the Secretary may provide competitive grants to States for the provision of a basic essential ferry service in rural areas.` |
+
+### 23 U.S.C. § 147
+
+> in subsection (e) by striking “under section 5336 or 5337 of title 49, United States Code,” and inserting “under section 5336 (other than subsection (h)(1) of such section) or 5337”;
+
+| | |
+|---|---|
+| Removed | `under section 5336 or 5337 of title 49, United States Code,` |
+| Inserted | `under section 5336 (other than subsection (h)(1) of such section) or 5337` |
+
+### 23 U.S.C. § 147
+
+> by striking “$200,000,000” and all that follows through the period at the end and inserting “$300,000,000 for each fiscal years 2027 through 2031, of which $100,000,000 shall be derived from the Highway Trust Fund (other than the Mass Transit Account).”;
+
+| | |
+|---|---|
+| Removed | `$200,000,000` |
+| Inserted | `$300,000,000 for each fiscal years 2027 through 2031, of which $100,000,000 shall be derived from the Highway Trust Fund (other than the Mass Transit Account).` |
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| `23 U.S.C. § 147` | replace | Section 147(h) of title 23, United States Code, is amended by striking paragraphs (1) through (5) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `23 U.S.C. § 147` | add-at-end | Section 5307(h) of title 49, United States Code, is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `23 U.S.C. § 147` | replace | by striking the section heading and inserting “Ferry fleet modernization and shipyard job creation grant program”; | the bill quotes the text inserted but describes where it goes |
+| `23 U.S.C. § 147` | strike | by striking paragraph (3); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `23 U.S.C. § 147` | redesignate | by redesignating paragraph (2) as paragraph (3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `23 U.S.C. § 147` | insert | by inserting after paragraph (1) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `23 U.S.C. § 147` | strike | in paragraph (1), by striking “shall”; and | the bill quotes the text struck but describes what replaces it |
+| `23 U.S.C. § 147` | strike | in paragraph (2), by striking “shall”; and | the bill quotes the text struck but describes what replaces it |
+| `49 U.S.C. § 5312` | insert | The analysis for chapter 53 of title 49, United States Code, is amended by inserting after the item relating to section 5312 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `23 U.S.C. § 147` | replace | by striking the period at the end and inserting “; or”; | the bill quotes the text inserted but describes where it goes |
+| `23 U.S.C. § 147` | replace | by striking “served not” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `23 U.S.C. § 147` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `23 U.S.C. § 147` | strike | by striking paragraph (4); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `23 U.S.C. § 147` | replace | by striking the subsection heading and inserting “Authorization of appropriations”; and | the bill quotes the text inserted but describes where it goes |
+| `23 U.S.C. § 147` | redesignate | by redesignating subsections (f) and (g) as subsections (g) and (h), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `23 U.S.C. § 147` | insert | by inserting after subsection (e) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 5307` | insert | Chapter 53 of title 49, United States Code, is amended by inserting after section 5307 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `49 U.S.C. § 5307` | insert | The analysis for chapter 53 of title 49, United States Code, is amended by inserting after the item relating to section 5307 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
