@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6392
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6392
@@ -42,3 +42,9 @@ Home School Graduation Recognition Act
 - 2026-02-10 — Placed on the Union Calendar, Calendar No. 419.
 - 2026-02-10 — Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-492.
 - 2026-02-10 — Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-492.
+- 2026-03-03 — Considered under suspension of the rules. (consideration: CR H2364-2366)
+- 2026-03-03 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6392.
+- 2026-03-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-03-03 — Mr. Walberg moved to suspend the rules and pass the bill, as amended.
+- 2026-03-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2364-2365)
+- 2026-03-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2364-2365)
