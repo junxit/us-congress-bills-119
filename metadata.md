@@ -1,7 +1,7 @@
 ---
 measure: H.R. 755
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 755
@@ -46,3 +46,10 @@ Critical Mineral Consistency Act of 2025
 - 2026-02-24 — Placed on the Union Calendar, Calendar No. 444.
 - 2026-02-24 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-519.
 - 2026-02-24 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-519.
+- 2026-03-03 — Considered under suspension of the rules. (consideration: CR H2353-2356)
+- 2026-03-03 — DEBATE - The House proceeded with forty minutes of debate on H.R. 755.
+- 2026-03-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-03-03 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
+- 2026-03-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2353-2354)
+- 2026-03-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2353-2354)
+- 2026-03-03 — The title of the measure was amended. Agreed to without objection.

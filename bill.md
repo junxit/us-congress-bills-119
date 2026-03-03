@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 755
 
-> To amend the Energy Act of 2020 to include critical materials in the definition of critical mineral, and for other purposes.
+> To amend the Energy Act of 2020 to harmonize the lists of critical minerals and critical materials, and for other purposes.
 
 ## § 1. Short title
 
