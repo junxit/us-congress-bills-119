@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1945
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1945
@@ -39,3 +39,9 @@ America's National Churchill Museum National Historic Landmark Act
 - 2026-02-24 — Placed on the Union Calendar, Calendar No. 442.
 - 2026-02-24 — Reported by the Committee on Natural Resources. H. Rept. 119-517.
 - 2026-02-24 — Reported by the Committee on Natural Resources. H. Rept. 119-517.
+- 2026-03-03 — Considered under suspension of the rules. (consideration: CR H2356-2357)
+- 2026-03-03 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1945.
+- 2026-03-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-03-03 — Mr. Westerman moved to suspend the rules and pass the bill.
+- 2026-03-03 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2356)
+- 2026-03-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2356)
