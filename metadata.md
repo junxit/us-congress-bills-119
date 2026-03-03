@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2844
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2844
@@ -29,3 +29,8 @@ Michael Enzi Voluntary Protection Program Act of 2025
 - 2025-04-10 — Introduced in House
 - 2025-04-10 — Introduced in House
 - 2025-04-10 — Referred to the House Committee on Education and Workforce.
+- 2025-09-17 — Committee Consideration and Mark-up Session Held
+- 2025-09-17 — Ordered to be Reported (Amended) by the Yeas and Nays: 19 - 16.
+- 2026-03-03 — Placed on the Union Calendar, Calendar No. 463.
+- 2026-03-03 — Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-538.
+- 2026-03-03 — Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-538.
