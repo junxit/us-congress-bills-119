@@ -1,0 +1,32 @@
+---
+measure: H.R. 7761
+congress: 119
+version: Introduced in House
+---
+
+# H.R. 7761
+
+Heirs Education and Investment to Resolve Succession of Property Act
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Bishop, Sanford D. [D-GA-2] (B000490)
+
+## Cosponsors (2)
+
+- Rep. Scott, Austin [R-GA-8] (S001189)
+- Rep. Davis, Donald G. [D-NC-1] (D000230)
+
+## Committees (1)
+
+- House — Agriculture Committee
+
+## Actions
+
+- 2026-03-03 — Introduced in House
+- 2026-03-03 — Introduced in House
+- 2026-03-03 — Referred to the House Committee on Agriculture.
