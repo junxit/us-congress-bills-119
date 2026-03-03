@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 5419
 
-> To direct the Secretary of the Interior and the Secretary of Agriculture to develop a plan for ensuring timely review of communications use authorizations, and for other purposes.
+> To direct the Secretary of the Interior and the Secretary of Agriculture to develop a plan for ensuring timely review of broadband land use authorizations, and for other purposes.
 
 ## § 1. Short title
 

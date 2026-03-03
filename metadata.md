@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5419
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5419
@@ -37,3 +37,10 @@ Enhancing Administrative Reviews for Broadband Deployment Act
 - 2026-02-24 — Placed on the Union Calendar, Calendar No. 441.
 - 2026-02-24 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-516, Part I.
 - 2026-02-24 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-516, Part I.
+- 2026-03-03 — Considered under suspension of the rules. (consideration: CR H2352-2353)
+- 2026-03-03 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5419.
+- 2026-03-03 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-03-03 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
+- 2026-03-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2352)
+- 2026-03-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2352)
+- 2026-03-03 — The title of the measure was amended. Agreed to without objection.
