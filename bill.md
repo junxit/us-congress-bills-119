@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2299
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -17,7 +17,7 @@ This Act may be cited as the “Ensuring Workers Get PAID Act of 2025”.
 
 Congress finds the following:
 
-- **(1)** In 2018, the Department of Labor launched the nationwide Payroll Audit Independent Determination pilot program (referred to in this section as “PAID pilot program”).
+- **(1)** In 2018, the Department of Labor launched the nationwide Payroll Audit Independent Determination pilot program (referred to in this section as the “PAID pilot program”).
 - **(2)** The Secretary of Labor, acting through the Administrator of the Wage and Hour Division, established the PAID pilot program to complement enforcement and compliance assistance tools undertaken by the Wage and Hour Division of the Department of Labor.
 - **(3)** The Secretary has a longstanding practice of providing self-audit and office audit programs, as noted by Secretary Marty Walsh in a response for the record following a hearing before the Committee on Education and Labor of the House of Representatives on June 9, 2021.
 - **(4)** The Wage and Hour Division, through the PAID pilot program, worked with employers on a voluntary basis to remedy unintentional violations of the Fair Labor Standards Act of 1938 (29 U.S.C. 201 et seq.), which is the Federal statute establishing minimum wage, overtime pay, recordkeeping, and youth-employment requirements affecting employees in the private sector and in Federal, State, and local governments.
