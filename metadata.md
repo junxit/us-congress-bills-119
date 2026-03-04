@@ -1,7 +1,7 @@
 ---
 measure: S. 2314
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2314
@@ -28,3 +28,7 @@ SHARKED Act of 2025
 
 - 2025-07-16 — Introduced in Senate
 - 2025-07-16 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2025-07-30 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2026-03-04 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-114.
+- 2026-03-04 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-114.
+- 2026-03-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 349.
