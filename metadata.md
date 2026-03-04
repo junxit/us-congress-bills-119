@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4386
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4386
@@ -20,10 +20,11 @@ America the Beautiful Motorcycle Fairness Act
 
 - Rep. Webster, Daniel [R-FL-11] (W000806)
 
-## Committees (2)
+## Committees (3)
 
 - House — Agriculture Committee
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ America the Beautiful Motorcycle Fairness Act
 - 2026-03-03 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
 - 2026-03-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2362)
 - 2026-03-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2362)
+- 2026-03-04 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
