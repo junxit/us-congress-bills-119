@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5910
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5910
@@ -23,9 +23,10 @@ To authorize leases of up to 99 years for land held in trust for federally recog
 - Rep. LaMalfa, Doug [R-CA-1] (L000578)
 - Rep. Ansari, Yassamin [D-AZ-3] (A000381)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ To authorize leases of up to 99 years for land held in trust for federally recog
 - 2026-03-03 — Mr. Westerman moved to suspend the rules and pass the bill.
 - 2026-03-03 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2348)
 - 2026-03-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2348)
+- 2026-03-04 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
