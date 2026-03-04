@@ -1,7 +1,7 @@
 ---
 measure: H.R. 681
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 681
@@ -16,9 +16,10 @@ To amend the Act of August 9, 1955 (commonly known as the “Long-Term Leasing A
 
 - Rep. Keating, William R. [D-MA-9] (K000375)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ To amend the Act of August 9, 1955 (commonly known as the “Long-Term Leasing A
 - 2026-03-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2358)
 - 2026-03-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2358)
 - 2026-03-03 — The title of the measure was amended. Agreed to without objection.
+- 2026-03-04 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
