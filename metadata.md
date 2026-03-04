@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4307
 congress: 119
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4307
@@ -43,3 +43,5 @@ Enhancing Detection of Human Trafficking Act
 - 2026-03-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2363)
 - 2026-03-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2363)
 - 2026-03-04 — Received in the Senate, read twice.
+- 2026-09-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5299)
+- 2026-09-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
