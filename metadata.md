@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5419
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5419
@@ -16,10 +16,11 @@ Enhancing Administrative Reviews for Broadband Deployment Act
 
 - Rep. Kean, Thomas H. [R-NJ-7] (K000398)
 
-## Committees (2)
+## Committees (3)
 
 - House — Agriculture Committee
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Enhancing Administrative Reviews for Broadband Deployment Act
 - 2026-03-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2352)
 - 2026-03-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2352)
 - 2026-03-03 — The title of the measure was amended. Agreed to without objection.
+- 2026-03-04 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
