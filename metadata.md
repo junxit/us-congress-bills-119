@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6365
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6365
@@ -26,9 +26,10 @@ Wintergreen Emergency Egress Act
 - Rep. Walkinshaw, James R. [D-VA-11] (W000831)
 - Rep. Kiggans, Jennifer A. [R-VA-2] (K000399)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ Wintergreen Emergency Egress Act
 - 2026-03-03 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
 - 2026-03-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2347)
 - 2026-03-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2347)
+- 2026-03-04 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
