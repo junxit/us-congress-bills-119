@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6472
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6472
@@ -28,6 +28,10 @@ Territorial Student Access to Higher Education Act
 
 - House — Education and Workforce Committee
 
+## Recorded votes (1)
+
+- 2026-03-04 — [House 119-2-82](votes/house-119-2-0082.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (351–72)
+
 ## Actions
 
 - 2025-12-04 — Introduced in House
@@ -38,3 +42,11 @@ Territorial Student Access to Higher Education Act
 - 2026-02-11 — Placed on the Union Calendar, Calendar No. 421.
 - 2026-02-11 — Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-495.
 - 2026-02-11 — Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-495.
+- 2026-03-03 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2026-03-03 — Considered under suspension of the rules. (consideration: CR H2366-2367; text: CR H2366)
+- 2026-03-03 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6472.
+- 2026-03-03 — Mr. Walberg moved to suspend the rules and pass the bill, as amended.
+- 2026-03-04 — Considered as unfinished business. (consideration: CR H2390-2391)
+- 2026-03-04 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-03-04 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 351 - 72 (Roll no. 82).
+- 2026-03-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 351 - 72 (Roll no. 82).
