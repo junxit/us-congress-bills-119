@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 7788
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7788
+
+> To authorize the Chesapeake Bay Program Office to serve as a member of certain State watershed programs, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Maryland Whole Watershed Program Federal Partnership Act”.
+
+## § 2. Chesapeake Bay Program Office authority
+
+- **(a)** *In general* The Chesapeake Bay Program Office shall serve as an advisory member of the State Management Team for the Maryland Whole Watershed Program and any other substantially similar program in a State.
+- **(b)** *Authorized activities* In carrying out subsection (a), the Chesapeake Bay Program Office is authorized to—
+  - **(1)** coordinate with State and local governments and Federal agencies; and
+  - **(2)** provide technical assistance and financial resources for projects carried out in the Chesapeake Bay watershed.
+- **(c)** *Chesapeake Bay Program Office defined* In this section, the term “Chesapeake Bay Program Office” means the office established and maintained pursuant to section 117(b) of the Federal Water Pollution Control Act (33 U.S.C. 1267(b)).
