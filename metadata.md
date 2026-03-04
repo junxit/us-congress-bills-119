@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1945
 congress: 119
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 1945
@@ -45,3 +45,4 @@ America's National Churchill Museum National Historic Landmark Act
 - 2026-03-03 — Mr. Westerman moved to suspend the rules and pass the bill.
 - 2026-03-03 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2356)
 - 2026-03-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2356)
+- 2026-03-04 — Received in the Senate, read twice.
