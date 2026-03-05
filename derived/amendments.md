@@ -1,7 +1,7 @@
 ---
 measure: S. 2074
 congress: 119
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 

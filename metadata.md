@@ -1,7 +1,7 @@
 ---
 measure: S. 2074
 congress: 119
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 2074
@@ -30,3 +30,7 @@ Servicemembers’ Credit Monitoring Enhancement Act
 
 - 2025-06-12 — Introduced in Senate
 - 2025-06-12 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2026-03-05 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S877-878; text: CR S877-878)
+- 2026-03-05 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2026-03-05 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
+- 2026-03-05 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent.
