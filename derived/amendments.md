@@ -1,7 +1,7 @@
 ---
 measure: S. 836
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -62,7 +62,7 @@ to guess them.
 
 ### 15 U.S.C. § 6502
 
-> in the header, by striking “parent” and inserting“parent or teen”“parent or teen”;
+> in the header, by striking “parent” and inserting “parent or teen”;
 
 | | |
 |---|---|

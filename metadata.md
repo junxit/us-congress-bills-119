@@ -1,7 +1,7 @@
 ---
 measure: S. 836
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 836
@@ -52,3 +52,5 @@ Children and Teens’ Online Privacy Protection Act
 - 2026-01-27 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with amendments. With written report No. 119-99.
 - 2026-01-27 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with amendments. With written report No. 119-99.
 - 2026-01-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 304.
+- 2026-03-05 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S860-869; text: CR S861-868)
+- 2026-03-05 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.
