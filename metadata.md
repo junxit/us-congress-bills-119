@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1099
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1099
@@ -25,6 +25,10 @@ Reaffirming Iran remains the largest state sponsor of terrorism.
 
 - House — Foreign Affairs Committee
 
+## Recorded votes (1)
+
+- 2026-03-05 — [House 119-2-84](votes/house-119-2-0084.md) — On Motion to Suspend the Rules and Agree — **Passed** (372–53)
+
 ## Actions
 
 - 2026-03-04 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
@@ -34,3 +38,7 @@ Reaffirming Iran remains the largest state sponsor of terrorism.
 - 2026-03-04 — Referred to the House Committee on Foreign Affairs.
 - 2026-03-04 — Submitted in House
 - 2026-03-04 — Submitted in House
+- 2026-03-05 — Considered as unfinished business. (consideration: CR H2448-2449)
+- 2026-03-05 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-03-05 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 372 - 53, 2 Present (Roll no. 84).
+- 2026-03-05 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 372 - 53, 2 Present (Roll no. 84).
