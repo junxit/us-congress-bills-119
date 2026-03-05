@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 7829
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7829
+
+> To prohibit the Secretary of Homeland Security from carrying out any policy that imposes an arbitrary monetary threshold on the obligation or disbursement of disaster relief funds, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Disaster Aid Without Delay Act of 2026”.
+
+## § 2. Prohibition on certain actions with respect to disaster relief funds
+
+- **(a)** *In general* The Secretary of Homeland Security may not issue, implement, enforce, or carry out any policy, directive, guidance, or practice that imposes an arbitrary monetary threshold on the obligation or disbursement of funds made available to the Federal Emergency Management Agency for major disaster or emergency assistance provided pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.).
+- **(b)** *Monetary threshold defined* In this section, the term “monetary threshold” means any fixed dollar amount requirement that conditions, delays, or requires additional approval for the obligation or disbursement of funds.
