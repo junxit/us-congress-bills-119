@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6472
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6472
@@ -24,9 +24,10 @@ Territorial Student Access to Higher Education Act
 - Del. Plaskett, Stacey E. [D-VI-At Large] (P000610)
 - Rep. Carbajal, Salud O. [D-CA-24] (C001112)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -50,3 +51,4 @@ Territorial Student Access to Higher Education Act
 - 2026-03-04 — Motion to reconsider laid on the table Agreed to without objection.
 - 2026-03-04 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 351 - 72 (Roll no. 82).
 - 2026-03-04 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 351 - 72 (Roll no. 82).
+- 2026-03-09 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
