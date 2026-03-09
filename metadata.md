@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 629
 congress: 119
-version: Agreed to Senate
+version: Introduced in Senate
 ---
 
 # S.Res. 629
