@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7744
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7744
@@ -16,10 +16,11 @@ Department of Homeland Security Appropriations Act, 2026
 
 - Rep. Cole, Tom [R-OK-4] (C001053)
 
-## Committees (2)
+## Committees (3)
 
 - House — Appropriations Committee
 - House — Budget Committee
+- Senate — Appropriations Committee
 
 ## Recorded votes (2)
 
@@ -47,3 +48,4 @@ Department of Homeland Security Appropriations Act, 2026
 - 2026-03-05 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 7744.
 - 2026-03-05 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2026-03-05 — The previous question was ordered pursuant to the rule.
+- 2026-03-09 — Received in the Senate and Read twice and referred to the Committee on Appropriations.
