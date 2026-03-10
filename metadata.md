@@ -1,7 +1,7 @@
 ---
 measure: S. 327
 congress: 119
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 327
@@ -28,3 +28,7 @@ HONOR Act
 
 - 2025-01-30 — Introduced in Senate
 - 2025-01-30 — Read twice and referred to the Committee on Finance.
+- 2026-03-10 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S953; text: CR S953)
+- 2026-03-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2026-03-10 — Senate Committee on Finance discharged by Unanimous Consent.
+- 2026-03-10 — Senate Committee on Finance discharged by Unanimous Consent.
