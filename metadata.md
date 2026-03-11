@@ -1,7 +1,7 @@
 ---
 measure: S. 1552
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1552
@@ -16,7 +16,7 @@ Living Donor Protection Act of 2025
 
 - Sen. Cotton, Tom [R-AR] (C001095)
 
-## Cosponsors (21)
+## Cosponsors (45)
 
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
 - Sen. Hyde-Smith, Cindy [R-MS] (H001079)
@@ -39,6 +39,30 @@ Living Donor Protection Act of 2025
 - Sen. Kelly, Mark [D-AZ] (K000377)
 - Sen. Rosen, Jacky [D-NV] (R000608)
 - Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Gallego, Ruben [D-AZ] (G000574)
+- Sen. Justice, James C. [R-WV] (J000312)
+- Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Collins, Susan M. [R-ME] (C001035)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Kennedy, John [R-LA] (K000393)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Sheehy, Tim [R-MT] (S001232)
+- Sen. Slotkin, Elissa [D-MI] (S001208)
+- Sen. Marshall, Roger [R-KS] (M001198)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Tuberville, Tommy [R-AL] (T000278)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Banks, Jim [R-IN] (B001299)
+- Sen. Padilla, Alex [D-CA] (P000145)
 
 ## Committees (1)
 
@@ -48,3 +72,7 @@ Living Donor Protection Act of 2025
 
 - 2025-05-01 — Introduced in Senate
 - 2025-05-01 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2026-02-26 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2026-03-11 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy with an amendment in the nature of a substitute. Without written report.
+- 2026-03-11 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy with an amendment in the nature of a substitute. Without written report.
+- 2026-03-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 352.

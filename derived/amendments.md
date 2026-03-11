@@ -1,7 +1,7 @@
 ---
 measure: S. 1552
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,4 +33,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `29 U.S.C. § 2611` | insert | Section 101(11) of the Family and Medical Leave Act of 1993 (29 U.S.C. 2611(11)) is amended, in the matter preceding subparagraph (A), by inserting “(including recovery from surgery related to organ donation)” after “physical or mental c… | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 2611` | insert | Section 6381(5) of title 5, United States Code, is amended, in the matter preceding subparagraph (A), by inserting “(including recovery from surgery related to organ donation)” after “physical or mental condition”. | the bill quotes the text inserted but describes where it goes |
+| `29 U.S.C. § 2611` | add-at-end | Section 6382(d)(1) of title 5, United States Code, is amended by adding at the end the following: “An employee who takes any part of the 12-week period of leave under subsection (a)(1) to serve as an organ donor (including recovery from … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 2611` | insert | Section 101(11) of the Family and Medical Leave Act of 1993 (29 U.S.C. 2611(11)) is amended, in the matter preceding subparagraph (A), by inserting “(including organ donation, preparation for and recovery from surgery related to organ do… | the bill quotes the text inserted but describes where it goes |
+| `29 U.S.C. § 2611` | insert | Section 6381(5) of title 5, United States Code, is amended, in the matter preceding subparagraph (A), by inserting “(including organ donation, preparation for and recovery from surgery related to organ donation, and other activities rela… | the bill quotes the text inserted but describes where it goes |
 | `29 U.S.C. § 2611` | add-at-end | Section 6382(d)(1) of title 5, United States Code, is amended by adding at the end the following: “An employee who takes any part of the 12-week period of leave under subsection (a)(1) to serve as an organ donor (including recovery from … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
