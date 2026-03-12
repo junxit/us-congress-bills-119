@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2709
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2709
@@ -16,7 +16,7 @@ Save Our Sequoias Act
 
 - Rep. Fong, Vince [R-CA-20] (F000480)
 
-## Cosponsors (27)
+## Cosponsors (29)
 
 - Rep. Peters, Scott H. [D-CA-50] (P000608)
 - Rep. Costa, Jim [D-CA-21] (C001059)
@@ -45,6 +45,8 @@ Save Our Sequoias Act
 - Rep. Fulcher, Russ [R-ID-1] (F000469)
 - Rep. Moore, Blake D. [R-UT-1] (M001213)
 - Rep. Lee, Susie [D-NV-3] (L000590)
+- Rep. Fleischmann, Charles J. "Chuck" [R-TN-3] (F000459)
+- Rep. Gray, Adam [D-CA-13] (G000605)
 
 ## Committees (2)
 
@@ -57,3 +59,11 @@ Save Our Sequoias Act
 - 2025-04-08 — Introduced in House
 - 2025-04-08 — Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2025-04-08 — Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2025-04-18 — Referred to the Subcommittee on Forestry and Horticulture.
+- 2026-03-05 — Committee Consideration and Mark-up Session Held
+- 2026-03-05 — Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.
+- 2026-03-12 — Committee on Agriculture discharged.
+- 2026-03-12 — Committee on Agriculture discharged.
+- 2026-03-12 — Placed on the Union Calendar, Calendar No. 466.
+- 2026-03-12 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-542, Part I.
+- 2026-03-12 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-542, Part I.

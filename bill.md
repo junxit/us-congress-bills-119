@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2709
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -12,35 +12,37 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## § 1. Short title; table of contents
 
 - **(a)** *Short title* This Act may be cited as the “Save Our Sequoias Act”.
-- **(b)** *Table of contents*
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
 
 ## § 2. Definitions
 
 In this Act:
 
-- **(1)** *Assessment* The term “Assessment” means the Giant Sequoia Health and Resiliency Assessment required by section 5.
-- **(2)** *Coalition* The term “Coalition” means the Giant Sequoia Lands Coalition codified under section 4(a).
-- **(3)** *Collaborative process* The term “collaborative process” means a process relating to the management of covered National Forest system lands or covered public lands by which a project or forest management activity is developed and implemented by the Secretary concerned through collaboration with multiple interested persons representing diverse interests.
-- **(4)** *Covered national forest system lands* The term “covered National Forest System lands” means the proclaimed National Forest System lands reserved or withdrawn from the public domain of the United States covering the Sequoia National Forest and Giant Sequoia National Monument, Sierra National Forest, and Tahoe National Forest.
-- **(5)** *Covered public lands* The term “covered public lands” means—
+- **(1)** *Assessment* The term Assessment means the Giant Sequoia Health and Resiliency Assessment required by section 5.
+- **(2)** *Coalition* The term Coalition means the Giant Sequoia Lands Coalition codified under section 4(a).
+- **(3)** *Collaborative process* The term collaborative process means a collaborative process as described in section 4003(b)(2) of the Omnibus Public Land Management Act of 2009 (16 U.S.C. 7303(b)(2)).
+- **(4)** *Covered national forest system lands* The term covered National Forest System lands means the proclaimed National Forest System lands reserved or withdrawn from the public domain of the United States covering the Sequoia National Forest and Giant Sequoia National Monument, Sierra National Forest, and Tahoe National Forest.
+- **(5)** *Covered public lands* The term covered public lands means—
   - **(A)** the Case Mountain Extensive Recreation Management Area in California managed by the Bureau of Land Management; and
   - **(B)** Kings Canyon National Park, Sequoia National Park, and Yosemite National Park in California managed by the National Park Service.
-- **(6)** *Giant sequoia* The term “giant sequoia” means a tree of the species Sequoiadendron giganteum.
-- **(7)** *Grove-specific hazardous fuels reduction plan* The term “grove-specific hazardous fuels reduction plan” means a plan developed by the applicable land management agency prior to conducting an analysis under the National Environmental Policy Act (42 U.S.C. 4321 et seq.) to address hazardous fuels in 1 or more giant sequoia groves.
-- **(8)** *Protection project* The term “Protection Project” means a Giant Sequoia Protection Project carried out under section 6.
-- **(9)** *Reforestation* The term “reforestation” means the act of renewing tree cover, taking into consideration species composition and resilience, by establishing young trees through natural regeneration, artificial or natural regeneration with site preparation, planting or direct seeding, or vegetation competition control following artificial or natural regeneration.
-- **(10)** *Rehabilitation* The term “rehabilitation” means any action taken during the 5-year period beginning on the last day of a wildland fire to repair or improve fire-impacted lands which are unlikely to recover to management-approved conditions.
-- **(11)** *Relevant congressional committees* The term “relevant Congressional Committees” means—
+- **(6)** *Giant sequoia* The term giant sequoia means a tree of the species Sequoiadendron giganteum.
+- **(7)** *Protection project* The term Protection Project means a Giant Sequoia Protection Project carried out under section 6.
+- **(8)** *Reforestation* The term reforestation means the act of renewing tree cover, taking into consideration species composition and resilience, by establishing young trees through—
+  - **(A)** natural regeneration;
+  - **(B)** natural regeneration with site preparation and vegetation competition control; or
+  - **(C)** planting or direct seeding.
+- **(9)** *Rehabilitation* The term rehabilitation means any action taken during the 5-year period beginning on the last day of a wildland fire to repair or improve fire-impacted lands which are unlikely to recover to management-approved conditions.
+- **(10)** *Relevant congressional committees* The term relevant Congressional Committees means—
   - **(A)** the Committees on Natural Resources, Agriculture, and Appropriations of the House of Representatives; and
   - **(B)** the Committees on Energy and Natural Resources, Agriculture, Nutrition, and Forestry, and Appropriations of the Senate.
-- **(12)** *Responsible official* The term “responsible official” means an employee of the Department of the Interior or Forest Service who has the authority to make and implement a decision on a proposed action.
-- **(13)** *Secretary* The term “Secretary” means the Secretary of the Interior.
-- **(14)** *Secretary concerned* The term “Secretary concerned” means—
+- **(11)** *Responsible official* The term responsible official means an employee of the Department of the Interior or Forest Service who has the authority to make and implement a decision on a proposed action.
+- **(12)** *Secretary* The term Secretary means the Secretary of the Interior.
+- **(13)** *Secretary concerned* The term Secretary concerned means—
   - **(A)** the Secretary of Agriculture, with respect to covered National Forest System lands, or their designee; and
   - **(B)** the Secretary of the Interior, with respect to covered public lands, or their designee.
-- **(15)** *Strategy* The term “Strategy” means the Giant Sequoia Reforestation and Rehabilitation Strategy established under section 7.
-- **(16)** *Strike team* The term “Strike Team” means a Giant Sequoia Strike Team established under section 8.
-- **(17)** *Tribe* The term “Tribe” means the Tule River Indian Tribe of the Tule River Reservation, California.
+- **(14)** *Strategy* The term Strategy means the Giant Sequoia Reforestation and Rehabilitation Strategy established under section 7.
+- **(15)** *Strike team* The term Strike Team means a Giant Sequoia Strike Team established under section 8.
+- **(16)** *Tribe* The term Tribe means the Tule River Indian Tribe of the Tule River Reservation, California.
 
 ## § 3. Shared stewardship agreement for giant sequoias
 
@@ -69,9 +71,14 @@ In this Act:
     - **(A)** Protection Projects carried out under section 6; and
     - **(B)** the Strategy established under section 7;
   - **(3)** facilitate collaboration and coordination on Protection Projects, particularly projects that cross jurisdictional boundaries;
-  - **(4)** facilitate information sharing, including best available science as described in section 5(c) and mapping resources; and
+  - **(4)** facilitate information sharing, including best available science as described in section 5(d) and mapping resources; and
   - **(5)** support the development and dissemination of educational materials and programs that inform the public about the threats to the health and resiliency of giant sequoia groves and actions being taken to reduce the risk to such groves from high-severity wildfire, insects, and drought.
 - **(c)** *Administrative support, technical services, and staff support* The Secretary shall make personnel of the Department of the Interior available to the Coalition for administrative support, technical services, development and dissemination of educational materials, and staff support that the Secretary determines necessary to carry out this section.
+- **(d)** *Public Meeting requirement*
+  - **(1)** *In general* Except as provided in paragraph (2), the Coalition shall hold not less than one meeting annually, which shall be open to the public.
+  - **(2)** *Closed sessions* The Coalition may close portions of a meeting to the public only when discussion will involve—
+    - **(A)** sensitive law enforcement, security, or emergency response matters, the public disclosure of which would compromise public safety; or
+    - **(B)** confidential commercial information, private property information, or landowner information.
 
 ## § 5. Giant sequoia health and resiliency assessment
 
@@ -81,22 +88,21 @@ In this Act:
       - **(i)** stand-replacing disturbance; or
       - **(ii)** disturbance but continues to have living giant sequoias within the grove, including identifying the tree mortality and regeneration of giant sequoias within such grove;
     - **(B)** each giant sequoia grove that is at high risk of experiencing a stand-replacing disturbance;
-    - **(C)** lands located near giant sequoia groves that are at risk of experiencing high-severity wildfires that could adversely impact such giant sequoia groves; and
+    - **(C)** lands—
+      - **(i)** contiguous or adjacent to giant sequoia groves that are at risk of experiencing high-severity wildfires that could adversely impact such giant sequoia groves; or
+      - **(ii)** in which the placement of fuel breaks could reduce the risk of high-severity wildfires that could adversely impact giant sequoia groves; and
     - **(D)** each giant sequoia grove that has experienced a disturbance and is unlikely to naturally regenerate and is in need of reforestation;
   - **(2)** analyzes the resiliency of each giant sequoia grove to threats, such as—
     - **(A)** high-severity wildfire;
     - **(B)** insects, including beetle kill; and
     - **(C)** drought;
-  - **(3)** with respect to Protection Projects, proposes a list of highest priority Protection Projects to be carried out under section 6, giving priority to projects located on lands identified under subparagraphs (B) and (C) of subsection (a)(1);
-  - **(4)** examines how historical, Tribal, or current approaches to wildland fire suppression and forest management activities across various jurisdictions have impacted the health and resiliency of giant sequoia groves with respect to—
+  - **(3)** examines how historical, Tribal, or current approaches to wildland fire suppression and forest management activities across various jurisdictions have impacted the health and resiliency of giant sequoia groves with respect to—
     - **(A)** high-severity wildfires;
     - **(B)** insects, including beetle kill; and
     - **(C)** drought; and
-  - **(5)** includes program and policy recommendations that address—
-    - **(A)** Federal and State policies that impede activities to improve the health and resiliency of giant sequoias and proposed policy changes to address such impediments;
-    - **(B)** new Federal and State policies necessary to increase the pace and scale of treatments that improve the health and resiliency of giant sequoias;
-    - **(C)** options to enhance communication, coordination, and collaboration, particularly for cross-boundary projects, to improve the health and resiliency of giant sequoias; and
-    - **(D)** research gaps that should be addressed to improve the best available science on the giant sequoias.
+  - **(4)** includes program and policy recommendations that address—
+    - **(A)** options to enhance communication, coordination, and collaboration, particularly for cross-boundary projects, to improve the health and resiliency of giant sequoias; and
+    - **(B)** research gaps that should be addressed to improve the best available science on the giant sequoias.
 - **(b)** *Annual updates* Not later than 1 year after the submission of the Assessment under subsection (a), and annually thereafter, the Coalition shall submit an updated Assessment to the relevant Congressional Committees that—
   - **(1)** includes any new data, information, or best available science that has changed or become available since the previous Assessment was submitted;
   - **(2)** with respect to Protection Projects—
@@ -104,12 +110,11 @@ In this Act:
     - **(B)** includes information on the number of Protection Projects planned in the upcoming year and the estimated timeline for completing those projects;
     - **(C)** provides status updates and long-term monitoring reports on giant sequoia groves after the completion of Protection Projects; and
     - **(D)** if the Secretary concerned failed to reduce hazardous fuels in at least 3 giant sequoia groves in the previous year, a written explanation that includes—
-      - **(i)** a detailed explanation of what impediments resulted in failing to reduce hazardous fuels in at least 3 giant sequoia groves;
+      - **(i)** a detailed explanation of what impediments resulted in failing to reduce hazardous fuels in at least 3 giant sequoia groves; and
       - **(ii)** a detailed explanation of what actions the Secretary concerned is taking to ensure that hazardous fuels are reduced in at least 3 giant sequoia groves the following year; and
-      - **(iii)** recommendations to Congress on any policies that need to be changed to assist the Secretary concerned in reducing hazardous fuels in giant sequoia groves; and
   - **(3)** with respect to reforestation and rehabilitation of giant sequoias—
     - **(A)** contains updates on the implementation of the Strategy under section 7, including grove-level data on reforestation and rehabilitation activities; and
-    - **(B)** provides status updates and monitoring reports on giant sequoia groves that have experienced natural or artificial regeneration as part of the Strategy under section 7.
+    - **(B)** provides status updates and monitoring reports on giant sequoia groves that have experienced reforestation or rehabilitation as part of the Strategy under section 7.
 - **(c)** *Dashboard*
   - **(1)** *Requirement to maintain* The Coalition shall create and maintain a website that—
     - **(A)** publishes the Assessment, annual updates to the Assessment, and other educational materials developed by the Coalition;
@@ -128,7 +133,7 @@ In this Act:
 - **(d)** *Best available science* In utilizing the best available science for the Assessment, the Coalition shall include—
   - **(1)** data and peer-reviewed research from academic institutions with a demonstrated history of studying giant sequoias and with experience analyzing distinct management strategies to improve giant sequoia resiliency;
   - **(2)** traditional ecological knowledge from the Tribe related to improving the health and resiliency of giant sequoia groves; and
-  - **(3)** data from Federal, State, Tribal, and local governments or agencies.
+  - **(3)** data from Federal, State, Tribal, and local governments or agencies, and other interested stakeholders with a demonstrated history of studying giant sequoias and with experience analyzing distinct management strategies to improve giant sequoia resiliency.
 - **(e)** *Technology improvements* In carrying out this section, the Secretary may enter into memorandums of understanding or agreements with other Federal agencies or departments, State or local governments, Tribal governments, private entities, or academic institutions to improve, with respect to the Assessment, the use and integration of—
   - **(1)** advanced remote sensing and geospatial technologies;
   - **(2)** statistical modeling and analysis; or
@@ -141,59 +146,52 @@ In this Act:
 
 ## § 6. Giant sequoia emergency response
 
-- **(a)** *Emergency response To protect giant sequoias*
+- **(a)** *Emergency response to protect giant sequoias*
   - **(1)** *In general*
     - **(A)** *Emergency determination* Congress determines that—
       - **(i)** an emergency exists on covered public lands and covered National Forest System lands that makes it necessary to carry out Protection Projects that take needed actions to respond to the threat of wildfires, insects, and drought to giant sequoias; and
       - **(ii)** Protection Projects are necessary to control the immediate impacts of the emergency described in clause (i) and are needed to mitigate harm to life, property, or important natural or cultural resources on covered public lands and covered National Forest System lands.
     - **(B)** *Application* The emergency determination established under subparagraph (A) shall apply to all covered public lands and covered National Forest System lands.
     - **(C)** *Expiration* The emergency determination established under subparagraph (A) shall expire on the date that is 7 years after the date of the enactment of this Act.
-  - **(2)** *Implementation* While the emergency determination established under subsection (a) is in effect, the following shall apply:
-    - **(A)** The following shall have the force and effect of law:
+  - **(2)** *Implementation* While the emergency determination established under paragraph (1) is in effect, the following shall apply:
+    - **(A)** The Secretary concerned, acting through a responsible official, shall carry out Protection Projects on covered public lands and covered National Forest System lands in accordance with this section, all applicable land management plans, and the laws (including regulations) applicable to the Secretary concerned.
+    - **(B)** A responsible official shall carry out Protection Projects in accordance with the following, as applicable:
       - **(i)** Section 220.4(b) of title 36, Code of Federal Regulations (as in effect July 21, 2022), with respect to covered National Forest System lands.
       - **(ii)** Section 46.150 of title 43, Code of Federal Regulations (as in effect October 12, 2022), with respect to covered public lands.
       - **(iii)** Section 402.05 of title 50, Code of Federal Regulations (as in effect July 21, 2022), with respect to covered National Forest System lands and covered public lands.
       - **(iv)** Section 800.12 of title 36, Code of Federal Regulations (as in effect July 21, 2022), with respect to covered National Forest System lands and covered public lands.
-    - **(B)** A responsible official may carry out a Protection Project described by paragraph (4) before initiating—
-      - **(i)** an analysis under section 102 of the National Environmental Policy Act of 1969 (42 U.S.C. 4332);
-      - **(ii)** consultation under section 7 of the Endangered Species Act of 1973 (16 U.S.C. 1536); and
-      - **(iii)** consultation under section 106 of the National Historic Preservation Act (16 U.S.C. 470(f)).
-    - **(C)** The rules established under subsections (d) and (e), section 40807 of the Infrastructure Investment and Jobs Act (16 U.S.C. 6592c(d) and (e)) shall apply with respect to Protection Projects by substituting “Protection Projects” for “authorized emergency action under this section” each place it appears in such subsections.
-    - **(D)** Protection Projects shall be subject to the requirements of section 106 of title I of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6511 et seq.).
-  - **(3)** *Protection projects* The responsible official shall carry out the following forest management activities, consistent with applicable grove-specific hazardous fuels reduction plans or activities recommend by the Assessment under section 5, as Protection Projects under the emergency determination under this section:
+    - **(C)** The rules established under subsections (d) and (e) of section 40807 of the Infrastructure Investment and Jobs Act (16 U.S.C. 6592c(d), (e)) shall apply with respect to Protection Projects by substituting “Protection Projects” for “authorized emergency action under this section” each place it appears in such subsections.
+    - **(D)** Protection Projects shall be subject to the requirements of section 106 of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6516).
+  - **(3)** *Protection projects* The responsible official shall carry out the following forest management activities as Protection Projects under the emergency determination under this section:
     - **(A)** Conducting hazardous fuels management, including mechanical thinning, mastication, and prescribed burning.
-    - **(B)** Removing hazard trees, dead trees, dying trees, or trees at risk of dying, as determined by the responsible official.
-    - **(C)** Removing trees to address overstocking or crowding in a forest stand, consistent with the appropriate basal area of the forest stand as determined by the responsible official.
-    - **(D)** Activities included in the applicable grove-specific hazardous fuels reduction plan.
-    - **(E)** Using chemical treatments to address insects and disease and control vegetation competition.
-    - **(F)** Any combination of activities described in this paragraph.
+    - **(B)** Removing hazard trees, dead trees, or dying trees, as determined by the responsible official.
+    - **(C)** Removing trees to address overstocking or crowding in a forest stand, consistent with the appropriate basal area of the forest stand and the best available science, as determined by the responsible official.
+    - **(D)** Activities to address insects, disease, invasive species, and vegetative encroachment of a giant sequoia grove.
+    - **(E)** Any combination of activities described in this paragraph.
   - **(4)** *Requirements*
-    - **(A)** *In general* Protection Projects carried out under paragraph (3) and reforestation and rehabilitation activities carried out under this Act that are described by subparagraph (D) are a category of actions hereby designated as being categorically excluded from the preparation of an environmental assessment or an environmental impact statement under section 102 of the National Environmental Policy Act of 1969 (42 U.S.C. 4332).
+    - **(A)** *In general* Protection Projects carried out under paragraph (3) and reforestation and rehabilitation activities carried out under this Act that are described by subparagraph (C) are categorically excluded from the preparation of an environmental assessment or an environmental impact statement under section 102 of the National Environmental Policy Act of 1969 (42 U.S.C. 4332).
     - **(B)** *Availability* The Secretary concerned shall use the categorical exclusion established under subparagraph (A) in accordance with this section.
-    - **(C)** *Interagency cooperation* Congress finds that Protection Projects carried out under this section are consistent with improving the health and resiliency of critical habitat for threatened and endangered species, including the Pacific fisher and California spotted owl.
-    - **(D)** *Requirements* A Protection Project or reforestation or rehabilitation activity is described by this subparagraph if such Protection Project or reforestation or rehabilitation activity—
+    - **(C)** *Requirements* A Protection Project or reforestation or rehabilitation activity is described by this subparagraph if such Protection Project or reforestation or rehabilitation activity—
       - **(i)** covers an area of no more than—
-        - **(I)** 2,000 acres within giant sequoia groves where a grove-specific hazardous fuels reduction plan has been developed by the relevant land management agency or on lands identified under section 5(a)(1)(B); and
-        - **(II)** 3,000 acres on lands identified under section 5(a)(1)(C);
-      - **(ii)** was—
-        - **(I)** proposed by the Assessment under section 5(a)(3);
-        - **(II)** developed through a collaborative process; or
-        - **(III)** proposed by a resource advisory committee (as defined in section 201 of the Secure Rural Schools and Community Self-Determination Act of 2000 (16 U.S.C. 7121)); and
-      - **(iii)** occurs on Federal land or non-Federal land with the consent of the non-Federal landowner.
+        - **(I)** 2,000 acres within giant sequoia groves; and
+        - **(II)** 3,000 acres on lands identified under section 5(a)(1)(C); and
+      - **(ii)** occurs on Federal land or non-Federal land with the consent of the non-Federal landowner.
+    - **(D)** *Extraordinary circumstances* The extraordinary circumstances procedures under provisions (e) through (g) of section 1b.3 of title 7, Code of Federal Regulations, shall apply to a Protection Project or reforestation or rehabilitation activity that is categorically excluded under subparagraph (A).
     - **(E)** *Use of other authorities* To the maximum extent practicable, the Secretary concerned shall use the authorities provided under this section in combination with other authorities to carry out Protection Projects, including—
       - **(i)** good neighbor agreements entered into under section 8206 of the Agricultural Act of 2014 (16 U.S.C. 2113a); and
       - **(ii)** stewardship contracting projects entered into under section 604 of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6591c).
     - **(F)** *Savings clause* With respect to joint Protection Projects and reforestation and rehabilitation activities involving the Tribe, nothing in this section shall be construed to add any additional regulatory requirements onto the Tribe.
 - **(b)** *Implementation* To the maximum extent practicable, the Secretary concerned shall reduce hazardous fuels in no fewer than 3 giant sequoia groves each year.
+- **(c)** *Public notice* The Secretary concerned shall provide notice of each Protection Project on a publicly available website maintained by the Secretary concerned.
 
 ## § 7. Giant sequoia reforestation and rehabilitation strategy
 
 - **(a)** *Reforestation and rehabilitation strategy*
   - **(1)** *In general* Not later than 6 months after the date of the enactment of this Act, the Secretary, in consultation with the Coalition, shall develop and implement a strategy, to be known as the Giant Sequoia Reforestation and Rehabilitation Strategy, to enhance the reforestation and rehabilitation of giant sequoia groves that—
-    - **(A)** identifies giant sequoia groves in need of natural or artificial regeneration, giving highest priority to groves identified under section 5(a)(1)(A)(i);
+    - **(A)** identifies giant sequoia groves in need of reforestation or rehabilitation, giving highest priority to groves identified under section 5(a)(1)(A)(i);
     - **(B)** creates a priority list of reforestation and rehabilitation activities;
     - **(C)** identifies and addresses—
-      - **(i)** barriers to reforestation or rehabilitation including—
+      - **(i)** barriers to reforestation or rehabilitation, including—
         - **(I)** regulatory and funding barriers;
         - **(II)** seedling shortages or related nursery infrastructure capacity constraints;
         - **(III)** labor and workforce shortages;
@@ -210,8 +208,6 @@ In this Act:
   - **(3)** by adding at the end the following:
     > - **(dd)** shall include reforestation and rehabilitation activities conducted under section 7 of the Save Our Sequoias Act.
 
-- **(c)** *Implementation* Section 4(d)(1) of the Wilderness Act (16 U.S.C. 1133(d)) is amended by inserting “Nothing in this Act precludes reforestation (as defined in section 2 of the Save our Sequoias Act) activities to reestablish giant sequoias following a wildfire.” after the period at the end.
-
 ## § 8. Giant sequoia strike teams
 
 - **(a)** *Giant sequoia strike teams*
@@ -219,7 +215,7 @@ In this Act:
     - **(A)** primarily, section 6; and
     - **(B)** secondarily, section 7.
   - **(2)** *Duties* Each Strike Team shall—
-    - **(A)** assist the Secretary concerned with any reviews, including analysis under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), consultations under the National Historic Preservation Act of 1966 (16 U.S.C. 470 et seq.), and consultations under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.);
+    - **(A)** assist the Secretary concerned with any reviews, including analysis under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), consultations under division A of subtitle III of title 54, United States Code (commonly referred to as the National Historic Preservation Act), and consultations under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.);
     - **(B)** implement any necessary site preparation work in advance of or as part of a Protection Project or reforestation or rehabilitation activity;
     - **(C)** implement Protection Projects under section 6; and
     - **(D)** implement reforestation or rehabilitation activities under section 7.
@@ -231,103 +227,64 @@ In this Act:
 
 ## § 9. Giant sequoia collaborative restoration grants
 
-- **(a)** *In general* The Secretary, in consultation with the parties to the agreement under section 3, shall establish a program to award grants to eligible entities to advance, facilitate, or improve giant sequoia health and resiliency.
+- **(a)** *In general* The Secretary, in consultation with the parties to the agreement under section 3, shall establish a program or expand an existing program to award grants to eligible entities to advance, facilitate, or improve giant sequoia health and resiliency.
 - **(b)** *Eligible entity* The Secretary may award grants under this section to any nonprofit organization, Tribal Government, local government, academic institution, or private organization to help advance, facilitate, or improve giant sequoia health and resiliency.
 - **(c)** *Priority* In awarding grants under this section, the Secretary shall give priority to eligible entities that—
   - **(1)** primarily, are likely to have the greatest impact on giant sequoia health and resiliency; and
   - **(2)** secondarily—
-    - **(A)** are small businesses or tribal entities, particularly in rural areas; and
+    - **(A)** are small businesses or Tribal entities, particularly in rural areas; and
     - **(B)** create or support jobs, particularly in rural areas.
 - **(d)** *Use of grant funds* Funds from grants awarded under this section shall be used to—
   - **(1)** create, expand, or develop markets for hazardous fuels removed under section 6, including markets for biomass and biochar;
   - **(2)** facilitate hazardous fuel removal under section 6, including by reducing the cost of transporting hazardous fuels removed as part of a Protection Project;
   - **(3)** expand, enhance, develop, or create facilities or land that can store or process hazardous fuels removed under section 6;
   - **(4)** establish, develop, expand, enhance, or improve nursery capacity or infrastructure necessary to facilitate the Strategy established under section 7; or
-  - **(5)** support tribal management and conservation of giant sequoias, including funding for tribal historic preservation officers.
+  - **(5)** support Tribal management and conservation of giant sequoias, including funding for Tribal historic preservation officers.
 
-## § 10. Good neighbor authority for giant sequoias
+## § 10. Giant sequoia insect monitoring and technology
 
-Section 8206 of the Agricultural Act of 2014 (16 U.S.C. 2113a) is amended—
-
-- **(1)** in subsection (a)—
-  - **(A)** in paragraph (3)(A)—
-    - **(i)** in clause (i), by striking “or” at the end;
-    - **(ii)** by redesignating clause (ii) as clause (iii); and
-    - **(iii)** by inserting after clause (i) the following:
-      > - **(ii)** Kings Canyon National Park, Sequoia National Park, and Yosemite National Park; or
-
-  - **(B)** in paragraph (4)(A)—
-    - **(i)** in clause (ii), by striking “and” at the end;
-    - **(ii)** by redesignating clause (iii) as clause (iv);
-    - **(iii)** by inserting after clause (ii) the following:
-      > - **(iii)** activities conducted under section 6 of the Save Our Sequoias Act;
-
-    - **(iv)** in clause (iv), as so redesignated, by striking the period at the end and inserting “; or”; and
-    - **(v)** by adding at the end the following:
-      > - **(v)** any combination of activities specified in clauses (i) through (iv).
-
-  - **(C)** in paragraph (6), by striking “or Indian tribe”; and
-  - **(D)** in paragraph (10)(B) by striking “land.” and inserting “land, Kings Canyon National Park, Sequoia National Park, and Yosemite National Park.”; and
-- **(2)** in subsection (b)—
-  - **(A)** in paragraph (1)(A), by inserting “, Indian tribe,” after “Governor”;
-  - **(B)** by amending paragraph (2)(C) to read as follows:
-    > - **(C)** *Treatment of revenue*
-    >   - **(i)** *In general* Funds received from the sale of timber by a Governor, an Indian tribe, or a county under a good neighbor agreement shall be retained and used by the Governor, Indian tribe, or county, as applicable—
-    >     - **(I)** to carry out authorized restoration services under such good neighbor agreement; and
-    >     - **(II)** if there are funds remaining after carrying out the services under clause (i), to carry out authorized restoration services within the State under other good neighbor agreements.
-    >   - **(ii)** *Special rule for certain national parks* Funds received from the sale of timber by a Governor, an Indian tribe, or a county under a good neighbor agreement carried out within the boundaries of Kings Canyon National Park, Sequoia National Park, or Yosemite National Park shall be retained and used by the Governor, Indian tribe, or county, as applicable—
-    >     - **(I)** to carry out authorized restoration services under such good neighbor agreement;
-    >     - **(II)** if there are funds remaining after carrying out the services under clause (i), to carry out authorized restoration services under other good neighbor agreements within the boundaries of the park unit in which the initial good neighbor agreement occurred; and
-    >     - **(III)** if there are no further good neighbor agreements to carry out under clause (ii), to transfer to the park unit in which the initial good neighbor agreement occurred to be used for giant sequoia conservation and management.
-    >   - **(iii)** *Termination of effectiveness* The authority provided by this subparagraph terminates effective October 1, 2030.
-
-  - **(C)** in paragraph (3), by inserting “, Indian tribe,” after “Governor”; and
-  - **(D)** by amending paragraph (4) to read as follows:
-    > - **(4)** *Authorized restoration services in certain national parks* Authorized restoration services occurring in Kings Canyon National Park, Sequoia National Park, and Yosemite National Park shall be carried out in accordance with section 100753 of title 54, United States Code.
-
-- **(3)** *Conforming amendments* Section 8206(a) of the Agricultural Act of 2014 (16 U.S.C. 2113a(a)) is amended—
-  - **(A)** in paragraph (1)(B), by inserting “, Indian tribe,” after “Governor”; and
-  - **(B)** in paragraph (5), by inserting “, Indian tribe,” after “Governor”.
+- **(a)** *In general* Not later than 1 year after the date of the enactment of this Act, the Secretary concerned shall—
+  - **(1)** develop and implement a strategy for monitoring insects in giant sequoia groves with a high-risk or previous history of insect infestations; and
+  - **(2)** seek to enter into public-private partnerships to deploy technology to assist in the short-term and long-term monitoring of giant sequoia groves with current or potential insect infestations.
+- **(b)** *Report* Not later than 2 years after the date of enactment of this Act, the Secretary concerned shall submit a report to the relevant Congressional Committees that contains—
+  - **(1)** the strategy required under subsection (a)(1);
+  - **(2)** an update on the effectiveness of the monitoring program in preventing or addressing insect infestations in giant sequoia groves; and
+  - **(3)** program and policy recommendations to further address—
+    - **(A)** research gaps regarding giant sequoia resiliency to insects; and
+    - **(B)** opportunities to improve the resiliency of giant sequoias to insects.
 
 ## § 11. Stewardship contracting for giant sequoias
 
-- **(a)** *National park service* Section 604(a)(2) of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6591c(c)) is amended to read—
-  > - **(2)** *Director* The term “Director” means the Director of the Bureau of Land Management with respect to Bureau of Land Management lands and the Director of the National Park Service with respect to lands within Kings Canyon National Park, Sequoia National Park, and Yosemite National Park.
+- **(a)** *National park service* Section 604 of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6591c) is amended—
+  - **(1)** by amending subsection (a)(2) to read as follows:
+    > - **(2)** *Director* The term Director means the Director of the Bureau of Land Management with respect to Bureau of Land Management lands and the Director of the National Park Service with respect to lands within Kings Canyon National Park, Sequoia National Park, and Yosemite National Park.
 
+  - **(2)** in subsection (b), by striking “national forests and the public lands” and inserting “national forests, public lands, and lands within Kings Canyon National Park, Sequoia National Park, and Yosemite National Park”.
 - **(b)** *Giant sequoia stewardship contracts* Section 604(c) of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6591c(c)) is amended by adding at the end the following:
   > - **(8)** Promoting the health and resiliency of giant sequoias.
 
-## § 12. Giant Sequoia Emergency Protection Program and Fund
+- **(c)** *Stewardship contracting in certain national parks* Stewardship contracting projects occurring in Kings Canyon National Park, Sequoia National Park, and Yosemite National Park shall be carried out in accordance with the laws (including regulations) applicable to the National Park Service, including section 100753 of title 54, United States Code.
+
+## § 12. Giant sequoia emergency protection program and fund
 
 - **(a)** *In general* Chapter 1011 of title 54, United States Code, is amended by inserting at the end the following:
   > ## § 101123. Giant Sequoia Emergency Protection Program and Fund
   >
-  > - **(a)** *Giant sequoia emergency protection program* The National Park Foundation, in coordination with the National Forest Foundation, shall design and implement a comprehensive program to assist and promote philanthropic programs of support that benefit—
-  >   - **(1)** primarily, the management and conservation of giant sequoias on National Park Service and covered National Forest System lands to promote resiliency to wildfires, insects, and drought; and
-  >   - **(2)** secondarily, the reforestation of giant sequoias on National Park Service and covered National Forest System lands impacted by wildfire.
-  > - **(b)** *Giant sequoia emergency protection fund* The National Park Foundation, in coordination with the National Forest Foundation, shall establish a joint special account to be known as the Giant Sequoia Emergency Protection Fund (referred to as “the Fund” in this section), to be administered in support of the program established under subsection (a).
-  >   - **(1)** *Funds for giant sequoia emergency protection* The Fund shall consist of any gifts, devises, or bequests that are provided to the National Park Foundation or National Forest Foundation for such purpose.
-  >   - **(2)** *Use of funds* Funds shall be available to the National Park Foundation and National Forest Foundation without further appropriation, subject to the provisions in paragraph (3), for projects and activities approved by the Chief of the Forest Service or the Director of the National Park Service as appropriate, or their designees, to—
-  >     - **(A)** primarily, support the management and conservation of giant sequoias on National Park Service and covered National Forest System lands to promote resiliency to wildfires, insects, and drought; and
-  >     - **(B)** secondarily, support the reforestation of giant sequoias on National Park Service and covered National Forest System lands impacted by wildfire.
-  >   - **(3)** *Tribal support* Of the funds provided to the National Park Foundation and National Forest Foundation under paragraph (2), not less than 15 percent of such funds shall be used to support tribal management and conservation of giant sequoias including funding for tribal historic preservation officers.
-  > - **(c)** *Summary* Beginning 1 year after the date of the enactment of this Act, the National Park Foundation and National Forest Foundation shall include with their annual reports a summary of the status of the program and Fund created under this section that includes—
+  > - **(a)** *Giant sequoia emergency protection program* The National Park Foundation, in coordination with the National Forest Foundation and the Foundation for America’s Public Lands, shall design and implement a comprehensive program to assist and promote philanthropic programs of support that benefit—
+  >   - **(1)** primarily, the management and conservation of giant sequoias on covered public lands and covered National Forest System lands to promote resiliency to wildfires, insects, and drought; and
+  >   - **(2)** secondarily, the reforestation of giant sequoias on covered public lands and covered National Forest System lands impacted by wildfire.
+  > - **(b)** *Giant sequoia emergency protection fund*
+  >   - **(1)** *In general* The National Park Foundation, in coordination with the National Forest Foundation and the Foundation for America’s Public Lands, shall establish a joint special account to be known as the Giant Sequoia Emergency Protection Fund (referred to in this section as “the Fund”), to be administered in support of the program established under subsection (a).
+  >   - **(2)** *Funds for giant sequoia emergency protection* The Fund shall consist of any gifts, devises, or bequests that are provided to the National Park Foundation, National Forest Foundation, or Foundation for America’s Public Lands for the purpose described in paragraph (1).
+  >   - **(3)** *Use of funds* Funds shall be available to the National Park Foundation, National Forest Foundation, and Foundation for America’s Public Lands without further appropriation, subject to the provisions in paragraph (4), for projects and activities approved by the Director of the National Park Service, Chief of the Forest Service, or Director of the Bureau of Land Management as appropriate, or their designees, to—
+  >     - **(A)** primarily, support the management and conservation of giant sequoias on covered public lands and covered National Forest System lands to promote resiliency to wildfires, insects, and drought; and
+  >     - **(B)** secondarily, support the reforestation of giant sequoias on covered public lands and covered National Forest System lands impacted by wildfire.
+  >   - **(4)** *Tribal support* Of the funds provided to the National Park Foundation, National Forest Foundation, and Foundation for America’s Public Lands under paragraph (3), not less than 15 percent of such funds shall be used to support Tribal management and conservation of giant sequoias including funding for Tribal historic preservation officers.
+  > - **(c)** *Summary* Beginning 1 year after the date of the enactment of this Act, the National Park Foundation, National Forest Foundation, and Foundation for America’s Public Lands shall include with their annual reports a summary of the status of the program and Fund created under this section that includes—
   >   - **(1)** a statement of the amounts deposited in the Fund during the fiscal year;
   >   - **(2)** the amount of the balance remaining in the Fund at the end of the fiscal year; and
   >   - **(3)** a description of the program and projects funded during the fiscal year.
-  > - **(d)** *Covered national forest system lands defined* In this section, the term “covered National Forest System lands” has the meaning given such term in section 2 of the Save Our Sequoias Act.
+  > - **(d)** *Definitions* In this section, the terms covered public lands and covered National Forest System lands have the meaning given such terms in section 2 of the Save Our Sequoias Act.
   > - **(e)** *Termination of effectiveness* The authority provided by this section shall terminate 7 years after the date of enactment of the Save Our Sequoias Act.
 
 - **(b)** *Conforming amendment* The table of sections for chapter 1011 of title 54, United States Code, is amended by inserting at the end the following:
-
-## § 13. Authorization of appropriations
-
-- **(a)** *In general* Subject to the availability of appropriations made in advance for such purposes, the Secretary concerned shall allocate up to—
-  - **(1)** $10,000,000 for fiscal year 2026;
-  - **(2)** $25,000,000 for fiscal year 2027;
-  - **(3)** $30,000,000 for each of fiscal years 2028 through 2030; and
-  - **(4)** $40,000,000 for each of fiscal years 2031 through 2032.
-- **(b)** *Limitation* Of the amounts authorized under subsection (a), not less than 90 percent of funds shall be used to carry out section 6 and section 9 of this Act.
-- **(c)** *Savings clause* Nothing in this Act affects—
-  - **(1)** the allocation of previously appropriated funds from prior fiscal years, consistent with applicable laws and regulations; and
-  - **(2)** the prerogative of the Secretary concerned to establish Departmental funding priorities, consistent with applicable laws and regulations.

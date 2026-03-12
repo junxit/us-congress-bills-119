@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2709
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-24 amendatory instructions. 1 executed, 23 stated and not applied.
+8 amendatory instructions. 1 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -24,14 +24,14 @@ to guess them.
 
 ## Executed
 
-### 16 U.S.C. § 2113a
+### 16 U.S.C. § 6591c
 
-> in paragraph (10)(B) by striking “land.” and inserting “land, Kings Canyon National Park, Sequoia National Park, and Yosemite National Park.”; and
+> in subsection (b), by striking “national forests and the public lands” and inserting “national forests, public lands, and lands within Kings Canyon National Park, Sequoia National Park, and Yosemite National Park”.
 
 | | |
 |---|---|
-| Removed | `land.` |
-| Inserted | `land, Kings Canyon National Park, Sequoia National Park, and Yosemite National Park.` |
+| Removed | `national forests and the public lands` |
+| Inserted | `national forests, public lands, and lands within Kings Canyon National Park, Sequoia National Park, and Yosemite National Park` |
 
 ## Stated, not applied
 
@@ -45,23 +45,7 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 1601` | strike | in item (bb), by striking “and”; | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 1601` | replace | in item (cc), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 1601` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1133` | insert | Section 4(d)(1) of the Wilderness Act (16 U.S.C. 1133(d)) is amended by inserting “Nothing in this Act precludes reforestation (as defined in section 2 of the Save our Sequoias Act) activities to reestablish giant sequoias following a wi… | the bill quotes the text inserted but describes where it goes |
-| `16 U.S.C. § 2113a` | strike | in clause (i), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
-| `16 U.S.C. § 2113a` | redesignate | by redesignating clause (ii) as clause (iii); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 2113a` | insert | by inserting after clause (i) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 2113a` | strike | in clause (ii), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `16 U.S.C. § 2113a` | redesignate | by redesignating clause (iii) as clause (iv); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 2113a` | insert | by inserting after clause (ii) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 2113a` | redesignate | in clause (iv), as so redesignated, by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
-| `16 U.S.C. § 2113a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 2113a` | strike | in paragraph (6), by striking “or Indian tribe”; and | the bill quotes the text struck but describes what replaces it |
-| `16 U.S.C. § 2113a` | insert | in paragraph (1)(A), by inserting “, Indian tribe,” after “Governor”; | the bill quotes the text inserted but describes where it goes |
-| `16 U.S.C. § 2113a` | amend | by amending paragraph (2)(C) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 2113a` | insert | in paragraph (3), by inserting “, Indian tribe,” after “Governor”; and | the bill quotes the text inserted but describes where it goes |
-| `16 U.S.C. § 2113a` | amend | by amending paragraph (4) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 2113a` | insert | in paragraph (1)(B), by inserting “, Indian tribe,” after “Governor”; and | the bill quotes the text inserted but describes where it goes |
-| `16 U.S.C. § 2113a` | insert | in paragraph (5), by inserting “, Indian tribe,” after “Governor”. | the bill quotes the text inserted but describes where it goes |
-| `16 U.S.C. § 6591c` | amend | Section 604(a)(2) of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6591c(c)) is amended to read— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6591c` | amend | by amending subsection (a)(2) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 6591c` | add-at-end | Section 604(c) of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6591c(c)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | insert | Chapter 1011 of title 54, United States Code, is amended by inserting at the end the following: | the bill names no machine-readable US Code section |
 | — | insert | The table of sections for chapter 1011 of title 54, United States Code, is amended by inserting at the end the following: | the bill names no machine-readable US Code section |
