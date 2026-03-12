@@ -11,12 +11,12 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Shut Down Sanctuary Policies Act”.
+This Act may be cited as the “Shut Down Sanctuary Policies Act of 2026”.
 
 ## § 2. State and local cooperation with enforcement of immigration law
 
 - **(a)** *In general* Section 642 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1373) is amended—
-  - **(1)** in the header by striking “Communication between government agencies and the Immigration and Naturalization Service” and inserting “State and local government cooperation with immigration enforcement”;
+  - **(1)** in the header by striking “Communication between government agencies and the Immigration and Naturalization Service” and inserting “State and local government cooperation with immigration enforcement” (and by conforming the item in table of contents accordingly);
   - **(2)** by striking subsection (a) and inserting the following:
     > - **(a)** *In general* The right of any Federal, State, or local government entity, official, or other personnel to comply with or enforce the immigration laws (as defined in section 101(a)(17) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(17))), or to assist or cooperate with Federal law enforcement entities, Federal law enforcement officials, immigration officials, or other personnel regarding the enforcement of such laws, shall not be prohibited or in any way restricted.
 
@@ -71,16 +71,19 @@ Section 287(d) of the Immigration and Nationality Act (8 U.S.C. 1357(d)) is amen
 >   - **(7)** *Mistreatment exception* Paragraphs (5) and (6) shall not apply for claims the district court determines arose from any mistreatment of an individual by a State or a local government (and the officials and personnel of the State or local government acting in their official capacities), or a nongovernmental entity (and its personnel) contracted by the State or local government for the purpose of providing detention.
 >   - **(8)** *Contrary laws superseded* The provisions under this section shall supersede any and all State and local laws, ordinances, regulations, and policies that directly or indirectly prohibit or restrict, in whole or in part, the activities described in such section.
 >   - **(9)** *Private right of action*
->     - **(A)** *Cause of action* Any individual, or a spouse, parent, or child of that individual (if the individual is deceased), who is the victim of a murder, rape, any felony (as such terms are defined by the prosecuting jurisdiction), or any aggravated felony (as defined in section 101(a)(43)) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(43)), for which an alien has been convicted may bring an action against a State or local government (or public official acting in an official capacity) in the appropriate Federal court if the State or local government, except as provided in subparagraphs (B) and (D)—
+>     - **(A)** *Cause of action* Any individual, or a spouse, parent, or child of that individual (if the individual is deceased), who is the victim of a murder, rape, any felony (as such terms are defined by the prosecuting jurisdiction), or any aggravated felony (as defined in section 101(a)(43) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(43)), for which an alien has been convicted may bring an action for compensatory damages against a State or local government (or public official acting in an official capacity) in the appropriate Federal court if the State or local government, except as provided in subparagraphs (B) and (D)—
 >       - **(i)** released the alien from custody prior to the commission of such crime as a consequence of the State or local government declining to honor a detainer issued pursuant to paragraph (1);
 >       - **(ii)** has in effect a statute, policy, or practice not in compliance with section 642 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1373) and as a consequence of its statute, policy, or practice, released the alien from custody prior to the commission of such crime; or
->       - **(iii)** has in effect a statute, policy, or practice requiring a subordinate local government to decline to honor any or all detainers issued pursuant to paragraph (1) and as a consequence of its statute, policy, or practice, the subordinate local government declined to honor a detainer issued pursuant to such section and released the alien from custody prior to the commission of such crime.
+>       - **(iii)** has in effect a statute, policy, or practice requiring a subordinate local government to decline to honor any or all detainers issued pursuant to paragraph (1) and as a consequence of its statute, policy or practice, the subordinate local government declined to honor a detainer issued pursuant to such section and released the alien from custody prior to the commission of such crime.
 >     - **(B)** *Exception* Subparagraph (A) shall not apply to any individual who committed an offense described in such subparagraph.
 >     - **(C)** *Limitation on bringing action* An action may not be brought under this paragraph later than the date that is 10 years following the commission of the crime, or death of a person as a result of such crime, whichever occurs later.
 >     - **(D)** *Proper defendant* If a subordinate local government—
 >       - **(i)** declines to honor a detainer issued pursuant to paragraph (1) as a consequence of a prohibition imposed on that subordinate local government by a State or another local government with jurisdiction over the subordinate local government that prohibits the subordinate local government from honoring the detainer or fully complying with section 642 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1373); and
 >       - **(ii)** as a consequence of the statute or other legal requirement of the State or local government, the subdivision released the alien referred to in subparagraph (A) from custody prior to the commission of the crime referred to in that paragraph,
 >     - **(E)** *Attorney’s fees and other costs* In any action or proceeding under this paragraph, the court shall award a prevailing plaintiff a reasonable attorney’s fee and a reasonable expert fee as part of the costs.
+>     - **(F)** *Retroactivity* Subject to the limitation in subparagraph (C), an action under subparagraph (A) may be brought with respect to an offense described in such subparagraph (A)—
+>       - **(i)** committed not earlier than 10 years before the date of enactment of the Shut Down Sanctuary Policies Act of 2026; or
+>       - **(ii)** committed on or after the date of enactment of the Shut Down Sanctuary Policies Act of 2026.
 
 ## § 4. Construction; severability
 

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7640
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,7 +26,7 @@ to guess them.
 
 ### 8 U.S.C. § 1373
 
-> in the header by striking “Communication between government agencies and the Immigration and Naturalization Service” and inserting “State and local government cooperation with immigration enforcement”;
+> in the header by striking “Communication between government agencies and the Immigration and Naturalization Service” and inserting “State and local government cooperation with immigration enforcement” (and by conforming the item in table of contents accordingly);
 
 | | |
 |---|---|
