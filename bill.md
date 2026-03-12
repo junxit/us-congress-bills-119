@@ -1,0 +1,18 @@
+---
+legis-num: S. 4072
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4072
+
+> To reauthorize Agricultural and Food Policy Research Centers.
+
+## § 1. Short title
+
+This Act may be cited as the “Agricultural and Food Policy Research Centers Reauthorization Act of 2026”.
+
+## § 2. Reauthorization of Agricultural and Food Policy Research Centers
+
+Section 1419A(e) of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3155(e)) is amended by striking “$10,000,000 for each of fiscal years 2014 through 2023” and inserting “$15,000,000 for each of fiscal years 2027 through 2031”.
