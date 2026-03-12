@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6380
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -30,9 +30,7 @@ This Act may be cited as the “Chiricahua National Park Act”.
 ## § 3. Traditional cultural and religious sites
 
 - **(a)** *Protection of sites*
-  - **(1)** *In general* The Secretary shall ensure the protection of traditional cultural and religious sites in the National Park in accordance with the laws generally applicable to—
-    - **(A)** the National Park Service; and
-    - **(B)** units of the National Park System.
+  - **(1)** *In general* The Secretary shall ensure the protection of traditional cultural and religious sites in the National Park in accordance with the laws (including regulations) applicable to the Secretary.
   - **(2)** *Consultation* In carrying out paragraph (1), the Secretary shall consult with Indian Tribes in accordance with laws applicable to the protection of cultural and religious sites.
 - **(b)** *Access*
   - **(1)** *In general* The Secretary, in accordance with Public Law 95–341 (42 U.S.C. 1996 et seq.)—
