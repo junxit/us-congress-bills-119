@@ -1,0 +1,27 @@
+---
+legis-num: S. 4081
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4081
+
+> To amend the Fair Labor Standards Act of 1938 to ensure that certain caregiving employees are no longer exempted from overtime and minimum wage protections.
+
+## § 1. Short title
+
+This Act may be cited as the “Fair Wages for Home Care Workers Act”.
+
+## § 2. Minimum wage and overtime for certain caregivers
+
+- **(a)** *Exemption amendments* Section 13 of the Fair Labor Standards Act of 1938 (29 U.S.C. 213) is amended—
+  - **(1)** in subsection (a)(15), by striking “casual basis in domestic service employment” and all that follows through “of the Secretary)” and inserting the following: “casual basis to provide babysitting services”; and
+  - **(2)** by repealing subsection (b)(21).
+- **(b)** *Definitions* Section 3 of the Fair Labor Standards Act of 1938 (29 U.S.C. 203) is amended by adding at the end the following:
+  > - **(z)** “Babysitting services”—
+  >   - **(1)** means the custodial care and protection of infants or children in or about a private home in which the infants or children reside; and
+  >   - **(2)** does not include services relating to the care and protection of infants or children which are performed by trained personnel, such as registered, vocational, or practical nurses, and home care workers, including home health aides and personal care aides.
+  > - **(aa)** “Casual basis”, with respect to the provision of babysitting services—
+  >   - **(1)** means employment which is irregular or intermittent (as defined and delimited by the Secretary), and which is not performed by an individual whose vocation is babysitting; and
+  >   - **(2)** may include the performance of household work not related to the provision of babysitting services, so long as the time performing such work does not exceed 20 percent of the total hours worked while providing babysitting services.
