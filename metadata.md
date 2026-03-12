@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6644
 congress: 119
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 6644
@@ -16,7 +16,7 @@ version: Placed on Calendar Senate
 
 - Rep. Hill, J. French [R-AR-2] (H001072)
 
-## Cosponsors (31)
+## Cosponsors (83)
 
 - Rep. Waters, Maxine [D-CA-43] (W000187)
 - Rep. Flood, Mike [R-NE-1] (F000474)
@@ -49,15 +49,73 @@ version: Placed on Calendar Senate
 - Rep. Haridopolos, Mike [R-FL-8] (H001099)
 - Rep. Moskowitz, Jared [D-FL-23] (M001217)
 - Rep. Moore, Tim [R-NC-14] (M001236)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Hawley, Josh [R-MO] (H001089)
+- Sen. Hawley, Josh [R-MO] (H001089)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Crapo, Mike [R-ID] (C000880)
+- Sen. Fetterman, John [D-PA] (F000479)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Ernst, Joni [R-IA] (E000295)
+- Sen. Blunt Rochester, Lisa [D-DE] (B001303)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Lankford, James [R-OK] (L000575)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Sullivan, Dan [R-AK] (S001198)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
 
 ## Committees (2)
 
 - House — Veterans' Affairs Committee
 - House — Financial Services Committee
 
-## Recorded votes (1)
+## Recorded votes (7)
 
 - 2026-02-09 — [House 119-2-57](votes/house-119-2-0057.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (390–9)
+- 2026-03-02 — [Senate 119-2-44](votes/senate-119-2-0044.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (84–6)
+- 2026-03-04 — [Senate 119-2-45](votes/senate-119-2-0045.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (90–8)
+- 2026-03-10 — [Senate 119-2-50](votes/senate-119-2-0050.md) — On the Cloture Motion — **Cloture Motion Agreed to** (89–9)
+- 2026-03-11 — [Senate 119-2-51](votes/senate-119-2-0051.md) — On the Amendment — **Amendment Agreed to** (84–10)
+- 2026-03-11 — [Senate 119-2-52](votes/senate-119-2-0052.md) — On the Cloture Motion — **Cloture Motion Agreed to** (82–11)
+- 2026-03-12 — [Senate 119-2-53](votes/senate-119-2-0053.md) — On Passage of the Bill — **Bill Passed** (89–10)
 
 ## Actions
 
@@ -85,3 +143,262 @@ version: Placed on Calendar Senate
 - 2026-02-11 — Received in the Senate.
 - 2026-02-23 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2026-02-24 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 343.
+- 2026-02-26 — Cloture motion on the motion to proceed to the measure presented in Senate. (CR S692)
+- 2026-02-26 — Motion to proceed to consideration of measure made in Senate. (CR S692)
+- 2026-03-02 — Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 84 - 6. Record Vote Number: 44. (CR S728)
+- 2026-03-02 — Motion to proceed to measure considered in Senate. (CR S719)
+- 2026-03-03 — 
+- 2026-03-03 — 
+- 2026-03-03 — 
+- 2026-03-03 — Motion to proceed to measure considered in Senate. (CR S741)
+- 2026-03-03 — Senate amendment submitted
+- 2026-03-03 — Senate amendment submitted
+- 2026-03-03 — Senate amendment submitted
+- 2026-03-04 — 
+- 2026-03-04 — 
+- 2026-03-04 — 
+- 2026-03-04 — 
+- 2026-03-04 — 
+- 2026-03-04 — 
+- 2026-03-04 — 
+- 2026-03-04 — 
+- 2026-03-04 — 
+- 2026-03-04 — 
+- 2026-03-04 — 
+- 2026-03-04 — 
+- 2026-03-04 — 
+- 2026-03-04 — 
+- 2026-03-04 — 
+- 2026-03-04 — 
+- 2026-03-04 — 
+- 2026-03-04 — 
+- 2026-03-04 — 
+- 2026-03-04 — 
+- 2026-03-04 — 
+- 2026-03-04 — 
+- 2026-03-04 — 
+- 2026-03-04 — 
+- 2026-03-04 — 
+- 2026-03-04 — 
+- 2026-03-04 — 
+- 2026-03-04 — 
+- 2026-03-04 — 
+- 2026-03-04 — 
+- 2026-03-04 — 
+- 2026-03-04 — 
+- 2026-03-04 — 
+- 2026-03-04 — 
+- 2026-03-04 — 
+- 2026-03-04 — 
+- 2026-03-04 — 
+- 2026-03-04 — Amendment SA 4307 proposed by Senator Thune for Senator Scott SC to Amendment SA 4308. (consideration: CR S773-774) To require the Comptroller General of the United States to submit to Congress studies on workforce housing, housing for persons who are elderly or disabled, proximity of housing to Superfund sites, and residential heirs property.
+- 2026-03-04 — Amendment SA 4308 proposed by Senator Scott SC. (consideration: CR S773) In the nature of a substitute.
+- 2026-03-04 — Amendment SA 4310 proposed by Senator Thune to Amendment SA 4307. (consideration: CR S774) To improve the bill.
+- 2026-03-04 — Amendment SA 4311 proposed by Senator Thune to language proposed to be stricken by amendment no. 4308. (consideration: CR S774) To improve the bill.
+- 2026-03-04 — Amendment SA 4312 proposed by Senator Thune to Amendment SA 4311. (consideration: CR S774) To improve the bill.
+- 2026-03-04 — Amendment SA 4313 proposed by Senator Thune. (consideration: CR S774) To improve the bill.
+- 2026-03-04 — Amendment SA 4314 proposed by Senator Thune to Amendment SA 4313 (the instructions of the motion to commit). (consideration: CR S774-775) To improve the bill.
+- 2026-03-04 — Amendment SA 4315 proposed by Senator Thune to Amendment SA 4314. (consideration: CR S775) To improve the bill.
+- 2026-03-04 — Measure laid before Senate by motion. (consideration: CR S773-777)
+- 2026-03-04 — Motion by Senator Thune to commit to Senate Committee on Banking, Housing, and Urban Affairs with instructions to report back forthwith with the following amendment (SA 4313) made in Senate.
+- 2026-03-04 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 90 - 8. Record Vote Number: 45. (CR S773)
+- 2026-03-04 — Motion to proceed to measure considered in Senate. (CR S769)
+- 2026-03-04 — Senate amendment proposed (on the floor): Amendment SA 4307 proposed by Senator Thune for Senator Scott SC to Amendment SA 4308.
+- 2026-03-04 — Senate amendment proposed (on the floor): Amendment SA 4308 proposed by Senator Scott SC.
+- 2026-03-04 — Senate amendment proposed (on the floor): Amendment SA 4310 proposed by Senator Thune to Amendment SA 4307.
+- 2026-03-04 — Senate amendment proposed (on the floor): Amendment SA 4311 proposed by Senator Thune to language proposed to be stricken by amendment no. 4308.
+- 2026-03-04 — Senate amendment proposed (on the floor): Amendment SA 4312 proposed by Senator Thune to Amendment SA 4311.
+- 2026-03-04 — Senate amendment proposed (on the floor): Amendment SA 4313 proposed by Senator Thune.
+- 2026-03-04 — Senate amendment proposed (on the floor): Amendment SA 4314 proposed by Senator Thune to Amendment SA 4313 (the instructions of the motion to commit).
+- 2026-03-04 — Senate amendment proposed (on the floor): Amendment SA 4315 proposed by Senator Thune to Amendment SA 4314.
+- 2026-03-04 — Senate amendment submitted
+- 2026-03-04 — Senate amendment submitted
+- 2026-03-04 — Senate amendment submitted
+- 2026-03-04 — Senate amendment submitted
+- 2026-03-04 — Senate amendment submitted
+- 2026-03-04 — Senate amendment submitted
+- 2026-03-04 — Senate amendment submitted
+- 2026-03-04 — Senate amendment submitted
+- 2026-03-04 — Senate amendment submitted
+- 2026-03-04 — Senate amendment submitted
+- 2026-03-04 — Senate amendment submitted
+- 2026-03-04 — Senate amendment submitted
+- 2026-03-04 — Senate amendment submitted
+- 2026-03-04 — Senate amendment submitted
+- 2026-03-04 — Senate amendment submitted
+- 2026-03-04 — Senate amendment submitted
+- 2026-03-04 — Senate amendment submitted
+- 2026-03-04 — Senate amendment submitted
+- 2026-03-04 — Senate amendment submitted
+- 2026-03-04 — Senate amendment submitted
+- 2026-03-04 — Senate amendment submitted
+- 2026-03-04 — Senate amendment submitted
+- 2026-03-04 — Senate amendment submitted
+- 2026-03-04 — Senate amendment submitted
+- 2026-03-04 — Senate amendment submitted
+- 2026-03-04 — Senate amendment submitted
+- 2026-03-04 — Senate amendment submitted
+- 2026-03-04 — Senate amendment submitted
+- 2026-03-04 — Senate amendment submitted
+- 2026-03-04 — Senate amendment submitted
+- 2026-03-04 — Senate amendment submitted
+- 2026-03-04 — Senate amendment submitted
+- 2026-03-04 — Senate amendment submitted
+- 2026-03-04 — Senate amendment submitted
+- 2026-03-04 — Senate amendment submitted
+- 2026-03-04 — Senate amendment submitted
+- 2026-03-04 — Senate amendment submitted
+- 2026-03-05 — 
+- 2026-03-05 — 
+- 2026-03-05 — 
+- 2026-03-05 — 
+- 2026-03-05 — 
+- 2026-03-05 — 
+- 2026-03-05 — 
+- 2026-03-05 — 
+- 2026-03-05 — 
+- 2026-03-05 — 
+- 2026-03-05 — 
+- 2026-03-05 — 
+- 2026-03-05 — 
+- 2026-03-05 — 
+- 2026-03-05 — 
+- 2026-03-05 — 
+- 2026-03-05 — 
+- 2026-03-05 — 
+- 2026-03-05 — 
+- 2026-03-05 — 
+- 2026-03-05 — 
+- 2026-03-05 — 
+- 2026-03-05 — 
+- 2026-03-05 — 
+- 2026-03-05 — 
+- 2026-03-05 — 
+- 2026-03-05 — Cloture motion on amendment SA 4308 presented in Senate. (CR S855)
+- 2026-03-05 — Cloture motion on the measure presented in Senate. (CR S877)
+- 2026-03-05 — Considered by Senate. (consideration: CR S855)
+- 2026-03-05 — Considered by Senate. (consideration: CR S855)
+- 2026-03-05 — Considered by Senate. (consideration: CR S855)
+- 2026-03-05 — Considered by Senate. (consideration: CR S855)
+- 2026-03-05 — Considered by Senate. (consideration: CR S855)
+- 2026-03-05 — Considered by Senate. (consideration: CR S855)
+- 2026-03-05 — Considered by Senate. (consideration: CR S855)
+- 2026-03-05 — Considered by Senate. (consideration: CR S855)
+- 2026-03-05 — Considered by Senate. (consideration: CR S855-856)
+- 2026-03-05 — Senate amendment submitted
+- 2026-03-05 — Senate amendment submitted
+- 2026-03-05 — Senate amendment submitted
+- 2026-03-05 — Senate amendment submitted
+- 2026-03-05 — Senate amendment submitted
+- 2026-03-05 — Senate amendment submitted
+- 2026-03-05 — Senate amendment submitted
+- 2026-03-05 — Senate amendment submitted
+- 2026-03-05 — Senate amendment submitted
+- 2026-03-05 — Senate amendment submitted
+- 2026-03-05 — Senate amendment submitted
+- 2026-03-05 — Senate amendment submitted
+- 2026-03-05 — Senate amendment submitted
+- 2026-03-05 — Senate amendment submitted
+- 2026-03-05 — Senate amendment submitted
+- 2026-03-05 — Senate amendment submitted
+- 2026-03-05 — Senate amendment submitted
+- 2026-03-05 — Senate amendment submitted
+- 2026-03-05 — Senate amendment submitted
+- 2026-03-05 — Senate amendment submitted
+- 2026-03-05 — Senate amendment submitted
+- 2026-03-05 — Senate amendment submitted
+- 2026-03-05 — Senate amendment submitted
+- 2026-03-05 — Senate amendment submitted
+- 2026-03-05 — Senate amendment submitted
+- 2026-03-05 — Senate amendment submitted
+- 2026-03-09 — 
+- 2026-03-09 — 
+- 2026-03-09 — 
+- 2026-03-09 — 
+- 2026-03-09 — 
+- 2026-03-09 — 
+- 2026-03-09 — 
+- 2026-03-09 — 
+- 2026-03-09 — 
+- 2026-03-09 — 
+- 2026-03-09 — 
+- 2026-03-09 — 
+- 2026-03-09 — 
+- 2026-03-09 — 
+- 2026-03-09 — 
+- 2026-03-09 — 
+- 2026-03-09 — 
+- 2026-03-09 — 
+- 2026-03-09 — 
+- 2026-03-09 — 
+- 2026-03-09 — 
+- 2026-03-09 — 
+- 2026-03-09 — 
+- 2026-03-09 — 
+- 2026-03-09 — 
+- 2026-03-09 — 
+- 2026-03-09 — 
+- 2026-03-09 — Senate amendment submitted
+- 2026-03-09 — Senate amendment submitted
+- 2026-03-09 — Senate amendment submitted
+- 2026-03-09 — Senate amendment submitted
+- 2026-03-09 — Senate amendment submitted
+- 2026-03-09 — Senate amendment submitted
+- 2026-03-09 — Senate amendment submitted
+- 2026-03-09 — Senate amendment submitted
+- 2026-03-09 — Senate amendment submitted
+- 2026-03-09 — Senate amendment submitted
+- 2026-03-09 — Senate amendment submitted
+- 2026-03-09 — Senate amendment submitted
+- 2026-03-09 — Senate amendment submitted
+- 2026-03-09 — Senate amendment submitted
+- 2026-03-09 — Senate amendment submitted
+- 2026-03-09 — Senate amendment submitted
+- 2026-03-09 — Senate amendment submitted
+- 2026-03-09 — Senate amendment submitted
+- 2026-03-09 — Senate amendment submitted
+- 2026-03-09 — Senate amendment submitted
+- 2026-03-09 — Senate amendment submitted
+- 2026-03-09 — Senate amendment submitted
+- 2026-03-09 — Senate amendment submitted
+- 2026-03-09 — Senate amendment submitted
+- 2026-03-09 — Senate amendment submitted
+- 2026-03-09 — Senate amendment submitted
+- 2026-03-09 — Senate amendment submitted
+- 2026-03-10 — 
+- 2026-03-10 — 
+- 2026-03-10 — Cloture invoked in Senate by Yea-Nay Vote. 89 - 9. Record Vote Number: 50. (CR S952)
+- 2026-03-10 — Considered by Senate. (consideration: CR S943)
+- 2026-03-10 — Considered by Senate. (consideration: CR S943)
+- 2026-03-10 — Considered by Senate. (consideration: CR S943)
+- 2026-03-10 — Considered by Senate. (consideration: CR S943)
+- 2026-03-10 — Considered by Senate. (consideration: CR S943)
+- 2026-03-10 — Considered by Senate. (consideration: CR S943)
+- 2026-03-10 — Considered by Senate. (consideration: CR S943)
+- 2026-03-10 — Considered by Senate. (consideration: CR S943)
+- 2026-03-10 — Considered by Senate. (consideration: CR S943)
+- 2026-03-10 — Motion by Senator Thune to commit to Senate Committee on Banking, Housing, and Urban Affairs with instructions to report back forthwith with the following amendment (SA 4313) fell when cloture was invoked on amendment SA 4308 in Senate.
+- 2026-03-10 — Roll call votes on amendments in Senate: Cloture invoked in Senate by Yea-Nay Vote. 89 - 9. Record Vote Number: 50.
+- 2026-03-10 — SA 4313 (the instructions of the motion to commit) fell when cloture invoked SA 4308.
+- 2026-03-10 — SA 4314 fell when SA 4313 (the instructions of the motion to commit) fell.
+- 2026-03-10 — SA 4315 fell when SA 4314 fell.
+- 2026-03-10 — Senate amendment submitted
+- 2026-03-10 — Senate amendment submitted
+- 2026-03-11 — Amendment SA 4307 agreed to in Senate by Voice Vote.
+- 2026-03-11 — Amendment SA 4308, as amended, agreed to in Senate by Yea-Nay Vote. 84 - 10. Record Vote Number: 51.
+- 2026-03-11 — Cloture invoked in Senate by Yea-Nay Vote. 82 - 11. Record Vote Number: 52. (CR S1005)
+- 2026-03-11 — Considered by Senate. (consideration: CR S969)
+- 2026-03-11 — Considered by Senate. (consideration: CR S969, S1004)
+- 2026-03-11 — Considered by Senate. (consideration: CR S969, S1004)
+- 2026-03-11 — Considered by Senate. (consideration: CR S969, S1004)
+- 2026-03-11 — Considered by Senate. (consideration: CR S969, S1004-1005)
+- 2026-03-11 — Considered by Senate. (consideration: CR S969, S1004-1005)
+- 2026-03-11 — Motion to table amendment SA 4310 agreed to in Senate by Voice Vote.
+- 2026-03-11 — Motion to table amendment SA 4311 agreed to in Senate by Voice Vote.
+- 2026-03-11 — Roll call votes on amendments in Senate: Amendment SA 4308, as amended, agreed to in Senate by Yea-Nay Vote. 84 - 10. Record Vote Number: 51.
+- 2026-03-11 — SA 4312 fell when SA 4311 tabled.
+- 2026-03-11 — Senate amendment agreed to: Amendment SA 4307 agreed to in Senate by Voice Vote.
+- 2026-03-11 — Senate amendment agreed to: Amendment SA 4308, as amended, agreed to in Senate by Yea-Nay Vote. 84 - 10. Record Vote Number: 51.
+- 2026-03-12 — Considered by Senate. (consideration: CR S1017, S1021-1024)
+- 2026-03-12 — Passed Senate with an amendment by Yea-Nay Vote. 89 - 10. Record Vote Number: 53.
+- 2026-03-12 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 89 - 10. Record Vote Number: 53.
