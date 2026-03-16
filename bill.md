@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3410
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,4 +15,6 @@ This Act may be cited as the “Supersonic Aviation Modernization Act”.
 
 ## § 2. Allowing for the operation of civil supersonic flight
 
-Not later than 1 year after the date of enactment of this section, the Administrator of the Federal Aviation Administration shall issue or revise such regulations, such as section 91.817 of part 14, Code of Federal Regulations, as are necessary to allow for the operation of civil aircraft (as defined in section 40102(16) of title 49, United States Code) without special authorization within the national airspace system at a Mach number greater than 1 so long as the aircraft is operated in such a manner that no sonic boom reaches the ground in the United States.
+- **(a)** *In general* Not later than 1 year after the date of enactment of this section, the Administrator of the Federal Aviation Administration shall issue or revise such regulations, such as section 91.817 of part 14, Code of Federal Regulations, as are necessary to allow for the operation of civil aircraft (as defined in section 40102(16) of title 49, United States Code) without special authorization within the national airspace system at a Mach number greater than 1 so long as the aircraft is operated in such a manner that no sonic boom reaches the ground in the United States.
+- **(b)** *Compliance with noise standards* Not later than April 1, 2027, the Administrator shall issue a final rule establishing noise standards under part 36 of title 14, Code of Federal Regulations, requiring civil aircraft granted authority to operate pursuant to subsection (a) not to exceed the most recent takeoff and landing noise levels required for subsonic aircraft currently in operation on the date of enactment.
+- **(c)** *Periodic review* In issuing the final rule issued under subsection (b), the Administrator shall further specify a process for periodic review and update of the rule to reflect future advances in aircraft noise reduction technology and relevant regulatory changes, as determined by the Administrator.
