@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2247
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,14 +11,13 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Pilot Certificate Accessibility Act”.
+This Act may be cited as the “Airmen Certificate Accessibility Act”.
 
 ## § 2. Acceptable forms of certification
 
 - **(a)** *In general* Section 44703 of title 49, United States Code, is amended by adding at the end the following:
-  > - **(m)** *Sufficiency of digital and physical copies of airman certificates* An individual issued a certificate pursuant to this section (including a medical certificate) may present such certificate to an inspector of the Federal Aviation Administration in any of the following formats:
-  >   - **(1)** A physical, original copy issued by the Administrator (or his or her designee).
-  >   - **(2)** A digital copy stored on an electronic device or cloud storage platform, including a mobile certificate issued by the Administrator.
+  > - **(m)** *Sufficiency of digital and physical airman certificates* An individual issued a certificate pursuant to this section (including a medical certificate) may present such certificate to an inspector of the Federal Aviation Administration in any of the following formats:
+  >   - **(1)** A physical certificate issued by the Administrator (or his or her designee).
+  >   - **(2)** A digital certificate issued by the Administrator that is stored on an electronic device or, in areas where there is sufficient connectivity to do so, a cloud-based system, and presented in accordance with authentication and verification requirements established by the Administrator.
 
-- **(b)** *Rulemaking* The Administrator of the Federal Aviation Administration shall update regulations in part 61 of title 14, Code of Federal Regulations, as necessary, to implement the amendments made by this section.
-- **(c)** *Applicability* Beginning on the date that is 1 year after the date of enactment of this Act, the Administrator shall apply part 61, Code of Federal Regulations, in a manner reflecting the changes to section 44703 of title 49, United States Code, made by this Act.
+- **(b)** *Rulemaking* Not later than November 30, 2028, the Administrator of the Federal Aviation Administration shall issue a final rule to update regulations in parts 61, 63, 65, 67, and 107 of title 14, Code of Federal Regulations, to implement the amendments made by this section, and any applicable guidance and policies.

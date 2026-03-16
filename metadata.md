@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2247
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2247
@@ -30,3 +30,9 @@ Airmen Certificate Accessibility Act
 - 2025-03-21 — Introduced in House
 - 2025-03-21 — Referred to the House Committee on Transportation and Infrastructure.
 - 2025-03-21 — Referred to the Subcommittee on Aviation.
+- 2026-01-21 — Committee Consideration and Mark-up Session Held
+- 2026-01-21 — Ordered to be Reported (Amended) by Voice Vote.
+- 2026-01-21 — Subcommittee on Aviation Discharged
+- 2026-03-16 — Placed on the Union Calendar, Calendar No. 474.
+- 2026-03-16 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 119-551.
+- 2026-03-16 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 119-551.
