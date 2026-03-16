@@ -32,4 +32,4 @@ The Integrated Coastal and Ocean Observation System Act of 2009 (33 U.S.C. 3601 
   - **(A)** in paragraph (4), by striking “and” at the end;
   - **(B)** in paragraph (5), by striking the period at the end and inserting “; and”; and
   - **(C)** by adding at the end the following:
-    > - **(6)** $56,000,000 for each of fiscal years 2026 through 2030.
+    > - **(6)** $47,500,000 for each of fiscal years 2026 through 2030.
