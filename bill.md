@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 7942
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7942
+
+> To amend the Commodity Exchange Act to prohibit the listing of contracts relating to war, death, and similar activities.
+
+## § 1. Short title
+
+This Act may be cited as the “Discouraging Exploitative Assassination, Tragedy, and Harm Betting in Event Trading Systems Act” or the “DEATH BETS Act”.
+
+## § 2. Prohibition on listing of contracts relating to war, death, and similar activities
+
+Section 5c of the Commodity Exchange Act (7 U.S.C. 7a–2) is amended by inserting after subsection (c) the following:
+
+> - **(d)** *Prohibition on listing of contracts relating to war, death, and similar activities* A registered entity shall not list for trading or accept for clearing on or through the registered entity any of the following:
+>   - **(1)** An agreement, contract, transaction, or swap based on an excluded commodity (as defined in section 1a(19)(iv)) that involves, relates to, or references terrorism, assassination, war, or any similar activity, as determined by the Commission.
+>   - **(2)** An agreement, contract, transaction, or swap based on an excluded commodity (as defined in section 1a(19)(iv)) that involves, relates to, or references an individual’s death or could otherwise be construed as correlating closely to an individual’s death.
