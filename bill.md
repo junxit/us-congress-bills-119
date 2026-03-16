@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 528
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Post-Disaster Reforestation and Restoration Act of 2025”.
+This Act may be cited as the “Post-Disaster Reforestation and Restoration Act”.
 
 ## § 2. Post-Disaster Reforestation and Restoration Program
 
@@ -40,14 +40,22 @@ This Act may be cited as the “Post-Disaster Reforestation and Restoration Act 
   - **(3)** An accounting of grants, contracts, and cooperative agreements established in furtherance of priority projects.
   - **(4)** Outreach efforts by covered agencies to advance priority projects.
   - **(5)** Assessments of, and recommendations relating to seed, seedling, and implementation gaps to advance priority projects and opportunities to establish dedicated funding necessary to address any backlog of reforestation and restoration needs.
-- **(e)** *Definitions* In this section:
-  - **(1)** *Covered agency* The term covered agency means—
-    - **(A)** each Federal land management agency (as such term is defined in the Federal Lands Recreation Enhancement Act (16 U.S.C. 6801)); and
-    - **(B)** the Bureau of Indian Affairs.
-  - **(2)** *Covered lands* The term covered lands means any Federal land or interest in land administered by a covered agency and Indian Forest Land or Rangeland.
-  - **(3)** *Indian tribe* The term Indian Tribe means any Indian or Alaska Native tribe, band, nation, pueblo, village, or community individually identified (including parenthetically) in the list published most recently as of the date of enactment of this Act pursuant to section 104 of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 5131).
-  - **(4)** *Natural regeneration* The term natural regeneration has the meaning given the term in section (e)(4) of the Forest and Rangeland Renewable Resources Planning Act of 1974 (U.S.C. 36 1601).
-  - **(5)** *Reforestation* The term reforestation has the meaning given the term in section (e)(4) of the Forest and Rangeland Renewable Resources Planning Act of 1974 (U.S.C. 36 1601).
-  - **(6)** *Restoration* The term restoration means assisting the recovery of an ecosystem that has been degraded, damaged, or destroyed, including the reestablishment of appropriate plant species composition and community structure.
-  - **(7)** *Secretary* The term Secretary means the Secretary of Interior.
-  - **(8)** *Unplanned disturbance* The term unplanned disturbance means any unplanned disturbance that disrupts ecosystem structure or composition and may include a wildfire, an infestation of insects or disease, or a weather event.
+- **(e)** *Sunset* The authority provided under this section shall terminate on the date that is 7 years after the date of enactment of this Act.
+- **(f)** *Definitions* In this section:
+  - **(1)** *Covered agency* The term covered agency means the National Park Service, the United States Fish and Wildlife Service, the Bureau of Land Management, the Bureau of Reclamation, and the Bureau of Indian Affairs.
+  - **(2)** *Covered lands* The term covered lands means—
+    - **(A)** any Federal land or interest in land administered by a covered agency; or
+    - **(B)** Indian Forest Land or Rangeland.
+  - **(3)** *Indian Forest Land or Rangeland* The term “Indian Forest Land or Rangeland” means land that—
+    - **(A)** is held in trust by, or with a restriction against alienation by, the United States for an Indian Tribe or a member of an Indian Tribe; and
+    - **(B)**
+      - **(i)**
+        - **(I)** is Indian forest land (as defined in section 304 of the National Indian Forest Resources Management Act (25 U.S.C. 3103)); or
+        - **(II)** has a cover of grasses, brush, or any similar vegetation; or
+      - **(ii)** formerly had a forest cover or vegetative cover that is capable of restoration.
+  - **(4)** *Indian tribe* The term Indian Tribe means any Indian or Alaska Native tribe, band, nation, pueblo, village, or community individually identified (including parenthetically) in the list published most recently as of the date of enactment of this Act pursuant to section 104 of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 5131).
+  - **(5)** *Natural regeneration* The term natural regeneration has the meaning given the term in section (e)(4) of the Forest and Rangeland Renewable Resources Planning Act of 1974 (U.S.C. 36 1601).
+  - **(6)** *Reforestation* The term reforestation has the meaning given the term in section (e)(4) of the Forest and Rangeland Renewable Resources Planning Act of 1974 (U.S.C. 36 1601).
+  - **(7)** *Restoration* The term restoration means assisting the recovery of an ecosystem that has been degraded, damaged, or destroyed, including the reestablishment of appropriate plant species composition and community structure.
+  - **(8)** *Secretary* The term Secretary means the Secretary of the Interior.
+  - **(9)** *Unplanned disturbance* The term unplanned disturbance means any unplanned disturbance that disrupts ecosystem structure or composition and may include a wildfire, an infestation of insects or disease, or a weather event.
