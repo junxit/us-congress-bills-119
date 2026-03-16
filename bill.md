@@ -1,0 +1,17 @@
+---
+legis-num: H.R. 7948
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7948
+
+> To deem certain individuals as parents of Department of Veterans Affairs employees for purposes of determining entitlement to certain family and medical leave for such employees.
+
+## § 1. Treatment of certain family members of Department of Veterans Affairs employees for purposes of family and medical leave
+
+- **(a)** *In general* Notwithstanding section 7421 of title 38, United States Code, or any other provision of law, a parent of the spouse of a covered employee shall, for the purposes of determining eligibility for the entitlement of the covered employee to leave under section 6382(a)(1)(C) of title 5, United States Code, be deemed as a parent of the covered employee.
+- **(b)** *Definitions* In this section:
+  - **(1)** The term “covered employee” means an employee of the Department of Veterans Affairs (including an employee who is appointed in the Veterans Health Administration under any provision of chapter 74 of such title on a full-time basis in a position listed in section 7421(b) of such title).
+  - **(2)** The terms “employee” and “parent” have the meanings given such terms in section 6381 of title 5, United States Code.
