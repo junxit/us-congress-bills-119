@@ -18,7 +18,7 @@ This Act may be cited as the “Small Cemetery Conveyance Act”.
 - **(a)** *Amendments to Small Tract Act of 1983* The Small Tract Act of 1983 (16 U.S.C. 521c et seq.) is amended—
   - **(1)** in section 2(a)—
     - **(A)** in paragraph (1), by striking “and” at the end;
-    - **(B)** in paragraph (2), by striking the period at the end and inserting “and”; and
+    - **(B)** in paragraph (2), by striking the period at the end and inserting “; and”; and
     - **(C)** by adding at the end the following:
       > - **(3)** to convey, without consideration, certain parcels used, or previously used, as cemeteries in accordance with section 9.
 
@@ -33,19 +33,19 @@ This Act may be cited as the “Small Cemetery Conveyance Act”.
     >   - **(1)** *Exception available* The Secretary may waive the application of any requirement under section 4 to a conveyance to a qualified person under this section if the Secretary determines that such a waiver is appropriate based upon the demonstrated need of the qualified person.
     >   - **(2)** *Clarification of authority* The waiver authority under paragraph (1) shall be in addition to the authority available to the Secretary pursuant to the last sentence of section 4.
     > - **(e)** *Definitions* In this section:
-    >   - **(1)** *Cemetery* The term “cemetery” means a natural or prepared physical location (regardless of location below, on, or above the surface of the earth) into which human remains are deposited—
+    >   - **(1)** *Cemetery* The term cemetery means a natural or prepared physical location (regardless of location below, on, or above the surface of the earth) into which human remains are deposited—
     >     - **(A)**
     >       - **(i)** as part of—
     >         - **(I)** a death rite or ceremony of a culture; or
     >         - **(II)** a common burying ground of a community; or
     >       - **(ii)** that is determined to be a cemetery by an Indian Tribe; and
     >     - **(B)** that, as determined by the Secretary, is a parcel of land less than or equal to 40 acres.
-    >   - **(2)** *Indian Tribe* The term “Indian Tribe” means the governing body of any individually identified and federally recognized Indian or Alaska Native tribe, band, nation, pueblo, village, community, affiliated Tribal group, or component reservation included on the most recent list published pursuant to section 104(a) of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 5131(a)).
-    >   - **(3)** *Qualified land grant-merced* The term “qualified land grant-merced” means a community land grant issued under the laws or customs of the Government of Spain or Mexico that—
+    >   - **(2)** *Indian Tribe* The term Indian Tribe means the governing body of any individually identified and federally recognized Indian or Alaska Native tribe, band, nation, pueblo, village, community, affiliated Tribal group, or component reservation included on the most recent list published pursuant to section 104(a) of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 5131(a)).
+    >   - **(3)** *Qualified land grant-merced* The term qualified land grant-merced means a community land grant issued under the laws or customs of the Government of Spain or Mexico that—
     >     - **(A)** is recognized under New Mexico Statutes Chapter 49, Articles 1 and 4 (or a successor statute); and
     >     - **(B)**
     >       - **(i)** has a record of historical or traditional use on Federal land under the jurisdiction of the Secretary; or
     >       - **(ii)** has a patented exterior boundary that is or was previously located on or adjacent to Federal land under the jurisdiction of the Secretary.
-    >   - **(4)** *Qualified person* The term “qualified person” means, with respect to a cemetery, a State or local government, Indian Tribe, or qualified land grant-merced that has a bona fide interest or historic claim to the cemetery.
+    >   - **(4)** *Qualified person* The term qualified person means, with respect to a cemetery, a State or local government, Indian Tribe, or qualified land grant-merced that has a bona fide interest or historic claim to the cemetery.
 
 - **(b)** *Rule of construction* Nothing in this section or an amendment made by this section may be construed to modify, waive, or otherwise affect the application of the Native American Graves Protection and Repatriation Act (25 U.S.C. 3001 et seq.).

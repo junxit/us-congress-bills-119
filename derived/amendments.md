@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4284
 congress: 119
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -43,6 +43,6 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `16 U.S.C. § 521c` | strike | in paragraph (1), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `16 U.S.C. § 521c` | replace | in paragraph (2), by striking the period at the end and inserting “and”; and | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 521c` | replace | in paragraph (2), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 521c` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 5131` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

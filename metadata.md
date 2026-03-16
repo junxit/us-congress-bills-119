@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4284
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4284
@@ -41,3 +41,9 @@ Small Cemetery Conveyance Act
 - 2026-01-14 — Placed on the Union Calendar, Calendar No. 389.
 - 2026-01-14 — Reported by the Committee on Natural Resources. H. Rept. 119-454, Part I.
 - 2026-01-14 — Reported by the Committee on Natural Resources. H. Rept. 119-454, Part I.
+- 2026-03-16 — Considered under suspension of the rules. (consideration: CR H2510-2511)
+- 2026-03-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4284.
+- 2026-03-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-03-16 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
+- 2026-03-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2510)
+- 2026-03-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2510)
