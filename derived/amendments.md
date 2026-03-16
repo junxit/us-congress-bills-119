@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1422
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,6 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `22 U.S.C. § 2708` | replace | in paragraph (13), by striking ‘‘; or’’ and inserting a semicolon; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2708` | replace | in paragraph (14), by striking the period at the end and inserting ‘‘; or’’; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 2708` | add-at-end | by adding at the end the following paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2708` | replace | in paragraph (14), by striking “; or” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `22 U.S.C. § 2708` | replace | in paragraph (15), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 8572` | add-at-end | by adding at the end the following paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
