@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5663
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+4 amendatory instructions. 0 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `49 U.S.C. § 42301` | replace | in paragraph (3) by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
-| `49 U.S.C. § 42301` | replace | in paragraph (4) by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
-| `49 U.S.C. § 42301` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | in paragraph (3) by striking “; and” and inserting a semicolon; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (4) by striking the period and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | in subsection (i) by striking “ticket agents,”. | the bill names no machine-readable US Code section |

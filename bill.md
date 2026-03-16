@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5663
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,9 +15,12 @@ This Act may be cited as the “ACPAC Modernization Act”.
 
 ## § 2. Aviation consumer protection advisory committee
 
-Section 411(b) of the FAA Modernization and Reform Act of 2012 (49 U.S.C. 42301 note) is amended—
+Section 411 of the FAA Modernization and Reform Act of 2012 (49 U.S.C. 42301 prec. note) is amended—
 
-- **(1)** in paragraph (3) by striking “; and” and inserting a semicolon;
-- **(2)** in paragraph (4) by striking the period and inserting “; and”; and
-- **(3)** by adding at the end the following:
-  > - **(5)** ticket agents.
+- **(1)** in subsection (b)—
+  - **(A)** in paragraph (3) by striking “; and” and inserting a semicolon;
+  - **(B)** in paragraph (4) by striking the period and inserting “; and”; and
+  - **(C)** by adding at the end the following:
+    > - **(5)** ticket agents.
+
+- **(2)** in subsection (i) by striking “ticket agents,”.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5663
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5663
@@ -16,9 +16,10 @@ ACPAC Modernization Act
 
 - Rep. Titus, Dina [D-NV-1] (T000468)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
+- Rep. Cleaver, Emanuel [D-MO-5] (C001061)
 
 ## Committees (1)
 
@@ -29,3 +30,10 @@ ACPAC Modernization Act
 - 2025-09-30 — Introduced in House
 - 2025-09-30 — Introduced in House
 - 2025-09-30 — Referred to the House Committee on Transportation and Infrastructure.
+- 2025-12-01 — Referred to the Subcommittee on Aviation.
+- 2025-12-18 — Committee Consideration and Mark-up Session Held
+- 2025-12-18 — Ordered to be Reported (Amended) by Voice Vote.
+- 2025-12-18 — Subcommittee on Aviation Discharged
+- 2026-03-16 — Placed on the Union Calendar, Calendar No. 470.
+- 2026-03-16 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 119-547.
+- 2026-03-16 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 119-547.
