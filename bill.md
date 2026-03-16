@@ -75,8 +75,8 @@ In this Act:
   - **(5)** support the development and dissemination of educational materials and programs that inform the public about the threats to the health and resiliency of giant sequoia groves and actions being taken to reduce the risk to such groves from high-severity wildfire, insects, and drought.
 - **(c)** *Administrative support, technical services, and staff support* The Secretary shall make personnel of the Department of the Interior available to the Coalition for administrative support, technical services, development and dissemination of educational materials, and staff support that the Secretary determines necessary to carry out this section.
 - **(d)** *Public Meeting requirement*
-  - **(1)** *In general* Except as provided in paragraph (2), the Coalition shall hold not less than one meeting annually, which shall be open to the public.
-  - **(2)** *Closed sessions* The Coalition may close portions of a meeting to the public only when discussion will involve—
+  - **(1)** *In general* Except as provided in paragraph (2), the Coalition shall provide for public observation at no less than one meeting annually.
+  - **(2)** *Closed sessions* The Coalition may close portions of a meeting as provided in paragraph (1) to the public only when discussion will involve—
     - **(A)** sensitive law enforcement, security, or emergency response matters, the public disclosure of which would compromise public safety; or
     - **(B)** confidential commercial information, private property information, or landowner information.
 
