@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6618
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -16,22 +16,19 @@ This Act may be cited as the “Wildfire Aerial Response Safety Act”.
 ## § 2. Study on drone incursions on wildfire suppression
 
 - **(a)** *Definitions* In this section:
-  - **(1)** *Drone* The term drone means an unmanned aircraft system owned by a private individual or entity.
-  - **(2)** *Drone incursion* The term drone incursion means the operation of a drone within any airspace for which the Administrator of the Federal Aviation Administration has issued a temporary flight restriction because of a wildfire.
-  - **(3)** *Unmanned aircraft system* The term “unmanned aircraft system” means an unmanned aircraft and associated elements (including, if applicable, communication links and the components that control the unmanned aircraft) that are required for the operator to operate safely and efficiently.
-- **(b)** *Study required* The Administrator of the Federal Aviation Administration, in consultation with the Secretary of the Interior and the Secretary of Agriculture, acting through the Chief of the Forest Service, shall conduct a study on the effects of drone incursions on wildfire suppression with respect to land managed by the Department of the Interior or the Department of Agriculture.
+  - **(1)** *Counter-UASsystem; Unmanned aircraft system* The terms “counter-UAS system” and unmanned aircraft system have the meanings given such terms in section 44801 of title 49, United States Code.
+  - **(2)** *Unmanned aircraft system incursion* The term unmanned aircraft system incursion means the operation of an unmanned aircraft system within any airspace for which the Administrator of the Federal Aviation Administration has issued a temporary flight restriction because of a wildfire.
+- **(b)** *Study required* The Administrator of the Federal Aviation Administration, in consultation with the Secretary of the Interior and the Secretary of Agriculture, acting through the Chief of the Forest Service, shall conduct a study on the effects of unmanned aircraft system incursions on wildfire suppression with respect to land managed by the Department of the Interior or the Department of Agriculture.
 - **(c)** *Study contents* In conducting the study required under subsection (b), the Administrator shall—
   - **(1)** determine, for each of the 5 most recent calendar years—
-    - **(A)** the number of occurrences in which a drone incursion interfered with wildfire suppression; and
+    - **(A)** the number of occurrences in which a unmanned aircraft system incursion has interfered with wildfire suppression; and
     - **(B)** the estimated effect of each occurrence described in subparagraph (A) on—
       - **(i)** the length of time required to achieve complete suppression;
       - **(ii)** any associated delay in the fielding of aerial firefighting response units; and
       - **(iii)** the amounts expended by the Federal Government; and
-  - **(2)** evaluate the feasibility and effectiveness of various actions to prevent drone incursions, including—
-    - **(A)** the use of counter-drone radio towers;
-    - **(B)** the use of reasonable force to disable, damage, or destroy a drone;
-    - **(C)** the seizure of a drone, including seizure with a net device; and
-    - **(D)** the dissemination of educational materials relating to the effects of drone incursions on wildfire suppression.
+  - **(2)** evaluate the feasibility and effectiveness of—
+    - **(A)** the dissemination of educational materials relating to the effects of unmanned aircraft system incursions on wildfire suppression operations; and
+    - **(B)** the deployment of approved counter-UAS systems by authorized entities as a means to detect, mitigate, and prevent unmanned aircraft system incursions during such operations.
 - **(d)** *Report* Not later than 18 months after the date of enactment of this Act, the Administrator shall submit to the Committee on Energy and Natural Resources, the Committee on Appropriations, and the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources, the Committee on Appropriations, and the Committee on Transportation and Infrastructure of the House of Representatives a report describing—
   - **(1)** the findings of the study required under subsection (b); and
   - **(2)** any recommendations relating to those findings.
