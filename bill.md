@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 7944
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 7944
+
+> To amend the Internal Revenue Code of 1986 to apply the floor plan financing interest rules to semi-trailers.
+
+## § 1. Short title
+
+This Act may be cited as the “Semi-Trailer Tax Parity Act”.
+
+## § 2. Application of floor plan financing interest rules to semitrailers
+
+- **(a)** *In general* Section 163(j)(9)(C) of the Internal Revenue Code of 1986 is amended by adding at the end the following: “Such term shall further include any truck trailer or semi-trailer chassis or truck trailer or semi-trailer bodies (within the meaning of subparagraphs (C) and (D) of section 4051(a)(1), but without regard to whether the acquisition is the first retail sale of such property) which are not described in section 4051(a)(3).”.
+- **(b)** *Effective date* The amendment made by this section shall apply to taxable years beginning after the date of the enactment of this Act.
