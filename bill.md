@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 831
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -34,7 +34,7 @@ Section 9402 of the Omnibus Public Land Management Act of 2009 (Public Law 111�
 >       - **(i)** *Expenditure* Amounts deposited in the Fund under subparagraph (A) shall be made available to the Secretary, without further appropriation, for expenditure—
 >         - **(I)** as provided in the Program Documents; and
 >         - **(II)** in accordance with this section.
->       - **(ii)** *Interest* Amounts derived from interest earned on amounts in the Fund under subparagraph (A) shall be made available, subject to the availability of appropriations, to the Secretary for expenditure—
+>       - **(ii)** *Interest* Amounts derived from interest earned on amounts in the Fund under subparagraph (A) shall be made available, subject to appropriation of amounts derived from such interest, to the Secretary for expenditure—
 >         - **(I)** as provided in the Program Documents; and
 >         - **(II)** in accordance with this section.
 >   - **(4)** *Investment of amounts*

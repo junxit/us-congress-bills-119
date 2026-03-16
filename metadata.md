@@ -1,7 +1,7 @@
 ---
 measure: H.R. 831
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 831
@@ -38,3 +38,9 @@ Lower Colorado River Multi-Species Conservation Program Amendment Act of 2025
 - 2025-09-15 — Placed on the Union Calendar, Calendar No. 234.
 - 2025-09-15 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-278.
 - 2025-09-15 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-278.
+- 2026-03-16 — Considered under suspension of the rules. (consideration: CR H2527-2529)
+- 2026-03-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 831.
+- 2026-03-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-03-16 — Mr. Wittman moved to suspend the rules and pass the bill, as amended.
+- 2026-03-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2527)
+- 2026-03-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2527)
