@@ -1,0 +1,18 @@
+---
+legis-num: S. 4099
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4099
+
+> To amend title 5, United States Code, to ensure that Federal employees are fully informed of their whistleblower rights.
+
+## § 1. Short title
+
+This Act may be cited as the “Whistleblower Anti-Gag Act of 2026”.
+
+## § 2. Anti-gag provision
+
+Section 2302(a)(2)(C)(i) of title 5, United States Code, is amended by inserting “or in the case of a nondisclosure policy, form, or agreement described under subsection (b)(13)” after “(D)”.
