@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6460
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6460
@@ -29,3 +29,10 @@ Recreational Drone Empowerment Act
 - 2025-12-04 — Introduced in House
 - 2025-12-04 — Introduced in House
 - 2025-12-04 — Referred to the House Committee on Transportation and Infrastructure.
+- 2025-12-05 — Referred to the Subcommittee on Aviation.
+- 2025-12-18 — Committee Consideration and Mark-up Session Held
+- 2025-12-18 — Ordered to be Reported by Voice Vote.
+- 2025-12-18 — Subcommittee on Aviation Discharged
+- 2026-03-16 — Placed on the Union Calendar, Calendar No. 472.
+- 2026-03-16 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 119-549.
+- 2026-03-16 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 119-549.
