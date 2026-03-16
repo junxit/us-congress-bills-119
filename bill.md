@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 6380
 
-> To establish the Chiricahua National Park in the State of Arizona as a unit of the National Park System, and for other purposes.
+> To redesignate the Chiricahua National Monument in the State of Arizona as Chiricahua National Park, and for other purposes.
 
 ## § 1. Short title
 
