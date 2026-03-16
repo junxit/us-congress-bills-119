@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 73
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.Con.Res. 73
@@ -29,3 +29,10 @@ Authorizing the use of the Capitol Grounds for the National Peace Officers’ Me
 - 2026-02-03 — Referred to the House Committee on Transportation and Infrastructure.
 - 2026-02-03 — Submitted in House
 - 2026-02-03 — Submitted in House
+- 2026-02-04 — Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.
+- 2026-02-11 — Committee Consideration and Mark-up Session Held
+- 2026-02-11 — Ordered to be Reported by Voice Vote.
+- 2026-02-11 — Subcommittee on Economic Development, Public Buildings, and Emergency Management Discharged
+- 2026-03-16 — Placed on the House Calendar, Calendar No. 65.
+- 2026-03-16 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 119-544.
+- 2026-03-16 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 119-544.
