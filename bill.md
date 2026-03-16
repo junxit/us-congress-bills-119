@@ -20,7 +20,7 @@ This Act may be cited as the “Shivwits Band of Paiutes Jurisdictional Clarity 
     - **(A)** held in trust by the United States for the benefit of the Shivwits Band of Paiutes; or
     - **(B)** subject to a restriction against alienation imposed by the United States.
   - **(2)** *Shivwits Band of Paiutes* The term Shivwits Band of Paiutes means—
-    - **(A)** the Shivwits Band of Paiutes, a federally recognized Indian Tribe restored by Congress pursuant to the Paiute Indian Tribe of Utah Restoration Act (Public Law 96–227; 94. Stat. 317);
+    - **(A)** the Shivwits Band of Paiutes, a federally recognized Indian Tribe restored by Congress pursuant to the Paiute Indian Tribe of Utah Restoration Act (Public Law 96–227; 94 Stat. 317);
     - **(B)** the recognized governing body of the Shivwits Band of Paiutes;
     - **(C)** any Shivwits Tribal enterprise, including any commercial activity, business, or entity managed, controlled, or operated by the Shivwits Band of Paiutes, and any subsidiaries thereto; and
     - **(D)** any corporation chartered by the Shivwits Band of Paiutes under section 17 of the Act of June 18, 1934 (commonly known as the “Indian Reorganization Act”) (48 Stat. 988, chapter 576; 25 U.S.C. 5124), and any subsidiaries thereto.
