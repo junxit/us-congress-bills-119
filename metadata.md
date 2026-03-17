@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4467
 congress: 119
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 4467
@@ -46,3 +46,12 @@ Vicksburg National Military Park Boundary Modification Act
 - 2026-03-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2509)
 - 2026-03-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2509)
 - 2026-03-17 — Received in the Senate, read twice.
+- 2026-09-22 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4882)
+- 2026-09-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (consideration: CR S4882)
+- 2026-09-24 — Message on Senate action sent to the House.
+- 2026-10-14 — Presented to President.
+- 2026-10-14 — Presented to President.
+- 2026-10-20 — Became Public Law No: 119-132.
+- 2026-10-20 — Became Public Law No: 119-132.
+- 2026-10-20 — Signed by President.
+- 2026-10-20 — Signed by President.
