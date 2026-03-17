@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3073
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3073
@@ -21,9 +21,10 @@ Shivwits Band of Paiutes Jurisdictional Clarity Act
 - Rep. Kennedy, Mike [R-UT-3] (K000403)
 - Rep. Owens, Burgess [R-UT-4] (O000086)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Shivwits Band of Paiutes Jurisdictional Clarity Act
 - 2026-03-16 — Mr. Wittman moved to suspend the rules and pass the bill.
 - 2026-03-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2515)
 - 2026-03-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2515)
+- 2026-03-17 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
