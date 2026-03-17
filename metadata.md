@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1422
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1422
@@ -314,10 +314,11 @@ Enhanced Iran Sanctions Act of 2025
 - Rep. Barragán, Nanette Diaz [D-CA-44] (B001300)
 - Rep. Cammack, Kat [R-FL-3] (C001039)
 
-## Committees (2)
+## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Judiciary Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -335,3 +336,4 @@ Enhanced Iran Sanctions Act of 2025
 - 2026-03-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2500-2501)
 - 2026-03-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2500-2501)
 - 2026-03-16 — The title of the measure was amended. Agreed to without objection.
+- 2026-03-17 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
