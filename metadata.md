@@ -1,7 +1,7 @@
 ---
 measure: H.R. 528
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 528
@@ -21,10 +21,11 @@ Post-Disaster Reforestation and Restoration Act
 - Rep. Edwards, Chuck [R-NC-11] (E000246)
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 
-## Committees (2)
+## Committees (3)
 
 - House — Agriculture Committee
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Post-Disaster Reforestation and Restoration Act
 - 2026-03-16 — Mr. Wittman moved to suspend the rules and pass the bill, as amended.
 - 2026-03-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2524)
 - 2026-03-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2524)
+- 2026-03-17 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
