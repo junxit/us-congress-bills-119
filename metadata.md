@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2294
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2294
@@ -44,10 +44,11 @@ To reauthorize the Integrated Coastal and Ocean Observation System Act of 2009.
 - Rep. Vindman, Eugene Simon [D-VA-7] (V000138)
 - Rep. Gillen, Laura [D-NY-4] (G000602)
 
-## Committees (2)
+## Committees (3)
 
 - House — Science, Space, and Technology Committee
 - House — Natural Resources Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -71,3 +72,4 @@ To reauthorize the Integrated Coastal and Ocean Observation System Act of 2009.
 - 2026-03-16 — Mr. Wittman moved to suspend the rules and pass the bill, as amended.
 - 2026-03-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2513)
 - 2026-03-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2513)
+- 2026-03-17 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
