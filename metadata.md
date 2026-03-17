@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1366
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1366
@@ -61,3 +61,4 @@ Mining Regulatory Clarity Act
 - 2025-12-18 — Rule provides for consideration of H.R. 4776, H.R. 1366, H.R. 845, H.R. 3616, H.R. 3632 and H.R. 4371. The resolution provides for consideration of H.R. 4776, under a structured rule and H.R. 1366, H.R. 845, H.R. 3616, H.R. 3632, and H.R. 4371 under a closed rule. The resolution provides one motion to recommit on each bill.
 - 2025-12-18 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2025-12-18 — The previous question was ordered pursuant to the rule.
+- 2026-03-17 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 357.
