@@ -1,0 +1,26 @@
+---
+legis-num: S. 4120
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4120
+
+> To designate certain categorical exclusions for water resources development projects, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Community Water Project Acceleration Act”.
+
+## § 2. Categorical exclusions
+
+- **(a)** *In general* Not later than 180 days after the date of enactment of this Act, the Secretary of the Army shall designate as an action categorically excluded from the requirements relating to environmental assessments or environmental impact statements under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) any water resources development project—
+  - **(1)** carried out under—
+    - **(A)** a continuing authority program (as defined in section 7001(c)(1)(D) of the Water Resources Reform and Development Act of 2014 (33 U.S.C. 2282d(c)(1)(D))); or
+    - **(B)** an environmental infrastructure assistance program;
+  - **(2)** for which the construction work will be performed by the non-Federal sponsor; and
+  - **(3)**
+    - **(A)** the Federal share of the cost of which is less than $6,000,000; or
+    - **(B)** the Federal share of the cost of which is less than 15 percent and the total project cost of which is not more than $35,000,000.
+- **(b)** *Regulations* Not later than 150 days after the date of enactment of this Act, the Secretary of the Army shall promulgate regulations to carry out subsection (a).
