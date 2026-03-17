@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1665
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1665
@@ -22,11 +22,12 @@ DIGITAL Applications Act
 - Rep. McClain Delaney, April [D-MD-6] (M001232)
 - Rep. Landsman, Greg [D-OH-1] (L000601)
 
-## Committees (3)
+## Committees (4)
 
 - House — Agriculture Committee
 - House — Natural Resources Committee
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -56,3 +57,4 @@ DIGITAL Applications Act
 - 2026-03-16 — Mr. Westerman moved to suspend the rules and pass the bill.
 - 2026-03-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2511-2512)
 - 2026-03-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2511-2512)
+- 2026-03-17 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
