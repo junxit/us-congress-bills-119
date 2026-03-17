@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5729
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5729
@@ -26,9 +26,10 @@ North Rim Restoration Act
 - Rep. Hamadeh, Abraham J. [R-AZ-8] (H001098)
 - Rep. Ciscomani, Juan [R-AZ-6] (C001133)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ North Rim Restoration Act
 - 2026-03-16 — Mr. Wittman moved to suspend the rules and pass the bill, as amended.
 - 2026-03-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2521)
 - 2026-03-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2521)
+- 2026-03-17 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
