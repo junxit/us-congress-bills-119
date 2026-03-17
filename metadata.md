@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6392
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 6392
@@ -48,3 +48,6 @@ Home School Graduation Recognition Act
 - 2026-03-03 — Mr. Walberg moved to suspend the rules and pass the bill, as amended.
 - 2026-03-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2364-2365)
 - 2026-03-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2364-2365)
+- 2026-03-05 — Mr. Walberg asked unanimous consent that the Clerk be directed to make the correction to the engrossment of H.R. 6392 that has been placed at the desk. Agreed to without objection.
+- 2026-03-09 — Received in the Senate.
+- 2026-03-17 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 358.
