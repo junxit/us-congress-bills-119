@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2709
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2709
@@ -48,10 +48,11 @@ Save Our Sequoias Act
 - Rep. Fleischmann, Charles J. "Chuck" [R-TN-3] (F000459)
 - Rep. Gray, Adam [D-CA-13] (G000605)
 
-## Committees (2)
+## Committees (3)
 
 - House — Agriculture Committee
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -73,3 +74,4 @@ Save Our Sequoias Act
 - 2026-03-16 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
 - 2026-03-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2503-2507)
 - 2026-03-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2503-2507)
+- 2026-03-17 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
