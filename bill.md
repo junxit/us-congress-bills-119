@@ -1,0 +1,25 @@
+---
+legis-num: S. 4108
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4108
+
+> To amend title 38, United States Code, to increase burial and funeral expenses paid by the Secretary of Veterans Affairs in the case of death from a service-connected disability, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Veteran Burial Benefit Correction Act”.
+
+## § 2. Increase in burial and funeral expenses paid by the Secretary of Veterans Affairs in the case of death from a service-connected disability
+
+Section 2307 of title 38, United States Code, is amended—
+
+- **(1)** by inserting “(a)” before “In any case”;
+- **(2)** by striking “$2,000” and inserting “$3,000 (as increased from time to time under subsection (b))”; and
+- **(3)** by adding at the end the following new subsection:
+  > - **(b)** With respect to any fiscal year, the Secretary shall provide a percentage increase (rounded to the nearest dollar) in the amount of burial and funeral expenses payable under subsection (a)(1) equal to the percentage by which—
+  >   - **(1)** the Consumer Price Index (all items, United States city average) for the 12-month period ending on the June 30 preceding the beginning of the fiscal year for which the increase is made, exceeds
+  >   - **(2)** the Consumer Price Index for the 12-month period preceding the 12-month period described in paragraph (1).
