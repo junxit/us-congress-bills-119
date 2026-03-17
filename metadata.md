@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2196
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2196
@@ -25,9 +25,10 @@ National Emergency Medical Services Memorial Extension Act
 - Rep. Pettersen, Brittany [D-CO-7] (P000620)
 - Rep. Boebert, Lauren [R-CO-4] (B000825)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ National Emergency Medical Services Memorial Extension Act
 - 2026-03-16 — Mr. Wittman moved to suspend the rules and pass the bill, as amended.
 - 2026-03-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2523)
 - 2026-03-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2523)
+- 2026-03-17 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
