@@ -1,7 +1,7 @@
 ---
 measure: S. 4138
 congress: 119
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 4138
@@ -26,3 +26,16 @@ A bill to waive the 60-day notice requirement for the posthumous honorary promot
 - 2026-03-18 — Introduced in Senate
 - 2026-03-18 — Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent. (consideration: CR S1202; text: CR S1202)
 - 2026-03-18 — Passed/agreed to in Senate: Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Unanimous Consent.
+- 2026-03-19 — Considered by unanimous consent. (consideration: CR H2606-2607)
+- 2026-03-19 — Message on Senate action sent to the House.
+- 2026-03-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-03-19 — Mr. Rogers (AL) asked unanimous consent to take from the Speaker's table and consider.
+- 2026-03-19 — On passage Passed without objection. (text: CR H2607)
+- 2026-03-19 — Passed/agreed to in House: On passage Passed without objection. (text: CR H2607)
+- 2026-03-19 — Received in the House.
+- 2026-03-20 — Became Public Law No: 119-80.
+- 2026-03-20 — Became Public Law No: 119-80.
+- 2026-03-20 — Presented to President.
+- 2026-03-20 — Presented to President.
+- 2026-03-20 — Signed by President.
+- 2026-03-20 — Signed by President.
