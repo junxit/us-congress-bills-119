@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1958
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1958
@@ -57,6 +57,10 @@ Deporting Fraudsters Act of 2026
 
 - House — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2026-03-18 — [House 119-2-94](votes/house-119-2-0094.md) — On Passage — **Passed** (231–186)
+
 ## Actions
 
 - 2025-03-06 — Introduced in House
@@ -67,3 +71,17 @@ Deporting Fraudsters Act of 2026
 - 2026-01-27 — Placed on the Union Calendar, Calendar No. 400.
 - 2026-01-27 — Reported (Amended) by the Committee on Judiciary. H. Rept. 119-467.
 - 2026-01-27 — Reported (Amended) by the Committee on Judiciary. H. Rept. 119-467.
+- 2026-03-16 — Rules Committee Resolution H. Res. 1115 Reported to House. Rule provides for consideration of H.R. 556, H.R. 1958 and H.R. 4638. The resolution provides for consideration of H.R. 556, H.R. 1958, and H.R. 4638 under a closed rule. The resolution provides for one hour of general debate and one motion to recommit on each bill.
+- 2026-03-18 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2026-03-18 — Considered as unfinished business. (consideration: CR H2582-2583)
+- 2026-03-18 — Considered under the provisions of rule H. Res. 1115. (consideration: CR H2568-2576)
+- 2026-03-18 — DEBATE - The House proceeded with one hour of debate on H.R. 1958.
+- 2026-03-18 — House amendment considered as adopted: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2026-03-18 — House amendment offered/reported by: Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2026-03-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-03-18 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2026-03-18 — On passage Passed by the Yeas and Nays: 231 - 186 (Roll no. 94). (text of amendment in the nature of a substitute: CR H2568)
+- 2026-03-18 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 1958, the Chair put the question on passage of the bill and by voice vote, announced the ayes had prevailed. Mr. Raskin demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2026-03-18 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 231 - 186 (Roll no. 94). (text of amendment in the nature of a substitute: CR H2568)
+- 2026-03-18 — Rule provides for consideration of H.R. 556, H.R. 1958 and H.R. 4638. The resolution provides for consideration of H.R. 556, H.R. 1958, and H.R. 4638 under a closed rule. The resolution provides for one hour of general debate and one motion to recommit on each bill.
+- 2026-03-18 — The previous question was ordered pursuant to the rule.
