@@ -1,0 +1,24 @@
+---
+legis-num: S. 4135
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4135
+
+> To reauthorize the Federal lands access program.
+
+## § 1. Short title
+
+This Act may be cited as the “FLAP Reauthorization Act”.
+
+## § 2. Federal lands access program
+
+There are authorized to be appropriated out of the Highway Trust Fund (other than the Mass Transit Account) for the Federal lands access program under section 204 of title 23, United States Code—
+
+- **(1)** $313,975,000 for fiscal year 2027;
+- **(2)** $318,975,000 for fiscal year 2028;
+- **(3)** $323,975,000 for fiscal year 2029;
+- **(4)** $328,975,000 for fiscal year 2030; and
+- **(5)** $333,975,000 for fiscal year 2031.
