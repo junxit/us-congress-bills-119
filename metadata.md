@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4294
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4294
@@ -29,9 +29,10 @@ MAWS Act of 2026
 - Rep. Maloy, Celeste [R-UT-2] (M001228)
 - Rep. Gosar, Paul A. [R-AZ-9] (G000565)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -58,3 +59,4 @@ MAWS Act of 2026
 - 2026-03-17 — Motion to reconsider laid on the table Agreed to without objection.
 - 2026-03-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 320 - 66 (Roll no. 88).
 - 2026-03-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 320 - 66 (Roll no. 88).
+- 2026-03-18 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
