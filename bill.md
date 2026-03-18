@@ -1,0 +1,21 @@
+---
+legis-num: S. 4136
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4136
+
+> To include a Federal defender as a nonvoting member of the United States Sentencing Commission.
+
+## § 1. Short title
+
+This Act may be cited as the “Sentencing Commission Improvements Act”.
+
+## § 2. Federal defender as a nonvoting member of the United States Sentencing Commission
+
+- **(a)** *In general* Section 991(a) of title 28, United States Code, is amended—
+  - **(1)** in the first sentence, by striking “one nonvoting member” and inserting “2 nonvoting members”; and
+  - **(2)** in the fifth sentence, by striking “shall be an ex officio, nonvoting member” and inserting “and a Federal public defender, or a community defender, designated by the Defender Services Office of the Administrative Office of the United States Courts, shall be ex officio, nonvoting members”.
+- **(b)** *Conforming amendment* Section 235(b)(5) of the Sentencing Reform Act of 1984 (18 U.S.C. 3551 note) is amended, in the third sentence, by striking “nine members, including two” and inserting “10 members, including 3”.
