@@ -27,13 +27,13 @@ This Act may be cited as the “Community Bank Regulatory Tailoring Act”.
     - **(B)** by striking “$1,500,000,000” and inserting “$10,000,000,000”.
 - **(d)** *Dodd-Frank wall street reform and consumer protection act* The Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5301 et seq.) is amended—
   - **(1)** in section 210 (12 U.S.C. 5390)—
-    - **(A)** in subsection (o), by striking “$50,000,000,000” and inserting “$105,000,000,000”; and
+    - **(A)** in subsection (o), by striking “$50,000,000,000” in each place it appears and inserting “$105,000,000,000”; and
     - **(B)** in subsection (r), by striking “$1,000,000” and inserting “$5,000,000”; and
   - **(2)** in section 956(f) (12 U.S.C. 5641(f)), by striking “$1,000,000,000” and inserting “$3,000,000,000”.
 - **(e)** *Federal credit union act* The Federal Credit Union Act (12 U.S.C. 1751 et seq.) is amended—
   - **(1)** in section 202 (12 U.S.C. 1782)—
     - **(A)** in subsection (a)(6)(C)(iii)—
-      - **(i)** in the heading, by striking “DE MINIMUS” and inserting “DE MINIMIS”; and
+      - **(i)** in the heading, by striking “De MINIMUS” and inserting “De MINIMIS”; and
       - **(ii)** by striking “$10,000,000” and inserting “$34,000,000”;
     - **(B)** in subsection (a)(6)(D)—
       - **(i)** by striking “$500,000,000” and inserting “$2,000,000,000”; and
@@ -61,19 +61,19 @@ This Act may be cited as the “Community Bank Regulatory Tailoring Act”.
   - **(1)** in section 7(a)(1) (12 U.S.C. 289) by striking “$10,000,000,000” each place that term appears and inserting “$17,000,000,000”; and
   - **(2)** in section 22(h)(5)(C) (12 U.S.C. 375b(h)(5)(C)) by striking “$100,000,000” and inserting “$500,000,000”.
 - **(i)** *Home mortgage disclosure act of 1975* The Home Mortgage Disclosure Act of 1975 (12 U.S.C. 2801 et seq.) is amended—
-  - **(1)** in the second paragraph (3) of section 304(i) (12 U.S.C. 2803(i)(3); relating to “Exemption from certain disclosure requirements”), by striking “$30,000,000” and inserting “$160,000,000”; and
+  - **(1)** in the second paragraph (3) of section 304(i) (12 U.S.C. 2803(i)(3)); relating to “Exemption from certain disclosure requirements”), by striking “$30,000,000” and inserting “$160,000,000”; and
   - **(2)** in section 309(a) (12 U.S.C. 2808(a)), by striking “$10,000,000” and inserting “$180,000,000”.
 - **(j)** *Home owners’ loan act* Section 5(u) of the Home Owners’ Loan Act (12 U.S.C. 1464(u)) is amended—
   - **(1)** in paragraph (2)(A)(i), by striking “$500,000” and inserting “$3,000,000”; and
   - **(2)** in paragraph (2)(A)(ii), by striking “$30,000,000” and inserting “$160,000,000”.
-- **(k)** *International lending supervision act of 1983* Section 909(a)(1) of the International Lending Supervision Act of 1983 (12 U.S.C. 3908) is amended by striking “$20,000,000” and inserting “$160,000,000”.
+- **(k)** *International lending supervision act of 1983* Section 909(a)(1) of the International Lending Supervision Act of 1983 (12 U.S.C. 3908(a)(1)) is amended by striking “$20,000,000” and inserting “$160,000,000”.
 - **(l)** *Real estate settlement procedures act of 1974* Section 3(1)(B)(iv) of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2602(1)(B)(iv)) is amended by striking “$1,000,000” and inserting “$19,000,000”.
 - **(m)** *Revised statutes of the united states* Section 5136A(a)(2)(D)(ii) of the Revised Statutes of the United States (12 U.S.C. 24a(a)(2)(D)(ii)) is amended by striking “$50,000,000,000” and inserting “$175,000,000,000”.
 - **(n)** *Truth in lending act* Section 129C(b)(2)(F)(i) of the Truth in Lending Act (15 U.S.C. 1639c(b)(2)(F)(i)) is amended by striking “$10,000,000,000” and inserting “$15,000,000,000”.
 
 ## § 3. Periodic adjustments to thresholds to account for future increases in current-dollar United States Gross Domestic Product
 
-- **(a)** *In general* By April 1, 2031, and the 1st day of each subsequent 5-year period, the Board of Governors of the Federal Reserve System shall prescribe the amount by which each dollar amount described in section 2 of this Act shall be increased by the ratio, if greater than 1, of the annual value of current-dollar United States gross domestic product, published by the Department of Commerce, for the calendar year preceding the year in which the adjustment is calculated under this section, to the published annual value of such index for the calendar year preceding April 1, 2026.
+- **(a)** *In general* By April 1, 2031, and the 1st day of each subsequent 5-year period, the Board of Governors of the Federal Reserve System shall prescribe the amount by which each dollar amount described in section 2 of this Act shall be increased by the ratio, if greater than 1, of the annual value of current-dollar United States gross domestic product, published by the Department of Commerce, for the calendar year preceding the year in which the adjustment is calculated under this section, to the published annual value of current-dollar United States gross domestic product for the calendar year preceding April 1, 2026.
 - **(b)** *Currency of information* The values used in the calculation under subsection (a) shall be, as of the date of the calculation, the values most recently published by the Department of Commerce.
 - **(c)** *Rounding*
   - **(1)** If any amount equal to or greater than $100,000,000,000 determined under subsection (a) for any period is not a multiple of $50,000,000,000, the amount shall be rounded up to the nearest $50,000,000,000.

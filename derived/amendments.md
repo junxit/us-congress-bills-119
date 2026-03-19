@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7056
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -89,7 +89,7 @@ to guess them.
 
 ### 12 U.S.C. § 5390
 
-> in subsection (o), by striking “$50,000,000,000” and inserting “$105,000,000,000”; and
+> in subsection (o), by striking “$50,000,000,000” in each place it appears and inserting “$105,000,000,000”; and
 
 | | |
 |---|---|
@@ -116,12 +116,12 @@ to guess them.
 
 ### 12 U.S.C. § 1782
 
-> in the heading, by striking “DE MINIMUS” and inserting “DE MINIMIS”; and
+> in the heading, by striking “De MINIMUS” and inserting “De MINIMIS”; and
 
 | | |
 |---|---|
-| Removed | `DE MINIMUS` |
-| Inserted | `DE MINIMIS` |
+| Removed | `De MINIMUS` |
+| Inserted | `De MINIMIS` |
 
 ### 12 U.S.C. § 1782
 
@@ -296,7 +296,7 @@ to guess them.
 
 ### 12 U.S.C. § 2803
 
-> in the second paragraph (3) of section 304(i) (12 U.S.C. 2803(i)(3); relating to “Exemption from certain disclosure requirements”), by striking “$30,000,000” and inserting “$160,000,000”; and
+> in the second paragraph (3) of section 304(i) (12 U.S.C. 2803(i)(3)); relating to “Exemption from certain disclosure requirements”), by striking “$30,000,000” and inserting “$160,000,000”; and
 
 | | |
 |---|---|
@@ -332,7 +332,7 @@ to guess them.
 
 ### 12 U.S.C. § 3908
 
-> Section 909(a)(1) of the International Lending Supervision Act of 1983 (12 U.S.C. 3908) is amended by striking “$20,000,000” and inserting “$160,000,000”.
+> Section 909(a)(1) of the International Lending Supervision Act of 1983 (12 U.S.C. 3908(a)(1)) is amended by striking “$20,000,000” and inserting “$160,000,000”.
 
 | | |
 |---|---|
