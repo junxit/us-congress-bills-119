@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4638
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Bill to Outlaw Wounding of Official Working Animals Act of 2025” or the “BOWOW Act of 2025”.
+This Act may be cited as the “Federal Working Animal Protection Act”.
 
 ## § 2. Inadmissibility and deportability related to harming animals used in law enforcement
 

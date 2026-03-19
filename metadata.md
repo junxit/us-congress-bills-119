@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4638
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4638
@@ -38,9 +38,14 @@ Federal Working Animal Protection Act
 - Rep. Crane, Elijah [R-AZ-2] (C001132)
 - Rep. Mace, Nancy [R-SC-1] (M000194)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
+
+## Recorded votes (1)
+
+- 2026-03-19 — [House 119-2-96](votes/house-119-2-0096.md) — On Passage — **Passed** (228–190)
 
 ## Actions
 
@@ -53,3 +58,17 @@ Federal Working Animal Protection Act
 - 2025-12-12 — Placed on the Union Calendar, Calendar No. 355.
 - 2025-12-12 — Reported (Amended) by the Committee on Judiciary. H. Rept. 119-407.
 - 2025-12-12 — Reported (Amended) by the Committee on Judiciary. H. Rept. 119-407.
+- 2026-03-16 — Rules Committee Resolution H. Res. 1115 Reported to House. Rule provides for consideration of H.R. 556, H.R. 1958 and H.R. 4638. The resolution provides for consideration of H.R. 556, H.R. 1958, and H.R. 4638 under a closed rule. The resolution provides for one hour of general debate and one motion to recommit on each bill.
+- 2026-03-17 — Rule H. Res. 1115 passed House.
+- 2026-03-19 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2026-03-19 — Considered under the provisions of rule H. Res. 1115. (consideration: CR H2600-2606)
+- 2026-03-19 — DEBATE - The House proceeded with one hour of debate on H.R. 4638.
+- 2026-03-19 — House amendment considered as adopted: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2026-03-19 — House amendment offered/reported by: Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2026-03-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-03-19 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2026-03-19 — On passage Passed by the Yeas and Nays: 228 - 190 (Roll no. 96). (text of amendment in the nature of a substitute: CR H2600)
+- 2026-03-19 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 228 - 190 (Roll no. 96). (text of amendment in the nature of a substitute: CR H2600)
+- 2026-03-19 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2026-03-19 — Rule provides for consideration of H.R. 556, H.R. 1958 and H.R. 4638. The resolution provides for consideration of H.R. 556, H.R. 1958, and H.R. 4638 under a closed rule. The resolution provides for one hour of general debate and one motion to recommit on each bill.
+- 2026-03-19 — The previous question was ordered pursuant to the rule.
