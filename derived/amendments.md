@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7085
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 

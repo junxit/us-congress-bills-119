@@ -9,7 +9,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To amend the Securities Exchange Act of 1934 to repeal certain disclosure requirements related to conflict minerals, and for other purposes.
 
-## § 1. Repeal of conflict mineral requirements
+## § 1. Repeal of conflict mineral disclosure requirements
 
 - **(a)** *In general* Subsection (p) of section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m) is hereby repealed.
 - **(b)** *Conforming amendments* The Dodd-Frank Wall Street Reform and Consumer Protection Act (12 U.S.C. 5301 et seq.) is amended—

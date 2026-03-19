@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7085
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7085
@@ -25,3 +25,8 @@ To amend the Securities Exchange Act of 1934 to repeal certain disclosure requir
 - 2026-01-15 — Introduced in House
 - 2026-01-15 — Introduced in House
 - 2026-01-15 — Referred to the House Committee on Financial Services.
+- 2026-01-22 — Committee Consideration and Mark-up Session Held
+- 2026-01-22 — Ordered to be Reported (Amended) by the Yeas and Nays: 30 - 24.
+- 2026-03-19 — Placed on the Union Calendar, Calendar No. 481.
+- 2026-03-19 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-560.
+- 2026-03-19 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-560.
