@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1958
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1958
@@ -53,9 +53,10 @@ Deporting Fraudsters Act of 2026
 - Rep. Tiffany, Thomas P. [R-WI-7] (T000165)
 - Rep. Pfluger, August [R-TX-11] (P000048)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -85,3 +86,4 @@ Deporting Fraudsters Act of 2026
 - 2026-03-18 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 231 - 186 (Roll no. 94). (text of amendment in the nature of a substitute: CR H2568)
 - 2026-03-18 — Rule provides for consideration of H.R. 556, H.R. 1958 and H.R. 4638. The resolution provides for consideration of H.R. 556, H.R. 1958, and H.R. 4638 under a closed rule. The resolution provides for one hour of general debate and one motion to recommit on each bill.
 - 2026-03-18 — The previous question was ordered pursuant to the rule.
+- 2026-03-19 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
