@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7128
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-13 amendatory instructions. 10 executed, 3 stated and not applied.
+13 amendatory instructions. 9 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,15 +32,6 @@ to guess them.
 |---|---|
 | Removed | `2027` |
 | Inserted | `2034` |
-
-### 15 U.S.C. § 6701
-
-> in clause (ii), by striking “$5,000,000.” and inserting “$25,000,000; or”; and
-
-| | |
-|---|---|
-| Removed | `$5,000,000.` |
-| Inserted | `$25,000,000; or` |
 
 ### 15 U.S.C. § 6701
 
@@ -107,7 +98,7 @@ to guess them.
 
 ### 15 U.S.C. § 6701
 
-> The Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note) is amended by striking “Terrorism Insurance Program” each place it appears and inserting “Terrorism Risk Insurance Program”.
+> The Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note) is amended by striking “Terrorism Insurance Program” each place it appears in text or headings and inserting “Terrorism Risk Insurance Program”.
 
 | | |
 |---|---|
@@ -124,5 +115,6 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `15 U.S.C. § 6701` | strike | in clause (i), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 6701` | replace | in clause (ii), by striking “exceed $5,000,000.” and inserting: | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 6701` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 6701` | replace | by striking subparagraph (D) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

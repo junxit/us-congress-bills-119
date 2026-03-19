@@ -23,16 +23,20 @@ Section 102(1) of the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note)
 
 - **(1)** in subparagraph (B)—
   - **(A)** in clause (i), by striking “or” at the end;
-  - **(B)** in clause (ii), by striking “$5,000,000.” and inserting “$25,000,000; or”; and
+  - **(B)** in clause (ii), by striking “exceed $5,000,000.” and inserting:
+    > exceed—
+    > - **(I)** with respect to an act that occurred in a year before 2029, $5,000,000; and
+    > - **(II)** with respect to an act that occurred in 2029, or any year thereafter, $10,000,000; or
+
   - **(C)** by adding at the end the following:
     > - **(iii)** the Secretary did not certify such act as an act of terrorism before the expiration of the 90-day period following the publication of a notice in the Federal Register under subparagraph (D)(i).
 
 - **(2)** by striking subparagraph (D) and inserting the following:
   > - **(D)** *Notice requirements*
-  >   - **(i)** *In general* The Secretary shall, not later than 30 days after beginning the process of determining whether to certify an act as an act of terrorism, publish a notice in the Federal Register that informs the public that the Secretary is in the process of determining whether to certify an act as an act of terrorism.
+  >   - **(i)** *In general* The Secretary shall, not later than 30 days after beginning the process of determining whether to certify an act as an act of terrorism, publish a notice in the Federal Register that informs the public that the Secretary is in the process of determining whether to certify the act as an act of terrorism.
   >   - **(ii)** *Additional notice permitted* The Secretary may, as the Secretary determines appropriate, notify the public, through publication in the Federal Register, or otherwise, that an act is not being evaluated by the Secretary to determine whether it should be certified as an act of terrorism.
 
-## § 5. Technical amendments
+## § 4. Technical amendments
 
 - **(a)** *In general* Section 103(e)(7)(E)(i) of the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note) is amended—
   - **(1)** in subclause (I)—
@@ -45,4 +49,4 @@ Section 102(1) of the Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note)
   - **(3)** in subclause (III)—
     - **(A)** by striking “2029” and inserting “2036”; and
     - **(B)** by striking “2024” and inserting “2031”.
-- **(b)** *Clarification* The Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note) is amended by striking “Terrorism Insurance Program” each place it appears and inserting “Terrorism Risk Insurance Program”.
+- **(b)** *Technical correction* The Terrorism Risk Insurance Act of 2002 (15 U.S.C. 6701 note) is amended by striking “Terrorism Insurance Program” each place it appears in text or headings and inserting “Terrorism Risk Insurance Program”.
