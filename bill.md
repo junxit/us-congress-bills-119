@@ -1,0 +1,37 @@
+---
+legis-num: H.R. 8020
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8020
+
+> To exempt certain vessels transporting liquefied natural gas from certain coastwise endorsement requirements, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “American LNG First Act of 2026”.
+
+## § 2. Exemption from coastwise laws for vessels transporting liquefied natural gas
+
+- **(a)** *General eligibility requirements* Section 12103 of title 46, United States Code, is amended by adding at the end the following:
+  > - **(d)** *Exception for vessels transporting liquefied natural gas*
+  >   - **(1)** *In general* Notwithstanding subsection (a), a certificate of documentation may be issued under this chapter for any vessel transporting methane, refrigerated liquid, commonly known as liquefied natural gas.
+  >   - **(2)** *Certain vessels excluded* Paragraph (1) shall not apply to—
+  >     - **(A)** a vessel that is owned, in whole or in part, by—
+  >       - **(i)** a Russian national; or
+  >       - **(ii)** the Government of the Russian Federation;
+  >     - **(B)** a Russian-flagged vessel;
+  >     - **(C)** a vessel for which any crewmember is a Russian national;
+  >     - **(D)** a vessel that is owned in whole or in part, by—
+  >       - **(i)** a Chinese national; or
+  >       - **(ii)** the Government of the People’s Republic of China;
+  >     - **(E)** a Chinese-flagged vessel; or
+  >     - **(F)** a vessel for which any crewmember is a Chinese national.
+
+- **(b)** *Coastwise endorsement* Section 12112(a)(2)(B) of title 46, United States Code, is amended—
+  - **(1)** in clause (ii) by striking “or” at the end;
+  - **(2)** in clause (iii) by striking “and” at the end and inserting “or”; and
+  - **(3)** by adding at the end the following:
+    > - **(iv)** transports methane, refrigerated liquid, commonly known as liquefied natural gas; and
