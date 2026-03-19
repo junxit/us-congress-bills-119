@@ -1,0 +1,26 @@
+---
+measure: S.J.Res. 141
+congress: 119
+version: Introduced in Senate
+---
+
+# S.J.Res. 141
+
+A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by Bureau of Consumer Financial Protection relating to the withdrawal of the rule relating to "Debt Collection Practices (Regulation F); Deceptive and Unfair Collection of Medical Debt".
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+
+## Committees (1)
+
+- Senate — Banking, Housing, and Urban Affairs Committee
+
+## Actions
+
+- 2026-03-19 — Introduced in Senate
+- 2026-03-19 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
