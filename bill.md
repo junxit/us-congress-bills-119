@@ -20,13 +20,19 @@ In this Act—
 - **(1)** *Administrator* The term Administrator means the Administrator of the Transportation Security Administration.
 - **(2)** *Member of Congress* The term Member of Congress has the meaning given that term in section 13101 of title 5, United States Code.
 - **(3)** *Screening location* The term screening location has the meaning given that term in section 1540.5 of title 49, Code of Federal Regulations.
-- **(4)** *Trusted Traveler Program* The term Trusted Traveler Program means a voluntary program of the Department that allows U.S. Customs and Border Protection to expedite clearance of pre-approved, low-risk travelers arriving in the United States.
+- **(4)** *Trusted Traveler Program* The term Trusted Traveler Program means any of the following:
+  - **(A)** Global Entry.
+  - **(B)** The PreCheck Program.
+  - **(C)** SENTRI.
+  - **(D)** NEXUS.
+  - **(E)** Any other United States Government program that issues a unique identifier, such as a known traveler number, that the Transportation Security Administration accepts as validating that the individual holding such identifier is a member of a known low-risk population.
+  - **(F)** Any other program implemented by the Transportation Security Administration under section 109(a)(3) of the Aviation and Transportation Security Act (49 U.S.C. 114 note; Public Law 107–71).
 
 ## § 3. Requirement for standard security screening
 
 - **(a)** *In general* None of the funds appropriated or otherwise made available to the Transportation Security Administration shall be used to provide or facilitate the provision of a Member of Congress with expedited or preferential access to or through security screenings required pursuant to section 44901 of title 49, United States Code.
-- **(b)** *No expedited access* A Member of Congress may not—
-  - **(1)** bypass standard screening procedures of the Transportation Security Administration; or
+- **(b)** *No expedited access* A Member of Congress shall not—
+  - **(1)** be exempt from Federal passenger and baggage screening procedures of the Transportation Security Administration; or
   - **(2)** receive priority or expedited access to a screening location on the basis of the official position of such Member of Congress.
 
 ## § 4. Rule of construction
