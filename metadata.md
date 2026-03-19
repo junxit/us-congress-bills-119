@@ -1,7 +1,7 @@
 ---
 measure: H.R. 556
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 556
@@ -102,10 +102,11 @@ Protecting Access for Hunters and Anglers Act
 - Rep. Roy, Chip [R-TX-21] (R000614)
 - Rep. Nehls, Troy E. [R-TX-22] (N000026)
 
-## Committees (2)
+## Committees (3)
 
 - House — Natural Resources Committee
 - House — Agriculture Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (2)
 
@@ -143,3 +144,4 @@ Protecting Access for Hunters and Anglers Act
 - 2026-03-18 — Rule provides for consideration of H.R. 556, H.R. 1958 and H.R. 4638. The resolution provides for consideration of H.R. 556, H.R. 1958, and H.R. 4638 under a closed rule. The resolution provides for one hour of general debate and one motion to recommit on each bill.
 - 2026-03-18 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2026-03-18 — The previous question was ordered pursuant to the rule.
+- 2026-03-19 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
