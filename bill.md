@@ -20,9 +20,9 @@ The Securities Exchange Act of 1934 is amended by inserting after section 40 (15
 > ## § 40A. Public Company Advisory Committee
 >
 > - **(a)** *Establishment and purpose*
->   - **(1)** *Establishment* There is established within the Commission the Public Company Advisory Committee (referred to in this section as the ‘Committee’).
+>   - **(1)** *Establishment* There is established within the Commission the Public Company Advisory Committee (referred to in this section as the “Committee”).
 >   - **(2)** *Purpose* The Committee shall—
->     - **(A)** provide the Commission with advice on its rules, regulations, and policies with regard to its mission of protecting investors, maintaining fair, orderly, and efficient markets, and facilitating capital formation, as they relate to—
+>     - **(A)** provide the Commission with advice on the rules, regulations, and policies of the Commission with regard to the Commission’s mission of protecting investors, maintaining fair, orderly, and efficient markets, and facilitating capital formation, as they relate to—
 >       - **(i)** existing and emerging regulatory priorities of the Commission;
 >       - **(ii)** issues relating to the public reporting and corporate governance of public companies;
 >       - **(iii)** issues relating to the proxy process for shareholder meetings held by public companies;
@@ -32,12 +32,12 @@ The Securities Exchange Act of 1934 is amended by inserting after section 40 (15
 >     - **(C)** submit to the Commission such findings and recommendations as the Committee determines are appropriate, including recommendations for proposed regulatory and legislative changes.
 > - **(b)** *Membership*
 >   - **(1)** *In general* The membership of the Committee shall be not fewer than 10, and not more than 20, members appointed by the Commission from among individuals who—
->     - **(A)** are officers, directors, or senior officials of public companies registered with the Commission under the Securities Act or 1933 and this Act, except for those public companies that own asset management, fixed income, investment advisory, broker-dealer, or proxy services businesses;
+>     - **(A)** are officers, directors, or senior officials of public companies registered with the Commission under the Securities Act of 1933 and this Act, except for those public companies that own asset management, fixed income, investment advisory, broker-dealer, or proxy services businesses;
 >     - **(B)** are executives or other individuals with senior managerial responsibility in business, professional, trade, and industry associations that represent the interests of such public companies; and
 >     - **(C)** are professional advisers and service providers to such public companies (including attorneys, accountants, investment bankers, and financial advisers).
 >   - **(2)** *Qualifications* At least 50 percent of the Committee membership shall be drawn from individuals who would qualify for membership under paragraph (1)(A).
->   - **(3)** *Term* Each member of the Committee appointed under paragraph (1) shall serve for a term of four years. Vacancies among the members, whether caused by the resignation, death, removal, expiration of a term, or otherwise, will be filled consistent with the Commission’s procedures then in effect.
->   - **(4)** *Staggered terms* The members of the Committee shall serve staggered terms, with half of the initial members of the Committee each serving for 2 years and half serving 4 years.
+>   - **(3)** *Term* Each member of the Committee appointed under paragraph (1) shall serve for a term of 4 years. Vacancies among the members, whether caused by the resignation, death, removal, expiration of a term, or otherwise, shall be filled consistent with the Commission’s procedures then in effect.
+>   - **(4)** *Staggered terms* The members of the Committee shall serve staggered terms, with half of the initial members of the Committee each serving for 2 years and half serving for 4 years.
 >   - **(5)** *Members not on other advisory committees* Public companies and other organizations that are currently represented on any other Commission Advisory Committee are not eligible to have representatives also serve on the Public Company Advisory Committee.
 >   - **(6)** *Members not Commission employees* Members appointed under paragraph (1) shall not be considered to be employees or agents of the Commission solely because of membership on the Committee.
 > - **(c)** *Chair; Vice Chair; Secretary; Assistant Secretary*
@@ -46,21 +46,18 @@ The Securities Exchange Act of 1934 is amended by inserting after section 40 (15
 >     - **(B)** a Vice Chair;
 >     - **(C)** a Secretary; and
 >     - **(D)** an Assistant Secretary.
->   - **(2)** *Term* Each member elected under paragraph (1) shall serve for a term of two years in the capacity the member was elected under paragraph (1).
+>   - **(2)** *Term* Each member elected under paragraph (1) shall serve for a term of 2 years in the capacity the member was elected under paragraph (1).
 >   - **(3)** *Subcommittees* The Chair may create subcommittees that hold public or non-public meetings and provide recommendations to the full Committee.
 > - **(d)** *Meetings*
 >   - **(1)** *Frequency of meetings* The Committee shall meet—
 >     - **(A)** not less frequently than twice annually, at the call of the chair of the Committee; and
 >     - **(B)** from time to time, at the call of the Commission.
->   - **(2)** *Notice* The Chair of the Committee shall give the members of the Committee written notice of each meeting, not later than two weeks before the date of the meeting.
-> - **(e)** *Compensation and travel expenses* Each member of the Committee who is not a full-time employee of the United States shall—
->   - **(1)** be entitled to receive compensation at a rate not to exceed the daily equivalent of the annual rate of basic pay in effect for a position at level V of the Executive Schedule under section 5316 of title 5, United States Code, for each day during which the members is engaged in the actual performance of the duties of the Committee; and
->   - **(2)** while away from the home or regular place of business of the member in the performance of services for the Committee, be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b) of title 5, United States Code.
-> - **(f)** *Staff* The Commission shall make available to the Committee such staff as the chairman of the Committee determines are necessary to carry out this section.
-> - **(g)** *Review by Commission* The Commission shall—
+>   - **(2)** *Notice* The Chair of the Committee shall give the members of the Committee written notice of each meeting, not later than 2 weeks before the date of the meeting.
+> - **(e)** *Staff* The Commission shall make available to the Committee such staff as the Chair of the Committee determines are necessary to carry out this section.
+> - **(f)** *Review by Commission* The Commission shall—
 >   - **(1)** review the findings and recommendations of the Committee; and
 >   - **(2)** each time the Committee submits a finding or recommendation to the Commission, promptly issue a public statement—
 >     - **(A)** assessing the finding or recommendation of the Committee; and
 >     - **(B)** disclosing the action, if any, the Commission intends to take with respect to the finding or recommendation.
-> - **(h)** *Committee findings* Nothing in this section shall require the Commission to agree to or act upon any finding or recommendation of the Committee.
-> - **(i)** *Nonapplicability of FACA* Chapter 10 of part I of title 5, United States Code, shall not apply to the Committee and its activities.
+> - **(g)** *Committee findings* Nothing in this section shall require the Commission to agree to or act upon any finding or recommendation of the Committee.
+> - **(h)** *Nonapplicability of FACA* Chapter 10 of part I of title 5, United States Code, shall not apply to the Committee and the activities of the Committee.

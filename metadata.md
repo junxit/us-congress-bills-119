@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6967
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6967
@@ -29,3 +29,8 @@ Public Company Advisory Committee Act of 2026
 - 2026-01-07 — Introduced in House
 - 2026-01-07 — Introduced in House
 - 2026-01-07 — Referred to the House Committee on Financial Services.
+- 2026-01-22 — Committee Consideration and Mark-up Session Held
+- 2026-01-22 — Ordered to be Reported (Amended) by the Yeas and Nays: 39 - 15.
+- 2026-03-19 — Placed on the Union Calendar, Calendar No. 479.
+- 2026-03-19 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-557.
+- 2026-03-19 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-557.
