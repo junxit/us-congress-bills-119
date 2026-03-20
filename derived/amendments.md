@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7084
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-10 amendatory instructions. 0 executed, 10 stated and not applied.
+9 amendatory instructions. 0 executed, 9 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -36,8 +36,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “subsection (b)(2)” and inserting “subsection (b)(1)(B)”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | insert | in paragraph (1) by inserting “the” before “Federal Register”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2) by striking the period at the end and inserting “; or”; | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B); | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B) (and by moving the margins of such subparagraphs accordingly); | the bill names no machine-readable US Code section |
 | — | replace | by striking “A vessel referred” and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |

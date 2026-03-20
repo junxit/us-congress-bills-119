@@ -30,13 +30,12 @@ Section 70022 of title 46, United States Code, is amended—
     >   - **(II)** a vessel authorized by the owner, as described in subsection (b)(1)(C)(ii), to transit the facilities described in subsection (b)(1)(C).
 
 - **(2)** in subsection (b)—
-  - **(A)** in paragraph (1) by inserting “the” before “Federal Register”;
-  - **(B)** in paragraph (2) by striking the period at the end and inserting “; or”;
-  - **(C)** by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B);
-  - **(D)** by striking “A vessel referred” and inserting the following:
+  - **(A)** in paragraph (2) by striking the period at the end and inserting “; or”;
+  - **(B)** by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B) (and by moving the margins of such subparagraphs accordingly);
+  - **(C)** by striking “A vessel referred” and inserting the following:
     > - **(1)** *In general* A vessel referred
 
-  - **(E)** by adding at the end the following:
+  - **(D)** by adding at the end the following:
     > - **(C)** a vessel that has transited a port, harbor, or marine terminal, that at the time of such transit—
     >   - **(i)** was located within the territory of a Western Hemisphere country that has in effect a free trade agreement with the United States;
     >   - **(ii)** was accessible only through land that is owned, held, or controlled, directly or indirectly, by a United States person; and
@@ -46,6 +45,6 @@ Section 70022 of title 46, United States Code, is amended—
     >   - **(B)** taken any other action that has the effect of expropriating or nationalizing that port, harbor, or marine terminal, or land providing the exclusive access to that port, harbor, or marine terminal, as described in paragraph (1)(C)(ii), as long as the matter is not the subject of a currently pending arbitration under a free trade agreement described in paragraph (1)(C)(i).
     > - **(3)** *Removal of designation* The President shall remove the designation of a port, harbor, or marine terminal made under paragraph (2) if the President determines that—
     >   - **(A)** the conditions set forth in paragraph (2) are no longer met;
-    >   - **(B)** the Western Hemisphere country has returned the property of the United States person and terminated any measures that had the effect of seizing ownership of that property;
+    >   - **(B)** the Western Hemisphere country has restored ownership of the property of the United States person and terminated any measures that had the effect of seizing ownership or possession of that property;
     >   - **(C)** the Western Hemisphere country has provided adequate and effective compensation for such property in convertible foreign exchange or other mutually acceptable compensation equivalent to the full value thereof, as required by international law; or
     >   - **(D)** the dispute has otherwise been resolved to the satisfaction of the President.
