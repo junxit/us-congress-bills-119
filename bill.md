@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6422
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -62,7 +62,7 @@ Section 125 of the Federal Water Pollution Control Act (33 U.S.C. 1276a) is amen
 
     - **(B)** in subsection (i), by striking “2001 through 2005” and inserting “2026 through 2031”.
   - **(2)** *Authorization of appropriations* Section 8 of the Beaches Environmental Assessment and Coastal Health Act of 2000 (Public Law 106–284; 114 Stat. 877) is amended by striking “2001 through 2005” and inserting “2026 through 2031”.
-- **(b)** *Definition of coastal recreation waters* Section 502(21)(A)(ii) of the Federal Water Pollution Control Act (33 U.S.C. 1362(21)(A)(ii)) is amended by striking “(including coastal estuaries)” and inserting “(including coastal estuaries, the mouths of rivers and streams, nearby shallow waters, and waters present on beaches)”.
+- **(b)** *Coastal recreation waters defined* Section 502(21)(A)(ii) of the Federal Water Pollution Control Act (33 U.S.C. 1362(21)(A)(ii)) is amended by striking “(including coastal estuaries)” and inserting “(including coastal estuaries, the mouths of rivers and streams, nearby shallow waters, and waters present on beaches)”.
 - **(c)** *Guidance* In providing guidance to States and local governments receiving grants under section 406 of the Federal Water Pollution Control Act (33 U.S.C. 1346), the Administrator of the Environmental Protection Agency shall ensure that such guidance reflects innovations in testing technologies for water contamination.
 
 ## § 8. Limitation on use of funds
@@ -70,7 +70,7 @@ Section 125 of the Federal Water Pollution Control Act (33 U.S.C. 1276a) is amen
 No Federal funds made available for any of fiscal years 2026 through 2031 to carry out section 118, 119, 123, 125, 320, or 406 of the Federal Water Pollution Control Act may be provided to any non-Federal entity—
 
 - **(1)** that is domiciled in, headquartered in, or organized under the laws of, or the principal place of business of which is located in, a foreign country of concern (as defined in section 10638 of the Research and Development, Competition, and Innovation Act (42 U.S.C. 19237)); or
-- **(2)** that has in place any agreement or partnership with a foreign country of concern.
+- **(2)** for projects conducted with a foreign country of concern.
 
 ## § 9. Geographic program report
 
