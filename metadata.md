@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2474
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2474
@@ -26,3 +26,9 @@ Expanding Appalachia’s Broadband Access Act
 - 2025-03-27 — Introduced in House
 - 2025-03-27 — Referred to the House Committee on Transportation and Infrastructure.
 - 2025-03-27 — Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.
+- 2026-01-21 — Committee Consideration and Mark-up Session Held
+- 2026-01-21 — Ordered to be Reported (Amended) by Voice Vote.
+- 2026-01-21 — Subcommittee on Economic Development, Public Buildings, and Emergency Management Discharged
+- 2026-03-20 — Placed on the Union Calendar, Calendar No. 486.
+- 2026-03-20 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 119-565.
+- 2026-03-20 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 119-565.
