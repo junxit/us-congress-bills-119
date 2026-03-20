@@ -1,7 +1,7 @@
 ---
 measure: S. 1602
 congress: 119
-version: Reported to Senate
+version: Referral Instructions Senate
 ---
 
 # S. 1602
@@ -20,9 +20,10 @@ Mathematical and Statistical Modeling Education Act
 
 - Sen. Blackburn, Marsha [R-TN] (B001243)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Health, Education, Labor, and Pensions Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -32,3 +33,4 @@ Mathematical and Statistical Modeling Education Act
 - 2026-03-11 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy without amendment. Without written report.
 - 2026-03-11 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy without amendment. Without written report.
 - 2026-03-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 353.
+- 2026-03-20 — Referred sequentially to the Committee on Commerce, Science, and Transportation, pursuant to the order of March 3, 1988, for 30 calendar days excluding any day on which the Senate is not in session, and if not reported by that day, the Committee be discharged from further consideration thereof, and the bill be placed on the calendar.
