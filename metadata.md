@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7376
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7376
@@ -29,3 +29,10 @@ Local Water Protection Act
 - 2026-02-04 — Introduced in House
 - 2026-02-04 — Introduced in House
 - 2026-02-04 — Referred to the House Committee on Transportation and Infrastructure.
+- 2026-02-05 — Referred to the Subcommittee on Water Resources and Environment.
+- 2026-02-11 — Committee Consideration and Mark-up Session Held
+- 2026-02-11 — Ordered to be Reported by Voice Vote.
+- 2026-02-11 — Subcommittee on Water Resources and Environment Discharged
+- 2026-03-20 — Placed on the Union Calendar, Calendar No. 487.
+- 2026-03-20 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 119-566.
+- 2026-03-20 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 119-566.
