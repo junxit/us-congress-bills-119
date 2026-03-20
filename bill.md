@@ -25,10 +25,9 @@ This Act may be cited as the “Made in America Jobs Act of 2026”.
 - **(b)** *Grants for planning and grants for administrative expenses* Section 203(a) of the Public Works and Economic Development Act of 1965 (42 U.S.C. 3143(a)) is amended by inserting “, including planning with respect to projects to facilitate the relocation, to the United States, of a source of employment located outside the United States or to facilitate the growth of the manufacturing sector,” after “economic development planning”.
 - **(c)** *Grants for training, research, and technical assistance* Section 207(a)(2) of the Public Works and Economic Development Act of 1965 (42 U.S.C. 3147(a)(2)) is amended—
   - **(1)** in subparagraph (H) by striking “and” at the end;
-  - **(2)** by redesignating subparagraph (I) as subparagraph (L); and
+  - **(2)** by redesignating subparagraph (I) as subparagraph (K); and
   - **(3)** by inserting after subparagraph (H) the following:
-    > - **(I)** assessment, marketing, and establishment of business clusters;
-    > - **(J)** activities to facilitate the relocation, to the United States, of a source of employment located outside the United States;
-    > - **(K)** activities to facilitate the growth of the manufacturing sector; and
+    > - **(I)** activities to facilitate the relocation, to the United States, of a source of employment located outside the United States;
+    > - **(J)** activities to facilitate the growth of the manufacturing sector; and
 
 - **(d)** *Grants for economic adjustment* Section 209(a) of the Public Works and Economic Development Act of 1965 (42 U.S.C. 3149(a)) is amended by inserting “projects to facilitate the relocation, to the United States, of a source of employment located outside the United States, projects to facilitate the growth of the manufacturing sector,” after “loan fund),”.

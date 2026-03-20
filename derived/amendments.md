@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7342
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -36,6 +36,6 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 3141` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3143` | insert | Section 203(a) of the Public Works and Economic Development Act of 1965 (42 U.S.C. 3143(a)) is amended by inserting “, including planning with respect to projects to facilitate the relocation, to the United States, of a source of employm… | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 3147` | strike | in subparagraph (H) by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 3147` | redesignate | by redesignating subparagraph (I) as subparagraph (L); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3147` | redesignate | by redesignating subparagraph (I) as subparagraph (K); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3147` | insert | by inserting after subparagraph (H) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3149` | insert | Section 209(a) of the Public Works and Economic Development Act of 1965 (42 U.S.C. 3149(a)) is amended by inserting “projects to facilitate the relocation, to the United States, of a source of employment located outside the United States… | the bill quotes the text inserted but describes where it goes |
