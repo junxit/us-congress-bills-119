@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7388
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7388
@@ -26,3 +26,9 @@ Smart Space Act of 2026
 - 2026-02-05 — Introduced in House
 - 2026-02-05 — Referred to the House Committee on Transportation and Infrastructure.
 - 2026-02-05 — Referred to the Subcommittee on Economic Development, Public Buildings, and Emergency Management.
+- 2026-02-11 — Committee Consideration and Mark-up Session Held
+- 2026-02-11 — Ordered to be Reported (Amended) by Voice Vote.
+- 2026-02-11 — Subcommittee on Economic Development, Public Buildings, and Emergency Management Discharged
+- 2026-03-20 — Placed on the Union Calendar, Calendar No. 483.
+- 2026-03-20 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 119-562.
+- 2026-03-20 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 119-562.

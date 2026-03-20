@@ -19,7 +19,7 @@ This Act may be cited as the “Smart Space Act of 2026”.
 - **(b)** *Meetings* In convening consultation meetings under subsection (a), the Administrator shall include—
   - **(1)** experts related to private commercial real estate;
   - **(2)** experts related to Federal real estate; and
-  - **(3)** if available, State real estate experts experienced with leveraging private financing for public buildings and facilities.
+  - **(3)** if available, State, including the District of Columbia, real estate experts experienced with leveraging private financing for public buildings and facilities.
 - **(c)** *Report and recommendations* Not later than 120 days after the date of enactment of this Act, the Administrator shall submit to the President—
   - **(1)** recommendations on types of public-private partnerships and alternative financing methods best suited for meeting the public building needs of the Federal Government; and
   - **(2)** a list of recommended projects related to public buildings for which such methods should be used with details on which methods and types of public-private partnerships are recommended for each project.
@@ -32,12 +32,8 @@ This Act may be cited as the “Smart Space Act of 2026”.
   - **(2)** *Timeline* The Administrator of General Services shall maintain on the website of the General Services Administration information on the process under this Act, including any timelines and milestones.
   - **(3)** *Delays* The Administrator shall report directly to the President and Congress any delays with respect to the timing and milestones described in paragraph (2).
   - **(4)** *Meetings* Meetings pursuant to subsection (a) shall be noticed and open to the public and shall not be subject to chapter 10 of title 5, United States Code.
-- **(f)** *Project approvals* The President may direct the Administrator to proceed with any projects on the recommended project list, subject to future appropriations and subsections (g) and (i).
-- **(g)** *Prospectuses* Projects described in subsection (c)(2) that are approved by the President shall be subject to section 3307 of title 40, United States Code, except that prospectuses for such projects shall be submitted to the Committees listed in subsection (e)(1) not later than 30 days after approval by the President.
-- **(h)** *Accountability* Any proposed types of alternative financing and public-private partnerships shall include terms and conditions that ensure accountability and performance.
-- **(i)** *Rule of construction* Nothing in this Act shall be construed as providing the Administrator of General Services any additional legal authorities beyond the authorities existing prior to enactment of this Act.
-- **(j)** *Definitions* In this Act:
-  - **(1)** *Alternate financing; public-private partnership* The terms “alternate financing” and “public-private partnership” may include—
+- **(f)** *Definitions* In this Act:
+  - **(1)** *Alternative financing; public-private partnership* The terms “alternative financing” and “public-private partnership” may include—
     - **(A)** agreements that reflect an obligation by a non-Federal entity to design, build, finance, operate, and maintain an asset, or a combination thereof; and
     - **(B)** a ground-lease to a non-Federal party with a subsequent lease back of the improvements.
   - **(2)** *Public building* The term “public building” has the meaning given such term in section 3301 of title 40, United States Code.
