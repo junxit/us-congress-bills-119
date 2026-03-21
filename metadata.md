@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 425
 congress: 119
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 425
@@ -28,3 +28,7 @@ A resolution honoring the life of Hays, Kansas police sergeant Scott Heimann.
 
 - 2025-09-30 — Introduced in Senate
 - 2025-09-30 — Referred to the Committee on the Judiciary.
+- 2026-03-21 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2026-03-21 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S1465)
+- 2026-03-21 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2026-03-21 — Senate Committee on the Judiciary discharged by Unanimous Consent.
