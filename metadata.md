@@ -1,7 +1,7 @@
 ---
 measure: S. 2563
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2563
@@ -32,3 +32,5 @@ Global Investment in American Jobs Act of 2025
 - 2026-03-12 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-116.
 - 2026-03-12 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-116.
 - 2026-03-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 356.
+- 2026-03-22 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S1522-1523; text of amendment in the nature of a substitute: CR S1522-1523)
+- 2026-03-22 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
