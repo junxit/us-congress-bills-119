@@ -1,7 +1,7 @@
 ---
 measure: S. 688
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -26,12 +26,12 @@ to guess them.
 
 ### 33 U.S.C. § 1131
 
-> in paragraph (1), by striking “this title” and all that follows and inserting “this title $105,700,000 for each of fiscal years 2026 through 2031.”; and
+> in paragraph (1), by striking “for fiscal year 2025” and inserting “for each of fiscal years 2025 through 2031”; and
 
 | | |
 |---|---|
-| Removed | `this title` |
-| Inserted | `this title $105,700,000 for each of fiscal years 2026 through 2031.` |
+| Removed | `for fiscal year 2025` |
+| Inserted | `for each of fiscal years 2025 through 2031` |
 
 ### 33 U.S.C. § 1131
 

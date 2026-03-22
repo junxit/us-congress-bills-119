@@ -1,7 +1,7 @@
 ---
 measure: S. 688
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 688
@@ -40,3 +40,13 @@ Fighting Foreign Illegal Seafood Harvests Act of 2025
 - 2026-02-03 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment. With written report No. 119-101.
 - 2026-02-03 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment. With written report No. 119-101.
 - 2026-02-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 313.
+- 2026-03-22 — 
+- 2026-03-22 — Amendment SA 4744 agreed to in Senate by Unanimous Consent.
+- 2026-03-22 — Amendment SA 4744 proposed by Senator Sullivan. (consideration: CR S1500) In the nature of a substitute.
+- 2026-03-22 — Measure laid before Senate by unanimous consent. (consideration: CR S1496-1503)
+- 2026-03-22 — Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S1500-1503)
+- 2026-03-22 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2026-03-22 — Senate amendment agreed to: Amendment SA 4744 agreed to in Senate by Unanimous Consent.
+- 2026-03-22 — Senate amendment proposed (on the floor): Amendment SA 4744 proposed by Senator Sullivan.
+- 2026-03-22 — Senate amendment submitted
+- 2026-03-22 — The committee amendment withdrawn by Unanimous Consent.
