@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1092
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -15,7 +15,7 @@ This Act may be cited as the “Wastewater Infrastructure Pollution Prevention a
 
 ## § 2. “Do not flush” labeling
 
-- **(a)** *In general* A covered entity shall label a covered product clearly and conspicuously with the label notice and symbol, in accordance with subsections (b) and (c).
+- **(a)** *In general* A covered entity shall label a covered product with the label notice and symbol, in accordance with subsections (b) and (c).
 - **(b)** *Requirements*
   - **(1)** *Cylindrical packaging* In the case of a covered product sold in cylindrical or near-cylindrical packaging, and intended to dispense individual wipes—
     - **(A)** the symbol and label notice shall be displayed on the principal display panel in a clear and conspicuous location reasonably visible to the user each time a wipe is dispensed; or
@@ -42,17 +42,24 @@ This Act may be cited as the “Wastewater Infrastructure Pollution Prevention a
   - **(3)** *Exception* Paragraph (1)(C) does not apply to an embossed symbol or label notice on the flip lid of a covered product sold in cylindrical or near-cylindrical packaging.
 - **(d)** *Representations of flushability* With respect to a covered product, a covered entity may not make any express or implied representation that such covered product can or should be flushed.
 - **(e)** *Enforcement by Federal Trade Commission*
-  - **(1)** *Unfair or deceptive acts or practices* A violation of this section or any regulation promulgated under this section shall be treated as a violation of a regulation under section 18(a)(1)(B) of the Federal Trade Commission Act (15 U.S.C. 57a(a)(1)(B)) regarding unfair or deceptive acts or practices.
-  - **(2)** *Powers of Commission* The Commission shall enforce this section and any regulations promulgated under this section by the same means, and with the same jurisdiction, powers, and duties, as though all applicable terms and provisions of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) were incorporated into and made a part of this section, and any person who violates this section or any regulation promulgated under this section shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act.
-  - **(3)** *Regulations* The Commission may promulgate regulations under section 553 of title 5, United States Code, to implement this section. In developing the regulations, the Commission may consult with the Administrator of the Environmental Protection Agency, the Commissioner of Food and Drugs, the Consumer Product Safety Commission, or any other agency as appropriate.
-  - **(4)** *Authority preserved* Nothing in this section may be construed to limit the authority of the Commission under any other provision of law.
-- **(f)** *Preemption of State laws* No State or political subdivision of a State may directly or indirectly establish or continue in effect, under any authority, requirements with respect to the “Do Not Flush” labeling of covered products that are not identical to the requirements of this section and the regulations promulgated under this section.
-- **(g)** *Definitions* In this section:
+  - **(1)** *Unfair or deceptive acts or practices* A violation of this section shall be treated as a violation of a rule defining an unfair or deceptive act or practice prescribed under section 18(a)(1)(B) of the Federal Trade Commission Act (15 U.S.C. 57a(a)(1)(B)).
+  - **(2)** *Powers of Commission* The Commission shall enforce this section in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act (15 U.S.C. 41 et seq.) were incorporated into and made a part of this section.
+  - **(3)** *Privileges and immunities* Any person who violates this section shall be subject to the penalties and entitled to the privileges and immunities provided in the Federal Trade Commission Act (15 U.S.C. et seq.).
+  - **(4)** *Authority preserved* Nothing in this section shall be construed to limit the authority of the Commission under any other provision of law.
+- **(f)** *Commission guidance* Not later than 180 days after the date of enactment of this Act, the Commission, in consultation with the Administrator of the Environmental Protection Agency, the Commissioner of Food and Drugs, the Consumer Product Safety Commission, and any other agency determined appropriate by the Commission, shall issue guidance to assist covered entities in complying with the requirements of this section.
+- **(g)** *Limitation on Commission guidance*
+  - **(1)** *In general* No guidance issued by the Commission with respect to this section shall—
+    - **(A)** confer any rights on any person, State, or locality; or
+    - **(B)** bind the Commission or any person to the approach recommended in such guidance.
+  - **(2)** *Specific violations* In any enforcement action brought under this section, the Commission shall allege a specific violation of a provision of this section.
+  - **(3)** *No enforcement actions based on guidance* The Commission may not base an enforcement action on, or execute a consent order based on, practices that are alleged to be inconsistent with any guidance issued under this Act, unless the practices allegedly violate this section.
+- **(h)** *Preemption of State laws* No State or political subdivision of a State may directly or indirectly establish or continue in effect, under any authority, requirements with respect to the “Do Not Flush” labeling of covered products that are not identical to the requirements of this section.
+- **(i)** *Definitions* In this section:
   - **(1)** *Combined product* The term “combined product” means two or more products sold in shared retail packaging, of which—
     - **(A)** at least one of the products is a covered product; and
     - **(B)** at least one of the products is another consumer product intended to be used in combination with such covered product.
   - **(2)** *Commission* The term “Commission” means the Federal Trade Commission.
-  - **(3)** *Covered entity* The term “covered entity” means a manufacturer, wholesaler, supplier, individual or group of individuals, or retailer that is responsible for the labeling or retail packaging of a covered product that is sold or offered for retail sale in the United States.
+  - **(3)** *Covered entity* The term “covered entity” means a manufacturer, wholesaler, supplier, individual or group of individuals, or retailer that is responsible for the labeling or retail packaging of a covered product that is sold or offered for retail sale within the United States.
   - **(4)** *Covered product*
     - **(A)** *In general* The term “covered product” means a premoistened, nonwoven disposable wipe sold or offered for retail sale—
       - **(i)** that is marketed as a baby wipe or diapering wipe; or
@@ -71,5 +78,5 @@ This Act may be cited as the “Wastewater Infrastructure Pollution Prevention a
     - **(A)** in the case of a cylindrical or near-cylindrical package, the surface area of which constitutes at least 40 percent of the product package, as measured by multiplying the height by the circumference of the package; or
     - **(B)** in the case of a flexible film package in which a rectangular prism or near-rectangular prism stack of wipes is housed within the film, the surface area of which is measured by multiplying the length by the width of the side of the package when the flexible packaging film is pressed flat against the stack of wipes on all sides of the stack.
   - **(8)** *State* The term “State” means each State of the United States, the District of Columbia, and each commonwealth, territory, or possession of the United States.
-  - **(9)** *Symbol* The term “symbol” means the “Do Not Flush” symbol, as depicted in the most recent edition of the Guidelines for Assessing the Flushability of Disposable Nonwoven Products published by the Association of the Nonwoven Fabrics Industry (INDA) and the European Disposables And Nonwovens Association (EDANA), or an otherwise equivalent symbol adopted by the Commission through rulemaking under this section.
-- **(h)** *Effective date* This section shall apply to a covered entity beginning on the date that is 1 year after the date of the enactment of this Act.
+  - **(9)** *Symbol* The term “symbol” means the “Do Not Flush” symbol, as depicted in the most recent edition of the Guidelines for Assessing the Flushability of Disposable Nonwoven Products published by the Association of the Nonwoven Fabrics Industry (INDA) and the European Disposables And Nonwovens Association (EDANA).
+- **(j)** *Effective date* This section shall apply to a covered entity beginning on the date that is 1 year after the date of the enactment of this Act and shall not apply to any covered product packaged or sold before such date.

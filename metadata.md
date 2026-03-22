@@ -1,7 +1,7 @@
 ---
 measure: S. 1092
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1092
@@ -40,3 +40,5 @@ WIPPES Act
 - 2025-09-19 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-63.
 - 2025-09-19 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-63.
 - 2025-09-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 166.
+- 2026-03-22 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S1521-1522; text of amendment in the nature of a substitute: CR S1521-1522)
+- 2026-03-22 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
