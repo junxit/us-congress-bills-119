@@ -1,7 +1,7 @@
 ---
 measure: S. 921
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 921
@@ -16,7 +16,7 @@ Tyler’s Law
 
 - Sen. Banks, Jim [R-IN] (B001299)
 
-## Cosponsors (12)
+## Cosponsors (13)
 
 - Sen. Padilla, Alex [D-CA] (P000145)
 - Sen. Grassley, Chuck [R-IA] (G000386)
@@ -30,6 +30,7 @@ Tyler’s Law
 - Sen. Hassan, Margaret Wood [D-NH] (H001076)
 - Sen. Moody, Ashley [R-FL] (M001244)
 - Sen. Tuberville, Tommy [R-AL] (T000278)
+- Sen. Cantwell, Maria [D-WA] (C000127)
 
 ## Committees (1)
 
@@ -43,3 +44,5 @@ Tyler’s Law
 - 2026-01-28 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy with an amendment in the nature of a substitute. Without written report.
 - 2026-01-28 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy with an amendment in the nature of a substitute. Without written report.
 - 2026-01-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 307.
+- 2026-03-23 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S1559-1560; text: CR S1559-1560)
+- 2026-03-23 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
