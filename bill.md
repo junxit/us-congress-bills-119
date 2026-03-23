@@ -1,0 +1,17 @@
+---
+legis-num: S. 4164
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4164
+
+> To make technical corrections to the National Defense Authorization Act for Fiscal Year 2026.
+
+## § 1. Technical corrections to National Defense Authorization Act for Fiscal Year 2026
+
+- **(a)** *Qualifications for judge advocates* Subsection (a)(1)(B) of section 806 of title 10, United States Code (article 6 of the Uniform Code of Military Justice), as added by section 561(a) of the National Defense Authorization Act for Fiscal Year 2026 (Public Law 119–60), is amended to read as follows:
+  > - **(B)** maintains a license status in good standing that provides eligibility to practice law;
+
+- **(b)** *Authorization for award of the distinguished-service cross to Isaac “Ike” Camacho for acts of valor in Vietnam* Section 592 of the National Defense Authorization Act for Fiscal Year 2026 (Public Law 119–60) is amended by striking “posthumous” in the section heading.
