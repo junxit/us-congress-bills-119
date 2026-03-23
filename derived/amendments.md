@@ -1,7 +1,7 @@
 ---
 measure: S. 3315
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-11 amendatory instructions. 0 executed, 11 stated and not applied.
+19 amendatory instructions. 0 executed, 19 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -42,3 +42,11 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 17941` | insert | Section 13412(b)(1) of the HITECH Act (42 U.S.C. 17941(b)(1)) is amended, in the first sentence, by inserting “, investments,” after “other programs”. | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 1533` | add-at-end | Section 405(d) of the Cybersecurity Act of 2015 (6 U.S.C. 1533(d)) (as amended by section 5(2)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 280g` | add-at-end | Part P of title III of the Public Health Service Act (42 U.S.C. 280g et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 650` | insert | in the paragraph heading, by inserting “information system;” after “federal entity;”; and | the bill quotes the text inserted but describes where it goes |
+| `6 U.S.C. § 650` | insert | by inserting “information system,” after “Federal entity,”; | the bill quotes the text inserted but describes where it goes |
+| `6 U.S.C. § 650` | redesignate | by redesignating paragraphs (4) through (7) as paragraphs (6) through (9), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 650` | insert | by inserting after paragraph (3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 1533` | add-at-end | in subsection (d), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 17932` | add-at-end | Section 13402(f) of the HITECH Act (42 U.S.C. 17932(f)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 17941` | insert | Section 13412(b)(1) of the HITECH Act (42 U.S.C. 17941(b)(1)) is amended, in the first sentence, by inserting “, investments,” after “other programs”. | the bill quotes the text inserted but describes where it goes |
+| `6 U.S.C. § 1533` | add-at-end | Section 405(d) of the Cybersecurity Act of 2015 (6 U.S.C. 1533(d)) (as amended by section 5(2)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
