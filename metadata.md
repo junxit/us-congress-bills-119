@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7388
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7388
@@ -32,3 +32,9 @@ Smart Space Act of 2026
 - 2026-03-20 — Placed on the Union Calendar, Calendar No. 483.
 - 2026-03-20 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 119-562.
 - 2026-03-20 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 119-562.
+- 2026-03-24 — Considered under suspension of the rules. (consideration: CR H2650-2651)
+- 2026-03-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7388.
+- 2026-03-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-03-24 — Mr. Taylor moved to suspend the rules and pass the bill, as amended.
+- 2026-03-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2650)
+- 2026-03-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
