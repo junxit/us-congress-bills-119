@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6422
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6422
@@ -26,6 +26,10 @@ American Water Stewardship Act
 
 - House — Transportation and Infrastructure Committee
 
+## Recorded votes (1)
+
+- 2026-03-24 — [House 119-2-97](votes/house-119-2-0097.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (378–32)
+
 ## Actions
 
 - 2025-12-04 — Introduced in House
@@ -38,3 +42,11 @@ American Water Stewardship Act
 - 2026-03-20 — Placed on the Union Calendar, Calendar No. 485.
 - 2026-03-20 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 119-564.
 - 2026-03-20 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 119-564.
+- 2026-03-24 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2026-03-24 — Considered as unfinished business. (consideration: CR H2665-2666)
+- 2026-03-24 — Considered under suspension of the rules. (consideration: CR H2662-2665)
+- 2026-03-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6422.
+- 2026-03-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-03-24 — Mr. Taylor moved to suspend the rules and pass the bill, as amended.
+- 2026-03-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 378 - 32 (Roll no. 97). (text: CR H2662-2663)
+- 2026-03-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 378 - 32 (Roll no. 97).
