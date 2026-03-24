@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 73
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Con.Res. 73
@@ -36,3 +36,9 @@ Authorizing the use of the Capitol Grounds for the National Peace Officers’ Me
 - 2026-03-16 — Placed on the House Calendar, Calendar No. 65.
 - 2026-03-16 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 119-544.
 - 2026-03-16 — Reported by the Committee on Transportation and Infrastructure. H. Rept. 119-544.
+- 2026-03-24 — Considered under suspension of the rules. (consideration: CR H2651-2652)
+- 2026-03-24 — DEBATE - The House proceeded with forty minutes of debate on H. Con. Res. 73.
+- 2026-03-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-03-24 — Mr. Taylor moved to suspend the rules and agree to the resolution.
+- 2026-03-24 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H2651)
+- 2026-03-24 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.
