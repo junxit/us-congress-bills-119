@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4624
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4624
@@ -50,3 +50,9 @@ Muhammad Ali American Boxing Revival Act of 2026
 - 2026-02-25 — Placed on the Union Calendar, Calendar No. 449.
 - 2026-02-25 — Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-524, Part I.
 - 2026-02-25 — Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-524, Part I.
+- 2026-03-24 — Considered under suspension of the rules. (consideration: CR H2641-2647)
+- 2026-03-24 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4624.
+- 2026-03-24 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-03-24 — Mr. Walberg moved to suspend the rules and pass the bill, as amended.
+- 2026-03-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2641-2643)
+- 2026-03-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2641-2643)

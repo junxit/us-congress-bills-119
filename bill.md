@@ -61,7 +61,7 @@ The purposes of this Act are—
   >         - **(I)** the boxing commission of the State in which the match is held; or
   >         - **(II)** in the case of a covered match held within a reservation (as defined by section 21), the tribal organization (as defined by section 21 and that meets the requirements of section 21) regulating the match.
   >   - **(3)** *No-notice testing* In addition to the testing required under paragraph (2), during the period in which a boxer is under contract with a UBO, the UBO may conduct testing, with no advance notice to the boxer and in accordance with paragraph (5), to determine whether such boxer is positive or negative for each substance prohibited by the UBO.
-  >   - **(4)** *Substances prohibited by UBO* The UBO shall prohibit any substance described in section 7(a)(2)(C)(ii), except that the UBO may elect to not test a boxer participating in a covered match for any substance that is not prohibited by the boxing commission of the State in which the match is being held or the tribal organization described in paragraph (2)(B)(ii)(II) that is regulating the match.
+  >   - **(4)** *Substances prohibited by UBO* The UBO shall prohibit each substance prohibited as described in subclause (I) of clause (ii) of section 7(a)(5)(B) (or, if no substance is so prohibited, each substance listed as described in subclause (II) of such clause), except that the UBO may elect to not test a boxer participating in a covered match for any substance that is not prohibited by the boxing commission of the State in which the match is being held or the tribal organization described in paragraph (2)(B)(ii)(II) that is regulating the match.”
   >   - **(5)** *Administration of tests* An independent third-party shall conduct the testing under paragraphs (2) and (3), which shall include—
   >     - **(A)** carrying out each such test;
   >     - **(B)** determining the result of each such test; and
@@ -189,9 +189,13 @@ The purposes of this Act are—
   - **(1)** subsection (a) is amended by adding at the end the following:
     > - **(5)** Procedures to ensure that—
     >   - **(A)** drug tests shall be administered—
-    >     - **(i)** for any title bout; and
-    >     - **(ii)** at random for all other bouts, provided that tests are administered for not less than 50 percent of such other bouts; and
-    >   - **(B)** such drug tests shall screen, at a minimum, for any substance listed on the most current edition of “The World Anti-Doping Code, The Prohibited List International Standard” of the World Anti-Doping Agency, except that a boxing commission may elect not to screen for such a substance if the use of such substance is not prohibited by the State in which the match is being held or the tribal organization (as defined in section 21) that is regulating the match.
+    >     - **(i)** for any title match; and
+    >     - **(ii)** at random for all other matches; and
+    >   - **(B)** such drug tests shall screen, at a minimum, for—
+    >     - **(i)** if the boxing commission with jurisdiction over the match (or the tribal organization (as defined in section 21) that is regulating the match) prohibits the use of one or more substances, each substance so prohibited; or
+    >     - **(ii)** if no substance is prohibited as described in clause (i)—
+    >       - **(I)** each substance prohibited by the Association of Boxing Commissions; or
+    >       - **(II)** if no substance is prohibited as described in subclause (I), each substance listed in the most current edition of “The World Anti-Doping Code, The Prohibited List International Standard” of the World Anti-Doping Agency.
 
   - **(2)** by adding at the end the following:
     > - **(c)** *Consistent standards* It is the sense of Congress that—
