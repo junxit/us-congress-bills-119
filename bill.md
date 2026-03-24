@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 2474
 
-> To require the Comptroller General of the United States to conduct a study on the capability of the Appalachian Regional Commission to include low-orbit satellites in broadband projects, and for other purposes.
+> To require the Comptroller General of the United States to conduct a study on the capability of the Appalachian Regional Commission to include satellites in broadband projects, and for other purposes.
 
 ## § 1. Short title
 
