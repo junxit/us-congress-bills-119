@@ -1,7 +1,7 @@
 ---
 measure: S. 629
 congress: 119
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 629
@@ -29,3 +29,10 @@ Emergency Conservation Program Improvement Act of 2025
 
 - 2025-02-19 — Introduced in Senate
 - 2025-02-19 — Read twice and referred to the Committee on Agriculture, Nutrition, and Forestry.
+- 2026-03-24 — Held at the desk.
+- 2026-03-24 — Message on Senate action sent to the House.
+- 2026-03-24 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S1565; text: CR S1565)
+- 2026-03-24 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2026-03-24 — Received in the House.
+- 2026-03-24 — Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent.
+- 2026-03-24 — Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent.
