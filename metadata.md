@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6267
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6267
@@ -22,9 +22,10 @@ Aviation Supply Chain Safety and Security Digitization Act of 2025
 - Rep. Shreve, Jefferson [R-IN-6] (S001229)
 - Rep. Schmidt, Derek [R-KS-2] (S001228)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Aviation Supply Chain Safety and Security Digitization Act of 2025
 - 2026-03-24 — Mr. Taylor moved to suspend the rules and pass the bill.
 - 2026-03-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2655-2656)
 - 2026-03-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2026-03-25 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
