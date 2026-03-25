@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7342
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7342
@@ -20,10 +20,11 @@ Made in America Jobs Act of 2026
 
 - Rep. Figures, Shomari [D-AL-2] (F000481)
 
-## Committees (2)
+## Committees (3)
 
 - House — Financial Services Committee
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ Made in America Jobs Act of 2026
 - 2026-03-24 — Mr. Taylor moved to suspend the rules and pass the bill, as amended.
 - 2026-03-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2652-2653)
 - 2026-03-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2026-03-25 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
