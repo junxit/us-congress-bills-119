@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6427
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6427
@@ -22,9 +22,10 @@ Airport Regulatory Relief Act of 2025
 - Rep. Taylor, David J. [R-OH-2] (T000490)
 - Rep. Tokuda, Jill N. [D-HI-2] (T000487)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Airport Regulatory Relief Act of 2025
 - 2026-03-24 — Mr. Taylor moved to suspend the rules and pass the bill, as amended.
 - 2026-03-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2658)
 - 2026-03-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2026-03-25 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
