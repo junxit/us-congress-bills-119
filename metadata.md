@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4624
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4624
@@ -32,10 +32,11 @@ Muhammad Ali American Boxing Revival Act of 2026
 - Rep. Jackson, Jonathan L. [D-IL-1] (J000309)
 - Rep. Titus, Dina [D-NV-1] (T000468)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Education and Workforce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -56,3 +57,4 @@ Muhammad Ali American Boxing Revival Act of 2026
 - 2026-03-24 — Mr. Walberg moved to suspend the rules and pass the bill, as amended.
 - 2026-03-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2641-2643)
 - 2026-03-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2641-2643)
+- 2026-03-25 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
