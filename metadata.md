@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5103
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5103
@@ -28,6 +28,11 @@ Make the District of Columbia Safe and Beautiful Act of 2025
 - House — Oversight and Government Reform Committee
 - House — Natural Resources Committee
 
+## Recorded votes (2)
+
+- 2026-03-25 — [House 119-2-100](votes/house-119-2-0100.md) — On Motion to Recommit — **Failed** (207–214)
+- 2026-03-25 — [House 119-2-101](votes/house-119-2-0101.md) — On Passage — **Passed** (218–206)
+
 ## Actions
 
 - 2025-09-03 — Introduced in House
@@ -46,3 +51,18 @@ Make the District of Columbia Safe and Beautiful Act of 2025
 - 2026-01-14 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-455, Part I.
 - 2026-01-14 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 119-455, Part II.
 - 2026-01-14 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 119-455, Part II.
+- 2026-03-24 — Rules Committee Resolution H. Res. 1131 Reported to House. Rule provides for consideration of H.R. 8029, H. Res. 1128, H.R. 5103 and H.R. 7084. The resolution provides for consideration of H.R. 8029, H. Res. 1128, H.R. 5103, and H.R. 7084 under a closed rule with one hour of general debate on each measure. The resolution provides for one motion to recommit on H.R. 8029, H.R. 5103, and H.R. 7084.
+- 2026-03-25 — Amendment reported by the House Committee on Rules. (consideration: CR H2698)
+- 2026-03-25 — Considered under the provisions of rule H. Res. 1131. (consideration: CR H2698-2705)
+- 2026-03-25 — DEBATE - The House proceeded with one hour of debate on H.R. 5103.
+- 2026-03-25 — House amendment considered as adopted: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2026-03-25 — House amendment offered/reported by: Amendment reported by the House Committee on Rules.
+- 2026-03-25 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-03-25 — Ms. McClellan moved to recommit to the Committee on Oversight and Government Reform. (CR H2704)
+- 2026-03-25 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2026-03-25 — On motion to recommit Failed by the Yeas and Nays: 207 - 214 (Roll no. 100).
+- 2026-03-25 — On passage Passed by the Yeas and Nays: 218 - 206 (Roll no. 101). (text: CR H2698-2699)
+- 2026-03-25 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 218 - 206 (Roll no. 101).
+- 2026-03-25 — Rule provides for consideration of H.R. 8029, H. Res. 1128, H.R. 5103 and H.R. 7084. The resolution provides for consideration of H.R. 8029, H. Res. 1128, H.R. 5103, and H.R. 7084 under a closed rule with one hour of general debate on each measure. The resolution provides for one motion to recommit on H.R. 8029, H.R. 5103, and H.R. 7084.
+- 2026-03-25 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2026-03-25 — The previous question was ordered pursuant to the rule.
