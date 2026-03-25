@@ -1,7 +1,7 @@
 ---
 measure: S. 858
 congress: 119
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 858
@@ -53,3 +53,14 @@ Hershel ‘Woody' Williams National Medal of Honor Monument Location Act
 - 2026-03-25 — Senate amendment agreed to: Amendment SA 4784 agreed to in Senate by Unanimous Consent.
 - 2026-03-25 — Senate amendment proposed (on the floor): Amendment SA 4784 proposed by Senator Justice.
 - 2026-03-25 — Senate amendment submitted
+- 2026-03-27 — Held at the desk.
+- 2026-03-27 — Message on Senate action sent to the House.
+- 2026-03-27 — Received in the House.
+- 2026-08-31 — Considered under suspension of the rules. (consideration: CR H5264-5266)
+- 2026-08-31 — DEBATE - The House proceeded with forty minutes of debate on S. 858.
+- 2026-08-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-08-31 — Mr. Westerman moved to suspend the rules and pass the bill.
+- 2026-08-31 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5264)
+- 2026-08-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5264)
+- 2026-09-02 — Presented to President.
+- 2026-09-02 — Presented to President.
