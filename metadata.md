@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6618
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6618
@@ -23,9 +23,10 @@ Wildfire Aerial Response Safety Act
 - Rep. Ciscomani, Juan [R-AZ-6] (C001133)
 - Rep. Kaptur, Marcy [D-OH-9] (K000009)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Wildfire Aerial Response Safety Act
 - 2026-03-24 — Mr. Taylor moved to suspend the rules and pass the bill, as amended.
 - 2026-03-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2654)
 - 2026-03-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2026-03-25 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
