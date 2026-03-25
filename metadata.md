@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3410
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3410
@@ -29,9 +29,10 @@ Supersonic Aviation Modernization Act
 - Rep. Hudson, Richard [R-NC-9] (H001067)
 - Rep. Harrigan, Pat [R-NC-10] (H001101)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ Supersonic Aviation Modernization Act
 - 2026-03-24 — Mr. Taylor moved to suspend the rules and pass the bill, as amended.
 - 2026-03-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2661)
 - 2026-03-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2026-03-25 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
