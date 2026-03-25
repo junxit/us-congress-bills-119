@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6481
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6481
@@ -20,9 +20,10 @@ Federal Building Threat Notification Act
 
 - Rep. Perry, Scott [R-PA-10] (P000605)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Federal Building Threat Notification Act
 - 2026-03-24 — Mr. Taylor moved to suspend the rules and pass the bill.
 - 2026-03-24 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2649)
 - 2026-03-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2026-03-25 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
