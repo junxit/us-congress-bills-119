@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2071
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2071
@@ -16,7 +16,7 @@ Save Our Shrimpers Act
 
 - Rep. Nehls, Troy E. [R-TX-22] (N000026)
 
-## Cosponsors (17)
+## Cosponsors (20)
 
 - Rep. Higgins, Clay [R-LA-3] (H001077)
 - Rep. Gonzalez, Vicente [D-TX-34] (G000581)
@@ -35,6 +35,9 @@ Save Our Shrimpers Act
 - Rep. Cloud, Michael [R-TX-27] (C001115)
 - Rep. Fry, Russell [R-SC-7] (F000478)
 - Rep. Carter, Earl L. "Buddy" [R-GA-1] (C001103)
+- Rep. Haridopolos, Mike [R-FL-8] (H001099)
+- Rep. Rouzer, David [R-NC-7] (R000603)
+- Rep. Davis, Donald G. [D-NC-1] (D000230)
 
 ## Committees (1)
 
@@ -45,3 +48,8 @@ Save Our Shrimpers Act
 - 2025-03-11 — Introduced in House
 - 2025-03-11 — Introduced in House
 - 2025-03-11 — Referred to the House Committee on Financial Services.
+- 2026-03-04 — Committee Consideration and Mark-up Session Held
+- 2026-03-04 — Ordered to be Reported by the Yeas and Nays: 42 - 1.
+- 2026-03-25 — Placed on the Union Calendar, Calendar No. 491.
+- 2026-03-25 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-571.
+- 2026-03-25 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-571.

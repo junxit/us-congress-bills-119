@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2071
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,10 +13,8 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Save Our Shrimpers Act”.
 
-## § 2. Prohibition on making Federal funds available to international financial institutions to finance foreign shrimp farms
+## § 2. Voice and vote requirement
 
-The Secretary of the Treasury shall condition any provision of Federal funds to an international financial institution (as defined in section 1701(c)(2) of the International Financial Institutions Act) on the requirement that the funds not be used to finance any activity relating to shrimp farming, shrimp processing, or the export of shrimp in any foreign country.
-
-## § 3. Annual GAO report on compliance by the United States Executive Directors at certain international financial institutions with instruction to oppose international financial institution assistance for the production or extraction of export commodities or minerals in surplus on world markets
-
-Within 180 days after the date of the enactment of this Act and annually thereafter, the Comptroller General shall investigate, and submit to the Congress a written report on, the extent to which the United States Executive Directors at the institutions specified in section 22 of the Export-Import Bank Act Amendments of 1986 have carried out the instructions described in such section.
+- **(a)** *In general* The Secretary of the Treasury shall instruct the United States Executive Director at each international financial institution (as defined in section 1701(c)(2) of the International Financial Institutions Act) to use the voice and vote of the United States to oppose any financial assistance by such institution for any project to support shrimp farming, shrimp processing, or the export of shrimp in a borrowing country.
+- **(b)** *Waiver authority* The Secretary of the Treasury may waive subsection (a) with respect to a project upon notifying the Congress that the waiver is in the national interest of the United States.
+- **(c)** *Expiration* Subsection (a) shall have no force or effect after the end of the 7-year period beginning on the date of enactment of this Act.
