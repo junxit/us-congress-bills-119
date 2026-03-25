@@ -15,7 +15,7 @@ This Act may be cited as the “Restoring the Secondary Trading Market Act”.
 
 ## § 2. Exemption from State regulation
 
-Section 18(a) of the Securities Act of 1933 (15 U.S.C. 77r(b)(4)) is amended—
+Section 18(a) of the Securities Act of 1933 (15 U.S.C. 77r(a)) is amended—
 
 - **(1)** in paragraph (2), by striking “or” at the end;
 - **(2)** in paragraph (3), by striking the period at the end and inserting “; or”; and
