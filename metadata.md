@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 73
 congress: 119
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 73
@@ -42,3 +42,4 @@ Authorizing the use of the Capitol Grounds for the National Peace Officers’ Me
 - 2026-03-24 — Mr. Taylor moved to suspend the rules and agree to the resolution.
 - 2026-03-24 — On motion to suspend the rules and agree to the resolution Agreed to by voice vote. (text: CR H2651)
 - 2026-03-24 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by voice vote.
+- 2026-03-25 — Received in the Senate.
