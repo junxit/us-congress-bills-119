@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4171
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4171
@@ -25,3 +25,8 @@ SEED Act of 2025
 - 2025-06-26 — Introduced in House
 - 2025-06-26 — Introduced in House
 - 2025-06-26 — Referred to the House Committee on Financial Services.
+- 2026-03-04 — Committee Consideration and Mark-up Session Held
+- 2026-03-04 — Ordered to be Reported by the Yeas and Nays: 26 - 17.
+- 2026-03-25 — Placed on the Union Calendar, Calendar No. 492.
+- 2026-03-25 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-572.
+- 2026-03-25 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-572.

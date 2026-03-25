@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4171
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -32,7 +32,7 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `15 U.S.C. § 77d` | add-at-end | in subsection (a), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 77d` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 78c` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 77r` | strike | in subparagraph (F), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 77r` | replace | in subparagraph (G), by striking the period and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 77r` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
