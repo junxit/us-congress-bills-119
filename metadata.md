@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2247
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2247
@@ -20,9 +20,10 @@ Airmen Certificate Accessibility Act
 
 - Rep. Mann, Tracey [R-KS-1] (M000871)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Airmen Certificate Accessibility Act
 - 2026-03-24 — Mr. Taylor moved to suspend the rules and pass the bill, as amended.
 - 2026-03-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2660)
 - 2026-03-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2026-03-25 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
