@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2474
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2474
@@ -16,9 +16,10 @@ Expanding Appalachia’s Broadband Access Act
 
 - Rep. Taylor, David [R-OH-2] (T000490)
 
-## Committees (1)
+## Committees (2)
 
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Expanding Appalachia’s Broadband Access Act
 - 2026-03-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2026-03-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2026-03-24 — The title of the measure was amended. Agreed to without objection. (text: CR H2647-2648)
+- 2026-03-25 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
