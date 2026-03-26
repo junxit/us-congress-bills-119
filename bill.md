@@ -2,7 +2,7 @@
 legis-num: H. RES. 1128
 congress: 119th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: In the House of Representatives, U. S.,
 ---
 
 # H. RES. 1128
@@ -15,9 +15,12 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - Whereas the Department of Homeland Security is comprised of more than 20 Federal agencies with homeland security, public safety, and emergency preparedness missions to integrate and coordinate the efforts of such agencies to protect the United States;
 - Whereas Department of Homeland Security personnel support critical homeland security missions, with more than 90 percent of the Department’s workforce historically determined to be essential during lapses in appropriations in order that they may continue supporting such missions;
 - Whereas the Coast Guard plays an essential role in advancing maritime security and rescuing civilians in distress;
+- Whereas during the lapse of funding for the Coast Guard, many civilian personnel have missed paychecks, which could erode morale and hinder recruiting efforts;
+- Whereas the Coast Guard cannot fully maintain mission readiness without funding, which weakens operations to combat transnational criminal organizations in the Western Hemisphere, including the smuggling of sanctioned oil;
 - Whereas U.S. Customs and Border Protection works to secure air, land, and sea ports of entry by interdicting illicit drugs, weapons, and contraband, and preventing terrorists and other malign actors from entering the United States;
-- Whereas the Cybersecurity and Infrastructure Security Agency is the primary entity responsible for strengthening cyber resilience for Federal civilian executive branch agencies and protecting critical infrastructure;
-- Whereas the Federal Emergency Management Agency supports State and local emergency responses to man-made and natural disasters, aids in hazard mitigation, and works to improve domestic resilience;
+- Whereas the Cybersecurity and Infrastructure Security Agency (CISA) is the primary entity responsible for strengthening cyber resilience for Federal civilian executive branch agencies and protecting critical infrastructure;
+- Whereas CISA must remain fully operational at a time when the United States is increasingly vulnerable to cyberattacks from adversaries like Iran, Russia, and China who have targeted American hospital networks, electric grids, water treatment facilities, and energy infrastructure;
+- Whereas the Federal Emergency Management Agency (FEMA) supports State and local emergency responses to man-made and natural disasters, aids in hazard mitigation, and works to improve domestic resilience;
 - Whereas U.S. Immigration and Customs Enforcement, including through Homeland Security Investigations, ensures the criminal and civil enforcement of Federal immigration law and the disruption of transnational criminal organizations and terrorist networks;
 - Whereas the United States Secret Service protects national leaders and visiting heads of state, defends the United States financial infrastructure, and safeguards the American public at major national events;
 - Whereas the Office of Intelligence and Analysis conducts essential information sharing with law enforcement partners across the country to ensure a timely response to identified threats;
@@ -35,6 +38,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 That the House of Representatives—
 
 - **(1)** recognizes the importance of ensuring the Department of Homeland Security is fully funded, and that the Department has all necessary resources to accomplish its mission to protect the American people from harm;
-- **(2)** emphasizes that partial funding of individual Department of Homeland Security components would degrade interagency coordination and create uncertainty in an increasingly heightened threat environment;
+- **(2)** emphasizes that withholding funding of individual Department of Homeland Security components would degrade interagency coordination and create uncertainty in an increasingly heightened threat environment;
 - **(3)** cautions that the American people are at greater risk each day the Department of Homeland Security is subject to a lapse in appropriations; and
 - **(4)** expresses gratitude to Department of Homeland Security employees, including law enforcement officers, agents, and civilian personnel for their unwavering commitment to protect the United States from those who seek to cause harm.
