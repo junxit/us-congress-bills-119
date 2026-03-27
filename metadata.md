@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7084
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7084
@@ -30,6 +30,10 @@ Defending American Property Abroad Act of 2026
 
 - House — Transportation and Infrastructure Committee
 
+## Recorded votes (1)
+
+- 2026-03-27 — [House 119-2-105](votes/house-119-2-0105.md) — On Passage — **Passed** (247–164)
+
 ## Actions
 
 - 2026-01-15 — Introduced in House
@@ -42,3 +46,16 @@ Defending American Property Abroad Act of 2026
 - 2026-03-20 — Placed on the Union Calendar, Calendar No. 484.
 - 2026-03-20 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 119-563.
 - 2026-03-20 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 119-563.
+- 2026-03-24 — Rules Committee Resolution H. Res. 1131 Reported to House. Rule provides for consideration of H.R. 8029, H. Res. 1128, H.R. 5103 and H.R. 7084. The resolution provides for consideration of H.R. 8029, H. Res. 1128, H.R. 5103, and H.R. 7084 under a closed rule with one hour of general debate on each measure. The resolution provides for one motion to recommit on H.R. 8029, H.R. 5103, and H.R. 7084.
+- 2026-03-25 — Rule H. Res. 1131 passed House.
+- 2026-03-27 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2026-03-27 — Considered under the provisions of rule H. Res. 1131. (consideration: CR H2782-2788)
+- 2026-03-27 — DEBATE - The House proceeded with one hour of debate on H.R. 7084.
+- 2026-03-27 — House amendment considered as adopted: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2026-03-27 — House amendment offered/reported by: Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2026-03-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-03-27 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2026-03-27 — On passage Passed by the Yeas and Nays: 247 - 164 (Roll no. 105). (text of amendment in the nature of a substitute: CR H2783)
+- 2026-03-27 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 247 - 164 (Roll no. 105).
+- 2026-03-27 — Rule provides for consideration of H.R. 8029, H. Res. 1128, H.R. 5103 and H.R. 7084. The resolution provides for consideration of H.R. 8029, H. Res. 1128, H.R. 5103, and H.R. 7084 under a closed rule with one hour of general debate on each measure. The resolution provides for one motion to recommit on H.R. 8029, H.R. 5103, and H.R. 7084.
+- 2026-03-27 — The previous question was ordered pursuant to the rule.
