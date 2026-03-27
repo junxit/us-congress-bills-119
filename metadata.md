@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7147
 congress: 119
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 7147
@@ -132,3 +132,19 @@ Homeland Security and Further Additional Continuing Appropriations Act, 2026.
 - 2026-03-27 — Senate amendment agreed to: Amendment SA 4790 agreed to in Senate by Voice Vote.
 - 2026-03-27 — Senate amendment proposed (on the floor): Amendment SA 4790 proposed by Senator Thune.
 - 2026-03-27 — Senate amendment submitted
+- 2026-04-02 — Measure laid before Senate by unanimous consent. (consideration: CR S1696)
+- 2026-04-02 — Message on House action received in Senate and at desk: House amendment to Senate amendment.
+- 2026-04-02 — Message on Senate action sent to the House.
+- 2026-04-02 — Motion to table the House message to accompany H.R. 7147 agreed to by Voice Vote.
+- 2026-04-30 — Became Public Law No: 119-86.
+- 2026-04-30 — Became Public Law No: 119-86.
+- 2026-04-30 — DEBATE - The House proceeded with 40 minutes of debate on the motion to suspend the rules and recede from the House amendment to the Senate amendment to H.R. 7147, and concur in the Senate amendment.
+- 2026-04-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-04-30 — Mr. Alford asked unanimous consent to take from the Speaker's table the bill H.R. 7147, with the House amendment to the Senate amendment thereto, to recede from the House amendment, and to concur in the Senate amendment. Objection heard.
+- 2026-04-30 — Mr. Alford moved that the House suspend the rules and recede from the House amendment to the Senate amendment to H.R. 7147, and concur in the Senate amendment (consideration: CR H3311-3322)
+- 2026-04-30 — On motion that the House suspend the rules and recede from the House amendment to the Senate amendment to H.R. 7147, and concur in the Senate amendment Agreed to by voice vote. (text: CR H3311-3321)
+- 2026-04-30 — Presented to President.
+- 2026-04-30 — Presented to President.
+- 2026-04-30 — Resolving differences -- House actions: On motion that the House suspend the rules and recede from the House amendment to the Senate amendment to H.R. 7147, and concur in the Senate amendment Agreed to by voice vote. (text: CR H3311-3321)
+- 2026-04-30 — Signed by President.
+- 2026-04-30 — Signed by President.
