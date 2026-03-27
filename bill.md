@@ -2,31 +2,29 @@
 legis-num: H.R. 7147
 congress: 119th CONGRESS
 session: 2d Session
-chamber: In the House of Representatives, U. S.,
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 7147
 
-That the House agree to the amendment of the Senate to the bill (H.R. 7147) entitled “An Act making further consolidated appropriations for the fiscal year ending September 30, 2026, and for other purposes.”, with the following
+That the bill from the House of Representatives (H.R. 7147) entitled “An Act making further consolidated appropriations for the fiscal year ending September 30, 2026, and for other purposes.”, do pass with the following
 
-*In lieu of the matter proposed to be inserted by the amendment of the Senate, insert the following:*
+*Strike all after the enacting clause and insert the following:*
 
-## § 1.
+## § 1. Short title
 
-This Act may be cited as the “Further Additional Continuing Appropriations Act, 2026”.
+This Act may be cited as the “Homeland Security and Further Additional Continuing Appropriations Act, 2026.”.
 
-## § 2.
+## § 2. Table of contents
 
-The Continuing Appropriations Act, 2026 (division A of Public Law 119–37) is amended by striking the date specified in section 106(3) and inserting “May 22, 2026”.
+## § 3. References
 
-## § 3.
+Except as expressly provided otherwise, any reference to “this Act” contained in any division of this Act shall be treated as referring only to the provisions of that division.
 
-For the purposes of the Continuing Appropriations Act, 2026 (division A of Public Law 119–37), the time covered by such division shall be considered to include the period which began on or about February 14, 2026, during which there occurred a lapse in appropriations.
+## § 4. Explanatory Statement
 
-## § 4.
+The explanatory statement regarding this Act, printed in the House section of the Congressional Record on or about January 22, 2026, and submitted by the chair of the Committee on Appropriations of the House, shall have the same effect with respect to the allocation of funds and implementation of this Act as if it were a joint explanatory statement of a committee of conference, except that the contents printed under the headings “U.S. Immigration and Customs Enforcement” and “Border Security Operations” under the heading “U.S. Customs and Border Protection” shall have no force or effect for purposes of this Act, and amounts specified in the “Final Bill” column under the sub-heading “Border Security Operations” under the heading “U.S. Customs and Border Protection” and under the heading “U.S. Immigration and Customs Enforcement” in the “Department of Homeland Security Act, 2026” table shall all be $0.
 
-Amounts made available in the Continuing Appropriations Act, 2026 (division A of Public Law 119–37) and in division H of the Consolidated Appropriations Act, 2026 (Public Law 119–75) for personnel pay, allowances, and benefits in each department and agency shall be available for payments pursuant to subsection (c) of section 1341 of title 31, United States Code and such payments shall be made.
+## § 5. Statement of appropriations
 
-## § 5.
-
-All obligations incurred and in anticipation of the appropriations made and authority granted by the Continuing Appropriations Act, 2026 (division A of Public Law 119–37) and by division H of the Consolidated Appropriations Act, 2026 (Public Law 119–75) for the purposes of maintaining the essential level of activity to protect life and property and bringing about orderly termination of Government function, and for purposes as otherwise authorized by law, are hereby ratified and approved if otherwise in accord with the provisions of such Act.
+The following sums in this Act are appropriated, out of any money in the Treasury not otherwise appropriated, for the fiscal year ending September 30, 2026.

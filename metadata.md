@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7147
 congress: 119
-version: Engrossed Amendment House
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 7147
