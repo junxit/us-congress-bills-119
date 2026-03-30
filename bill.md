@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3482
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,50 +15,77 @@ This Act may be cited as the “Veterans Community Care Scheduling Improvement A
 
 ## § 2. Scheduling of appointments under the Veterans Community Care Program
 
-- **(a)** *In general* Section 3101 of the Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvement Act of 2020 (Public Law 116–315; 38 U.S.C. 1701 note) is amended by striking subsection (d) and inserting the following new subsection (d):
-  > - **(d)** *Program on scheduling appointments with Community Care providers by employees of the Department through information technology system*
-  >   - **(1)** Not later than one year after the date of the enactment of the Veterans Community Care Scheduling Improvement Act, the Secretary shall, instead of the process under subsection (a), carry out a program through which a scheduler of the Department—
-  >     - **(A)** may schedule, for a veteran, an appointment—
-  >       - **(i)** for health care furnished through the Veterans Community Care Program; and
-  >       - **(ii)** offered by a non-Department health care provider that participates in the Veterans Community Care Program and elects to participate in the program under this subsection; and
-  >     - **(B)** using an information technology system.
-  >   - **(2)** The Secretary shall carry out the program under this subsection through an existing agreement if practicable.
-  >   - **(3)** The program under this subsection shall, with regards to an appointment available with a Department provider or a non-Department provider that participates in the Veterans Community Care Program, allow a scheduler—
-  >     - **(A)** to view, search, and sort such appointments by type of care, location, and date;
-  >     - **(B)** to schedule such an appointment;
-  >     - **(C)** to provide referral or authorization documents directly to a non-Department provider; and
-  >     - **(D)** to perform any other function the Secretary determines necessary.
-  >   - **(4)** Not later than 90 days after the date of the enactment of the Veterans Community Care Scheduling Improvement Act, the Secretary shall prescribe regulations under this subsection. Such regulations shall include a directive to employees at medical centers of the Department to use the information technology system under this subsection to schedule appointments described in paragraph (1) instead of the process under subsection (a) whenever practicable.
-  >   - **(5)** Not later than 90 days after the date of the enactment of the Veterans Community Care Scheduling Improvement Act, the Secretary shall plan and carry out an outreach campaign to encourage non-Department providers that participate in the Veterans Community Care Program to participate in the program under this subsection. Such outreach shall include the publication of a publicly accessible website of the Department regarding—
-  >     - **(A)** details of the program;
-  >     - **(B)** how a provider may elect to participate in the program; and
-  >     - **(C)** a point of contact in the Department regarding the program.
-  >   - **(6)** The Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives the following documents regarding the program under this subsection:
-  >     - **(A)** Not later than 30 days after each determination described in paragraph (3)(D), a report regarding each function described in such subparagraph.
-  >     - **(B)** Not later than 30 days after prescription, a copy of the regulations prescribed under paragraph (4).
-  >     - **(C)** Not later than 30 days after the Secretary formulates the plan under paragraph (5), a copy of such plan.
-  >     - **(D)** Not later than 18 months after the date of the enactment of the Veterans Community Care Scheduling Improvement Act and every six months thereafter during the following five years, a report regarding operation of such program during the six months preceding the date of the report. Such a report shall include the following:
-  >       - **(i)** The number of non-Department health care providers who participated in such program.
-  >       - **(ii)** The number of appointments under the Veterans Community Care Program, scheduled by a scheduler of the Department, disaggregated by—
-  >         - **(I)** whether the appointment was scheduled under such program or by the process under subsection (a);
-  >         - **(II)** category of medical services provided; and
+- **(a)** *Electronic process* Subsection (d) of section 3101 of the Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvement Act of 2020 (Public Law 116–315; 38 U.S.C. 1701 note) is amended to read as follows:
+  > - **(d)** *Electronic process*
+  >   - **(1)** The Secretary shall implement an electronic process through which a scheduler of the Department, using an information technology system, may schedule an appointment for health care furnished by the Department or through the Veterans Community Care Program, under section 1703 of this title, by a non-Department health care provider.
+  >   - **(2)** The electronic process under this subsection shall allow a scheduler, with regards to appointments described in—
+  >     - **(A)** either clause of subparagraph (A) of subsection (a)(1), to view, search, and sort such appointments by type of care, location, and date; and
+  >     - **(B)** clause (ii) of such subparagraph—
+  >       - **(i)** to schedule such an appointment;
+  >       - **(ii)** to provide referral and authorization documents directly to a non-Department provider; and
+  >       - **(iii)** to perform any other function the Secretary determines necessary.
+  >   - **(3)** The Secretary shall ensure that the electronic process allows a scheduler to schedule an appointment for health care furnished by the Secretary through a health care provider of the Department.
+  >   - **(4)** The Secretary shall implement the electronic process through an existing agreement if practicable.
+  >   - **(5)** The Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives the following regarding the electronic process:
+  >     - **(A)** Not later than 90 days after the Secretary makes a determination under subparagraph (B)(iii) of paragraph (2), a briefing regarding the functions the Secretary has determined necessary.
+  >     - **(B)** Not later than six months after the date of the enactment of Veterans Community Care Scheduling Improvement Act, and semiannually thereafter during the following three years, a report regarding operation of the electronic process during both the semiannual period preceding the date of the report and the cumulative period since the date of the enactment of such Act. Such a report shall include the following for each such period:
+  >       - **(i)** The number of non-Department health care providers that participated in such electronic process, disaggregated by—
+  >         - **(I)** category of hospital care or medical services provided; and
+  >         - **(II)** medical center of the Department;
+  >       - **(ii)** The number of appointments scheduled pursuant to the electronic process, disaggregated by—
+  >         - **(I)** category of hospital care or medical services provided;
+  >         - **(II)** medical center of the Department; and
   >         - **(III)** month.
-  >   - **(7)** The program under this subsection shall terminate seven years after the date of the enactment of the Veterans Community Care Scheduling Improvement Act.
+  >       - **(iii)** A comparison of the average wait time for appointments scheduled through the electronic process and through non-electronic methods, disaggregated by medical center of the Department.
+  >       - **(iv)** The rates at which veterans cancelled appointments scheduled through the electronic process.
+  >       - **(v)** The rates at which veterans did not appear for appointments scheduled through the electronic process.
 
-- **(b)** *Codification*
+- **(b)** *Implementation*
+  - **(1)** *Date* The Secretary of Veterans Affairs shall implement the electronic process under subsection (d) of section 1703H of such title, as added by this section, not later than two years after the date of the enactment of this Act.
+  - **(2)** *Guidelines* Not later than 90 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall establish guidelines. Such guidelines shall include the following:
+    - **(A)** Procedures for schedulers and other employees of the Department involved in the scheduling of appointments described in such section.
+    - **(B)** A directive that employees described in subparagraph (A) use the electronic process to the extent practicable.
+    - **(C)** A directive that employees described in subparagraph (A), when scheduling an appointment for a covered veteran (as such term is used in section 1703 of such title) for health care furnished by the Secretary, inform such covered veteran of available appointments though providers of the Department and through providers under the Veterans Community Care Program when eligible.
+    - **(D)** Procedures for engaging with non-Department health care providers in specialized cases.
+    - **(E)** Standards regarding timeliness and accuracy.
+    - **(F)** Escalation protocols for scheduling failures or delays.
+  - **(3)** *Training* Not later than 180 days after the date of the enactment of this Act, the Secretary shall implement a mandatory training program for employees described in paragraph (2) regarding the guidelines under paragraph (2).
+  - **(4)** *Evaluation* Not later than 60 days after the date of the enactment of this Act, the Secretary shall prescribe performance benchmarks and outcome-based metrics for the electronic process under such section, including—
+    - **(A)** time between a referral and a scheduled appointment;
+    - **(B)** patient satisfaction; and
+    - **(C)** the percentage of appointments scheduled exclusively through the electronic process.
+  - **(5)** *Outreach* Not later than 90 days after the date of the enactment of this Act, the Secretary shall plan and carry out an outreach strategy to encourage non-Department of Veterans Affairs health care providers that participate in the Veterans Community Care Program to participate in the electronic process under such subsection. Such outreach shall—
+    - **(A)** include contacting each such provider during such 90 days;
+    - **(B)** include seeking to enter into an agreement with each such provider under which the provider shall participate in the electronic process;
+    - **(C)** include collaborating with State hospital associations and rural health associations to promote such participation;
+    - **(D)** focus on providers in specialties or underserved areas, as determined by the Secretary; and
+    - **(E)** include the publication, on a publicly accessible website of the Department, of information regarding—
+      - **(i)** details of the electronic process;
+      - **(ii)** how a provider may elect to participate in the electronic process; and
+      - **(iii)** a point of contact in the Department regarding the electronic process.
+  - **(6)** *Oversight* The Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives, with regards to the electronic process under such subsection, the following:
+    - **(A)** Not later than 30 days after the Secretary establishes guidelines under paragraph (2) of this subsection, a copy of such guidelines.
+    - **(B)** Not later than 30 days after the Secretary formulates the plan under paragraph (5) of this subsection, a briefing on the outreach strategy under such paragraph.
+    - **(C)** Not later than 180 days after the date of the enactment of this Act, the benchmarks and metrics prescribed under paragraph (4).
+- **(c)** *Expansion* Not later than 90 days after the date of the enactment of this Act, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a plan to integrate the scheduling of appointments for health care furnished through health care providers of the Department of Veterans Affairs into the electronic process under subsection (d) of section 1703H of such title. Such plan shall include the following elements:
+  - **(1)** A timeline to implement such plan.
+  - **(2)** Estimated costs to carry out such plan.
+  - **(3)** Changes to policies and procedures of the Department the Secretary determines necessary to implement such plan.
+- **(d)** *Codification*
   - **(1)** *In general* Section 3101 of such Act, as amended by subsection (a), is transferred to subchapter I of chapter 17 of title 38, United States Code, inserted after section 1703G, and redesignated as section 1703H.
-  - **(2)** *Conforming amendments* Section 1703H of such title, as added by this section, is amended—
+  - **(2)** *Conforming amendments* Section 1703H of such title, as transferred and redesignated by this subsection, is amended—
     - **(A)** by striking any heading that is not a section heading or subsection heading and conforming the margins accordingly;
     - **(B)** by striking “of title 38, United States Code” both places it appears and inserting “of this title”;
-    - **(C)** in subsection (a)(1)—
-      - **(i)** in the matter preceding subparagraph (A), by striking “Not later than 60 days after the date of the enactment of this Act, the Secretary of Veterans Affairs” and inserting “The Secretary”; and
-      - **(ii)** in subparagraph (A), by striking “Department of Veterans Affairs” and inserting “Department”;
-    - **(D)** in subsection (b)(1), by striking “Not later than one year after the date of the enactment of this Act, the Secretary” and inserting “The Secretary”;
-    - **(E)** in subsection (c)—
+    - **(C)** in subsection (b)(1), by striking “Not later than one year after the date of the enactment of this Act, the Secretary” and inserting “The Secretary”;
+    - **(D)** in subsection (c)—
       - **(i)** in paragraph (1), in the matter preceding subparagraph (A), by striking “Not later than 180 days after the date of the enactment of this Act, the Secretary” and inserting “The Secretary”; and
       - **(ii)** in paragraph (2), by striking subparagraphs (A) and (B) and inserting “The Secretary shall require each medical facility of the Department to use the method or tool described in paragraph (1).”;
-    - **(F)** in the section enumerator, by striking “Sec.” and inserting “§”; and
-    - **(G)** in the section heading—
+    - **(E)** in the section enumerator, by striking “Sec.” and inserting “§”; and
+    - **(F)** in the section heading—
       - **(i)** by striking “Process and requirements for scheduling appointments for health care from Department of Veterans Affairs and non-Department health care.” and inserting “Scheduling of appointments”; and
       - **(ii)** by conforming the typeface and typestyle, including capitalization, to the typeface and typestyle used in the section heading of section 1703G of such title.
   - **(3)** *Table of sections* The table of sections at the beginning of such chapter is amended by inserting, after the item relating to section 1703G, the following new item:
+
+## § 3. Extension of certain limits on payment of pension
+
+Section 5503(d)(7) of title 38, United States Code, is amended by striking “January 31, 2033” and inserting “June 30, 2033”.

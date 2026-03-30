@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3482
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-11 amendatory instructions. 7 executed, 4 stated and not applied.
+10 amendatory instructions. 5 executed, 5 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,24 +32,6 @@ to guess them.
 |---|---|
 | Removed | `of title 38, United States Code` |
 | Inserted | `of this title` |
-
-### 38 U.S.C. § 1701
-
-> in the matter preceding subparagraph (A), by striking “Not later than 60 days after the date of the enactment of this Act, the Secretary of Veterans Affairs” and inserting “The Secretary”; and
-
-| | |
-|---|---|
-| Removed | `Not later than 60 days after the date of the enactment of this Act, the Secretary of Veterans Affairs` |
-| Inserted | `The Secretary` |
-
-### 38 U.S.C. § 1701
-
-> in subparagraph (A), by striking “Department of Veterans Affairs” and inserting “Department”;
-
-| | |
-|---|---|
-| Removed | `Department of Veterans Affairs` |
-| Inserted | `Department` |
 
 ### 38 U.S.C. § 1701
 
@@ -96,7 +78,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `38 U.S.C. § 1701` | replace | Section 3101 of the Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvement Act of 2020 (Public Law 116–315; 38 U.S.C. 1701 note) is amended by striking subsection (d) and inserting the following new subsectio… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `38 U.S.C. § 1701` | amend | Subsection (d) of section 3101 of the Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvement Act of 2020 (Public Law 116–315; 38 U.S.C. 1701 note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `38 U.S.C. § 1701` | strike | by striking any heading that is not a section heading or subsection heading and conforming the margins accordingly; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `38 U.S.C. § 1701` | replace | in paragraph (2), by striking subparagraphs (A) and (B) and inserting “The Secretary shall require each medical facility of the Department to use the method or tool described in paragraph (1).”; | the bill quotes the text inserted but describes where it goes |
 | `38 U.S.C. § 1701` | insert | The table of sections at the beginning of such chapter is amended by inserting, after the item relating to section 1703G, the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 5503(d)(7) of title 38, United States Code, is amended by striking “January 31, 2033” and inserting “June 30, 2033”. | the bill names no machine-readable US Code section |
