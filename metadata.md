@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6047
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6047
@@ -16,7 +16,7 @@ Sharri Briley and Eric Edmundson Veterans Benefits Expansion Act of 2026
 
 - Rep. Barrett, Tom [R-MI-7] (B001321)
 
-## Cosponsors (11)
+## Cosponsors (14)
 
 - Rep. Bost, Mike [R-IL-12] (B001295)
 - Rep. Van Orden, Derrick [R-WI-3] (V000135)
@@ -29,6 +29,9 @@ Sharri Briley and Eric Edmundson Veterans Benefits Expansion Act of 2026
 - Rep. Luttrell, Morgan [R-TX-8] (L000603)
 - Rep. Wittman, Robert J. [R-VA-1] (W000804)
 - Rep. Miller-Meeks, Mariannette [R-IA-1] (M001215)
+- Rep. Van Drew, Jefferson [R-NJ-2] (V000133)
+- Rep. Crank, Jeff [R-CO-5] (C001137)
+- Rep. Hinson, Ashley [R-IA-2] (H001091)
 
 ## Committees (1)
 
@@ -39,3 +42,9 @@ Sharri Briley and Eric Edmundson Veterans Benefits Expansion Act of 2026
 - 2025-11-17 — Introduced in House
 - 2025-11-17 — Introduced in House
 - 2025-11-17 — Referred to the House Committee on Veterans' Affairs.
+- 2025-12-03 — Committee Hearings Held
+- 2026-02-12 — Committee Consideration and Mark-up Session Held
+- 2026-02-12 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 13 - 10.
+- 2026-04-02 — Placed on the Union Calendar, Calendar No. 497.
+- 2026-04-02 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-577.
+- 2026-04-02 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-577.

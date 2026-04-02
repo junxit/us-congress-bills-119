@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6047
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Sharri Briley and Eric Edmundson Veterans Benefits Expansion Act of 2025”.
+This Act may be cited as the “Sharri Briley and Eric Edmundson Veterans Benefits Expansion Act of 2026”.
 
 ## § 2. Increase in rates of certain disability compensation and dependency and indemnity compensation under laws administered by Secretary of Veterans Affairs
 
@@ -22,22 +22,54 @@ This Act may be cited as the “Sharri Briley and Eric Edmundson Veterans Benefi
   - **(2)** *Effective date; applicability* Subsection (u) of such section (as added by paragraph (1)) shall take effect on December 1, 2026, and shall apply to months beginning on or after such date.
 - **(b)** *Increase to rates of dependency and indemnity compensation* Section 5312 of such title is amended by adding at the end the following new subsection:
   > - **(d)**
-  >   - **(1)** Whenever there is an increase in benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) as a result of a determination made under section 215(i) of such Act (42 U.S.C. 415(i)), the Secretary shall, effective on the date of such increase in benefit amounts, increase the dollar amounts in effect for the payment of dependency and indemnity compensation by the Secretary under paragraph (1) and paragraph (3) of section 1311(a) of this title, as such amounts were in effect immediately before the date of such increase in benefit amounts payable under title II of the Social Security Act, by a percentage equal to the sum of—
+  >   - **(1)** Whenever there is an increase in benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) as a result of a determination made under section 215(i) of such Act (42 U.S.C. 415(i)), the Secretary shall, except as provided in paragraph (2), effective on the date of such increase in benefit amounts, increase the dollar amounts in effect for the payment of dependency and indemnity compensation by the Secretary under paragraph (1) and paragraph (3) of section 1311(a) of this title, as such amounts were in effect immediately before the date of such increase in benefit amounts payable under title II of the Social Security Act, by a percentage equal to the sum of—
   >     - **(A)** the percentage by which such benefit amounts are increased; and
   >     - **(B)** one percent.
-  >   - **(2)** Whenever there is an increase under paragraph (1) in amounts in effect for the payment of dependency and indemnity compensation, the Secretary shall publish such amounts, as increased pursuant to such paragraph, in the Federal Register at the same time as the material required by section 215(i)(2)(D) of the Social Security Act (42 U.S.C. 415(i)(2)(D)) is published by reason of a determination under section 215(i) of such Act (42 U.S.C. 415(i)).
-  >   - **(3)** The requirement to increase the amounts in effect for the payment of dependency and indemnity compensation by the Secretary pursuant to paragraph (1) shall—
+  >   - **(2)** After the first increase under paragraph (1) to the dollar amounts in effect for the payment of dependency and indemnity compensation by the Secretary under paragraph (1) and paragraph (3) of section 1311(a) of this title, the Secretary shall carry out paragraph (1)(B) by substituting “one half of one percent” for “one percent”.
+  >   - **(3)** Whenever there is an increase under paragraph (1) in amounts in effect for the payment of dependency and indemnity compensation, the Secretary shall publish such amounts, as increased pursuant to such paragraph, in the Federal Register at the same time as the material required by section 215(i)(2)(D) of the Social Security Act (42 U.S.C. 415(i)(2)(D)) is published by reason of a determination under section 215(i) of such Act (42 U.S.C. 415(i)).
+  >   - **(4)** The requirement to increase, pursuant to paragraph (1), the amounts in effect for the payment of dependency and indemnity compensation under paragraph (1) and paragraph (3) of section 1311 (a) of this title by the Secretary shall—
   >     - **(A)** take effect on December 1, 2026, and shall apply with respect to months beginning on or after such date; and
-  >     - **(B)** terminate after the date on which the fifth increase to such amounts pursuant to such paragraph occurs.
+  >     - **(B)** terminate after the date on which the second increase to such amounts pursuant to such paragraph occurs.
 
 ## § 3. Modification of waivers of fees collected for housing loans guaranteed, insured, or made by the Secretary of Veterans Affairs
 
-Section 3729(c) of such title is amended—
+Section 3729(b)(2) of such title is amended, in the loan fee table—
 
-- **(1)** in paragraph (1), by striking “A fee” and inserting “Subject to paragraph (2), a fee”;
-- **(2)** by redesignating paragraph (2) as paragraph (4); and
-- **(3)** by inserting after paragraph (1) the following new paragraphs:
-  > - **(2)** During the period beginning on the date of the enactment of the Sharri Briley and Eric Edmundson Veterans Benefits Expansion Act of 2025 and ending on September 30, 2035, a fee may be collected under this section—
-  >   - **(A)** for a subsequent loan (as such term is defined in subsection (b)); and
-  >   - **(B)** from a veteran who is receiving compensation (or who, but for the receipt of retirement pay or active service pay, would be entitled to receive compensation) on the basis of a disability rated at 70 percent or less.
-  > - **(3)** The authority under paragraph (2) shall take effect on August 1, 2026, and shall apply with respect to months beginning on or after such date.
+- **(1)** by striking “June 9, 2034” each place it appears and inserting “September 30, 2036”;
+- **(2)** in subparagraph (E), by striking “0.50” both places it appears and inserting “1.40”; and
+- **(3)** in subparagraph (I), by striking “0.50” each place it appears and inserting “1.0”.
+
+## § 4. Extension of certain limits on payments of pension
+
+Section 5503(d)(7) of such title is amended by striking “January 31, 2033” and inserting “September 30, 2036”.
+
+## § 5. Home affordability for Guard and Reserve
+
+- **(a)** *Short title* This section may be cited as the “Home Affordability for Guard and Reserve Act”.
+- **(b)** *Eligibility of certain members of the reserve components and the National Guard for guaranteed housing loans*
+  - **(1)** *Expanded definition of “active duty” for purposes of housing loans* Section 3701(b) of title 38, United States Code, is amended by adding at the end the following new paragraph:
+    > - **(9)** The term “active duty” has the meanings as follows:
+    >   - **(A)** In the case of members of the regular components of the Armed Forces, the meaning given such term in section 101(21)(A).
+    >   - **(B)** In the case of members of the reserve components of the Armed Forces—
+    >     - **(i)** service on active duty (as defined in section 101(d) of title 10), inactive-duty training (as defined in section 101(d) of title 10), or annual training duty; or
+    >     - **(ii)** service on active duty under a call or order to active duty under section 688, 12301(a), 12301(d), 12301(g), 12301(h), 12302, 12304, 12304a, or 12304b of title 10 or section 713 of title 14, but not including inactive duty training (as defined in section 101(d) of title 10) or annual training duty.
+    >   - **(C)** In the case of a member of the Army National Guard of the United States or Air National Guard of the United States, in addition to service described in subparagraph (B), full-time service—
+    >     - **(i)** in the National Guard of a State for the purpose of organizing, administering, recruiting, instructing, or training the National Guard;
+    >     - **(ii)** in the National Guard when performing full-time National Guard duty (as defined in section 101 of title 32); or
+    >     - **(iii)** in the National Guard when performing active duty (as defined in section 101 of title 32).
+
+  - **(2)** *Retroactive applicability to service performed* The amendments made by this subsection shall apply with respect to any service performed on or after September 11, 2001.
+- **(c)** *Expansion of eligibility for guaranteed housing loans to certain additional personnel upon payment of additional loan fee*
+  - **(1)** *Expansion to individuals with at least 14 days of service* Section 3701(b) of title 38, United States Code, is amended by inserting after paragraph (7) the following new paragraph:
+    > - **(8)** The term “veteran” also includes, for purposes of home loans (subject to the additional loan fee in section 3729(b)(4)(J) of this title), an individual who—
+    >   - **(A)** is not otherwise eligible for the benefits of this chapter;
+    >   - **(B)** has completed a total service of at least 14 days on active duty under paragraph (B) or (C) of paragraph (9); and
+    >   - **(C)** following completion of such service, continued to serve until the completion of entry level and skill training (as defined in section 3301(3) of this title).
+
+  - **(2)** *Basic entitlement* Section 3702(a)(2) of title 38, United States Code, is amended by adding at the end the following:
+    > - **(H)** Each individual described in section 3701(b)(8) of this title.
+
+  - **(3)** *Additional loan fee for such individuals* Section 3729(b)(4) of title 38, United States Code, is amended by adding at the end the following new subparagraph:
+    > - **(J)** In the case of a housing loan in which the veteran has eligibility under section 3701(b)(8) of this title and does not otherwise have eligibility, the loan fee table in paragraph (2) shall be applied to the veteran or other obligor (as applicable) by adding 1.00 to the percentage in the table.
+
+  - **(4)** *Notification to personnel* The Secretary of Veteran Affairs shall provide information about this benefit to the Secretary of Defense to ensure that each member of a reserve component or a member of the Army National Guard of the United States or Air National Guard of the United States who completes entry level and skill training (as defined in section 3301(3) of title 38, United States Code) after the date of the enactment of this Act is notified of their eligibility for housing loan benefits under chapter 37 of such title, including eligibility (subject to the additional loan fee) under section 3701(b)(8) of such title.
