@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4684
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,35 +11,33 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Star-Spangled Summit Act of 2025”.
+This Act may be cited as the “Star-Spangled Summit Act of 2026”.
 
-## § 2. Special use permit for maintenance of covered flagpole at Kyhv Peak Lookout Point
+## § 2. Special use permit for installation, operation, maintenance, and removal of covered flagpole at Kyhv Peak Lookout Point
 
 - **(a)** *Definitions* In this section:
-  - **(1)** *Covered flagpole* The term covered flagpole means a flagpole bearing the flag of the United States.
-  - **(2)** *Kyhv Peak Lookout Point* The term Kyhv Peak Lookout Point means the peak within the Uinta National Forest overlooking Utah Valley and located approximately at latitude 40°16′18.14″ N, longitude 111°36′58.57″ W.
-  - **(3)** *Qualified person* The term qualified person means an individual that resides in, or a nonprofit entity or volunteer organization that carries out operations of the entity or organization in, Utah County, Utah, that has—
+  - **(1)** *Covered flagpole* The term “covered flagpole” means a flagpole bearing the flag of the United States.
+  - **(2)** *Kyhv peak lookout point* The term “Kyhv Peak Lookout Point” means the peak within the Uinta National Forest overlooking Utah Valley and located approximately at latitude 40°16′18.14″ N, longitude 111°36′58.57″ W.
+  - **(3)** *Qualified person* The term “qualified person” means an individual that resides in, or a nonprofit entity or volunteer organization that carries out operations of the entity or organization in, Utah County, Utah, that has—
     - **(A)** experience placing, maintaining, or otherwise caring for a covered flagpole; and
     - **(B)** any other experience determined relevant by the Secretary.
-  - **(4)** *Secretary* The term Secretary means the Secretary of Agriculture, acting through the Chief of the Forest Service.
-- **(b)** *Special use permit* Not later than 180 days after the date of enactment of this Act, the Secretary shall issue a special use permit for a period of 10 years for the placing, if necessary, and maintenance of a covered flagpole at Kyhv Peak Lookout Point—
-  - **(1)** to Robert S. Collins of Provo, Utah; or
-  - **(2)** if the individual described in paragraph (1) declines such permit, to a qualified person in accordance with this section.
+  - **(4)** *Secretary* The term “Secretary” means the Secretary of Agriculture, acting through the Chief of the Forest Service.
+- **(b)** *Special use permit* Not later than 180 days after the date of enactment of this Act and notwithstanding any other provision of law, the Secretary shall issue a special use permit for a period of 10 years for the installation, operation, maintenance, and removal, if necessary, of a covered flagpole at Kyhv Peak Lookout Point to—
+  - **(1)** an individual who has submitted a special use permit application to display the flag of the United States seasonally on Kyhv Peak prior to March 5, 2026;
+  - **(2)** an individual who has placed or displayed the flag of the United States at Kyhv Peak Lookout Point as part of a longstanding seasonal practice prior to the date of enactment of this Act; or
+  - **(3)** if an individual described in paragraphs (1) and (2) declines such permit, to a qualified person in accordance with this section.
 - **(c)** *Selection and issuance*
-  - **(1)** *Application* Except as provided in subsection (b)(1), to be eligible to be selected for a special use permit under this section, a qualified person shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
-  - **(2)** *Priority of issuance* Except as provided in subsection (b)(1), in selecting a qualified person to receive a special use permit under this section, the Secretary shall prioritize the following qualified persons:
-    - **(A)** First, a qualified person that held a special use permit issued under this section for the preceding 10-year period.
-    - **(B)** Second, a qualified person that the prior special use permit holder identifies.
-    - **(C)** Third, any other qualified person that submits an application under paragraph (1) that the Secretary determines appropriate.
-  - **(3)** *Terms and conditions* The Secretary may impose such terms and conditions on a holder of a special use permit under this section as the Secretary determines necessary to ensure the proper care and maintenance of a covered flagpole.
-  - **(4)** *Land use fee exemption* The Secretary shall not assess any land use fees with respect to a special use permit issued under this section.
-  - **(5)** *Notice of application* The Secretary shall publish notice of the availability of any special use permit under this section on the website of the Forest Service and in a local Utah County, Utah, newspaper of record.
+  - **(1)** *Application* Except as provided in subsection (b), to be eligible to be selected for a special use permit under this section, a qualified person shall submit to the Secretary a proposal and application at such time, in such manner, and containing such information as the Secretary may require.
+  - **(2)** *Terms and conditions* The Secretary may impose such terms and conditions on a holder of a special use permit under this section as the Secretary determines necessary to ensure the proper care and maintenance of a covered flagpole.
+  - **(3)** *Land use fee exemption* The Secretary shall not assess any land use fees with respect to a special use permit issued under this section.
+  - **(4)** *Notice of application* The Secretary shall publish notice of the availability of any special use permit under this section on the website of the Forest Service and in a local Utah County, Utah, newspaper of record.
 - **(d)** *Subsequent special use permits*
   - **(1)** *In general* The Secretary shall renew or issue a new 10-year special use permit not later than 180 days after the date that is the earliest of the following:
     - **(A)** The date that is 10 years after the date on which the Secretary issued the preceding permit.
-    - **(B)** The date on which the holder of the current special use permit requests termination of such permit.
+    - **(B)** The date on which the holder of the current special use permit requests revocation of such permit.
     - **(C)** The date on which a special use permit is subject to early termination under paragraph (2).
-  - **(2)** *Early termination* If the Secretary determines that the holder of a special use permit under this section is not in compliance with the terms and conditions relating to such permit under subsection (c)(3), the Secretary may terminate the special use permit.
-- **(e)** *Limitation on holders of special use permit* A holder of a special use permit under this section shall not accept anything of value in exchange for identifying a person under subsection (c)(2)(B).
+  - **(2)** *Revocation* If the Secretary determines that the holder of a special use permit under this section is not in compliance with the terms and conditions relating to such permit under subsection (c)(3), the Secretary may revoke the special use permit.
+- **(e)** *Exemption from cost recovery fees* A holder of a special use permit under this section shall be exempt from any cost recovery fee under section 251.58 of title 36, Code of Federal Regulations.
 - **(f)** *Applicability of NEPA* The National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) shall not apply to the issuance, renewal, or administration of a special use permit under this section, including any activities associated with the placing, maintenance, or removal of a covered flagpole at Kyhv Peak Lookout Point.
 - **(g)** *Access* The Secretary may authorize reasonable access to Kyhv Peak Lookout Point for the purpose of exercising rights under a special use permit issued under this section, subject to conditions necessary to protect public safety and natural resources.
+- **(h)** *Limitation* The Secretary shall ensure the activities and access authorized by this section are limited to the smallest practicable area.

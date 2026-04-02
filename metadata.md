@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4684
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4684
@@ -25,3 +25,11 @@ Star-Spangled Summit Act of 2026
 - 2025-07-23 — Introduced in House
 - 2025-07-23 — Introduced in House
 - 2025-07-23 — Referred to the House Committee on Natural Resources.
+- 2026-01-07 — Referred to the Subcommittee on Federal Lands.
+- 2026-01-14 — Subcommittee Hearings Held
+- 2026-03-05 — Committee Consideration and Mark-up Session Held
+- 2026-03-05 — Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.
+- 2026-03-05 — Subcommittee on Federal Lands Discharged
+- 2026-04-02 — Placed on the Union Calendar, Calendar No. 504.
+- 2026-04-02 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-584.
+- 2026-04-02 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-584.
