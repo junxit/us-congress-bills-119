@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2252
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “North Dakota Trust Lands Completion Act of 2025”.
+This Act may be cited as the “North Dakota Trust Lands Completion Act of 2026”.
 
 ## § 2. Definitions
 
@@ -53,11 +53,15 @@ In this Act:
 
 - **(a)** *Relinquishment and selection*
   - **(1)** *In general* Subject to valid existing rights, if the State elects to relinquish all right, title, and interest of the State in and to a State land grant parcel located wholly or partially within the boundaries of any reservation, the Secretary shall authorize the State to select in accordance with this Act 1 or more parcels of unappropriated Federal land of substantially equivalent value.
-  - **(2)** *Approval* Not later than 180 days after the date on which the State makes a selection under paragraph (1), the Secretary shall approve or reject, in whole or in part, the selection.
-  - **(3)** *Review* Nothing in this subsection precludes the Secretary from conducting an environmental review of any parcel proposed for relinquishment under paragraph (1) if the Secretary determines that an environmental review is appropriate.
+  - **(2)** *Selection*
+    - **(A)** *In general* Subject to a mutual agreement between the State and the Secretary, the land exchange authorized under paragraph (1) may be carried out in a single phase or multiple phases.
+    - **(B)** *List* For each phase of the land exchange, the State shall provide to the Secretary a selection list in accordance with this Act, including all selected parcels of unappropriated Federal land of substantially equivalent value.
+    - **(C)** *Adjustments* Adjustments to parcels included in the selection list for each phase may be made as necessary, not later than 120 days of delivery of the list to the Secretary, to equalize the value of State land grant parcels and the overall value of the parcels of unappropriated Federal land selected.
+  - **(3)** *Approval* Not later than 180 days after the date on which the State makes a selection for each phase under paragraph (2), the Secretary shall approve or reject, in whole or in part, the selection for that phase.
+  - **(4)** *Review* Nothing in this subsection precludes the Secretary from conducting an environmental review of any parcel proposed for relinquishment under paragraph (1) if the Secretary determines that an environmental review is appropriate.
 - **(b)** *Conveyance*
   - **(1)** *Conveyance by Secretary*
-    - **(A)** *In general* Not later than 60 days after the date on which the Secretary approves a State selection of unappropriated Federal land under subsection (a)(2), the Secretary shall initiate the actions necessary to convey to the State the unappropriated Federal land.
+    - **(A)** *In general* Not later than 60 days after the date on which the Secretary approves a State selection of unappropriated Federal land under subsection (a)(3), the Secretary shall initiate the actions necessary to convey to the State the unappropriated Federal land.
     - **(B)** *Requirements* Conveyance of unappropriated Federal land by the Secretary under this Act—
       - **(i)** shall be by patent or deed in a form acceptable to the State and the Secretary; and
       - **(ii)** shall not be considered a sale, exchange, or conveyance for purposes of section 203, 205, 206, or 209 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1713, 1715, 1716, 1719).
@@ -72,13 +76,13 @@ In this Act:
     - **(B)** considered to be a part of the reservation of the Indian Tribe.
   - **(2)** *Consultation required* Prior to the conveyance of a State land grant parcel located wholly or partially within the boundaries of any reservation, the State and the Secretary shall consult with affected Indian Tribes, including the Indian Tribe the land of which is subject to conveyance in accordance with Executive Order 13175 (25 U.S.C. 5301 note; relating to consultation and coordination with Indian tribal governments) and other applicable laws.
 - **(e)** *Withdrawal*
-  - **(1)** *In general* Subject to valid rights in existence on the date of enactment of this Act, all unappropriated Federal land selected by the State for conveyance under this Act, effective beginning on the date on which the State makes the selection and ending on the date described in paragraph (2), is withdrawn from all forms of—
+  - **(1)** *In general* Subject to valid rights in existence on the date of enactment of this Act, all unappropriated Federal land selected by the State for conveyance under this Act, effective beginning on the date on which the State makes the selection for such Federal land and ending on the date described in paragraph (2), is withdrawn from all forms of—
     - **(A)** entry, appropriation, or disposal under the public land laws;
     - **(B)** location, entry, and patent under the mining laws; and
     - **(C)** disposition under all laws pertaining to mineral and geothermal leasing or mineral materials.
   - **(2)** *Date described* The date referred to in paragraph (1) is the date on which, as applicable—
     - **(A)** the unappropriated Federal land is conveyed by the Secretary to the State;
-    - **(B)** the Secretary rejects the selection under subsection (a)(2); or
+    - **(B)** the Secretary rejects the selection under subsection (a)(3); or
     - **(C)** the State withdraws the selection.
 
 ## § 4. Valuation
@@ -109,6 +113,9 @@ In this Act:
     - **(A)** *In general* The Secretary or the State may assume costs or other responsibilities or requirements for conveying land under this Act that ordinarily are borne by the other party.
     - **(B)** *Adjustment* If the Secretary or the State assume costs or other responsibilities under subparagraph (A), the Secretary or the State shall make adjustments to the value of the unappropriated Federal land conveyed to the State to compensate the Secretary or the State, as applicable, for assuming the costs or other responsibilities.
   - **(5)** *Mineral land* If value is attributed to any parcel of unappropriated Federal land that has been selected by the State because of the presence of minerals under a lease entered into under the Mineral Leasing Act (30 U.S.C. 181 et seq.) that is in a producing or producible status, and the lease is to be conveyed under this Act, the value of the parcel shall be reduced by the amount that represents the likely Federal revenue sharing obligation under the Mineral Leasing Act (30 U.S.C. 181 et seq.) with the State, but the adjustment shall not be considered as reflecting a property right of the State.
+  - **(6)** *Public inspection and notice*
+    - **(A)** *Public inspection* Not later than 30 days before the date of any exchange of Federal land and non-Federal land under this act, all final appraisals and appraisal reviews for the land to be exchanged shall be available for public review at the office of the State Director of the Bureau of Land Management in the Montana-Dakotas State Office.
+    - **(B)** *Notice* The Secretary shall make available on the public website of the Secretary, and the Secretary or the State, as applicable, shall publish in a newspaper of general circulation in North Dakota, a notice that the appraisals conducted under subsection (b) are available for public inspection.
 
 ## § 5. Miscellaneous
 

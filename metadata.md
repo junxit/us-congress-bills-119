@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2252
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2252
@@ -25,3 +25,8 @@ North Dakota Trust Lands Completion Act of 2026
 - 2025-03-21 — Introduced in House
 - 2025-03-21 — Introduced in House
 - 2025-03-21 — Referred to the House Committee on Natural Resources.
+- 2026-03-05 — Committee Consideration and Mark-up Session Held
+- 2026-03-05 — Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.
+- 2026-04-02 — Placed on the Union Calendar, Calendar No. 501.
+- 2026-04-02 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-581.
+- 2026-04-02 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-581.
