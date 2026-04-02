@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1352
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -25,3 +25,4 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(h)** *No buffer zones*
   - **(1)** *In general* Nothing in this Act shall be construed to create buffer zones outside of the General George C. Marshall House.
   - **(2)** *Activity or use outside the general george c. marshall house* The fact that an activity or use can be seen, heard, or detected from within the George C. Marshall House shall not preclude, limit, control, regulate, or determine the conduct or management of activities or uses outside of the George C. Marshall House.
+- **(i)** *Management plan* Not later than 3 years after the date on which funds are made available to carry out this section, the Secretary, in consultation with the management entity, shall complete a management plan for the affiliated area in accordance with section 100502 of title 54, United States Code.

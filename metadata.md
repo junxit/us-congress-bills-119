@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1352
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1352
@@ -25,3 +25,8 @@ To designate the General George C. Marshall House, in the Commonwealth of Virgin
 - 2025-02-13 — Introduced in House
 - 2025-02-13 — Introduced in House
 - 2025-02-13 — Referred to the House Committee on Natural Resources.
+- 2026-02-11 — Committee Consideration and Mark-up Session Held
+- 2026-02-11 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2026-04-02 — Placed on the Union Calendar, Calendar No. 500.
+- 2026-04-02 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-580.
+- 2026-04-02 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-580.
