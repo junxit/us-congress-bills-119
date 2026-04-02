@@ -1,7 +1,7 @@
 ---
 measure: H.R. 41
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 41
@@ -16,6 +16,10 @@ Unrecognized Southeast Alaska Native Communities Recognition and Compensation Ac
 
 - Rep. Begich, Nicholas [R-AK-At Large] (B001323)
 
+## Cosponsors (1)
+
+- Rep. Hurd, Jeff [R-CO-3] (H001100)
+
 ## Committees (1)
 
 - House — Natural Resources Committee
@@ -25,3 +29,8 @@ Unrecognized Southeast Alaska Native Communities Recognition and Compensation Ac
 - 2025-01-03 — Introduced in House
 - 2025-01-03 — Introduced in House
 - 2025-01-03 — Referred to the House Committee on Natural Resources.
+- 2026-03-05 — Committee Consideration and Mark-up Session Held
+- 2026-03-05 — Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.
+- 2026-04-02 — Placed on the Union Calendar, Calendar No. 499.
+- 2026-04-02 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-579.
+- 2026-04-02 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-579.
