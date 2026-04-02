@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2768
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,29 +11,12 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Benton MacKaye National Scenic Trail Feasibility Study Act of 2025”.
+This Act may be cited as the “Benton MacKaye National Scenic Trail Feasibility Study Act of 2026”.
 
-## § 2. Findings
-
-Congress finds that the Benton MacKaye Trail—
-
-- **(1)** is a scenic, nonmotorized trail that traverses approximately 287 miles over some of the most renowned forests and mountains in the States of Georgia, Tennessee, and North Carolina;
-- **(2)** showcases a wide variety of scenic views, including high-elevation peaks, mature forests, and secluded waterfalls;
-- **(3)** passes through wilderness that is rich with biodiversity;
-- **(4)** passes through six designated Wilderness Areas, the Great Smoky Mountains National Park, and the Chattahoochee-Oconee, Cherokee, and Nantahala National Forests;
-- **(5)** provides a wide array of easily accessible hikes for novice and intermediate hikers, as well as more challenging trails for backpacking;
-- **(6)** supports economic opportunities for numerous rural communities which benefit from the visitors of the trail spending their money on accommodations, food, and outdoor supplies;
-- **(7)** runs from Springer Mountain in Georgia, through Tennessee, and extends through the Great Smoky Mountains National Park in North Carolina;
-- **(8)** is physically accessible; and
-- **(9)** can be maintained at a minimal cost because—
-  - **(A)** the Benton MacKaye Trail has been maintained at its current length since 2005;
-  - **(B)** 95 percent of the Benton MacKaye Trail is located on Federal land; and
-  - **(C)** the Benton MacKaye Trail has been successfully constructed, maintained, and managed by the Benton MacKaye Trail Association since 1980.
-
-## § 3. Benton mackaye national scenic trail feasibility study
+## § 2. Benton MacKaye National Scenic Trail feasibility study
 
 Section 5(c) of the National Trails System Act (16 U.S.C. 1244(c)) is amended by adding at the end the following:
 
-> - **(50)** *Benton Mackaye Trail*
+> - **(50)** *Benton Mackaye trail*
 >   - **(A)** *In general* The Benton MacKaye Trail, a scenic, nonmotorized trail that traverses approximately 287 miles in the States of Georgia, Tennessee, and North Carolina.
->   - **(B)** *Study* Not later than 1 year after the date of the enactment of this paragraph, the Secretary of Agriculture, in consultation with interested organizations, including the Benton MacKaye Trail Association, shall complete and submit to Congress the feasibility study for designating the Benton MacKaye Trail as a national scenic trail.
+>   - **(B)** *Study* Not later than 2 years after the date of the enactment of this paragraph, the Secretary of Agriculture, in consultation with interested organizations, including the Benton MacKaye Trail Association, shall complete and submit to Congress the feasibility study for designating the Benton MacKaye Trail as a national scenic trail.
