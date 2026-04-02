@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 785
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,11 +11,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Representing our Seniors at VA Act of 2025”.
+This Act may be cited as the “Representing our Seniors at VA Act of 2026”.
 
-## § 2. Inclusion of representative of National Association of State Veterans Homes on Department of Veterans Affairs Geriatrics and Gerontology Advisory Committee
+## § 2. Membership of Department of Veterans Affairs Geriatrics and Gerontology Advisory Committee
 
-Section 7315(a) of title 38, United States Code, is amended—
+Section 7315 of title 38, United States Code, is amended, in subsection (a)—
 
-- **(1)** by inserting “, in consultation with the President of the National Association of State Veterans Homes with respect to matters concerning such association” after “Under Secretary for Health”; and
-- **(2)** by inserting “and one representative of the National Association of State Veterans Homes who holds a professional license in nursing home administration” before the period at the end of the second sentence.
+- **(1)** in the second sentence, by striking “and at least one representative of a national veterans service organization” and inserting “, at least one individual who represents a national veterans service organization, at least one individual who has served veterans or families of veterans in a State home, and at least one individual who holds a professional license in nursing home administration”; and
+- **(2)** by designating the first, second, and third sentences as paragraphs (1) through (3), respectively (and adjusting the margins accordingly).

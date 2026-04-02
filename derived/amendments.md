@@ -1,7 +1,7 @@
 ---
 measure: H.R. 785
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+1 amendatory instruction. 0 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,5 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | by inserting “, in consultation with the President of the National Association of State Veterans Homes with respect to matters concerning such association” after “Under Secretary for Health”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “and one representative of the National Association of State Veterans Homes who holds a professional license in nursing home administration” before the period at the end of the second sentence. | the bill names no machine-readable US Code section |
+| — | replace | in the second sentence, by striking “and at least one representative of a national veterans service organization” and inserting “, at least one individual who represents a national veterans service organization, at least one individual w… | the bill names no machine-readable US Code section |
