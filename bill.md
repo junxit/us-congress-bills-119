@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Closing the Provider Fraud Gap Act”.
+This Act may be cited as the “Closing the Provider Fraud Gap Act of 2026”.
 
 ## § 2. GAO study and report on provider-related fraud
 
