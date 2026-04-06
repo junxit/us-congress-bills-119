@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7724
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,7 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 9858lg` | strike | ) in paragraph (1) by striking “or sanctions imposed upon a State in accordance with subsection (b)(2)”, | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 9858lg` | strike | in paragraph (1) by striking “or sanctions imposed upon a State in accordance with subsection (b)(2)”, | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 9858lg` | strike | in subparagraph (A) by striking “sanction or”, and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 9858lg` | strike | in subparagraph (B) by striking “sanction or”, | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 9858lg` | strike | in paragraph (7) by striking “sanction(s) or”. | the bill quotes the text struck but describes what replaces it |

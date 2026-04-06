@@ -11,13 +11,13 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “No Waivers for Fraud Act”
+This Act may be cited as the “No Waivers for Fraud Act of 2026”.
 
 ## § 2. Eliminating authority to waive sanctions
 
 Section 658I(c) of the Child Care and Development Block Grant Act of 1990 (42 U.S.C. 9858lg(c)) is amended—
 
-- **(1)** ) in paragraph (1) by striking “or sanctions imposed upon a State in accordance with subsection (b)(2)”,
+- **(1)** in paragraph (1) by striking “or sanctions imposed upon a State in accordance with subsection (b)(2)”,
 - **(2)** in paragraph (2)—
   - **(A)** in subparagraph (A) by striking “sanction or”, and
   - **(B)** in subparagraph (B) by striking “sanction or”,
