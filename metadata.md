@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7720
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7720
@@ -16,6 +16,10 @@ Child Care Payment Integrity and Fraud Accountability Act of 2026
 
 - Rep. Messmer, Mark B. [R-IN-8] (M001233)
 
+## Cosponsors (1)
+
+- Rep. Wilson, Joe [R-SC-2] (W000795)
+
 ## Committees (1)
 
 - House — Education and Workforce Committee
@@ -25,3 +29,8 @@ Child Care Payment Integrity and Fraud Accountability Act of 2026
 - 2026-02-26 — Introduced in House
 - 2026-02-26 — Introduced in House
 - 2026-02-26 — Referred to the House Committee on Education and Workforce.
+- 2026-03-05 — Committee Consideration and Mark-up Session Held
+- 2026-03-05 — Ordered to be Reported (Amended) by the Yeas and Nays: 19 - 15.
+- 2026-04-06 — Placed on the Union Calendar, Calendar No. 506.
+- 2026-04-06 — Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-586.
+- 2026-04-06 — Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-586.

@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Child Care Payment Integrity and Fraud Accountability Act”.
+This Act may be cited as the “Child Care Payment Integrity and Fraud Accountability Act of 2026”.
 
 ## § 2. Fraudulent payments
 
