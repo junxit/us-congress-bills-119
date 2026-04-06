@@ -7,11 +7,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 7726
 
-> To amend the Child Care and Development Block Grant Act of 1990 to withhold funds from noncompliant States under suchAct.
+> To amend the Child Care and Development Block Grant Act of 1990 to withhold funds from noncompliant States under such Act.
 
 ## § 1. Short title
 
-This Act may be cited as the “No Funds for Repeat Child Care Violations Act”.
+This Act may be cited as the “No Funds for Repeat Child Care Violations Act of 2026”.
 
 ## § 2. Strengthening the authority to withhold funds for fraud
 

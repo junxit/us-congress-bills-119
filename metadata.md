@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7726
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7726
@@ -25,3 +25,8 @@ Stop Child Care Scams Act of 2026
 - 2026-02-26 — Introduced in House
 - 2026-02-26 — Introduced in House
 - 2026-02-26 — Referred to the House Committee on Education and Workforce.
+- 2026-03-05 — Committee Consideration and Mark-up Session Held
+- 2026-03-05 — Ordered to be Reported (Amended) by the Yeas and Nays: 20 - 15.
+- 2026-04-06 — Placed on the Union Calendar, Calendar No. 512.
+- 2026-04-06 — Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-592.
+- 2026-04-06 — Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-592.
