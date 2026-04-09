@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5334
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,12 +11,18 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Supporting Early-childhood Educators’ Deductions Act of 2025” or the “SEED Act of 2025”.
+This Act may be cited as the “Supporting Early-childhood Educators’ Deductions Act” or the “SEED Act”.
 
 ## § 2. Educator expense deduction to include early childhood educators
 
-- **(a)** *In general* Section 62 of the Internal Revenue Code of 1986 is amended—
-  - **(1)** in subsection (a)(2)(D), by striking the heading and inserting “Certain expenses of early childhood, elementary, and secondary school teachers.”;
-  - **(2)** in subsection (d)(1)(A), by striking “kindergarten through grade 12 teacher” and inserting, “early childhood educator, kindergarten through grade 12 teacher”; and
-  - **(3)** in subsection (d)(1)(B), by striking “elementary education or secondary education (kindergarten through grade 12)” and inserting, “early childhood education, elementary education, or secondary education (pre-kindergarten through grade 12)”.
-- **(b)** *Effective date* The amendments made by this section shall apply to expenses incurred in taxable years beginning after December 31, 2024.
+- **(a)** *In general* Section 62(d)(1) of the Internal Revenue Code of 1986 is amended—
+  - **(1)** in subparagraph (A), by striking “a kindergarten through grade 12 teacher” and inserting “an early childhood or kindergarten through grade 12 teacher”, and
+  - **(2)** in subparagraph (B), to read as follows:
+    > - **(B)** *School* The term school means—
+    >   - **(i)** in the case of early childhood education, any school or childcare facility which—
+    >     - **(I)** provides educational or childcare services for more than 2 individuals (other than individuals who reside at the school or facility) who have not attained age 6, and
+    >     - **(II)** operates at the public expense or receives a fee, payment, or grant for providing such services for any of the individuals (regardless of whether such school or facility is operated for profit), and
+    >   - **(ii)** in the case of elementary education or secondary education (kindergarten through grade 12), any school which provides such education, as determined under State law.
+
+- **(b)** *Conforming amendment* Section 62(a)(2)(D) of such Code is amended by striking “Certain expenses of elementary and secondary school teachers” in the heading and inserting “Certain expenses of early childhood, elementary, and secondary school teachers”.
+- **(c)** *Effective date* The amendments made by this section shall apply to expenses paid or incurred in taxable years beginning after December 31, 2025.
