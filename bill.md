@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5366
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,34 +11,34 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Federal Disaster Tax Relief Act of 2025”.
+This Act may be cited as the “Doug LaMalfa Federal Disaster Tax Relief Certainty Act”.
 
 ## § 2. Codification and extension of rules for casualty losses arising from major disasters
 
-- **(a)** *Treatment of losses*
-  - **(1)** *In general* Section 165(h) of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:
-    > - **(6)** *Special rule for qualified disaster losses*
-    >   - **(A)** *In general* If an individual has a qualified net disaster loss for any taxable year, the amount determined under paragraph (2)(A)(ii) shall be the sum of—
-    >     - **(i)** such net disaster loss, and
-    >     - **(ii)** so much of the excess referred to in the matter preceding clause (i) of paragraph (2)(A) (reduced by the amount in clause (i) of this subparagraph) as exceeds 10 percent of the adjusted gross income of the individual.
-    >   - **(B)** *Qualified net disaster loss* For purposes of subparagraph (A), the term qualified net disaster loss means the excess of qualified disaster-related personal casualty losses over personal casualty gains.
-    >   - **(C)** *Qualified disaster-related personal casualty losses*
-    >     - **(i)** *In general* For purposes of this subsection, the term qualified disaster-related personal casualty losses means losses described in subsection (c)(3) (determined after application of paragraph (1)) which arise in a qualified disaster area on or after the first day of the incident period of the qualified disaster to which such area relates, and which are attributable to such disaster.
-    >     - **(ii)** *Qualified disaster area* The term qualified disaster area means any area with respect to which a major disaster has been declared by the President under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act if the incident period of the disaster with respect to which such declaration is made begins after July 4, 2025, and before January 1, 2027.
-    >     - **(iii)** *Qualified disaster* The term qualified disaster means, with respect to any qualified disaster area, the disaster by reason of which a major disaster was declared with respect to such area.
-    >     - **(iv)** *Incident period* For purposes of this paragraph, the term incident period means, with respect to any qualified disaster, the period specified by the Federal Emergency Management Agency as the period during which such disaster occurred.
+- **(a)** *In general* Section 165(h) of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:
+  > - **(6)** *Special rule for qualified net disaster losses*
+  >   - **(A)** *In general* If an individual has a qualified net disaster loss for any taxable year, the amount determined under paragraph (2)(A)(ii) shall be the sum of—
+  >     - **(i)** such qualified net disaster loss, and
+  >     - **(ii)** so much of the excess referred to in the matter preceding clause (i) of paragraph (2)(A) (reduced by the amount in clause (i) of this subparagraph) as exceeds 10 percent of the adjusted gross income of the individual.
+  >   - **(B)** *Qualified net disaster loss* For purposes of subparagraph (A), the term qualified net disaster loss means the excess (if any) of—
+  >     - **(i)** qualified disaster-related personal casualty losses, over
+  >     - **(ii)** personal casualty gains reduced by the portion of such gains taken into account under paragraph (5)(B)(i).
+  >   - **(C)** *Qualified disaster-related personal casualty losses* For purposes of this paragraph—
+  >     - **(i)** *In general* The term qualified disaster-related personal casualty losses means losses described in subsection (c)(3) (determined after application of paragraph (1)) which arise in a qualified disaster area on or after the first day of the incident period of the qualified disaster to which such area relates, and which are attributable to such disaster.
+  >     - **(ii)** *Qualified disaster area* The term qualified disaster area means any area with respect to which a major disaster has been declared by the President under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act if the incident period of the disaster with respect to which such declaration is made begins on or after December 28, 2019, and before January 1, 2027.
+  >     - **(iii)** *Qualified disaster* The term qualified disaster means, with respect to any qualified disaster area, the disaster by reason of which a major disaster was declared with respect to such area.
+  >     - **(iv)** *Incident period* The term incident period means, with respect to any qualified disaster, the period specified by the Federal Emergency Management Agency as the period during which such disaster occurred.
 
-  - **(2)** *Conforming amendment* Section 165(h)(5)(B)(ii) of such Code is amended by inserting “or (6)” after “paragraph (2)(A)”.
-- **(b)** *Dollar limitation* Section 165(h)(1) of the Internal Revenue Code of 1986 is amended by striking “$500 ($100 for taxable years beginning after December 31, 2009)” and inserting “$100 ($500 in the case of any net disaster loss to which paragraph (3) applies)”.
-- **(c)** *Standard deduction*
-  - **(1)** *In general* Section 63(c)(1) of the Internal Revenue Code of 1986 is amended by striking “and” at the end of subparagraph (A), by striking the period at the end of subparagraph (B) and inserting “and”, and by adding at the end the following new subparagraph:
-    > - **(C)** the disaster loss deduction.
+- **(b)** *Dollar limitation* Section 165(h)(1) of such Code is amended by striking “$500 ($100 for taxable years beginning after December 31, 2009)” and inserting “$100 ($500 in the case of any qualified disaster-related personal casualty losses (as defined in paragraph (6)(C))”.
+- **(c)** *Deduction allowed to individuals who do not elect to itemize deductions* Section 63(b) of such Code is amended—
+  - **(1)** by striking “and” at the end of paragraph (6) and inserting a comma,
+  - **(2)** by striking the period at the end of paragraph (7) and inserting “, and”, and
+  - **(3)** by adding at the end the following new paragraph:
+    > - **(8)** so much of the deduction allowed by section 165(a) as is attributable to the qualified net disaster loss (as defined in section 165(h)(6)(B)).
 
-  - **(2)** *Disaster loss deduction* Section 63(c) of such Code is amended by adding at the end the following new paragraph:
-    > - **(8)** *Disaster loss deduction* For the purposes of paragraph (1), the term disaster loss deduction means the excess of qualified net disaster losses (as defined in section 165(h)(6)(B)) over the amount of personal casualty gains (as defined in section 165(h)(3)(A)) reduced by any portion of such gains taken into account under section 165(h)(5)(B)(i).
-
-- **(d)** *Treatment under alternative minimum tax* Section 56(b)(1)(D) of the Internal Revenue Code of 1986 is amended by inserting “(other than the disaster loss deduction)” after “section 63(c)”.
-- **(e)** *Effective date* The amendments made by this section shall apply to losses incurred in taxable years beginning after December 31, 2024.
+- **(d)** *Effective date*
+  - **(1)** *In general* The amendments made by this section shall apply to taxable years beginning after December 31, 2024.
+  - **(2)** *Coordination with superceded provisions* Section 304(b) of the Taxpayer Certainty and Disaster Tax Relief Act of 2020 (division EE of Public Law 116–260) and section 70438 of Public Law 119–21 shall not apply to any taxable year beginning after December 31, 2024.
 
 ## § 3. Codification and extension of exclusion from gross income of compensation for losses or damages resulting from certain wildfires
 
@@ -46,13 +46,12 @@ This Act may be cited as the “Federal Disaster Tax Relief Act of 2025”.
   > ## § 139M. Compensation for losses or damages resulting from certain wildfires
   >
   > - **(a)** *In general* Gross income shall not include any amount received by an individual as a qualified wildfire relief payment.
-  > - **(b)** *Definitions; qualified wildfire relief payment* For purposes of this section—
+  > - **(b)** *Qualified wildfire relief payment* For purposes of this section—
   >   - **(1)** *In general* The term qualified wildfire relief payment means any amount received by or on behalf of an individual as compensation for losses, expenses, or damages (including compensation for additional living expenses, lost wages (other than compensation for lost wages paid by the employer which would have otherwise paid such wages), personal injury, death, or emotional distress) incurred as a result of a qualified wildfire disaster, but only to the extent the losses, expenses, or damages compensated by such payment are not compensated for by insurance or otherwise.
-  >   - **(2)** *Qualified wildfire disaster* The term qualified wildfire disaster means any Federally declared disaster (as defined in section 165(i)(5)(A)) after December 31, 2014, as a result of any forest or range fire.
+  >   - **(2)** *Qualified wildfire disaster* The term qualified wildfire disaster means any Federally declared disaster (as defined in section 165(i)(5)(A)) declared after December 31, 2014, and before January 1, 2027, as a result of any forest or range fire.
   > - **(c)** *Denial of double benefit* Notwithstanding any other provision of this title—
-  >   - **(1)** no deduction or credit shall be allowed (to the person for whose benefit a qualified wildfire relief payment is made) for, or by reason of, any expenditure to the extent of the amount excluded under this section with respect to such expenditure, and
+  >   - **(1)** no deduction or credit shall be allowed (to the individual for whose benefit a qualified wildfire relief payment is made) for, or by reason of, any expenditure to the extent of the amount excluded under this section with respect to such expenditure, and
   >   - **(2)** no increase in the basis or adjusted basis of any property shall result from any amount excluded under this section with respect to such property.
-  > - **(d)** *Limitation on application* This section shall only apply to qualified wildfire relief payments received by the individual during taxable years beginning after December 31, 2025, and before January 1, 2031.
 
 - **(b)** *Clerical amendment* The table of sections for part III of subchapter B of chapter 1 of such Code is amended by inserting before the item related to section 140 the following new item:
 - **(c)** *Effective date* The amendments made by this section shall apply to payments received in taxable years beginning after December 31, 2025.
