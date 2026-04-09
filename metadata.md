@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5200
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5200
@@ -16,9 +16,10 @@ Emergency Reporting Act
 
 - Rep. Matsui, Doris O. [D-CA-7] (M001163)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
+- Rep. Barragán, Nanette Diaz [D-CA-44] (B001300)
 
 ## Committees (1)
 
@@ -30,3 +31,8 @@ Emergency Reporting Act
 - 2025-09-08 — Introduced in House
 - 2025-09-08 — Referred to the House Committee on Energy and Commerce.
 - 2025-09-08 — Referred to the Subcommittee on Communications and Technology.
+- 2026-01-15 — Forwarded by Subcommittee to Full Committee by Voice Vote.
+- 2026-01-15 — Subcommittee Consideration and Mark-up Session Held
+- 2026-04-09 — Placed on the Union Calendar, Calendar No. 517.
+- 2026-04-09 — Reported by the Committee on Energy and Commerce. H. Rept. 119-597.
+- 2026-04-09 — Reported by the Committee on Energy and Commerce. H. Rept. 119-597.
