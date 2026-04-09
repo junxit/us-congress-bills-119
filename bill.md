@@ -27,9 +27,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## § 3. Whistleblower privacy protections
 
 - **(a)** *In general* Paragraph (6) of section 7623(b) is amended by adding at the end the following new subparagraph:
-  > - **(D)** *Whistleblower anonymity before the Tax Court* Notwithstanding sections 7458 and 7461, a whistleblower shall proceed anonymously before the Tax Court for all proceedings under this section absent a finding by the Tax Court that a societal interest exists for disclosing the whistleblower’s identity which exceeds the potential harm disclosure could cause to the whistleblower.
+  > - **(D)** *Whistleblower anonymity before the Tax Court* Notwithstanding sections 7458 and 7461, a whistleblower may elect to proceed anonymously before the Tax Court for all proceedings under this section absent a finding by the Tax Court that a societal interest exists for disclosing the whistleblower’s identity which exceeds the potential harm disclosure could cause to the whistleblower.
 
-- **(b)** *Effective date* The amendment made by this section shall apply to petitions filed with the Tax Court which are pending on, or filed on or after, the date of the enactment of this Act.
+- **(b)** *Effective date* The amendments made by this section shall apply to petitions under section 7623(b)(4) of the Internal Revenue Code of 1986 which are pending on, or filed on or after, the date of the enactment of this Act.
 
 ## § 4. Modification of IRS whistleblower report
 
@@ -57,4 +57,4 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 ## § 6. Correction regarding deductions for attorney's fees
 
 - **(a)** *In general* Section 62(a)(21)(A)(i) is amended by striking “7623(b)” and inserting “7623”.
-- **(b)** *Effective date* The amendment made by this subsection shall apply to taxable years ending after the date of the enactment of this Act.
+- **(b)** *Effective date* The amendment made by this section shall apply to taxable years ending after the date of the enactment of this Act.
