@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2347
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `26 U.S.C. § 104` | replace | Section 104(a)(2) of the Internal Revenue Code of 1986 is amended by striking “on account of personal physical injuries or physical sickness” and inserting | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 104` | replace | Section 104(a)(2) of the Internal Revenue Code of 1986 is amended by striking “on account of personal physical injuries or physical sickness;” and inserting | the bill quotes the text struck but describes what replaces it |
 | `26 U.S.C. § 104` | redesignate | Section 104 of such Code is amended by redesignating subsection (d) as subsection (e) and by inserting after subsection (c) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
