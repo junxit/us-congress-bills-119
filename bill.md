@@ -27,7 +27,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
   - **(2)** An application or tool embedded on the website which—
     - **(A)** displays all of the information described in paragraph (1), and
     - **(B)** estimates the approximate wait time to speak directly with a representative of the Internal Revenue Service.
-  - **(3)** An application programming interface which allows any person to access the information described in subsection (a)(1) using automation and to create an application or tool embedded on a website to display such information.
+  - **(3)** An application programming interface which allows any person to access the information described in paragraph (1) using automation and to create an application or tool embedded on a website to display such information.
   - **(4)** For each applicable phone number extension, a summary of the information described in paragraph (1) with respect to the prior month, including—
     - **(A)** the average and median length of calls,
     - **(B)** the average and median amount of time that callers were speaking directly with a representative of the Internal Revenue Service,

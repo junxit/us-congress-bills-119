@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7971
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7971
@@ -29,3 +29,8 @@ Taxpayer Experience Improvement Act
 - 2026-03-18 — Introduced in House
 - 2026-03-18 — Introduced in House
 - 2026-03-18 — Referred to the House Committee on Ways and Means.
+- 2026-03-25 — Committee Consideration and Mark-up Session Held
+- 2026-03-25 — Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 43 - 0.
+- 2026-04-09 — Placed on the Union Calendar, Calendar No. 527.
+- 2026-04-09 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-607.
+- 2026-04-09 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-607.
