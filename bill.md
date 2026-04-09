@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5750
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -63,7 +63,7 @@ This Act may be cited as the “Ensuring a Qualified Civil Service Act of 2025�
   > ## § 3321a. Excepted service; trial period
   >
   > - **(a)**
-  >   - **(1)** Except as provided in paragraph (2), an employee appointed to a position in the excepted service shall serve a 2-year trial period.
+  >   - **(1)** Except as otherwise specified in law or provided in paragraph (2), an employee appointed to a position in the excepted service shall serve a 2-year trial period.
   >   - **(2)** A preference eligible appointed to a position in the excepted service shall serve a 1-year trial period.
   > - **(b)** An employee serving under a trial period pursuant to subsection (a) and who is transferred, promoted, demoted, or reassigned to any other excepted service position before the end of such trial period shall complete the remainder of such trial period in the new position.
   > - **(c)** An individual who separates from the civil service for a period of more than 30 days after completing a trial period under this section and who is reappointed to an excepted service position shall complete a new trial period unless such individual is appointed to the same or a substantially similar position in the same agency the employee held immediately before separation.
@@ -73,7 +73,7 @@ This Act may be cited as the “Ensuring a Qualified Civil Service Act of 2025�
   - **(1)** shall take effect 1 year after the date of the enactment of this Act; and
   - **(2)** shall apply to any individual appointed to a position in the excepted service on or after the effective date in paragraph (1) of this subsection.
 
-## § 4. FAA and TSA
+## § 4. Faa and tsa
 
 Section 40122(g)(2) of title 49, United States Code, is amended—
 
