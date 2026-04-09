@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6260
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Keeping Violent Offenders Off Our Streets Act”.
+This Act may be cited as the “Keeping Violent Offenders Off Our Streets Act of 2025”.
 
 ## § 2. Fraud in connection with posting bail
 
