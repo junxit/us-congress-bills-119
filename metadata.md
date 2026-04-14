@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5058
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5058
@@ -16,7 +16,7 @@ To designate the facility of the United States Postal Service located at 46164 W
 
 - Rep. Subramanyam, Suhas [D-VA-10] (S001230)
 
-## Cosponsors (8)
+## Cosponsors (10)
 
 - Rep. Wittman, Robert J. [R-VA-1] (W000804)
 - Rep. Kiggans, Jennifer A. [R-VA-2] (K000399)
@@ -26,6 +26,8 @@ To designate the facility of the United States Postal Service located at 46164 W
 - Rep. Cline, Ben [R-VA-6] (C001118)
 - Rep. Vindman, Eugene Simon [D-VA-7] (V000138)
 - Rep. Beyer, Donald S. [D-VA-8] (B001292)
+- Rep. Walkinshaw, James R. [D-VA-11] (W000831)
+- Rep. Griffith, H. Morgan [R-VA-9] (G000568)
 
 ## Committees (1)
 
@@ -36,3 +38,11 @@ To designate the facility of the United States Postal Service located at 46164 W
 - 2025-08-26 — Introduced in House
 - 2025-08-26 — Introduced in House
 - 2025-08-26 — Referred to the House Committee on Oversight and Government Reform.
+- 2025-12-02 — Committee Consideration and Mark-up Session Held
+- 2025-12-02 — Ordered to be Reported by the Yeas and Nays: 38 - 2.
+- 2026-04-14 — Considered under suspension of the rules. (consideration: CR H2851)
+- 2026-04-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5058.
+- 2026-04-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-04-14 — Mr. Gill (TX) moved to suspend the rules and pass the bill.
+- 2026-04-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2851)
+- 2026-04-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2851)
