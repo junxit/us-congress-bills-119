@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5773
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5773
@@ -44,3 +44,11 @@ To designate the facility of the United States Postal Service at 1300 East North
 - 2025-10-17 — Introduced in House
 - 2025-10-17 — Introduced in House
 - 2025-10-17 — Referred to the House Committee on Oversight and Government Reform.
+- 2025-12-02 — Committee Consideration and Mark-up Session Held
+- 2025-12-02 — Ordered to be Reported by the Yeas and Nays: 38 - 2.
+- 2026-04-14 — Considered under suspension of the rules. (consideration: CR H2851-2852)
+- 2026-04-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5773.
+- 2026-04-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-04-14 — Mr. Gill (TX) moved to suspend the rules and pass the bill.
+- 2026-04-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2851)
+- 2026-04-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2851)
