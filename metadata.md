@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2159
 congress: 119
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2159
@@ -45,3 +45,7 @@ Count the Crimes to Cut Act
 - 2025-12-01 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4923)
 - 2025-12-01 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4923)
 - 2025-12-02 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2026-03-26 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2026-04-14 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
+- 2026-04-14 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
+- 2026-04-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 370.
