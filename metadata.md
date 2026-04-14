@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6247
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 6247
@@ -36,3 +36,11 @@ To designate the facility of the United States Postal Service located at 13355 N
 - 2025-11-21 — Introduced in House
 - 2025-11-21 — Introduced in House
 - 2025-11-21 — Referred to the House Committee on Oversight and Government Reform.
+- 2026-03-18 — Committee Consideration and Mark-up Session Held
+- 2026-03-18 — Ordered to be Reported by Voice Vote.
+- 2026-04-14 — Considered under suspension of the rules. (consideration: CR H2855)
+- 2026-04-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6247.
+- 2026-04-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-04-14 — Mr. Gill (TX) moved to suspend the rules and pass the bill.
+- 2026-04-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2855)
+- 2026-04-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2855)
