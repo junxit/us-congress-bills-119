@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7613
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7613
@@ -111,6 +111,10 @@ ALERT Act
 - House — Transportation and Infrastructure Committee
 - House — Armed Services Committee
 
+## Recorded votes (1)
+
+- 2026-04-14 — [House 119-2-110](votes/house-119-2-0110.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (396–10)
+
 ## Actions
 
 - 2026-02-20 — Introduced in House
@@ -128,3 +132,12 @@ ALERT Act
 - 2026-04-09 — Reported (Amended) by the Committee on Armed Services. H. Rept. 119-608, Part I.
 - 2026-04-09 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 119-608, Part II.
 - 2026-04-09 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 119-608, Part II.
+- 2026-04-14 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2026-04-14 — Considered as unfinished business. (consideration: CR H2875-2876)
+- 2026-04-14 — Considered under suspension of the rules. (consideration: CR H2856-2874)
+- 2026-04-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7613.
+- 2026-04-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-04-14 — Mr. Graves moved to suspend the rules and pass the bill, as amended.
+- 2026-04-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 396 - 10 (Roll no. 110). (text: CR H2856-2870)
+- 2026-04-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 396 - 10 (Roll no. 110). (text: CR H2856-2870)
+- 2026-04-14 — The title of the measure was amended. Agreed to without objection.

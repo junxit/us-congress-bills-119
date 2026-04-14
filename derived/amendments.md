@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7613
 congress: 119
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,6 +31,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| — | replace | Section 46101(c)(1) of title 49, United States Code, is amended by striking “the Administrator of the Federal Aviation Administration may not” and inserting “neither the Administrator of the Federal Aviation Administration nor any other … | the bill names no machine-readable US Code section |
 | — | insert | Title 10, United States Code, is amended by inserting after chapter 157 the following new chapter: | the bill names no machine-readable US Code section |
 | — | repeal | Section 2654 of title 10, United States Code, is repealed. | the bill names no machine-readable US Code section |
-| — | replace | Section 46101(c)(1) of title 49, United States Code, is amended by striking “the Administrator of the Federal Aviation Administration may not” and inserting “neither the Administrator of the Federal Aviation Administration nor any other … | the bill names no machine-readable US Code section |
