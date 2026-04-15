@@ -1,0 +1,76 @@
+---
+legis-num: H.R. 8300
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8300
+
+> To prohibit the use of taxpayer funds for settlements of workplace misconduct claims involving Members of Congress or senior staff of the House of Representatives or the Senate, require personal financial accountability, ensure transparency of past settlements while protecting victims, and mandate referral of criminal allegations to the Department of Justice, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Stopping Wasteful Allowances for Lawmaker Wrongdoing and Ensuring Legal Liability Act” or the “Swalwell Act”.
+
+## § 2. Prohibition on use of Federal funds in connection with workplace misconduct
+
+- **(a)** *In general* No funds appropriated or otherwise made available from the U.S. Treasury may be used to pay any settlement, award, or judgment arising from a claim of workplace misconduct by a Member of Congress or a senior staff of the House of Representatives or Senate.
+- **(b)** *Workplace misconduct defined* For purposes of this section, the term workplace misconduct includes claims of discrimination, harassment, retaliation, or other violations of employment or civil rights laws.
+
+## § 3. Personal liability of Members of Congress or a senior staff of the House of Representatives or Senate
+
+- **(a)** *In general* Any Member of Congress or a senior staff of the House of Representatives or Senate found liable for, or entering into a settlement resolving, a workplace misconduct claim shall be personally responsible for the full amount of such settlement or award.
+- **(b)** *Prohibitions with respect to reimbursement* No Member of Congress or a senior staff of the House of Representatives or Senate may be reimbursed, directly or indirectly—
+  - **(1)** with Federal funds for any payment made under subsection (a); or
+  - **(2)** with campaign funds for any payment made under subsection (a).
+- **(c)** *Certification requirement* Members of Congress or a senior staff of the House of Representatives or Senate shall certify, under penalty of perjury, that no public funds were used in connection with such payments under subsection (a).
+
+## § 4. Mandatory disclosure of settlements
+
+- **(a)** *In general* The Clerk of the House of Representatives and the Secretary of the Senate shall maintain and publish a publicly accessible, searchable database containing the following:
+  - **(1)** The name of any Member of Congress or a senior staff of the House of Representatives or Senate who has settled or been found liable for a workplace misconduct claim.
+  - **(2)** The total amount of any settlement or award.
+  - **(3)** The date of resolution.
+  - **(4)** The nature of the claim, described in general terms.
+- **(b)** *Prohibition* The database under subsection (a) shall not include any personally identifiable information of victims or complainants.
+- **(c)** *Disclosure deadline* Disclosures shall be made not later than 30 days after the date of the resolution of a claim.
+
+## § 5. Retroactive disclosure of past settlements
+
+- **(a)** *In general* Not later than 180 days after the date of the enactment of this Act, the Clerk of the House and Secretary of the Senate shall publish all settlements and awards paid using public funds since January 1, 1995, relating to workplace misconduct claims involving Members of Congress or a senior staff of the House of Representatives or Senate.
+- **(b)** *Privacy protection requirement* Disclosures under subsection (a) shall comply with the privacy protections set forth in section 4(b).
+
+## § 6. Referral of criminal allegations
+
+- **(a)** *In general* Any allegation of conduct by a Member of Congress or a senior staff of the House of Representatives or Senate that may constitute a violation of Federal criminal law shall be promptly referred to the Department of Justice for review.
+- **(b)** *Source of referral* A referral under subsection (a) shall be made by the Office of Congressional Workplace Rights, the Committee on Ethics of the House of Representatives, or the Select Committee on Ethics of the Senate, as applicable.
+- **(c)** *Restrictions on preventing or delaying referral*
+  - **(1)** *In general* No settlement agreement, nondisclosure agreement, or internal congressional process may prevent or delay a referral under subsection (a).
+  - **(2)** *Other requirements* The existence of a referral under this section shall not be contingent upon the consent of the complainant.
+
+## § 7. Enforcement and penalties
+
+- **(a)** *In general* Any Member of Congress or a senior staff of the House of Representatives or Senate who violates this Act shall be subject to—
+  - **(1)** a civil penalty that equals not less than 200 percent of the amount improperly paid; and
+  - **(2)** referral to the appropriate Ethics Committee for further disciplinary action.
+- **(b)** *Civil action* The Attorney General is authorized to bring a civil action to enforce compliance with this Act.
+
+## § 8. Definitions
+
+In this Act—
+
+- **(1)** the term Member of Congress includes a Delegate or Resident Commissioner to the Congress; and
+- **(2)** the term senior staff of the House of Representatives or Senate means any individual who, at the time a violation occurred, was required to file a report under subchapter I of chapter 131 of title 5, United States Code.
+
+## § 9. Rule of construction
+
+Nothing in this Act may be construed to—
+
+- **(1)** limit the rights of victims to pursue claims or receive compensation;
+- **(2)** require the disclosure of a victim’s identity, including sex and personally identifiable information, without their express written consent; or
+- **(3)** prevent the House of Representatives or the Senate from taking such actions as may be necessary to protect the identities of victims.
+
+## § 10. Effective date
+
+This Act shall take effect on the date of the enactment of this Act and shall apply to any claim pending on or after such date.
