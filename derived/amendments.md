@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7688
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-190 amendatory instructions. 105 executed, 85 stated and not applied.
+210 amendatory instructions. 113 executed, 97 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,7 +35,7 @@ to guess them.
 
 ### 50 U.S.C. § 4511
 
-> by striking “The powers” and inserting “(1) The powers”;
+> by striking “The powers” and inserting “(1) The powers”
 
 | | |
 |---|---|
@@ -125,11 +125,11 @@ to guess them.
 
 ### 50 U.S.C. § 4501
 
-> in subparagraph (G)(i), by striking “the President” and inserting “Fund manager of the Defense Production Act Fund”;
+> in subparagraph (G)(i), by striking “President” and inserting “Fund manager of the Defense Production Act Fund”;
 
 | | |
 |---|---|
-| Removed | `the President` |
+| Removed | `President` |
 | Inserted | `Fund manager of the Defense Production Act Fund` |
 
 ### 50 U.S.C. § 4501
@@ -224,7 +224,7 @@ to guess them.
 
 ### 50 U.S.C. § 4501
 
-> in paragraph (1) by striking “the President” and inserting “a member of the Defense Production Act Committee described under section 317(b)(1)(A), in consultation with the Executive Director of the Defense Production Act Committee,”;
+> in paragraph (1), by striking “the President” and inserting “a member of the Defense Production Act Committee described under section 317(b)(1)(A), in consultation with the Executive Director of the Defense Production Act Committee,”;
 
 | | |
 |---|---|
@@ -251,12 +251,12 @@ to guess them.
 
 ### 50 U.S.C. § 4501
 
-> by striking “the President, on a non-delegable basis,” and inserting “member, on a non-delegable basis, and in consultation with the Executive Director of the Defense Production Act Committee,”; and
+> by striking “the President, on a non-delegable basis,” and inserting “the member, on a non-delegable basis, and in consultation with the Executive Director of the Defense Production Act Committee,”; and
 
 | | |
 |---|---|
 | Removed | `the President, on a non-delegable basis,` |
-| Inserted | `member, on a non-delegable basis, and in consultation with the Executive Director of the Defense Production Act Committee,` |
+| Inserted | `the member, on a non-delegable basis, and in consultation with the Executive Director of the Defense Production Act Committee,` |
 
 ### 50 U.S.C. § 4501
 
@@ -413,7 +413,7 @@ to guess them.
 
 ### 42 U.S.C. § 262
 
-> in subsection (c)(2), by striking “section 702(7)(B)(ii)(II)(bb)” and inserting “section 302(7)(B)(ii)(II)(bb)”; and
+> in paragraph (2) of subsection (e), as so redesignated, by striking “section 702(7)(B)(ii)(II)(bb)” and inserting “section 302(7)(B)(ii)(II)(bb)”; and
 
 | | |
 |---|---|
@@ -620,7 +620,7 @@ to guess them.
 
 ### 50 U.S.C. § 4501
 
-> in subsection (e), as so redesignated, by striking “$10,000” and inserting “$100,000”; and
+> in subsection (d), as so redesignated, by striking “$10,000” and inserting “$100,000”; and
 
 | | |
 |---|---|
@@ -629,7 +629,7 @@ to guess them.
 
 ### 50 U.S.C. § 4501
 
-> in subsection (f), as so redesignated, by striking “he” and inserting “the President”;
+> in subsection (e), as so redesignated, by striking “he” each place such term appears and inserting “the President”;
 
 | | |
 |---|---|
@@ -647,12 +647,12 @@ to guess them.
 
 ### 50 U.S.C. § 4501
 
-> by striking “$133,000,000 for fiscal year 2015” and inserting “$250,000,000 for fiscal year 2025”; and
+> by striking “$133,000,000 for fiscal year 2015” and inserting “$250,000,000 for fiscal year 2026”; and
 
 | | |
 |---|---|
 | Removed | `$133,000,000 for fiscal year 2015` |
-| Inserted | `$250,000,000 for fiscal year 2025` |
+| Inserted | `$250,000,000 for fiscal year 2026` |
 
 ### 50 U.S.C. § 4501
 
@@ -665,7 +665,7 @@ to guess them.
 
 ### 50 U.S.C. § 4501
 
-> by striking “title III, and title VII (except sections 707, 708, and 721)” and inserting “title II, and title III (except sections 307, 308, and 316)”;
+> by striking “title III, and title VII (except sections 707, 708, and 721)” and inserting “title II, and title III (except sections 307, 308, and 316)” ;
 
 | | |
 |---|---|
@@ -701,12 +701,75 @@ to guess them.
 
 ### 50 U.S.C. § 4501
 
-> in section 316, as so redesignated, in subsection (l)(3)(D), by striking “section 706(b)” and inserting “section 306(b)”; and
+> in subsection (a)(4)(C)(i)(II), by striking “in urbanized areas, as” and inserting “in an urbanized area, or equivalent term, as”;
+
+| | |
+|---|---|
+| Removed | `in urbanized areas, as` |
+| Inserted | `in an urbanized area, or equivalent term, as` |
+
+### 50 U.S.C. § 4501
+
+> in subparagraph (A), by striking “Upon completion of” and inserting “Not later than the seventh day of the month following the month in which the Committee completed”; and
+
+| | |
+|---|---|
+| Removed | `Upon completion of` |
+| Inserted | `Not later than the seventh day of the month following the month in which the Committee completed` |
+
+### 50 U.S.C. § 4501
+
+> by striking “shall be submitted to the members” and inserting “shall be submitted in a searchable, machine-readable format to the members”;
+
+| | |
+|---|---|
+| Removed | `shall be submitted to the members` |
+| Inserted | `shall be submitted in a searchable, machine-readable format to the members` |
+
+### 50 U.S.C. § 4501
+
+> in subsection (d)(4)(A), by striking “assets as a result” and inserting “assets or in real estate in the United States as a result”;
+
+| | |
+|---|---|
+| Removed | `assets as a result` |
+| Inserted | `assets or in real estate in the United States as a result` |
+
+### 50 U.S.C. § 4501
+
+> in subsection (l)(3)(D), by striking “section 706(b)” and inserting “section 306(b)”;
 
 | | |
 |---|---|
 | Removed | `section 706(b)` |
 | Inserted | `section 306(b)` |
+
+### 50 U.S.C. § 4501
+
+> in paragraph (1), by striking “March 31” and inserting “September 30”; and
+
+| | |
+|---|---|
+| Removed | `March 31` |
+| Inserted | `September 30` |
+
+### 50 U.S.C. § 4501
+
+> in paragraph (2), by striking “the date that is 7 years after the date of the enactment of the Foreign Investment Risk Review Modernization Act of 2018” and inserting “November 30, 2030”; and
+
+| | |
+|---|---|
+| Removed | `the date that is 7 years after the date of the enactment of the Foreign Investment Risk Review Modernization Act of 2018` |
+| Inserted | `November 30, 2030` |
+
+### 50 U.S.C. § 4501
+
+> in subsection (p)(2), by striking “through 2023 $20,000,000” and inserting “through 2030 $21,000,000”; and
+
+| | |
+|---|---|
+| Removed | `through 2023 $20,000,000` |
+| Inserted | `through 2030 $21,000,000` |
 
 ### 15 U.S.C. § 632
 
@@ -755,7 +818,7 @@ to guess them.
 
 ### 15 U.S.C. § 632
 
-> in paragraph (4), as so redesignated, by striking “each” and inserting “any”;
+> in paragraph (7), as so redesignated, by striking “each” and inserting “any”;
 
 | | |
 |---|---|
@@ -809,11 +872,11 @@ to guess them.
 
 ### 50 U.S.C. § 4501
 
-> by striking “section 801(e) and 802(b)” and inserting “section 401(e) or 402(b)”; and
+> by striking “section 801(e) or 802(b)” and inserting “section 401(e) or 402(b)”; and
 
 | | |
 |---|---|
-| Removed | `section 801(e) and 802(b)` |
+| Removed | `section 801(e) or 802(b)` |
 | Inserted | `section 401(e) or 402(b)` |
 
 ### 50 U.S.C. § 4501
@@ -845,7 +908,16 @@ to guess them.
 
 ### 50 U.S.C. § 4501
 
-> in subsection (b), by striking “subsection 801(a)” each place such term appears and inserting “section 401(a)”;
+> in paragraph (3), by striking “section 801(a)” and inserting “section 401(a)”; and
+
+| | |
+|---|---|
+| Removed | `section 801(a)` |
+| Inserted | `section 401(a)` |
+
+### 50 U.S.C. § 4501
+
+> in paragraph (4), by striking “subsection 801(a)” and inserting “section 401(a)”;
 
 | | |
 |---|---|
@@ -951,14 +1023,14 @@ to guess them.
 | Removed | `Defense Production Act` |
 | Inserted | `Defense Production Act of 1950` |
 
-### 42 U.S.C. § 2133
+### 50 U.S.C. § 4565
 
-> Section 4891(a) of title 10, United States Code, is amended by striking “section 721(a)” and inserting “section 316(a)”.
+> Section 4891(b)(1) of title 10, United States Code, is amended by striking “If the Secretary of Defense is acting as a designee of the President under section 721(a) of the Defense Production Act of 1950 (50 U.S.C. 4565(a)) and if the Secretary determines” and inserting “If the Committee on Foreign Investment in the United States determines, under section 316 of the Defense Production Act of 1950 (50 U.S.C. 4565),”.
 
 | | |
 |---|---|
-| Removed | `section 721(a)` |
-| Inserted | `section 316(a)` |
+| Removed | `If the Secretary of Defense is acting as a designee of the President under section 721(a) of the Defense Production Act of 1950 (50 U.S.C. 4565(a)) and if the Secretary determines` |
+| Inserted | `If the Committee on Foreign Investment in the United States determines, under section 316 of the Defense Production Act of 1950 (50 U.S.C. 4565),` |
 
 ### 10 U.S.C. § 4811
 
@@ -978,6 +1050,8 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| — | replace | The first undesignated section of the the Defense Production Act of 1950 is amended, effective on the date of enactment of such Act, by striking “cited as ‘the Defense” and inserting “cited as the ‘Defense”. | the bill names no machine-readable US Code section |
+| — | amend | The table of contents for the Defense Production Act of 1950 is amended to read as follows: | the bill names no machine-readable US Code section |
 | `50 U.S.C. § 4511` | strike | in subsection (a), by striking “or appropriate” each place such term appears; | the bill quotes the text struck but describes what replaces it |
 | `50 U.S.C. § 4511` | replace | by striking “unless the President finds (1) that such” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `50 U.S.C. § 4511` | replace | by striking “defense, and (2) that” and inserting the following: | the bill quotes the text struck but describes what replaces it |
@@ -993,13 +1067,13 @@ complete account of the bill's effect, which it is not.
 | `50 U.S.C. § 4501` | insert | in paragraph (1), by inserting “, with the concurrence of the Fund manager of the Defense Production Act Fund,” before “to provide”; and | the bill quotes the text inserted but describes where it goes |
 | `50 U.S.C. § 4501` | strike | in subparagraph (A), by striking clause (ii); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 4501` | strike | by striking subparagraph (B); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 4501` | strike | in paragraph (2)(B), by striking “not later than 10 days”; and | the bill quotes the text struck but describes what replaces it |
+| `50 U.S.C. § 4501` | strike | in paragraph (2)(B), by striking “not later than 10 days”; | the bill quotes the text struck but describes what replaces it |
 | `50 U.S.C. § 4501` | insert | in subsection (a), by inserting “authorize a lending agency, with the concurrence of the Fund manager of the Defense Production Act Fund and relevant members of the Defense Production Act Committee, to” after “President may”; | the bill quotes the text inserted but describes where it goes |
 | `50 U.S.C. § 4501` | strike | in paragraph (1), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `50 U.S.C. § 4501` | insert | by inserting “except” before “during”; | the bill quotes the text inserted but describes where it goes |
 | `50 U.S.C. § 4501` | replace | by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 4501` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 4501` | replace | in subparagraph (A), by striking “; and” at the end and inserting a period; and | the bill quotes the text struck but describes what replaces it |
+| `50 U.S.C. § 4501` | strike | by striking “(1) In general.—”; | the bill quotes the text struck but describes what replaces it |
+| `50 U.S.C. § 4501` | replace | in subparagraph (A), by striking “; and” at the end and inserting a period; | the bill quotes the text struck but describes what replaces it |
 | `50 U.S.C. § 4501` | strike | by striking subparagraph (B); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 4501` | strike | by striking paragraph (2); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 4501` | strike | in subparagraph (B), by striking “Presidential”; | the bill quotes the text struck but describes what replaces it |
@@ -1013,9 +1087,11 @@ complete account of the bill's effect, which it is not.
 | `50 U.S.C. § 4501` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 4501` | insert | by inserting “essential” before “materials”; | the bill quotes the text inserted but describes where it goes |
 | `50 U.S.C. § 4501` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 4501` | insert | in subsection (a), by inserting before the period at the end the following: “, to be administered by the Secretary of the Treasury”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 4501` | strike | by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `50 U.S.C. § 4501` | redesignate | by redesignating paragraph (2) as paragraph (3); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 4501` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 4501` | insert | in subsection (c), by inserting “and section 318” after “this title”; | the bill quotes the text inserted but describes where it goes |
 | `50 U.S.C. § 4501` | redesignate | by redesignating subsections (f) and (g) as subsections (g) and (h), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 4501` | insert | by inserting after subsection (e) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 4501` | strike | in paragraph (2), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
@@ -1023,13 +1099,17 @@ complete account of the bill's effect, which it is not.
 | `50 U.S.C. § 4501` | replace | by striking the period at the end and inserting “, including an analysis of the effectiveness of investments made during the previous fiscal year;”; and | the bill quotes the text inserted but describes where it goes |
 | `50 U.S.C. § 4501` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 4501` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 262` | redesignate | by redesignating subsection (c) as subsection (e); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 262` | replace | by striking subsections (a) and (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 262` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 4501` | insert | in subsection (a), by inserting “, to the extent required for national defense purposes,” after “President shall”; and | the bill quotes the text inserted but describes where it goes |
 | `50 U.S.C. § 4501` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 4501` | redesignate | by redesignating title VII as title III; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 4501` | strike | by striking section 714 and 723; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 4501` | redesignate | by redesignating sections 701 through 711, section 713, sections 715 through 717, and sections 721 and 722 as sections 301 through 317, respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 4501` | redesignate | by redesignating sections 701 through 711 as sections 301 through 311, respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 4501` | redesignate | by redesignating section 713 as section 312; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 4501` | redesignate | by redesignating section 715 as section 313; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 4501` | redesignate | by redesignating section 717 as section 315; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 4501` | redesignate | by redesignating sections 721 and 722 as sections 316 and 317, respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 4501` | redesignate | in section 301, as so redesignated, in subsection (e), by inserting “and consistent with national defense requirements” after “practicable”; | the bill quotes the text inserted but describes where it goes |
 | `50 U.S.C. § 4501` | insert | by inserting “or section 319 of the Public Health Service Act,” after “Assistance Act”; and | the bill quotes the text inserted but describes where it goes |
 | `50 U.S.C. § 4501` | replace | by striking “Any officer” and inserting the following: | the bill quotes the text struck but describes what replaces it |
@@ -1042,8 +1122,15 @@ complete account of the bill's effect, which it is not.
 | `50 U.S.C. § 4501` | strike | in subsection (c)(2), by striking “not less than ten days”; and | the bill quotes the text struck but describes what replaces it |
 | `50 U.S.C. § 4501` | strike | by striking paragraphs (2) and (3); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 4501` | strike | by striking subsection (c); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 4501` | redesignate | by redesignating subsections (b) through (g) as subsections (a) through (f), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 4501` | strike | by striking subsection (e); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 4501` | redesignate | by redesignating subsections (b), (c), (d), (f), and (g) as subsections (a) through (e), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 4501` | redesignate | by inserting after section 313, as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 4501` | strike | by striking subsection (d); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 4501` | add-at-end | in paragraph (1), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 4501` | strike | in subclause (II), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `50 U.S.C. § 4501` | redesignate | by redesignating subclause (III) as subclause (IV); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 4501` | insert | by inserting after subclause (II) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 4501` | add-at-end | in subsection (k), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 632` | strike | in subparagraph (A), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 632` | replace | in subparagraph (B), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 632` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1052,14 +1139,11 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 632` | strike | by striking “signed by the Chairperson”; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 632` | replace | by striking paragraphs (1) and (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 632` | strike | by striking paragraph (5); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 632` | redesignate | by redesignating paragraphs (3) and (4) as paragraphs (2) and (3), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 632` | redesignate | by redesignating paragraphs (3), (4), and (6) as paragraphs (2), (3), and (7), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 632` | redesignate | by inserting after paragraph (3), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 632` | redesignate | by redesignating subsection (e) as subsection (f); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 632` | redesignate | by redesignating subsection (e) as subsection (k); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 632` | insert | by inserting after subsection (d) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 632` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 4501` | redesignate | by redesignating title VIII as title IV; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 4501` | redesignate | by redesignating sections 801 through 809 as sections 401 through 409, respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 2133` | strike | Section 1102 of the American Homeownership and Economic Opportunity Act of 2000 (Public Law 106–569) is amended by striking paragraph (2). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 4602` | strike | Section 272 of the National Defense Authorization Act for Fiscal Years 1988 and 1989 (15 U.S.C. 4602(c)) is amended by striking “section 719 of the Defense Production Act of 1950 (50 U.S.C. App. 2168),”. | the bill quotes the text struck but describes what replaces it |
-| `50 U.S.C. § 4531` | strike | by striking subsection (e); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 4531` | redesignate | by redesignating subsection (f) as subsection (e). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

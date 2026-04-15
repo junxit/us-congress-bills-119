@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7688
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7688
@@ -32,3 +32,8 @@ DPA Modernization Act of 2026
 - 2026-02-25 — Introduced in House
 - 2026-02-25 — Introduced in House
 - 2026-02-25 — Referred to the House Committee on Financial Services.
+- 2026-03-04 — Committee Consideration and Mark-up Session Held
+- 2026-03-04 — Ordered to be Reported by the Yeas and Nays: 41 - 0.
+- 2026-04-15 — Placed on the Union Calendar, Calendar No. 529.
+- 2026-04-15 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-611.
+- 2026-04-15 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-611.

@@ -13,7 +13,12 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “DPA Modernization Act of 2026”.
 
-## § 2. Priorities and allocations
+## § 2. Front matter
+
+- **(a)** *Short title correction* The first undesignated section of the the Defense Production Act of 1950 is amended, effective on the date of enactment of such Act, by striking “cited as ‘the Defense” and inserting “cited as the ‘Defense”.
+- **(b)** *Table of contents* The table of contents for the Defense Production Act of 1950 is amended to read as follows:
+
+## § 3. Priorities and allocations
 
 Title I of the Defense Production Act of 1950 (50 U.S.C. 4511 et seq.) is amended—
 
@@ -21,7 +26,7 @@ Title I of the Defense Production Act of 1950 (50 U.S.C. 4511 et seq.) is amende
   - **(A)** by striking “he” each place such term appears and inserting “the President”;
   - **(B)** in subsection (a), by striking “or appropriate” each place such term appears;
   - **(C)** in subsection (b)—
-    - **(i)** by striking “The powers” and inserting “(1) The powers”;
+    - **(i)** by striking “The powers” and inserting “(1) The powers”
     - **(ii)** by striking “unless the President finds (1) that such” and inserting the following:
       > unless—
       > - **(A)** the President finds that—
@@ -29,7 +34,7 @@ Title I of the Defense Production Act of 1950 (50 U.S.C. 4511 et seq.) is amende
 
     - **(iii)** by striking “defense, and (2) that” and inserting the following:
       > defense; and
-      > - **(I)** that
+      > - **(ii)** that
 
     - **(iv)** by striking the period at the end and inserting “; and”; and
     - **(v)** by adding at the end the following:
@@ -43,10 +48,10 @@ Title I of the Defense Production Act of 1950 (50 U.S.C. 4511 et seq.) is amende
     - **(i)** in paragraph (1), by striking “Notwithstanding any other provision of this Act, the” and inserting “The”; and
     - **(ii)** in paragraph (3), by striking “President” and inserting “Executive Director of the Defense Production Act Committee”; and
   - **(E)** in subsection (d)—
-    - **(i)** strike “section shall” and all that follows through “issue, and annually review and update” and insert the following:
+    - **(i)** strike “section shall” and all that follows through “issue, and annually review and update whenever appropriate,” and insert the following:
       > section, in consultation with the Defense Production Act Committee—
       > - **(1)** shall—
-      >   - **(A)** issue and
+      >   - **(A)** issue and, whenever appropriate, revise
 
     - **(ii)** by redesignating paragraph (2) as subparagraph (B), and adjusting the margin of such subparagraph accordingly;
     - **(iii)** in subparagraph (B), as so redesignated, by striking the period at the end and inserting “; and”; and
@@ -60,7 +65,7 @@ Title I of the Defense Production Act of 1950 (50 U.S.C. 4511 et seq.) is amende
 - **(4)** by redesignating section 107 as section 204 and transferring such section so as to appear after section 303; and
 - **(5)** by redesignating section 108 as section 207 and transferring such section so as to appear after section 305.
 
-## § 3. Expansion of productive capacity and supply
+## § 4. Expansion of productive capacity and supply
 
 The Defense Production Act of 1950 (50 U.S.C. 4501 et seq.) is amended—
 
@@ -74,7 +79,7 @@ The Defense Production Act of 1950 (50 U.S.C. 4501 et seq.) is amended—
       - **(I)** in the heading, by striking “Presidential determinations” and inserting “Determinations”;
       - **(II)** by striking “during a period of” and inserting “with respect to a”;
       - **(III)** by striking “if the President” and inserting “if the guaranteeing agency, in coordination with the Fund manager of the Defense Production Act Fund and relevant members of the Defense Production Act Committee,”; and
-      - **(IV)** in subparagraph (G)(i), by striking “the President” and inserting “Fund manager of the Defense Production Act Fund”;
+      - **(IV)** in subparagraph (G)(i), by striking “President” and inserting “Fund manager of the Defense Production Act Fund”;
   - **(C)** in subsection (b)(1), by striking “President” and inserting “Fund manager of the Defense Production Act Fund”;
   - **(D)** in subsection (c), by striking “President” each place such term appears and inserting “Fund manager of the Defense Production Act Fund”; and
   - **(E)** in subsection (d)—
@@ -85,15 +90,14 @@ The Defense Production Act of 1950 (50 U.S.C. 4501 et seq.) is amended—
       - **(IV)** by striking “guarantee; and” and inserting “guarantee.”;
       - **(V)** in subparagraph (A), by striking clause (ii); and
       - **(VI)** by striking subparagraph (B); and
-    - **(ii)** in paragraph (2)(B), by striking “not later than 10 days”; and
+    - **(ii)** in paragraph (2)(B), by striking “not later than 10 days”;
 - **(4)** in section 202, as so redesignated—
   - **(A)** in subsection (a), by inserting “authorize a lending agency, with the concurrence of the Fund manager of the Defense Production Act Fund and relevant members of the Defense Production Act Committee, to” after “President may”;
   - **(B)** in subsection (b)—
     - **(i)** in paragraph (1), by striking “and” at the end;
     - **(ii)** in paragraph (2)—
-      - **(I)** by inserting “except” before “during”;
-      - **(II)** by striking “no such loan may be made unless the President” and inserting “no such loan may be made with respect to the national emergency unless the lending agency, in consultation with the Fund manager of the Defense Production Act Fund and relevant members of the Defense Production Act Committee,”; and
-      - **(III)** by striking the period at the end and inserting a semicolon; and
+      - **(I)** by striking “no such loan may be made unless the President” and inserting “no such loan may be made with respect to the national emergency unless the lending agency, in consultation with the Fund manager of the Defense Production Act Fund and relevant members of the Defense Production Act Committee,”; and
+      - **(II)** by striking the period at the end and inserting a semicolon; and
     - **(iii)** by adding at the end the following:
       > - **(3)** any such loan shall be secured by a first-priority lien on such collateral as the Fund manager of the Defense Production Act Fund may require, and such lien shall—
       >   - **(A)** attach upon disbursement of funds;
@@ -102,20 +106,20 @@ The Defense Production Act of 1950 (50 U.S.C. 4501 et seq.) is amended—
       > - **(4)** in the event that the loan recipient defaults on the repayment of the loan, any portion of such repayment that is not satisfied from the collateral described in paragraph (3) shall have priority in payment over all other unsecured claims.
 
   - **(C)** in subsection (d)—
-    - **(i)** in paragraph (1)—
-      - **(I)** by striking “$50,000,000” and inserting “$100,000,000”;
-      - **(II)** by striking “only—” and all that follows through “if the President” and inserting “only if the Fund manager of the Defense Production Act Fund”;
-      - **(III)** in subparagraph (A), by striking “; and” at the end and inserting a period; and
-      - **(IV)** by striking subparagraph (B); and
-    - **(ii)** by striking paragraph (2);
+    - **(i)** by striking “(1) In general.—”;
+    - **(ii)** by striking “$50,000,000” and inserting “$100,000,000”;
+    - **(iii)** by striking “only—” and all that follows through “if the President” and inserting “only if the Fund manager of the Defense Production Act Fund”;
+    - **(iv)** in subparagraph (A), by striking “; and” at the end and inserting a period;
+    - **(v)** by striking subparagraph (B); and
+    - **(vi)** by striking paragraph (2);
 - **(5)** in section 203, as so redesignated—
   - **(A)** in the heading, by striking “OTHER PRESIDENTIAL ACTION AUTHORIZED” and inserting “Purchases, commitments to purchase, and subsidy payments”;
   - **(B)** in subsection (a)—
-    - **(i)** in paragraph (1) by striking “the President” and inserting “a member of the Defense Production Act Committee described under section 317(b)(1)(A), in consultation with the Executive Director of the Defense Production Act Committee,”;
+    - **(i)** in paragraph (1), by striking “the President” and inserting “a member of the Defense Production Act Committee described under section 317(b)(1)(A), in consultation with the Executive Director of the Defense Production Act Committee,”;
     - **(ii)** in paragraph (5)—
       - **(I)** in the heading, by striking “Presidential” and inserting “Federal agency”;
       - **(II)** by striking “Except as provided in paragraph (7), the President” and inserting “The member described under paragraph (1)”;
-      - **(III)** by striking “the President, on a non-delegable basis,” and inserting “member, on a non-delegable basis, and in consultation with the Executive Director of the Defense Production Act Committee,”; and
+      - **(III)** by striking “the President, on a non-delegable basis,” and inserting “the member, on a non-delegable basis, and in consultation with the Executive Director of the Defense Production Act Committee,”; and
       - **(IV)** in subparagraph (B), by striking “Presidential”;
     - **(iii)** in paragraph (6)—
       - **(I)** in subparagraph (A)—
@@ -128,14 +132,22 @@ The Defense Production Act of 1950 (50 U.S.C. 4501 et seq.) is amended—
       - **(III)** by striking subparagraph (C); and
     - **(iv)** by striking paragraph (7) and inserting the following:
       > - **(7)** *Limitations on equity investments* The equity shares of an entity may not be acquired under this section if such acquisition would result in the Government holding, in the aggregate, 15 percent or more of the equity shares of the entity.
-      > - **(8)** *Acquisition and liquidation* A member of the Defense Production Act Committee described under section 317(b)(1)(A)—
-      >   - **(A)** may make an equity investment in an entity under this section only after the Fund manager of the Defense Production Act Fund finds that the entity is unable to obtain additional equity investment from private sources on commercially reasonable terms; and
-      >   - **(B)** shall seek to sell and liquidate any equity support for an entity provided under this section as soon as commercially feasible, commensurate with other similar investors in the entity, taking into consideration the national security interests of the United States.
+      > - **(8)** *Report on equity investments* The Defense Production Act Committee shall include, in each annual report of the Committee required under section 317(d)—
+      >   - **(A)** a description of any equity held by the Government pursuant to the authorities of this Act;
+      >   - **(B)** the rationale for, and valuation of, any such holding, including—
+      >     - **(i)** the expected contribution of the holding to the objectives of this Act; and
+      >     - **(ii)** the estimated gain or loss in value of the holding since the preceding report.
+      > - **(9)** *Acquisition and liquidation* A member of the Defense Production Act Committee described under section 317(b)(1)(A)—
+      >   - **(A)** may make an equity investment in an entity under this section only after the Fund manager of the Defense Production Act Fund reports to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives that the entity is unable to obtain additional equity investment from private sources on commercially reasonable terms;
+      >   - **(B)** shall, with respect to each equity investment made in an entity by the member under this section, transmit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives—
+      >     - **(i)** not later than 10 days after making the equity investment, copies of all relevant documents concerning the terms of the investment, including any governance rights or contractual obligations; and
+      >     - **(ii)** a certification that the equity investment advances the objectives of this Act, with a detailed explanation of the reasons therefor; and
+      >   - **(C)** shall seek to sell and liquidate any equity support for an entity provided under this section as soon as commercially feasible, commensurate with other similar investors in the entity, taking into consideration the national security interests of the United States.
 
   - **(C)** by redesignating subsections (b) through (g) as subsections (c) through (h), respectively;
   - **(D)** by inserting after subsection (a) the following:
     > - **(b)** *Critical minerals resilience*
-    >   - **(1)** *Critical Minerals Resilience Initiative* There is established the Critical Minerals Resilience Initiative, under which a member of the Defense Production Act Committee described under section 317(b)(1)(A), in consultation with the Executive Director of the Defense Production Act Committee and the Fund manager of the Defense Production Act Fund, may make grants, purchases, and commitments to purchase involving an entity in the United States, a member country of the North Atlantic Treasury Organization, or a major non-NATO ally, to—
+    >   - **(1)** *Critical Minerals Resilience Initiative* There is established the Critical Minerals Resilience Initiative, under which a member of the Defense Production Act Committee described under section 317(b)(1)(A), in consultation with the Executive Director of the Defense Production Act Committee and the Fund manager of the Defense Production Act Fund, may make grants, purchases, and commitments to purchase involving an entity in the United States, a member country of the North Atlantic Treaty Organization, or a major non-NATO ally, to—
     >     - **(A)** ensure that the mining or processing of critical and strategic materials is not dominated by a foreign adversary; and
     >     - **(B)** provide for offtake agreements, price floors, or incentives in order to ensure the viability of mines or processing facilities for critical and strategic materials outside the control of a foreign adversary.
     >   - **(2)** *Cooperation among entities* To the extent practicable, the Defense Production Act Committee shall develop a process to encourage cooperation among, and manage potential conflicts between—
@@ -156,7 +168,7 @@ The Defense Production Act of 1950 (50 U.S.C. 4501 et seq.) is amended—
   - **(G)** in paragraph (1)(C) of subsection (f), as so redesignated, by striking “section 301, 302” and inserting “section 201, 202”;
   - **(H)** in subsection (h), as so redesignated, by striking “make provision” and inserting “exercise the authorities under title I and this title”; and
   - **(I)** by adding at the end the following:
-    > - **(i)** *Waiver To expedite procurement* In exercising the authorities under section 201, section 202, or this section, the President may waive or revise relevant regulations for the purpose of expediting—
+    > - **(i)** *Waiver to expedite procurement* In exercising the authorities under section 201, section 202, or this section, the President may waive or revise relevant regulations for the purpose of expediting—
     >   - **(1)** the procurement of critical technologies (as defined under section 316(a)) or critical minerals; or
     >   - **(2)** the permitting of critical infrastructure required to produce or refine the critical technologies or critical minerals described in paragraph (1).
     > - **(j)** *Additional requirements*
@@ -165,9 +177,8 @@ The Defense Production Act of 1950 (50 U.S.C. 4501 et seq.) is amended—
     >     - **(A)** *Identification of workforce and skills gaps* Each Federal agency to which the President has delegated authority under this Act shall identify any workforce gaps or skills gaps that affect the ability of the domestic industrial base to supply the materials and services necessary to satisfy the objectives set forth in section 2(b).
     >     - **(B)** *Use of funds* With respect to an entity receiving financial assistance under title I or this title, the agency making such financial assistance may direct that a portion of the financial assistance be used to recruit, train, place, or retain workers in defense-critical occupations directly related to the activities funded by the assistance, if such entity keeps records of performance standards for workers recruited, trained, placed, or retained using such assistance.
     >     - **(C)** *Information included in annual report* Each Federal agency to which the President has delegated authority under this Act shall include in the annual report of the Defense Production Act Committee—
-    >       - **(i)** a discussion of the identification required under subparagraph (A) and the authority provided under subparagraph (B);
+    >       - **(i)** a discussion of the identification required under subparagraph (A) and the authority provided under subparagraph (B); and
     >       - **(ii)** short-term and long-term recommendations for administrative or legislative action to reduce any workforce gaps or skills gaps identified by the agency, especially through the simulation required under section 206(c), including recommendations on workforce training programs to recruit, train, place, and retain workers in occupations critical to the national defense, including any apprenticeships.
-    > - **(k)** *Special hiring authority for subject matter experts* Each agency represented on the Defense Production Act Committee may appoint, without regard to the provisions of sections 3309 through 3318 of title 5, subject matter experts directly to positions in the competitive service (as defined in section 2102 of that title) in the agency for the sole purpose of identifying, soliciting, evaluating, or approving activities that may receive financial assistance under this title.
 
 - **(6)** in section 204, as redesignated and moved by section 3(4)—
   - **(A)** in subsection (a)—
@@ -175,12 +186,12 @@ The Defense Production Act of 1950 (50 U.S.C. 4501 et seq.) is amended—
     - **(ii)** by inserting “essential” before “materials”;
   - **(B)** in subsection (b)(1), by striking “assure” and inserting “ensure”; and
   - **(C)** by adding at the end the following:
-    > - **(c)** *Waiver To expedite procurement* The President may waive or revise relevant regulations for the purpose of expediting—
+    > - **(c)** *Waiver to expedite procurement* The President may waive or revise relevant regulations for the purpose of expediting—
     >   - **(1)** the procurement of critical technologies (as defined under section 316(a)) or critical minerals subject to the incentives described in subsection (a); or
     >   - **(2)** the permitting of critical infrastructure required to produce or refine the critical technologies or critical minerals described in paragraph (1).
 
 - **(7)** in section 205, as so redesignated—
-  - **(A)** in subsection (a), insert before the period at the end the following: “, to be administered by the Secretary of the Treasury”;
+  - **(A)** in subsection (a), by inserting before the period at the end the following: “, to be administered by the Secretary of the Treasury”;
   - **(B)** in subsection (b)—
     - **(i)** in paragraph (1)—
       - **(I)** by striking “section 711” and inserting “section 311”; and
@@ -190,12 +201,13 @@ The Defense Production Act of 1950 (50 U.S.C. 4501 et seq.) is amended—
       > - **(2)** all moneys appropriated for activities pursuant to this title; and
 
     - **(iv)** in paragraph (3), as so redesignated, by striking “section 303” and inserting “this title”;
-  - **(C)** in subsection (e), by striking “$750,000,000” each place such term appears and inserting “$2,000,000,000”;
-  - **(D)** by redesignating subsections (f) and (g) as subsections (g) and (h), respectively;
-  - **(E)** by inserting after subsection (e) the following:
+  - **(C)** in subsection (c), by inserting “and section 318” after “this title”;
+  - **(D)** in subsection (e), by striking “$750,000,000” each place such term appears and inserting “$2,000,000,000”;
+  - **(E)** by redesignating subsections (f) and (g) as subsections (g) and (h), respectively;
+  - **(F)** by inserting after subsection (e) the following:
     > - **(f)** *Waiver* The Executive Director of the Defense Production Act Committee may waive the requirement described under subsection (e) for up to 1 year at a time upon notifying the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate in writing that the waiver is in the national security interests of the United States.
 
-  - **(F)** in subsection (g), as so redesignated—
+  - **(G)** in subsection (g), as so redesignated—
     - **(i)** by striking “President shall designate a” and inserting “Secretary of the Treasury shall serve as”;
     - **(ii)** in paragraph (1), by striking “subsection (g)” and inserting “subsection (h)”;
     - **(iii)** in paragraph (2), by striking “and” at the end;
@@ -207,12 +219,13 @@ The Defense Production Act of 1950 (50 U.S.C. 4501 et seq.) is amended—
       > - **(5)** delegating authorities, as the Fund manager finds appropriate, to members of the Defense Production Act Committee; and
       > - **(6)** issuing rules and guidance regarding financing activities authorized by this title.
 
-  - **(G)** by adding at the end the following:
-    > - **(i)** *Deferral* The Executive Director of the Defense Production Act Committee shall defer budget authority involving the Fund for an agency that has repeatedly failed to submit complete reports described under section 101(e) and 206(a).
+  - **(H)** by adding at the end the following:
+    > - **(i)** *Deferral* The Executive Director of the Defense Production Act Committee shall defer budget authority involving the Fund for an agency that has repeatedly failed to submit complete reports described under section 206(a).
 
 - **(8)** section 206, as so redesignated—
   - **(A)** in the heading, by striking “REPORTS ON EXERCISE OF AUTHORITIES” and inserting “DPA strategy”;
-  - **(B)** by striking subsections (a) and (b) and inserting the following:
+  - **(B)** by redesignating subsection (c) as subsection (e);
+  - **(C)** by striking subsections (a) and (b) and inserting the following:
     > - **(a)** *In general* Not later than 180 days after the effective date of this subsection, and annually thereafter, the head of each agency to which the President has delegated authorities under title I or this title shall submit the report described under subsection (b) to the Executive Director of the Defense Production Act Committee and the Fund manager of the Defense Production Act Fund.
     > - **(b)** *DPA strategy* A report described under this subsection is a report that includes—
     >   - **(1)** an assessment, in consultation with the Defense Production Act Committee and the private sector, of industrial base needs required by the head of the agency to meet the highest priorities arising from national defense requirements, as determined by the President;
@@ -223,9 +236,6 @@ The Defense Production Act of 1950 (50 U.S.C. 4501 et seq.) is amended—
     >   - **(6)** a description of any waivers exercised pursuant to section 101(d)(2), section 107(c), or section 203(h); and
     >   - **(7)** in the case of an action taken pursuant to title I or this title involving a business concern in Canada, the United Kingdom, or Australia, a justification of the necessity of the use of authorities under the applicable title.
     > - **(c)** *Strategy simulation* At least once every 5 years, the Defense Production Act Committee shall conduct a discussion-based simulation (commonly known as a “table-top exercise”) to determine the resources needed and the best use of the authorities under title I and this title to implement the strategy described in subsection (b)(2) contained in the most recent report required under subsection (a).
-
-  - **(C)** in subsection (c)(2), by striking “section 702(7)(B)(ii)(II)(bb)” and inserting “section 302(7)(B)(ii)(II)(bb)”; and
-  - **(D)** by adding at the end the following:
     > - **(d)** *Strategy on securing supply chains essential to national defense* The head of any relevant agency, as determined by the President, shall, in the first report submitted under subsection (a) after the date of enactment of this subsection, include in such report the following:
     >   - **(1)** A detailed plan to ensure the supply of the following, to the extent necessary for national defense:
     >     - **(A)** Medical materials (including drugs, devices, and biological products (as that term is defined in section 351 of the Public Health Service Act (42 U.S.C. 262)) to diagnose, cure, mitigate, treat, or prevent disease).
@@ -234,6 +244,7 @@ The Defense Production Act of 1950 (50 U.S.C. 4501 et seq.) is amended—
     >   - **(2)** An analysis of vulnerabilities to existing supply chains for the materials, minerals, and capacity described in paragraph (1).
     >   - **(3)** Any authorities provided by this Act to be used by the agency to ensure that essential components of such supply chains are not under the control of a foreign adversary.
 
+  - **(D)** in paragraph (2) of subsection (e), as so redesignated, by striking “section 702(7)(B)(ii)(II)(bb)” and inserting “section 302(7)(B)(ii)(II)(bb)”; and
 - **(9)** in section 207, as redesignated and moved by section 3(5)—
   - **(A)** in subsection (a), by inserting “, to the extent required for national defense purposes,” after “President shall”; and
   - **(B)** in subsection (b)—
@@ -250,7 +261,7 @@ The Defense Production Act of 1950 (50 U.S.C. 4501 et seq.) is amended—
   >
   > ## § 209. Limitation on eligibility for assistance
   >
-  > - **(a)** *In general* A covered entity is not eligible for assistance authorized under this title.
+  > - **(a)** *In general* Notwithstanding any other provision of this Act or any other Act, a covered entity is not eligible for assistance authorized under this title.
   > - **(b)** *Definitions* In this section:
   >   - **(1)** *Covered entity* The term “covered entity” means an entity in which a covered individual directly or indirectly holds a significant interest. For the purpose of determining whether an entity is a covered entity, if securities of the entity are owned, controlled, or held by 2 or more individuals who are related as described in paragraph (2), such securities shall be aggregated.
   >   - **(2)** *Covered individual* The term “covered individual” means—
@@ -264,20 +275,24 @@ The Defense Production Act of 1950 (50 U.S.C. 4501 et seq.) is amended—
   >     - **(C)** a warrant or right (other than a right to convert) to purchase, sell, or subscribe to a share or interest described in subparagraph (A) or (B), respectively.
   >   - **(4)** *Significant interest* The term “significant interest” means owning, controlling, or holding not less than 20 percent, by vote or value, of the outstanding amount of any class of equity interest in an entity.
 
-## § 4. General provisions
+## § 5. General provisions
 
 The Defense Production Act of 1950 (50 U.S.C. 4501 et seq.) is amended—
 
 - **(1)** by redesignating title VII as title III;
 - **(2)** by striking section 714 and 723;
-- **(3)** by redesignating sections 701 through 711, section 713, sections 715 through 717, and sections 721 and 722 as sections 301 through 317, respectively;
-- **(4)** in section 301, as so redesignated, in subsection (e), by inserting “and consistent with national defense requirements” after “practicable”;
-- **(5)** in section 302, as so redesignated—
+- **(3)** by redesignating sections 701 through 711 as sections 301 through 311, respectively;
+- **(4)** by redesignating section 713 as section 312;
+- **(5)** by redesignating section 715 as section 313;
+- **(6)** by redesignating section 717 as section 315;
+- **(7)** by redesignating sections 721 and 722 as sections 316 and 317, respectively;
+- **(8)** in section 301, as so redesignated, in subsection (e), by inserting “and consistent with national defense requirements” after “practicable”;
+- **(9)** in section 302, as so redesignated—
   - **(A)** in paragraph (7)(B), by striking “title III” each place such term appears in a heading or text, and inserting “title II”; and
   - **(B)** in paragraph (14)—
     - **(i)** by inserting “or section 319 of the Public Health Service Act,” after “Assistance Act”; and
     - **(ii)** by striking “and critical infrastructure protection and restoration” and inserting “, critical infrastructure protection and restoration, and public health emergency preparedness and response activities”;
-- **(6)** in section 303, as so redesignated—
+- **(10)** in section 303, as so redesignated—
   - **(A)** by striking “Any officer” and inserting the following:
     > - **(a)** *In general* Any officer
 
@@ -289,11 +304,11 @@ The Defense Production Act of 1950 (50 U.S.C. 4501 et seq.) is amended—
     >     - **(B)** act as the Government-wide single point of contact during the public health emergency for outreach to manufacturing companies and their suppliers who may be interested in producing medical supplies or equipment.
     >   - **(2)** *Encouraging partnerships* During the period of a public health emergency, the Outreach Representative shall seek to develop partnerships between companies, in coordination with any overall coordinator appointed by the President to oversee the response to the public health emergency, including through the exercise of the authorities delegated by the President under section 308.
 
-- **(7)** in section 304, as so redesignated—
+- **(11)** in section 304, as so redesignated—
   - **(A)** by striking “(a) In general.—”;
   - **(B)** by striking “section 709 and subsection (b), the President may prescribe” and inserting “section 309 and subsection (b), the President, not later than 360 days after the date of enactment of the DPA Modernization Act of 2026, shall issue”; and
   - **(C)** by striking subsection (b);
-- **(8)** in section 305, as so redesignated—
+- **(12)** in section 305, as so redesignated—
   - **(A)** in subsection (a)—
     - **(i)** by striking “or appropriate, in his discretion,”; and
     - **(ii)** by striking “in order” and inserting “essential”;
@@ -302,47 +317,118 @@ The Defense Production Act of 1950 (50 U.S.C. 4501 et seq.) is amended—
   - **(D)** by adding at the end the following:
     > - **(f)** The authority of the President under this section may not be used to obtain sensitive personally identifiable information. In this subsection, the term “sensitive personally identifiable information” means personally identifiable information which, if lost, compromised, or disclosed without authorization, could result in substantial harm, embarrassment, inconvenience, or unfairness to an individual.
 
-- **(9)** in section 306, as so redesignated—
+- **(13)** in section 306, as so redesignated—
   - **(A)** in subsection (a), by striking “he” and inserting “the President”;
   - **(B)** in subsection (b), by striking “subpena” each place such term appears and inserting “subpoena”; and
   - **(C)** by adding at the end the following:
     > - **(c)** *Civil actions* A civil action challenging an action taken under this Act may be brought only in the United States Court of Appeals for the District of Columbia Circuit.
 
-- **(10)** in section 308, as so redesignated—
+- **(14)** in section 308, as so redesignated—
   - **(A)** by striking “he” each place such term appears and inserting “the President”;
   - **(B)** in subsection (c)(2), by striking “not less than ten days”; and
   - **(C)** in subsection (e)—
     - **(i)** by striking “(1) The individual” and inserting “The individual”;
     - **(ii)** by striking “section 553 of title 5, United States Code” and inserting “section 309”; and
     - **(iii)** by striking paragraphs (2) and (3);
-- **(11)** in section 309, as so redesignated—
+- **(15)** in section 309, as so redesignated—
   - **(A)** in subsection (a), by striking “sections 551 through 559” and inserting “sections 552 through 552b and sections 554 through 559”; and
   - **(B)** by striking subsection (c);
-- **(12)** in section 310, as so redesignated—
-  - **(A)** by redesignating subsections (b) through (g) as subsections (a) through (f), respectively;
-  - **(B)** in subsection (a), as so redesignated—
+- **(16)** in section 310, as so redesignated—
+  - **(A)** by striking subsection (e);
+  - **(B)** by redesignating subsections (b), (c), (d), (f), and (g) as subsections (a) through (e), respectively;
+  - **(C)** in subsection (a), as so redesignated—
     - **(i)** in paragraph (1), by striking “he” each place such term appears and inserting “the President”; and
     - **(ii)** in paragraph (6)—
       - **(I)** by striking “his or her” and inserting “the Director’s”; and
       - **(II)** by striking “he or she” and inserting “the Director”;
-  - **(C)** in subsection (b), as so redesignated—
+  - **(D)** in subsection (b), as so redesignated—
     - **(i)** by striking “he” and inserting “the President”; and
     - **(ii)** by striking “section 55a of title 5 of the United States Code. Individuals so employed may be compensated at rates not in excess of $50 per diem and while away from their homes or regular places of business they may be allowed transportation and not to exceed $15 per diem in lieu of subsistence and other expenses while so employed” and inserting “section 3109 of title 5, United States Code”;
-  - **(D)** in subsection (e), as so redesignated, by striking “$10,000” and inserting “$100,000”; and
-  - **(E)** in subsection (f), as so redesignated, by striking “he” and inserting “the President”;
-- **(13)** in section 311, as so redesignated—
+  - **(E)** in subsection (d), as so redesignated, by striking “$10,000” and inserting “$100,000”; and
+  - **(F)** in subsection (e), as so redesignated, by striking “he” each place such term appears and inserting “the President”;
+- **(17)** in section 311, as so redesignated—
   - **(A)** by striking “he” and inserting “the President”;
-  - **(B)** by striking “$133,000,000 for fiscal year 2015” and inserting “$250,000,000 for fiscal year 2025”; and
+  - **(B)** by striking “$133,000,000 for fiscal year 2015” and inserting “$250,000,000 for fiscal year 2026”; and
   - **(C)** by striking “$117,000,000 for each of fiscal years 2020 through 2024 to carry out title III” and inserting “$5,000,000 for each of fiscal years 2026 through 2031 to the Executive Director of the Defense Production Act Committee and the Fund manager of the Defense Production Act Fund to carry out this Act”;
-- **(14)** in section 315, as so redesignated—
+- **(18)** by inserting after section 313, as so redesignated, the following:
+  > ## § 314. National Defense Executive Reserve
+  >
+  > - **(a)** *Establishment* The President shall establish a National Defense Executive Reserve (in this section referred to as the “Reserve”).
+  > - **(b)** *Purpose* The purpose of the Reserve shall be to improve the preparedness of the Federal Government for national defense emergencies by allowing private persons with unique expertise to volunteer, be trained for, and be temporarily employed in Federal positions within any of the Federal agencies that has established a Reserve unit under subsection (c) that may be necessary during periods of national defense emergency, as determined by the President.
+  > - **(c)** *Reserve units*
+  >   - **(1)** *In general* The President shall require the heads of each of the following agencies to establish a unit of the Reserve within the applicable agency:
+  >     - **(A)** The Department of Commerce.
+  >     - **(B)** The Department of Defense.
+  >     - **(C)** The Department of Homeland Security.
+  >     - **(D)** Such other agencies as the President determines appropriate.
+  >   - **(2)** *Activities of Reserve units* Activities of such Reserve units within each agency shall be aligned with the contents of the reports required under—
+  >     - **(A)** section 203(j)(2)(C), related to workforce and skills gaps;
+  >     - **(B)** section 206(b), related to overall strategy;
+  >     - **(C)** section 206(d), related to the strategy on securing supply chains essential to national defense; and
+  >     - **(D)** section 317(h)(1), the report from the Subcommittee on Emerging Technology.
+  >   - **(3)** *Deadline* The units of the Reserve within the agencies described under subparagraphs (A), (B), and (C) shall be established not later than 180 days after the issuance of the final rules required under subsection (f).
+  > - **(d)** *Training* The President may, without activating the Reserve, allow for periodic training and exercises to prepare the Reserve for duty during an activation.
+  > - **(e)** *Rulemaking* Not later than 360 days after the date of enactment of this section, the Director of the Office of Personnel Management, in consultation with the Secretary of Commerce, the Secretary of Defense, and the Secretary of Homeland Security, shall issue rules, in accordance with section 553 of title 5, United States Code, to provide—
+  >   - **(1)** criteria for determining the number of positions in and organization of Reserve units;
+  >   - **(2)** criteria for determining the appropriate level of seniority and job classifications of Reserve positions;
+  >   - **(3)** the advertisement of the Reserve to the public to generate interest in volunteers;
+  >   - **(4)** the selection of individuals for the Reserve and the job assignment process;
+  >   - **(5)** the appointment authorities to be used by the head of an agency during an activation of the applicable Reserve unit;
+  >   - **(6)** the appropriate levels of compensation for private individuals for service in the Reserve, dependent on the qualifications and expected roles of the individuals;
+  >   - **(7)** the appropriate levels of compensation for private individuals for service in the Reserve for additional expenses, such as travel and accommodation, to fulfill the responsibilities in the Reserve, including during training and exercise;
+  >   - **(8)** additional incentives to be provided to private individuals to encourage participation in the Reserve;
+  >   - **(9)** whether and how to issue security clearances to individuals selected to serve in the Reserve, both prior to and during activation;
+  >   - **(10)** the frequency and content of training and exercises for the Reserve;
+  >   - **(11)** the appropriate interaction between permanent Government employees and individuals in the Reserve during training, exercises, and activations of the Reserve;
+  >   - **(12)** the appointment of permanent Government employees to manage the Reserve for each agency with a Reserve unit, both prior to and during activation;
+  >   - **(13)** practices to ensure that ethics and conflict-of-interest standards are implemented and maintained throughout the activities of the Reserve; and
+  >   - **(14)** all other matters necessary to effectively manage the Reserve, as determined by the Director of the Office of Personnel Management.
+  > - **(f)** *Additional guidance* The Director of the Office of Personnel Management may issue any additional internal guidance as the Director of the Office of Personnel determines is necessary to supplement the rules issued under subsection (e).
+  > - **(g)** *Employment protection* For purposes of chapter 43 of title 38, United States Code, an individual absent from a position of employment due to an appointment into service in the Reserve shall be subject to the same employment and reemployment protections as are provided under such chapter for an individual absent from a position of employment due to an appointment into service in the Federal Emergency Management Agency as intermittent personnel under section 306(b)(1) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act.
+
+- **(19)** in section 315, as so redesignated—
   - **(A)** in subsection (a)—
-    - **(i)** by striking “title III, and title VII (except sections 707, 708, and 721)” and inserting “title II, and title III (except sections 307, 308, and 316)”;
+    - **(i)** by striking “title III, and title VII (except sections 707, 708, and 721)” and inserting “title II, and title III (except sections 307, 308, and 316)” ;
     - **(ii)** by striking “2026” and inserting “2031”; and
     - **(iii)** by striking “under title III” and inserting “under title II”;
   - **(B)** in subsection (c), by striking “section 301 of this Act” and inserting “section 201”; and
   - **(C)** by striking subsection (d);
-- **(15)** in section 316, as so redesignated, in subsection (l)(3)(D), by striking “section 706(b)” and inserting “section 306(b)”; and
-- **(16)** in section 317, as so redesignated—
+- **(20)** in section 316, as so redesignated—
+  - **(A)** in subsection (a)(4)(C)(i)(II), by striking “in “urbanized areas”, as” and inserting “in an “urbanized area”, or equivalent term, as”;
+  - **(B)** in subsection (b)—
+    - **(i)** in paragraph (1), by adding at the end the following:
+      > - **(I)** *Consideration of certain agricultural land transactions*
+      >   - **(i)** *In general* After receiving notification from the Secretary of Agriculture of a reportable agricultural land transaction, the Committee shall determine—
+      >     - **(I)** whether the transaction is a covered transaction; and
+      >     - **(II)** if the Committee determines that the transaction is a covered transaction, whether the Committee should initiate a review pursuant to subparagraph (D), or take another action authorized under this section, with respect to the reportable agricultural land transaction.
+      >   - **(ii)** *Reportable agricultural land transaction.* In this subparagraph, the term “reportable agricultural land transaction” means a transaction—
+      >     - **(I)** that the Secretary of Agriculture has reason to believe is a covered transaction, based on information from or in cooperation with the intelligence community;
+      >     - **(II)** that involves the acquisition of an interest in agricultural land by a foreign person of the People’s Republic of China, the Democratic People’s Republic of Korea, the Russian Federation, or the Islamic Republic of Iran; and
+      >     - **(III)** with respect to which a person is required to submit a report to the Secretary of Agriculture under section 2(a) of the Agricultural Foreign Investment Disclosure Act of 1978.
+      >   - **(iii)** *Sunset* The requirements under this subparagraph shall terminate, with respect to a foreign person of the respective foreign country, on the date that the People’s Republic of China, the Democratic People’s Republic of Korea, the Russian Federation, or the Islamic Republic of Iran, as the case may be, is removed from the list of foreign adversaries in section 791.4 of title 15, Code of Federal Regulations.
+
+    - **(ii)** in paragraph (3)—
+      - **(I)** in subparagraph (A), by striking “Upon completion of” and inserting “Not later than the seventh day of the month following the month in which the Committee completed”; and
+      - **(II)** in subparagraph (C)(i)—
+        - **(aa)** by striking “shall be submitted to the members” and inserting “shall be submitted in a searchable, machine-readable format to the members”;
+        - **(bb)** in subclause (II), by striking “and” at the end;
+        - **(cc)** by redesignating subclause (III) as subclause (IV); and
+        - **(dd)** by inserting after subclause (II) the following:
+          > - **(III)** the date on which the transaction was accepted by the Committee and the date on which transaction parties were notified of the completion by the Committee of the Committee’s review of the transaction pursuant to subsection (b)(6); and
+
+  - **(C)** in subsection (d)(4)(A), by striking “assets as a result” and inserting “assets or in real estate in the United States as a result”;
+  - **(D)** in subsection (k), by adding at the end the following:
+    > - **(8)** *Inclusion of the Secretary of Agriculture* The Secretary of Agriculture shall be a member of the Committee with respect to a covered transaction that involves—
+    >   - **(A)** agricultural land;
+    >   - **(B)** agriculture biotechnology; or
+    >   - **(C)** the agriculture industry, including agricultural transportation, storage, and processing.
+
+  - **(E)** in subsection (l)(3)(D), by striking “section 706(b)” and inserting “section 306(b)”;
+  - **(F)** in subsection (o)—
+    - **(i)** in paragraph (1), by striking “March 31” and inserting “September 30”; and
+    - **(ii)** in paragraph (2), by striking “the date that is 7 years after the date of the enactment of the Foreign Investment Risk Review Modernization Act of 2018” and inserting “November 30, 2030”; and
+  - **(G)** in subsection (p)(2), by striking “through 2023 $20,000,000” and inserting “through 2030 $21,000,000”; and
+- **(21)** in section 317, as so redesignated—
   - **(A)** in subsection (a), by striking “plan for on” and inserting “plan for”;
   - **(B)** in subsection (b)—
     - **(i)** in paragraph (1)—
@@ -366,19 +452,20 @@ The Defense Production Act of 1950 (50 U.S.C. 4501 et seq.) is amended—
       > - **(1)** the most recent reports submitted pursuant to section 206;
 
     - **(iv)** by striking paragraph (5);
-    - **(v)** by redesignating paragraphs (3) and (4) as paragraphs (2) and (3), respectively;
+    - **(v)** by redesignating paragraphs (3), (4), and (6) as paragraphs (2), (3), and (7), respectively;
     - **(vi)** in paragraph (2), as so redesignated, by striking “legislation” and inserting “legislative”;
     - **(vii)** in paragraph (3), as so redesignated, by striking “recommendations for improving” and inserting “actions taken to improve”;
     - **(viii)** by inserting after paragraph (3), as so redesignated, the following:
       > - **(4)** an evaluation of the effectiveness of each relevant Federal agency in deploying the authorities under title I and title II to address the needs described under section 206(b)(2);
-      > - **(5)** a summary of any steps taken to reduce fraud in transactions under this Act and a fraud risk assessment for all activities under undertaken under this Act; and
+      > - **(5)** a summary of any steps taken to reduce fraud in transactions under this Act and a fraud risk assessment for all activities undertaken under this Act;
+      > - **(6)** a summary of activities by the National Defense Executive Reserve, along with any recommendations for regulatory and legislative improvements to support the National Defense Executive Reserve; and
 
-    - **(ix)** in paragraph (4), as so redesignated, by striking “each” and inserting “any”;
-  - **(E)** by redesignating subsection (e) as subsection (f);
+    - **(ix)** in paragraph (7), as so redesignated, by striking “each” and inserting “any”;
+  - **(E)** by redesignating subsection (e) as subsection (k); and
   - **(F)** by inserting after subsection (d) the following:
     > - **(e)** *Defense Production Act Dashboard* The Executive Director of the Committee shall maintain a database that—
-    >   - **(1)** compiles and categorizes the actions reported under section 206(b)(3);
-    >   - **(2)** is available to all members of the Committee, for the purpose of more effective coordination of actions authorized this Act;
+    >   - **(1)** compiles and categorizes the actions reported under section 206(b)(4);
+    >   - **(2)** is available to all members of the Committee, for the purpose of more effective coordination of actions authorized by this Act;
     >   - **(3)** allows for real-time updates by the members of the Committee; and
     >   - **(4)** is subject to appropriate information security, confidentiality, and classification requirements.
     > - **(f)** *Toolkit and online resources site*
@@ -395,7 +482,7 @@ The Defense Production Act of 1950 (50 U.S.C. 4501 et seq.) is amended—
     >     - **(A)** *Establishment* There is established within the Committee a Subcommittee on Emerging Technology.
     >     - **(B)** *Activities* The Subcommittee on Emerging Technology shall analyze—
     >       - **(i)** the effects or potential benefits of covered technology on activities determined essential to the national defense; and
-    >       - **(ii)** how covered technology can be used within a single industry or Federal agency, or across industries and Federal agencies, to improve efficiencies, encourage innovation, and address supply chain gaps;
+    >       - **(ii)** how covered technology can be used within a single industry or Federal agency, or across industries and Federal agencies, to improve efficiencies, encourage innovation, and address supply chain gaps
     >     - **(C)** *Report elements* The Subcommittee on Emerging Technology shall include, in the annual report of the Defense Production Act Committee, the analysis required under subparagraph (B)(ii), including a description of how covered technology can be used within a single industry or Federal agency, or across industries and Federal agencies, to improve efficiencies, conserve resources, and address supply chain gaps, in support of national defense priorities.
     >     - **(D)** *Covered technology* For purposes of this paragraph, the Subcommittee shall establish a definition for the term “covered technology” and, in establishing such definition, shall consider including technologies in the fields of—
     >       - **(i)** artificial intelligence and robotics;
@@ -405,14 +492,15 @@ The Defense Production Act of 1950 (50 U.S.C. 4501 et seq.) is amended—
     >       - **(v)** semiconductors; and
     >       - **(vi)** space.
     >   - **(2)** *General subcommittee authority* The Executive Director may establish and convene such additional subcommittees of the Committee as the Executive Director determines appropriate to improve coordination among member agencies of the Committee regarding particular activities authorized under this Act.
-
-  - **(G)** by adding at the end the following:
-    > - **(g)** *Fraud risk management in transactions under this Act* Not later than 1 year after the date of the enactment of this subsection, the Defense Production Act Committee shall—
+    > - **(i)** *Fraud risk management in transactions under this Act* Not later than 1 year after the date of the enactment of this subsection, the Defense Production Act Committee shall—
     >   - **(1)** establish and implement processes and procedures consistent with leading practices in the Fraud Risk Framework established by the Government Accountability Office to combat fraud in transactions undertaken under this Act;
     >   - **(2)** train personnel about the standards and practices established and implemented under paragraph (1); and
     >   - **(3)** designate a point of contact within the Defense Production Act Committee to be responsible for managing issues relating to fraud, including coordinating with agencies to review fraud-related issues.
+    > - **(j)** *Testimony* The following persons, or their designees, shall provide testimony to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate not later than 90 days following submission of the report described under subsection (d):
+    >   - **(1)** The Executive Director.
+    >   - **(2)** Upon request of either such committee, the head of any Federal agency to which the President has delegated authority under this Act.
 
-## § 5. Prohibition and notification on investments relating to covered national security transaction
+## § 6. Prohibition and notification on investments relating to covered national security transaction
 
 The Defense Production Act of 1950 (50 U.S.C. 4501 et seq.) is amended—
 
@@ -426,12 +514,14 @@ The Defense Production Act of 1950 (50 U.S.C. 4501 et seq.) is amended—
 - **(5)** in subsection (a) of section 403, as so redesignated—
   - **(A)** in paragraph (1), by striking “section 801(e) and 802(b)” and inserting “section 401(e) or 402(b)”;
   - **(B)** in paragraph (2)—
-    - **(i)** by striking “section 801(e) and 802(b)” and inserting “section 401(e) or 402(b)”; and
+    - **(i)** by striking “section 801(e) or 802(b)” and inserting “section 401(e) or 402(b)”; and
     - **(ii)** by striking “section 801(e)” each place such term appears and inserting “section 401(e)”; and
   - **(C)** in paragraph (3), by striking “section 802” and inserting “section 402”;
 - **(6)** in section 407, as so redesignated—
   - **(A)** in subsection (a), by striking “section 801 or 802” and inserting “section 401 or 402”; and
-  - **(B)** in subsection (b), by striking “subsection 801(a)” each place such term appears and inserting “section 401(a)”;
+  - **(B)** in subsection (b)—
+    - **(i)** in paragraph (3), by striking “section 801(a)” and inserting “section 401(a)”; and
+    - **(ii)** in paragraph (4), by striking “subsection 801(a)” and inserting “section 401(a)”;
 - **(7)** in subsection (b)(4) of section 408, as so redesignated, by striking “section 805” and inserting “section 405”; and
 - **(8)** in section 409, as so redesignated—
   - **(A)** in paragraph (1), by striking “section 804(d)” and inserting “section 404(d)”;
@@ -441,30 +531,32 @@ The Defense Production Act of 1950 (50 U.S.C. 4501 et seq.) is amended—
     - **(ii)** in subparagraph (B), by striking “section 709” and inserting “section 309”; and
   - **(D)** in paragraph (10)(B), by striking “section 709” and inserting “section 309”.
 
-## § 6. GAO study on stockpiling and long-lead items
+## § 7. Studies and reports
 
-- **(a)** *In general* The Comptroller General of the United States shall, not later than 1 year after the date of the enactment of this Act, begin a study on the efficacy of the current methods used by DPA agencies to address DPA-related long-lead items and related stockpiling challenges.
-- **(b)** *Requirements* When conducting the study required under subsection (a), the Comptroller General shall—
-  - **(1)** examine how DPA-related long-lead items are currently procured and stockpiled by DPA agencies;
-  - **(2)** identify ways in which Federal agencies can work together to better address procurement and stockpiling of DPA-related long-lead items; and
-  - **(3)** provide legislative recommendations, including amendments to the DPA, to address procurement of DPA-related long-lead items and the stockpiling of such items.
-- **(c)** *Definitions* In this section:
-  - **(1)** *DPA* The term “DPA” means the Defense Production Act of 1950.
-  - **(2)** *DPA agency* The term “DPA agency” means a Federal agency to which the President has delegated authority under the DPA.
-  - **(3)** *Long-lead item* The term “long-lead item” means components of a system or piece of equipment for which the times to design and fabricate are the longest, and therefore, to which an early commitment of funds may be desirable to complete the system by the earliest possible.
+- **(a)** *GAO study on stockpiling and long-lead items*
+  - **(1)** *In general* The Comptroller General of the United States shall, not later than 1 year after the date of the enactment of this Act, begin a study on the efficacy of the current methods used by DPA agencies to address DPA-related long-lead items and related stockpiling challenges.
+  - **(2)** *Requirements* When conducting the study required under paragraph (1), the Comptroller General shall—
+    - **(A)** examine how DPA-related long-lead items are currently procured and stockpiled by DPA agencies;
+    - **(B)** identify ways in which Federal agencies can work together to better address procurement and stockpiling of DPA-related long-lead items; and
+    - **(C)** provide legislative recommendations, including amendments to the DPA, to address procurement of DPA-related long-lead items and the stockpiling of such items.
+  - **(3)** *Definitions* In this subsection:
+    - **(A)** *DPA* The term “DPA” means the Defense Production Act of 1950.
+    - **(B)** *DPA agency* The term “DPA agency” means a Federal agency to which the President has delegated authority under the DPA.
+    - **(C)** *Long-lead item* The term “long-lead item” means components of a system or piece of equipment for which the times to design and fabricate are the longest, and therefore, to which an early commitment of funds may be desirable to complete the system by the earliest possible.
+- **(b)** *GAO report on the Defense Production Act Committee* Not later than 2 years after the date of the enactment of this Act, the Comptroller General of the United States shall issue a report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing and Urban Affairs of the Senate that includes—
+  - **(1)** an assessment of the quality of coordination and planning for the effective use of the authorities provided under section 317 of the Defense Production Act of 1950;
+  - **(2)** an identification of authorities and requirements provided for under Section 317 the Defense Production Act of 1950 that may call for greater use or compliance by the Defense Production Act Committee; and
+  - **(3)** any other recommendations relating to how the Defense Production Act Committee could improve the Committee’s coordination and planning.
+- **(c)** *Subcommittee on Emerging Technology report on potential strategic reserve of biological inputs* The Subcommittee on Emerging Technology of the Defense Production Act Committee shall, not later than 18 months after the date of the enactment of this Act, submit to Congress an evaluation of the potential benefits and drawbacks, and any resources required, in establishing a strategic reserve of critical biomanufacturing essential to national defense activities under the Defense Production Act of 1950.
 
-## § 7. Conforming amendments
+## § 8. Conforming amendments
 
 - **(a)** *ADVANCE Act of 2024* Section 301(d) of division B of the ADVANCE Act of 2024 (42 U.S.C. 2133 note) is amended by striking “section 712” and inserting “section 316”.
 - **(b)** *American Homeownership and Economic Opportunity Act of 2000* Section 1102 of the American Homeownership and Economic Opportunity Act of 2000 (Public Law 106–569) is amended by striking paragraph (2).
 - **(c)** *Energy Policy and Conservation Act* Section 252(h) of the Energy Policy and Conservation Act (42 U.S.C. 6272(h)) is amended by striking “Section 708” and inserting “Section 308”.
 - **(d)** *Further Consolidated Appropriations Act, 2020* Section 402(c) of the Further Consolidated Appropriations Act, 2020 (12 U.S.C. 635 note) is amended by striking “section 721(a)(6)(A)” and inserting “section 316(a)(6)(A)”.
-- **(e)** *John S. McCain National Defense Authorization Act for Fiscal Year 2019* Section 1792 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (50 U.S.C. 4531 note) is hereby repealed.
-- **(f)** *National Defense Authorization Act for Fiscal Years 1988 and 1989* Section 272 of the National Defense Authorization Act for Fiscal Years 1988 and 1989 (15 U.S.C. 4602(c)) is amended by striking “section 719 of the Defense Production Act of 1950 (50 U.S.C. App. 2168),”.
-- **(g)** *National Defense Authorization Act for Fiscal Year 2018* Section 226 of the National Defense Authorization Act for Fiscal Year 2018 (50 U.S.C. 4531 note) is amended—
-  - **(1)** by striking subsection (e); and
-  - **(2)** by redesignating subsection (f) as subsection (e).
-- **(h)** *National Defense Authorization Act for Fiscal Year 2020* Section 847(e) of the National Defense Authorization Act for Fiscal Year 2020 is amended by striking “section 721” and inserting “section 316”.
-- **(i)** *National Defense Authorization Act for Fiscal Year 2022* Effective on the date of enactment of the National Defense Authorization Act for Fiscal Year 2022, section 1702(k)(4) of such Act is amended by striking “Defense Production Act” and inserting “Defense Production Act of 1950”.
-- **(j)** *Title 10, United States Code* Section 4891(a) of title 10, United States Code, is amended by striking “section 721(a)” and inserting “section 316(a)”.
-- **(k)** *William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021* Section 848(b)(2)(C) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (10 U.S.C. 4811 note) is amended by striking “title III” and inserting “title II”.
+- **(e)** *National Defense Authorization Act for Fiscal Years 1988 and 1989* Section 272 of the National Defense Authorization Act for Fiscal Years 1988 and 1989 (15 U.S.C. 4602(c)) is amended by striking “section 719 of the Defense Production Act of 1950 (50 U.S.C. App. 2168),”.
+- **(f)** *National Defense Authorization Act for Fiscal Year 2020* Section 847(e) of the National Defense Authorization Act for Fiscal Year 2020 is amended by striking “section 721” and inserting “section 316”.
+- **(g)** *National Defense Authorization Act for Fiscal Year 2022* Effective on the date of enactment of the National Defense Authorization Act for Fiscal Year 2022, section 1702(k)(4) of such Act is amended by striking “Defense Production Act” and inserting “Defense Production Act of 1950”.
+- **(h)** *Title 10, United States Code* Section 4891(b)(1) of title 10, United States Code, is amended by striking “If the Secretary of Defense is acting as a designee of the President under section 721(a) of the Defense Production Act of 1950 (50 U.S.C. 4565(a)) and if the Secretary determines” and inserting “If the Committee on Foreign Investment in the United States determines, under section 316 of the Defense Production Act of 1950 (50 U.S.C. 4565),”.
+- **(i)** *William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021* Section 848(b)(2)(C) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (10 U.S.C. 4811 note) is amended by striking “title III” and inserting “title II”.
