@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2289
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -9,17 +9,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To provide that an eligible facilities request under section 6409(a) of the Middle Class Tax Relief and Job Creation Act of 2012 is not subject to requirements to prepare certain environmental or historical preservation reviews.
 
-## § 1. Short title
+## § 1. Short title; table of contents
 
-This Act may be cited as the “Proportional Reviews for Broadband Deployment Act”.
-
-## § 2. Application of NEPA and NHPA to wireless facilities deployment
-
-Section 6409(a)(3) of the Middle Class Tax Relief and Job Creation Act of 2012 (47 U.S.C. 1455(a)(3)) is amended to read as follows:
-
-> - **(3)** *Application of NEPA; NHPA*
->   - **(A)** *NEPA exemption* A Federal authorization with respect to an eligible facilities request may not be considered a major Federal action under section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C)).
->   - **(B)** *National Historic Preservation Act exemption* An eligible facilities request may not be considered an undertaking under section 300320 of title 54, United States Code.
->   - **(C)** *Federal authorization defined* In this paragraph, the term “Federal authorization”—
->     - **(i)** means any authorization required under Federal law with respect to an eligible facilities request; and
->     - **(ii)** includes any permits, special use authorizations, certifications, opinions, or other approvals as may be required under Federal law with respect to an eligible facilities request.
+- **(a)** *Short title* This Act may be cited as the “American Broadband Deployment Act of 2025”.
+- **(b)** *Table of contents* The table of contents for this Act is as follows:
