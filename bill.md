@@ -1,0 +1,27 @@
+---
+legis-num: H.R. 8296
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8296
+
+> To amend the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 to provide for the consideration of climate change, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Preparing Superfund for Climate Change Act of 2026”.
+
+## § 2. Climate change mitigation
+
+Section 121 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9621) is amended—
+
+- **(1)** in subsection (b)(1), in the fifth sentence—
+  - **(A)** in the matter preceding subparagraph (A), by striking “account:” and inserting “account—”;
+  - **(B)** in subparagraph (F), by striking “and” at the end;
+  - **(C)** in subparagraph (G), by striking the period at the end and inserting “; and”; and
+  - **(D)** by inserting after subparagraph (G) the following:
+    > - **(H)** the potential threat to human health and the environment associated with local natural disasters and extreme weather hazards, including any projected exacerbation or change in those disasters and hazards due to climate change.
+
+- **(2)** in subsection (c), by inserting after the first sentence the following: “The President shall include in the review an assessment of whether the selected remedial action remains protective after taking into account local natural disasters and extreme weather hazards, including any projected exacerbation or change in those disasters and hazards due to climate change.”.
