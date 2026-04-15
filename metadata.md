@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5058
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5058
@@ -29,9 +29,10 @@ To designate the facility of the United States Postal Service located at 46164 W
 - Rep. Walkinshaw, James R. [D-VA-11] (W000831)
 - Rep. Griffith, H. Morgan [R-VA-9] (G000568)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ To designate the facility of the United States Postal Service located at 46164 W
 - 2026-04-14 — Mr. Gill (TX) moved to suspend the rules and pass the bill.
 - 2026-04-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2851)
 - 2026-04-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2851)
+- 2026-04-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
