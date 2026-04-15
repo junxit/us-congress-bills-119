@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5587
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Harnessing Energy At Thermal Sources Act” or the “HEATS Act”.
+This Act may be cited as the “Harnessing Energy At Thermal Sources Act of 2026” or the “HEATS Act”.
 
 ## § 2. No Federal permit required for geothermal activities on certain land
 
