@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6310
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6310
@@ -26,9 +26,10 @@ To designate the facility of the United States Postal Service located at 3570 Ol
 - Rep. Elfreth, Sarah [D-MD-3] (E000301)
 - Rep. Olszewski, Johnny [D-MD-2] (O000176)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ To designate the facility of the United States Postal Service located at 3570 Ol
 - 2026-04-14 — Mr. Gill (TX) moved to suspend the rules and pass the bill.
 - 2026-04-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2846)
 - 2026-04-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2846)
+- 2026-04-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
