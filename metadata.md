@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7022
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7022
@@ -16,11 +16,12 @@ Mystic Alerts Act
 
 - Rep. Pfluger, August [R-TX-11] (P000048)
 
-## Cosponsors (3)
+## Cosponsors (4)
 
 - Rep. Fletcher, Lizzie [D-TX-7] (F000468)
 - Rep. Carter, Earl L. "Buddy" [R-GA-1] (C001103)
 - Rep. Veasey, Marc A. [D-TX-33] (V000131)
+- Rep. Hill, J. French [R-AR-2] (H001072)
 
 ## Committees (1)
 
@@ -32,3 +33,10 @@ Mystic Alerts Act
 - 2026-01-12 — Introduced in House
 - 2026-01-12 — Referred to the House Committee on Energy and Commerce.
 - 2026-01-12 — Referred to the Subcommittee on Communications and Technology.
+- 2026-01-15 — Forwarded by Subcommittee to Full Committee by Voice Vote.
+- 2026-01-15 — Subcommittee Consideration and Mark-up Session Held
+- 2026-03-25 — Committee Consideration and Mark-up Session Held
+- 2026-03-25 — Ordered to be Reported (Amended) by the Yeas and Nays: 52 - 0.
+- 2026-04-15 — Placed on the Union Calendar, Calendar No. 534.
+- 2026-04-15 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-616.
+- 2026-04-15 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-616.
