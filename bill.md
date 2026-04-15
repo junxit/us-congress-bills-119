@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5877
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -17,7 +17,7 @@ This Act may be cited as the “Combatting Money Laundering in Cyber Crime Act o
 
 Section 3056(b) of title 18, United States Code, is amended—
 
-- **(1)** in paragraph (1), by striking “or” after “871” and inserting “, or 1960” after “879”; and
+- **(1)** in paragraph (1), by striking “871, or 879” and inserting “871, 879, or 1960”; and
 - **(2)** in paragraph (3)—
   - **(A)** by inserting “money laundering, structured transactions,” after “documents or devices,”;
   - **(B)** by striking “federally insured”; and
@@ -33,5 +33,5 @@ Section 7125(b) of the Otto Warmbier North Korea Nuclear Sanctions and Enforceme
 
 ## § 5. Report
 
-- **(a)** *In general* Not later than 1 year after the date of enactment of this Act, the Government Accountability Office shall conduct a study and submit to the appropriate committees of Congress a report on the implementation of section 6102 of the Anti-Money Laundering Act of 2020 (title LXI of division F of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283; 134 Stat. 4552)).
+- **(a)** *In general* Not later than 1 year after the date of enactment of this Act, the Government Accountability Office shall conduct a study and submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report on the implementation of section 6102 of the Anti-Money Laundering Act of 2020 (title LXI of division F of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283; 134 Stat. 4552)).
 - **(b)** *Focus* In conducting the study under subsection (a), the Government Accountability Office shall focus on evaluating the ability of law enforcement to identify and deter money laundering in cyber crimes.

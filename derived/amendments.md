@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5877
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -42,7 +42,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | in paragraph (1), by striking “or” after “871” and inserting “, or 1960” after “879”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1), by striking “871, or 879” and inserting “871, 879, or 1960”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “money laundering, structured transactions,” after “documents or devices,”; | the bill names no machine-readable US Code section |
 | — | strike | by striking “federally insured”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “, as defined in section 5312 of title 31” after “institution”. | the bill names no machine-readable US Code section |
