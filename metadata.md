@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4635
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4635
@@ -36,9 +36,10 @@ To designate the facility of the United States Postal Service located at 890 Eas
 - Rep. Figures, Shomari [D-AL-2] (F000481)
 - Rep. Ross, Deborah K. [D-NC-2] (R000305)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -53,3 +54,4 @@ To designate the facility of the United States Postal Service located at 890 Eas
 - 2026-04-14 — Mr. Gill (TX) moved to suspend the rules and pass the bill.
 - 2026-04-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2849-2850)
 - 2026-04-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2849-2850)
+- 2026-04-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
