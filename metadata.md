@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5831
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5831
@@ -26,9 +26,10 @@ To designate the facility of the United States Postal Service located at 306 Sou
 - Rep. Grothman, Glenn [R-WI-6] (G000576)
 - Rep. Tiffany, Thomas P. [R-WI-7] (T000165)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ To designate the facility of the United States Postal Service located at 306 Sou
 - 2026-04-14 — Mr. Gill (TX) moved to suspend the rules and pass the bill.
 - 2026-04-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2855)
 - 2026-04-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2855)
+- 2026-04-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
