@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7613
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7613
@@ -106,10 +106,11 @@ ALERT Act
 - Rep. Huizenga, Bill [R-MI-4] (H001058)
 - Rep. Thompson, Mike [D-CA-4] (T000460)
 
-## Committees (2)
+## Committees (3)
 
 - House — Transportation and Infrastructure Committee
 - House — Armed Services Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -141,3 +142,4 @@ ALERT Act
 - 2026-04-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 396 - 10 (Roll no. 110). (text: CR H2856-2870)
 - 2026-04-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 396 - 10 (Roll no. 110). (text: CR H2856-2870)
 - 2026-04-14 — The title of the measure was amended. Agreed to without objection.
+- 2026-04-15 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
