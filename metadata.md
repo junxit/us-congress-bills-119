@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6317
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6317
@@ -29,9 +29,10 @@ To designate the facility of the United States Postal Service located at 12109 N
 - Rep. Subramanyam, Suhas [D-VA-10] (S001230)
 - Rep. Walkinshaw, James R. [D-VA-11] (W000831)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ To designate the facility of the United States Postal Service located at 12109 N
 - 2026-04-14 — Mr. Gill (TX) moved to suspend the rules and pass the bill.
 - 2026-04-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2853)
 - 2026-04-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2853)
+- 2026-04-15 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
