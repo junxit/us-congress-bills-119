@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1689
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,4 +11,4 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Designation of Haiti for temporary protected status
 
-Notwithstanding any other provision of law, the Secretary of Homeland Security shall designate Haiti for temporary protected status for a period of 18 months beginning on August 3, 2025.
+Notwithstanding any other provision of law, the Secretary of Homeland Security shall designate Haiti for temporary protected status until the date that is 3 months after January 20, 2029.
