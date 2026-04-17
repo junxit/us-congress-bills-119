@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8322
 congress: 119
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 8322
@@ -41,3 +41,7 @@ To amend the FISA Amendments Act of 2008 to extend the authorities of title VII 
 - 2026-04-17 — Presented to President.
 - 2026-04-17 — Presented to President.
 - 2026-04-17 — Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote. (consideration: CR S1829-1830)
+- 2026-04-18 — Became Public Law No: 119-84.
+- 2026-04-18 — Became Public Law No: 119-84.
+- 2026-04-18 — Signed by President.
+- 2026-04-18 — Signed by President.

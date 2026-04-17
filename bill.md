@@ -1,22 +1,8 @@
 ---
 legis-num: H.R. 8322
-congress: 119th CONGRESS
-session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+congress: 
+session: 
+chamber: 
 ---
 
 # H.R. 8322
-
-> To amend the FISA Amendments Act of 2008 to extend the authorities of title VII of the Foreign Intelligence Surveillance Act of 1978 through April 30, 2026, and for other purposes.
-
-## § 1. Extension of authorities of title VII of the Foreign Intelligence Surveillance Act of 1978
-
-- **(a)** *Extension of repeal date of title VII* Section 403(b) of the FISA Amendments Act of 2008 (Public Law 110–261) is amended—
-  - **(1)** in paragraph (1) (50 U.S.C. 1881 note), by striking “effective two years after” and all that follows through the period at the end and inserting “effective April 30, 2026, title VII of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1881 et seq.) is repealed.”; and
-  - **(2)** in paragraph (2) (18 U.S.C. 2511 note), in the matter preceding subparagraph (A), by striking “Effective two years after the date of enactment of the Reforming Intelligence and Securing America Act—” and inserting “Effective April 30, 2026—”.
-- **(b)** *Extension of transition procedures* Section 404(b) of the FISA Amendments Act of 2008 (Public Law 110–261) is amended—
-  - **(1)** in paragraph (1)—
-    - **(A)** in the heading, by striking “two years after the date of enactment of the reforming intelligence and securing america act” and inserting “repeal date”; and
-    - **(B)** by striking “, as amended by section 101(a) and by the FISA Amendments Reauthorization Act of 2017 and the Reforming Intelligence and Securing America Act,” and inserting “(50 U.S.C. 1881 et seq.)”; and
-  - **(2)** in paragraph (2), by striking “, as amended by section 101(a) and by the FISA Amendments Reauthorization Act of 2017 and the Reforming Intelligence and Securing America Act,” and inserting “(50 U.S.C. 1881 et seq.)”.
-- **(c)** *Effective date* The amendments made by this section shall take effect on the earlier of the date of the enactment of this Act or April 19, 2026.
