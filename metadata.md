@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6398
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6398
@@ -16,9 +16,10 @@ RED Tape Act
 
 - Rep. Joyce, John [R-PA-13] (J000302)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (2)
 
@@ -51,3 +52,4 @@ RED Tape Act
 - 2026-04-16 — On motion to recommit Failed by the Yeas and Nays: 213 - 216 (Roll no. 117).
 - 2026-04-16 — On passage Passed by the Yeas and Nays: 222 - 205 (Roll no. 118).
 - 2026-04-16 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 222 - 205 (Roll no. 118).
+- 2026-04-17 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
