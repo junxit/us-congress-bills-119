@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6955
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6955
@@ -16,7 +16,7 @@ Main Street Capital Access Act
 
 - Rep. Hill, J. French [R-AR-2] (H001072)
 
-## Cosponsors (29)
+## Cosponsors (33)
 
 - Rep. Barr, Andy [R-KY-6] (B001282)
 - Rep. Huizenga, Bill [R-MI-4] (H001058)
@@ -47,6 +47,10 @@ Main Street Capital Access Act
 - Rep. Downing, Troy [R-MT-2] (D000634)
 - Rep. Haridopolos, Mike [R-FL-8] (H001099)
 - Rep. Moore, Tim [R-NC-14] (M001236)
+- Rep. Kennedy, Mike [R-UT-3] (K000403)
+- Rep. Knott, Brad [R-NC-13] (K000405)
+- Rep. Calvert, Ken [R-CA-41] (C000059)
+- Rep. Fedorchak, Julie [R-ND-At Large] (F000482)
 
 ## Committees (1)
 
@@ -57,3 +61,8 @@ Main Street Capital Access Act
 - 2026-01-07 — Introduced in House
 - 2026-01-07 — Introduced in House
 - 2026-01-07 — Referred to the House Committee on Financial Services.
+- 2026-03-04 — Committee Consideration and Mark-up Session Held
+- 2026-03-04 — Ordered to be Reported by the Yeas and Nays: 26 - 16.
+- 2026-04-20 — Placed on the Union Calendar, Calendar No. 535.
+- 2026-04-20 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-617.
+- 2026-04-20 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-617.
