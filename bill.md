@@ -1,0 +1,28 @@
+---
+legis-num: H. RES. 1190
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 1190
+
+> Supporting the designation of April 19 through April 25, 2026, as “National Crime Victims’ Rights Week”.
+
+## Preamble
+
+- Whereas crime, victimization, and mass violence incidents in the United States have significant, often devastating impacts on victims, survivors, and communities large and small;
+- Whereas, since President Ronald Reagan first proclaimed “Crime Victims’ Week” in 1981, this time-honored annual observance has recognized and validated the impact of crime on victims and survivors, those who serve them, and the communities in which they live;
+- Whereas there are over 12,000 organizations and agencies that assist survivors of crime;
+- Whereas there are over 32,000 laws, including 33 State constitutional amendments, that define and protect victims’ rights;
+- Whereas among the generally recognized rights of victims and survivors are the rights to— (1)be treated with fairness, dignity, and respect; (2)safety, protection, and privacy; (3)timely notice of all public proceedings; (4)confer with the Government attorney, including on decisions about charging, plea agreements, and sentencing recommendations; (5)be present and heard at all critical proceedings; (6)be free from unreasonable delay; and (7)receive information about available services and resources, case status and disposition, their rights, and the enforcement of those rights;
+- Whereas the theme of 2026 “National Crime Victims’ Rights Week”, “CommUNITY”, emphasizes the important connections that bring victims, survivors, and those who support them together to improve victim services and implement their rights under the law;
+- Whereas the voices of crime survivors continue to effect positive change in laws, policies, and protocols that strengthen victim and survivor services and guide the creation of programs that identify and meet their important needs; and
+- Whereas Congress remains committed to the adoption of policies and programs that support victims’ and survivors’ rights and services, including the strengthening and protection of the Victims of Crime Act, the Crime Victims’ Rights Act, and the Violence Against Women Act: Now, therefore, be it
+
+That the House of Representatives—
+
+- **(1)** strongly supports the goals and theme of “National Crime Victims’ Rights Week”;
+- **(2)** recognizes and appreciates the outstanding efforts of thousands of victim and survivor assistance organizations and allied agencies that serve crime survivors at the local, State, Tribal, National, and Federal levels;
+- **(3)** encourages Congress to continue passing laws and supporting programs that reflect the voices and choices of crime survivors, and enact positive change to support them; and
+- **(4)** encourages everyone nationwide to commit to ensuring that crime victims’ rights and services are not only commemorated annually, but also practiced daily.
