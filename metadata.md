@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7022
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7022
@@ -40,3 +40,9 @@ Mystic Alerts Act
 - 2026-04-15 — Placed on the Union Calendar, Calendar No. 534.
 - 2026-04-15 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-616.
 - 2026-04-15 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-616.
+- 2026-04-20 — Considered under suspension of the rules. (consideration: CR H2970-2971)
+- 2026-04-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7022.
+- 2026-04-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-04-20 — Mr. Allen moved to suspend the rules and pass the bill, as amended.
+- 2026-04-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2970)
+- 2026-04-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2970)
