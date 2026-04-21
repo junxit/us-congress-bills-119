@@ -1,7 +1,7 @@
 ---
 measure: S. 2132
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2132
@@ -35,3 +35,5 @@ CLEAR Path Act
 - 2026-01-28 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
 - 2026-01-28 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
 - 2026-01-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 305.
+- 2026-04-21 — Passed Senate with an amendment by Voice Vote. (consideration: CR S1854; text of amendment in the nature of a substitute: CR S1854-1855)
+- 2026-04-21 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
