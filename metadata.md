@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5200
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5200
@@ -48,3 +48,4 @@ Emergency Reporting Act
 - 2026-04-20 — Mr. Allen moved to suspend the rules and pass the bill.
 - 2026-04-20 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 386 - 7 (Roll no. 126). (text: CR H2974-2975)
 - 2026-04-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 386 - 7 (Roll no. 126). (text: CR H2974-2975)
+- 2026-04-21 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 375.
