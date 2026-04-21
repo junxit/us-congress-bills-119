@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1689
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1689
@@ -51,3 +51,6 @@ To require the Secretary of Homeland Security to designate Haiti for temporary p
 - 2026-04-16 — On passage Passed by the Yeas and Nays: 224 - 204 (Roll no. 120). (text of amendment in the nature of a substitute: CR H2940)
 - 2026-04-16 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 224 - 204 (Roll no. 120). (text of amendment in the nature of a substitute: CR H2940)
 - 2026-04-16 — The previous question was ordered pursuant to the rule.
+- 2026-04-17 — Received in the Senate.
+- 2026-04-20 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2026-04-21 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 374.
