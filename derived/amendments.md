@@ -1,7 +1,7 @@
 ---
 measure: H.R. 151
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -33,4 +33,4 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | redesignate | by redesignating subsection (g) as subsection (h); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (f) the following: | the bill names no machine-readable US Code section |
-| `2 U.S.C. § 2a` | insert | Section 22(a) of the Act entitled “An Act to provide for the fifteenth and subsequent decennial censuses and to provide for an apportionment of Representatives in Congress”, approved June 18, 1929 (2 U.S.C. 2a(a)), is amended by insertin… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `2 U.S.C. § 2a` | insert | Section 22(a) of the Act entitled “An Act to provide for the fifteenth and subsequent decennial censuses and to provide for apportionment of Representatives in Congress”, approved June 18, 1929 (2 U.S.C. 2a(a)), is amended by inserting a… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

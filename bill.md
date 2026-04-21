@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 151
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,24 +11,21 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Equal Representation Act”.
+This Act may be cited as the “Equal Representation Act of 2025”.
 
 ## § 2. Citizenship status on decennial census
 
-- **(a)** *In general* Section 141 of title 13, United States Code, is amended—
-  - **(1)** by redesignating subsection (g) as subsection (h); and
-  - **(2)** by inserting after subsection (f) the following:
-    > - **(g)**
-    >   - **(1)** In conducting the 2030 decennial census and each decennial census thereafter, the Secretary shall include in any questionnaire distributed or otherwise used for the purpose of determining the total population by States a checkbox or other similar option for the respondent to indicate, for the respondent and for each of the members of the household of the respondent, whether that individual is—
-    >     - **(A)** a citizen of the United States;
-    >     - **(B)** a national of the United States but not a citizen of the United States;
-    >     - **(C)** an alien lawfully residing in the United States; or
-    >     - **(D)** an alien unlawfully residing in the United States.
-    >   - **(2)** Not later than 120 days after completion of a decennial census of the population under subsection (a), the Secretary shall make publicly available the number of persons per State, disaggregated by each of the 4 categories described in subparagraphs (A) through (D) of paragraph (1), as tabulated in accordance with this section.
+Section 141 of title 13, United States Code, is amended—
+
+- **(1)** by redesignating subsection (g) as subsection (h); and
+- **(2)** by inserting after subsection (f) the following:
+  > - **(g)**
+  >   - **(1)** In conducting the 2030 decennial census and each decennial census thereafter, the Secretary shall include in any questionnaire distributed or otherwise used for the purpose of determining the total population by States a checkbox or other similar option for the respondent to indicate, for the respondent and for each of the members of the household of the respondent, whether that individual is a citizen of the United States.
+  >   - **(2)** Not later than 120 days after completion of a decennial census of the population under subsection (a), the Secretary shall make publicly available the number of individuals per State, disaggregated by citizens of the United States and noncitizens, as tabulated in accordance with this section.
 
 ## § 3. Exclusion of noncitizens from number of persons used to determine apportionment of representatives and number of electoral votes
 
-- **(a)** *Exclusion* Section 22(a) of the Act entitled “An Act to provide for the fifteenth and subsequent decennial censuses and to provide for an apportionment of Representatives in Congress”, approved June 18, 1929 (2 U.S.C. 2a(a)), is amended by inserting after “not taxed” the following: “and individuals who are not citizens of the United States”.
+- **(a)** *Exclusion* Section 22(a) of the Act entitled “An Act to provide for the fifteenth and subsequent decennial censuses and to provide for apportionment of Representatives in Congress”, approved June 18, 1929 (2 U.S.C. 2a(a)), is amended by inserting after “not taxed” the following: “and individuals who are not citizens of the United States”.
 - **(b)** *Effective date* The amendment made by subsection (a) shall apply with respect to the apportionment of Representatives carried out pursuant to the decennial census conducted during 2030 and any succeeding decennial census.
 
 ## § 4. Severability clause
