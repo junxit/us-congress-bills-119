@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1681
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1681
@@ -21,11 +21,12 @@ Expediting Federal Broadband Deployment Reviews Act
 - Rep. Craig, Angie [D-MN-2] (C001119)
 - Rep. Vindman, Eugene Simon [D-VA-7] (V000138)
 
-## Committees (3)
+## Committees (4)
 
 - House — Agriculture Committee
 - House — Energy and Commerce Committee
 - House — Natural Resources Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -59,3 +60,4 @@ Expediting Federal Broadband Deployment Reviews Act
 - 2026-04-20 — Mr. Allen moved to suspend the rules and pass the bill.
 - 2026-04-20 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 384 - 9 (Roll no. 125). (text: CR H2971-2972)
 - 2026-04-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 384 - 9 (Roll no. 125). (text: CR H2971-2972)
+- 2026-04-21 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
