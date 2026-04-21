@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7386
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7386
@@ -20,9 +20,10 @@ First Responder Network Authority Reauthorization Act of 2026
 
 - Rep. McClellan, Jennifer L. [D-VA-4] (M001227)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ First Responder Network Authority Reauthorization Act of 2026
 - 2026-04-20 — Mr. Allen moved to suspend the rules and pass the bill, as amended.
 - 2026-04-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2967-2968)
 - 2026-04-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2967-2968)
+- 2026-04-21 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
