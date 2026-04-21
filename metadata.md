@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7022
 congress: 119
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 7022
@@ -48,3 +48,8 @@ Mystic Alerts Act
 - 2026-04-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2970)
 - 2026-04-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2970)
 - 2026-04-21 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2026-09-16 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2026-09-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5237-5238)
+- 2026-09-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2026-09-30 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2026-09-30 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
