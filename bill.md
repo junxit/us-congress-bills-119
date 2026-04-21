@@ -1,0 +1,35 @@
+---
+legis-num: S. 4352
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4352
+
+> To require the Federal Trade Commission to conduct a study on conduct related to oil and gas prices, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Fair and Transparent Gas Prices Act of 2026”.
+
+## § 2. FTC Study on Conduct Related to Oil and Gas Prices
+
+- **(a)** *Study* The Federal Trade Commission (in this section referred to as the Commission), in coordination with State attorneys general, as appropriate, shall conduct a study, using the Commission's authority under section 6(b) of the Federal Trade Commission Act (15 U.S.C. 46(b)), to investigate anti-competitive, collusive, or other conduct related to oil and gas companies and markets, including the actual price of oil and gas paid by consumers. Such study shall include an analysis of—
+  - **(1)** whether such oil and gas companies use their financial resources in a manner that would not expand or increase fuel supply, including by reducing investments in the production of fuel, engaging in stock buy backs, or any other conduct the Commission deems appropriate; and
+  - **(2)** whether such anti-competitive, collusive, or other conduct may—
+    - **(A)** result in inflated costs for consumers or be considered price gouging;
+    - **(B)** delay producing or delivering more fuel supply;
+    - **(C)** impact investment decisions that would contribute to additional fuel supply; or
+    - **(D)** restrict the availability, accessibility, or affordability of alternative fuels or vehicle technology.
+- **(b)** *Report*
+  - **(1)** *In general* Not later than 1 year after the date of enactment of this Act, and annually thereafter for the following 2 years, the Commission shall submit to the appropriate committees of Congress a report containing the results of the study conducted under subsection (a), together with recommendations for such legislation and administrative action as the Commission determines appropriate or necessary to provide fair, competitive, and transparent costs and markets impacting consumers with respect to oil and gas.
+  - **(2)** *Appropriate committees of Congress* In this subsection, the term appropriate committees of Congress means—
+    - **(A)** the Committee on Commerce, Science, and Transportation of the Senate;
+    - **(B)** the Committee on Energy and Natural Resources of the Senate;
+    - **(C)** the Committee on Energy and Commerce of the House of Representatives; and
+    - **(D)** the Subcommittees on Financial Services and General Government of the Committees on Appropriations of the House of Representatives and the Senate.
+- **(c)** *Inapplicability of paperwork reduction act* Chapter 35 of title 44, United States Code (commonly known as the “Paperwork Reduction Act”), shall not apply to the collection of information under subsection (a).
+- **(d)** *Additional FTC resources*
+  - **(1)** *Additional personnel* Notwithstanding any other provision of law, the Commission shall, without regard to the civil service laws (including regulations), appoint not more than 50 additional personnel, as necessary, for the purposes of carrying out the study and report required under this section.
+  - **(2)** *Authorization of appropriations* There are authorized to be appropriated to the Commission to carry out this section $15,000,000 for each of fiscal years 2027 and 2028.
