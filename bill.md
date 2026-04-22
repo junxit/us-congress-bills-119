@@ -1,0 +1,42 @@
+---
+legis-num: H.R. 8430
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8430
+
+> To amend the Federal Food, Drug, and Cosmetic Act to authorize the Secretary of Health and Human Services to share food safety information with State, local, Tribal, and Territorial authorities, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Federal and State Food Safety Information Sharing Act of 2026”.
+
+## § 2. Sharing food safety information with State, local, Tribal, and Territorial authorities
+
+- **(a)** *In general* Section 708 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379) is amended by adding at the end the following:
+  > - **(d)** *Sharing food safety information with State, local, Tribal, and Territorial authorities*
+  >   - **(1)** *Authorization* Notwithstanding section 301(j) and any other law, regulation, or policy, the Secretary may share, with a State, local, Tribal, or Territorial authority with counterpart functions related to the protection of public health, unredacted information in the possession of the Food and Drug Administration relating to any of the following:
+  >     - **(A)** Foodborne illness surveillance data.
+  >     - **(B)** Laboratory sampling testing information.
+  >     - **(C)** Inspectional information and results.
+  >     - **(D)** Distribution lists for recalls and outbreaks.
+  >     - **(E)** Consumer complaints.
+  >     - **(F)** Any other information the Secretary determines will assist such authority in protecting the public.
+  >   - **(2)** *Timing* The Secretary may share information pursuant to paragraph (1) as soon as is reasonably practicable.
+  >   - **(3)** *Limitation on further disclosure* A State, local, Tribal, or Territorial authority in receipt of information provided by the Secretary under this subsection shall not further disclose such information without permission of the Food and Drug Administration unless such authority determines that disclosure of such information is necessary to contain a foodborne illness outbreak, carry out a recall, or carry out other State enforcement activities.
+  >   - **(4)** *Effect of subsection* Nothing in this subsection affects the ability of the Secretary to enter into any written agreement authorized by other provisions of law to share confidential information.
+
+- **(b)** *Conforming amendment* The first sentence of section 301(j) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 331(j)) is amended—
+  - **(1)** by striking “The” and inserting “Except as provided in section 708(d), the”; and
+  - **(2)** by striking the second period at the end.
+
+## § 3. Grants to enhance food safety
+
+- **(a)** *In general* Section 1009 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 399) is amended—
+  - **(1)** in subsection (d)(1), by striking “3 years” and inserting “5 years”; and
+  - **(2)** in subsection (e)—
+    - **(A)** by striking “3 years” and inserting “5 years”; and
+    - **(B)** by amending the second sentence to read as follows: “In the event the Secretary conducts a program evaluation, funding in subsequent years of the grant, where applicable, shall be contingent on a successful program evaluation by the Secretary after the first year of the grant.”.
+- **(b)** *Applicability* The amendments made by subsection (a) apply only with respect to grants awarded under section 1009 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 399) on or after the date of the enactment of this Act.
