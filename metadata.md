@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5201
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5201
@@ -21,9 +21,10 @@ Kari's Law Reporting Act
 - Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
 - Rep. Barragán, Nanette Diaz [D-CA-44] (B001300)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -48,3 +49,4 @@ Kari's Law Reporting Act
 - 2026-04-21 — Motion to reconsider laid on the table Agreed to without objection.
 - 2026-04-21 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 405 - 5 (Roll no. 127). (text: CR 4/20/2026 H2976)
 - 2026-04-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 405 - 5 (Roll no. 127). (text: CR 4/20/2026 H2976)
+- 2026-04-22 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
