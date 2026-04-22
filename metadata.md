@@ -1,7 +1,7 @@
 ---
 measure: S. 3199
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3199
@@ -16,7 +16,7 @@ version: Introduced in Senate
 
 - Sen. Barrasso, John [R-WY] (B001261)
 
-## Cosponsors (11)
+## Cosponsors (12)
 
 - Sen. Luján, Ben Ray [D-NM] (L000570)
 - Sen. Blackburn, Marsha [R-TN] (B001243)
@@ -29,6 +29,7 @@ version: Introduced in Senate
 - Sen. Klobuchar, Amy [D-MN] (K000367)
 - Sen. Risch, James E. [R-ID] (R000584)
 - Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Ossoff, Jon [D-GA] (O000174)
 
 ## Committees (1)
 
@@ -38,3 +39,7 @@ version: Introduced in Senate
 
 - 2025-11-19 — Introduced in Senate
 - 2025-11-19 — Read twice and referred to the Committee on Commerce, Science, and Transportation. (text: CR S8241-8242)
+- 2026-02-12 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2026-04-22 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute and an amendment to the title. With written report No. 119-119.
+- 2026-04-22 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute and an amendment to the title. With written report No. 119-119.
+- 2026-04-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 379.
