@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4690
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4690
@@ -31,6 +31,11 @@ Reliable Federal Infrastructure Act
 - House — Energy and Commerce Committee
 - House — Transportation and Infrastructure Committee
 
+## Recorded votes (2)
+
+- 2026-04-22 — [House 119-2-133](votes/house-119-2-0133.md) — On Motion to Recommit — **Failed** (203–214)
+- 2026-04-22 — [House 119-2-134](votes/house-119-2-0134.md) — On Passage — **Passed** (215–202)
+
 ## Actions
 
 - 2025-07-23 — Introduced in House
@@ -48,3 +53,20 @@ Reliable Federal Infrastructure Act
 - 2026-02-04 — Placed on the Union Calendar, Calendar No. 413.
 - 2026-02-04 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-483, Part I.
 - 2026-02-04 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-483, Part I.
+- 2026-04-20 — Rules Committee Resolution H. Res. 1189 Reported to House. Rule provides for consideration of H.R. 4690, H. Res. 1182, H.R. 1897 and H.R. 5587. The resolution provides for consideration of H.R. 4690, H. Res. 1182, H.R. 1897, and H.R. 5587 under a closed rule with one hour of general debate on each measure. The resolution provides for one motion to recommit on H.R. 4690, H.R. 1897, and H.R. 5587.
+- 2026-04-22 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2026-04-22 — Considered as unfinished business. (consideration: CR H3062-3064)
+- 2026-04-22 — Considered under the provisions of rule H. Res. 1189. (consideration: CR H3057-3061)
+- 2026-04-22 — DEBATE - The House proceeded with one hour of debate on H.R. 4690.
+- 2026-04-22 — House amendment considered as adopted: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2026-04-22 — House amendment offered/reported by: Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2026-04-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-04-22 — Mrs. Sykes moved to recommit to the Committee on Energy and Commerce. (CR H3061)
+- 2026-04-22 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2026-04-22 — On motion to recommit Failed by the Yeas and Nays: 203 - 214 (Roll no. 133).
+- 2026-04-22 — On passage Passed by the Yeas and Nays: 215 - 202 (Roll no. 134). (text: CR H3057)
+- 2026-04-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 4690, the Chair put the question on the motion to recommit and by voice vote, announced that the noes had prevailed. Mrs. Sykes demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2026-04-22 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 215 - 202 (Roll no. 134). (text: CR H3057)
+- 2026-04-22 — Rule provides for consideration of H.R. 4690, H. Res. 1182, H.R. 1897 and H.R. 5587. The resolution provides for consideration of H.R. 4690, H. Res. 1182, H.R. 1897, and H.R. 5587 under a closed rule with one hour of general debate on each measure. The resolution provides for one motion to recommit on H.R. 4690, H.R. 1897, and H.R. 5587.
+- 2026-04-22 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2026-04-22 — The previous question was ordered pursuant to the rule.
