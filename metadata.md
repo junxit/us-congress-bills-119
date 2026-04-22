@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2493
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2493
@@ -53,3 +53,4 @@ Improving Care in Rural America Reauthorization Act of 2025
 - 2026-04-21 — Mrs. Harshbarger moved to suspend the rules and pass the bill.
 - 2026-04-21 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 406 - 4 (Roll no. 128). (text: CR H3021-3022)
 - 2026-04-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 406 - 4 (Roll no. 128). (text: CR H3021-3022)
+- 2026-04-22 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 377.
