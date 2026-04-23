@@ -1,0 +1,37 @@
+---
+legis-num: H.R. 8476
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8476
+
+> To require each local educational agency and institution of higher education that receives Federal financial assistance to treat discrimination motivated by antisemitism as vigorously as such agency or institution treats other forms of discrimination prohibited by title VI of the Civil Rights Act of 1964, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “No Antisemitism in Education Act of 2026”.
+
+## § 2. Findings
+
+Congress finds the following:
+
+- **(1)** Antisemitism is a uniquely rampant problem in the United States, including in educational institutions. According to the most recent Federal Bureau of Investigation data, more than two-thirds of all religiously motivated hate crimes targeted Jews. According to 2025 data, nearly half of young American Jews say they were the personal target of antisemitism in the last year. Forty-two percent of American Jewish college students report experiencing antisemitism during their time on campus. One in 4 American Jewish college students has felt or actually been excluded from a campus group or event because they are Jewish.
+- **(2)** A report issued by the Committee on Education and Workforce of the House of Representatives on October 31, 2024, titled “Antisemitism on College Campuses Exposed” documents evidence of systemic failures by many universities to enforce their own policies equitably and impose discipline in response to pervasive antisemitism that violates university rules and title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.).
+- **(3)** The October 31, 2024, report found that many educational institutions have exhibited “double standards” with respect to addressing discrimination motivated by antisemitism.
+- **(4)** A subsequent report issued by the Committee on Education and Workforce on March 17, 2026, demonstrated that failed university leadership, faculty members legitimizing and amplifying antisemitism on campuses, and student groups driving antisemitic hostility continue to make Jewish students subject to harassment and discrimination.
+
+## § 3. Treatment of discrimination motivated by antisemitism
+
+- **(a)** *Requirement*
+  - **(1)** *In general* As a condition of receiving Federal financial assistance, a local educational agency or institution of higher education shall treat discrimination that is motivated by antisemitism, including discrimination by students or employees and discrimination resulting from the institutional policies of such agency or institution, as vigorously as such agency or institution treats all other forms of discrimination prohibited by title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d et seq.).
+  - **(2)** *Use of the definition of antisemitism* In identifying evidence, reviewing, investigating, or determining whether there has been a violation of any relevant Federal law, a Federal department or agency, or local educational agency or institution of higher education that receives Federal financial assistance, shall consider the definition of antisemitism specified in subsection (c) for purposes of determining whether an alleged act or omission was motivated by discriminatory antisemitic intent.
+  - **(3)** *Enforcement* The provisions of this section shall be enforceable by any mechanism available to enforce section 601 of the Civil Rights Act of 1964 (42 U.S.C. 2000d).
+- **(b)** *Rules of construction* Nothing in this section shall be construed as—
+  - **(1)** diminishing or infringing upon any right protected under the First Amendment to the Constitution; or
+  - **(2)** preempting State antidiscrimination laws.
+- **(c)** *Definitions* In this section:
+  - **(1)** *Antisemitism* The term antisemitism has the meaning incorporated by reference in section 2 of Executive Order 13899 (84 FR 68779; December 11, 2019), including the contemporary examples described in section 2(a)(ii) of such Executive order.
+  - **(2)** *Institution of higher education* The term institution of higher education has the meaning given such term in section 102 of the Higher Education Act of 1965 (20 U.S.C. 1002).
+  - **(3)** *Local educational agency* The term local educational agency has the meaning given such term in section 8101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
