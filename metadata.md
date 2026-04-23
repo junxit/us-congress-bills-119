@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 33
 congress: 119
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S.Con.Res. 33
@@ -16,13 +16,113 @@ A concurrent resolution setting forth the congressional budget for the United St
 
 - Sen. Graham, Lindsey [R-SC] (G000359)
 
+## Cosponsors (80)
+
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Luján, Ben Ray [D-NM] (L000570)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Gallego, Ruben [D-AZ] (G000574)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Gallego, Ruben [D-AZ] (G000574)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Gallego, Ruben [D-AZ] (G000574)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Gallego, Ruben [D-AZ] (G000574)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Luján, Ben Ray [D-NM] (L000570)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Blunt Rochester, Lisa [D-DE] (B001303)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+
 ## Committees (1)
 
 - Senate — Budget Committee
 
-## Recorded votes (1)
+## Recorded votes (18)
 
 - 2026-04-21 — [Senate 119-2-87](votes/senate-119-2-0087.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (52–46)
+- 2026-04-22 — [Senate 119-2-89](votes/senate-119-2-0089.md) — On the Motion — **Motion Rejected** (48–50)
+- 2026-04-22 — [Senate 119-2-90](votes/senate-119-2-0090.md) — On the Motion — **Motion Rejected** (47–50)
+- 2026-04-22 — [Senate 119-2-91](votes/senate-119-2-0091.md) — On the Motion — **Motion Rejected** (49–49)
+- 2026-04-22 — [Senate 119-2-92](votes/senate-119-2-0092.md) — On the Amendment — **Amendment Agreed to** (98–0)
+- 2026-04-22 — [Senate 119-2-93](votes/senate-119-2-0093.md) — On the Motion — **Motion Rejected** (48–50)
+- 2026-04-22 — [Senate 119-2-94](votes/senate-119-2-0094.md) — On the Motion — **Motion Rejected** (47–51)
+- 2026-04-22 — [Senate 119-2-95](votes/senate-119-2-0095.md) — On the Motion — **Motion Rejected** (47–51)
+- 2026-04-23 — [Senate 119-2-96](votes/senate-119-2-0096.md) — On the Motion — **Motion Rejected** (48–50)
+- 2026-04-23 — [Senate 119-2-97](votes/senate-119-2-0097.md) — On the Motion — **Motion Rejected** (50–48)
+- 2026-04-23 — [Senate 119-2-98](votes/senate-119-2-0098.md) — On the Motion — **Motion Rejected** (48–50)
+- 2026-04-23 — [Senate 119-2-99](votes/senate-119-2-0099.md) — On the Amendment — **Amendment Rejected** (25–73)
+- 2026-04-23 — [Senate 119-2-100](votes/senate-119-2-0100.md) — On the Amendment — **Amendment Rejected** (46–52)
+- 2026-04-23 — [Senate 119-2-101](votes/senate-119-2-0101.md) — On the Motion — **Motion Rejected** (49–49)
+- 2026-04-23 — [Senate 119-2-102](votes/senate-119-2-0102.md) — On the Motion — **Motion Rejected** (46–52)
+- 2026-04-23 — [Senate 119-2-103](votes/senate-119-2-0103.md) — On the Amendment — **Amendment Rejected** (48–50)
+- 2026-04-23 — [Senate 119-2-104](votes/senate-119-2-0104.md) — On the Amendment — **Amendment Rejected** (49–49)
+- 2026-04-23 — [Senate 119-2-105](votes/senate-119-2-0105.md) — On the Concurrent Resolution — **Concurrent Resolution Agreed to** (50–48)
 
 ## Actions
 
@@ -35,3 +135,1384 @@ A concurrent resolution setting forth the congressional budget for the United St
 - 2026-04-21 — Senate Committee on the Budget discharged pursuant to Section 300 of the Congressional Budget Act.
 - 2026-04-21 — Senate amendment submitted
 - 2026-04-21 — Submitted in Senate
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — 
+- 2026-04-22 — Amendment SA 4798 proposed by Senator Lujan. (consideration: CR S1907)
+- 2026-04-22 — Amendment SA 4798 ruled out of order by the chair.
+- 2026-04-22 — Amendment SA 4799 proposed by Senator Schumer. (consideration: CR S1906-1907)
+- 2026-04-22 — Amendment SA 4799 ruled out of order by the chair.
+- 2026-04-22 — Amendment SA 4884 proposed by Senator Hirono. (consideration: CR S1909)
+- 2026-04-22 — Amendment SA 4884 ruled out of order by the chair.
+- 2026-04-22 — Amendment SA 4897 proposed by Senator Ossoff. (consideration: CR S1907-1908)
+- 2026-04-22 — Amendment SA 4897 ruled out of order by the chair.
+- 2026-04-22 — Amendment SA 4956 proposed by Senator Hickenlooper. (consideration: CR S1909-1910)
+- 2026-04-22 — Amendment SA 4956 ruled out of order by the chair.
+- 2026-04-22 — Amendment SA 5281 agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 92.
+- 2026-04-22 — Amendment SA 5281 proposed by Senator Graham. (consideration: CR S1908-1909)
+- 2026-04-22 — Amendment SA 5294 proposed by Senator Alsobrooks. (consideration: CR S1910-1911)
+- 2026-04-22 — Considered by Senate. (consideration: CR S1867-1882, S1898-1924)
+- 2026-04-22 — Motion to waive all applicable budgetary discipline with respect to amendment SA 4798, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 47 - 50. Record Vote Number: 90.
+- 2026-04-22 — Motion to waive all applicable budgetary discipline with respect to amendment SA 4799, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 48 - 50. Record Vote Number: 89.
+- 2026-04-22 — Motion to waive all applicable budgetary discipline with respect to amendment SA 4884, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 48 - 50. Record Vote Number: 93.
+- 2026-04-22 — Motion to waive all applicable budgetary discipline with respect to amendment SA 4897, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 49 - 49. Record Vote Number: 91.
+- 2026-04-22 — Motion to waive all applicable budgetary discipline with respect to amendment SA 4956, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 94.
+- 2026-04-22 — Point of order that the amendment violates section 305(b)(2) of the CBA raised in Senate with respect to amendment SA 4798.
+- 2026-04-22 — Point of order that the amendment violates section 305(b)(2) of the CBA raised in Senate with respect to amendment SA 4799.
+- 2026-04-22 — Point of order that the amendment violates section 305(b)(2) of the CBA raised in Senate with respect to amendment SA 4884.
+- 2026-04-22 — Point of order that the amendment violates section 305(b)(2) of the CBA raised in Senate with respect to amendment SA 4897.
+- 2026-04-22 — Point of order that the amendment violates section 305(b)(2) of the CBA raised in Senate with respect to amendment SA 4956.
+- 2026-04-22 — Point of order that the amendment violates section 305(b)(2) of the CBA raised in Senate with respect to amendment SA 5294.
+- 2026-04-22 — Roll call votes on amendments in Senate: Amendment SA 5281 agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 92.
+- 2026-04-22 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 4798, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 47 - 50. Record Vote Number: 90.
+- 2026-04-22 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 4799, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 48 - 50. Record Vote Number: 89.
+- 2026-04-22 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 4884, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 48 - 50. Record Vote Number: 93.
+- 2026-04-22 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 4897, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 49 - 49. Record Vote Number: 91.
+- 2026-04-22 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 4956, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 94.
+- 2026-04-22 — Senate amendment agreed to: Amendment SA 5281 agreed to in Senate by Yea-Nay Vote. 98 - 0. Record Vote Number: 92.
+- 2026-04-22 — Senate amendment proposed (on the floor): Amendment SA 4798 proposed by Senator Lujan.
+- 2026-04-22 — Senate amendment proposed (on the floor): Amendment SA 4799 proposed by Senator Schumer.
+- 2026-04-22 — Senate amendment proposed (on the floor): Amendment SA 4884 proposed by Senator Hirono.
+- 2026-04-22 — Senate amendment proposed (on the floor): Amendment SA 4897 proposed by Senator Ossoff.
+- 2026-04-22 — Senate amendment proposed (on the floor): Amendment SA 4956 proposed by Senator Hickenlooper.
+- 2026-04-22 — Senate amendment proposed (on the floor): Amendment SA 5281 proposed by Senator Graham.
+- 2026-04-22 — Senate amendment proposed (on the floor): Amendment SA 5294 proposed by Senator Alsobrooks.
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-22 — Senate amendment submitted
+- 2026-04-23 — 
+- 2026-04-23 — 
+- 2026-04-23 — 
+- 2026-04-23 — 
+- 2026-04-23 — 
+- 2026-04-23 — 
+- 2026-04-23 — 
+- 2026-04-23 — 
+- 2026-04-23 — 
+- 2026-04-23 — 
+- 2026-04-23 — 
+- 2026-04-23 — 
+- 2026-04-23 — 
+- 2026-04-23 — 
+- 2026-04-23 — 
+- 2026-04-23 — 
+- 2026-04-23 — 
+- 2026-04-23 — 
+- 2026-04-23 — 
+- 2026-04-23 — 
+- 2026-04-23 — 
+- 2026-04-23 — 
+- 2026-04-23 — 
+- 2026-04-23 — 
+- 2026-04-23 — 
+- 2026-04-23 — 
+- 2026-04-23 — 
+- 2026-04-23 — 
+- 2026-04-23 — 
+- 2026-04-23 — 
+- 2026-04-23 — 
+- 2026-04-23 — 
+- 2026-04-23 — 
+- 2026-04-23 — 
+- 2026-04-23 — 
+- 2026-04-23 — 
+- 2026-04-23 — 
+- 2026-04-23 — 
+- 2026-04-23 — 
+- 2026-04-23 — 
+- 2026-04-23 — 
+- 2026-04-23 — 
+- 2026-04-23 — 
+- 2026-04-23 — 
+- 2026-04-23 — Amendment SA 4794 proposed by Senator Hawley. (consideration: CR S1912-1913)
+- 2026-04-23 — Amendment SA 4794 ruled out of order by the chair.
+- 2026-04-23 — Amendment SA 4855 proposed by Senator Padilla. (consideration: CR S1916-1917)
+- 2026-04-23 — Amendment SA 4855 ruled out of order by the chair.
+- 2026-04-23 — Amendment SA 5001 proposed by Senator Markey. (consideration: CR S1913-1914)
+- 2026-04-23 — Amendment SA 5001 ruled out of order by the chair.
+- 2026-04-23 — Amendment SA 5159 proposed by Senator Sanders. (consideration: CR S1915-1916)
+- 2026-04-23 — Amendment SA 5159 ruled out of order by the chair.
+- 2026-04-23 — Amendment SA 5235 not agreed to in Senate by Yea-Nay Vote. 46 - 52. Record Vote Number: 100.
+- 2026-04-23 — Amendment SA 5235 proposed by Senator Merkley. (consideration: CR S1914-1915)
+- 2026-04-23 — Amendment SA 5294 ruled out of order by the chair.
+- 2026-04-23 — Amendment SA 5333 not agreed to in Senate by Yea-Nay Vote. 49 - 49. Record Vote Number: 104.
+- 2026-04-23 — Amendment SA 5333 proposed by Senator Schiff. (consideration: CR S1917-1918)
+- 2026-04-23 — Amendment SA 5336 not agreed to in Senate by Yea-Nay Vote. 48 - 50. Record Vote Number: 103.
+- 2026-04-23 — Amendment SA 5336 proposed by Senator Wyden. (consideration: CR S1917)
+- 2026-04-23 — Amendment SA 5378 not agreed to in Senate by Yea-Nay Vote. 25 - 73. Record Vote Number: 99.
+- 2026-04-23 — Amendment SA 5378 proposed by Senator Paul. (consideration: CR S1914)
+- 2026-04-23 — Amendment SA 5414 proposed by Senator Kennedy. (consideration: CR S1911-1912)
+- 2026-04-23 — Amendment SA 5414 ruled out of order by the chair.
+- 2026-04-23 — Held at the desk.
+- 2026-04-23 — Message on Senate action sent to the House.
+- 2026-04-23 — Motion to waive all applicable budgetary discipline with respect to amendment SA 4794, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 50 - 48. Record Vote Number: 97.
+- 2026-04-23 — Motion to waive all applicable budgetary discipline with respect to amendment SA 4855, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 46 - 52. Record Vote Number: 102.
+- 2026-04-23 — Motion to waive all applicable budgetary discipline with respect to amendment SA 5001, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 48 - 50. Record Vote Number: 98.
+- 2026-04-23 — Motion to waive all applicable budgetary discipline with respect to amendment SA 5159, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 49 - 49. Record Vote Number: 101.
+- 2026-04-23 — Motion to waive all applicable budgetary discipline with respect to amendment SA 5294, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 95.
+- 2026-04-23 — Motion to waive all applicable budgetary discipline with respect to amendment SA 5414, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 48 - 50. Record Vote Number: 96.
+- 2026-04-23 — Passed/agreed to in Senate: Resolution agreed to in Senate with an amendment by Yea-Nay Vote. 50 - 48. Record Vote Number: 105.
+- 2026-04-23 — Point of order that the amendment violates section 305(b)(2) of the CBA raised in Senate with respect to amendment SA 4794.
+- 2026-04-23 — Point of order that the amendment violates section 305(b)(2) of the CBA raised in Senate with respect to amendment SA 4855.
+- 2026-04-23 — Point of order that the amendment violates section 305(b)(2) of the CBA raised in Senate with respect to amendment SA 5001.
+- 2026-04-23 — Point of order that the amendment violates section 305(b)(2) of the CBA raised in Senate with respect to amendment SA 5159.
+- 2026-04-23 — Point of order that the amendment violates section 305(b)(2) of the CBA raised in Senate with respect to amendment SA 5414.
+- 2026-04-23 — Received in the House.
+- 2026-04-23 — Resolution agreed to in Senate with an amendment by Yea-Nay Vote. 50 - 48. Record Vote Number: 105. (text: CR S1918-1924)
+- 2026-04-23 — Roll call votes on amendments in Senate: Amendment SA 5235 not agreed to in Senate by Yea-Nay Vote. 46 - 52. Record Vote Number: 100.
+- 2026-04-23 — Roll call votes on amendments in Senate: Amendment SA 5333 not agreed to in Senate by Yea-Nay Vote. 49 - 49. Record Vote Number: 104.
+- 2026-04-23 — Roll call votes on amendments in Senate: Amendment SA 5336 not agreed to in Senate by Yea-Nay Vote. 48 - 50. Record Vote Number: 103.
+- 2026-04-23 — Roll call votes on amendments in Senate: Amendment SA 5378 not agreed to in Senate by Yea-Nay Vote. 25 - 73. Record Vote Number: 99.
+- 2026-04-23 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 4794, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 50 - 48. Record Vote Number: 97.
+- 2026-04-23 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 4855, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 46 - 52. Record Vote Number: 102.
+- 2026-04-23 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 5001, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 48 - 50. Record Vote Number: 98.
+- 2026-04-23 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 5159, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 49 - 49. Record Vote Number: 101.
+- 2026-04-23 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 5294, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 47 - 51. Record Vote Number: 95.
+- 2026-04-23 — Roll call votes on amendments in Senate: Motion to waive all applicable budgetary discipline with respect to amendment SA 5414, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 48 - 50. Record Vote Number: 96.
+- 2026-04-23 — Senate amendment not agreed to: Amendment SA 5235 not agreed to in Senate by Yea-Nay Vote. 46 - 52. Record Vote Number: 100.
+- 2026-04-23 — Senate amendment not agreed to: Amendment SA 5333 not agreed to in Senate by Yea-Nay Vote. 49 - 49. Record Vote Number: 104.
+- 2026-04-23 — Senate amendment not agreed to: Amendment SA 5336 not agreed to in Senate by Yea-Nay Vote. 48 - 50. Record Vote Number: 103.
+- 2026-04-23 — Senate amendment not agreed to: Amendment SA 5378 not agreed to in Senate by Yea-Nay Vote. 25 - 73. Record Vote Number: 99.
+- 2026-04-23 — Senate amendment proposed (on the floor): Amendment SA 4794 proposed by Senator Hawley.
+- 2026-04-23 — Senate amendment proposed (on the floor): Amendment SA 4855 proposed by Senator Padilla.
+- 2026-04-23 — Senate amendment proposed (on the floor): Amendment SA 5001 proposed by Senator Markey.
+- 2026-04-23 — Senate amendment proposed (on the floor): Amendment SA 5159 proposed by Senator Sanders.
+- 2026-04-23 — Senate amendment proposed (on the floor): Amendment SA 5235 proposed by Senator Merkley.
+- 2026-04-23 — Senate amendment proposed (on the floor): Amendment SA 5333 proposed by Senator Schiff.
+- 2026-04-23 — Senate amendment proposed (on the floor): Amendment SA 5336 proposed by Senator Wyden.
+- 2026-04-23 — Senate amendment proposed (on the floor): Amendment SA 5378 proposed by Senator Paul.
+- 2026-04-23 — Senate amendment proposed (on the floor): Amendment SA 5414 proposed by Senator Kennedy.
+- 2026-04-23 — Senate amendment submitted
+- 2026-04-23 — Senate amendment submitted
+- 2026-04-23 — Senate amendment submitted
+- 2026-04-23 — Senate amendment submitted
+- 2026-04-23 — Senate amendment submitted
+- 2026-04-23 — Senate amendment submitted
+- 2026-04-23 — Senate amendment submitted
+- 2026-04-23 — Senate amendment submitted
+- 2026-04-23 — Senate amendment submitted
+- 2026-04-23 — Senate amendment submitted
+- 2026-04-23 — Senate amendment submitted
+- 2026-04-23 — Senate amendment submitted
+- 2026-04-23 — Senate amendment submitted
+- 2026-04-23 — Senate amendment submitted
+- 2026-04-23 — Senate amendment submitted
+- 2026-04-23 — Senate amendment submitted
+- 2026-04-23 — Senate amendment submitted
+- 2026-04-23 — Senate amendment submitted
+- 2026-04-23 — Senate amendment submitted
+- 2026-04-23 — Senate amendment submitted
+- 2026-04-23 — Senate amendment submitted
+- 2026-04-23 — Senate amendment submitted
+- 2026-04-23 — Senate amendment submitted
+- 2026-04-23 — Senate amendment submitted
+- 2026-04-23 — Senate amendment submitted
+- 2026-04-23 — Senate amendment submitted
+- 2026-04-23 — Senate amendment submitted
+- 2026-04-23 — Senate amendment submitted
+- 2026-04-23 — Senate amendment submitted
+- 2026-04-23 — Senate amendment submitted
+- 2026-04-23 — Senate amendment submitted
+- 2026-04-23 — Senate amendment submitted
+- 2026-04-23 — Senate amendment submitted
+- 2026-04-23 — Senate amendment submitted
+- 2026-04-23 — Senate amendment submitted
+- 2026-04-23 — Senate amendment submitted
+- 2026-04-23 — Senate amendment submitted
+- 2026-04-23 — Senate amendment submitted
+- 2026-04-23 — Senate amendment submitted
+- 2026-04-23 — Senate amendment submitted
+- 2026-04-23 — Senate amendment submitted
+- 2026-04-23 — Senate amendment submitted
+- 2026-04-23 — Senate amendment submitted
+- 2026-04-23 — Senate amendment submitted
