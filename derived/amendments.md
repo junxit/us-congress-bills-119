@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1329
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+7 amendatory instructions. 0 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,10 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `20 U.S.C. § 80t-5` | replace | Section 107(d) of division T of the Consolidated Appropriations Act, 2021 (20 U.S.C. 80t–5(d)) is amended by striking “, except that” and all that follows and inserting a period. | the bill quotes the text struck but describes what replaces it |
-| `20 U.S.C. § 80t-5` | amend | Section 107(b) of division T of the Consolidated Appropriations Act, 2021 (20 U.S.C. 80t–5(b)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 80t-2` | amend | Section 104(b)(4) of division T of the Consolidated Appropriations Act, 2021 (20 U.S.C. 80t–2(b)(4)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 80t-5` | replace | Section 107(d) of division T of the Consolidated Appropriations Act, 2021 (20 U.S.C. 80t-5(d)) is amended by striking “, except that” and all that follows and inserting a period. | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 80t-5` | amend | Section 107(a) of division T of the Consolidated Appropriations Act, 2021 (20 U.S.C. 80t-5(a)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 80t-5` | amend | Section 107(b) of division T of the Consolidated Appropriations Act, 2021 (20 U.S.C. 80t-5(b)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 80t-5` | amend | Section 107(c) of division T of the Consolidated Appropriations Act, 2021 (20 U.S.C. 80t-5(c)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 80t-5` | add-at-end | Section 107 of division T of the Consolidated Appropriations Act, 2021 (20 U.S.C. 80t-5) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 80t-1` | add-at-end | Section 103 of division T of the Consolidated Appropriations Act, 2021 (20 U.S.C. 80t-1) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 80t-2` | amend | Section 104(b)(4) of division T of the Consolidated Appropriations Act, 2021 (20 U.S.C. 80t-2(b)(4)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
