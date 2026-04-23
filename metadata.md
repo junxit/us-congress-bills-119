@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 33
 congress: 119
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S.Con.Res. 33
@@ -103,7 +103,7 @@ A concurrent resolution setting forth the congressional budget for the United St
 
 - Senate — Budget Committee
 
-## Recorded votes (18)
+## Recorded votes (19)
 
 - 2026-04-21 — [Senate 119-2-87](votes/senate-119-2-0087.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (52–46)
 - 2026-04-22 — [Senate 119-2-89](votes/senate-119-2-0089.md) — On the Motion — **Motion Rejected** (48–50)
@@ -123,6 +123,7 @@ A concurrent resolution setting forth the congressional budget for the United St
 - 2026-04-23 — [Senate 119-2-103](votes/senate-119-2-0103.md) — On the Amendment — **Amendment Rejected** (48–50)
 - 2026-04-23 — [Senate 119-2-104](votes/senate-119-2-0104.md) — On the Amendment — **Amendment Rejected** (49–49)
 - 2026-04-23 — [Senate 119-2-105](votes/senate-119-2-0105.md) — On the Concurrent Resolution — **Concurrent Resolution Agreed to** (50–48)
+- 2026-04-29 — [House 119-2-143](votes/house-119-2-0143.md) — On Agreeing to the Resolution — **Passed** (215–211)
 
 ## Actions
 
@@ -1516,3 +1517,12 @@ A concurrent resolution setting forth the congressional budget for the United St
 - 2026-04-23 — Senate amendment submitted
 - 2026-04-23 — Senate amendment submitted
 - 2026-04-23 — Senate amendment submitted
+- 2026-04-29 — Considered as unfinished business. (consideration: CR H3168-3169)
+- 2026-04-29 — Considered under the provisions of rule H. Res. 1224. (consideration: CR H3147-3160)
+- 2026-04-29 — DEBATE - The House proceeded with one hour of debate on S. Con. Res. 33.
+- 2026-04-29 — On agreeing to the resolution Agreed to by the Yeas and Nays: 215 - 211, 1 Present (Roll no. 143). (text: CR H3147-3146)
+- 2026-04-29 — POSTPONED PROCEEDINGS - The Chair put the question on agreeing to S.Con.Res. 33 and pursuant to clause 10 of rule XX, the yeas and nays are ordered. Further proceedings were postponed.
+- 2026-04-29 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 215 - 211, 1 Present (Roll no. 143). (text: CR H3147-3146)
+- 2026-04-29 — Rule provides for consideration of H.R. 7567, H.R. 2616, S. Con. Res. 33, S. 1318 and H.R. 1346. The resolution provides for consideration of H.R. 7567 under a structured rule and H.R. 2616, S. Con. Res. 33, S. 1318, and H.R. 1346 under a closed rule, with one hour of general debate on each measure. The resolution provides for one motion to recommit on H.R. 7567, H.R. 2616, and H.R. 1346, and one motion to commit on S. 1318.
+- 2026-04-29 — Rules Committee Resolution H. Res. 1224 Reported to House. Rule provides for consideration of H.R. 7567, H.R. 2616, S. Con. Res. 33, S. 1318 and H.R. 1346. The resolution provides for consideration of H.R. 7567 under a structured rule and H.R. 2616, S. Con. Res. 33, S. 1318, and H.R. 1346 under a closed rule, with one hour of general debate on each measure. The resolution provides for one motion to recommit on H.R. 7567, H.R. 2616, and H.R. 1346, and one motion to commit on S. 1318.
+- 2026-04-29 — The previous question was ordered pursuant to the rule.
