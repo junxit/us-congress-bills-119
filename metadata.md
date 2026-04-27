@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4930
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4930
@@ -39,3 +39,9 @@ To expand the sharing of information with respect to suspected violations of int
 - 2025-12-30 — Placed on the Union Calendar, Calendar No. 361.
 - 2025-12-30 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-415.
 - 2025-12-30 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-415.
+- 2026-04-27 — Considered under suspension of the rules. (consideration: CR H3098-3100)
+- 2026-04-27 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4930.
+- 2026-04-27 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-04-27 — Mr. Moore (UT) moved to suspend the rules and pass the bill, as amended.
+- 2026-04-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3098-3099)
+- 2026-04-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3098-3099)
