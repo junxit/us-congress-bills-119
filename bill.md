@@ -16,8 +16,8 @@ This Act may be cited as the “Barcode Automation for Revenue Collection to Org
 ## § 2. Scanning and digitization of tax returns and correspondence
 
 - **(a)** *Returns prepared electronically and submitted on paper* With respect to any Federal tax return which is prepared electronically, but is printed and filed on paper—
-  - **(1)** such return shall bear a code which, when scanned, converts the data included in such return to electronic format, and
-  - **(2)** subject to subsection (b)(1)(B), the Internal Revenue Service shall use barcode scanning technology to convert the data included in such return to electronic format.
+  - **(1)** such return shall be formatted in a manner that is compatible with the scanning technology referred to in paragraph (2), and
+  - **(2)** subject to subsection (b)(1)(B), the Internal Revenue Service shall use scanning technology to convert the data included in such return to electronic format.
 - **(b)** *Optical character recognition software* With respect to—
   - **(1)** any Federal tax return which—
     - **(A)** is not prepared electronically and is printed and filed on paper, or
@@ -31,4 +31,4 @@ This Act may be cited as the “Barcode Automation for Revenue Collection to Org
 - **(d)** *Effective date* This section shall apply to—
   - **(1)** any individual income tax return (as defined in section 6011(e)(3)(C) of the Internal Revenue Code of 1986) received on or after January 1 of the first calendar year beginning more than 180 days after the date of enactment of this Act,
   - **(2)** any estate tax return (as described in section 6018 of such Code) or gift tax return (as described in section 6019 of such Code) received on or after January 1 of the first calendar year beginning more than 24 months after the date of enactment of this Act, and
-  - **(3)** any other return or correspondence received on or after January 1 of the first calendar year beginning more than 12 months after the date of enactment of this Act.
+  - **(3)** any other return or correspondence received on or after January 1 of the first calendar year beginning more than 18 months after the date of enactment of this Act.
