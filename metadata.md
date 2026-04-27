@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6387
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6387
@@ -22,9 +22,10 @@ FIRE Act
 - Rep. Gosar, Paul A. [R-AZ-9] (G000565)
 - Rep. Crank, Jeff [R-CO-5] (C001137)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (2)
 
@@ -57,3 +58,4 @@ FIRE Act
 - 2026-04-22 — On motion to recommit Failed by the Yeas and Nays: 206 - 214 (Roll no. 135).
 - 2026-04-22 — On passage Passed by the Yeas and Nays: 220 - 198 (Roll no. 136). (text: CR 4/21/2026 H3013)
 - 2026-04-22 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 220 - 198 (Roll no. 136). (text: CR 4/21/2026 H3013)
+- 2026-04-27 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
