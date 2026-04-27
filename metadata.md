@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 145
 congress: 119
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 145
@@ -24,3 +24,6 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - 2026-03-25 — Introduced in Senate
 - 2026-03-25 — Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2026-04-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 394.
+- 2026-04-27 — Senate Committee on Banking, Housing, and Urban Affairs discharged, by petition, pursuant to 5 U.S.C. 802(c).
+- 2026-04-27 — Senate Committee on Banking, Housing, and Urban Affairs discharged, by petition, pursuant to 5 U.S.C. 802(c).
