@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6903
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -20,4 +20,8 @@ This Act may be cited as the “Ensuring Children Receive Support Act”.
   - **(2)** in paragraph (2)—
     - **(A)** by striking “may revoke, restrict, or limit” and inserting “revoke”; and
     - **(B)** by inserting “, and notify such individual of the intent to take such action” before the period.
-- **(b)** *Exception* Notwithstanding the amendments made by subsection (a), if an individual is abroad and needs to return to the United States on an emergency basis, the Department of State is authorized to issue a temporary passport for that purpose. That passport will be good only for the return home of the individuals and will be limited in duration.
+- **(b)** *Exception* Notwithstanding the amendments made by subsection (a), if an individual is abroad and needs to return to the United States on an emergency basis, the Department of State is authorized to issue a temporary passport for that purpose. That passport will be good only for the return to the United States of the individuals and will be limited in duration.
+
+## § 3. Effective date
+
+The amendments made by this Act shall take effect on October 1, 2026.

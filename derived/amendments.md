@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6903
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,13 +14,33 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+3 amendatory instructions. 2 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 42 U.S.C. § 652
+
+> in paragraph (1), by striking “, revocation, or limitation” and inserting “or revocation”; and
+
+| | |
+|---|---|
+| Removed | `, revocation, or limitation` |
+| Inserted | `or revocation` |
+
+### 42 U.S.C. § 652
+
+> by striking “may revoke, restrict, or limit” and inserting “revoke”; and
+
+| | |
+|---|---|
+| Removed | `may revoke, restrict, or limit` |
+| Inserted | `revoke` |
 
 ## Stated, not applied
 
@@ -31,6 +51,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | in paragraph (1), by striking “, revocation, or limitation” and inserting “or revocation”; and | the bill names no machine-readable US Code section |
-| — | replace | by striking “may revoke, restrict, or limit” and inserting “revoke”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “, and notify such individual of the intent to take such action” before the period. | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 652` | insert | by inserting “, and notify such individual of the intent to take such action” before the period. | the bill quotes the text inserted but describes where it goes |
