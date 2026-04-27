@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4690
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4690
@@ -26,10 +26,11 @@ Reliable Federal Infrastructure Act
 - Rep. Goldman, Craig A. [R-TX-12] (G000601)
 - Rep. Hudson, Richard [R-NC-9] (H001067)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Transportation and Infrastructure Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (2)
 
@@ -70,3 +71,4 @@ Reliable Federal Infrastructure Act
 - 2026-04-22 — Rule provides for consideration of H.R. 4690, H. Res. 1182, H.R. 1897 and H.R. 5587. The resolution provides for consideration of H.R. 4690, H. Res. 1182, H.R. 1897, and H.R. 5587 under a closed rule with one hour of general debate on each measure. The resolution provides for one motion to recommit on H.R. 4690, H.R. 1897, and H.R. 5587.
 - 2026-04-22 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2026-04-22 — The previous question was ordered pursuant to the rule.
+- 2026-04-27 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
