@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4930
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4930
@@ -25,9 +25,10 @@ To expand the sharing of information with respect to suspected violations of int
 - Rep. Carey, Mike [R-OH-15] (C001126)
 - Rep. Kustoff, David [R-TN-8] (K000392)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ To expand the sharing of information with respect to suspected violations of int
 - 2026-04-27 — Mr. Moore (UT) moved to suspend the rules and pass the bill, as amended.
 - 2026-04-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3098-3099)
 - 2026-04-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3098-3099)
+- 2026-04-28 — Received in the Senate and Read twice and referred to the Committee on Finance.
