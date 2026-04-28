@@ -1,7 +1,7 @@
 ---
 measure: H.R. 227
 congress: 119
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 227
@@ -68,3 +68,7 @@ Clergy Act
 - 2026-04-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 350 - 5 (Roll no. 139). (text: CR H3115-3116)
 - 2026-04-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 350 - 5 (Roll no. 139). (text: CR H3115-3116)
 - 2026-04-28 — Received in the Senate and Read twice and referred to the Committee on Finance.
+- 2026-09-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5298)
+- 2026-09-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2026-09-30 — Senate Committee on Finance discharged by Unanimous Consent.
+- 2026-09-30 — Senate Committee on Finance discharged by Unanimous Consent.
