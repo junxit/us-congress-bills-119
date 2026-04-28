@@ -1,0 +1,44 @@
+---
+legis-num: H.R. 8539
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8539
+
+> To amend title 54, United States Code, to ensure historically accurate exhibits at National Park Service sites, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Truth in National Parks Act”.
+
+## § 2. National Park Service interpretive programs
+
+- **(a)** *Interpretation and education evaluation and quality improvement* Section 100803 of title 54, United States Code, is amended—
+  - **(1)** in paragraph (3), by striking “; and” and inserting a semicolon;
+  - **(2)** in paragraph (4), by striking “analysis.” and inserting “analysis; and”; and
+  - **(3)** by adding at the end the following:
+    > - **(5)** are historically and culturally accurate.
+
+- **(b)** *Editing and removing information* Chapter 1008 of title 54, United States Code, is amended by adding at the end the following:
+  > ## § 100805. Removal or editing of interpretive or educational materials
+  >
+  > - **(a)** *Availability of materials*
+  >   - **(1)** *In general* Except as provided in paragraph (2), in carrying out this chapter, the Secretary shall not remove, obscure, edit, or otherwise alter interpretive or educational materials at a System unit if such interpretive or educational materials are—
+  >     - **(A)** historically and culturally accurate; and
+  >     - **(B)** consistent with the purposes and foundational documents of the System unit.
+  >   - **(2)** *Exception* The Secretary may take such steps as are necessary (including removing, obscuring, editing, or altering interpretive or educational materials) to—
+  >     - **(A)** update historically and culturally accurate information on public display at a System unit; or
+  >     - **(B)** accommodate new historically and culturally accurate public exhibits and displays at a System unit.
+  > - **(b)** *Consultation* In updating information or accommodating new public exhibits and displays under subsection (a)(2), the Secretary shall consult with relevant constituencies, including Indian Tribes when appropriate, to determine if removing, obscuring, editing, or otherwise altering interpretive or educational materials is appropriate.
+  > - **(c)** *Interpretive or educational materials defined* In this section, the term interpretive or educational materials means interpretation and education program materials on public display at a System unit, including—
+  >   - **(1)** signs, plaques, flags, and other exhibits; and
+  >   - **(2)** online materials related to such System unit.
+
+- **(c)** *Conforming amendment* The table of contents for chapter 1008 of title 54, United States Code, is amended by adding at the end the following:
+- **(d)** *Replacement of removed materials* Not later than 180 days after the date of the enactment of this Act, the Secretary of the Interior shall replace or restore, as applicable, at each unit of the National Park System, any historically and culturally accurate interpretive or educational materials removed, obscured, edited, or otherwise altered during the period beginning on January 20, 2025, and ending on the date of the enactment is this Act.
+
+## § 3. Co-stewardship agreement report
+
+Not later than one year after the date of the enactment of this Act, the Comptroller General shall submit to the Committee on Natural Resources of the House of Representatives and the Committees on Indian Affairs and Energy and Natural Resources of the Senate a report on the status of co-stewardship agreements between Indigenous communities (including Indian Tribes and Native Hawaiian Organizations) and Federal agencies, including recommendations on how to improve co-stewardship agreement processes to meet Federal trust obligations with respect to such Indigenous communities.
