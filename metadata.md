@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7959
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7959
@@ -24,9 +24,10 @@ IRS Whistleblower Program Improvement Act
 - Rep. Moran, Nathaniel [R-TX-1] (M001224)
 - Rep. Smith, Adrian [R-NE-3] (S001172)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Recorded votes (1)
 
@@ -50,3 +51,4 @@ IRS Whistleblower Program Improvement Act
 - 2026-04-27 — Mr. Smith (MO) moved to suspend the rules and pass the bill, as amended.
 - 2026-04-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 346 - 10 (Roll no. 138). (text: CR H3104)
 - 2026-04-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 346 - 10 (Roll no. 138). (text: CR H3104)
+- 2026-04-28 — Received in the Senate and Read twice and referred to the Committee on Finance.
