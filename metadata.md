@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6495
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6495
@@ -20,9 +20,10 @@ Taxpayer Notification and Privacy Act
 
 - Rep. Panetta, Jimmy [D-CA-19] (P000613)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Taxpayer Notification and Privacy Act
 - 2026-04-27 — Mr. Smith (MO) moved to suspend the rules and pass the bill, as amended.
 - 2026-04-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3106)
 - 2026-04-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3106)
+- 2026-04-28 — Received in the Senate and Read twice and referred to the Committee on Finance.
