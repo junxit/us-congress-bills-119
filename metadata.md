@@ -1,7 +1,7 @@
 ---
 measure: S. 2934
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2934
@@ -32,3 +32,5 @@ Protecting Americans from Russian Litigation Act of 2025
 - 2026-03-26 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
 - 2026-03-26 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
 - 2026-03-26 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 367.
+- 2026-04-28 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2073-2074; text: CR S2073-2074)
+- 2026-04-28 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.

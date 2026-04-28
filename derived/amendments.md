@@ -1,7 +1,7 @@
 ---
 measure: S. 2934
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
