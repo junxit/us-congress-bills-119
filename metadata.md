@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5366
 congress: 119
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5366
@@ -55,3 +55,10 @@ Doug LaMalfa Federal Disaster Tax Relief Certainty Act
 - 2026-04-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3107-3108)
 - 2026-04-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3107-3108)
 - 2026-04-28 — Received in the Senate and Read twice and referred to the Committee on Finance.
+- 2026-08-07 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4547)
+- 2026-08-07 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2026-08-07 — Senate Committee on Finance discharged by Unanimous Consent.
+- 2026-08-07 — Senate Committee on Finance discharged by Unanimous Consent.
+- 2026-08-10 — Message on Senate action sent to the House.
+- 2026-09-03 — Presented to President.
+- 2026-09-03 — Presented to President.
