@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6903
 congress: 119
-version: Reported in House
+version: Referred in Senate
 derived: true
 ---
 

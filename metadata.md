@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6903
 congress: 119
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 6903
@@ -20,10 +20,11 @@ Ensuring Children Receive Support Act
 
 - Rep. Panetta, Jimmy [D-CA-19] (P000613)
 
-## Committees (2)
+## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Ensuring Children Receive Support Act
 - 2026-04-27 — Placed on the Union Calendar, Calendar No. 541.
 - 2026-04-27 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-624, Part I.
 - 2026-04-27 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-624, Part I.
+- 2026-04-28 — Received in the Senate and Read twice and referred to the Committee on Finance.
