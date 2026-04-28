@@ -1,0 +1,16 @@
+---
+legis-num: S. 4410
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4410
+
+> To amend the Mineral Leasing Act to provide for the payment of bonus payments of certain coal leases issued under that Act.
+
+## § 1. Bonus payments for certain coal leases issued under Mineral Leasing Act
+
+Section 2(a) of the Mineral Leasing Act (30 U.S.C. 201(a)) is amended by adding at the end the following:
+
+> - **(6)** The bonus payments for a lease issued under this subsection under a system of deferred bonus payment shall be payable in 10 equal annual installments, the first of which shall be submitted with the bid for such lease.
