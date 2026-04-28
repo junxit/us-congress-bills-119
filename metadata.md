@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5587
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5587
@@ -21,9 +21,10 @@ HEATS Act
 - Rep. Gray, Adam [D-CA-13] (G000605)
 - Rep. Begich, Nicholas J. [R-AK-At Large] (B001323)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -55,3 +56,4 @@ HEATS Act
 - 2026-04-23 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 231 - 186 (Roll no. 137). (text: CR H3073)
 - 2026-04-23 — Rule provides for consideration of H.R. 4690, H. Res. 1182, H.R. 1897 and H.R. 5587. The resolution provides for consideration of H.R. 4690, H. Res. 1182, H.R. 1897, and H.R. 5587 under a closed rule with one hour of general debate on each measure. The resolution provides for one motion to recommit on H.R. 4690, H.R. 1897, and H.R. 5587.
 - 2026-04-23 — The previous question was ordered pursuant to the rule.
+- 2026-04-28 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
