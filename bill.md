@@ -2,7 +2,7 @@
 legis-num: H.R. 6956
 congress: 119th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 6956
@@ -31,4 +31,4 @@ This Act may be cited as the “Barcode Automation for Revenue Collection to Org
 - **(d)** *Effective date* This section shall apply to—
   - **(1)** any individual income tax return (as defined in section 6011(e)(3)(C) of the Internal Revenue Code of 1986) received on or after January 1 of the first calendar year beginning more than 180 days after the date of enactment of this Act,
   - **(2)** any estate tax return (as described in section 6018 of such Code) or gift tax return (as described in section 6019 of such Code) received on or after January 1 of the first calendar year beginning more than 24 months after the date of enactment of this Act, and
-  - **(3)** any other return or correspondence received on or after January 1 of the first calendar year beginning more than 18 months after the date of enactment of this Act.
+  - **(3)** any other return or correspondence received on or after January 1 of the first calendar year be-ginning more than 18 months after the date of enactment of this Act.
