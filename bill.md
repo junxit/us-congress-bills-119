@@ -23,7 +23,7 @@ This Act may be cited as the “Maverick Act”.
   - **(2)** a condition that the Secretary shall provide any maintenance and operations manuals that—
     - **(A)** are specific to the F–14D aircraft; and
     - **(B)** the Secretary has sufficient intellectual property rights to convey;
-  - **(3)** a condition that the Secretary shall provide excess spare parts to make one of the F–14D aircraft flyable or able to complete a static display, provided that any part transferred is from existing Navy stock, with no items being procured on behalf of the Commission; and
+  - **(3)** a condition that the Secretary may provide excess spare parts to make one of the F–14D aircraft flyable or able to complete a static display, provided that any part transferred from existing Navy stock is replenished at fair market value by the Commission, with no items being procured by the Secretary on behalf of the Commission; and
   - **(4)** a condition that the Secretary will not be responsible for transferring any additional parts or providing any additional support beyond what is stated in this section, during or after the conveyance of the aircraft.
 - **(e)** *Agreements for restoration and operation* The Secretary may—
   - **(1)** authorize the Commission to enter into agreements with qualified nonprofit organizations for the purpose of restoring and operating the aircraft transferred under subsection (a) for public display, airshows, and commemorative events to preserve naval aviation heritage; and
