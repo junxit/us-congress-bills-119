@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 161
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -24,17 +24,31 @@ Paragraph (4) of section 111(a) of the Clean Air Act (42 U.S.C. 7411(a)) is amen
   >   - **(i)** to reduce the amount of any air pollutant emitted by the source per unit of production; or
   >   - **(ii)** to restore, maintain, or improve the reliability of operations at, or the safety of, the source,
 
-## § 3. Clarification of definition of construction for prevention of significant deterioration
+## § 3. Clarification of definition of construction and applicability of preconstruction requirements for prevention of significant deterioration
 
-Subparagraph (C) of section 169(2) of the Clean Air Act (42 U.S.C. 7479(2)) is amended to read as follows:
+- **(a)** *Applicability to construction activities* Section 165 of the Clean Air Act (42 U.S.C. 7475) is amended by adding at the end the following:
+  > - **(f)** *Applicability to construction*
+  >   - **(1)** *In general* The requirements of subsection (a) that apply with respect to authorizing construction of a major emitting facility shall apply only with respect to construction that involves physical construction of the discrete parts of an emissions unit at a major emitting facility, regardless of whether the construction involves other physical on-site activities at the major emitting facility, including any such other physical on-site activity that—
+  >     - **(A)** may be costly;
+  >     - **(B)** may significantly alter the site;
+  >     - **(C)** is permanent in nature; or
+  >     - **(D)** is to accommodate an installation to an emissions unit.
+  >   - **(2)** *Definition of emissions unit* In this subsection, the term “emissions unit” means any part of a stationary source that emits, or has the potential to emit, any air pollutant that is regulated under this title.
 
-> - **(C)** The term construction, when used in connection with a major emitting facility, includes a modification (as defined in section 111(a)) at such facility, except that for purposes of this subparagraph a modification does not include a change at a major emitting facility that does not result in a significant emissions increase, or a significant net emissions increase, in annual actual emissions at such facility.
+- **(b)** *Definition* Subparagraph (C) of section 169(2) of the Clean Air Act (42 U.S.C. 7479(2)) is amended to read as follows:
+  > - **(C)** The term construction, when used in connection with a major emitting facility, includes a modification (as defined in section 111(a)) at such facility, except that for purposes of this subparagraph a modification does not include a change at a major emitting facility that does not result in a significant emissions increase, or a significant net emissions increase, in annual actual emissions at such facility.
 
-## § 4. Clarification of definition of modifications and modified for nonattainment areas
+## § 4. Clarification of definition of modifications and modified and applicability to construction for nonattainment areas
 
-Paragraph (4) of section 171 of the Clean Air Act (42 U.S.C. 7501) is amended to read as follows:
+- **(a)** *Definition* Paragraph (4) of section 171 of the Clean Air Act (42 U.S.C. 7501) is amended to read as follows:
+  > - **(4)** The terms modifications and modified mean a modification as defined in section 111(a)(4), except that such terms do not include a change at a major emitting facility that does not result in a significant emissions increase, or a significant net emissions increase, in annual actual emissions at such facility.
 
-> - **(4)** The terms modifications and modified mean a modification as defined in section 111(a)(4), except that such terms do not include a change at a major emitting facility that does not result in a significant emissions increase, or a significant net emissions increase, in annual actual emissions at such facility.
+- **(b)** *Applicability to construction* Section 172(c)(5) of the Clean Air Act (42 U.S.C. 7502(c)(5)) is amended by adding at the end the following:
+  > The construction for which a permit is required under this paragraph is construction that involves physical construction of the discrete parts of an emissions unit (as defined in section 165(f)(2)) at a major stationary source, regardless of whether the construction involves other physical on-site activities at the major stationary source, including any such other physical on-site activity that—
+  > - **(A)** may be costly;
+  > - **(B)** may significantly alter the site;
+  > - **(C)** is permanent in nature; or
+  > - **(D)** is to accommodate an installation to an emissions unit.
 
 ## § 5. Rule of construction
 
