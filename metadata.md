@@ -1,7 +1,7 @@
 ---
 measure: S. 2280
 congress: 119
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 2280
@@ -28,3 +28,7 @@ A bill to transfer administrative jurisdiction over certain parcels of Federal l
 
 - 2025-07-15 — Introduced in Senate
 - 2025-07-15 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2026-04-29 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2100; text: CR S2100)
+- 2026-04-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2026-04-29 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
+- 2026-04-29 — Senate Committee on Homeland Security and Governmental Affairs discharged by Unanimous Consent.
