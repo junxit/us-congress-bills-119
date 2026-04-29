@@ -1,7 +1,7 @@
 ---
 measure: S. 1318
 congress: 119
-version: Engrossed in Senate
+version: Engrossed Amendment House
 ---
 
 # S. 1318
@@ -43,6 +43,10 @@ Fallen Servicemembers Religious Heritage Restoration Act
 
 - Senate — Veterans' Affairs Committee
 
+## Recorded votes (1)
+
+- 2026-04-29 — [House 119-2-142](votes/house-119-2-0142.md) — On Passage — **Passed** (235–191)
+
 ## Actions
 
 - 2025-04-07 — Introduced in Senate
@@ -57,3 +61,16 @@ Fallen Servicemembers Religious Heritage Restoration Act
 - 2025-11-20 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S8399; text: CR S8399)
 - 2025-11-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
 - 2025-11-20 — Received in the House.
+- 2026-04-29 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2026-04-29 — Considered under the provisions of rule H. Res. 1224. (consideration: CR H3160-3168)
+- 2026-04-29 — DEBATE - The House proceeded with one hour of debate on S. 1318.
+- 2026-04-29 — House amendment considered as adopted: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2026-04-29 — House amendment offered/reported by: Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2026-04-29 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2026-04-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-04-29 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2026-04-29 — On passage Passed by the Yeas and Nays: 235 - 191 (Roll no. 142). (text of amendment in the nature of a substitute: CR H3160-3161)
+- 2026-04-29 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 235 - 191 (Roll no. 142). (text of amendment in the nature of a substitute: CR H3160-3161)
+- 2026-04-29 — Rule provides for consideration of H.R. 7567, H.R. 2616, S. Con. Res. 33, S. 1318 and H.R. 1346. The resolution provides for consideration of H.R. 7567 under a structured rule and H.R. 2616, S. Con. Res. 33, S. 1318, and H.R. 1346 under a closed rule, with one hour of general debate on each measure. The resolution provides for one motion to recommit on H.R. 7567, H.R. 2616, and H.R. 1346, and one motion to commit on S. 1318.
+- 2026-04-29 — Rules Committee Resolution H. Res. 1224 Reported to House. Rule provides for consideration of H.R. 7567, H.R. 2616, S. Con. Res. 33, S. 1318 and H.R. 1346. The resolution provides for consideration of H.R. 7567 under a structured rule and H.R. 2616, S. Con. Res. 33, S. 1318, and H.R. 1346 under a closed rule, with one hour of general debate on each measure. The resolution provides for one motion to recommit on H.R. 7567, H.R. 2616, and H.R. 1346, and one motion to commit on S. 1318.
+- 2026-04-29 — The previous question was ordered pursuant to the rule.
