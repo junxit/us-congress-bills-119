@@ -1,7 +1,7 @@
 ---
 measure: S. 2975
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2975
@@ -34,3 +34,5 @@ PIPELINE Safety Act of 2025
 - 2026-02-11 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-102.
 - 2026-02-11 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-102.
 - 2026-02-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 331.
+- 2026-04-29 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S2109-2121; text of amendment in the nature of a substitute: CR S2109-2121)
+- 2026-04-29 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
