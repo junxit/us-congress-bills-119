@@ -1,7 +1,7 @@
 ---
 measure: S. 1199
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1199
@@ -28,3 +28,22 @@ SBA Fraud Enforcement Extension Act
 - 2025-07-30 — Committee on Small Business and Entrepreneurship. Reported by Senator Ernst with an amendment in the nature of a substitute. Without written report.
 - 2025-07-30 — Committee on Small Business and Entrepreneurship. Reported by Senator Ernst with an amendment in the nature of a substitute. Without written report.
 - 2025-07-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 134.
+- 2025-12-10 — Committee on Small Business and Entrepreneurship. Hearings held.
+- 2026-02-25 — Committee on Small Business and Entrepreneurship. Hearings held.
+- 2026-03-18 — Committee on Small Business and Entrepreneurship. Hearings held.
+- 2026-04-29 — 
+- 2026-04-29 — 
+- 2026-04-29 — Amendment SA 5440 agreed to in Senate by Unanimous Consent.
+- 2026-04-29 — Amendment SA 5440 proposed by Senator Ernst. (consideration: CR S2107-2108)
+- 2026-04-29 — Amendment SA 5441 agreed to in Senate by Unanimous Consent.
+- 2026-04-29 — Amendment SA 5441 proposed by Senator Ernst for Senator Markey to Amendment SA 5440. (consideration: CR S2107-2108)
+- 2026-04-29 — Measure laid before Senate by unanimous consent. (consideration: CR S2107-2108)
+- 2026-04-29 — Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S2108)
+- 2026-04-29 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2026-04-29 — Senate amendment agreed to: Amendment SA 5440 agreed to in Senate by Unanimous Consent.
+- 2026-04-29 — Senate amendment agreed to: Amendment SA 5441 agreed to in Senate by Unanimous Consent.
+- 2026-04-29 — Senate amendment proposed (on the floor): Amendment SA 5440 proposed by Senator Ernst.
+- 2026-04-29 — Senate amendment proposed (on the floor): Amendment SA 5441 proposed by Senator Ernst for Senator Markey to Amendment SA 5440.
+- 2026-04-29 — Senate amendment submitted
+- 2026-04-29 — Senate amendment submitted
+- 2026-04-29 — The committee substitute withdrawn by Unanimous Consent.
