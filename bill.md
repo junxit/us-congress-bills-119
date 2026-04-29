@@ -1,7 +1,7 @@
 ---
 legis-num: S. 874
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -39,9 +39,7 @@ Section 4701 of title 10, United States Code, is amended—
     > - **(E)** Propose appropriate disciplinary action against any executive branch official for any request made of a contractor, subcontractor, grantee, or subgrantee that subjected the complainant to a reprisal prohibited by subsection (a).
 
   - **(B)** by striking paragraph (7) and inserting the following paragraph:
-    > - **(7)** *Clarification for scope of waiver restrictions*
-    >   - **(A)** The rights, forum, and remedies provided for in this section may not be waived by any public or private agreement, policy, form, or condition of employment, including by any predispute arbitration agreement.
-    >   - **(B)** No provision of the predispute arbitration agreement shall be valid or enforceable if it requires arbitration of a dispute arising under this section.
+    > - **(7)** *Clarification for scope of waiver restrictions* The rights, forum, and remedies provided for in this section may not be waived by any public or private agreement, policy, form, or condition of employment, including by any predispute arbitration agreement.
 
 - **(3)** by striking subsection (e) and redesignating subsections (f) and (g) as subsections (e) and (f), respectively;
 - **(4)** in subsection (e), as so redesignated—
@@ -84,9 +82,7 @@ Section 4712 of title 41, United States Code, is amended—
     > - **(E)** Propose appropriate disciplinary action against any executive branch official for any request made of a contractor, subcontractor, grantee, or subgrantee that subjected the complainant to a reprisal prohibited by subsection (a).
 
   - **(B)** by striking paragraph (7) and inserting the following paragraph:
-    > - **(7)** *Rights, forum, and remedies not waivable*
-    >   - **(A)** *In general* The rights, forum, and remedies provided for in this section may not be waived by any public or private agreement, policy, form, or condition of employment, including by any predispute arbitration agreement.
-    >   - **(B)** *Validity* No provision of the predispute arbitration agreement shall be valid or enforceable if it requires arbitration of a dispute arising under this section.
+    > - **(7)** *Rights, forum, and remedies not waivable* The rights, forum, and remedies provided for in this section may not be waived by any public or private agreement, policy, form, or condition of employment, including by any predispute arbitration agreement.
 
 - **(3)** in subsection (e)—
   - **(A)** by striking “an employee” and inserting “a protected individual”; and

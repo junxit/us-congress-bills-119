@@ -1,7 +1,7 @@
 ---
 measure: S. 874
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 874
@@ -32,3 +32,5 @@ Expanding Whistleblower Protections for Contractors Act of 2025
 - 2025-12-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Paul with an amendment in the nature of a substitute. Without written report.
 - 2025-12-09 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Paul with an amendment in the nature of a substitute. Without written report.
 - 2025-12-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 289.
+- 2026-04-29 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S2100-2102; text: CR S2100-2101)
+- 2026-04-29 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
