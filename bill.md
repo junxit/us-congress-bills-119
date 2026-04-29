@@ -1,0 +1,31 @@
+---
+legis-num: H. RES. 1233
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 1233
+
+> Expressing support for the recognition of April as National Foster Sibling Connections Month.
+
+## Preamble
+
+- Whereas sibling relationships are among the most important bonds in human development, contributing to children’s emotional stability and long-term well-being;
+- Whereas for children who experience abuse, neglect, or instability, sibling relationships often serve as their most consistent source of support and belonging;
+- Whereas, when children enter foster care, the preservation of sibling relationships is critical to maintaining permanency, reducing trauma, and driving successful outcomes;
+- Whereas it is estimated that approximately 53 to 80 percent of children in foster care are separated from at least 1 sibling;
+- Whereas research demonstrates that sibling separation in foster care is associated with increased placement instability, behavioral challenges, and adverse mental health outcomes;
+- Whereas current child welfare data systems often fail to accurately track sibling separations, particularly in cases involving adoption, resulting in a systemic undercounting of the scope and impact of this issue;
+- Whereas this data gap limits the ability of policymakers, practitioners, and advocates to understand and address the harms caused by sibling separation fully;
+- Whereas it is within the national and moral interest of the United States to make progress in ensuring that no child is separated from their siblings;
+- Whereas advocates across the United States are working to advance policies and practices that prioritize sibling placement, visitation, and lifelong connection; and
+- Whereas increased awareness of sibling separation in foster care would elevate the voices of foster care alumni and promote policies that prioritize maintaining and restoring sibling relationships: Now, therefore, be it
+
+That the House of Representatives—
+
+- **(1)** expresses support for the recognition of National Foster Sibling Connections Month;
+- **(2)** acknowledges the critical importance of sibling relationships for children and youth in foster care;
+- **(3)** encourages Federal, State, Tribal, and local agencies to prioritize policies and practices that promote sibling placement and lifelong connection;
+- **(4)** supports efforts to improve data collection and transparency regarding sibling relationships and separations in foster care; and
+- **(5)** calls upon policymakers, child welfare professionals, advocates, and the public to raise awareness of and address the needs of siblings impacted by foster care.
