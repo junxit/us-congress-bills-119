@@ -1,7 +1,7 @@
 ---
 measure: S. 4465
 congress: 119
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 4465
