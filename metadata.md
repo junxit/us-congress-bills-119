@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 182
 congress: 119
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 182
@@ -16,7 +16,7 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Sen. Kaine, Tim [D-VA] (K000384)
 
-## Cosponsors (26)
+## Cosponsors (32)
 
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
 - Sen. Booker, Cory A. [D-NJ] (B001288)
@@ -44,6 +44,12 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - Sen. Wyden, Ron [D-OR] (W000779)
 - Sen. Schumer, Charles E. [D-NY] (S000148)
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Baldwin, Tammy [D-WI] (B001230)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
 
 ## Committees (1)
 
@@ -53,3 +59,6 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - 2026-04-13 — Introduced in Senate
 - 2026-04-13 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2026-04-30 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 402.
+- 2026-04-30 — Senate Committee on Health, Education, Labor, and Pensions discharged, by petition, pursuant to 5 U.S.C. 802(c).
+- 2026-04-30 — Senate Committee on Health, Education, Labor, and Pensions discharged, by petition, pursuant to 5 U.S.C. 802(c).
