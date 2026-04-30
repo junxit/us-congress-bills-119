@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7567
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7567
@@ -20,6 +20,20 @@ Farm, Food, and National Security Act of 2026
 
 - House — Agriculture Committee
 
+## Recorded votes (11)
+
+- 2026-04-30 — [House 119-2-144](votes/house-119-2-0144.md) — On Agreeing to the Amendment — **Failed** (210–216)
+- 2026-04-30 — [House 119-2-145](votes/house-119-2-0145.md) — On Agreeing to the Amendment — **Agreed to** (384–35)
+- 2026-04-30 — [House 119-2-146](votes/house-119-2-0146.md) — On Agreeing to the Amendment — **Agreed to** (416–8)
+- 2026-04-30 — [House 119-2-147](votes/house-119-2-0147.md) — On Agreeing to the Amendment — **Failed** (69–355)
+- 2026-04-30 — [House 119-2-148](votes/house-119-2-0148.md) — On Agreeing to the Amendment — **Agreed to** (280–142)
+- 2026-04-30 — [House 119-2-149](votes/house-119-2-0149.md) — On Agreeing to the Amendment — **Failed** (187–239)
+- 2026-04-30 — [House 119-2-150](votes/house-119-2-0150.md) — On Agreeing to the Amendment, as Modified — **Agreed to** (233–194)
+- 2026-04-30 — [House 119-2-151](votes/house-119-2-0151.md) — On Agreeing to the Amendment — **Failed** (186–238)
+- 2026-04-30 — [House 119-2-152](votes/house-119-2-0152.md) — On Agreeing to the Amendment — **Agreed to** (215–213)
+- 2026-04-30 — [House 119-2-153](votes/house-119-2-0153.md) — On Motion to Recommit — **Failed** (211–214)
+- 2026-04-30 — [House 119-2-154](votes/house-119-2-0154.md) — On Passage — **Passed** (224–200)
+
 ## Actions
 
 - 2026-02-13 — Introduced in House
@@ -30,3 +44,207 @@ Farm, Food, and National Security Act of 2026
 - 2026-04-21 — Placed on the Union Calendar, Calendar No. 537.
 - 2026-04-21 — Reported (Amended) by the Committee on Agriculture. H. Rept. 119-620.
 - 2026-04-21 — Reported (Amended) by the Committee on Agriculture. H. Rept. 119-620.
+- 2026-04-29 — Amendment (A002) offered by Mr. Baumgartner. (consideration: CR H3268-3269; text: CR H3268)
+- 2026-04-29 — Amendment (A003) offered by Mr. Bentz. (consideration: CR H3269-3270; consideration: CR H3269)
+- 2026-04-29 — Amendments en bloc (A001) offered by Mr. Thompson (PA). (consideration: CR H3259-3268; text: CR H3259-3267)
+- 2026-04-29 — Considered under the provisions of rule H. Res. 1224. (consideration: CR H3169-3290; text of amendment in the nature of a substitute: CR H3176-3259)
+- 2026-04-29 — DEBATE - Pursuant to the provisions of H. Res. 1224, the Committee of the Whole proceeded with 10 minutes of debate on the Baumgartner amendment No. 1.
+- 2026-04-29 — DEBATE - Pursuant to the provisions of H. Res. 1224, the Committee of the Whole proceeded with 10 minutes of debate on the Bentz amendment No. 2.
+- 2026-04-29 — DEBATE - Pursuant to the provisions of H. Res. 1224, the Committee of the Whole proceeded with 20 minutes of debate on the Thompson (PA) amendment en bloc No. 1.
+- 2026-04-29 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 7567.
+- 2026-04-29 — House Amendment Offered
+- 2026-04-29 — House Amendment Offered
+- 2026-04-29 — House Amendment Offered
+- 2026-04-29 — House amendment agreed to: On agreeing to the Baumgartner amendment (A002) Agreed to by voice vote.
+- 2026-04-29 — House amendment agreed to: On agreeing to the Thompson (PA) amendments (A001) Agreed to by voice vote.
+- 2026-04-29 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 1224 and Rule XVIII.
+- 2026-04-29 — On agreeing to the Baumgartner amendment (A002) Agreed to by voice vote.
+- 2026-04-29 — On agreeing to the Thompson (PA) amendments (A001) Agreed to by voice vote.
+- 2026-04-29 — Rule provides for consideration of H.R. 7567, H.R. 2616, S. Con. Res. 33, S. 1318 and H.R. 1346. The resolution provides for consideration of H.R. 7567 under a structured rule and H.R. 2616, S. Con. Res. 33, S. 1318, and H.R. 1346 under a closed rule, with one hour of general debate on each measure. The resolution provides for one motion to recommit on H.R. 7567, H.R. 2616, and H.R. 1346, and one motion to commit on S. 1318.
+- 2026-04-29 — Rules Committee Resolution H. Res. 1224 Reported to House. Rule provides for consideration of H.R. 7567, H.R. 2616, S. Con. Res. 33, S. 1318 and H.R. 1346. The resolution provides for consideration of H.R. 7567 under a structured rule and H.R. 2616, S. Con. Res. 33, S. 1318, and H.R. 1346 under a closed rule, with one hour of general debate on each measure. The resolution provides for one motion to recommit on H.R. 7567, H.R. 2616, and H.R. 1346, and one motion to commit on S. 1318.
+- 2026-04-29 — The Speaker designated the Honorable Michael K. Simpson to act as Chairman of the Committee.
+- 2026-04-30 — 
+- 2026-04-30 — 
+- 2026-04-30 — 
+- 2026-04-30 — 
+- 2026-04-30 — 
+- 2026-04-30 — 
+- 2026-04-30 — 
+- 2026-04-30 — 
+- 2026-04-30 — 
+- 2026-04-30 — Amendment (A004) offered by Ms. Brown. (consideration: CR H3270; text: CR H3270)
+- 2026-04-30 — Amendment (A005) offered by Mr. Carbajal. (consideration: CR H3270-3271; text: CR H3271)
+- 2026-04-30 — Amendment (A006) offered by Mrs. Hayes. (consideration: CR H3271-3272; text: CR H3271-3272)
+- 2026-04-30 — Amendment (A007) offered by Mr. Crawford. (consideration: CR H3272; text: CR H3272)
+- 2026-04-30 — Amendment (A008) offered by Mr. Crawford. (consideration: CR H3272-3273; text: CR H3272)
+- 2026-04-30 — Amendment (A009) offered by Ms. Perez. (consideration: CR H3273-3274; text: CR H3273)
+- 2026-04-30 — Amendment (A010) offered by Mr. Gosar. (consideration: CR H3274-3275; text: CR H3274-3275)
+- 2026-04-30 — Amendment (A011) offered by Mr. Gosar. (consideration: CR H3275-3276; text: CR H3275)
+- 2026-04-30 — Amendment (A012) offered by Mr. Gosar. (consideration: CR H3276-3277; text: CR H3276)
+- 2026-04-30 — Amendment (A013) offered by Mr. Grothman. (consideration: CR H3277-3278; consideration: CR H3277)
+- 2026-04-30 — Amendment (A014) offered by Mr. Grothman. (consideration: CR H3278-3279; text: CR H3278)
+- 2026-04-30 — Amendment (A015) offered by Mr. Grothman. (consideration: CR H3279-3280; text: CR H3279)
+- 2026-04-30 — Amendment (A016) offered by Ms. Craig. (consideration: CR H3280; text: CR H3280)
+- 2026-04-30 — Amendment (A017) offered by Mr. Latta. (consideration: CR H3280; text: CR H3280)
+- 2026-04-30 — Amendment (A018) offered by Mrs. Luna. (consideration: CR H3280-3282; text: CR H3280)
+- 2026-04-30 — Amendment (A019) offered by Ms. Mace. (consideration: CR H3282-3283; text: CR H3282)
+- 2026-04-30 — Amendment (A020) offered by Ms. Mace. (consideration: CR H3283-3284; text: CR H3283)
+- 2026-04-30 — Amendment (A021) offered by Ms. Mace. (consideration: CR H3284-3285; text: CR H3284-3285)
+- 2026-04-30 — Amendment (A022) offered by Mr. Moore (WV). (consideration: CR H3285-3286; text: CR H3285)
+- 2026-04-30 — Amendment (A023) offered by Ms. Scholten. (consideration: CR H3286-3287; text: CR H3286-3287)
+- 2026-04-30 — Amendment (A024) offered by Ms. Scholten. (consideration: CR H3287-3288; text: CR H3287)
+- 2026-04-30 — Amendment (A025) offered by Mr. Moylan. (consideration: CR H3288; text: CR H3288)
+- 2026-04-30 — Amendment (A026) offered by Ms. Scholten. (consideration: CR H3288-3289; text: CR H3288)
+- 2026-04-30 — Amendment (A027) offered by Ms. Schrier. (consideration: CR H3289; text: CR H3289)
+- 2026-04-30 — Amendment (A028) offered by Mr. Self. (consideration: CR H3289-3290; text: CR H3289)
+- 2026-04-30 — Amendment (A029) offered by Mrs. Spartz. (consideration: CR H3299-3300; text: CR H3299)
+- 2026-04-30 — Amendment (A030) offered by Mr. Steube. (consideration: CR H3300-3302; text: CR H3300-3301)
+- 2026-04-30 — Amendment (A031) offered by Mr. Steube. (consideration: CR H3302-3303; text: CR H3302)
+- 2026-04-30 — Committee of the Whole House on the state of the Union rises leaving H.R. 7567 as unfinished business.
+- 2026-04-30 — Considered as unfinished business. (consideration: CR H3299-3311)
+- 2026-04-30 — DEBATE - Pursuant to the provisions of H. Res. 1224, the Committee of the Whole proceeded with 10 minutes of debate on the Brown amendment No. 3.
+- 2026-04-30 — DEBATE - Pursuant to the provisions of H. Res. 1224, the Committee of the Whole proceeded with 10 minutes of debate on the Carbajal amendment No. 4.
+- 2026-04-30 — DEBATE - Pursuant to the provisions of H. Res. 1224, the Committee of the Whole proceeded with 10 minutes of debate on the Craig amendment No. 24.
+- 2026-04-30 — DEBATE - Pursuant to the provisions of H. Res. 1224, the Committee of the Whole proceeded with 10 minutes of debate on the Crawford amendment No. 7.
+- 2026-04-30 — DEBATE - Pursuant to the provisions of H. Res. 1224, the Committee of the Whole proceeded with 10 minutes of debate on the Crawford amendment No. 8.
+- 2026-04-30 — DEBATE - Pursuant to the provisions of H. Res. 1224, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment No. 15.
+- 2026-04-30 — DEBATE - Pursuant to the provisions of H. Res. 1224, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment No. 16.
+- 2026-04-30 — DEBATE - Pursuant to the provisions of H. Res. 1224, the Committee of the Whole proceeded with 10 minutes of debate on the Gosar amendment No. 18.
+- 2026-04-30 — DEBATE - Pursuant to the provisions of H. Res. 1224, the Committee of the Whole proceeded with 10 minutes of debate on the Grothman amendment No. 20.
+- 2026-04-30 — DEBATE - Pursuant to the provisions of H. Res. 1224, the Committee of the Whole proceeded with 10 minutes of debate on the Grothman amendment No. 21.
+- 2026-04-30 — DEBATE - Pursuant to the provisions of H. Res. 1224, the Committee of the Whole proceeded with 10 minutes of debate on the Grothman amendment No. 22.
+- 2026-04-30 — DEBATE - Pursuant to the provisions of H. Res. 1224, the Committee of the Whole proceeded with 10 minutes of debate on the Hayes amendment No. 5.
+- 2026-04-30 — DEBATE - Pursuant to the provisions of H. Res. 1224, the Committee of the Whole proceeded with 10 minutes of debate on the Latta amendment No. 26.
+- 2026-04-30 — DEBATE - Pursuant to the provisions of H. Res. 1224, the Committee of the Whole proceeded with 10 minutes of debate on the Luna amendment No. 28.
+- 2026-04-30 — DEBATE - Pursuant to the provisions of H. Res. 1224, the Committee of the Whole proceeded with 10 minutes of debate on the Mace amendment No. 29.
+- 2026-04-30 — DEBATE - Pursuant to the provisions of H. Res. 1224, the Committee of the Whole proceeded with 10 minutes of debate on the Mace amendment No. 30.
+- 2026-04-30 — DEBATE - Pursuant to the provisions of H. Res. 1224, the Committee of the Whole proceeded with 10 minutes of debate on the Mace amendment No. 31.
+- 2026-04-30 — DEBATE - Pursuant to the provisions of H. Res. 1224, the Committee of the Whole proceeded with 10 minutes of debate on the Moore (WV) amendment No. 36.
+- 2026-04-30 — DEBATE - Pursuant to the provisions of H. Res. 1224, the Committee of the Whole proceeded with 10 minutes of debate on the Moylan amendment No. 42.
+- 2026-04-30 — DEBATE - Pursuant to the provisions of H. Res. 1224, the Committee of the Whole proceeded with 10 minutes of debate on the Perez amendment No. 14.
+- 2026-04-30 — DEBATE - Pursuant to the provisions of H. Res. 1224, the Committee of the Whole proceeded with 10 minutes of debate on the Scholten amendment No. 38.
+- 2026-04-30 — DEBATE - Pursuant to the provisions of H. Res. 1224, the Committee of the Whole proceeded with 10 minutes of debate on the Scholten amendment No. 39.
+- 2026-04-30 — DEBATE - Pursuant to the provisions of H. Res. 1224, the Committee of the Whole proceeded with 10 minutes of debate on the Scholten amendment No. 45.
+- 2026-04-30 — DEBATE - Pursuant to the provisions of H. Res. 1224, the Committee of the Whole proceeded with 10 minutes of debate on the Schrier amendment No. 46.
+- 2026-04-30 — DEBATE - Pursuant to the provisions of H. Res. 1224, the Committee of the Whole proceeded with 10 minutes of debate on the Self amendment No. 47.
+- 2026-04-30 — DEBATE - Pursuant to the provisions of H.Res. 1224, the Committee of the Whole proceeded with 10 minutes of debate on the Spartz amendment No. 49.
+- 2026-04-30 — DEBATE - Pursuant to the provisions of H.Res. 1224, the Committee of the Whole proceeded with 10 minutes of debate on the Steube amendment No. 50.
+- 2026-04-30 — DEBATE - Pursuant to the provisions of H.Res. 1224, the Committee of the Whole proceeded with 10 minutes of debate on the Steube amendment No. 51.
+- 2026-04-30 — House Amendment Offered
+- 2026-04-30 — House Amendment Offered
+- 2026-04-30 — House Amendment Offered
+- 2026-04-30 — House Amendment Offered
+- 2026-04-30 — House Amendment Offered
+- 2026-04-30 — House Amendment Offered
+- 2026-04-30 — House Amendment Offered
+- 2026-04-30 — House Amendment Offered
+- 2026-04-30 — House Amendment Offered
+- 2026-04-30 — House Amendment Offered
+- 2026-04-30 — House Amendment Offered
+- 2026-04-30 — House Amendment Offered
+- 2026-04-30 — House Amendment Offered
+- 2026-04-30 — House Amendment Offered
+- 2026-04-30 — House Amendment Offered
+- 2026-04-30 — House Amendment Offered
+- 2026-04-30 — House Amendment Offered
+- 2026-04-30 — House Amendment Offered
+- 2026-04-30 — House Amendment Offered
+- 2026-04-30 — House Amendment Offered
+- 2026-04-30 — House Amendment Offered
+- 2026-04-30 — House Amendment Offered
+- 2026-04-30 — House Amendment Offered
+- 2026-04-30 — House Amendment Offered
+- 2026-04-30 — House Amendment Offered
+- 2026-04-30 — House Amendment Offered
+- 2026-04-30 — House Amendment Offered
+- 2026-04-30 — House Amendment Offered
+- 2026-04-30 — House amendment agreed to: On agreeing to the Brown amendment (A004) Agreed to by voice vote.
+- 2026-04-30 — House amendment agreed to: On agreeing to the Carbajal amendment (A005) Agreed to by voice vote.
+- 2026-04-30 — House amendment agreed to: On agreeing to the Craig amendment (A016) Agreed to by voice vote.
+- 2026-04-30 — House amendment agreed to: On agreeing to the Crawford amendment (A007) Agreed to by voice vote.
+- 2026-04-30 — House amendment agreed to: On agreeing to the Crawford amendment (A008) Agreed to by recorded vote: 384 - 35 (Roll no. 145).
+- 2026-04-30 — House amendment agreed to: On agreeing to the Gosar amendment (A010) Agreed to by voice vote.
+- 2026-04-30 — House amendment agreed to: On agreeing to the Gosar amendment (A011) Agreed to by voice vote.
+- 2026-04-30 — House amendment agreed to: On agreeing to the Gosar amendment (A012) Agreed to by voice vote.
+- 2026-04-30 — House amendment agreed to: On agreeing to the Grothman amendment (A013) Agreed to by recorded vote: 416 - 8 (Roll no. 146).
+- 2026-04-30 — House amendment agreed to: On agreeing to the Grothman amendment (A014) Agreed to by voice vote.
+- 2026-04-30 — House amendment agreed to: On agreeing to the Hayes amendment (A006) Agreed to by voice vote.
+- 2026-04-30 — House amendment agreed to: On agreeing to the Latta amendment (A017) Agreed to by voice vote.
+- 2026-04-30 — House amendment agreed to: On agreeing to the Luna amendment (A018) Agreed to by recorded vote: 280 - 142 (Roll no. 148).
+- 2026-04-30 — House amendment agreed to: On agreeing to the Mace amendment (A019) Agreed to by voice vote.
+- 2026-04-30 — House amendment agreed to: On agreeing to the Mace amendment (A020) Agreed to by voice vote.
+- 2026-04-30 — House amendment agreed to: On agreeing to the Mace amendment (A021) Agreed to by voice vote.
+- 2026-04-30 — House amendment agreed to: On agreeing to the Moylan amendment (A025) Agreed to by voice vote.
+- 2026-04-30 — House amendment agreed to: On agreeing to the Perez amendment (A009) Agreed to by voice vote.
+- 2026-04-30 — House amendment agreed to: On agreeing to the Scholten amendment (A023) Agreed to by voice vote.
+- 2026-04-30 — House amendment agreed to: On agreeing to the Scholten amendment (A024) as modified Agreed to by recorded vote: 233 - 194 (Roll no. 150).
+- 2026-04-30 — House amendment agreed to: On agreeing to the Scholten amendment (A026) Agreed to by voice vote.
+- 2026-04-30 — House amendment agreed to: On agreeing to the Schrier amendment (A027) Agreed to by voice vote.
+- 2026-04-30 — House amendment agreed to: On agreeing to the Spartz amendment (A029) Agreed to by recorded vote: 215 - 213 (Roll no. 152).
+- 2026-04-30 — House amendment agreed to: On agreeing to the Steube amendment (A030) Agreed to by voice vote.
+- 2026-04-30 — House amendment agreed to: On agreeing to the Steube amendment (A031) Agreed to by voice vote.
+- 2026-04-30 — House amendment not agreed to: On agreeing to the Bentz amendment (A003) Failed by recorded vote: 210 - 216 (Roll no. 144). (consideration: CR H3303-3304)
+- 2026-04-30 — House amendment not agreed to: On agreeing to the Grothman amendment (A015) Failed by recorded vote: 69 - 355 (Roll no. 147). (consideration: CR H3305-3306)
+- 2026-04-30 — House amendment not agreed to: On agreeing to the Moore (WV) amendment (A022) Failed by recorded vote: 187 - 239 (Roll no. 149). (consideration: CR H3307)
+- 2026-04-30 — House amendment not agreed to: On agreeing to the Self amendment (A028) Failed by recorded vote: 186 - 238 (Roll no. 151). (consideration: CR H3308-3309)
+- 2026-04-30 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-04-30 — Mr. Thompson (PA) moved that the committee rise.
+- 2026-04-30 — Ms. Craig moved to recommit to the Committee on Agriculture. (text: CR H3310)
+- 2026-04-30 — On agreeing to the Bentz amendment (A003) Failed by recorded vote: 210 - 216 (Roll no. 144). (consideration: CR H3303-3304)
+- 2026-04-30 — On agreeing to the Brown amendment (A004) Agreed to by voice vote.
+- 2026-04-30 — On agreeing to the Carbajal amendment (A005) Agreed to by voice vote.
+- 2026-04-30 — On agreeing to the Craig amendment (A016) Agreed to by voice vote.
+- 2026-04-30 — On agreeing to the Crawford amendment (A007) Agreed to by voice vote.
+- 2026-04-30 — On agreeing to the Crawford amendment (A008) Agreed to by recorded vote: 384 - 35 (Roll no. 145). (consideration: CR H3304-3305)
+- 2026-04-30 — On agreeing to the Gosar amendment (A010) Agreed to by voice vote.
+- 2026-04-30 — On agreeing to the Gosar amendment (A011) Agreed to by voice vote.
+- 2026-04-30 — On agreeing to the Gosar amendment (A012) Agreed to by voice vote.
+- 2026-04-30 — On agreeing to the Grothman amendment (A013) Agreed to by recorded vote: 416 - 8 (Roll no. 146). (consideration: CR H3305)
+- 2026-04-30 — On agreeing to the Grothman amendment (A014) Agreed to by voice vote.
+- 2026-04-30 — On agreeing to the Grothman amendment (A015) Failed by recorded vote: 69 - 355 (Roll no. 147). (consideration: CR H3305-3306)
+- 2026-04-30 — On agreeing to the Hayes amendment (A006) Agreed to by voice vote.
+- 2026-04-30 — On agreeing to the Latta amendment (A017) Agreed to by voice vote.
+- 2026-04-30 — On agreeing to the Luna amendment (A018) Agreed to by recorded vote: 280 - 142 (Roll no. 148). (consideration: CR H3306-3307)
+- 2026-04-30 — On agreeing to the Mace amendment (A019) Agreed to by voice vote.
+- 2026-04-30 — On agreeing to the Mace amendment (A020) Agreed to by voice vote.
+- 2026-04-30 — On agreeing to the Mace amendment (A021) Agreed to by voice vote.
+- 2026-04-30 — On agreeing to the Moore (WV) amendment (A022) Failed by recorded vote: 187 - 239 (Roll no. 149). (consideration: CR H3307)
+- 2026-04-30 — On agreeing to the Moylan amendment (A025) Agreed to by voice vote.
+- 2026-04-30 — On agreeing to the Perez amendment (A009) Agreed to by voice vote.
+- 2026-04-30 — On agreeing to the Scholten amendment (A023) Agreed to by voice vote.
+- 2026-04-30 — On agreeing to the Scholten amendment (A024) as modified Agreed to by recorded vote: 233 - 194 (Roll no. 150). (consideration: CR H3307-3308)
+- 2026-04-30 — On agreeing to the Scholten amendment (A026) Agreed to by voice vote.
+- 2026-04-30 — On agreeing to the Schrier amendment (A027) Agreed to by voice vote.
+- 2026-04-30 — On agreeing to the Self amendment (A028) Failed by recorded vote: 186 - 238 (Roll no. 151). (consideration: CR H3308-3309)
+- 2026-04-30 — On agreeing to the Spartz amendment (A029) Agreed to by recorded vote: 215 - 213 (Roll no. 152). (consideration: CR H3309)
+- 2026-04-30 — On agreeing to the Steube amendment (A030) Agreed to by voice vote.
+- 2026-04-30 — On agreeing to the Steube amendment (A031) Agreed to by voice vote.
+- 2026-04-30 — On motion that the committee rise Agreed to by voice vote.
+- 2026-04-30 — On motion to recommit Failed by the Yeas and Nays: 211 - 214 (Roll no. 153).
+- 2026-04-30 — On passage Passed by the Yeas and Nays: 224 - 200 (Roll no. 154).
+- 2026-04-30 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Bentz amendment No. 2, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Ms. Brown demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2026-04-30 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Crawford amendment No. 8, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mr. Thompson (PA) demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2026-04-30 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Grothman amendment No. 20, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mr. Grothman demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2026-04-30 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Grothman amendment No. 22, the Chair put the question on agreeing to the amendment and by voice vote, announced the noes had prevailed. Mr. Grothman demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2026-04-30 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Luna amendment No. 28, the Chair put the question on agreeing to the amendment and by voice vote, announced the noes had prevailed. Mrs. Luna demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2026-04-30 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Moore (WV) amendment No. 36, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mr. Carbajal demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2026-04-30 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Scholten amendment No. 39, as modified, the Chair put the question on agreeing to the amendment and by voice vote, announced the noes had prevailed. Ms. Scholten demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2026-04-30 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Self amendment No. 47, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mr. Self demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2026-04-30 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Spartz amendment No. 49, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Ms. Craig demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2026-04-30 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 224 - 200 (Roll no. 154).
+- 2026-04-30 — Roll call votes on amendments in House
+- 2026-04-30 — Roll call votes on amendments in House
+- 2026-04-30 — Roll call votes on amendments in House
+- 2026-04-30 — Roll call votes on amendments in House
+- 2026-04-30 — Roll call votes on amendments in House
+- 2026-04-30 — Roll call votes on amendments in House
+- 2026-04-30 — Roll call votes on amendments in House
+- 2026-04-30 — Roll call votes on amendments in House
+- 2026-04-30 — Roll call votes on amendments in House
+- 2026-04-30 — Scholten amendment (A024) modified by unanimous consent. To strike Page 430 each time it appears, and insert Page 431.
+- 2026-04-30 — The Clerk was authorized to correct section numbers, punctuation, and cross references, and to make other necessary technical and conforming corrections in the engrossment of H.R. 7567.
+- 2026-04-30 — The House adopted the amendments en gros as agreed to by the Committee of the Whole House on the state of the Union.
+- 2026-04-30 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2026-04-30 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 7567.
+- 2026-04-30 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2026-04-30 — The previous question was ordered pursuant to the rule.
