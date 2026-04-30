@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3726
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-9 amendatory instructions. 0 executed, 9 stated and not applied.
+12 amendatory instructions. 0 executed, 12 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,8 +31,10 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | in subsection (a), by striking “in connection with” and all that follows through the period at the end and inserting “in accordance with this section”; | the bill names no machine-readable US Code section |
-| — | add-at-end | in subsection (b), by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a), by striking “in connection with” and all that follows through the period at the end and inserting “in accordance with this section.”; | the bill names no machine-readable US Code section |
+| — | insert | by inserting “described in paragraph (1)” after “family of a veteran”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “such” after “accompany”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraphs: | the bill names no machine-readable US Code section |
 | — | redesignate | by striking subsection (c) and redesignating subsections (d) and (e) as subsections (c) and (d), respectively; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (2), by striking “subsection (d)” and inserting “subsection (c)”; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3), by striking “under subsection (b)(2)” and inserting “or a covered beneficiary under subsection (b)”; | the bill names no machine-readable US Code section |
@@ -40,3 +42,4 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating paragraph (5) as paragraph (6); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (4) the following new paragraph (5): | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | replace | Section 5503(d)(7) of title 38, United States Code, is amended by striking “January 31, 2033” and inserting “July 31, 2033”. | the bill names no machine-readable US Code section |

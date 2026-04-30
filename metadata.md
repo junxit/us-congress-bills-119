@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3726
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3726
@@ -16,9 +16,11 @@ Fisher House Availability Act of 2026
 
 - Rep. Miller-Meeks, Mariannette [R-IA-1] (M001215)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Rep. Dingell, Debbie [D-MI-6] (D000624)
+- Rep. Vindman, Eugene Simon [D-VA-7] (V000138)
+- Rep. Neguse, Joe [D-CO-2] (N000191)
 
 ## Committees (1)
 
@@ -29,3 +31,10 @@ Fisher House Availability Act of 2026
 - 2025-06-04 — Introduced in House
 - 2025-06-04 — Introduced in House
 - 2025-06-04 — Referred to the House Committee on Veterans' Affairs.
+- 2025-06-17 — Referred to the Subcommittee on Health.
+- 2026-02-05 — Subcommittee on Health Discharged
+- 2026-02-12 — Committee Consideration and Mark-up Session Held
+- 2026-02-12 — Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.
+- 2026-04-30 — Placed on the Union Calendar, Calendar No. 546.
+- 2026-04-30 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-630.
+- 2026-04-30 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-630.
