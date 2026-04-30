@@ -1,0 +1,26 @@
+---
+legis-num: S. 4477
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4477
+
+> To repeal the wage requirements of the Davis-Bacon Act.
+
+## § 1. Short title
+
+This Act may be cited as the “Davis-Bacon Repeal Act”.
+
+## § 2. Repeal of Davis-Bacon wage requirements
+
+- **(a)** *In general* Subchapter IV of chapter 31 of title 40, United States Code, is repealed.
+- **(b)** *Reference* Any reference in any law or a requirement under subchapter IV of chapter 31 of title 40, United States Code, shall be null and void.
+
+## § 3. Effective date and limitation
+
+Section 2, and the amendment made by such section, shall take effect 30 days after the date of enactment of this Act but shall not affect any contract that is—
+
+- **(1)** in existence on the date that is 30 days after such date of enactment; or
+- **(2)** made pursuant to an invitation for bids outstanding on the date that is 30 days after such date of enactment.
