@@ -1,0 +1,22 @@
+---
+legis-num: H.R. 8664
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8664
+
+> To require the Administrator of the Small Business Administration to implement a certain recommendation relating to artificial intelligence adoption, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Small Business Administration Artificial Intelligence Adoption Reporting Act of 2026” or the “SBA AI Adoption Reporting Act of 2026”.
+
+## § 2. Implementation of recommendation relating to artificial intelligence adoption for the Small Business Administration
+
+- **(a)** *In general* The Administrator of the Small Business Administration, acting through the Chief Information Officer of the Administration, shall take such actions as may be necessary to implement the recommendations contained in the report of the Comptroller General of the United States titled “Artificial Intelligence: Uses and Risks for Small Business Contracting and Innovation Research” (GAO–26–107828; published May 4, 2026).
+- **(b)** *Implementation plan* Not later than 45 days after the date of the enactment of this Act, the Administrator shall submit to the Committee on Small Business of the House of Representatives and the Committee on Small Business and Entrepreneurship of the Senate an implementation plan detailing the actions the Small Business Administration will undertake to establish and implement policies and procedures to disclose artificial intelligence use and consideration of the Administration, in accordance with the requirements of section 7225 of the Advancing American AI Act (40 U.S.C. 11301 note) and the memorandum of the Office of Management and Budget titled “Accelerating Federal Use of AI Through Innovation, Governance, and Public Trust” (M–25–21; signed April 3, 2025), or any successor administrative memorandum or guidance. Such policies and procedures shall include—
+  - **(1)** definitions of roles and responsibilities for collecting, summarizing, and publishing use cases of artificial intelligence; and
+  - **(2)** documentation of the implementation of such policies and procedures and key decisions.
+- **(c)** *Additional requirements* The implementation plan required by this section shall include the actions required to carry out the requirements of subsection (b) and the timelines for completion of each action.
