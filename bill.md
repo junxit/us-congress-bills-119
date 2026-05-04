@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1163
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Prove It Act of 2025”.
+This Act may be cited as the “Prove It Act”.
 
 ## § 2. Initial regulatory flexibility analysis
 

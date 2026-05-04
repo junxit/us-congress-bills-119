@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1163
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-11 amendatory instructions. 1 executed, 10 stated and not applied.
+22 amendatory instructions. 2 executed, 20 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,15 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 5 U.S.C. § 605
+
+> in section 605(b), by striking “The agency” and inserting “Not later than 10 days after completing the certification described in this subsection, the agency”; and
+
+| | |
+|---|---|
+| Removed | `The agency` |
+| Inserted | `Not later than 10 days after completing the certification described in this subsection, the agency` |
 
 ### 5 U.S.C. § 605
 
@@ -42,6 +51,16 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| `5 U.S.C. § 605` | replace | in paragraph (5), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `5 U.S.C. § 605` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 605` | insert | by inserting after section 605 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `5 U.S.C. § 605` | insert | The table of sections for chapter 6 of title 5, United States Code, is amended by inserting after the item relating to section 605 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Section 609 of title 5, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | in the matter preceding paragraph (1), by striking “the following factors”; | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (4), by striking “and” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (5), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | `5 U.S.C. § 605` | replace | in paragraph (5), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `5 U.S.C. § 605` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `5 U.S.C. § 605` | insert | by inserting after section 605 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
