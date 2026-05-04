@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8365
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 8365
@@ -30,3 +30,8 @@ Monitor Accountability Act
 - 2026-04-20 — Introduced in House
 - 2026-04-20 — Introduced in House
 - 2026-04-20 — Referred to the House Committee on the Judiciary.
+- 2026-04-22 — Committee Consideration and Mark-up Session Held
+- 2026-04-22 — Ordered to be Reported (Amended) by the Yeas and Nays: 13 - 11.
+- 2026-05-04 — Placed on the Union Calendar, Calendar No. 551.
+- 2026-05-04 — Reported (Amended) by the Committee on Judiciary. H. Rept. 119-635.
+- 2026-05-04 — Reported (Amended) by the Committee on Judiciary. H. Rept. 119-635.
