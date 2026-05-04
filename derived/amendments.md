@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3863
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-7 amendatory instructions. 0 executed, 7 stated and not applied.
+8 amendatory instructions. 0 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,9 +32,10 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | — | replace | in subsection (a), in the subsection heading, by striking “In general” and inserting “Initial consultation”; | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subsections (b) and (c) as subsections (c) and (d), respectively; | the bill names no machine-readable US Code section |
-| — | insert | by inserting after subsection (a) the following new subsection (b): | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (b) and (c) as subsections (d) and (e), respectively; | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (a) the following new subsections: | the bill names no machine-readable US Code section |
 | — | redesignate | in subsection (c), as redesignated by paragraph (2), by inserting “or (b)” after “under subsection (a)” both places it appears; and | the bill names no machine-readable US Code section |
 | — | redesignate | in subsection (d), as redesignated by paragraph (2), by inserting “, or to require the reevaluation of any entitlement of the veteran to compensation under this chapter” before the period at the end. | the bill names no machine-readable US Code section |
 | — | strike | by striking the item relating to the section 1167 that relates to mental health consultations; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after the item relating to section 1168 the following new item: | the bill names no machine-readable US Code section |
+| — | replace | The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking “June 9, 2034” each place it appears and inserting “May 12, 2035”. | the bill names no machine-readable US Code section |
