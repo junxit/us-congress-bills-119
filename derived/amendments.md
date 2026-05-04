@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5213
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,12 +26,12 @@ to guess them.
 
 ### 34 U.S.C. § 10153
 
-> in the matter designated as subsection (A), by striking “(A) In general” and inserting “(a) In general”; and
+> by striking “(A) In general.—” before “To request a grant” and inserting “(a) In general.—”; and
 
 | | |
 |---|---|
-| Removed | `(A) In general` |
-| Inserted | `(a) In general` |
+| Removed | `(A) In general.—” before “To request a grant` |
+| Inserted | `(a) In general.—` |
 
 ## Stated, not applied
 
