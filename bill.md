@@ -1,0 +1,33 @@
+---
+legis-num: H.R. 8675
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8675
+
+> To authorize the Department of Justice to provide grant funding to accredited nonprofit organizations to provide better access to needed training for law enforcement officers in rural and smaller communities.
+
+## § 1. Short title
+
+This Act may be cited as the “Training Rural Law Enforcement Officers Act of 2026”.
+
+## § 2. Training rural lawforcement
+
+- **(a)** *Findings* Congress finds the following:
+  - **(1)** There are more than 18,000 local police departments and 3,000 sheriff’s offices in the United States. Of the local police departments in the United States—
+    - **(A)** nearly half have fewer than 10 sworn officers;
+    - **(B)** 3 out of 4 have fewer than 2 dozen sworn officers; and
+    - **(C)** 8 out of 10 have fewer than 50 sworn officers.
+  - **(2)** Federal funding available through grants administered by the Department of Justice for law enforcement is frequently complex in terms of the application process and requires specific reporting mandates.
+  - **(3)** Smaller and rural law enforcement agencies often forego pursuing Federal funding opportunities as that pursuit creates a demand on already limited staffing, and those smaller and rural law enforcement agencies simply lack the experience and resources to navigate through the application process and to successfully adhere to the multitude of reporting requirements.
+- **(b)** *Definitions* In this section:
+  - **(1)** *Accredited nonprofit organization* The term accredited nonprofit organization means a nonprofit organization that, as determined by the Attorney General, has—
+    - **(A)** the proper experience and expertise in relevant law enforcement training; and
+    - **(B)** a strong track record of successfully conducting relevant law enforcement training in a particular training discipline.
+  - **(2)** *Law enforcement training grant* The term law enforcement training grant means a grant awarded by the Attorney General under the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10101 et seq.) for the purpose of law enforcement training.
+- **(c)** *Authorization* An accredited nonprofit organization shall be eligible to receive any law enforcement training grant for the purpose of providing training to State and local law enforcement agencies if the training is—
+  - **(1)** consistent with the priorities and objectives of the Department of Justice;
+  - **(2)** provided to a law enforcement agency with fewer than 50 sworn law enforcement officers; and
+  - **(3)** conducted at no cost to the law enforcement agency receiving the training.
