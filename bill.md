@@ -1,0 +1,75 @@
+---
+legis-num: H.R. 8671
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8671
+
+> To require the Federal banking agencies to conduct a study on the use of advanced technologies in fraud detection and prevention, with particular attention to community financial institutions, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Bank Fraud Technology Advancement Act of 2026”.
+
+## § 2. Definitions
+
+In this Act:
+
+- **(1)** *Advanced fraud detection technology* The term advanced fraud detection technology includes artificial intelligence, machine learning, predictive analytics, behavioral biometrics, network analytics, data fusion tools, distributed ledger-based monitoring tools, blockchain tracing tools, and other emerging technologies used to detect, prevent, or mitigate financial fraud.
+- **(2)** *Artificial intelligence* The term “artificial intelligence” has the meaning given that term in section 5002 of the National Artificial Intelligence Initiative Act of 2020 (15 U.S.C. 9401).
+- **(3)** *Credit union* The term “credit union” means a State credit union or Federal credit union, as such terms are defined, respectively, in section 101 of the Federal Credit Union Act (12 U.S.C. 1752).
+- **(4)** *Federal banking agency* The term Federal banking agency—
+  - **(A)** has the meaning given such term in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813); and
+  - **(B)** means the National Credit Union Administration.
+- **(5)** *Insured depository institution* The term “insured depository institution” has the meaning given such term in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813).
+- **(6)** *Machine learning* The term “machine learning” has the meaning given that term in section 5002 of the National Artificial Intelligence Initiative Act of 2020 (15 U.S.C. 9401).
+
+## § 3. Study on advanced technologies in fraud detection and prevention
+
+- **(a)** *In general* The Federal banking agencies, in consultation with the Secretary of the Treasury, the Financial Crimes Enforcement Network, the Federal Trade Commission, the Bureau of Consumer Financial Protection, and appropriate law enforcement agencies, shall jointly conduct a comprehensive study on the use of advanced fraud detection technology by insured depository institutions and credit unions.
+- **(b)** *Required elements* The study required under subsection (a) shall evaluate the following:
+  - **(1)** *Current use and effectiveness* The current use and effectiveness of advanced fraud detection technology, including—
+    - **(A)** the extent to which insured depository institutions and credit unions of varying asset sizes deploy advanced fraud detection technology;
+    - **(B)** measurable outcomes relating to fraud reduction, loss mitigation, and consumer protection; and
+    - **(C)** barriers to adoption, including cost, interoperability constraints, regulatory uncertainty, data access limitations, and liability concerns.
+  - **(2)** *Community financial institution access* Community financial institution access to advanced fraud detection technology, including—
+    - **(A)** challenges faced by community financial institutions in accessing or deploying advanced fraud detection tools;
+    - **(B)** whether economies of scale disadvantage smaller community financial institutions relative to large community financial institutions;
+    - **(C)** options to facilitate shared services, utility models, managed-service providers, or consortium-based fraud detection platforms; and
+    - **(D)** recommendations to ensure regulatory guidance is appropriately tailored to avoid discouraging adoption by smaller community financial institutions.
+  - **(3)** *Artificial intelligence and machine learning* Artificial intelligence and machine learning, including—
+    - **(A)** the use of artificial intelligence and machine learning models, applications, and tools in detecting fraud patterns, anomalies, synthetic identity fraud, and real-time payment fraud;
+    - **(B)** governance frameworks used by insured depository institutions and credit unions to manage fraud model risk, explainability, and validation; and
+    - **(C)** interactions between fraud detection models and consumer protection laws.
+  - **(4)** *Information sharing and public-private partnerships* Information sharing and public-private partnerships, including—
+    - **(A)** the effectiveness of existing information-sharing frameworks;
+    - **(B)** whether expanded public-private partnerships or centralized fraud utilities would enhance detection capabilities;
+    - **(C)** the feasibility of a voluntary fraud analytics consortium accessible to community financial institutions; and
+    - **(D)** privacy, data protection, and cybersecurity considerations associated with expanded data sharing.
+  - **(5)** *Payments system risks* Payments system risk, including—
+    - **(A)** fraud risks associated with electronic funds transfers and checks; and
+    - **(B)** whether advanced analytics can reduce fraud while preserving settlement finality and payment system stability.
+  - **(6)** *Regulatory and supervisory considerations* Regulatory and supervisory considerations, including—
+    - **(A)** whether existing supervisory expectations create barriers to innovation;
+    - **(B)** the need for interagency guidance, regulatory clarity, or safe harbors to support technology adoption;
+    - **(C)** opportunities to harmonize expectations across Federal banking agencies; and
+    - **(D)** whether additional training for Federal banking agencies staff is necessary to promote effective regulation and supervision of financial institutions’ use of advanced fraud detection technology, especially for community financial institutions.
+- **(c)** *Report and recommendations*
+  - **(1)** *Report* Not later than 18 months after the date of enactment of this Act, the Federal banking agencies shall issue a report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate containing all findings and determinations made in carrying out the study required under this section, and make such report publicly available, except for classified or supervisory information.
+  - **(2)** *Recommendations* The report required under paragraph (1) shall include legislative, regulatory, or supervisory recommendations which may include—
+    - **(A)** proposals to support shared fraud detection utilities or consortium-based analytics platforms;
+    - **(B)** guidance or safe harbors to encourage responsible artificial intelligence use in fraud prevention;
+    - **(C)** pilot programs tailored to community financial institutions; and
+    - **(D)** recommendations to strengthen public-private information sharing consistent with privacy and civil liberties protections.
+
+## § 4. Community bank fraud technology pilot program
+
+- **(a)** *In general* Not later than 1 year after submission of the study under section 3, the Federal banking agencies may jointly establish a voluntary pilot program to facilitate community financial institution access to advanced fraud detection tools.
+- **(b)** *Program features* The pilot program described in subsection (a) may include—
+  - **(1)** pooled procurement or shared services models;
+  - **(2)** model validation assistance or technical support;
+  - **(3)** standardized vendor risk management templates;
+  - **(4)** regulatory clarity regarding model governance expectations; and
+  - **(5)** collaboration with the Department of the Treasury and law enforcement to provide anonymized fraud typology data feeds.
