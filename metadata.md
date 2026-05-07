@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7463
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7463
@@ -29,3 +29,8 @@ Foster Youth Postsecondary Education Access and Success Act
 - 2026-02-10 — Introduced in House
 - 2026-02-10 — Introduced in House
 - 2026-02-10 — Referred to the House Committee on Ways and Means.
+- 2026-04-29 — Committee Consideration and Mark-up Session Held
+- 2026-04-29 — Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 39 - 0.
+- 2026-05-07 — Placed on the Union Calendar, Calendar No. 555.
+- 2026-05-07 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-638.
+- 2026-05-07 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-638.

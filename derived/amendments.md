@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7463
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 4 executed, 2 stated and not applied.
+5 amendatory instructions. 3 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,21 +26,12 @@ to guess them.
 
 ### 42 U.S.C. § 677
 
-> by striking “training program” and inserting “training program (except that the State may establish a grace period to allow a youth to continue participation in activities described in subsection (i)(4)(A), after an assessment and consultation with the youth, if the State determines that reasonable circumstances warrant the grace period),”;
-
-| | |
-|---|---|
-| Removed | `training program` |
-| Inserted | `training program (except that the State may establish a grace period to allow a youth to continue participation in activities described in subsection (i)(4)(A), after an assessment and consultation with the youth, if the State determines that reasonable circumstances warrant the grace period),` |
-
-### 42 U.S.C. § 677
-
-> by striking “that program” and inserting “that education or training program”; and
+> by striking “that program” and inserting “that education or training program, (except that the State may establish a grace period to allow a youth to continue participation in activities described in paragraph (4)(A), after an assessment and consultation with the youth, if the State determines that reasonable circumstances warrant the grace period)”; and
 
 | | |
 |---|---|
 | Removed | `that program` |
-| Inserted | `that education or training program` |
+| Inserted | `that education or training program, (except that the State may establish a grace period to allow a youth to continue participation in activities described in paragraph (4)(A), after an assessment and consultation with the youth, if the State determines that reasonable circumstances warrant the grace period)` |
 
 ### 42 U.S.C. § 677
 

@@ -17,9 +17,8 @@ This Act may be cited as the “Foster Youth Postsecondary Education Access and 
 
 - **(a)** *In general* Section 477(i) of the Social Security Act (42 U.S.C. 677(i)) is amended—
   - **(1)** in paragraph (3)—
-    - **(A)** by striking “training program” and inserting “training program (except that the State may establish a grace period to allow a youth to continue participation in activities described in subsection (i)(4)(A), after an assessment and consultation with the youth, if the State determines that reasonable circumstances warrant the grace period),”;
-    - **(B)** by striking “that program” and inserting “that education or training program”; and
-    - **(C)** by striking “the program” and inserting “the voucher program”; and
+    - **(A)** by striking “that program” and inserting “that education or training program, (except that the State may establish a grace period to allow a youth to continue participation in activities described in paragraph (4)(A), after an assessment and consultation with the youth, if the State determines that reasonable circumstances warrant the grace period)”; and
+    - **(B)** by striking “the program” and inserting “the voucher program”; and
   - **(2)** in paragraph (4)(B), by striking “$5,000” and inserting “$12,000”.
 - **(b)** *Guidance* The Secretary of Health and Human Services, in consultation with youth who have experienced foster care, shall develop and issue model guidance to States and jurisdictions receiving allotments under section 477(c) of the Social Security Act for implementation of the amendment made by subsection (a)(1) of this section.
 
