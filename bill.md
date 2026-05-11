@@ -1,0 +1,28 @@
+---
+legis-num: H. RES. 1271
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 1271
+
+> Expressing support for the designation of May 2026 as “Arthritis Awareness Month”.
+
+## Preamble
+
+- Whereas arthritis includes more than 100 rheumatic diseases and conditions that affect joints, tissues that surround joints, and other connective tissue;
+- Whereas arthritis is a chronic health problem that is the Nation’s leading cause of physical disability in the United States and is most common among people with multiple chronic conditions;
+- Whereas arthritis causes pain and loss of movement, can limit everyday activities such as walking and dressing, and can even lead to death;
+- Whereas arthritis affects nearly 60,000,000 adults in the United States living with some form of doctor-diagnosed arthritis, representing 24.1 percent of adults in the United States;
+- Whereas an estimated 300,000 children under 18 years of age have a form of arthritis or rheumatic conditions, representing approximately 1 in every 250 children in the United States;
+- Whereas arthritis costs the United States economy more than $304,000,000,000 each year, $140,000,000,000 in direct medical care costs, and $164,000,000,000 in lost wages;
+- Whereas 25,700,000 individuals in the United States have some activity limitations due to their arthritis, and of people with arthritis, 1 in 4 has a work limitation; and
+- Whereas 1 out of every 3 United States veterans lives with arthritis because it is the top cause of disability among veterans, and research supporting better prevention strategies, interventions, and treatments is crucial to reducing the number of and veterans suffering from arthritis: Now, therefore, be it
+
+That the House of Representatives—
+
+- **(1)** recognizes “Arthritis Awareness Month”;
+- **(2)** understands the extent of, and sympathizes with, the severity of the impact of arthritis on the Nation;
+- **(3)** recognizes the efforts of the Arthritis Foundation to improve access to care; and
+- **(4)** recognizes the Arthritis Foundation’s 75th anniversary.
