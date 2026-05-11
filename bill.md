@@ -43,7 +43,7 @@ Section 477 of the Social Security Act (42 U.S.C. 677) is amended—
 - **(b)** *Contents* The joint guidance shall include the following:
   - **(1)** Clarification and alignment of Federal policies to improve access to housing for youth who have experienced foster care, including youth who are in independent living arrangements while in extended foster care.
   - **(2)** Guidance on State use of funds provided under section 477 of the Social Security Act for supportive services (as defined in subsection (d)(6) of such section) to improve access to housing programs administered by the Department of Housing and Urban Development.
-  - **(3)** Best practices for building partnerships between public child welfare agencies and public housing authorities, including ways to improve access to the supportive services.
+  - **(3)** Best practices for building partnerships between public child welfare agencies and public housing authorities, including ways to improve access to supportive services.
   - **(4)** Additional information the Secretaries deem necessary to effectively coordinate Federal programs serving current and former foster youth.
 - **(c)** *Production* The Secretary of Health and Human Services shall designate an official of the Department of Health and Human Services to lead development of the joint guidance in collaboration with the Department of Housing and Urban Development.
 
