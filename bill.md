@@ -17,10 +17,11 @@ This Act may be cited as the “Foster Youth Workforce Opportunity Act”.
 
 Section 477 of the Social Security Act (42 U.S.C. 677) is amended—
 
-- **(1)** in each of subsections (a)(5) and (h)(2), by striking “aged out of foster care” and inserting “experienced foster care at age 14 or older”;
-- **(2)** in each of subsections (a)(6) and (i)(2), by striking “16” and inserting “14”;
-- **(3)** in subsection (i)(3), by striking “in no event may a youth participate in the program for more than 5 years (whether or not consecutive)” and inserting “may not allow a youth to participate in the program for more than 5 years (or, in the case of a youth who was involved in a remedial education activity referred to in paragraph (4)(B), for more than 6 years), whether or not consecutive”;
-- **(4)** in subsection (i)(4)—
+- **(1)** in subsection (a)(5), by striking “aged out of foster care” and inserting “experienced foster care at age 14 or older”;
+- **(2)** in subsection (h)(2), by striking “age out of foster care” and inserting “experience foster care at age 14 or older”;
+- **(3)** in each of subsections (a)(6) and (i)(2), by striking “16” and inserting “14”;
+- **(4)** in subsection (i)(3), by striking “in no event may a youth participate in the program for more than 5 years (whether or not consecutive)” and inserting “may not allow a youth to participate in the program for more than 5 years (or, in the case of a youth who was involved in a remedial education activity referred to in paragraph (4)(B), for more than 6 years), whether or not consecutive”;
+- **(5)** in subsection (i)(4)—
   - **(A)** by amending subparagraph (A) to read as follows:
     > - **(A)** may be available for the cost of attendance—
     >   - **(i)** at an institution of higher education, as defined in section 102 of the Higher Education Act of 1965, including a community college or postsecondary vocational institution; or
@@ -33,9 +34,9 @@ Section 477 of the Social Security Act (42 U.S.C. 677) is amended—
     >   - **(ii)** to obtain a general equivalency degree; or
     >   - **(iii)** to receive remedial education; and
 
-- **(5)** in subsection (i), by adding at the end the following:
+- **(6)** in subsection (i), by adding at the end the following:
   > - **(7)** In this section, the term remedial education means education or skill training needed to support obtaining a high school diploma or qualifying for postsecondary education, training, or an apprenticeship that is—
-  >   - **(A)** not provided by the school district of the student or another free local, State, or Federal program; and
+  >   - **(A)** not already available through the school district of the student or another free local, State, or Federal program; and
   >   - **(B)** is provided by an instructor with credentials relevant to the subject area of instruction, as determined by the State.
 
 ## § 3. Effective date

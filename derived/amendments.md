@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7343
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-7 amendatory instructions. 3 executed, 4 stated and not applied.
+8 amendatory instructions. 4 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,12 +26,21 @@ to guess them.
 
 ### 42 U.S.C. § 677
 
-> in each of subsections (a)(5) and (h)(2), by striking “aged out of foster care” and inserting “experienced foster care at age 14 or older”;
+> in subsection (a)(5), by striking “aged out of foster care” and inserting “experienced foster care at age 14 or older”;
 
 | | |
 |---|---|
 | Removed | `aged out of foster care` |
 | Inserted | `experienced foster care at age 14 or older` |
+
+### 42 U.S.C. § 677
+
+> in subsection (h)(2), by striking “age out of foster care” and inserting “experience foster care at age 14 or older”;
+
+| | |
+|---|---|
+| Removed | `age out of foster care` |
+| Inserted | `experience foster care at age 14 or older` |
 
 ### 42 U.S.C. § 677
 
