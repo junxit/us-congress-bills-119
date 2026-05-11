@@ -37,16 +37,32 @@ Section 366 of the Energy Policy and Conservation Act (42 U.S.C. 6326) is amende
   - **(A)** in subparagraph (A), by striking “and” at the end;
   - **(B)** by redesignating subparagraph (B) as subparagraph (C); and
   - **(C)** by inserting after subparagraph (A) the following:
-    > - **(B)** supplying equipment for the generation and transmission of electricity; and
+    > - **(B)** supplying equipment for the generation, transmission, and distribution of electricity; and
 
 - **(5)** in subsection (e)—
   - **(A)** by striking “A State is not eligible” and inserting the following:
     > - **(1)** *Submission required* A State is not eligible
 
   - **(B)** in paragraph (2), by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively;
-  - **(C)** by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively; and
+  - **(C)** by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively (and by moving the margins accordingly); and
   - **(D)** by adding at the end the following:
     > - **(2)** *State determination* A submission under paragraph (1) is not required to be approved by the Secretary.
 
-- **(6)** in subsection (h), by inserting “, local distribution system,” after “electric utility”; and
-- **(7)** in subsection (i), by striking “2025” and inserting “2030”.
+- **(6)** in subsection (f), by striking “may” and inserting “shall”;
+- **(7)** in subsection (h), by inserting “, local distribution system,” after “electric utility”; and
+- **(8)** by striking subsection (i) and inserting the following:
+  > - **(i)** *Sunset* This section shall expire on September 30, 2031.
+
+## § 3. GAO Report
+
+- **(a)** *In general* Not later than September 30, 2030, the Comptroller General shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report on the efficacy of State energy security plans that includes—
+  - **(1)** an evaluation of whether and how State energy security plans have improved the ability of States to identify, assess, and mitigate risks to energy infrastructure and supply chains and to plan for, respond to, and recover from events that disrupt energy supply;
+  - **(2)** recommendations for—
+    - **(A)** improving the ability of States described in paragraph (1); and
+    - **(B)** actions the Secretary of Energy may take to improve coordination with States with respect to identifying, assessing, and mitigating risks to energy infrastructure and supply chains and planning for, responding to, and recovering from events that disrupt energy supply;
+  - **(3)** information on Federal financial assistance made available to States under part D of title III of the Energy Policy and Conservation Act (42 U.S.C. 6321 et seq.) that was used to implement State energy security plans;
+  - **(4)** information on activities carried out by States using such financial assistance;
+  - **(5)** an analysis of the efficacy of the implementation of section 366 of the Energy Policy and Conservation Act (42 U.S.C. 6326), as amended by this Act; and
+  - **(6)** information on State use of assistance provided under section 366(f) of the Energy Policy and Conservation Act (42 U.S.C. 6326(f)) (as amended by this Act), including any revisions of State energy security plans made by States resulting from assistance provided under such section 366(f).
+- **(b)** *Protected information* The report required under subsection (a) shall be submitted in a form that may be made available to the public, except that any information protected from disclosure under section 366(h) of the Energy Policy and Conservation Act (42 U.S.C. 6326(h)) shall be included in the report in an annex that shall not be publicly disclosed, consistent with such section.
+- **(c)** *State energy security plan defined* In this section, the term State energy security plan has the meaning given such term in section 366(a) of the Energy Policy and Conservation Act (42 U.S.C. 6326(a)).

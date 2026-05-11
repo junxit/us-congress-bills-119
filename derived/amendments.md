@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7257
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-13 amendatory instructions. 1 executed, 12 stated and not applied.
+14 amendatory instructions. 1 executed, 13 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,12 +26,12 @@ to guess them.
 
 ### 42 U.S.C. § 6326
 
-> in subsection (i), by striking “2025” and inserting “2030”.
+> in subsection (f), by striking “may” and inserting “shall”;
 
 | | |
 |---|---|
-| Removed | `2025` |
-| Inserted | `2030` |
+| Removed | `may` |
+| Inserted | `shall` |
 
 ## Stated, not applied
 
@@ -51,6 +51,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 6326` | insert | by inserting after subparagraph (A) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 6326` | replace | by striking “A State is not eligible” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 6326` | redesignate | in paragraph (2), by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 6326` | redesignate | by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 6326` | redesignate | by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively (and by moving the margins accordingly); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 6326` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 6326` | insert | in subsection (h), by inserting “, local distribution system,” after “electric utility”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 6326` | replace | by striking subsection (i) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
