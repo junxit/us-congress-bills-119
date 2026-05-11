@@ -1,7 +1,7 @@
 ---
 measure: S. 71
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 71
@@ -32,3 +32,5 @@ Baby Changing on Board Act
 - 2026-04-22 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-118.
 - 2026-04-22 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-118.
 - 2026-04-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 378.
+- 2026-05-11 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S2204; text: CR S2204)
+- 2026-05-11 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.

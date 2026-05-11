@@ -19,15 +19,23 @@ This Act may be cited as the “Baby Changing on Board Act”.
   > ## § 24314. Baby changing tables
   >
   > - **(a)** *Definitions* In this section:
-  >   - **(1)** *ADA-compliant restroom* The term ADA-compliant restroom means a restroom that complies with the requirements set forth in section 242(a) of the Americans with Disabilities Act of 1990 (42 U.S.C. 12162(a)).
-  >   - **(2)** *Baby changing table* The term baby changing table means an elevated, freestanding structure generally designed to support and retain a child with a body weight of up to 30 pounds in a horizontal position for the purpose of allowing an individual to change the child’s diaper, including pull-out or drop-down changing surfaces.
-  >   - **(3)** *Covered passenger rail train* The term covered passenger rail train—
-  >     - **(A)** means a passenger rail train that—
-  >       - **(i)** is owned and operated by the National Railroad Passenger Corporation (commonly known as “Amtrak”); and
-  >       - **(ii)** was solicited for purchase after the date of the enactment of the Baby Changing on Board Act for use by Amtrak; and
-  >     - **(B)** does not include any passenger rail train that Amtrak operates, but does not own.
+  >   - **(1)** *ADA-compliant public restroom* The term ADA-compliant public restroom means a restroom that is not in a private accommodation and complies with the requirements set forth in section 242(a) of the Americans with Disabilities Act of 1990 (42 U.S.C. 12162(a)).
+  >   - **(2)** *Baby changing table* The term baby changing table means an elevated structure generally designed to support and retain a child with a body weight of up to 30 pounds in a horizontal position for the purpose of allowing an individual to change the child’s diaper, including pull-out or drop-down changing surfaces.
+  >   - **(3)** *Covered passenger rail car* The term covered passenger rail car—
+  >     - **(A)** means a passenger rail car that—
+  >       - **(i)** is owned and operated by—
+  >         - **(I)** the National Railroad Passenger Corporation (commonly known as “Amtrak”); or
+  >         - **(II)** another intercity passenger rail service provider that—
+  >           - **(aa)** is the recipient or subrecipient of Federal financial assistance; or
+  >           - **(bb)** is a primary beneficiary of Federal financial assistance from a project for which another entity has received Federal financial assistance;
+  >       - **(ii)** is newly built and was solicited for purchase after the date of the enactment of the Baby Changing on Board Act; and
+  >       - **(iii)** has at least one restroom that is not in a private accommodation; and
+  >     - **(B)** does not include—
+  >       - **(i)** a private rail car; or
+  >       - **(ii)** a historical or antiquated rail passenger car (as defined in section 304(c)(2) of the Americans with Disabilities Act of 1990 (42 U.S.C. 12184(c)(2))).
+  >   - **(4)** *Private rail car* The term private rail car means rail rolling equipment that is used only for excursion, recreational, or private transportation purposes.
   > - **(b)** *Baby changing tables*
-  >   - **(1)** *In general* All covered passenger rail trains shall have a baby changing table in at least one restroom in each rail car, including in an ADA-compliant restroom.
-  >   - **(2)** *Signage* Such restroom shall clearly indicate with signage the presence of a baby changing table and such baby changing tables shall be clearly identified with signage.
+  >   - **(1)** *In general* All covered passenger rail cars shall have a baby changing table in at least one restroom, and when an ADA-compliant public restroom is present in the covered passenger car, such restroom shall have a baby changing table.
+  >   - **(2)** *Signage* Each restroom described in paragraph (1) shall clearly indicate with signage the presence of a baby changing table and such baby changing tables shall be clearly identified with signage.
 
 - **(b)** *Clerical amendment* The chapter analysis for chapter 243 of title 49, United States Code, is amended by inserting after the item relating to section 24313 the following:
