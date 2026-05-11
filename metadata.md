@@ -1,7 +1,7 @@
 ---
 measure: S. 2585
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2585
@@ -28,3 +28,7 @@ MAP for Broadband Funding Act
 
 - 2025-07-31 — Introduced in Senate
 - 2025-07-31 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2026-02-12 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2026-05-11 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-121.
+- 2026-05-11 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-121.
+- 2026-05-11 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 407.
