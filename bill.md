@@ -28,7 +28,7 @@ This Act may be cited as the “Support for Expectant and Parenting Foster Youth
 
 Section 477(d)(1) of the Social Security Act (42 U.S.C. 677(d)(1)) is amended to read as follows:
 
-> - **(1)** *In general* A State to which an amount is paid from its allotment under subsection (c) may use the amount—
+> - **(1)** *In general* A State to which an amount is paid from its allotment under subsection (c)(1) may use the amount—
 >   - **(A)** to provide tailored case management and resource coordination services to youth otherwise eligible for services under the State program under this section who are expectant or parenting; or
 >   - **(B)** in any manner that is reasonably calculated to accomplish the purposes of this section.
 
