@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7258
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7258
@@ -16,9 +16,12 @@ Energy Emergency Leadership Act
 
 - Rep. Lee, Laurel M. [R-FL-15] (L000597)
 
-## Cosponsors (1)
+## Cosponsors (4)
 
 - Rep. Walberg, Tim [R-MI-5] (W000798)
+- Rep. Landsman, Greg [D-OH-1] (L000601)
+- Rep. Balderson, Troy [R-OH-12] (B001306)
+- Rep. Onder, Robert F. [R-MO-3] (O000177)
 
 ## Committees (1)
 
@@ -30,3 +33,8 @@ Energy Emergency Leadership Act
 - 2026-01-27 — Introduced in House
 - 2026-01-27 — Referred to the House Committee on Energy and Commerce.
 - 2026-01-27 — Referred to the Subcommittee on Energy.
+- 2026-02-04 — Forwarded by Subcommittee to Full Committee by Voice Vote.
+- 2026-02-04 — Subcommittee Consideration and Mark-up Session Held
+- 2026-05-11 — Placed on the Union Calendar, Calendar No. 562.
+- 2026-05-11 — Reported by the Committee on Energy and Commerce. H. Rept. 119-645.
+- 2026-05-11 — Reported by the Committee on Energy and Commerce. H. Rept. 119-645.
