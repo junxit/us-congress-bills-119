@@ -1,0 +1,32 @@
+---
+legis-num: H. RES. 1273
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 1273
+
+> Honoring mothers, and recognizing the significance of motherhood and the impact mothers have on raising the next generation, on the occasion of Mother’s Day.
+
+## Preamble
+
+- Whereas President Woodrow Wilson issued a Presidential proclamation on May 9, 1914, establishing the first national Mother’s Day holiday to celebrate America’s mothers;
+- Whereas Mother’s Day is celebrated around the world, demonstrating the historical significance and universal respect for mothers and motherhood;
+- Whereas, on Mother’s Day, families are blessed with the opportunity to celebrate their mothers, the sacrifices mothers make daily, and everything motherhood represents;
+- Whereas mothers are responsible for raising the next generation and deserve to be celebrated for the special ability only they have to bring life into this world;
+- Whereas mothers are both strong and nurturing, traits which are critical to the development of their progeny;
+- Whereas mothers such as stepmothers, adopted mothers, and single mothers are also vital to the fabric of this Nation and the story of motherhood;
+- Whereas the definition of “mother” has come under attack in recent years from various groups that seek to diminish the significance of motherhood;
+- Whereas redefining motherhood attacks the fundamental truth of the human experience and ignores the intrinsic capability women have to become mothers;
+- Whereas the terms “birthing person”, “gestational parent”, “chest feeder”, “menstruating people”, “pregnant people”, and “people with a capacity for pregnancy”, among others, diminish the significance of motherhood;
+- Whereas, in the 117th Congress, Democrats incomprehensibly passed legislation that eliminated the term “mother” from the House Rules, tantamount to an attack on motherhood at the most fundamental level;
+- Whereas mothers are, by basic logic and commonsense definition, women; and
+- Whereas, on Sunday, May 10, 2026, the United States will celebrate Mother’s Day, thus providing Americans the opportunity to express their love and reverence for the mothers of this Nation: Now, therefore, be it
+
+That the House of Representatives—
+
+- **(1)** supports policies that recognize mothers as mothers;
+- **(2)** acknowledges that Mother’s Day is intended specifically to commemorate motherhood and to honor the mothers of the United States;
+- **(3)** recognizes the importance of motherhood, the sacrifices women make when choosing to raise a family, and the invaluable contributions of motherhood to the family, community, States, and country as a whole; and
+- **(4)** encourages the people of the United States to observe Mother’s Day in celebration of the women who have chosen to bring life into the world and nurture the next generation.
