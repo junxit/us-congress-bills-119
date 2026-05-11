@@ -19,7 +19,7 @@ Section 477 of the Social Security Act (42 U.S.C. 677) is amended—
 
 - **(1)** in subsection (a)(4), by inserting “legal counseling access,” after “education,”; and
 - **(2)** in subsection (b)(3), by adding at the end the following:
-  > - **(L)** A certification by the chief executive officer of the State that the relevant case planning and other processes employed by the State take into consideration the effect of certain legal issues affecting housing, education, entry into employment, and family connections of current and former foster youth and the efforts required to address the issues, including with respect to State court records, legal recognition of family relationships, and matters relating to custody and permanency.
+  > - **(L)** A certification by the chief executive officer of the State that the relevant case planning and other processes employed by the State take into consideration certain legal issues affecting housing, education, entry into employment, and family connections of current and former foster youth and the efforts required to address the issues, including with respect to State court records, legal recognition of family relationships, and matters relating to custody and permanency.
 
 ## § 3. Effective date
 
