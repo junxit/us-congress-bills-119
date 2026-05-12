@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2071
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2071
@@ -43,6 +43,10 @@ Save Our Shrimpers Act
 
 - House — Financial Services Committee
 
+## Recorded votes (1)
+
+- 2026-05-12 — [House 119-2-156](votes/house-119-2-0156.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (391–18)
+
 ## Actions
 
 - 2025-03-11 — Introduced in House
@@ -53,3 +57,12 @@ Save Our Shrimpers Act
 - 2026-03-25 — Placed on the Union Calendar, Calendar No. 491.
 - 2026-03-25 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-571.
 - 2026-03-25 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-571.
+- 2026-05-12 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2026-05-12 — Considered as unfinished business. (consideration: CR H3375-3376)
+- 2026-05-12 — Considered under suspension of the rules. (consideration: CR H3352-3353)
+- 2026-05-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2071.
+- 2026-05-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-05-12 — Mr. Hill (AR) moved to suspend the rules and pass the bill, as amended.
+- 2026-05-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 391 - 18, 1 Present (Roll no. 156). (text: CR H3352)
+- 2026-05-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 391 - 18, 1 Present (Roll no. 156). (text: CR H3352)
+- 2026-05-12 — The title of the measure was amended. Agreed to without objection.

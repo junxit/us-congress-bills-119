@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 2071
 
-> To prohibit Federal funds from being made available to international financial institutions for the purposes of financing foreign shrimp farms, and for other purposes.
+> To require the United States Executive Directors at the international financial institutions to oppose certain projects involving shrimp production.
 
 ## § 1. Short title
 
