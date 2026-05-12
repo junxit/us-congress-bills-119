@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 188
 congress: 119
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 188
@@ -24,3 +24,6 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - 2026-04-27 — Introduced in Senate
 - 2026-04-27 — Read twice and referred to the Committee on Environment and Public Works.
+- 2026-05-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 409.
+- 2026-05-12 — Senate Committee on Environment and Public Works discharged, by petition, pursuant to 5 U.S.C. 802(c).
+- 2026-05-12 — Senate Committee on Environment and Public Works discharged, by petition, pursuant to 5 U.S.C. 802(c).
