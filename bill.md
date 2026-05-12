@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3709
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -22,7 +22,7 @@ This Act may be cited as the “Advancing the Mentor-Protégé Program for Small
   >     - **(B)** to improve capacity to provide services to the customers of the small financial institution.
   >   - **(2)** *Outreach* The Secretary shall hold outreach events to promote the participation of financial agents, large financial institutions, and small financial institutions in the Program at least once a year.
   >   - **(3)** *Exclusion* The Secretary shall issue guidance or regulations to establish a process under which a financial agent, large financial institution, or small financial institution may be excluded from participation in the Program.
-  >   - **(4)** *Report* The Office of Minority and Women Inclusion of the Department of the Treasury shall include in the report submitted to Congress under section 342(e) of the Dodd-Frank Wall Street Reform and Consumer Protection Act information pertaining to the Program, including—
+  >   - **(4)** *Report* The Secretary shall report to Congress information pertaining to the Program, including—
   >     - **(A)** the number of financial agents, large financial institutions, and small financial institutions participating in such Program; and
   >     - **(B)** the number of outreach events described in paragraph (2) held during the year covered by such report.
   >   - **(5)** *Definitions* In this subsection:
@@ -36,4 +36,4 @@ This Act may be cited as the “Advancing the Mentor-Protégé Program for Small
   >       - **(ii)** a minority depository institution; or
   >       - **(iii)** a rural depository institution.
 
-- **(b)** *Effective date* This Act and the amendment made by this Act shall take effect 90 days after the date of the enactment of this Act.
+- **(b)** *Effective date* This Act and the amendments made by this Act shall take effect 90 days after the date of the enactment of this Act.
