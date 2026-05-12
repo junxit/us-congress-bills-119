@@ -1,0 +1,33 @@
+---
+legis-num: H. CON. RES. 98
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. CON. RES. 98
+
+> Expressing support for America’s law enforcement professionals.
+
+## Preamble
+
+- Whereas more than 840,000 law enforcement officers in the United States risk their lives daily to serve and protect their communities;
+- Whereas the law enforcement officers of the United States perform their difficult and dangerous job honorably and professionally, with the overwhelming majority of Americans having a positive opinion of their interactions with police;
+- Whereas, after the record increases in violent crime that occurred nationwide between 2020 and 2022, the United States has experienced a dramatic and sustained reduction in crime, with the Federal Bureau of Investigation reporting a 4.5 percent decrease in violent crime and a historic 14.9 percent decline in homicides in 2024, and preliminary national data for 2025 showing an unprecedented 18 to 20 percent drop in homicides and significant decreases in other major crime categories;
+- Whereas this progress in crime reduction has been made possible by the innovative and dedicated efforts of law enforcement officers across the United States;
+- Whereas there are now over 24,000 names of America’s fallen law enforcement heroes listed on the walls of the National Law Enforcement Officers Memorial dating back to the first death in the line of duty in 1786;
+- Whereas the environment for officers has become increasingly more hostile and their safety having become more precarious;
+- Whereas 2024 saw the highest officer assault rate of the past 10 years, with nearly 86,000 law enforcement officers assaulted by criminals;
+- Whereas, in the past 5 years, 1,744 officers have been shot in the line of duty, and 265 of those officers died;
+- Whereas nearly 2,600 law enforcement officers in the United States have died in the line of duty during the past decade;
+- Whereas law enforcement officers typically encounter between 400 and 600 traumatic events during their careers, compared with three or four for the average citizen;
+- Whereas the unusually high number of traumatic events experienced by law enforcement officers has contributed to a 54-percent higher suicide rate among officers than among other American workers;
+- Whereas, despite recent declines in crime, law enforcement agencies across the United States continue to face dangerously low staffing levels, with sworn officer numbers still more than 5 percent below pre-2020 levels; and
+- Whereas supporting law enforcement officers with the equipment, training, and funding needed to protect American communities from criminal violence has long received overwhelming public support from across the political spectrum: Now, therefore, be it
+
+That Congress—
+
+- **(1)** highly respects and values United States law enforcement professionals and greatly appreciates all that those officers do to protect and serve our communities;
+- **(2)** remembers and honors those officers and families who have experienced a death or injury in the line of duty;
+- **(3)** calls for increased measures to be taken to maximize the safety and well-being of our officers, including more policing personnel, improved training and equipment, tough penalties for assaulting or killing a law enforcement professional, and increased mental health resources for officers; and
+- **(4)** calls on all levels of government to ensure that our law enforcement professionals receive the support and resources needed to keep America safe.
