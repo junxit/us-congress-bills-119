@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2853
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2853
@@ -229,6 +229,10 @@ Combating Organized Retail Crime Act of 2025
 
 - House — Judiciary Committee
 
+## Recorded votes (1)
+
+- 2026-05-12 — [House 119-2-157](votes/house-119-2-0157.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (348–60)
+
 ## Actions
 
 - 2025-04-10 — Introduced in House
@@ -239,3 +243,11 @@ Combating Organized Retail Crime Act of 2025
 - 2026-01-30 — Placed on the Union Calendar, Calendar No. 402.
 - 2026-01-30 — Reported (Amended) by the Committee on Judiciary. H. Rept. 119-471.
 - 2026-01-30 — Reported (Amended) by the Committee on Judiciary. H. Rept. 119-471.
+- 2026-05-12 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2026-05-12 — Considered as unfinished business. (consideration: CR H3376)
+- 2026-05-12 — Considered under suspension of the rules. (consideration: CR H3364-3369)
+- 2026-05-12 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2853.
+- 2026-05-12 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-05-12 — Mr. Knott moved to suspend the rules and pass the bill, as amended.
+- 2026-05-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 348 - 60 (Roll no. 157). (text: CR H3364-3366)
+- 2026-05-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 348 - 60 (Roll no. 157). (text: CR H3364-3366)
