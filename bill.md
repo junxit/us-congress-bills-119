@@ -25,12 +25,12 @@ Section 40125(c) of the Infrastructure Investment and Jobs Act (42 U.S.C. 18724(
     >     - **(I)** by exchanging information at the classified and unclassified level, collectively analyzing potential and realized threats, and providing recommendations to mitigate these threats that benefit the broader energy sector; and
     >     - **(II)** by increasing operational collaboration through establishing the technical infrastructure necessary to house, access, and perform advanced analytics and experimentation to enable analysis, discovery, alerts, and collaboration activities of intelligence-driven and intelligence-informed technical data and knowledge, threat information and to share actionable insights and threat mitigation;
     >   - **(ii)** by advancing the collective understanding of national security risks and vulnerabilities associated with the energy sector that may be exploited by adversaries; and
-    >   - **(iii)** by increasing the energy sector’s understanding of threat actor tactics, techniques, procedures, indicators of compromise, capabilities, and activities that present risks to the energy sector.
+    >   - **(iii)** by increasing the energy sector’s understanding of threat actor tactics, techniques, procedures, indicators of compromise, capabilities, and activities that present risks to the energy sector;
 
   - **(C)** in subparagraph (D), as so redesignated, by striking “sector;” and inserting “sector; and”;
   - **(D)** in subparagraph (E), as so redesignated, by striking “; and” and inserting “.”; and
   - **(E)** by striking subparagraph (F), as so redesignated;
-- **(2)** by redesignating paragraph (2) as paragraph (6);
+- **(2)** by redesignating paragraph (2) as paragraph (7);
 - **(3)** by inserting after paragraph (1) the following:
   > - **(2)** *Energy Threat Analysis Center* The Secretary may carry out any activity of the program developed and carried out under paragraph (1) through an Energy Threat Analysis Center, which may be established at one or more physical locations.
   > - **(3)** *No right or benefit*
@@ -40,5 +40,8 @@ Section 40125(c) of the Infrastructure Investment and Jobs Act (42 U.S.C. 18724(
   > - **(5)** *Exemption from disclosure* Information shared by or with the Federal Government or a State, Tribal, or local government under the program developed and carried out under paragraph (1) shall be—
   >   - **(A)** deemed voluntarily shared information and exempt from disclosure under section 552 of title 5, United States Code, and any State, Tribal, or local provision of law requiring disclosure of information or records; and
   >   - **(B)** withheld, without discretion, from the public under section 552(b)(3)(B) of title 5, United States Code, and any State, Tribal, or local provision of law requiring disclosure of information or records.
+  > - **(6)** *Transaction authority*
+  >   - **(A)** *In general* In addition to any other authority granted to the Secretary under any other provision of law, the Secretary is authorized to enter into and perform contracts, cooperative agreements, grants, and other transactions with public agencies, private organizations, and persons to carry out the program developed and carried out under paragraph (1).
+  >   - **(B)** *Minimizing delays* The Secretary may establish and utilize pre-approved national security contracting mechanisms, model partnership agreements, and expedited review procedures for purposes of entering into transactions under subparagraph (A).
 
-- **(4)** in paragraph (6), as so redesignated, by striking “2022 through 2026” and inserting “2027 through 2031”.
+- **(4)** in paragraph (7), as so redesignated, by striking “2022 through 2026” and inserting “2027 through 2031”.

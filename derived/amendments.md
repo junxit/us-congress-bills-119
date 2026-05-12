@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7305
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -44,7 +44,7 @@ to guess them.
 
 ### 42 U.S.C. § 18724
 
-> in paragraph (6), as so redesignated, by striking “2022 through 2026” and inserting “2027 through 2031”.
+> in paragraph (7), as so redesignated, by striking “2022 through 2026” and inserting “2027 through 2031”.
 
 | | |
 |---|---|
@@ -63,5 +63,5 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 18724` | redesignate | by redesignating subparagraphs (A) through (E) as subparagraphs (B) through (F), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 18724` | redesignate | by inserting before subparagraph (B), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 18724` | redesignate | by striking subparagraph (F), as so redesignated; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 18724` | redesignate | by redesignating paragraph (2) as paragraph (6); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 18724` | redesignate | by redesignating paragraph (2) as paragraph (7); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 18724` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

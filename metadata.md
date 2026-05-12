@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7305
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7305
@@ -30,3 +30,8 @@ Energy Threat Analysis Center Act of 2026
 - 2026-02-02 — Introduced in House
 - 2026-02-02 — Referred to the House Committee on Energy and Commerce.
 - 2026-02-02 — Referred to the Subcommittee on Energy.
+- 2026-02-04 — Forwarded by Subcommittee to Full Committee by Voice Vote.
+- 2026-02-04 — Subcommittee Consideration and Mark-up Session Held
+- 2026-05-12 — Placed on the Union Calendar, Calendar No. 563.
+- 2026-05-12 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-646.
+- 2026-05-12 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-646.
