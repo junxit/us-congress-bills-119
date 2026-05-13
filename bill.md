@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1346
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -9,11 +9,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To amend the Clean Air Act with respect to the ethanol waiver for Reid Vapor Pressure under that Act, and for other purposes.
 
-## § 1. Short title
-
-This Act may be cited as the “Nationwide Consumer and Fuel Retailer Choice Act of 2025”.
-
-## § 2. Nationwide Consumer and Fuel Retailer Choice Act of 2024
+## § 1. Year-Round E15 and RFS Reform
 
 - **(a)** *Ethanol waiver*
   - **(1)** *Existing waivers* Section 211(f)(4) of the Clean Air Act (42 U.S.C. 7545(f)(4)) is amended—
@@ -39,11 +35,35 @@ This Act may be cited as the “Nationwide Consumer and Fuel Retailer Choice Act
     - **(A)** by striking “vapor pressure” each place it appears and inserting “Vapor Pressure”;
     - **(B)** in paragraph (4), in the matter preceding subparagraph (A), by striking “10 percent” and inserting “10 to 15 percent”; and
     - **(C)** in paragraph (5)(A)—
-      - **(i)** by striking “Upon notification, accompanied by” and inserting “On receipt of a notification that is submitted after the date of enactment of the Nationwide Consumer and Fuel Retailer Choice Act of 2025, and is accompanied by appropriate”;
+      - **(i)** by striking “Upon notification, accompanied by” and inserting “On receipt of a notification that is submitted after the date of enactment of the Farm, Food, and National Security Act of 2026, and is accompanied by appropriate”;
       - **(ii)** by striking “10 percent” and inserting “10 to 15 percent”; and
-      - **(iii)** by adding at the end the following: “Upon the date of enactment of the Nationwide Consumer and Fuel Retailer Choice Act of 2025, any State for which the notification from the Governor of a State was submitted before the date of enactment of the Nationwide Consumer and Fuel Retailer Choice Act of 2025 and to which the Administrator applied the Reid Vapor Pressure limitation established by paragraph (1) shall instead have the Reid Vapor Pressure limitation established by paragraph (4) apply to all fuel blends containing gasoline and 10 to 15 percent denatured anhydrous ethanol that are sold, offered for sale, dispensed, supplied, offered for supply, transported, or introduced into commerce in the area during the high ozone season.”.
-- **(b)** *Generation of credits by small refineries under the renewable fuel program* Section 211(o)(9) of the Clean Air Act (42 U.S.C. 7545(o)(9)) is amended by adding at the end the following:
-  > - **(E)** *Credits generated for 2016–2018 compliance years*
+      - **(iii)** by adding at the end the following: “Upon the enactment of the Farm, Food, and National Security Act of 2026, any State for which the notification from the Governor of a State was submitted after January 1, 2022, and before the date of enactment of the Farm, Food, and National Security Act of 2026 and to which the Administrator applied the Reid Vapor Pressure limitation established by paragraph (1) shall instead have the Reid Vapor Pressure limitation established by paragraph (4) apply to all fuel blends containing gasoline and 10 to 15 percent denatured anhydrous ethanol that are sold, offered for sale, dispensed, supplied, offered for supply, transported, or introduced into commerce in the area during the high ozone season.”.
+- **(b)** *Definition of small refining company* Section 211(o)(1) of the Clean Air Act (42 U.S.C. 7545(o)(1)) is amended—
+  - **(1)** by redesignating subparagraph (L) as subparagraph (M); and
+  - **(2)** by inserting after subparagraph (K) the following:
+    > - **(L)** *Small refining company* The term small refining company means a company, entity, or group of affiliated entities, including through subsidiaries, parent companies, joint ventures, holding companies, spin-offs, or other associated corporate or legal structures, the daily average aggregate production of obligated fuels of which for calendar year 2025 did not exceed 75,000 barrels per day across all of the facilities of the company, entity, or group of affiliated entities that produced transportation fuel subject to the requirements of paragraph (2).
+
+- **(c)** *Termination of petitions; adjusted small refining company obligation*
+  - **(1)** *In general* Section 211(o)(9) of the Clean Air Act (42 U.S.C. 7545(o)(9)) is amended—
+    - **(A)** in subparagraph (B)—
+      - **(i)** in clause (i), by striking “A small” and inserting “Subject to clause (iv), a small”; and
+      - **(ii)** by adding at the end the following:
+        > - **(iv)** *Termination of exemption and petitions*
+        >   - **(I)** *In general* Beginning in calendar year 2028, the Administrator may not apply or enforce any extension of an exemption granted pursuant to a petition under this subparagraph or otherwise continue to enforce the exemption under subparagraph (A) with respect to any small refinery.
+        >   - **(II)** *Limitation on petitions* Notwithstanding any other provision of law—
+        >     - **(aa)** no small refinery may petition for an extension under this subparagraph with respect to any calendar year after calendar year 2027;
+        >     - **(bb)** the Administrator may not consider any petition for an extension under this subparagraph, with respect to any calendar year, that is submitted after July 1, 2028; and
+        >     - **(cc)** to the maximum extent practicable, the Administrator shall, not later than October 1, 2028, act on all outstanding petitions.
+
+    - **(B)** by redesignating subparagraphs (C) and (D) as subparagraphs (D) and (E), respectively; and
+    - **(C)** by inserting after subparagraph (B) the following:
+      > - **(C)** *Adjusted compliance requirements for small refining companies*
+      >   - **(i)** *In general* Beginning in calendar year 2028, the Administrator shall, subject to clause (ii), reduce the compliance requirements of each small refining company under paragraph (2) by 75 percent.
+      >   - **(ii)** *No subsequent redesignation* If the average aggregate daily production of obligated fuels of a small refining company exceeds the limit described in paragraph (1)(L) in calendar year 2026 or any subsequent calendar year, the small refining company shall no longer be eligible for the adjusted compliance requirements under clause (i) during that calendar year or any subsequent calendar year, regardless of whether the average aggregate daily production of obligated fuels of the small refining company drops below that limit again.
+
+  - **(2)** *Savings provision* Nothing in this Act or an amendment made by this Act affects any remedy available to a small refinery (as defined in paragraph (1) of section 211(o) of the Clean Air Act (42 U.S.C. 7545(o))) with respect to petitions for extensions of exemptions under paragraph (9) of that section and, for purposes of the application of such extensions and the review of the denial of such petitions, section 211(o)(9) of the Clean Air Act (42 U.S.C. 7545(o)(9)) shall be applied as in effect on the day before the date of enactment of this Act.
+- **(d)** *Generation of credits by small refineries under the renewable fuel program* Section 211(o)(9) of the Clean Air Act (42 U.S.C. 7545(o)(9)) is further amended by adding at the end the following:
+  > - **(F)** *Credits generated for 2016–2018 compliance years*
   >   - **(i)** *Rule* For any small refinery described in clause (ii) or (iii), the credits described in the respective clause shall be—
   >     - **(I)** returned to the small refinery and, notwithstanding paragraph (5)(C), deemed eligible for future compliance years; or
   >     - **(II)** applied as a credit in the EPA Moderated Transaction System (EMTS) account of the small refinery.
@@ -56,3 +76,38 @@ This Act may be cited as the “Nationwide Consumer and Fuel Retailer Choice Act
   >     - **(III)** for which—
   >       - **(aa)** the petition remained outstanding as of December 1, 2022; or
   >       - **(bb)** the Administrator denied the petition as of July 1, 2022, and has not returned the retired credits as of December 1, 2022.
+
+- **(e)** *Prohibition on reallocation of obligated volumes* Section 211(o)(9) of the Clean Air Act (42 U.S.C. 7545(o)(9)) is further amended by adding at the end the following:
+  > - **(G)** *Prohibition on reallocation* For the purpose of making the determinations in paragraph (2)(B)(ii), for calendar year 2028 and each calendar year thereafter, the Administrator may not reallocate to other persons any renewable fuel obligation applicable to a small refining company the compliance requirements of which were reduced pursuant to subparagraph (C).
+
+- **(f)** *Fuel infrastructure rulemaking*
+  - **(1)** *In general* Not later than 18 months after the date of enactment of this Act, the Administrator of the Environmental Protection Agency shall, after a period of notice and public comment, finalize a rule modifying the regulations of the Environmental Protection Agency under the Clean Air Act (42 U.S.C. 7401 et seq.) and the Solid Waste Disposal Act (42 U.S.C. 6901 et seq.) (commonly known as the “Resource Conservation and Recovery Act of 1976”) relating to the sale and distribution of gasoline-ethanol blends that contain greater than 10 volume percent ethanol and less than or equal to 15 volume percent ethanol.
+  - **(2)** *Requirement* In finalizing the rule required under paragraph (1), the Administrator of the Environmental Protection Agency shall modify the E15 fuel dispenser labeling requirements and the underground storage tank regulations of the Environmental Protection Agency with respect to compatibility with gasoline-ethanol blends.
+- **(g)** *Exemption for at-risk qualifying small refineries* Section 211(o)(9) of the Clean Air Act (42 U.S.C. 7545(o)(9)) is further amended by adding at the end the following:
+  > - **(H)** *Exemption for at-risk qualifying small refineries*
+  >   - **(i)** *In general* Beginning in calendar year 2028, not later than December 31 of a calendar year, a qualifying small refinery may petition the Administrator for an exemption from compliance with the requirements of paragraph (2) for such calendar year for the reason of the imminent risk of closure, permanent idling, or conversion to a renewable fuel production facility.
+  >   - **(ii)** *Matters included in petitions* In submitting a petition for an exemption under clause (i), a qualifying small refinery shall include in such petition the following:
+  >     - **(I)** Information demonstrating that—
+  >       - **(aa)** the qualifying small refinery is at imminent risk of closure, permanent idling, or conversion to a renewable fuel production facility;
+  >       - **(bb)** such risk is solely caused by the cost of compliance with the requirements of paragraph (2); and
+  >       - **(cc)** the ownership of the qualifying small refinery has not changed after the date of enactment of this paragraph.
+  >     - **(II)** An attestation, executed by a senior corporate officer (or any equivalent position) with direct responsibility for the applicable operations of the qualifying small refinery, certifying that the information included under subclause (I) is correct.
+  >   - **(iii)** *Public disclosure* Any petition submitted under this subparagraph, including any information, attestation, or other supporting documentation included in such a petition—
+  >     - **(I)** shall not be eligible for treatment as confidential business information for purposes of section 114(c) or any other provision of law; and
+  >     - **(II)** shall be made publicly available by the Administrator not later than 30 days after the date of such submission.
+  >   - **(iv)** *Deadline for action on petitions* The Administrator shall act on any petition submitted by a qualifying small refinery for an exemption under this subparagraph not later than 90 days after the date of receipt of the petition.
+  >   - **(v)** *Administrator determination* The Administrator may grant an exemption under this subparagraph only upon a determination by the Administrator that the petition submitted for the exemption adequately demonstrates the matters specified in items (aa) through (cc) of clause (ii)(I) and includes the attestation described in clause (ii)(II).
+  >   - **(vi)** *Scope and duration* An exemption granted for a qualifying small refinery under this subparagraph—
+  >     - **(I)** may exempt the qualifying small refinery from compliance with the requirements of paragraph (2) in whole or in part;
+  >     - **(II)** may only exempt the qualifying small refinery from compliance with the requirements of paragraph (2) to the extent necessary to prevent the closure, permanent idling, or conversion described in clause (i); and
+  >     - **(III)** shall only apply with respect to the calendar year for which the petition for the exemption is submitted.
+  >   - **(vii)** *Exempted volumes*
+  >     - **(I)** *In general* In acting on petitions submitted by qualifying small refineries for exemptions under this subparagraph, the Administrator may not exempt, in total, renewable fuel obligations for qualifying small refineries such that the total volume of renewable fuel so exempted exceeds the relevant volume cap for the applicable calendar year described in subclause (II).
+  >     - **(II)** *Volume cap* The volume cap described in this subclause is—
+  >       - **(aa)** for calendar year 2028, the volume of all renewable fuel, including advanced biofuel, cellulosic biofuel, biomass-based diesel, and conventional biofuel, that the Administrator determines has, in total, an energy content equal to the energy content of 150 million gallons of conventional biofuel; and
+  >       - **(bb)** for each calendar year after calendar year 2028, the volume of renewable fuel determined under item (aa), as adjusted by the Administrator in direct proportion to any changes to the applicable volume of renewable fuel established for the calendar year under paragraph (2)(B)(ii) as compared to the applicable volume of renewable fuel established for calendar year 2028.
+  >   - **(viii)** *Qualifying small refinery defined* In this subparagraph, the term qualifying small refinery means a small refinery—
+  >     - **(I)** that received an extension of an exemption under paragraph (9); or
+  >     - **(II)**
+  >       - **(aa)** for which the average aggregate daily crude oil throughput for a calendar year (as determined by dividing the aggregate throughput for the calendar year by the number of days in the calendar year) does not exceed 10,000 barrels; and
+  >       - **(bb)** that began production on or after January 1, 2007, and before January 1, 2026.

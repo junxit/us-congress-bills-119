@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1346
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-11 amendatory instructions. 5 executed, 6 stated and not applied.
+19 amendatory instructions. 6 executed, 13 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -53,12 +53,12 @@ to guess them.
 
 ### 42 U.S.C. § 7545
 
-> by striking “Upon notification, accompanied by” and inserting “On receipt of a notification that is submitted after the date of enactment of the Nationwide Consumer and Fuel Retailer Choice Act of 2025, and is accompanied by appropriate”;
+> by striking “Upon notification, accompanied by” and inserting “On receipt of a notification that is submitted after the date of enactment of the Farm, Food, and National Security Act of 2026, and is accompanied by appropriate”;
 
 | | |
 |---|---|
 | Removed | `Upon notification, accompanied by` |
-| Inserted | `On receipt of a notification that is submitted after the date of enactment of the Nationwide Consumer and Fuel Retailer Choice Act of 2025, and is accompanied by appropriate` |
+| Inserted | `On receipt of a notification that is submitted after the date of enactment of the Farm, Food, and National Security Act of 2026, and is accompanied by appropriate` |
 
 ### 42 U.S.C. § 7545
 
@@ -68,6 +68,15 @@ to guess them.
 |---|---|
 | Removed | `10 percent` |
 | Inserted | `10 to 15 percent` |
+
+### 42 U.S.C. § 7545
+
+> in clause (i), by striking “A small” and inserting “Subject to clause (iv), a small”; and
+
+| | |
+|---|---|
+| Removed | `A small` |
+| Inserted | `Subject to clause (iv), a small` |
 
 ## Stated, not applied
 
@@ -82,5 +91,12 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 7545` | strike | by striking “of this subsection” each place it appears; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 7545` | replace | in the second sentence, by striking “The Administrator” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 7545` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 7545` | add-at-end | by adding at the end the following: “Upon the date of enactment of the Nationwide Consumer and Fuel Retailer Choice Act of 2025, any State for which the notification from the Governor of a State was submitted before the date of enactment… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 7545` | add-at-end | Section 211(o)(9) of the Clean Air Act (42 U.S.C. 7545(o)(9)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 7545` | add-at-end | by adding at the end the following: “Upon the enactment of the Farm, Food, and National Security Act of 2026, any State for which the notification from the Governor of a State was submitted after January 1, 2022, and before the date of e… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 7545` | redesignate | by redesignating subparagraph (L) as subparagraph (M); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 7545` | insert | by inserting after subparagraph (K) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 7545` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 7545` | redesignate | by redesignating subparagraphs (C) and (D) as subparagraphs (D) and (E), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 7545` | insert | by inserting after subparagraph (B) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 7545` | add-at-end | Section 211(o)(9) of the Clean Air Act (42 U.S.C. 7545(o)(9)) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 7545` | add-at-end | Section 211(o)(9) of the Clean Air Act (42 U.S.C. 7545(o)(9)) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 7545` | add-at-end | Section 211(o)(9) of the Clean Air Act (42 U.S.C. 7545(o)(9)) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
