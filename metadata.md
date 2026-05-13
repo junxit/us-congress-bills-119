@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 711
 congress: 119
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 711
@@ -32,3 +32,7 @@ A resolution expressing support for the designation of May 2026 as "National Bee
 
 - 2026-04-30 — Referred to the Committee on Agriculture, Nutrition, and Forestry. (text: CR S2176)
 - 2026-04-30 — Submitted in Senate
+- 2026-05-13 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2026-05-13 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2026-05-13 — Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent.
+- 2026-05-13 — Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent. (consideration: CR S2283)
