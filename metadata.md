@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8352
 congress: 119
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 8352
@@ -42,3 +42,7 @@ Criminal History Access Act of 2026
 - 2026-05-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3370-3371)
 - 2026-05-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3370-3371)
 - 2026-05-13 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
+- 2026-09-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5299)
+- 2026-09-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2026-09-30 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2026-09-30 — Senate Committee on the Judiciary discharged by Unanimous Consent.
