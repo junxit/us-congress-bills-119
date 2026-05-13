@@ -1,0 +1,29 @@
+---
+legis-num: S. 4508
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4508
+
+> To prohibit the sharing of certain information about Federal law enforcement officers, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Blocking Leaks Undermining Enforcement Act” or the “BLUE Act”.
+
+## § 2. Prohibition on sharing of certain information
+
+Section 119 of title 18, United States Code, is amended—
+
+- **(1)** in subsection (a)—
+  - **(A)** in paragraph (1), by striking “or” at the end;
+  - **(B)** in paragraph (2), by striking the comma at the end and inserting “; or”; and
+  - **(C)** by inserting after paragraph (2) the following:
+    > - **(3)** in the case of a covered person who is a Federal law enforcement officer, with the intent to physically obstruct, impede, interfere with, or retaliate against, or to aid another in physically obstructing, impeding, interfering with, or retaliating against, any lawful duty, investigation, operation, or official proceeding of the United States involving such officer,
+
+- **(2)** in subsection (b)—
+  - **(A)** in paragraph (1), by inserting “, and, with respect to a Federal law enforcement officer, any physical location at which such officer is or is reasonably expected to be present (whether on or off duty)” after “that individual”; and
+  - **(B)** by amending paragraph (4) to read as follows:
+    > - **(4)** the terms “Federal law enforcement officer” and “immediate family” have the meanings given the terms in section 115.
