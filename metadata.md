@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2267
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2267
@@ -21,9 +21,10 @@ NICS Data Reporting Act of 2026
 - Rep. Cline, Ben [R-VA-6] (C001118)
 - Rep. Spartz, Victoria [R-IN-5] (S000929)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ NICS Data Reporting Act of 2026
 - 2026-05-12 — Mr. Massie moved to suspend the rules and pass the bill, as amended.
 - 2026-05-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3369)
 - 2026-05-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3369)
+- 2026-05-13 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
