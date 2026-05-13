@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2853
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2853
@@ -225,9 +225,10 @@ Combating Organized Retail Crime Act of 2025
 - Rep. Moore, Riley M. [R-WV-2] (M001235)
 - Rep. Kim, Young [R-CA-40] (K000397)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -251,3 +252,4 @@ Combating Organized Retail Crime Act of 2025
 - 2026-05-12 — Mr. Knott moved to suspend the rules and pass the bill, as amended.
 - 2026-05-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 348 - 60 (Roll no. 157). (text: CR H3364-3366)
 - 2026-05-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 348 - 60 (Roll no. 157). (text: CR H3364-3366)
+- 2026-05-13 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
