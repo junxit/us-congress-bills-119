@@ -1,0 +1,34 @@
+---
+legis-num: H.R. 8784
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8784
+
+> To amend title XVIII of the Social Security Act to require hospitals and freestanding birth centers to notify each mother of a miscarried fetus of her rights with respect to such fetus, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Bereaved Parents Rights Act”.
+
+## § 2. Hospital and birth center notice and fetal disposition requirements
+
+Section 1866(a) of the Social Security Act (42 U.S.C. 1395cc(a)) is amended—
+
+- **(1)** in paragraph (1)—
+  - **(A)** by moving subparagraphs (W) and (X) 2 ems to the left;
+  - **(B)** in subparagraph (X), by striking “and” at the end;
+  - **(C)** in subparagraph (Y), by striking the period at the end and inserting “, and”; and
+  - **(D)** by inserting after subparagraph (Y) the following new subparagraph:
+    > - **(Z)** beginning on the date that is 30 days after the date of enactment of this subparagraph, in the case of a hospital or freestanding birth center (as defined in section 1905(l)), to meet the requirements of paragraph (4).
+
+- **(2)** by adding at the end the following new paragraph:
+  > - **(4)(A)** For purposes of paragraph (1)(Z), a hospital or freestanding birth center shall—
+  >   - **(i)** in the case that the hospital or freestanding birth center has custody of a fetus following a miscarriage or stillbirth, not later than the earliest of 6 hours following the miscarriage or stillbirth or when the parent is discharged from such hospital or freestanding birth center, notify the parent or parents of the fetus (using a form developed by the Secretary) of the right of the parents to—
+  >     - **(I)** a private or common burial of the fetus;
+  >     - **(II)** cremation of the fetus; or
+  >     - **(III)** disposal of the fetus by the hospital or freestanding birth center; and
+  >   - **(ii)** in the case that, not later than 72 hours after receiving the notice described in clause (i), a parent elects in writing (using the form described in such clause) to arrange for the burial or cremation of the fetus, ensure that the disposition of the fetus follows the same fetal death disposition options of the State that apply in the case of a fetal death that occurs in the State.
+  > - **(B)** Any individual who is harmed as a result of a violation of the requirements of subparagraph (A) may bring a civil action in an appropriate district court of the United States for appropriate relief.
