@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7082
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -71,7 +71,7 @@ to guess them.
 
 ### 20 U.S.C. § 7221b
 
-> in paragraph (2), by striking “The Secretary, and each State entity awarding subgrants under this section, shall” and inserting “The Secretary shall, and each State entity awarding subgrants under this section may,”;
+> in paragraph (2), by striking “The Secretary, and each State entity awarding subgrants under this section, shall” and inserting “The Secretary shall, and each State entity awarding subgrants under this section may,”; and
 
 | | |
 |---|---|
@@ -149,8 +149,8 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 7221b` | insert | in paragraph (2), by inserting “, including costs to provide such assistance,” after “provide technical assistance”; | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 7221b` | insert | in paragraph (1), in the matter preceding subparagraph (A), by inserting “, over the course of the grant period described in subsection (d)(1)(A)” after “shall”; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 7221b` | add-at-end | in paragraph (3), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 7221b` | strike | by striking paragraph (3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 7221b` | redesignate | by redesignating paragraphs (4) and (5) as paragraphs (3) and (4), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 7221b` | insert | in the heading of such subsection, by inserting “Advance Payments; ” after “Peer Review; ”; | the bill quotes the text inserted but describes where it goes |
+| `20 U.S.C. § 7221b` | amend | by amending paragraph (3) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 7221b` | amend | by amending clause (i) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 7221b` | strike | in subclause (II) of clause (vi), by striking “in a manner consistent with the eligible applicant’s application for such subgrant”; | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 7221b` | insert | in clause (xi), by inserting “in the case of a State entity described in subsection (a)(1) or (a)(3),” before “support”; and | the bill quotes the text inserted but describes where it goes |
@@ -165,7 +165,7 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 7221b` | strike | in subparagraph (F), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 7221b` | replace | in subparagraph (G)(v), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 7221b` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 7221b` | strike | by striking subparagraph (B); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 7221b` | redesignate | by striking subparagraph (B) (and redesignating subparagraphs (C) through (E) as (B) through (D), respectively); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 7221b` | strike | in subparagraph (C), by striking “meet those objectives and”; | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 7221b` | amend | by amending paragraph (1)(B) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 7221b` | insert | by inserting “academic subscriptions (including digital and online subscriptions),” after “training,”; and | the bill quotes the text inserted but describes where it goes |

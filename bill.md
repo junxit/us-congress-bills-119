@@ -50,10 +50,15 @@ Section 4303 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 72
     > - **(C)** *Single-sex schools and services* Nothing in this part shall be construed to prohibit schools from providing educational services to students of a single sex.
 
 - **(3)** in subsection (d)—
-  - **(A)** in paragraph (1)(B), by striking “of which” and all that follows through “program design” and inserting “of which an eligible applicant may use not more than a period of time determined by the State entity (which may not exceed 2 years) for planning and program design”;
-  - **(B)** in paragraph (2), by striking “The Secretary, and each State entity awarding subgrants under this section, shall” and inserting “The Secretary shall, and each State entity awarding subgrants under this section may,”;
-  - **(C)** by striking paragraph (3); and
-  - **(D)** by redesignating paragraphs (4) and (5) as paragraphs (3) and (4), respectively;
+  - **(A)** in the heading of such subsection, by inserting “Advance Payments; ” after “Peer Review; ”;
+  - **(B)** in paragraph (1)(B), by striking “of which” and all that follows through “program design” and inserting “of which an eligible applicant may use not more than a period of time determined by the State entity (which may not exceed 2 years) for planning and program design”;
+  - **(C)** in paragraph (2), by striking “The Secretary, and each State entity awarding subgrants under this section, shall” and inserting “The Secretary shall, and each State entity awarding subgrants under this section may,”; and
+  - **(D)** by amending paragraph (3) to read as follows:
+    > - **(3)** *Advance payments* Notwithstanding any other provision of law, the Secretary shall take such steps as are necessary to ensure that—
+    >   - **(A)** an eligible applicant awarded a subgrant by a State entity under this section may request advance payments of subgrant funds for the purposes described in subsection (b)(1), and upon such request, such State entity shall provide advance payments of such funds awarded to the eligible applicant in accordance with section 200.305(b)(1) of title 2, Code of Federal Regulations (or successor regulations);
+    >   - **(B)** a State entity shall be provided with advance payments of grant funds in accordance with section 200.305(b)(1) of title 2, Code of Federal Regulations (or successor regulations) in an amount sufficient to provide advance payments to an eligible applicant under subparagraph (A); and
+    >   - **(C)** mutually agreed upon funding techniques, such as those described in part 205.12 of title 31, Code of Federal Regulations (or successor regulations), are in place with States or State entities, as appropriate, to receive funds under this section in a manner that permits a State entity to receive advance payments of grant funds, and provide to eligible applicants advance payments of subgrant funds, in accordance with subparagraphs (A) and (B).
+
 - **(4)** in subsection (e)(1), by striking “is currently using” and inserting “has not obligated all funds received pursuant to”;
 - **(5)** in subsection (f)—
   - **(A)** in paragraph (1)—
@@ -87,7 +92,7 @@ Section 4303 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 72
       > - **(H)** the State entity will ensure that each charter school receiving funds under the State entity’s program will address the transportation needs of their students.
 
 - **(6)** in subsection (g)(1)—
-  - **(A)** by striking subparagraph (B); and
+  - **(A)** by striking subparagraph (B) (and redesignating subparagraphs (C) through (E) as (B) through (D), respectively); and
   - **(B)** in subparagraph (C), by striking “meet those objectives and”;
 - **(7)** in subsection (h)—
   - **(A)** by amending paragraph (1)(B) to read as follows:
@@ -125,10 +130,9 @@ Section 4305 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 72
   >       - **(i)** are located in States that have enacted legislation within a period of 5 years prior to the award of a grant under this section for such purpose;
   >       - **(ii)** serve rural students; and
   >       - **(iii)** serve students with disabilities; and
-  >     - **(F)** evaluate the impact of the charter school program carried out under this part, including with respect to student achievement; and
-  >   - **(2)** after the uses described in paragraph (1), use the remainder of such funds to—
-  >     - **(A)** award grants in accordance with subsection (b); and
-  >     - **(B)** award grants, on a competitive basis, to eligible applicants for the purpose of carrying out the activities described in section 4303(h) in a State that did not receive a grant under such section.
+  >     - **(F)** evaluate the impact of the charter school program carried out under this part, including with respect to student achievement;
+  >   - **(2)** use not more than 15 percent of such funds to award grants, on a competitive basis, to eligible applicants for the purpose of carrying out the activities described in section 4303(h) in a State that did not receive a grant under section 4303; and
+  >   - **(3)** after the uses described in paragraphs (1) and (2), use the remainder of such funds to award grants in accordance with subsection (b); and
 
 - **(2)** in subsection (b)—
   - **(A)** in paragraph (3)(B)—
