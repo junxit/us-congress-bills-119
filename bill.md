@@ -2,7 +2,7 @@
 legis-num: H.R. 8352
 congress: 119th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 8352
@@ -35,4 +35,4 @@ This Act may be cited as the “Criminal History Access Act of 2026”.
       > - **(2)** the term peace officer standards and training agency means an agency of a State with the statutory authority under State law to set standards for the hiring, training, ethical conduct, and retention of the law enforcement officers of the State through certification, licensing, or other similar qualification process; and
       > - **(3)** the term State means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any territory or possession of the United States.
 
-- **(b)** *Regulations* Not later than 180 days after the date of enactment of this Act, the Attorney General shall amend part 20 of title 28, Code of Federal Regulations, as necessary to carry out the provisions of this Act.
+- **(b)** *Regulations* Not later than 180 days after the date of enactment of this Act, the Attorney Generalshall amend part 20 of title 28, Code of Federal Regulations, as necessary to carry out the provisions of this Act.

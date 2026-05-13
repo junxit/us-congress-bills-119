@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8352
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8352
@@ -20,9 +20,10 @@ Criminal History Access Act of 2026
 
 - Rep. Ross, Deborah K. [D-NC-2] (R000305)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Criminal History Access Act of 2026
 - 2026-05-12 — Mr. Schmidt moved to suspend the rules and pass the bill, as amended.
 - 2026-05-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3370-3371)
 - 2026-05-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3370-3371)
+- 2026-05-13 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
