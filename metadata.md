@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3709
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3709
@@ -16,9 +16,10 @@ Advancing the Mentor-Protégé Program for Small Financial Institutions Act
 
 - Rep. Beatty, Joyce [D-OH-3] (B001281)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ Advancing the Mentor-Protégé Program for Small Financial Institutions Act
 - 2026-05-12 — Mr. Hill (AR) moved to suspend the rules and pass the bill, as amended.
 - 2026-05-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3356)
 - 2026-05-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3356)
+- 2026-05-13 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
