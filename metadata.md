@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4437
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4437
@@ -20,9 +20,10 @@ SMART Act of 2025
 
 - Rep. Foster, Bill [D-IL-11] (F000454)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ SMART Act of 2025
 - 2026-05-12 — Mr. Hill (AR) moved to suspend the rules and pass the bill, as amended.
 - 2026-05-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3353-3354)
 - 2026-05-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3353-3354)
+- 2026-05-13 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
