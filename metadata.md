@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2071
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2071
@@ -39,9 +39,10 @@ Save Our Shrimpers Act
 - Rep. Rouzer, David [R-NC-7] (R000603)
 - Rep. Davis, Donald G. [D-NC-1] (D000230)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -66,3 +67,4 @@ Save Our Shrimpers Act
 - 2026-05-12 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 391 - 18, 1 Present (Roll no. 156). (text: CR H3352)
 - 2026-05-12 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 391 - 18, 1 Present (Roll no. 156). (text: CR H3352)
 - 2026-05-12 — The title of the measure was amended. Agreed to without objection.
+- 2026-05-13 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
