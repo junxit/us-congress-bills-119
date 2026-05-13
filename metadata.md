@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1252
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.Res. 1252
@@ -16,7 +16,7 @@ Resolution memorializing law enforcement officers killed in the line of duty.
 
 - Rep. Guest, Michael [R-MS-3] (G000591)
 
-## Cosponsors (57)
+## Cosponsors (126)
 
 - Rep. Letlow, Julia [R-LA-5] (L000595)
 - Rep. Pappas, Chris [D-NH-1] (P000614)
@@ -75,10 +75,83 @@ Resolution memorializing law enforcement officers killed in the line of duty.
 - Rep. Langworthy, Nicholas A. [R-NY-23] (L000600)
 - Rep. McGuire, John J. [R-VA-5] (M001239)
 - Rep. Hinson, Ashley [R-IA-2] (H001091)
+- Rep. Higgins, Clay [R-LA-3] (H001077)
+- Rep. Strong, Dale W. [R-AL-5] (S001220)
+- Rep. Cisneros, Gilbert Ray [D-CA-31] (C001123)
+- Rep. Min, Dave [D-CA-47] (M001241)
+- Rep. Houchin, Erin [R-IN-9] (H001093)
+- Rep. Lynch, Stephen F. [D-MA-8] (L000562)
+- Rep. Hudson, Richard [R-NC-9] (H001067)
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
+- Rep. Gillen, Laura [D-NY-4] (G000602)
+- Rep. Mace, Nancy [R-SC-1] (M000194)
+- Rep. McCaul, Michael T. [R-TX-10] (M001157)
+- Rep. Vindman, Eugene Simon [D-VA-7] (V000138)
+- Rep. Wagner, Ann [R-MO-2] (W000812)
+- Rep. Riley, Josh [D-NY-19] (R000622)
+- Rep. Sessions, Pete [R-TX-17] (S000250)
+- Rep. Mannion, John W. [D-NY-22] (M001231)
+- Rep. Tokuda, Jill N. [D-HI-2] (T000487)
+- Rep. Scott, Austin [R-GA-8] (S001189)
+- Rep. Moskowitz, Jared [D-FL-23] (M001217)
+- Rep. Huizenga, Bill [R-MI-4] (H001058)
+- Rep. Davis, Donald G. [D-NC-1] (D000230)
+- Rep. Moore, Blake D. [R-UT-1] (M001213)
+- Rep. Barrett, Tom [R-MI-7] (B001321)
+- Rep. Kaptur, Marcy [D-OH-9] (K000009)
+- Rep. Panetta, Jimmy [D-CA-19] (P000613)
+- Rep. Perez, Marie Gluesenkamp [D-WA-3] (G000600)
+- Rep. Yakym, Rudy [R-IN-2] (Y000067)
+- Rep. Griffith, H. Morgan [R-VA-9] (G000568)
+- Rep. Houlahan, Chrissy [D-PA-6] (H001085)
+- Rep. Vasquez, Gabe [D-NM-2] (V000136)
+- Rep. Graves, Sam [R-MO-6] (G000546)
+- Rep. Rogers, Mike D. [R-AL-3] (R000575)
+- Rep. Craig, Angie [D-MN-2] (C001119)
+- Rep. Landsman, Greg [D-OH-1] (L000601)
+- Rep. Biggs, Andy [R-AZ-5] (B001302)
+- Rep. Costa, Jim [D-CA-21] (C001059)
+- Rep. Salinas, Andrea [D-OR-6] (S001226)
+- Rep. Tran, Derek [D-CA-45] (T000491)
+- Rep. Lee, Laurel M. [R-FL-15] (L000597)
+- Rep. Spartz, Victoria [R-IN-5] (S000929)
+- Rep. Case, Ed [D-HI-1] (C001055)
+- Rep. Diaz-Balart, Mario [R-FL-26] (D000600)
+- Rep. Goodlander, Maggie [D-NH-2] (G000604)
+- Rep. Hurd, Jeff [R-CO-3] (H001100)
+- Rep. Budzinski, Nikki [D-IL-13] (B001315)
+- Rep. Guthrie, Brett [R-KY-2] (G000558)
+- Rep. Courtney, Joe [D-CT-2] (C001069)
+- Rep. Kiggans, Jennifer A. [R-VA-2] (K000399)
+- Rep. Cuellar, Henry [D-TX-28] (C001063)
+- Rep. Bynum, Janelle S. [D-OR-5] (B001326)
+- Rep. Williams, Roger [R-TX-25] (W000816)
+- Rep. Goldman, Craig A. [R-TX-12] (G000601)
+- Rep. Torres, Norma J. [D-CA-35] (T000474)
+- Rep. Van Epps, Matt [R-TN-7] (V000139)
+- Rep. Calvert, Ken [R-CA-41] (C000059)
+- Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
+- Rep. Walberg, Tim [R-MI-5] (W000798)
+- Rep. DelBene, Suzan K. [D-WA-1] (D000617)
+- Rep. Titus, Dina [D-NV-1] (T000468)
+- Rep. Carson, André [D-IN-7] (C001072)
+- Rep. Edwards, Chuck [R-NC-11] (E000246)
+- Rep. Hill, J. French [R-AR-2] (H001072)
+- Rep. Fischbach, Michelle [R-MN-7] (F000470)
+- Rep. Pfluger, August [R-TX-11] (P000048)
+- Rep. Pou, Nellie [D-NJ-9] (P000621)
+- Rep. Thompson, Glenn [R-PA-15] (T000467)
+- Rep. Norman, Ralph [R-SC-5] (N000190)
+- Rep. Figures, Shomari [D-AL-2] (F000481)
+- Rep. Fallon, Pat [R-TX-4] (F000246)
 
 ## Committees (1)
 
 - House — Judiciary Committee
+
+## Recorded votes (1)
+
+- 2026-05-13 — [House 119-2-162](votes/house-119-2-0162.md) — On Motion to Suspend the Rules and Agree — **Passed** (418–2)
 
 ## Actions
 
@@ -86,3 +159,11 @@ Resolution memorializing law enforcement officers killed in the line of duty.
 - 2026-05-04 — Submitted in House
 - 2026-05-04 — Submitted in House
 - 2026-05-04 — Submitted in House
+- 2026-05-12 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2026-05-12 — Considered under suspension of the rules. (consideration: CR H3362-3364; text: CR H3362-3363)
+- 2026-05-12 — DEBATE - The House proceeded with forty minutes of debate on H. Res. 1252.
+- 2026-05-12 — Mr. Knott moved to suspend the rules and agree to the resolution.
+- 2026-05-13 — Considered as unfinished business. (consideration: CR H3420-3421)
+- 2026-05-13 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-05-13 — On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 418 - 2 (Roll no. 162).
+- 2026-05-13 — Passed/agreed to in House: On motion to suspend the rules and agree to the resolution Agreed to by the Yeas and Nays: (2/3 required): 418 - 2 (Roll no. 162).
