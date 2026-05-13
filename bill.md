@@ -1,0 +1,28 @@
+---
+legis-num: H. RES. 1280
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 1280
+
+> Supporting the designation the week of May 10 through May 16, 2026, as “Taiwanese American Heritage Week”.
+
+## Preamble
+
+- Whereas the United States was founded on the principles of freedom, democracy, and rule of law, values that Taiwanese Americans have carried with them and embodied throughout their history;
+- Whereas America is strengthened by people who bring talent, ingenuity and a commitment to freedom to the Nation;
+- Whereas generations of Taiwanese Americans have helped make America what it is today, more innovative, more competitive, and more secure;
+- Whereas more than 700,000 Taiwanese Americans call the United States home, with each individual bringing part of their own heritage;
+- Whereas Taiwanese Americans have made important contributions across all sectors of American society, distinguishing themselves as business leaders, public servants, Nobel laureates, scientists, doctors, scholars, educators, human rights advocates, and brave men and women in the United States Armed Forces;
+- Whereas Taiwanese Americans have emerged as pioneers in technology and innovation, including leaders who have shaped the global semiconductor industry;
+- Whereas the year of 2026 marks the 47th anniversary of the enactment into law of the 1979 “Taiwan Relations Act,” which is a cornerstone of United States-Taiwan relations;
+- Whereas Taiwan has become a key economic and technological partner of the United States, with significant investments in and collaborations with the United States that have helped position the United States as a leader in innovation and advanced manufacturing, fostering global supply chain resilience and economic security;
+- Whereas Taiwanese Americans play an integral role in strengthening the close and enduring partnership between the United States and Taiwan, serving as a vital bridge that promotes people-to-people ties and shared prosperity; and
+- Whereas, during this week, Taiwanese Americans honor and celebrate their unique heritage, culture, and identity: Now, therefore, be it
+
+That the House of Representatives—
+
+- **(1)** supports the designation of “Taiwanese American Heritage Week”; and
+- **(2)** celebrates the contributions of Taiwanese Americans to the United States.
