@@ -1,0 +1,23 @@
+---
+legis-num: S. 4532
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4532
+
+> To include smoke in the definition of disaster in the Small Business Act, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Small Business Wildfire Smoke Recovery Act”.
+
+## § 2. Definition of disaster
+
+Section 3(k)(2) of the Small Business Act (15 U.S.C. 632(k)(2)) is amended—
+
+- **(1)** in subparagraph (B), by striking “and” at the end;
+- **(2)** in subparagraph (C), by striking the period at the end and inserting “; and”; and
+- **(3)** by adding at the end the following:
+  > - **(D)** smoke.
