@@ -15,9 +15,9 @@ This Act may be cited as the “Monitor Accountability Act”.
 
 ## § 2. Conditions on the appointment of monitors by courts
 
-- **(a)** *In general* Not later than 180 days after the effective date of this section, the Director of the Administrative Office of the United States Courts shall by rule establish conditions on the appointment by a district court of the United States of any person charged, pursuant to a court order, with monitoring the conduct of a State or unit of local government. Such conditions shall include the following:
+- **(a)** *In general* Not later than 180 days after the effective date of this section, the Judicial Conference of the United States shall by rule establish conditions on the appointment by a district court of the United States of any person charged, pursuant to a court order, with monitoring the conduct of a State or unit of local government. Such conditions shall include the following:
   - **(1)** *Fees* Such person—
-    - **(A)** may not assess a fee in excess of such maximum rates as the Administrator may establish; and
+    - **(A)** may not assess a fee in excess of such maximum rates as the Judicial Conference of the United States may establish; and
     - **(B)** shall be authorized to employ the use of pro bono time or reduced rates.
   - **(2)** *Exclusivity and term* Such person may not be—
     - **(A)** appointed to more than one such monitorship at a time;
