@@ -25,7 +25,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - Whereas children who are sexually abused, especially when not provided appropriate treatment and support, often suffer lifelong consequences, such as physical and mental health challenges and higher risk of drug and alcohol misuse and suicide;
 - Whereas, in 2024, the National Center for Missing and Exploited Children’s CyberTipline received nearly 20,500,000 reports of suspected online child sexual exploitation;
 - Whereas education and awareness of possible signs of child abuse and neglect should be prioritized for purposes of prevention; and
-- Whereas, by intervening to prevent adversity and build resilience during the most critical years of development of a child, voluntary, evidence-based, home-visiting programs have shown positive impact on—(1)reducing the recurrence of child abuse and neglect;(2)decreasing the incidence of low-birthweight babies;(3)improved school readiness for children; and (4) increased high school graduation rates: Now, therefore, be it
+- Whereas, by intervening to prevent adversity and build resilience during the most critical years of development of a child, voluntary, evidence-based, home-visiting programs have shown positive impact on—(1)reducing the recurrence of child abuse and neglect;(2)decreasing the incidence of low-birthweight babies;(3)improved school readiness for children; and(4)increased high school graduation rates: Now, therefore, be it
 
 That the Senate—
 
