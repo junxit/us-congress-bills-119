@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1346
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1346
@@ -74,9 +74,10 @@ To amend the Clean Air Act with respect to the ethanol waiver for Reid Vapor Pre
 - Rep. Jackson, Jonathan L. [D-IL-1] (J000309)
 - Rep. Scholten, Hillary J. [D-MI-3] (S001221)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (2)
 
@@ -106,3 +107,4 @@ To amend the Clean Air Act with respect to the ethanol waiver for Reid Vapor Pre
 - 2026-05-13 — Rule provides for consideration of H.R. 7567, H.R. 2616, S. Con. Res. 33, S. 1318 and H.R. 1346. The resolution provides for consideration of H.R. 7567 under a structured rule and H.R. 2616, S. Con. Res. 33, S. 1318, and H.R. 1346 under a closed rule, with one hour of general debate on each measure. The resolution provides for one motion to recommit on H.R. 7567, H.R. 2616, and H.R. 1346, and one motion to commit on S. 1318.
 - 2026-05-13 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2026-05-13 — The previous question was ordered pursuant to the rule.
+- 2026-05-14 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
