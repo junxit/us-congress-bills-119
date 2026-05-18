@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5625
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5625
@@ -42,9 +42,10 @@ Cashless Bail Reporting Act
 - Rep. Cline, Ben [R-VA-6] (C001118)
 - Rep. Moore, Tim [R-NC-14] (M001236)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -74,3 +75,4 @@ Cashless Bail Reporting Act
 - 2026-05-14 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 308 - 116 (Roll no. 171). (text of amendment in the nature of a substitute: CR H3471)
 - 2026-05-14 — Rule provides for consideration of H.R. 5625, H.R. 6260, H.R. 8365, H. Con. Res. 96 and H.R. 8469. The resolution provides for consideration of H.R. 5625, H.R. 6260, H.R. 8365, and H.Con.Res. 96 under a closed rule. The resolution provides for consideration of H.R. 8469 under a structured rule. The resolution makes in order one motion to recommit on each bill.
 - 2026-05-14 — The previous question was ordered pursuant to the rule.
+- 2026-05-18 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
