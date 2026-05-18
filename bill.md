@@ -2,7 +2,7 @@
 legis-num: H.R. 8365
 congress: 119th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 8365
@@ -37,4 +37,4 @@ This Act may be cited as the “Monitor Accountability Act”.
 - **(d)** *Retroactivity* In the case of a monitorship that is in effect on the date of enactment of this Act and has been in effect for 6 years—
   - **(1)** a new monitor shall be appointed not later than 180 days after such date of enactment in accordance with the limitations under this section; and
   - **(2)** the case shall be transferred not later than 1 year after such date of enactment in accordance with this section.
-- **(e)** *Sense of Congress* It is the sense of Congress that monitoring is a public service and monitorships should be structured to encourage the use of pro bono time or reduced rates.
+- **(e)** *Sense of Congress* It is the sense of Congress that monitoring is a public service and monitorshipsshould be structured to encourage the use of pro bono time or reduced rates.
