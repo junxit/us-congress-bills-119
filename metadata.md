@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6260
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6260
@@ -24,9 +24,10 @@ Keeping Violent Offenders Off Our Streets Act of 2025
 - Rep. Tiffany, Thomas P. [R-WI-7] (T000165)
 - Rep. Moore, Tim [R-NC-14] (M001236)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (2)
 
@@ -60,3 +61,4 @@ Keeping Violent Offenders Off Our Streets Act of 2025
 - 2026-05-14 — Rule provides for consideration of H.R. 5625, H.R. 6260, H.R. 8365, H. Con. Res. 96 and H.R. 8469. The resolution provides for consideration of H.R. 5625, H.R. 6260, H.R. 8365, and H.Con.Res. 96 under a closed rule. The resolution provides for consideration of H.R. 8469 under a structured rule. The resolution makes in order one motion to recommit on each bill.
 - 2026-05-14 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2026-05-14 — The previous question was ordered pursuant to the rule.
+- 2026-05-18 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
