@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4684
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4684
@@ -33,3 +33,9 @@ Star-Spangled Summit Act of 2026
 - 2026-04-02 — Placed on the Union Calendar, Calendar No. 504.
 - 2026-04-02 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-584.
 - 2026-04-02 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-584.
+- 2026-05-19 — Considered under suspension of the rules. (consideration: CR H3570-3572)
+- 2026-05-19 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4684.
+- 2026-05-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-05-19 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
+- 2026-05-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3570)
+- 2026-05-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3570)
