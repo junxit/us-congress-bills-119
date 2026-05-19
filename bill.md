@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 3726
 
-> To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to make temporary lodging facilities of the Department of Veterans Affairs available for certain TRICARE beneficiaries on a space-available basis, and for other purposes.
+> To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to make temporary lodging facilities of the Department of Veterans Affairs available for certain individuals on a space available basis, and for other purposes.
 
 ## § 1. Short title
 
