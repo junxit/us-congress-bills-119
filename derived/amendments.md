@@ -1,7 +1,7 @@
 ---
 measure: S. 3897
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-39 amendatory instructions. 20 executed, 19 stated and not applied.
+50 amendatory instructions. 22 executed, 28 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -204,6 +204,24 @@ to guess them.
 | Removed | `section 1201(p)` |
 | Inserted | `section 1201(q)` |
 
+### 34 U.S.C. § 10284
+
+> in paragraph (4)(B)(ii), by striking “parapalegic” and inserting “paraplegic”;
+
+| | |
+|---|---|
+| Removed | `parapalegic` |
+| Inserted | `paraplegic` |
+
+### 26 U.S.C. § 402
+
+> Section 1863(b)(5)(B) of title 28, United States Code, is amended by striking “section 1203(6)” and inserting “section 1204”.
+
+| | |
+|---|---|
+| Removed | `section 1203(6)` |
+| Inserted | `section 1204` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -231,4 +249,13 @@ complete account of the bill's effect, which it is not.
 | `34 U.S.C. § 10281` | strike | in subparagraph (B), by striking “and total” after “death or permanent”; and | the bill quotes the text struck but describes what replaces it |
 | `34 U.S.C. § 10281` | strike | by striking “and total” each place it appears; and | the bill quotes the text struck but describes what replaces it |
 | `34 U.S.C. § 10286` | strike | Section 611(a) of the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001 (34 U.S.C. 10286(a)) is amended by striking “and total” after “producing permanent”. | the bill quotes the text struck but describes what replaces it |
+| `34 U.S.C. § 10285` | add-at-end | Section 1205(b) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10285(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 10285` | insert | in subsection (e)(2)(E), by inserting “, including whether the delay is due to the inaction of the claimant or an agency from which information is required” after “basis for delay”; and | the bill quotes the text inserted but describes where it goes |
+| `34 U.S.C. § 10285` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 10288` | strike | in paragraph (1)(B), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `34 U.S.C. § 10288` | replace | in paragraph (2), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `34 U.S.C. § 10288` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 10284` | redesignate | by redesignating paragraphs (8) through (14) as paragraphs (9) through (15), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `34 U.S.C. § 10284` | insert | by inserting after paragraph (7) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 402` | strike | Section 402(l)(4)(C) of the Internal Revenue Code of 1986 is amended by striking “(9)(A)” each place it appears. | the bill quotes the text struck but describes what replaces it |
 | `34 U.S.C. § 10285` | add-at-end | Section 1205(b) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10285(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
