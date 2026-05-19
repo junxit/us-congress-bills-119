@@ -1,7 +1,7 @@
 ---
 legis-num: S. 825
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -46,4 +46,4 @@ Congress finds the following:
   - **(5)** an estimate of the amount of annual appropriations necessary for administering each proposed program described in paragraph (1).
 - **(c)** *Development* In developing the report required under subsection (b), the Attorney General shall consult relevant stakeholders, including—
   - **(1)** Federal, State, Tribal, territorial, and local agencies employing public safety officers and public safety telecommunicators; and
-  - **(2)** non-governmental organizations, international organizations, academies, or other entities, including organizations that support the interests of public safety officers and public safety telecommunicators and the interests of family members of public safety officers and public safety telecommunicators.
+  - **(2)** non-governmental organizations, international organizations, academies, or other entities, including organizations that support the interests of public safety officers,and public safety telecommunicators, and the interests of family members of public safety officers and public safety telecommunicators.
