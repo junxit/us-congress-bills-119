@@ -1,0 +1,29 @@
+---
+legis-num: H. RES. 1302
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 1302
+
+> Designating May 2026 as “National Electrical Safety Month” in the United States and supporting the goals and ideals of “National Electrical Safety Month” to raise awareness of electrical hazards in homes, schools, and workplaces and the action citizens can take to protect against electrically related hazards.
+
+## Preamble
+
+- Whereas each year, electrical failure or malfunction accounts for thousands of home structure fires;
+- Whereas each year, fires caused by electrical failure or malfunction result in over 1,000 injuries, $1,400,000,000 in property damage, and nearly 400 deaths;
+- Whereas each year, over 2,000 children are treated in hospital emergency rooms for electrical shock or burns caused by tampering with a wall outlet;
+- Whereas the safety and well-being of citizens is of utmost importance, and it is crucial to equip citizens with the necessary knowledge and understanding regarding potential electrical hazards in homes, schools, and the workplace;
+- Whereas following basic electrical safety precautions and adhering to electrical, fire, and life-safety codes can help prevent thousands of citizens from being injured or killed each year;
+- Whereas citizens are encouraged to inspect their homes and workplaces for possible electrical hazards;
+- Whereas citizens are advised to protect their homes and families with the latest safety technology, such as ground-fault circuit interrupters, arc-fault circuit interrupters, surge protective devices, and tamper-resistant receptacles;
+- Whereas citizens are urged to install, test, and properly maintain an adequate number of smoke alarms; and
+- Whereas the Electrical Safety Foundation International is a nonprofit organization dedicated exclusively to promoting electrical safety in the home, school, and workplace through education, awareness, and advocacy: Now, therefore, be it
+
+That the House of Representatives—
+
+- **(1)** expresses support for the designation of “National Electrical Safety Month” to raise awareness of electrical hazards in homes, schools, and workplaces and actions citizens may take to protect against such hazards;
+- **(2)** encourages all citizens to observe the importance of establishing and practicing electrical safety habits in the home, school, and the workplace to reduce the number of electrically related fires, injuries, and deaths;
+- **(3)** supports the efforts of the Electrical Safety Foundation International to provide necessary and fundamental understanding of electrical hazards associated with emerging technologies; and
+- **(4)** requests that the President issue a proclamation calling upon citizens to observe the month with appropriate programs and activities.
