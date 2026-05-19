@@ -1,7 +1,7 @@
 ---
 measure: S. 3041
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 2 executed, 3 stated and not applied.
+10 amendatory instructions. 4 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,24 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 34 U.S.C. § 41503
+
+> by striking “and local” and inserting “local, and Tribal”; and
+
+| | |
+|---|---|
+| Removed | `and local` |
+| Inserted | `local, and Tribal` |
+
+### 34 U.S.C. § 41503
+
+> in subsection (c), by striking “Federal or State law” and inserting “Federal, State, or Tribal law”.
+
+| | |
+|---|---|
+| Removed | `Federal or State law` |
+| Inserted | `Federal, State, or Tribal law` |
 
 ### 34 U.S.C. § 41503
 
@@ -54,3 +72,6 @@ complete account of the bill's effect, which it is not.
 | `34 U.S.C. § 41503` | insert | in subparagraph (B), by inserting “including Tribal fugitive matters (on the request of an Indian Tribe, as applicable),” after “matters,”; and | the bill quotes the text inserted but describes where it goes |
 | `34 U.S.C. § 41503` | insert | in subparagraph (D), by inserting “Tribal,” after “local,”. | the bill quotes the text inserted but describes where it goes |
 | `34 U.S.C. § 41503` | insert | by inserting “and Indian Tribes” after “components”; and | the bill quotes the text inserted but describes where it goes |
+| `34 U.S.C. § 41503` | insert | in subparagraph (B), by inserting “including Tribal fugitive matters (on the request of an Indian Tribe, as defined in section 2 of the Tribal Warrant Fairness Act, as applicable),” after “matters,”; and | the bill quotes the text inserted but describes where it goes |
+| `34 U.S.C. § 41503` | insert | in subparagraph (D), by inserting “Tribal,” after “local,”. | the bill quotes the text inserted but describes where it goes |
+| `34 U.S.C. § 41503` | insert | by inserting “and Indian Tribes, as defined in section 2 of the Tribal Warrant Fairness Act” after “components”; and | the bill quotes the text inserted but describes where it goes |
