@@ -1,13 +1,13 @@
 ---
 legis-num: H.R. 2954
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H.R. 2954
 
-> To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to approve multi-State apprenticeship programs for purposes of veterans educational assistance, and for other purposes.
+> To amend title 38, United States Code, to authorize the Secretary of Veterans Affairs to approve multi-State apprenticeship programs provided by commercial truck driving schools for purposes of Department of Veterans Affairs educational assistance programs, and for other purposes.
 
 ## § 1. Short title
 
