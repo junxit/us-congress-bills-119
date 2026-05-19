@@ -88,4 +88,4 @@ This Act may be cited as the “Veterans Community Care Scheduling Improvement A
 
 ## § 3. Extension of certain limits on payment of pension
 
-Section 5503(d)(7) of title 38, United States Code, is amended by striking “January 31, 2033” and inserting “June 30, 2033”.
+Section 5503(d)(7) of title 38, United States Code, is amended by striking “January 31, 2033” and inserting “May 31, 2033”.

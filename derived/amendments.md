@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3482
 congress: 119
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -82,4 +82,4 @@ complete account of the bill's effect, which it is not.
 | `38 U.S.C. § 1701` | strike | by striking any heading that is not a section heading or subsection heading and conforming the margins accordingly; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `38 U.S.C. § 1701` | replace | in paragraph (2), by striking subparagraphs (A) and (B) and inserting “The Secretary shall require each medical facility of the Department to use the method or tool described in paragraph (1).”; | the bill quotes the text inserted but describes where it goes |
 | `38 U.S.C. § 1701` | insert | The table of sections at the beginning of such chapter is amended by inserting, after the item relating to section 1703G, the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | Section 5503(d)(7) of title 38, United States Code, is amended by striking “January 31, 2033” and inserting “June 30, 2033”. | the bill names no machine-readable US Code section |
+| — | replace | Section 5503(d)(7) of title 38, United States Code, is amended by striking “January 31, 2033” and inserting “May 31, 2033”. | the bill names no machine-readable US Code section |
