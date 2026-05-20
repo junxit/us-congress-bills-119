@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1299
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
