@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1993
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -49,7 +49,7 @@ Congress finds the following:
   - **(2)** *Designs and inscriptions* On each coin minted under this Act, there shall be—
     - **(A)** a designation of the value of the coin;
     - **(B)** inscriptions of the words “Liberty”, “In God We Trust”, “United States of America”, and “E Pluribus Unum”; and
-    - **(C)** an inscription of the words “25th Anniversary”.
+    - **(C)** an inscription or other design element referencing the 25th Anniversary.
 - **(b)** *Selection* The designs for the coins minted under this Act shall be—
   - **(1)** selected by the Secretary, after consultation with—
     - **(A)** the National September 11 Memorial and Museum at the World Trade Center; and
@@ -58,9 +58,9 @@ Congress finds the following:
 
 ## § 5. Issuance of coins
 
-- **(a)** *Quality of coins* The coins minted under this Act shall be issued in uncirculated and proof qualities.
+- **(a)** *Quality of coins* The coins minted under this Act may be issued in uncirculated and proof qualities.
 - **(b)** *Sense of congress* It is the sense of Congress that the coins minted under this Act should be struck at the United States Mint at West Point, New York, to the greatest extent possible.
-- **(c)** *Period for issuance* The Secretary may issue coins minted under this Act only during the 1-year period beginning on January 1, 2027.
+- **(c)** *Period for issuance* The Secretary may issue coins minted under this Act only during the 1-year period beginning on January 1, 2028.
 
 ## § 6. Sale of coins
 
