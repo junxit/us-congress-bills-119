@@ -1,7 +1,7 @@
 ---
 measure: S. 3966
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3966
@@ -51,3 +51,8 @@ TREY'S Law
 - 2026-05-19 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
 - 2026-05-19 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
 - 2026-05-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 413.
+- 2026-05-20 — Held at the desk.
+- 2026-05-20 — Message on Senate action sent to the House.
+- 2026-05-20 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2398-2400; text: CR S2399-2400)
+- 2026-05-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2026-05-20 — Received in the House.
