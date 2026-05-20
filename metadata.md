@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3726
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3726
@@ -22,9 +22,10 @@ Fisher House Availability Act of 2026
 - Rep. Vindman, Eugene Simon [D-VA-7] (V000138)
 - Rep. Neguse, Joe [D-CO-2] (N000191)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Fisher House Availability Act of 2026
 - 2026-05-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3577)
 - 2026-05-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3577)
 - 2026-05-19 — The title of the measure was amended. Agreed to without objection.
+- 2026-05-20 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
