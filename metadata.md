@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7831
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7831
@@ -16,6 +16,12 @@ License to Drill Act
 
 - Rep. Kennedy, Mike [R-UT-3] (K000403)
 
+## Cosponsors (3)
+
+- Rep. Maloy, Celeste [R-UT-2] (M001228)
+- Rep. Hageman, Harriet M. [R-WY-At Large] (H001096)
+- Rep. Bice, Stephanie I. [R-OK-5] (B000740)
+
 ## Committees (1)
 
 - House — Natural Resources Committee
@@ -25,3 +31,11 @@ License to Drill Act
 - 2026-03-05 — Introduced in House
 - 2026-03-05 — Introduced in House
 - 2026-03-05 — Referred to the House Committee on Natural Resources.
+- 2026-03-18 — Referred to the Subcommittee on Energy and Mineral Resources.
+- 2026-03-25 — Subcommittee Hearings Held
+- 2026-05-14 — Committee Consideration and Mark-up Session Held
+- 2026-05-14 — Ordered to be Reported by Unanimous Consent.
+- 2026-05-14 — Subcommittee on Energy and Mineral Resources Discharged
+- 2026-05-20 — Placed on the Union Calendar, Calendar No. 579.
+- 2026-05-20 — Reported by the Committee on Natural Resources. H. Rept. 119-665.
+- 2026-05-20 — Reported by the Committee on Natural Resources. H. Rept. 119-665.
