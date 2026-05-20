@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5317
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -42,3 +42,8 @@ This Act may be cited as the “Community Bank Deposit Access Act of 2025”.
   >   - **(3)** *Limit on interest rates* The limit on the rate of interest referred to in paragraph (2) shall be not greater than—
   >     - **(A)** the rate paid on deposits of similar maturity in the normal market area of the covered insured depository institution for deposits accepted in the normal market area of the covered insured depository institution; or
   >     - **(B)** the national rate paid on deposits of comparable maturity, as established by the Corporation, for deposits accepted outside the normal market area of the covered insured depository institution.
+
+## § 3. Discretionary Surplus Fund
+
+- **(a)** *In general* The dollar amount specified under section 7(a)(3)(A) of the Federal Reserve Act (12 U.S.C. 289(a)(3)(A)) is reduced by $4,000,000.
+- **(b)** *Effective date* The amendment made by subsection (a) shall take effect on September 1, 2036.
