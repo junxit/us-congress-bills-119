@@ -1,7 +1,7 @@
 ---
 measure: S. 790
 congress: 119
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 790
@@ -28,3 +28,12 @@ A bill to redesignate the National Historic Trails Interpretive Center in Casper
 
 - 2025-02-27 — Introduced in Senate
 - 2025-02-27 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2025-12-02 — Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.
+- 2026-02-04 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2026-05-20 — Held at the desk.
+- 2026-05-20 — Message on Senate action sent to the House.
+- 2026-05-20 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2387; text: CR S2387)
+- 2026-05-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2026-05-20 — Received in the House.
+- 2026-05-20 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
+- 2026-05-20 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
