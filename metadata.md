@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1687
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1687
@@ -16,10 +16,12 @@ CLEAN Act
 
 - Rep. Fulcher, Russ [R-ID-1] (F000469)
 
-## Cosponsors (2)
+## Cosponsors (4)
 
 - Rep. Maloy, Celeste [R-UT-2] (M001228)
 - Rep. Boebert, Lauren [R-CO-4] (B000825)
+- Rep. Lee, Susie [D-NV-3] (L000590)
+- Rep. Begich, Nicholas J. [R-AK-At Large] (B001323)
 
 ## Committees (1)
 
@@ -30,3 +32,11 @@ CLEAN Act
 - 2025-02-27 — Introduced in House
 - 2025-02-27 — Introduced in House
 - 2025-02-27 — Referred to the House Committee on Natural Resources.
+- 2025-12-09 — Referred to the Subcommittee on Energy and Mineral Resources.
+- 2025-12-16 — Subcommittee Hearings Held
+- 2026-04-21 — Committee Consideration and Mark-up Session Held
+- 2026-04-21 — Ordered to be Reported in the Nature of a Substitute by Unanimous Consent.
+- 2026-04-21 — Subcommittee on Energy and Mineral Resources Discharged
+- 2026-05-20 — Placed on the Union Calendar, Calendar No. 571.
+- 2026-05-20 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-657.
+- 2026-05-20 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-657.
