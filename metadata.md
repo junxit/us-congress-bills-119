@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7432
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7432
@@ -25,10 +25,11 @@ Fostering the Future Act
 - Rep. Davis, Danny K. [D-IL-7] (D000096)
 - Rep. Lawler, Michael [R-NY-17] (L000599)
 
-## Committees (2)
+## Committees (3)
 
 - House — Financial Services Committee
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ Fostering the Future Act
 - 2026-05-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3558-3560)
 - 2026-05-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3558-3560)
 - 2026-05-19 — The title of the measure was amended. Agreed to without objection.
+- 2026-05-20 — Received in the Senate and Read twice and referred to the Committee on Finance.
