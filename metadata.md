@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2954
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2954
@@ -25,9 +25,10 @@ Veterans’ Transition to Trucking Act of 2025
 - Rep. Franklin, Scott [R-FL-18] (F000472)
 - Rep. Van Orden, Derrick [R-WI-3] (V000135)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ Veterans’ Transition to Trucking Act of 2025
 - 2026-05-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3576)
 - 2026-05-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3576)
 - 2026-05-19 — The title of the measure was amended. Agreed to without objection.
+- 2026-05-20 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.

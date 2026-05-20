@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2954
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 derived: true
 ---
 
