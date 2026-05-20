@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1352
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1352
@@ -36,3 +36,4 @@ To designate the General George C. Marshall House, in the Commonwealth of Virgin
 - 2026-05-19 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
 - 2026-05-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3572)
 - 2026-05-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3572)
+- 2026-05-20 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 418.
