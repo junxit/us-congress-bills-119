@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3234
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -40,3 +40,8 @@ Section 29(i)(2)(A)(i) of the Federal Deposit Insurance Act (12 U.S.C. 1831f(i)(
   - **(2)** an analysis, to the extent practicable, of how reciprocal deposits compare to other deposit arrangements; and
   - **(3)** an analysis of the benefits and potential risks of reciprocal deposits.
 - **(c)** *Report* Not later than 6 months after the date of enactment of this Act, the Federal Deposit Insurance Corporation shall issue a report to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate containing all findings and determinations made in carrying out the report required under subsection (a).
+
+## § 5. Discretionary Surplus Fund
+
+- **(a)** *In general* The dollar amount specified under section 7(a)(3)(A) of the Federal Reserve Act (12 U.S.C. 289(a)(3)(A)) is reduced by $28,000,000.
+- **(b)** *Effective date* The amendment made by subsection (a) shall take effect on September 1, 2036.
