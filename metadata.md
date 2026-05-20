@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6506
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6506
@@ -20,9 +20,10 @@ Taxpayer Due Process Enhancement Act
 
 - Rep. Sewell, Terri A. [D-AL-7] (S001185)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Taxpayer Due Process Enhancement Act
 - 2026-05-19 — Mr. Smith (MO) moved to suspend the rules and pass the bill, as amended.
 - 2026-05-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3564)
 - 2026-05-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3564)
+- 2026-05-20 — Received in the Senate and Read twice and referred to the Committee on Finance.
