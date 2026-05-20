@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1473
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -23,7 +23,7 @@ Congress finds the following:
 
 ## § 3. Establishment of Whistleblower Incentive Program and Whistleblower Protections
 
-- **(a)** *In general* The Export Control Reform Act of 2018 (50 U.S.C. 4801 et seq.) is amended by inserting after section 1761 the following:
+- **(a)** *Establishment of Whistleblower Incentive Program and Whistleblower Protections* The Export Control Reform Act of 2018 (50 U.S.C. 4801 et seq.) is amended by inserting after section 1761 the following:
   > ## § 1761A. Whistleblower Incentives and Protections
   >
   > - **(a)** *Definitions* In this section:
@@ -36,11 +36,18 @@ Congress finds the following:
   >     - **(A)** *In general* The term whistleblower means, except as provided by subparagraph (B), any individual (including an individual who is not a United States citizen) who provides, or 2 or more such individuals acting jointly who provide, to the Secretary information relating to a possible violation of this part or of any regulation, order, license, or other authorization issued under this part.
   >     - **(B)** *Exclusions* The term whistleblower does not include—
   >       - **(i)** a Federal employee acting within the scope of the duties of the employee; or
-  >       - **(ii)** an individual on the list of specially designated nationals and blocked persons maintained by the Office of Foreign Assets Control of the Department of the Treasury.
+  >       - **(ii)** an individual on any of the following lists:
+  >         - **(I)** The list of specially designated nationals and blocked persons maintained by the Office of Foreign Assets Control of the Department of the Treasury.
+  >         - **(II)** The Denied Persons List maintained pursuant to section 764.3(a)(2) of the Export Administration Regulations.
+  >         - **(III)** The Entity List set forth in Supplement No. 4 to part 744 of the Export Administration Regulations.
   > - **(b)** *Whistleblower Incentive Program*
-  >   - **(1)** *Establishment* Not later than 120 days after the date of the enactment of this section, the Secretary shall establish a whistleblower incentive program to reward individuals who provide original information that leads to the imposition of fines under this part on persons that violate, attempt to violate, conspire to violate, or cause a violation of this part or any regulation, order, license, or other authorization issued under this part.
+  >   - **(1)** *Establishment* Not later than 120 days after the date of the enactment of this section, the Secretary shall establish a whistleblower incentive program to reward individuals who provide original information that leads to—
+  >     - **(A)** the imposition of fines under this part on persons that violate, attempt to violate, conspire to violate, or cause a violation of this part or any regulation, order, license, or other authorization issued under this part; or
+  >     - **(B)** the forfeiture of any property under section 1761(j).
   >   - **(2)** *Whistleblower reports*
-  >     - **(A)** *Online portal* Not later than 120 days after the date of the enactment of this section, the Secretary shall develop, implement, and maintain a secure portal, on a website accessible to the public, for the reporting of original information relating to persons that violate, attempt to violate, conspire to violate, or cause a violation of this part or any regulation, order, license, or other authorization issued under this part.
+  >     - **(A)** *Online portal* Not later than 120 days after the date of the enactment of this section, the Secretary shall develop, implement, and maintain a secure portal, or update and maintain an existing secure portal, on a website accessible to the public, for the reporting of original information relating to—
+  >       - **(i)** persons that violate, attempt to violate, conspire to violate, or cause a violation of this part or any regulation, order, license, or other authorization issued under this part; and
+  >       - **(ii)** items that have been, are being, or are about to be exported, reexported, or in-country transferred in violation of this part or any regulation, order, license, or other authorization issued under this part.
   >     - **(B)** *Anonymity*
   >       - **(i)** *In general* As an alternative to submission through the portal required by subparagraph (A), an individual may submit a report of original information under this subsection anonymously, including through an attorney.
   >       - **(ii)** *Exception* The Secretary may require that the identity of an individual be disclosed for the individual to receive an award under paragraph (3).
@@ -48,10 +55,10 @@ Congress finds the following:
   >       - **(i)** *Initial review* Not later than 60 days after the date of receipt of a report from a whistleblower, the Secretary shall—
   >         - **(I)** determine whether the report is credible; and
   >         - **(II)** if credible, initiate a formal investigation of the allegations contained in the report.
-  >       - **(ii)** *Investigation* Unless the Secretary determines that the investigation is particularly complex, the Secretary shall conclude the investigation not later than 180 days after the date on which a formal investigation has been initiated under clause (i).
+  >       - **(ii)** *Investigation* The Secretary shall pursue any formal investigation initiated under clause (i)(II) with urgency and conclude the investigation within a reasonable amount of time.
   >       - **(iii)** *Notification*
-  >         - **(I)** *In general* The Secretary shall update the whistleblower on the status of a report and, if applicable, the related investigation not later than 30 days after the date on which the whistleblower submitted the report and not less frequently than every 30 days thereafter.
-  >         - **(II)** *Sensitive information* The Secretary may omit from the updates required by subclause (I) any information that could compromise an ongoing investigation.
+  >         - **(I)** *In general* Subject to the confidentiality requirements of section 1761(h), the Secretary shall update the whistleblower on the status of a report and, if applicable, the related investigation not later than 90 days after the date on which the whistleblower submitted the report and not less frequently than every 90 days thereafter.
+  >         - **(II)** *Sensitive information* The Secretary may omit from the updates required by subclause (I) any information that could compromise an ongoing investigation, including confirmation of the existence of any specific investigation.
   >     - **(D)** *Avoidance of frivolous reports* The Secretary may prohibit an individual from making reports under this subsection if the individual has previously submitted multiple reports under this subsection that the Secretary determined under subparagraph (C)(i) were not credible.
   >   - **(3)** *Awards*
   >     - **(A)** *Eligibility* Subject to subparagraph (B), the Secretary may pay an award or awards to any whistleblower who provided original information that led to the imposition of a fine under this part on a person or persons that violated, attempted to violate, conspired to violate, or caused a violation of this part or any regulation, order, license, or other authorization issued under this part.
@@ -76,8 +83,9 @@ Congress finds the following:
   >       - **(ii)** relevance;
   >       - **(iii)** timeliness; and
   >       - **(iv)** usefulness.
+  >     - **(E)** *Submission of information* No award may be made under this paragraph based on information submitted to the Secretary unless such information is submitted under penalty of perjury.
   >   - **(4)** *Publication*
-  >     - **(A)** *In general* Not later than the date on which the online portal required by paragraph (2)(A) is complete, the Secretary shall develop and implement a plan to publicize the whistleblower incentive program established by paragraph (1).
+  >     - **(A)** *In general* Not later than the date on which the online portal required by paragraph (2)(A) is operational, the Secretary shall develop and implement a plan to publicize the whistleblower incentive program established by paragraph (1).
   >     - **(B)** *Funding* The Secretary shall pay any expenses incurred under subparagraph (A) from amounts authorized to be appropriated to the Bureau of Industry and Security.
   > - **(c)** *Protection of whistleblowers*
   >   - **(1)** *Prohibition against retaliation*
@@ -106,27 +114,29 @@ Congress finds the following:
   >       - **(i)** *In general* Without the loss of its status as confidential in the hands of the Secretary, all information referred to in subparagraph (A) may, in the discretion of the Secretary, when determined by the Secretary to be necessary to accomplish the purposes of this part or any regulation, order, license, or other authorization issued under this part, be made available to—
   >         - **(I)** a Federal law enforcement agency;
   >         - **(II)** a national security agency;
-  >         - **(III)** an appropriate regulatory authority;
+  >         - **(III)** an appropriate regulatory authority or Federal investigative agency;
   >         - **(IV)** a self-regulatory organization; and
   >         - **(V)** a foreign law enforcement authority.
   >       - **(ii)** *Confidentiality*
   >         - **(I)** *In general* Each of the entities described in subclauses (I) through (IV) of clause (i) shall maintain such information as confidential in accordance with the requirements established under subparagraph (A).
-  >         - **(II)** *Foreign authorities* Each of the entities described in clause (i)(V) shall maintain such information in accordance with such assurances of confidentiality as the Secretary determines appropriate.
+  >         - **(II)** *Foreign authorities* An entity described in clause (i)(V) shall maintain such information in accordance with such assurances of confidentiality as the Secretary determines appropriate.
   > - **(d)** *Export Compliance Accountability Fund*
   >   - **(1)** *Establishment* Not later than 90 days after the date of the enactment of this section, there shall be established in the Treasury of the United States a fund to be known as the “Export Compliance Accountability Fund” (in this subsection referred to as the “Fund”).
-  >   - **(2)** *Availability* At the end of each fiscal year, any amounts deposited into the Fund under paragraph (3) that remain in the Fund after the payment, for that fiscal year, of all expenses under paragraph (3) shall be transferred to the general fund of the Treasury.
+  >   - **(2)** *Availability* At the end of each fiscal year, any amounts deposited into the Fund under paragraph (4) that remain in the Fund after the payment, for that fiscal year, of all expenses under paragraph (3), excluding the amount estimated for outstanding awards, shall be transferred to the general fund of the Treasury.
   >   - **(3)** *Use of Fund* The Fund shall be available to the Secretary, without further appropriation or fiscal year limitation, for—
   >     - **(A)** paying awards to whistleblowers as provided in subsection (b)(3);
   >     - **(B)** funding activities that support the whistleblower incentive program and whistleblower protections, including—
   >       - **(i)** reviewing and investigating whistleblower reports;
   >       - **(ii)** providing training and education on compliance with the confidentiality requirement under subsection (c)(2); and
-  >       - **(iii)** record keeping, as considered necessary by the Secretary; and
+  >       - **(iii)** record keeping and maintaining the portal under subsection (b)(2)(A), as considered necessary by the Secretary; and
   >     - **(C)** if all outstanding awards under subsection (b)(3) have been paid, expenses related to enforcement of this part or any regulation, order, license, or other authorization issued under this part.
-  >   - **(4)** *Deposits and credits* There shall be deposited into or credited to the Fund an amount equal to any fine collected by the Secretary on or after the date of the enactment of this section in any judicial or administrative action brought by the Secretary that depends on or was initiated because of original information submitted by a whistleblower.
-  > - **(e)** *Initial funding* The Secretary shall pay, from amounts otherwise available to the Bureau of Industry and Security, any expenses incurred under this section before the Export Compliance Accountability Fund is established under subsection (d) and has received deposits under paragraph (3) of that subsection.
+  >   - **(4)** *Deposits and credits*
+  >     - **(A)** *In general* There shall be deposited into or credited to the Fund an amount equal to any fine collected by the Secretary on or after the date of the enactment of this section in any judicial or administrative action brought by the Secretary that depends on or was initiated because of original information submitted by a whistleblower.
+  >     - **(B)** *Exception* No amounts to be deposited or transferred into the United States Victims of State Sponsored Terrorism Fund pursuant to the Justice for United States Victims of State Sponsored Terrorism Act (34 U.S.C. 20144) or the Crime Victims Fund pursuant section 1402 of the Victims of Crime Act of 1984 (34 U.S.C. 20101) shall be deposited into or credited to the Fund.
+  > - **(e)** *Initial funding* The Secretary shall pay, from amounts otherwise available to the Bureau of Industry and Security, any expenses incurred under this section before the Export Compliance Accountability Fund is established under subsection (d) and has received deposits under paragraph (4) of that subsection.
 
 - **(b)** *Conforming amendment* Section 1402(b)(1)(B) of the Victims of Crime Act of 1984 (34 U.S.C. 20101(b)(1)(B)) is amended—
   - **(1)** in clause (iii), by striking “; and” and inserting a semicolon;
   - **(2)** in clause (iv), by striking the semicolon and inserting “; and”; and
   - **(3)** by adding at the end the following;
-    > - **(v)** the Export Compliance Accountability Fund pursuant to section 1761A(e) of the Export Control Reform Act of 2018.
+    > - **(v)** the Export Compliance Accountability Fund pursuant to section 1761A(d) of the Export Control Reform Act of 2018.
