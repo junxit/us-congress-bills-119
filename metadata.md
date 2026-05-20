@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3482
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3482
@@ -20,9 +20,10 @@ Veterans Community Care Scheduling Improvement Act
 
 - Rep. Budzinski, Nikki [D-IL-13] (B001315)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Veterans Community Care Scheduling Improvement Act
 - 2026-05-19 — Mr. Bost moved to suspend the rules and pass the bill, as amended.
 - 2026-05-19 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3573-3474)
 - 2026-05-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3573-3474)
+- 2026-05-20 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
