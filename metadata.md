@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6644
 congress: 119
-version: Engrossed Amendment Senate
+version: Engrossed Amendment House
 ---
 
 # H.R. 6644
@@ -402,3 +402,6 @@ version: Engrossed Amendment Senate
 - 2026-03-12 — Considered by Senate. (consideration: CR S1017, S1021-1024)
 - 2026-03-12 — Passed Senate with an amendment by Yea-Nay Vote. 89 - 10. Record Vote Number: 53.
 - 2026-03-12 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 89 - 10. Record Vote Number: 53.
+- 2026-03-16 — Message on Senate action sent to the House.
+- 2026-05-20 — House agreed to Senate amendment with amendment pursuant to H. Res. 1299 (consideration: CR H3643-3644)
+- 2026-05-20 — Resolving differences -- House actions: House agreed to Senate amendment with amendment pursuant to H. Res. 1299
