@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5631
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -37,9 +37,9 @@ This Act may be cited as the “Geothermal Ombudsman for National Deployment and
   - **(2)** *Leadership* The Task Force shall be headed by the Geothermal Ombudsman appointed under subsection (b).
   - **(3)** *Permitting support* The Task Force shall support the duties of the Geothermal Ombudsman appointed under subsection (b).
   - **(4)** *Cross-office personnel assignments*
-    - **(A)** *In general* In their capacity as head of the Task Force, the Geothermal Ombudsman may assign personnel from any Departmental bureaus and offices with relevant expertise to assist with completion of geothermal authorizations in field, district, or State offices other than the official duty station where such personnel are located if—
-      - **(i)** the Geothermal Ombudsman determines that such assignment will not materially delay ongoing completion of authorizations within the office where the employee is located; and
-      - **(ii)** the Geothermal Ombudsman receives approval from the head of the official duty station where the assigned employee is located.
+    - **(A)** *In general* In their capacity as head of the Task Force, the Geothermal Ombudsman may coordinate with any Departmental bureau or office to assign personnel with relevant expertise to assist with completion of geothermal authorizations in field, district, or State offices other than the official duty station where such personnel are located if—
+      - **(i)** the Departmental bureau or office determines that such assignment will not materially delay ongoing completion of authorizations within the office where the employee is located; and
+      - **(ii)** approval is received from the head of the official duty station where the assigned employee is located.
     - **(B)** *Assigned personnel requirements* Department personnel assigned to assist with completion of geothermal authorizations under subparagraph (A) shall—
       - **(i)** work in-person full-time at an official Department office;
       - **(ii)** if necessary as determined by the Geothermal Ombudsman, travel to the Bureau of Land Management field, district, or State office with jurisdiction over the geothermal authorization to which the employee has been assigned by the Geothermal Ombudsman;
