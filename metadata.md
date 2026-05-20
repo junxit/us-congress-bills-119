@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5911
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5911
@@ -25,3 +25,11 @@ Crystal Reservoir Conveyance Act
 - 2025-11-04 — Introduced in House
 - 2025-11-04 — Introduced in House
 - 2025-11-04 — Referred to the House Committee on Natural Resources.
+- 2026-02-03 — Referred to the Subcommittee on Federal Lands.
+- 2026-02-10 — Subcommittee Hearings Held
+- 2026-04-21 — Committee Consideration and Mark-up Session Held
+- 2026-04-21 — Ordered to be Reported in the Nature of a Substitute by Unanimous Consent.
+- 2026-04-21 — Subcommittee on Federal Lands Discharged
+- 2026-05-20 — Placed on the Union Calendar, Calendar No. 576.
+- 2026-05-20 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-662.
+- 2026-05-20 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-662.
