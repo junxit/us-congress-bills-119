@@ -1,7 +1,7 @@
 ---
 legis-num: S. 790
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
