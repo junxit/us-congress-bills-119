@@ -1,7 +1,7 @@
 ---
 measure: S. 4460
 congress: 119
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 4460
@@ -16,7 +16,7 @@ Rural Community Hospital Demonstration Program Reauthorization
 
 - Sen. Grassley, Chuck [R-IA] (G000386)
 
-## Cosponsors (15)
+## Cosponsors (16)
 
 - Sen. Bennet, Michael F. [D-CO] (B001267)
 - Sen. Crapo, Mike [R-ID] (C000880)
@@ -33,6 +33,7 @@ Rural Community Hospital Demonstration Program Reauthorization
 - Sen. Heinrich, Martin [D-NM] (H001046)
 - Sen. Lankford, James [R-OK] (L000575)
 - Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Fischer, Deb [R-NE] (F000463)
 
 ## Committees (1)
 
@@ -42,3 +43,7 @@ Rural Community Hospital Demonstration Program Reauthorization
 
 - 2026-04-30 — Introduced in Senate
 - 2026-04-30 — Read twice and referred to the Committee on Finance.
+- 2026-05-20 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2428; text: CR S2428)
+- 2026-05-20 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2026-05-20 — Senate Committee on Finance discharged by Unanimous Consent.
+- 2026-05-20 — Senate Committee on Finance discharged by Unanimous Consent.
