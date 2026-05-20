@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4544
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -55,13 +55,18 @@ This Act may be cited as the “American Access to Banking Act”.
 ## § 6. Definitions
 
 - **(a)** *In general* In this Act:
-  - **(1)** *Federal banking agency* The term “Federal banking agency” has the meaning given the term in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813).
-  - **(2)** *Federal financial institutions regulatory agencies* The term “Federal financial institutions regulatory agencies” has the meaning given the term in section 1003 of the Federal Financial Institutions Examination Council Act of 1978 (12 U.S.C. 3302).
-  - **(3)** *Regulated institution* The term “regulated institution” means—
+  - **(1)** *Federal banking agency* The term Federal banking agency has the meaning given the term in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813).
+  - **(2)** *Federal financial institutions regulatory agencies* The term Federal financial institutions regulatory agencies has the meaning given the term in section 1003 of the Federal Financial Institutions Examination Council Act of 1978 (12 U.S.C. 3302).
+  - **(3)** *Regulated institution* The term regulated institution means—
     - **(A)** with respect to a Federal banking agency, a depository institution (as such term is defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)) for which the Federal banking agency is the appropriate Federal banking agency (as such term is defined in such section 3); and
     - **(B)** with respect to the National Credit Union Administration, an insured credit union (as such term is defined in section 101 of the Federal Credit Union Act (12 U.S.C. 1752)).
-  - **(4)** *State* The term “State” means each of the several States, the District of Colombia, and each territory of the United States.
-  - **(5)** *State regulator* The term “State regulator” means—
+  - **(4)** *State* The term State means each of the several States, the District of Colombia, and each territory of the United States.
+  - **(5)** *State regulator* The term State regulator means—
     - **(A)** with respect to a Federal banking agency, a State banking regulator; and
     - **(B)** with respect to the National Credit Union Administration, the State regulatory agency having jurisdiction over a State credit union (as such term is defined in section 101 of the Federal Credit Union Act (12 U.S.C. 1752)).
 - **(b)** *Rule of construction* For purposes of this Act, the process of applying to become a de novo regulated institution shall include the process of applying for Federal deposit insurance, Federal share insurance, or membership of a Federal reserve bank.
+
+## § 7. Discretionary Surplus Fund
+
+- **(a)** *In general* The dollar amount specified under section 7(a)(3)(A) of the Federal Reserve Act (12 U.S.C. 289(a)(3)(A)) is reduced by $24,000,000.
+- **(b)** *Effective date* The amendment made by subsection (a) shall take effect on September 1, 2036.
