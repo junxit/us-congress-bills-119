@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1041
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1041
@@ -93,6 +93,11 @@ Veterans 2nd Amendment Protection Act
 
 - House — Veterans' Affairs Committee
 
+## Recorded votes (2)
+
+- 2026-05-21 — [House 119-2-189](votes/house-119-2-0189.md) — On Motion to Recommit — **Failed** (208–210)
+- 2026-05-21 — [House 119-2-190](votes/house-119-2-0190.md) — On Passage — **Passed** (216–201)
+
 ## Actions
 
 - 2025-02-06 — Introduced in House
@@ -103,3 +108,21 @@ Veterans 2nd Amendment Protection Act
 - 2025-06-05 — Placed on the Union Calendar, Calendar No. 112.
 - 2025-06-05 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-143.
 - 2025-06-05 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-143.
+- 2026-05-19 — Rules Committee Resolution H. Res. 1300 Reported to House. Rule provides for consideration of H.R. 1041, H.R. 6047 and H.R. 1329. The resolution provides for consideration of H.R. 1041, H.R. 6047, and H.R. 1329 under a closed rule. The resolution provides for one hour of general debate and one motion to recommit on each bill.
+- 2026-05-21 — Amendment in the nature of a substitute reported by the House Committee on Rules. (consideration: CR H3684-3692,  H3710-3711; text of amendment in the nature of a substitute: CR H3684-3685)
+- 2026-05-21 — Considered as unfinished business. (consideration: CR H3710-3711)
+- 2026-05-21 — Considered under the provisions of rule H. Res. 1300. (consideration: CR H3684-3692)
+- 2026-05-21 — DEBATE - The House proceeded with one hour of debate on H.R. 1041.
+- 2026-05-21 — House amendment considered as adopted: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2026-05-21 — House amendment offered/reported by: Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2026-05-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-05-21 — Ms. Morrison moved to recommit to the Committee on Veterans' Affairs. (CR H3692)
+- 2026-05-21 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2026-05-21 — On motion to recommit Failed by the Yeas and Nays: 208 - 210 (Roll no. 189).
+- 2026-05-21 — On passage Passed by the Yeas and Nays: 216 - 201 (Roll no. 190). (text: CR H3684-3685)
+- 2026-05-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 1041, the Chair put the question on motion to recommit and by voice vote, announced the ayes had prevailed. Mr. Bost demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2026-05-21 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 216 - 201 (Roll no. 190). (text: CR H3684-3685)
+- 2026-05-21 — Rule provides for consideration of H.R. 1041, H.R. 6047 and H.R. 1329. The resolution provides for consideration of H.R. 1041, H.R. 6047, and H.R. 1329 under a closed rule. The resolution provides for one hour of general debate and one motion to recommit on each bill.
+- 2026-05-21 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2026-05-21 — The previous question was ordered pursuant to the rule.
+- 2026-05-21 — The title of the measure was amended. Agreed to without objection.
