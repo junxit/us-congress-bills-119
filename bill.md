@@ -1,7 +1,7 @@
 ---
 legis-num: S. 323
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -76,14 +76,15 @@ In this Act:
       - **(ii)** funded projects with respect to broadband internet access service or such projects otherwise subject to enforceable deployment obligations;
     - **(B)** resolve conflicts with respect to the funding described in subparagraph (A);
     - **(C)** use the Deployment Locations Map as a key resource in carrying out subparagraphs (A) and (B); and
-    - **(D)** promote access to infrastructure or rights of way necessary for deployment of broadband internet access service, whether privately or government owned or cooperatively organized for broadband communications;
+    - **(D)** promote the safe access to infrastructure or rights of way necessary for deployment of broadband internet access service, whether privately or government owned or cooperatively organized for broadband communications;
   - **(10)** recommend incentives, legislative solutions, and administrative actions to—
     - **(A)** improve the coordination and management of Federal broadband programs; and
     - **(B)** eliminate duplication with respect to Federal broadband programs and non-Federal programs with respect to broadband internet access service;
   - **(11)** describe current, as of the date on which the Strategy is submitted, efforts by covered agencies, Federal land management agencies, and State, local, and Tribal governments to streamline the process for granting a permit or access to an easement, right of way, or lease to, in, over, or on a building or any other property owned or controlled by a government for the right to install, construct, modify, or maintain infrastructure with respect to broadband internet access service;
   - **(12)** identify gaps and limitations with respect to allowing regional, interstate, or cross-border economic development organizations to participate in Federal broadband programs;
-  - **(13)** address specific issues relating to closing the gap on Tribal lands with respect to broadband internet access service; and
-  - **(14)** identify measures to prevent fraud and misuse of amounts made available to carry out Federal broadband programs, ensure accountability for the use of such funding, and implement effective reporting requirements to measure the success of Federal broadband programs.
+  - **(13)** with respect to the funding of infrastructure, propose a maximum amount for a subsidy or funding award to provide broadband internet access service to a single location, while allowing for consideration of high cost areas, including high cost Tribal areas;
+  - **(13)(14)** address specific issues relating to closing the gap on Tribal lands with respect to broadband internet access service; and
+  - **(14)(15)** identify measures to prevent fraud and misuse of amounts made available to carry out Federal broadband programs, ensure accountability for the use of such funding, and implement effective reporting requirements to measure the success of Federal broadband programs.
 
 ## § 4. Implementation plan
 
@@ -92,18 +93,18 @@ In this Act:
   - **(1)** provide a plan for implementing the roles, responsibilities, goals, objectives, and performance measures for the management of Federal broadband programs and interagency coordination efforts identified in the Strategy;
   - **(2)** if the Strategy identifies policy and practices that result in programmatic differences among covered agencies with respect to Federal broadband programs, provide a plan to streamline and create consistent policies and practices across all covered agencies for the purposes of Federal broadband programs;
   - **(3)** for Federal broadband programs that are not technologically neutral, determine a ceiling on the amount of a subsidy or funding award to provide broadband internet access service to a single location, to be consistently applied and adopted by all covered agencies for the funding of infrastructure with respect to broadband internet access service;
-  - **(4)** provide a plan for holding the covered agencies accountable for the roles, responsibilities, goals, objectives, and performance measures identified in the Strategy;
-  - **(5)** describe the roles and responsibilities of the covered agencies, and the interagency mechanisms, to coordinate the implementation of the Strategy;
-  - **(6)** provide a plan for coordination among Federal broadband programs and for permitting processes for infrastructure with respect to broadband internet access service;
-  - **(7)** provide a plan for regular evaluation and public reporting of Federal broadband programs against clear objectives and performance measures, permitting processes for infrastructure with respect to broadband internet access service, and progress in implementing the Strategy;
-  - **(8)** with respect to the awarding of Federal funds or subsidies to support the deployment of broadband internet access service, provide a plan for the adoption of—
+  - **(4)(3)** provide a plan for holding the covered agencies accountable for the roles, responsibilities, goals, objectives, and performance measures identified in the Strategy;
+  - **(5)(4)** describe the roles and responsibilities of the covered agencies, and the interagency mechanisms, to coordinate the implementation of the Strategy;
+  - **(6)(5)** provide a plan for coordination among Federal broadband programs and for permitting processes for infrastructure with respect to broadband internet access service;
+  - **(7)(6)** provide a plan for regular evaluation and public reporting of Federal broadband programs against clear objectives and performance measures, permitting processes for infrastructure with respect to broadband internet access service, and progress in implementing the Strategy;
+  - **(8)(7)** with respect to the awarding of Federal funds or subsidies to support the deployment of broadband internet access service, provide a plan for the adoption of—
     - **(A)** common data sets regarding those awards, including a requirement that covered agencies use the maps created under title VIII of the Communications Act of 1934 (47 U.S.C. 641 et seq.) and the Deployment Locations Map;
     - **(B)** applications regarding those awards, as described in section 903(e) of the ACCESS BROADBAND Act (47 U.S.C. 1307(e)); and
     - **(C)** rules for prohibiting awards by covered agencies in areas identified as served by the maps created under title VIII of the Communications Act of 1934 (47 U.S.C. 641 et seq.) or in areas already subject to an award or enforceable deployment obligations by a covered agency under a Federal broadband program or a State, local, or Tribal program with respect to broadband internet access service;
-  - **(9)** provide a plan to monitor, publicly report, and reduce waste, fraud, and abuse in Federal broadband programs, including wasteful spending resulting from fragmented, overlapping, and duplicative programs;
-  - **(10)** require consistent obligation and expenditure reporting by covered agencies for Federal broadband programs, which shall be consistent with section 903(c)(2) of the ACCESS BROADBAND Act (47 U.S.C. 1307(c)(2)) and the Deployment Locations Map;
-  - **(11)** provide a plan to increase awareness of, and participation in, Federal broadband programs relating to the affordability and adoption of broadband internet access service; and
-  - **(12)** describe the administrative and legislative action that is necessary to carry out the Strategy.
+  - **(9)(8)** provide a plan to monitor, publicly report, and reduce waste, fraud, and abuse in Federal broadband programs, including wasteful spending resulting from fragmented, overlapping, and duplicative programs;
+  - **(10)(9)** require consistent obligation and expenditure reporting by covered agencies for Federal broadband programs, which shall be consistent with section 903(c)(2) of the ACCESS BROADBAND Act (47 U.S.C. 1307(c)(2)) and the Deployment Locations Map;
+  - **(11)(10)** provide a plan to increase awareness of, and participation in, Federal broadband programs relating to the affordability and adoption of broadband internet access service; and
+  - **(12)(11)** describe the administrative and legislative action that is necessary to carry out the Strategy.
 - **(c)** *Public comment* In developing the Implementation Plan, the Assistant Secretary shall publish a draft version of the Implementation Plan in the Federal Register for a period of notice and comment (and reply comment) that is not less than 60 days.
 
 ## § 5. Briefings and implementation

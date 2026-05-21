@@ -1,7 +1,7 @@
 ---
 measure: S. 323
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 323
@@ -29,3 +29,7 @@ PLAN for Broadband Act
 
 - 2025-01-29 — Introduced in Senate
 - 2025-01-29 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2025-03-12 — Committee on Commerce, Science, and Transportation. Ordered to be reported with amendments favorably.
+- 2026-05-21 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with amendments. Without written report.
+- 2026-05-21 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with amendments. Without written report.
+- 2026-05-21 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 421.
