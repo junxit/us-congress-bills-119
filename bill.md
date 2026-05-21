@@ -1,0 +1,32 @@
+---
+legis-num: H.R. 8986
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 8986
+
+> To amend title XVIII of the Social Security Act to allow for the designation of certain facilities as critical access hospitals under the Medicare program.
+
+## § 1. Short title
+
+This Act may be cited as the “Ensuring Rural Health Care Access for Military and Tribal Families Act”.
+
+## § 2. Providing essential health care access for members of the Armed Forces, dependents, and veterans in rural areas
+
+Section 1820(c)(2) of the Social Security Act (42 U.S.C. 1395i–4(c)(2)) is amended—
+
+- **(1)** in subparagraph (B)(i), by inserting “subject to subparagraph (F),” before “is a hospital”;
+- **(2)** in subparagraph (E)(ii), by striking “The total” and inserting “Subject to subparagraph (F), the total”; and
+- **(3)** by adding at the end the following new subparagraph:
+  > - **(F)** *Essential health care access for members of the Armed Forces, dependents, and veterans in rural areas*
+  >   - **(i)** *In general* Beginning October 1, 2026, a State may designate a facility as a critical access hospital without regard to the criteria under subparagraph (B)(i) if the facility meets 3 or more of the following criteria:
+  >     - **(I)** The hospital—
+  >       - **(aa)** delivers health care services to individuals covered under the TRICARE program (as defined in section 1072 of title 10, United States Code) and veterans enrolled in the patient enrollment system under section 1705 of title 38, United States Code, living in rural areas; and
+  >       - **(bb)** is located in a county (or equivalent unit of local government) in a rural area (as defined in section 1886(d)(2)(D)) or is treated as being located in a rural area pursuant to section 1886(d)(8)(E), or is located in an area that otherwise meets the definition of rural established by the Federal Office of Rural Health Policy.
+  >     - **(II)** The hospital is not a sole community hospital (as defined in section 1886(d)(5)(D)(iii)).
+  >     - **(III)** At the time of designation, 8 percent or more of the annual gross revenue of the hospital and its provider-based departments, including affiliated outpatient department and provider-based clinics, is derived from services provided to individuals covered under the TRICARE program.
+  >     - **(IV)** At the time of designation, 15 percent or more of the annual gross revenue from labor and delivery services of the hospital is derived from services provided to individuals covered under the TRICARE program.
+  >     - **(V)** The hospital is located on a reservation (as defined in section 4 of the Indian Health Care Improvement Act).
+  >   - **(ii)** *Psychiatric and rehabilitation distinct part units* A facility described in clause (i) may establish a distinct part unit under subparagraph (E) without regard to the limitation on number of beds under clause (ii) of such subparagraph. The Secretary may not take a distinct part unit so established by such facility into account when determining whether such facility is primarily engaged in providing the services described in section 1861(e)(1).
