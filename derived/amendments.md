@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6047
 congress: 119
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -34,7 +34,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 401` | add-at-end | Section 1114 of title 38, United States Code, is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 401` | add-at-end | Section 5312 of such title is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | by striking “June 9, 2034” each place it appears and inserting “September 30, 2036”; | the bill names no machine-readable US Code section |
-| — | replace | in subparagraph (E), by striking “0.50” both places it appears and inserting “1.40”; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (E), by striking “0.50” both places it appears and inserting “1.42”; and | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (I), by striking “0.50” each place it appears and inserting “1.0”. | the bill names no machine-readable US Code section |
 | — | replace | Section 5503(d)(7) of such title is amended by striking “January 31, 2033” and inserting “September 30, 2036”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 3701(b) of title 38, United States Code, is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |

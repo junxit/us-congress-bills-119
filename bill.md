@@ -36,7 +36,7 @@ This Act may be cited as the “Sharri Briley and Eric Edmundson Veterans Benefi
 Section 3729(b)(2) of such title is amended, in the loan fee table—
 
 - **(1)** by striking “June 9, 2034” each place it appears and inserting “September 30, 2036”;
-- **(2)** in subparagraph (E), by striking “0.50” both places it appears and inserting “1.40”; and
+- **(2)** in subparagraph (E), by striking “0.50” both places it appears and inserting “1.42”; and
 - **(3)** in subparagraph (I), by striking “0.50” each place it appears and inserting “1.0”.
 
 ## § 4. Extension of certain limits on payments of pension
