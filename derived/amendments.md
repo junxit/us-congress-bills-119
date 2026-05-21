@@ -1,7 +1,7 @@
 ---
 measure: S. 4631
 congress: 119
-version: Considered and Passed Senate
+version: Engrossed in Senate
 derived: true
 ---
 
