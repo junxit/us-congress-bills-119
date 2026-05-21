@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2616
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2616
@@ -23,9 +23,10 @@ Stopping Indoctrination and Protecting Kids Act
 - Rep. Onder, Robert [R-MO-3] (O000177)
 - Rep. Kiley, Kevin [R-CA-3] (K000401)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (2)
 
@@ -59,3 +60,4 @@ Stopping Indoctrination and Protecting Kids Act
 - 2026-05-20 — Rule provides for consideration of H.R. 7567, H.R. 2616, S. Con. Res. 33, S. 1318 and H.R. 1346. The resolution provides for consideration of H.R. 7567 under a structured rule and H.R. 2616, S. Con. Res. 33, S. 1318, and H.R. 1346 under a closed rule, with one hour of general debate on each measure. The resolution provides for one motion to recommit on H.R. 7567, H.R. 2616, and H.R. 1346, and one motion to commit on S. 1318.
 - 2026-05-20 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2026-05-20 — The previous question was ordered pursuant to the rule.
+- 2026-05-21 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
