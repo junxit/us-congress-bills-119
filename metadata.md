@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3234
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3234
@@ -30,9 +30,10 @@ Keeping Deposits Local Act
 - Rep. Bergman, Jack [R-MI-1] (B001301)
 - Rep. Rogers, Mike D. [R-AL-3] (R000575)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -56,3 +57,4 @@ Keeping Deposits Local Act
 - 2026-05-20 — Motion to reconsider laid on the table Agreed to without objection.
 - 2026-05-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 0 (Roll no. 177).
 - 2026-05-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 405 - 0 (Roll no. 177).
+- 2026-05-21 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
