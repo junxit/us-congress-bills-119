@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 676
 congress: 119
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 676
@@ -28,3 +28,7 @@ A resolution recognizing and honoring National Mushroom Day and the contribution
 
 - 2026-04-16 — Referred to the Committee on Agriculture, Nutrition, and Forestry. (text: CR S1825)
 - 2026-04-16 — Submitted in Senate
+- 2026-05-21 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S2452)
+- 2026-05-21 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S2452)
+- 2026-05-21 — Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent.
+- 2026-05-21 — Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent.
