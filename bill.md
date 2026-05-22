@@ -1,0 +1,43 @@
+---
+legis-num: H.R. 9019
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 9019
+
+> To direct the Secretary of Energy to report to Congress on the use of electric energy and water by certain data centers, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Public Oversight of Water and Energy Reporting Act” or the “POWER Act”.
+
+## § 2. Findings
+
+Congress finds that the construction and operation of data centers should not come at the sacrifice of our nation’s water resources or valuable farm and ranchland, and the Federal Government should make sure it is not subsidizing data centers that would not be viable otherwise.
+
+## § 3. Reports on use of electric energy and water by certain data centers
+
+Not later than the date that is 2 years after the date of enactment of this Act, and annually thereafter, the Secretary of Energy shall, in consultation with the Administrator of the Environmental Protection Agency, submit to Congress a report on the use of electric energy and water by covered data centers during the applicable report period, which shall include information on—
+
+- **(1)** the amount of water used by each covered data center that is provided by a public water system during the applicable report period, including—
+  - **(A)** for a covered data center that recycles and reuses the water provided by a public water system, the amount of water so provided during the applicable report period; and
+  - **(B)** for a covered data center that is continuously provided water by a public water system, the average amount of water so provided each day during the applicable report period;
+- **(2)** the number of covered data centers with respect to which the covered data center generates all of the electric energy used by that covered data center;
+- **(3)** the number of covered data centers that are electric consumers; and
+- **(4)** the costs associated with the connection of any covered data center to the bulk-power system during the applicable report period and who paid such costs.
+
+## § 4. Definitions
+
+In this Act:
+
+- **(1)** *Bulk-power system* The term bulk-power system has the meaning given such term in section 215(a) of the Federal Power Act (16 U.S.C. 824o(a)).
+- **(2)** *Covered data center* The term covered data center—
+  - **(A)** means any qualifying project under Executive Order 14318 (90 Fed. Reg. 35385; relating to accelerating Federal permitting of data center infrastructure); and
+  - **(B)** does not include any such qualifying project that is owned, operated, or maintained by a covered agency (as such term is defined in section 834(a)(2) of the Carl Levin and Howard P. ‘Buck’ McKeon National Defense Authorization Act for Fiscal Year 2015 (44 U.S.C. 3601 note(a)(2))).
+- **(3)** *Electric consumer* The term electric consumer has the meaning given such term in section 3 of the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. 2602).
+- **(4)** *Public water system* The term public water system has the meaning given such term in section 1401(4)(A) of the Safe Drinking Water Act (42 U.S.C. 300f(4)(A)).
+- **(5)** *Report period* The term report period means—
+  - **(A)** for an initial report submitted under section 3, the period of time beginning on the date of enactment of this Act and ending on the date (prior to submission of the initial report) that the Secretary of Energy determines to be appropriate; and
+  - **(B)** for any subsequent report submitted under section 3, a 365-day period ending on the date that the Secretary of Energy determines to be appropriate.
