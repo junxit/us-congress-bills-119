@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7891
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -32,8 +32,8 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `20 U.S.C. § 1099c-1` | strike | in subparagraph (E), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `20 U.S.C. § 1099c-1` | redesignate | by redesignating subparagraph (F) as subparagraph (G); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1099c-1` | redesignate | by redesignating subparagraph (F) as subparagraph (G), and striking “and” after the semicolon at the end of such subparagraph; and | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1099c-1` | insert | by inserting after subparagraph (E) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1099c-1` | replace | in paragraph (3), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `20 U.S.C. § 1099c-1` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1099c-1` | amend | Section 498A of the Higher Education Act of 1965 (20 U.S.C. 1099c–1) is further amended by adding at the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1099c-1` | add-at-end | Section 498A of the Higher Education Act of 1965 (20 U.S.C. 1099c–1) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

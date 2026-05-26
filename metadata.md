@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7891
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7891
@@ -16,6 +16,10 @@ Student Aid Fraud Oversight and Accountability Act of 2026
 
 - Rep. Thompson, Glenn [R-PA-15] (T000467)
 
+## Cosponsors (1)
+
+- Rep. Foxx, Virginia [R-NC-5] (F000450)
+
 ## Committees (1)
 
 - House — Education and Workforce Committee
@@ -25,3 +29,8 @@ Student Aid Fraud Oversight and Accountability Act of 2026
 - 2026-03-12 — Introduced in House
 - 2026-03-12 — Introduced in House
 - 2026-03-12 — Referred to the House Committee on Education and Workforce.
+- 2026-03-17 — Committee Consideration and Mark-up Session Held
+- 2026-03-17 — Ordered to be Reported (Amended) by the Yeas and Nays: 33 - 0.
+- 2026-05-26 — Placed on the Union Calendar, Calendar No. 582.
+- 2026-05-26 — Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-668.
+- 2026-05-26 — Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-668.
