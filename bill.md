@@ -33,7 +33,7 @@ This Act may be cited as the “No Aid for Ghost Students Act of 2026”.
   >     - **(B)** *Annual evaluation and report* Not later than October 1, 2027, and annually thereafter, the Secretary shall conduct an evaluation of the effectiveness of the identity fraud detection system carried out under this subsection, and submit to the authorizing committees a report on the use and effectiveness of such system.
 
 - **(b)** *Additional verification requirements*
-  - **(1)** *Amendment* Section 487(a)(15) of the Higher Education Act of 1965 (20 U.S.C. 1094(a)(15)) is amended—
+  - **(1)** *Amendments* Section 487(a)(15) of the Higher Education Act of 1965 (20 U.S.C. 1094(a)(15)) is amended—
     - **(A)** by striking “(15) The institution acknowledges” and inserting “(15)(A) The institution acknowledges”; and
     - **(B)** by adding at the end the following new subparagraph:
       > - **(B)** Beginning on October 1, 2026, the institution will not disburse Federal financial aid under this title to an applicant whose application under section 483 presents a reasonable suspicion of identity fraud under section 483(e), unless the institution, in accordance with procedures established by the Secretary—
@@ -41,4 +41,4 @@ This Act may be cited as the “No Aid for Ghost Students Act of 2026”.
       >   - **(ii)** notifies the Secretary that the identity of the applicant has been verified; and
       >   - **(iii)** maintains a record of such identity verification.
 
-  - **(2)** *Institutional verification procedures* Not later than October 1, 2026, the Secretary of Education shall establish guidelines with respect to identity verification procedures to be carried out by institutions of higher education under subparagraph (B) of section 487(a)(15) of the Higher Education Act of 1965 (20 U.S.C. 1094(a)(15)), as amended by paragraph (1).
+  - **(2)** *Guidelines on institutional verification procedures* Not later than October 1, 2026, the Secretary of Education shall establish guidelines with respect to identity verification procedures to be carried out by institutions of higher education under subparagraph (B) of section 487(a)(15) of the Higher Education Act of 1965 (20 U.S.C. 1094(a)(15)), as amended by paragraph (1).
