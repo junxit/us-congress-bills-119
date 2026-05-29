@@ -36,7 +36,7 @@ This Act may be cited as the “Recover COVID Unemployment Fraud in Banks Act”
       - **(iii)** actions, consistent with State law, to be taken by the State agency if an improper payment is determined to be the result of fraud;
     - **(B)** assurances that, subject to section 303(g) of the Social Security Act (42 U.S.C. 503(g)), any action taken in relation to a determination that a payment identified under paragraph (1) is an improper payment shall be taken under State law;
     - **(C)** a model notice and information, developed in coordination with the Consumer Financial Protection Bureau, about resources available to individuals whose identity information is determined to have been fraudulently used to obtain Federal pandemic unemployment compensation;
-    - **(D)** information on the legal pathways described under paragraphs (3) and (4) for recovery of payments that are improper payments held by institutions and agencies described in paragraph (1); and
+    - **(D)** information on the legal pathways described under paragraphs (3) and (4) for recovery of payments that are improper payments held by financial institutions and agencies described in paragraph (1); and
     - **(E)** procedural requirements for State agencies to follow when funds are returned by such institutions that provides a standardized methodology to return funds to the Federal Government;
   - **(3)** issue guidance, in coordination with the Comptroller of the Currency and Chairman of the Federal Deposit Insurance Corporation, to financial institutions described in paragraph (1) that are holding payments that are improper payments that provides information on a legal pathway, consistent with banking regulations and applicable contracts with State agencies, for returning such payments to the appropriate State agency; and
   - **(4)** issue guidance, in coordination with the Secretary of Treasury, to administrators of State agencies responsible for unclaimed property on the obligations of such agencies to review and return payments described in paragraph (1)(B) to the appropriate State agency.
@@ -44,7 +44,7 @@ This Act may be cited as the “Recover COVID Unemployment Fraud in Banks Act”
 - **(d)** *State administrative costs* The Secretary of Labor shall reimburse States for all administrative costs incurred as a result of coordination with the Task Force by reason of an agreement under section 2102, 2104, or 2107 of the CARES Act (15 U.S.C. 9201; 9203; 9205).
 - **(e)** *Definitions* Except as otherwise specified, in this section:
   - **(1)** *Federal pandemic unemployment compensation* The term Federal pandemic unemployment compensation means a payment of—
-    - **(A)** assistance under section 2102(b) of the CARES Act (15 U.S.C. 9021(b));
+    - **(A)** pandemic unemployment assistance under section 2102(b) of the CARES Act (15 U.S.C. 9021(b));
     - **(B)** Federal Pandemic Unemployment Compensation and Mixed Earner Unemployment Compensation under section 2104(b)(1) of the CARES Act (15 U.S.C. 9023(b)(1)); and
     - **(C)** pandemic emergency unemployment compensation under section 2107(a)(2) of the CARES Act (15 U.S.C. 9025(a)(2)).
   - **(2)** *Improper payment* The term improper payment means any amount of a pandemic unemployment payment to which the individual is not entitled.
