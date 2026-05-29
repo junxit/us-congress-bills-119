@@ -1,0 +1,42 @@
+---
+legis-num: H.R. 9079
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 9079
+
+> To amend title 10, United States Code, to prohibit the appointment or enlistment into the Armed Forces of foreign nationals from certain adversary countries, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Targeted Restrictions Upholding Service Trustworthiness Act” or “TRUST Act”.
+
+## § 2. Findings
+
+Congress finds the following:
+
+- **(1)** The Armed Forces represent the ultimate defense of the United States and the integrity, security, and undivided loyalty of members of the Armed Forces is paramount to national security.
+- **(2)** Allowing foreign nationals from countries with interests that are adversary to the United States to serve in the Armed Forces of the United States creates an unacceptable risk of espionage, sabotage, unwarranted foreign influence, and compromise of sensitive information, technology, and operations.
+- **(3)** The existing process for assessing the loyalty of foreign nationals, while comprehensive, is insufficient to mitigate the inherent and systemic risk posed by individuals with ties to foreign adversary governments.
+
+## § 3. Prohibition on enlistment or appointment of foreign nationals from foreign adversaries
+
+- **(a)** *Enlistment* Section 504 of title 10, United States Code, is amended by adding at the end the following new subsection:
+  > - **(c)** *Nationals of foreign adversary countries* Notwithstanding subsection (b), no person who is a national of a covered nation (as defined in section 4872(f) of this title) may be enlisted in an armed force.
+
+- **(b)** *Appointment* Section 532(a) of title 10, United States Code, is amended—
+  - **(1)** in paragraph (3), by striking “; and” and inserting a semicolon;
+  - **(2)** by redesignating paragraph (4) as paragraph (5); and
+  - **(3)** by inserting after paragraph (3) the following new paragraph:
+    > - **(4)** has not been a national of a covered nation (as defined in section 4872(f) of this title) during the five-year period ending on the date of such appointment; and
+
+- **(c)** *Review of existing personnel* Not later than one year after the date of the enactment of this Act, the Secretary of Defense shall submit to the Committees on Armed Services of the House of Representatives and the Senate a report that—
+  - **(1)** identifies the number of members of the Armed Forces who—
+    - **(A)** are foreign nationals of a covered nation (as defined in section 4872(f) of title 10, United States Code); and
+    - **(B)** were lawfully admitted for permanent residence (as defined in section 101(a) of the Immigration and Nationality Act (8 U.S.C. 1101(a))) on the date of accession to the Armed Forces;
+  - **(2)** identifies the date of accession to the Armed Forces of each member identified in paragraph (1);
+  - **(3)** identifies the number of years of service of each member identified in paragraph (1); and
+  - **(4)** identifies how many members identified in paragraph (1) are in the process of seeking citizenship in the United States.
+- **(d)** *Applicability* The amendments made by subsections (a) and (b) shall apply to the original enlistment or original appointment of a person as a member of the Armed Forces on or after the date that is 180 days after the date of the enactment of this Act.
