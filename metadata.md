@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 727
 congress: 119
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 727
@@ -16,7 +16,7 @@ A resolution supporting the designation of May 29, 2026, as "Mental Health Aware
 
 - Sen. Fischer, Deb [R-NE] (F000463)
 
-## Cosponsors (21)
+## Cosponsors (23)
 
 - Sen. Bennet, Michael F. [D-CO] (B001267)
 - Sen. Alsobrooks, Angela D. [D-MD] (A000382)
@@ -39,6 +39,8 @@ A resolution supporting the designation of May 29, 2026, as "Mental Health Aware
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 - Sen. McCormick, David [R-PA] (M001243)
 - Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Blunt Rochester, Lisa [D-DE] (B001303)
 
 ## Committees (1)
 
@@ -48,3 +50,7 @@ A resolution supporting the designation of May 29, 2026, as "Mental Health Aware
 
 - 2026-05-13 — Referred to the Committee on the Judiciary. (text: CR S2281-2282)
 - 2026-05-13 — Submitted in Senate
+- 2026-06-01 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2026-06-01 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S2480)
+- 2026-06-01 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2026-06-01 — Senate Committee on the Judiciary discharged by Unanimous Consent.
