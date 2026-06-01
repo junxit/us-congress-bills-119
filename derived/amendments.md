@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3633
 congress: 119
-version: Referred in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-122 amendatory instructions. 25 executed, 97 stated and not applied.
+176 amendatory instructions. 36 executed, 140 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -249,6 +249,105 @@ to guess them.
 | Removed | `paragraph and in` |
 | Inserted | `paragraph,` |
 
+### 15 U.S.C. § 77z-3
+
+> by striking “by rule or regulation” and inserting “by rule, regulation, or order”; and
+
+| | |
+|---|---|
+| Removed | `by rule or regulation` |
+| Inserted | `by rule, regulation, or order` |
+
+### 15 U.S.C. § 77r
+
+> by striking “term qualified purchaser” and inserting “terms qualified transaction and qualified purchaser”;
+
+| | |
+|---|---|
+| Removed | `term qualified purchaser` |
+| Inserted | `terms qualified transaction and qualified purchaser` |
+
+### 12 U.S.C. § 5901
+
+> in subsection (a)(2)(C), by striking “subsection (b)(5)” and inserting “paragraph (5) or (6) of subsection (b)” and
+
+| | |
+|---|---|
+| Removed | `subsection (b)(5)` |
+| Inserted | `paragraph (5) or (6) of subsection (b)` |
+
+### 15 U.S.C. § 78fff-4
+
+> in section 10(g) (15 U.S.C. 78fff–4(g)), by striking “16(12)” and inserting “16(13)”; and
+
+| | |
+|---|---|
+| Removed | `16(12)` |
+| Inserted | `16(13)` |
+
+### 15 U.S.C. § 78lll
+
+> in paragraph (10), as so redesignated, in the matter following subparagraph (L), by striking “a transaction in the portfolio margining account” and inserting “the portfolio margining account or expanded securities portfolio margin account”.
+
+| | |
+|---|---|
+| Removed | `a transaction in the portfolio margining account` |
+| Inserted | `the portfolio margining account or expanded securities portfolio margin account` |
+
+### 15 U.S.C. § 78aaa
+
+> Section 746(b) of title 11, United States Code, is amended, in the matter preceding paragraph (1), by striking “cash or a security” and inserting “cash, a security, an ancillary asset, or a digital commodity”.
+
+| | |
+|---|---|
+| Removed | `cash or a security` |
+| Inserted | `cash, a security, an ancillary asset, or a digital commodity` |
+
+### 15 U.S.C. § 78aaa
+
+> by striking “section 741(7)” and inserting “section 741”; and
+
+| | |
+|---|---|
+| Removed | `section 741(7)` |
+| Inserted | `section 741` |
+
+### 15 U.S.C. § 78aaa
+
+> by striking “section 761(4)” and inserting “section 761”.
+
+| | |
+|---|---|
+| Removed | `section 761(4)` |
+| Inserted | `section 761` |
+
+### 15 U.S.C. § 78aaa
+
+> in paragraph (1), by striking “section 741(7)” and inserting “section 741”; and
+
+| | |
+|---|---|
+| Removed | `section 741(7)` |
+| Inserted | `section 741` |
+
+### 15 U.S.C. § 78aaa
+
+> in paragraph (2), by striking “section 761(4)” and inserting “section 761”.
+
+| | |
+|---|---|
+| Removed | `section 761(4)` |
+| Inserted | `section 761` |
+
+### 15 U.S.C. § 78aaa
+
+> Section 752(c) of title 11, United States Code, is amended by striking “section 741(4)(B)” and inserting “section 741(5)(B)”.
+
+| | |
+|---|---|
+| Removed | `section 741(4)(B)` |
+| Inserted | `section 741(5)(B)` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -355,3 +454,46 @@ complete account of the bill's effect, which it is not.
 | `12 U.S.C. § 411` | add-at-end | Section 16 of the Federal Reserve Act (12 U.S.C. 411 et seq.) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 411` | add-at-end | Section 16 of the Federal Reserve Act (12 U.S.C. 411 et seq.), as amended by section 2, is further amended by adding at the end the following paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 241` | insert | Section 10 of the Federal Reserve Act (12 U.S.C. 241 et seq.) is amended by inserting before paragraph (12) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 77a` | insert | The Securities Act of 1933 (15 U.S.C. 77a et seq.) is amended by inserting after section 4A (15 U.S.C. 77d–1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 77z-3` | add-at-end | by adding at the end the following: “The Commission shall, by rule or regulation, determine the procedures under which an exemptive order under this section shall be granted and may, in the sole discretion of the Commission, decline to e… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 77r` | insert | in the paragraph heading, by inserting “in qualified transactions or” after “sales”; | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 77r` | insert | in the first sentence, by inserting “in a qualified transaction or” after “the security”; and | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 77r` | insert | by inserting “and categories of transactions, including secondary transactions,” after “securities”; and | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 77r` | insert | by inserting “and with due regard to the facilitation of capital formation and the promotion of innovation” before the period at the end; and | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 77r` | insert | in subparagraph (A), by inserting “or, if the issuer is not required to file such reports, where the Commission otherwise determines, consistent with the public interest and the protection of investors and with due regard to the facilita… | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 77r` | insert | in subparagraph (D)(ii), by inserting “in a qualified transaction or” after “offered or sold”; | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 77r` | strike | in subparagraph (F), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 77r` | replace | in subparagraph (G), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 77r` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 77r` | add-at-end | Section 18(b) of the Securities Act of 1933 (15 U.S.C. 77r(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 77r` | add-at-end | Section 18(b) of the Securities Act of 1933 (15 U.S.C. 77r(b)), as amended by subsection (f) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 78lll` | insert | Section 16(14) of the Securities Investor Protection Act of 1970 (15 U.S.C. 78lll(14)) is amended by inserting after the second sentence the following: “The term security does not include a digital commodity.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | by inserting “digital commodity broker, digital commodity dealer,” after “futures commission merchant,”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting before the period the following: “and any digital commodity exchange registered, or required to register, under that Act that permits direct customer access”. | the bill names no machine-readable US Code section |
+| `12 U.S.C. § 5901` | insert | in paragraph (1)(A), by inserting “, any person who owns, operates, or manages a digital asset kiosk in the United States or its territories,” after “similar instruments”; and | the bill quotes the text inserted but describes where it goes |
+| `12 U.S.C. § 5901` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5901` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5901` | add-at-end | Subchapter II of chapter 53 of title 31, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5901` | add-at-end | The table of sections for subchapter II of chapter 53 of title 31, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5901` | add-at-end | in subsection (b), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5901` | insert | Section 5312(a)(3)(D) of title 31, United States Code, is amended by inserting “, including digital assets (as defined in section 2 of the GENIUS Act (12 U.S.C. 5901)), as may be applicable,” after “value”. | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 78fff-3` | strike | in paragraph (4), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 78fff-3` | replace | in paragraph (5), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 78fff-3` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 78lll` | redesignate | by redesignating paragraphs (7) through (14) as paragraphs (8) through (15), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 78lll` | insert | by inserting after paragraph (6) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 77a` | insert | The Securities Act of 1933 (15 U.S.C. 77a et seq.) is amended by inserting after section 27B (15 U.S.C. 77z–2a) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 78a` | insert | The Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) is amended by inserting after section 15G (15 U.S.C. 78o–11) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 78aaa` | redesignate | by redesignating paragraphs (5) through (9) as paragraphs (7) through (11), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 78aaa` | redesignate | by redesignating paragraphs (1) through (4) as paragraphs (2) through (5), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 78aaa` | redesignate | by inserting before paragraph (2), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 78aaa` | strike | in subparagraph (A)(vi), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 78aaa` | redesignate | by redesignating subparagraph (B) as subparagraph (C); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 78aaa` | insert | by inserting after subparagraph (A) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 78aaa` | insert | by inserting “, ancillary asset, or digital commodity” after “security”; and | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 78aaa` | insert | by inserting “or (B)” after “subparagraph (A)”; and | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 78aaa` | insert | in clause (ii), by inserting “an ancillary asset, a digital commodity,” after “a security,”; | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 78aaa` | redesignate | in paragraph (5), as so redesignated, in the matter preceding subparagraph (A), by inserting “ancillary asset, digital commodity,” after “cash, security,” each place it appears; | the bill quotes the text inserted but describes where it goes |
+| `15 U.S.C. § 78aaa` | redesignate | by inserting after paragraph (5), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 78aaa` | redesignate | in paragraph (8), as so redesignated, in subparagraph (A)(i), by inserting “, ancillary asset positions, and digital commodities positions” after “securities positions”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 5302` | amend | the sum obtained by adding the absolute values of the current annual growth rate and the prior annual growth rate of the eligible recipient. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

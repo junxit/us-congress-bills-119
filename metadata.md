@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3633
 congress: 119
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 3633
@@ -80,3 +80,7 @@ Digital Asset Market Clarity Act
 - 2025-07-17 — Rule provides for consideration of H.R. 4016, H.R. 3633, H.R. 1919 and S. 1582. The resolution provides for consideration of H.R. 4016 and H.R. 3633 under a structured rule, and H.R. 1919 and S. 1582 under a closed rule, with one hour of general debate on each bill. The resolution provides for a motion to recommit on H.R. 4016, H.R. 3633, and H.R. 1919, and a motion to commit on S. 1582.
 - 2025-07-17 — The previous question was ordered pursuant to the rule.
 - 2025-09-18 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2026-05-14 — Committee on Banking, Housing, and Urban Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2026-06-01 — Committee on Banking, Housing, and Urban Affairs. Reported by Senator Scott SC, with an amendment in the nature of a substitute. Without written report.
+- 2026-06-01 — Committee on Banking, Housing, and Urban Affairs. Reported by Senator Scott SC, with an amendment in the nature of a substitute. Without written report.
+- 2026-06-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 423.
