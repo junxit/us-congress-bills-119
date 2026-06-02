@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5631
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5631
@@ -41,3 +41,10 @@ Geothermal Energy Advancement Act
 - 2026-05-20 — Placed on the Union Calendar, Calendar No. 574.
 - 2026-05-20 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-660.
 - 2026-05-20 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-660.
+- 2026-06-02 — Considered under suspension of the rules. (consideration: CR H3760-3765)
+- 2026-06-02 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5631.
+- 2026-06-02 — Motion to reconsider laid on the table Agreed to without objection. (text: CR H3760-3761)
+- 2026-06-02 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
+- 2026-06-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2026-06-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2026-06-02 — The title of the measure was amended. Agreed to without objection.

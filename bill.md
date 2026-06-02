@@ -7,13 +7,71 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 5631
 
-> To appoint a Geothermal Ombudsman and establish a Geothermal Permitting Task Force from within the Bureau of Land Management, and for other purposes.
+> To promote responsible geothermal energy development on public lands, and for other purposes.
 
 ## § 1. Short title
 
-This Act may be cited as the “Geothermal Ombudsman for National Deployment and Optimal Reviews Act”.
+This Act may be cited as the “Geothermal Energy Advancement Act”.
 
-## § 2. Geothermal ombudsman and permitting task force
+## § 2. Effect of pending civil actions on processing applications related to geothermal leasing
+
+Section 4 of the Geothermal Steam Act of 1970 (30 U.S.C. 1003) is amended by adding at the end the following:
+
+> - **(h)** *Effect of pending civil actions on processing applications related to geothermal leasing*
+>   - **(1)** *Requirement to process applications* Notwithstanding the existence of any pending civil action that affects an application for a geothermal drilling permit, sundry notice, notice to proceed, right-of-way, or any other authorization under a valid existing geothermal lease, the Secretary shall, unless a United States Federal court vacates or provides injunctive relief for the applicable geothermal lease, geothermal drilling permit, sundry notice, notice to proceed, right-of-way, or other authorization, approve and issue, or deny, each such application not later than 60 days after completing all requirements under applicable Federal laws and regulations, including the National Environmental Policy Act of 1969, the Endangered Species Act of 1973, and division A of subtitle III of title 54, United States Code.
+>   - **(2)** *No new authority for Federal courts* Nothing in this subsection shall be construed as modifying any existing authority of a Federal court to vacate or provide injunctive relief for a geothermal lease, geothermal drilling permit, sundry notice, notice to proceed, right-of-way, or other authorization.
+>   - **(3)** *Definition of authorization* In this subsection, the term authorization means any license, permit, approval, finding, determination, or other administrative decision issued by a Federal agency, or any interagency consultation, that is required or authorized under Federal law or regulations in order to site, construct, reconstruct, or commence operations of a geothermal project administered by a Federal agency.
+
+## § 3. Cost recovery from geothermal leasing, permitting, and inspections
+
+Section 6 of the Geothermal Steam Act of 1970 (30 U.S.C. 1005) is amended by adding at the end the following:
+
+> - **(j)** *Cost recovery*
+>   - **(1)** *In general* During the period that begins on the date of enactment of this subsection and ends September 30, 2033, the Secretary may require an applicant for, or a holder of, a geothermal lease to reimburse the United States for all reasonable administrative and other costs incurred by the United States from—
+>     - **(A)** processing the application for the geothermal lease, including any application for an operations plan, geothermal drilling permit, utilization plan, site license, facility construction permit, commercial use permit, and any other approval associated with a geothermal lease; and
+>     - **(B)** inspecting and monitoring—
+>       - **(i)** geophysical exploration activities;
+>       - **(ii)** the drilling, plugging, and abandonment of wells; and
+>       - **(iii)** the construction, operation, termination, and reclamation of any well site or facility for the utilization of geothermal resources pursuant to the geothermal lease.
+>   - **(2)** *Considerations* In determining whether to require reimbursement under paragraph (1), the Secretary shall consider whether there is in existence a cooperative cost share agreement between the United States and the holder of a geothermal lease.
+>   - **(3)** *Adjustments* The Secretary may reduce the amount to be reimbursed under paragraph (1) if the Secretary determines—
+>     - **(A)** that full reimbursement would impose an economic hardship on the applicant; or
+>     - **(B)** that a less than full reimbursement is necessary to promote the greatest use of geothermal resources.
+>   - **(4)** *Use* The amounts reimbursed under this subsection shall be credited to the currently applicable appropriation, account, or fund of the Department of the Interior as discretionary offsetting collections, and shall be available only to the extent provided in advance in appropriations Acts for—
+>     - **(A)** processing the application for geothermal leases, including any application for operations plans, geothermal drilling permits, utilization plans, site licenses, facility construction permits, commercial use permits, and any other approval associated with geothermal leases; and
+>     - **(B)** inspecting and monitoring—
+>       - **(i)** geophysical exploration activities;
+>       - **(ii)** the drilling, plugging, and abandonment of wells; and
+>       - **(iii)** the construction, operation, termination, and reclamation of any well site or facility for the utilization of geothermal resources pursuant to geothermal leases.
+
+## § 4. Report
+
+- **(a)** *Report* Not later than 5 years after the date of enactment of this Act, the Secretary of the Interior, in consultation with the geothermal industry and other stakeholders, shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate, and make publicly available on the website of the Department of the Interior, a report that includes—
+  - **(1)** an assessment of how the amendments made by section 3 of this Act affected the Bureau of Land Management’s geothermal program;
+  - **(2)** any recommendations for reauthorization of section 6(j) of the Geothermal Steam Act of 1970, as added by this Act; and
+  - **(3)** any other recommendations for updates to such section and the Bureau of Land Management’s geothermal program.
+- **(b)** *Considerations* In developing the report required in subsection (a), the Secretary of the Interior shall solicit facts or information from the geothermal industry and other stakeholders.
+
+## § 5. Publication of “Gold Book” for geothermal operations on Federal lands
+
+- **(a)** *Identification* Not later than one year after the date of enactment of this Act, the Secretary of the Interior, in consultation with other relevant Federal agencies, shall identify standard procedures and guidelines for efficient and environmentally responsible geothermal leasing and permitting to the extent such standard procedures and guidelines are not addressed in the fourth edition of the Bureau of Land Management’s “Surface Operating Standards and Guidelines for Oil and Gas Exploration and Development”, commonly known as the “Gold Book” and last revised in 2007.
+- **(b)** *Publication*
+  - **(1)** *In general* Not later than 270 days after identifying standard procedures and guidelines under subsection (a), the Secretary of the Interior shall publish an updated version of the Gold Book incorporating any changes necessary to support efficient and environmentally responsible geothermal leasing and permitting for use by the field offices of the Bureau of Land Management and geothermal operators.
+  - **(2)** *Renaming Gold Book* The Secretary of the Interior shall rename the Gold Book to reflect the incorporation of standard procedures and guidelines related to geothermal development.
+- **(c)** *Consultation* Before publishing an updated version of the Gold Book, the Secretary of the Interior shall consult with—
+  - **(1)** other relevant Federal agencies, including field offices of the Bureau of Land Management; and
+  - **(2)** outside stakeholders, including developers and other experts.
+- **(d)** *Inclusions* Each updated version of the Gold Book shall include standard procedures and guidelines for ensuring the efficient review and approval of environmentally responsible geothermal development, including—
+  - **(1)** exploration and geophysical operations;
+  - **(2)** permitting lease operations;
+  - **(3)** compliance with all applicable laws and regulations;
+  - **(4)** construction and maintenance; and
+  - **(5)** drilling, production, and utilization operations.
+- **(e)** *Periodic revision* The Secretary of the Interior shall—
+  - **(1)** at least once every five years, review the most recent version of the Gold Book; and
+  - **(2)** if determined necessary by the Secretary of the Interior to support efficient and environmentally responsible geothermal leasing and permitting, publish an updated version of the Gold Book.
+
+## § 6. Geothermal ombudsman and permitting task force
 
 - **(a)** *Definitions* In this section:
   - **(1)** *Geothermal authorization* The term geothermal authorization means any license, permit, approval, finding, determination, or other administrative decision issued by the Bureau of Land Management and any interagency consultation that is required or authorized under Federal law in order to site, construct, reconstruct, or commence operations of a geothermal energy project administered by the Bureau of Land Management.
@@ -56,3 +114,28 @@ This Act may be cited as the “Geothermal Ombudsman for National Deployment and
         - **(III)** the difficulty in recruiting or replacing qualified personnel with relevant expertise related to geothermal authorizations.
     - **(D)** *Savings clause* Cross-office personnel assignments carried out under this paragraph shall not alter the underlying jurisdiction of other offices of the Bureau of Land Management over applicable geothermal authorizations.
 - **(d)** *Report* The Geothermal Ombudsman shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives an annual report that describes the activities of the Task Force and evaluates the effectiveness of geothermal permit processing during the preceding 1-year period.
+
+## § 7. Geothermal royalties
+
+- **(a)** *Definitions* Section 2 of the Geothermal Steam Act of 1970 (30 U.S.C. 1001) is amended by adding at the end the following:
+  > - **(h)** “Geothermal electric generating facility” means a facility, including all necessary equipment or structures (including turbines and cooling equipment), that produces electricity using geothermal resources. For purposes of section 5(a)(1), a facility described in the preceding sentence shall be considered a separate facility from any other such facility unless the facility shares a turbine with any other such facility.
+  > - **(i)** “In-service date” means, with respect to a geothermal electric generating facility, the date on which the geothermal electric generating facility begins operating.
+
+- **(b)** *Geothermal royalties* Section 5(a)(1) of the Geothermal Steam Act of 1970 (30 U.S.C. 1004(a)(1)) is amended—
+  - **(1)** in subparagraph (A)—
+    - **(A)** by inserting “with respect to a geothermal electric generating facility producing electricity from such resources,” before “not less than”;
+    - **(B)** by inserting “by the geothermal electric generating facility” after “produced”; and
+    - **(C)** by striking “the first 10 years of production under the lease” and inserting “each year of the 10-year period following the in-service date of the geothermal electric generating facility”; and
+  - **(2)** in subparagraph (B)—
+    - **(A)** by inserting “with respect to a geothermal electric generating facility producing electricity from such resources,” before “not less than”;
+    - **(B)** by inserting “by the geothermal electric generating facility” after “produced”; and
+    - **(C)** by striking “such 10-year period” and inserting “the period of 10 years described in subparagraph (A)”.
+
+## § 8. NEPA review
+
+Section 390 of the Energy Policy Act of 2005 (42 U.S.C. 15942) is amended—
+
+- **(1)** in subsection (a), by inserting “, or the Geothermal Steam Act of 1970 (30 U.S.C. 1001 et seq.) for the purpose of exploration or development of geothermal resources” after “or gas”; and
+- **(2)** in subsection (b)—
+  - **(A)** in paragraph (2), by striking “or gas” and inserting “, gas, or geothermal”; and
+  - **(B)** in paragraph (3), by striking “or gas” and inserting “, gas, or geothermal”.
