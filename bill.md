@@ -60,14 +60,15 @@ This Act may be cited as the “Equitable Access to School Facilities Act”.
 
 ## § 3. No Federal interest
 
-Part C of title IV of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7221 et seq.) is amended by adding at the end the following:
+- **(a)** *In general* Part C of title IV of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7221 et seq.) is amended by adding at the end the following:
+  > ## § 4312. No Federal interest
+  >
+  > No funds made available under this part create a Federal interest (as such term is defined in section 200.1 of title 2, Code of Federal Regulations) for purposes of—
+  >
+  > - **(1)** the recording requirement under section 200.316 of such title; or
+  > - **(2)** the reporting requirement under section 200.330 of such title.
 
-> ## § 4312. No Federal interest
->
-> No funds made available under this part create a Federal interest (as such term is defined in section 200.1 of title 2, Code of Federal Regulations) for purposes of—
->
-> - **(1)** the recording requirement under section 200.316 of such title; or
-> - **(2)** the reporting requirement under section 200.330 of such title.
+- **(b)** *Table of contents* The table of contents of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6301 et seq.) is amended by inserting after the item relating to section 4311 the following:
 
 ## § 4. Credit enhancement for charter school facilities program
 
@@ -94,8 +95,10 @@ Part C of title IV of the Elementary and Secondary Education Act of 1965 (20 U.S
     - **(D)** in clause (iii), as so redesignated, by striking the period at the end and inserting “; and”; and
     - **(E)** by adding at the end the following:
       > - **(B)** may reserve not more than 10 percent of such funds for the establishment of a revolving loan fund, which may be used to make loans, under such terms as may be established by the State entity, to—
-      >   - **(i)** eligible applicants that have received a subgrant under this section, for the initial operation (during the program period described in subsection (d)(1)(B)) of 1 or more of the charter schools opened or expanded pursuant to a grant under this section; and
+      >   - **(i)** eligible applicants for the operation of 1 or more of the charter schools opened or expanded pursuant to a grant under this section (for the duration of the program period described in subsection (d)(1)(B)); and
       >   - **(ii)** eligible applicants to assist such applicants in obtaining, renovating, or rehabilitating facilities for planned or operating charter schools in the State.
 
-  - **(3)** in subsection (h)(3), by striking “necessary renovations” and all that follows through “school building complies” and inserting “repairs, renovations, and building out of charter school facilities to ensure that such facilities comply”.
+  - **(3)** in subsection (h)(3)—
+    - **(A)** by striking “necessary renovations” and all that follows through “school building complies” and inserting “repairs, renovations, and building out of charter school facilities to ensure that such facilities comply”; and
+    - **(B)** by striking “, and minor facilities repairs (excluding construction)”.
 - **(b)** *Applicability* The amendments made by subsection (a) shall apply only with respect to a grant awarded under section 4303 of the Elementary and Secondary Education Act (20 U.S.C. 7221b) on or after the date of the enactment of this Act.
