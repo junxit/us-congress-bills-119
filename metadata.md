@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6047
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6047
@@ -33,9 +33,10 @@ Sharri Briley and Eric Edmundson Veterans Benefits Expansion Act of 2026
 - Rep. Crank, Jeff [R-CO-5] (C001137)
 - Rep. Hinson, Ashley [R-IA-2] (H001091)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -66,3 +67,4 @@ Sharri Briley and Eric Edmundson Veterans Benefits Expansion Act of 2026
 - 2026-05-21 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 235 - 179 (Roll no. 191). (text of amendment in the nature of a substitute: CR H3699-3700)
 - 2026-05-21 — Rule provides for consideration of H.R. 1041, H.R. 6047 and H.R. 1329. The resolution provides for consideration of H.R. 1041, H.R. 6047, and H.R. 1329 under a closed rule. The resolution provides for one hour of general debate and one motion to recommit on each bill.
 - 2026-05-21 — The previous question was ordered pursuant to the rule.
+- 2026-06-02 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
