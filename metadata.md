@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3922
 congress: 119
-version: Engrossed in House
+version: Reported in House
 ---
 
 # H.R. 3922
