@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1041
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1041
@@ -89,9 +89,10 @@ Veterans 2nd Amendment Protection Act
 - Rep. Harris, Mark [R-NC-8] (H001102)
 - Rep. Rutherford, John H. [R-FL-5] (R000609)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (2)
 
@@ -126,3 +127,4 @@ Veterans 2nd Amendment Protection Act
 - 2026-05-21 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2026-05-21 — The previous question was ordered pursuant to the rule.
 - 2026-05-21 — The title of the measure was amended. Agreed to without objection.
+- 2026-06-02 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
