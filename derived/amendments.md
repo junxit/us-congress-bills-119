@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1687
 congress: 119
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
