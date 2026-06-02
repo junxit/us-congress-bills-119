@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7831
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7831
@@ -39,3 +39,9 @@ License to Drill Act
 - 2026-05-20 — Placed on the Union Calendar, Calendar No. 579.
 - 2026-05-20 — Reported by the Committee on Natural Resources. H. Rept. 119-665.
 - 2026-05-20 — Reported by the Committee on Natural Resources. H. Rept. 119-665.
+- 2026-06-02 — Considered under suspension of the rules. (consideration: CR H3757-3578)
+- 2026-06-02 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7831.
+- 2026-06-02 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-06-02 — Mr. Westerman moved to suspend the rules and pass the bill.
+- 2026-06-02 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3757)
+- 2026-06-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3757)
