@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8312
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,7 +26,7 @@ to guess them.
 
 ### 31 U.S.C. § 6101
 
-> Section 6(c)(1) of the Federal Funding Accountability and Transparency Act (Public Law 109–282; 31 U.S.C. 6101 note) is amended by striking “may” and inserting “shall”.
+> Section 6(c)(1) of the Federal Funding Accountability and Transparency Act of 2006 (Public Law 109–282; 31 U.S.C. 6101 note) is amended by striking “may” and inserting “shall”.
 
 | | |
 |---|---|
