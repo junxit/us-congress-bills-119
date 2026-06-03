@@ -1,0 +1,19 @@
+---
+legis-num: S. 4672
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4672
+
+> To require the Postal Service to implement recommendations from the Inspector General of the United States Postal Service for improving identification and notification of undelivered and partially delivered routes, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Postal Delivery Accountability Act”.
+
+## § 2. Postal service required to implement certain recommendations of the Inspector General
+
+- **(a)** *In general* The Postal Service shall review and, to the extent practicable, implement the recommendations of the Inspector General of the United States Postal Service with respect to undelivered and partially delivered routes contained in the report set forth by the Inspector General entitled “Delivery Operations—Undelivered and Partially Delivered Routes” (Report Number 21–262–R23) and dated December 16, 2022.
+- **(b)** *Deadline* The Postal Service shall implement the recommendations described in subsection (a) not later than 1 year after the date of enactment of this Act.
