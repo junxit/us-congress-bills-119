@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5911
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5911
@@ -16,9 +16,10 @@ Crystal Reservoir Conveyance Act
 
 - Rep. Hurd, Jeff [R-CO-3] (H001100)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Crystal Reservoir Conveyance Act
 - 2026-06-02 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
 - 2026-06-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3752-3753)
 - 2026-06-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3752-3753)
+- 2026-06-03 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
