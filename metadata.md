@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5682
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5682
@@ -16,9 +16,10 @@ To take certain land in the State of California into trust for the benefit of th
 
 - Rep. Issa, Darrell [R-CA-48] (I000056)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ To take certain land in the State of California into trust for the benefit of th
 - 2026-06-02 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
 - 2026-06-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3745)
 - 2026-06-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3745)
+- 2026-06-03 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
