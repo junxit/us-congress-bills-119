@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5631
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5631
@@ -24,9 +24,10 @@ Geothermal Energy Advancement Act
 - Rep. Ansari, Yassamin [D-AZ-3] (A000381)
 - Rep. Ocasio-Cortez, Alexandria [D-NY-14] (O000172)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ Geothermal Energy Advancement Act
 - 2026-06-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2026-06-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2026-06-02 — The title of the measure was amended. Agreed to without objection.
+- 2026-06-03 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
