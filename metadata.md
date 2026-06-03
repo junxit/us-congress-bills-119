@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1687
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1687
@@ -23,9 +23,10 @@ CLEAN Act
 - Rep. Lee, Susie [D-NV-3] (L000590)
 - Rep. Begich, Nicholas J. [R-AK-At Large] (B001323)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ CLEAN Act
 - 2026-06-02 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
 - 2026-06-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3758-3759)
 - 2026-06-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3758-3759)
+- 2026-06-03 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
