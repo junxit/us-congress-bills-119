@@ -17,8 +17,9 @@ This Act may be cited as the “Northwest Straits Marine Conservation Initiative
 
 The Northwest Straits Marine Conservation Initiative Act (title IV of Public Law 105–384; 112 Stat. 3458) is amended—
 
-- **(1)** in section 402, by striking “Commission (in this title referred to as the “Commission”).” and inserting “Commission.”; and
-- **(2)** by striking sections 403, 404, and 405 and inserting the following:
+- **(1)** in section 402, by striking “Commission (in this title referred to as the “Commission”).” and inserting “Commission.”;
+- **(2)** by striking sections 403, 404, and 405; and
+- **(3)** by inserting after section 402 the following:
   > ## § 403. Definitions
   >
   > In this title:
@@ -81,8 +82,7 @@ The Northwest Straits Marine Conservation Initiative Act (title IV of Public Law
   >     - **(B)** supporting the work and duties of the liaison to the Commission under section 404(e); and
   >   - **(2)** may enter into cooperative agreements with nonprofit entities, such as the Northwest Straits Foundation, to provide assistance, including financial assistance, in carrying out the duties described in subsection (b).
   > - **(d)** *Limitations* Nothing in this title provides the Commission with authority to issue regulations or implement any Federal law or regulation.
-  > - **(e)** *Acceptance of donations* For purposes of carrying out this section, the Commission may solicit, accept, receive, hold, administer, and use gifts, devises, and bequests without any further approval or administrative action.
-  > - **(f)** *Annual report*
+  > - **(e)** *Annual report*
   >   - **(1)** *In general* Each year, the Commission shall prepare, submit to the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate, the Committee on Natural Resources and the Committee on Appropriations of the House of Representatives, and the Under Secretary, and make available to the public a report describing—
   >     - **(A)** the activities carried out by the Commission during the preceding year; and
   >     - **(B)** the progress in achieving the benchmarks described in paragraph (2).

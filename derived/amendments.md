@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2860
 congress: 119
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 1 executed, 1 stated and not applied.
+3 amendatory instructions. 1 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,7 +26,7 @@ to guess them.
 
 ### 25 U.S.C. § 5131
 
-> in section 402, by striking “Commission (in this title referred to as the Commission).” and inserting “Commission.”; and
+> in section 402, by striking “Commission (in this title referred to as the Commission).” and inserting “Commission.”;
 
 | | |
 |---|---|
@@ -42,4 +42,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `25 U.S.C. § 5131` | replace | by striking sections 403, 404, and 405 and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 5131` | strike | by striking sections 403, 404, and 405; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 5131` | insert | by inserting after section 402 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
