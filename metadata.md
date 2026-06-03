@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 190
 congress: 119
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 190
@@ -28,3 +28,6 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - 2026-04-30 — Introduced in Senate
 - 2026-04-30 — Read twice and referred to the Committee on the Judiciary.
+- 2026-06-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 425.
+- 2026-06-03 — Senate Committee on the Judiciary discharged, by petition, pursuant to 5 U.S.C. 802(c).
+- 2026-06-03 — Senate Committee on the Judiciary discharged, by petition, pursuant to 5 U.S.C. 802(c).
