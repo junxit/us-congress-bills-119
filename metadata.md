@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 751
 congress: 119
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 751
@@ -30,3 +30,7 @@ A resolution designating May 2026 as "ALS Awareness Month".
 
 - 2026-05-21 — Referred to the Committee on the Judiciary. (text: CR S2446-2447)
 - 2026-05-21 — Submitted in Senate
+- 2026-06-03 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2026-06-03 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S2518)
+- 2026-06-03 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2026-06-03 — Senate Committee on the Judiciary discharged by Unanimous Consent.
