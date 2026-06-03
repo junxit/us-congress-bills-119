@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7831
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7831
@@ -22,9 +22,10 @@ License to Drill Act
 - Rep. Hageman, Harriet M. [R-WY-At Large] (H001096)
 - Rep. Bice, Stephanie I. [R-OK-5] (B000740)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ License to Drill Act
 - 2026-06-02 — Mr. Westerman moved to suspend the rules and pass the bill.
 - 2026-06-02 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3757)
 - 2026-06-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3757)
+- 2026-06-03 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
