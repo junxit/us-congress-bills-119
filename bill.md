@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 826
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “COVID Fraud Transparency Act of 2025”.
+This Act may be cited as the “COVID Fraud Transparency Act of 2026”.
 
 ## § 2. Report on fraud relating to certain COVID–19 loans
 
@@ -28,4 +28,4 @@ This Act may be cited as the “COVID Fraud Transparency Act of 2025”.
 
 ## § 3. Compliance with CUTGO
 
-No additional amounts are authorized to be appropriated to carry out this Act.
+No additional amounts are authorized to carry out this Act.

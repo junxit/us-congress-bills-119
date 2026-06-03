@@ -1,7 +1,7 @@
 ---
 measure: H.R. 826
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 826
@@ -31,3 +31,8 @@ COVID Fraud Transparency Act of 2026
 - 2025-01-28 — Introduced in House
 - 2025-01-28 — Introduced in House
 - 2025-01-28 — Referred to the House Committee on Small Business.
+- 2026-05-20 — Committee Consideration and Mark-up Session Held
+- 2026-05-20 — Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 23 - 0.
+- 2026-06-03 — Placed on the Union Calendar, Calendar No. 590.
+- 2026-06-03 — Reported (Amended) by the Committee on Small Business. H. Rept. 119-677.
+- 2026-06-03 — Reported (Amended) by the Committee on Small Business. H. Rept. 119-677.
