@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8882
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 8882
@@ -16,9 +16,10 @@ Main Street Competes Act
 
 - Rep. Scholten, Hillary J. [D-MI-3] (S001221)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Schmidt, Derek [R-KS-2] (S001228)
+- Rep. Goodlander, Maggie [D-NH-2] (G000604)
 
 ## Committees (1)
 
@@ -29,3 +30,8 @@ Main Street Competes Act
 - 2026-05-19 — Introduced in House
 - 2026-05-19 — Introduced in House
 - 2026-05-19 — Referred to the House Committee on Small Business.
+- 2026-05-20 — Committee Consideration and Mark-up Session Held
+- 2026-05-20 — Ordered to be Reported by the Yeas and Nays: 23 - 0.
+- 2026-06-03 — Placed on the Union Calendar, Calendar No. 595.
+- 2026-06-03 — Reported by the Committee on Small Business. H. Rept. 119-682.
+- 2026-06-03 — Reported by the Committee on Small Business. H. Rept. 119-682.
