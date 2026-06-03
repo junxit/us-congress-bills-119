@@ -20,7 +20,7 @@ This Act may be cited as the “American Battlefield Protection Program Amendmen
 - **(c)** *Battlefield restoration grant program* Section 308105 of title 54, United States Code, is amended by striking subsection (e) and inserting the following:
   > - **(e)** *Authorization of appropriations* There is authorized to be appropriated to the Secretary to provide grants under section 308104 and this section $2,000,000 for each fiscal year through fiscal year 2036.
 
-## § 3. French and Indian war and Mexican-American War sites studies
+## § 3. French and indian war and mexican-american war sites studies
 
 - **(a)** *In general* Subject to the availability of appropriations made in advance for such purpose, the Secretary of the Interior (acting through the Director of the National Park Service) (referred to in this section as the “Secretary”), shall prepare or certify, pursuant to subsection (b), studies of sites and structures located in the United States that are thematically tied with nationally significant events that occurred during—
   - **(1)** the French and Indian War from 1754–1763; and
@@ -36,6 +36,7 @@ This Act may be cited as the “American Battlefield Protection Program Amendmen
   - **(3)** assess short- and long-term threats to the integrity of the identified sites; and
   - **(4)** provide alternatives for the preservation and interpretation of the identified sites by the Federal Government, State, local, and Tribal governments, or other public or private entities, including potential designation of the identified sites as units of the National Park System, as appropriate.
 - **(d)** *Consideration of previous studies and reports* In preparing the studies under subsection (b)(1), the Secretary shall consider and may include information from previous studies and reports relating to French and Indian War or Mexican-American War historic sites prepared by the National Park Service, the American Battlefield Trust, or other historic preservation organizations, as appropriate.
-- **(e)** *Submission to Congress*
+- **(e)** *Submission to congress*
   - **(1)** *Studies carried out by the secretary* With respect to studies carried out by the Secretary in accordance with subsection (b)(1)(A), the Secretary shall submit such studies to the Committee on Natural Resources of the House of Representatives and Committee on Energy and Natural Resources of the Senate not later than 2 years after the date on which funds are made available to carry out such studies.
   - **(2)** *Studies carried out by other interested parties* With respect to studies carried out by interested individuals or entities in accordance with subsection (b)(1)(B), the Secretary shall submit such studies to the Committee on Natural Resources of the House of Representatives and Committee on Energy and Natural Resources of the Senate not later than 180 days after the date on which the Secretary certifies under subsection (b)(2) that the studies meet the requirements of subsection (c).
+  - **(3)** *Battlefield report definition clarification* A study submitted under this subsection shall be deemed to be a document included in the definition of “Battlefield Reports” in section 308101 of title 54, United States Code.
