@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7250
 congress: 119
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 7250
@@ -16,9 +16,10 @@ To reauthorize the Fort Peck Reservation Rural Water System Act of 2000.
 
 - Rep. Downing, Troy [R-MT-2] (D000634)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ To reauthorize the Fort Peck Reservation Rural Water System Act of 2000.
 - 2026-06-02 — Placed on the Union Calendar, Calendar No. 589.
 - 2026-06-02 — Reported by the Committee on Natural Resources. H. Rept. 119-675.
 - 2026-06-02 — Reported by the Committee on Natural Resources. H. Rept. 119-675.
+- 2026-06-03 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
