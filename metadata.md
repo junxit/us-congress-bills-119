@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2768
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2768
@@ -42,3 +42,4 @@ Benton MacKaye National Scenic Trail Feasibility Study Act of 2026
 - 2026-06-02 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
 - 2026-06-02 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3749-3750)
 - 2026-06-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3749-3750)
+- 2026-06-03 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 426.
