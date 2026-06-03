@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7250
 congress: 119
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 7250
@@ -41,3 +41,11 @@ To reauthorize the Fort Peck Reservation Rural Water System Act of 2000.
 - 2026-06-02 — Reported by the Committee on Natural Resources. H. Rept. 119-675.
 - 2026-06-02 — Reported by the Committee on Natural Resources. H. Rept. 119-675.
 - 2026-06-03 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2026-07-29 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2026-09-16 — Message on Senate action sent to the House.
+- 2026-09-16 — Passed Senate without amendment by Voice Vote.
+- 2026-09-16 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2026-09-16 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
+- 2026-09-16 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
+- 2026-09-17 — Presented to President.
+- 2026-09-17 — Presented to President.
