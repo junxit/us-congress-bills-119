@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8881
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 8881
@@ -29,3 +29,8 @@ SBA Artificial Intelligence Utilization Act of 2026
 - 2026-05-19 — Introduced in House
 - 2026-05-19 — Introduced in House
 - 2026-05-19 — Referred to the House Committee on Small Business.
+- 2026-05-20 — Committee Consideration and Mark-up Session Held
+- 2026-05-20 — Ordered to be Reported by the Yeas and Nays: 23 - 0.
+- 2026-06-03 — Placed on the Union Calendar, Calendar No. 594.
+- 2026-06-03 — Reported by the Committee on Small Business. H. Rept. 119-681.
+- 2026-06-03 — Reported by the Committee on Small Business. H. Rept. 119-681.
