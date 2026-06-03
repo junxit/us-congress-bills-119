@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4463
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4463
@@ -21,9 +21,10 @@ To amend the Catawba Indian Tribe of South Carolina Land Claims Settlement Act o
 - Rep. Moore, Tim [R-NC-14] (M001236)
 - Rep. McDowell, Addison P. [R-NC-6] (M001240)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ To amend the Catawba Indian Tribe of South Carolina Land Claims Settlement Act o
 - 2026-06-02 — Mr. Westerman moved to suspend the rules and pass the bill.
 - 2026-06-02 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3751)
 - 2026-06-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3751)
+- 2026-06-03 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
