@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8464
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 8464
@@ -16,9 +16,10 @@ Stopping Fraudulent Payments Act
 
 - Rep. Comer, James [R-KY-1] (C001108)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Arrington, Jodey C. [R-TX-19] (A000375)
+- Rep. Calvert, Ken [R-CA-41] (C000059)
 
 ## Committees (1)
 
@@ -29,3 +30,8 @@ Stopping Fraudulent Payments Act
 - 2026-04-23 — Introduced in House
 - 2026-04-23 — Introduced in House
 - 2026-04-23 — Referred to the House Committee on Oversight and Government Reform.
+- 2026-04-29 — Committee Consideration and Mark-up Session Held
+- 2026-04-29 — Ordered to be Reported (Amended) by the Yeas and Nays: 23 - 17.
+- 2026-06-03 — Placed on the Union Calendar, Calendar No. 597.
+- 2026-06-03 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 119-684.
+- 2026-06-03 — Reported (Amended) by the Committee on Oversight and Government Reform. H. Rept. 119-684.
