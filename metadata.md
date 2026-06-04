@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7726
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7726
@@ -16,9 +16,10 @@ Stop Child Care Scams Act of 2026
 
 - Rep. Miller, Mary E. [R-IL-15] (M001211)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (2)
 
@@ -52,3 +53,4 @@ Stop Child Care Scams Act of 2026
 - 2026-06-03 — Rules Committee Resolution H. Res. 1333 Reported to House. Rule provides for consideration of H.R. 8646, H.R. 7726, H.R. 7892 and H.R. 8872. The resolution provides for consideration of H.R. 8646 under a structured rule and H.R. 7726, H.R. 7892, and H.R. 8872 under a closed rule, with one hour of general debate on each bill. The resolution provides for one motion to recommit on each bill.
 - 2026-06-03 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2026-06-03 — The previous question was ordered pursuant to the rule.
+- 2026-06-04 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
