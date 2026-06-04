@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 86
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 86
@@ -24,9 +24,10 @@ Directing the President, pursuant to section 5(c) of the War Powers Resolution, 
 - Rep. Goodlander, Maggie [D-NH-2] (G000604)
 - Rep. Massie, Thomas [R-KY-4] (M001184)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -49,3 +50,4 @@ Directing the President, pursuant to section 5(c) of the War Powers Resolution, 
 - 2026-06-03 — Motion to reconsider laid on the table Agreed to without objection.
 - 2026-06-03 — On agreeing to the resolution Agreed to by the Yeas and Nays: 215 - 208 (Roll no. 199).
 - 2026-06-03 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 215 - 208 (Roll no. 199).
+- 2026-06-04 — Received in the Senate and referred to the Committee on Foreign Relations.
