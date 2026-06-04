@@ -1,0 +1,33 @@
+---
+legis-num: H.R. 9158
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 9158
+
+> To prohibit the differential treatment of Hong Kong with respect to China and to impose sanctions with respect to certain persons who undermine democracy and human rights in Hong Kong, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Hong Kong Equal Treatment Act”.
+
+## § 2. Prohibition on differential treatment and imposition of sanctions with respect to Hong Kong
+
+- **(a)** *Differential treatment prohibited* Notwithstanding any other provision of law, the United States Government may not provide the Special Administrative Region of Hong Kong with differential treatment in relation to the People’s Republic of China.
+- **(b)** *Imposition of sanctions with respect to the undermining of democracy and human rights in Hong Kong*
+  - **(1)** *In general* The President shall impose the sanctions described in paragraph (2) with respect to each foreign person determined by the Secretary of State, in consultation with the Secretary of the Treasury, or the Secretary of the Treasury, in consultation with the Secretary of State—
+    - **(A)** to be or have been involved, directly or indirectly, in the coercing, arresting, detaining, or imprisoning of an individual under the authority of, or to be or have been responsible for or involved in developing, adopting, or implementing, the Law of the People's Republic of China on Safeguarding National Security in the Hong Kong Administrative Region;
+    - **(B)** to be responsible for or complicit in, or to have engaged, directly or indirectly, in—
+      - **(i)** an action or policy that undermines democratic processes or institutions in Hong Kong;
+      - **(ii)** an action or policy that threatens the peace, security, stability, or autonomy of Hong Kong;
+      - **(iii)** censorship or other activity with respect to Hong Kong that prohibits, limits, or penalizes the exercise of freedom of expression or assembly by citizens of Hong Kong, or that limits access to free and independent print, online, or broadcast media; or
+      - **(iv)** the extrajudicial rendition, arbitrary detention, or torture of any individual in Hong Kong or other gross violation of internationally recognized human rights or serious human rights abuse in Hong Kong;
+    - **(C)** to be or have been a leader or official of—
+      - **(i)** an entity, including any government entity, that has engaged in, or whose members have engaged in, any of the activities described in subparagraph (A), subparagraph (B)(i), subparagraph (B)(ii), or subparagraph (B)(iii); or
+      - **(ii)** an entity whose property and interests in property are blocked pursuant to this section;
+    - **(D)** to have materially assisted, sponsored, or provided financial, material, or technological support for, or goods or services to or in support of, any person whose property and interests in property are blocked pursuant to this section;
+    - **(E)** to be owned or controlled by, or to have acted or purported to act for or on behalf of, directly or indirectly, any person whose property and interests in property are blocked pursuant to this section; or
+    - **(F)** to be a member of the board of directors or a senior executive officer of any entity whose property and interests in property are blocked pursuant to this section.
+  - **(2)** *Sanctions described* Notwithstanding the requirements of section 202 of the International Emergency Economic Powers Act (50 U.S.C. 1701), the President shall exercise all powers granted to the President by that Act to the extent necessary to block and prohibit all transactions in all property and interests in property of the foreign person if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
