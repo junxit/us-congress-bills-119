@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7618
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7618
@@ -25,9 +25,10 @@ American Battlefield Protection Program Amendments Act of 2026
 - Rep. McCormick, Richard [R-GA-7] (M001218)
 - Rep. Thompson, Glenn [R-PA-15] (T000467)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -54,3 +55,4 @@ American Battlefield Protection Program Amendments Act of 2026
 - 2026-06-03 — Motion to reconsider laid on the table Agreed to without objection.
 - 2026-06-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 404 - 13 (Roll no. 192).
 - 2026-06-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 404 - 13 (Roll no. 192).
+- 2026-06-04 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
