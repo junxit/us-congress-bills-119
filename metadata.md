@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2860
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2860
@@ -54,3 +54,4 @@ Northwest Straits Marine Conservation Initiative Reauthorization Act of 2025
 - 2026-06-03 — Motion to reconsider laid on the table Agreed to without objection.
 - 2026-06-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 374 - 49 (Roll no. 196).
 - 2026-06-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 374 - 49 (Roll no. 196).
+- 2026-06-04 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 427.
