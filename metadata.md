@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 86
 congress: 119
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.Con.Res. 86
@@ -29,9 +29,10 @@ Directing the President, pursuant to section 5(c) of the War Powers Resolution, 
 - House — Foreign Affairs Committee
 - Senate — Foreign Relations Committee
 
-## Recorded votes (1)
+## Recorded votes (2)
 
 - 2026-06-03 — [House 119-2-199](votes/house-119-2-0199.md) — On Agreeing to the Resolution — **Passed** (215–208)
+- 2026-06-23 — [Senate 119-2-184](votes/senate-119-2-0184.md) — On the Concurrent Resolution — **Concurrent Resolution Agreed to** (50–48)
 
 ## Actions
 
@@ -51,3 +52,8 @@ Directing the President, pursuant to section 5(c) of the War Powers Resolution, 
 - 2026-06-03 — On agreeing to the resolution Agreed to by the Yeas and Nays: 215 - 208 (Roll no. 199).
 - 2026-06-03 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 215 - 208 (Roll no. 199).
 - 2026-06-04 — Received in the Senate and referred to the Committee on Foreign Relations.
+- 2026-06-23 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment by Yea-Nay Vote. 50 - 48. Record Vote Number: 184.
+- 2026-06-23 — Resolution agreed to in Senate without amendment by Yea-Nay Vote. 50 - 48. Record Vote Number: 184. (consideration: CR S3039-3040)
+- 2026-06-23 — Senate Committee on Foreign Relations discharged pursuant to the order of 06/18/2026.
+- 2026-06-23 — Senate Committee on Foreign Relations discharged pursuant to the order of 06/18/2026.
+- 2026-06-24 — Message on Senate action sent to the House.
