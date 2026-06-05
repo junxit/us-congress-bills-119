@@ -1,7 +1,7 @@
 ---
 measure: S. 2
 congress: 119
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S. 2
@@ -16,9 +16,173 @@ Secure America Act
 
 - Sen. Graham, Lindsey [R-SC] (G000359)
 
+## Cosponsors (130)
+
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Hagerty, Bill [R-TN] (H000601)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Gallego, Ruben [D-AZ] (G000574)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Luján, Ben Ray [D-NM] (L000570)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Gallego, Ruben [D-AZ] (G000574)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Luján, Ben Ray [D-NM] (L000570)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Blunt Rochester, Lisa [D-DE] (B001303)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Fetterman, John [D-PA] (F000479)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Hagerty, Bill [R-TN] (H000601)
+- Sen. Hagerty, Bill [R-TN] (H000601)
+- Sen. Paul, Rand [R-KY] (P000603)
+- Sen. Schmitt, Eric [R-MO] (S001227)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Slotkin, Elissa [D-MI] (S001208)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Gallego, Ruben [D-AZ] (G000574)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Luján, Ben Ray [D-NM] (L000570)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Blunt Rochester, Lisa [D-DE] (B001303)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Fetterman, John [D-PA] (F000479)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Sanders, Bernard [I-VT] (S000033)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Gallego, Ruben [D-AZ] (G000574)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Luján, Ben Ray [D-NM] (L000570)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Wyden, Ron [D-OR] (W000779)
+
 ## Committees (1)
 
 - Senate — Budget Committee
+
+## Recorded votes (28)
+
+- 2026-06-03 — [Senate 119-2-136](votes/senate-119-2-0136.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (53–46)
+- 2026-06-04 — [Senate 119-2-137](votes/senate-119-2-0137.md) — On the Motion — **Motion Rejected** (49–50)
+- 2026-06-04 — [Senate 119-2-138](votes/senate-119-2-0138.md) — On the Motion — **Motion Rejected** (15–84)
+- 2026-06-04 — [Senate 119-2-139](votes/senate-119-2-0139.md) — On the Motion — **Motion Rejected** (53–46)
+- 2026-06-04 — [Senate 119-2-140](votes/senate-119-2-0140.md) — On the Motion — **Motion Rejected** (46–53)
+- 2026-06-04 — [Senate 119-2-141](votes/senate-119-2-0141.md) — On the Motion — **Motion Rejected** (47–50)
+- 2026-06-04 — [Senate 119-2-142](votes/senate-119-2-0142.md) — On the Motion — **Motion Rejected** (46–52)
+- 2026-06-04 — [Senate 119-2-143](votes/senate-119-2-0143.md) — On the Motion — **Motion Rejected** (49–49)
+- 2026-06-04 — [Senate 119-2-144](votes/senate-119-2-0144.md) — On the Motion — **Motion Rejected** (48–50)
+- 2026-06-04 — [Senate 119-2-145](votes/senate-119-2-0145.md) — On the Motion — **Motion Rejected** (51–47)
+- 2026-06-04 — [Senate 119-2-146](votes/senate-119-2-0146.md) — On the Motion — **Motion Rejected** (46–53)
+- 2026-06-04 — [Senate 119-2-147](votes/senate-119-2-0147.md) — On the Motion — **Motion Rejected** (46–52)
+- 2026-06-04 — [Senate 119-2-148](votes/senate-119-2-0148.md) — On the Motion — **Motion Rejected** (45–53)
+- 2026-06-04 — [Senate 119-2-149](votes/senate-119-2-0149.md) — On the Motion — **Motion Rejected** (46–53)
+- 2026-06-04 — [Senate 119-2-150](votes/senate-119-2-0150.md) — On the Motion — **Motion Rejected** (46–53)
+- 2026-06-05 — [Senate 119-2-151](votes/senate-119-2-0151.md) — On the Motion — **Motion Rejected** (50–49)
+- 2026-06-05 — [Senate 119-2-152](votes/senate-119-2-0152.md) — On the Motion — **Motion Rejected** (48–51)
+- 2026-06-05 — [Senate 119-2-153](votes/senate-119-2-0153.md) — On the Motion — **Motion Rejected** (48–51)
+- 2026-06-05 — [Senate 119-2-154](votes/senate-119-2-0154.md) — On the Amendment — **Amendment Rejected** (46–53)
+- 2026-06-05 — [Senate 119-2-155](votes/senate-119-2-0155.md) — On the Amendment — **Amendment Rejected** (46–53)
+- 2026-06-05 — [Senate 119-2-156](votes/senate-119-2-0156.md) — On the Amendment — **Amendment Rejected** (47–52)
+- 2026-06-05 — [Senate 119-2-157](votes/senate-119-2-0157.md) — On the Amendment — **Amendment Rejected** (46–53)
+- 2026-06-05 — [Senate 119-2-158](votes/senate-119-2-0158.md) — On the Motion — **Motion Rejected** (54–45)
+- 2026-06-05 — [Senate 119-2-159](votes/senate-119-2-0159.md) — On the Motion — **Motion Rejected** (52–47)
+- 2026-06-05 — [Senate 119-2-160](votes/senate-119-2-0160.md) — On the Amendment — **Amendment Rejected** (45–53)
+- 2026-06-05 — [Senate 119-2-161](votes/senate-119-2-0161.md) — On the Motion — **Motion Rejected** (53–46)
+- 2026-06-05 — [Senate 119-2-162](votes/senate-119-2-0162.md) — On the Motion — **Motion Rejected** (51–48)
+- 2026-06-05 — [Senate 119-2-163](votes/senate-119-2-0163.md) — On Passage of the Bill — **Bill Passed** (52–47)
 
 ## Actions
 
@@ -27,3 +191,835 @@ Secure America Act
 - 2026-05-20 — Committee on the Budget. Original measure reported to Senate by Senator Graham. Without written report.
 - 2026-05-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 417.
 - 2026-05-20 — Senate amendment submitted
+- 2026-05-21 — 
+- 2026-05-21 — 
+- 2026-05-21 — 
+- 2026-05-21 — 
+- 2026-05-21 — 
+- 2026-05-21 — Senate amendment submitted
+- 2026-05-21 — Senate amendment submitted
+- 2026-05-21 — Senate amendment submitted
+- 2026-05-21 — Senate amendment submitted
+- 2026-05-21 — Senate amendment submitted
+- 2026-06-02 — 
+- 2026-06-02 — 
+- 2026-06-02 — Senate amendment submitted
+- 2026-06-02 — Senate amendment submitted
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — 
+- 2026-06-03 — Amendment SA 5453 proposed by Senator Thune for Senator Graham. (consideration: CR S2510)
+- 2026-06-03 — Measure laid before Senate by motion. (consideration: CR S2510-2518)
+- 2026-06-03 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 53 - 46. Record Vote Number: 136.
+- 2026-06-03 — Senate amendment proposed (on the floor): Amendment SA 5453 proposed by Senator Thune for Senator Graham.
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-03 — Senate amendment submitted
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — 
+- 2026-06-04 — Amendment SA 5451 proposed by Senator Sanders to Amendment SA 5453. To place reasonable limits on contributions to Super PACs which make independent expenditures.
+- 2026-06-04 — Amendment SA 5451 ruled out of order by the chair.
+- 2026-06-04 — Amendment SA 5452 proposed by Senator Tillis. To reallocate funds that would have been used for the Anti-Weaponization Fund to fraud enforcement.
+- 2026-06-04 — Amendment SA 5452 ruled out of order by the chair.
+- 2026-06-04 — Amendment SA 5485 proposed by Senator Baldwin to Amendment SA 5453. To redirect funding for U.S. Immigration and Customs Enforcement to the Child Care and Development Block Grant program.
+- 2026-06-04 — Amendment SA 5485 ruled out of order by the chair.
+- 2026-06-04 — Amendment SA 5501 proposed by Senator Hickenlooper. To prohibit the distribution of Federal funds to individuals convicted of certain crimes.
+- 2026-06-04 — Amendment SA 5512 proposed by Senator Merkley. To provide a clarification relating to, and to prohibit the use of funds for, the White House Ballroom.
+- 2026-06-04 — Amendment SA 5512 ruled out of order by the chair.
+- 2026-06-04 — Amendment SA 5514 proposed by Senator Reed to Amendment SA 5453. To provide funding for the HOME Investment Partnerships program.
+- 2026-06-04 — Amendment SA 5514 ruled out of order by the chair.
+- 2026-06-04 — Amendment SA 5535 proposed by Senator Hassan to Amendment SA 5453. To help build 7,000,000 new homes.
+- 2026-06-04 — Amendment SA 5535 ruled out of order by the chair.
+- 2026-06-04 — Amendment SA 5545 proposed by Senator Kim to Amendment SA 5453. To make appropriations for the conduct of inspections of the Delaney Hall Detention Facility.
+- 2026-06-04 — Amendment SA 5545 ruled out of order by the chair.
+- 2026-06-04 — Amendment SA 5556 proposed by Senator Warner to Amendment SA 5453. To prohibit an individual from acting as Director of National Intelligence if such individual is simultaneously serving as the head of any other Federal department or agency.
+- 2026-06-04 — Amendment SA 5556 ruled out of order by the chair.
+- 2026-06-04 — Amendment SA 5591 ruled out of order by the chair.
+- 2026-06-04 — Amendment SA 5779 proposed by Senator Graham to Amendment SA 5453. To ensure only citizens are registered to vote in elections for Federal office, and to require voters to provide photo identification, and for other purposes.
+- 2026-06-04 — Amendment SA 5779 ruled out of order by the chair.
+- 2026-06-04 — Amendment SA 5803 proposed by Senator Booker to Amendment SA 5453. To support the work performed by the Immigration Detention Ombudsman.
+- 2026-06-04 — Amendment SA 5803 ruled out of order by the chair.
+- 2026-06-04 — Amendment SA 5804 proposed by Senator Lee to Amendment SA 5453. To ensure only citizens are registered to vote in elections for Federal office, and to require voters to provide photo identification.
+- 2026-06-04 — Considered by Senate.
+- 2026-06-04 — Considered by Senate. (consideration: CR S2545-2571)
+- 2026-06-04 — Motion by Senator Ossoff to commit to Senate Committee on the Judiciary with instructions rejected in Senate by Yea-Nay Vote. 47 - 50. Record Vote Number: 141. (text: CR S2552)
+- 2026-06-04 — Motion by Senator Schumer to commit to Senate Committee on the Judiciary with instructions rejected in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 137. (text: CR S2549)
+- 2026-06-04 — Motion by Senator Warnock to commit to Senate Committee on the Judiciary with instructions rejected in Senate by Yea-Nay Vote. 46 - 52. Record Vote Number: 147. (text: CR S2558)
+- 2026-06-04 — Motion to waive all applicable budgetary discipline with respect to amendment SA 5452, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 15 - 84. Record Vote Number: 138.
+- 2026-06-04 — Motion to waive all budgetary discipline with respect to amendment SA 5451, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 45 - 53. Record Vote Number: 148.
+- 2026-06-04 — Motion to waive all budgetary discipline with respect to amendment SA 5501, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 51 - 47. Record Vote Number: 145.
+- 2026-06-04 — Motion to waive all budgetary discipline with respect to amendment SA 5512, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 53 - 46. Record Vote Number: 139.
+- 2026-06-04 — Motion to waive all budgetary discipline with respect to amendment SA 5514, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 140.
+- 2026-06-04 — Motion to waive all budgetary discipline with respect to amendment SA 5535, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 46 - 52. Record Vote Number: 142.
+- 2026-06-04 — Motion to waive all budgetary discipline with respect to amendment SA 5545, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 146.
+- 2026-06-04 — Motion to waive all budgetary discipline with respect to amendment SA 5556, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 49 - 49. Record Vote Number: 143.
+- 2026-06-04 — Motion to waive all budgetary discipline with respect to amendment SA 5779, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 48 - 50. Record Vote Number: 144.
+- 2026-06-04 — Motion to waive all budgetary discipline with respect to amendment SA 5803, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 149.
+- 2026-06-04 — Motion to waive all budgetary discipline with respect to amendment SA 5803, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 150.
+- 2026-06-04 — Point of order that the amendment violates section 302(f) of the CBA raised in Senate with respect to amendment SA 5545.
+- 2026-06-04 — Point of order that the amendment violates section 302(f) of the CBA raised in Senate with respect to amendment SA 5803.
+- 2026-06-04 — Point of order that the amendment violates section 305(b)(1)(c) of the CBA raised in Senate with respect to amendment SA 5512.
+- 2026-06-04 — Point of order that the amendment violates section 305(b)(2) of the CBA raised in Senate with respect to amendment SA 5804.
+- 2026-06-04 — Point of order that the amendment violates section 305(f) of the CBA raised in Senate with respect to amendment SA 5452.
+- 2026-06-04 — Point of order that the amendment violates section 313(b)(1)(c) of the CBA raised in Senate with respect to amendment SA 5451.
+- 2026-06-04 — Point of order that the amendment violates section 313(b)(1)(c) of the CBA raised in Senate with respect to amendment SA 5485.
+- 2026-06-04 — Point of order that the amendment violates section 313(b)(1)(c) of the CBA raised in Senate with respect to amendment SA 5501.
+- 2026-06-04 — Point of order that the amendment violates section 313(b)(1)(c) of the CBA raised in Senate with respect to amendment SA 5514.
+- 2026-06-04 — Point of order that the amendment violates section 313(b)(1)(c) of the CBA raised in Senate with respect to amendment SA 5535.
+- 2026-06-04 — Point of order that the amendment violates section 313(b)(1)(c) of the CBA raised in Senate with respect to amendment SA 5556.
+- 2026-06-04 — Point of order that the amendment violates section 313(b)(1)(c) of the CBA raised in Senate with respect to amendment SA 5779.
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-04 — Senate amendment submitted
+- 2026-06-05 — 
+- 2026-06-05 — 
+- 2026-06-05 — 
+- 2026-06-05 — Amendment SA 5453 agreed to in Senate by Voice Vote.
+- 2026-06-05 — Amendment SA 5457 proposed by Senator Coons to Amendment SA 5453. To prohibit the Department of Justice from using taxpayer funds to make settlement payments to individuals convicted of assaulting law enforcement officers on January 6, 2021.
+- 2026-06-05 — Amendment SA 5457 ruled out of order by the chair.
+- 2026-06-05 — Amendment SA 5463 not agreed to in Senate by Yea-Nay Vote. 45 - 53. Record Vote Number: 160.
+- 2026-06-05 — Amendment SA 5463 proposed by Senator Cortez Masto to Amendment SA 5453. To appropriate amounts for local law enforcement hiring programs.
+- 2026-06-05 — Amendment SA 5506 not agreed to in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 154.
+- 2026-06-05 — Amendment SA 5506 proposed by Senator Hirono to Amendment SA 5453. To transfer amounts for youth mentoring programs of the Department of Justice.
+- 2026-06-05 — Amendment SA 5632 proposed by Senator Van Hollen to Amendment SA 5453. To prohibit the use of funds to provide payments to certain individuals.
+- 2026-06-05 — Amendment SA 5632 ruled out of order by the chair.
+- 2026-06-05 — Amendment SA 5740 proposed by Senator Schiff to Amendment SA 5453. To provide for limitations on judgments, awards, and compromise settlements under section 1304 of title 31, United States Code.
+- 2026-06-05 — Amendment SA 5740 ruled out of order by the chair.
+- 2026-06-05 — Amendment SA 5763 not agreed to in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 155.
+- 2026-06-05 — Amendment SA 5763 proposed by Senator Peters to Amendment SA 5453. To rescind unobligated balances under the One Big Beautiful Bill Act.
+- 2026-06-05 — Amendment SA 5804 ruled out of order by the chair.
+- 2026-06-05 — Amendment SA 5806 proposed by Senator Durbin to Amendment SA 5453. To repurpose funds previously appropriated for U.S. Immigration and Customs Enforcement for the timely processing of DACA applications and related employment authorization documents and to prohibit the use of funds to arrest, detain, deport, or remove DACA recipients.
+- 2026-06-05 — Amendment SA 5806 ruled out of order by the chair.
+- 2026-06-05 — Amendment SA 5808 not agreed to in Senate by Yea-Nay Vote. 46 - 53. Record Vote Number: 157.
+- 2026-06-05 — Amendment SA 5808 proposed by Senator Padilla to Amendment SA 5453. To make appropriations for transparency and accountability.
+- 2026-06-05 — Amendment SA 5812 proposed by Senator Cassidy to Amendment SA 5453. To provide compensation to law enforcement officers who defended the United States Capitol during the events that occurred at or near the United States Capitol on January 6, 2021, and for other purposes.
+- 2026-06-05 — Amendment SA 5812 ruled out of order by the chair.
+- 2026-06-05 — Amendment SA 5813 not agreed to in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 156.
+- 2026-06-05 — Amendment SA 5813 proposed by Senator Gallego to Amendment SA 5453. To make funds available for the timely adjudication of DACA renewal applications.
+- 2026-06-05 — Message on Senate action sent to the House.
+- 2026-06-05 — Motion by Senator Rosen to commit to Senate Committee on the Judiciary with instructions rejected in Senate by Voice Vote. (text: CR S2567)
+- 2026-06-05 — Motion by Senator Wyden to commit to Senate Committee on the Judiciary with instructions rejected in Senate by Voice Vote. (text: CR S2567)
+- 2026-06-05 — Motion by Senator Wyden to commit to Senate Committee on the Judiciary with instructions rejected in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 153. (text: CR S2562)
+- 2026-06-05 — Motion to waive all budgetary discipline with respect to amendment SA 5457, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 54 - 45. Record Vote Number: 158.
+- 2026-06-05 — Motion to waive all budgetary discipline with respect to amendment SA 5632, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 53 - 46. Record Vote Number: 161.
+- 2026-06-05 — Motion to waive all budgetary discipline with respect to amendment SA 5740, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 51 - 48. Record Vote Number: 162.
+- 2026-06-05 — Motion to waive all budgetary discipline with respect to amendment SA 5804, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 50 - 49. Record Vote Number: 151.
+- 2026-06-05 — Motion to waive all budgetary discipline with respect to amendment SA 5806, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 152.
+- 2026-06-05 — Motion to waive all budgetary discipline with respect to amendment SA 5812, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 52 - 47. Record Vote Number: 159.
+- 2026-06-05 — Passed Senate with an amendment by Yea-Nay Vote. 52 - 47. Record Vote Number: 163. (text: CR S2570-2571)
+- 2026-06-05 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 52 - 47. Record Vote Number: 163.
+- 2026-06-05 — Point of order that the amendment violates section 313(1)(a) of the CBA raised in Senate with respect to amendment SA 5806.
+- 2026-06-05 — Point of order that the amendment violates section 313(b)(1)(a) of the CBA raised in Senate with respect to amendment SA 5632.
+- 2026-06-05 — Point of order that the amendment violates section 313(b)(1)(a) of the CBA raised in Senate with respect to amendment SA 5740.
+- 2026-06-05 — Point of order that the amendment violates section 313(b)(1)(c) of the CBA raised in Senate with respect to amendment SA 5457.
+- 2026-06-05 — Point of order that the amendment violates section 313(b)(1)(d) of the CBA raised in Senate with respect to amendment SA 5812.
+- 2026-06-05 — Proposed amendment SA 5806 withdrawn in Senate.
+- 2026-06-05 — Section 204(b) of Amendment SA 5806 was stricken.
+- 2026-06-05 — Senate amendment submitted
+- 2026-06-05 — Senate amendment submitted
+- 2026-06-05 — Senate amendment submitted
