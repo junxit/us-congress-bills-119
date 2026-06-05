@@ -1,7 +1,7 @@
 ---
 measure: S. 2
 congress: 119
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2
@@ -149,11 +149,12 @@ Secure America Act
 - Sen. Padilla, Alex [D-CA] (P000145)
 - Sen. Wyden, Ron [D-OR] (W000779)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Budget Committee
+- House — Budget Committee
 
-## Recorded votes (28)
+## Recorded votes (30)
 
 - 2026-06-03 — [Senate 119-2-136](votes/senate-119-2-0136.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (53–46)
 - 2026-06-04 — [Senate 119-2-137](votes/senate-119-2-0137.md) — On the Motion — **Motion Rejected** (49–50)
@@ -183,6 +184,8 @@ Secure America Act
 - 2026-06-05 — [Senate 119-2-161](votes/senate-119-2-0161.md) — On the Motion — **Motion Rejected** (53–46)
 - 2026-06-05 — [Senate 119-2-162](votes/senate-119-2-0162.md) — On the Motion — **Motion Rejected** (51–48)
 - 2026-06-05 — [Senate 119-2-163](votes/senate-119-2-0163.md) — On Passage of the Bill — **Bill Passed** (52–47)
+- 2026-06-09 — [House 119-2-213](votes/house-119-2-0213.md) — On Motion to Commit — **Failed** (211–215)
+- 2026-06-09 — [House 119-2-214](votes/house-119-2-0214.md) — On Passage — **Passed** (214–212)
 
 ## Actions
 
@@ -1073,3 +1076,23 @@ Secure America Act
 - 2026-06-05 — Senate amendment submitted
 - 2026-06-05 — Senate amendment submitted
 - 2026-06-05 — Senate amendment submitted
+- 2026-06-08 — Held at the desk.
+- 2026-06-08 — Received in the House.
+- 2026-06-08 — Rules Committee Resolution H. Res. 1345 Reported to House. Rule provides for consideration of H.R. 8312, H.R. 8464, H. Res. 1335 and S. 2. The resolution provides for consideration of H.R. 8312, H.R. 8464, H. Res. 1335, and S. 2 under a closed rule with one hour of general debate on each measure. The resolution provides for a motion to recommit H.R. 8312 and H.R. 8464 and a motion to commit S. 2.
+- 2026-06-09 — Considered under the provisions of rule H. Res. 1345. (consideration: CR H4017-4029)
+- 2026-06-09 — DEBATE - The House proceeded with one hour of debate on S. 2.
+- 2026-06-09 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-06-09 — Mr. Boyle (PA) moved to commit to the Committee on the Budget. (text: CR H4027)
+- 2026-06-09 — On motion to commit Failed by the Yeas and Nays: 211 - 215 (Roll no. 213).
+- 2026-06-09 — On passage Passed by recorded vote: 214 - 212 (Roll no. 214). (text: CR H4017-4018)
+- 2026-06-09 — Passed/agreed to in House: On passage Passed by recorded vote: 214 - 212 (Roll no. 214). (text: CR H4017-4018)
+- 2026-06-09 — Presented to President.
+- 2026-06-09 — Presented to President.
+- 2026-06-09 — Rule H. Res. 1345 passed House.
+- 2026-06-09 — Rule provides for consideration of H.R. 8312, H.R. 8464, H. Res. 1335 and S. 2. The resolution provides for consideration of H.R. 8312, H.R. 8464, H. Res. 1335, and S. 2 under a closed rule with one hour of general debate on each measure. The resolution provides for a motion to recommit H.R. 8312 and H.R. 8464 and a motion to commit S. 2.
+- 2026-06-09 — The previous question on the motion to commit was ordered pursuant to clause 2(b) of rule XIX.
+- 2026-06-09 — The previous question was ordered pursuant to the rule.
+- 2026-06-10 — Became Public Law No: 119-98.
+- 2026-06-10 — Became Public Law No: 119-98.
+- 2026-06-10 — Signed by President.
+- 2026-06-10 — Signed by President.
