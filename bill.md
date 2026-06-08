@@ -1,0 +1,71 @@
+---
+legis-num: H.R. 9173
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 9173
+
+> To amend the Internal Revenue Code of 1986 to except digital assets from the appraisal requirement applicable to certain charitable contributions, and for other purposes.
+
+## § 1. Short title; etc
+
+- **(a)** *Short title* This Act may be cited as the “Charitable Deductions for Digital Asset Donations Act”.
+- **(b)** *References* Except as otherwise expressly provided, whenever in this Act an amendment or repeal is expressed in terms of an amendment to, or repeal of, a section or other provision, the reference shall be considered to be made to a section or other provision of the Internal Revenue Code of 1986.
+- **(c)** *Table of contents* The table of contents for this Act is as follows:
+
+## § 2. Charitable contributions of widely traded digital assets
+
+- **(a)** *Exception from appraisal requirement* Section 170(f)(11)(A)(ii)(I) is amended by inserting “widely traded digital assets (except as the Secretary determines appropriate to prevent abuse of this section),” after “publicly traded securities (as defined in section 6050L(a)(2)(B)),”.
+- **(b)** *Effective date* The amendment made by this section shall apply to taxable years beginning after December 31, 2026.
+
+## § 3. Definitions
+
+Section 7701 is amended—
+
+- **(1)** by redesignating subsection (p) as subsection (q), and
+- **(2)** by inserting after subsection (o) the following new subsection:
+  > - **(p)** *Definitions related to digital assets* For purposes of this title—
+  >   - **(1)** *Digital asset* The term digital asset means, except as otherwise provided by the Secretary, any digital representation of value which is recorded on a cryptographically secured distributed ledger or any similar technology as specified by the Secretary.
+  >   - **(2)** *Traded digital asset* The term traded digital asset means, except as otherwise provided by the Secretary to prevent abuse, any digital asset if—
+  >     - **(A)** such asset is fungible,
+  >     - **(B)** quotations of such asset are readily available on an exchange (or, in the case of an exchange that does not provide quotations, such quotations are readily ascertainable), and
+  >     - **(C)** such asset is either—
+  >       - **(i)** not a tokenized digital asset, or
+  >       - **(ii)** a wrapped digital asset with respect to which the reference digital asset is a traded digital asset.
+  >   - **(3)** *Widely traded digital asset*
+  >     - **(A)** *In general* The term widely traded digital asset means, with respect to any taxpayer for any taxable year and except as otherwise provided by the Secretary to prevent abuse, any traded digital asset if—
+  >       - **(i)** quotations for such asset were readily available on an exchange for the entire calendar year which ends in or with the taxable year preceding such taxable year,
+  >       - **(ii)** the market capitalization of such asset exceeded $500,000,000 at substantially all times during such calendar year, and
+  >       - **(iii)** not more than 10 percent of the units of such asset were owned, directly or indirectly, by the taxpayer or any person described with respect to the taxpayer under section 267(b) (applied without regard to section 267(c)(3)) or section 707(b)(1) at any time during such taxable year or such preceding taxable year.
+  >     - **(B)** *Special rule for wrapped digital assets* In the case of any wrapped digital asset, except as otherwise provided by the Secretary to prevent abuse, such asset shall be treated as a widely traded digital asset if, and only if, the reference digital asset with respect to such wrapped digital asset is a widely traded digital asset.
+  >     - **(C)** *Authority to ensure reliable price discovery* For purposes of subparagraphs (A) and (B), the term prevent abuse includes the exclusion of assets that lack reliable price discovery or that the Secretary determines are at risk of price manipulation.
+  >     - **(D)** *Authority to adjust requirements* The Secretary may, by regulation, provide requirements that apply in lieu of one or more of the requirements of clauses (i) through (iii) of subparagraph (A) if the Secretary determines that due to changes in market conditions (including by reason of the enactment of Federal digital asset market structure legislation) that such alternative requirements would more effectively or efficiently identify traded digital assets for which there is consistent and reliable price discovery.
+  >     - **(E)** *Inflation adjustment* In the case of any calendar year after 2027, the $500,000,000 amount in subparagraph (A)(ii) shall be increased by an amount equal to—
+  >       - **(i)** such dollar amount, multiplied by
+  >       - **(ii)** the cost-of-living adjustment determined under section 1(f)(3) for such calendar year, determined by substituting “calendar year 2026” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+  >   - **(4)** *Tokenized digital asset* The term tokenized digital asset means any digital asset (other than any qualified U.S. dollar stablecoin) if more than an insignificant portion of the value of such digital asset is related to anything other than the operation of the cryptographically secured distributed ledger on which such digital asset is recorded.
+  >   - **(5)** *Wrapped digital asset* The term wrapped digital asset means, except as otherwise provided by the Secretary to prevent abuse, any digital asset if such asset—
+  >     - **(A)** is redeemable on demand, on a one-for-one basis, for another digital asset, and
+  >     - **(B)** is recorded on a cryptographically secured distributed ledger other than the cryptographically secured distributed ledger on which the digital asset referred to in subparagraph (A) is recorded.
+  >   - **(6)** *Reference digital asset*
+  >     - **(A)** *In general* The term reference digital asset means, with respect to any wrapped digital asset, the digital asset referred to in paragraph (5)(A).
+  >     - **(B)** *Special rule for rewrappings* If, but for this subparagraph, the reference digital asset with respect to any wrapped digital asset would be a wrapped digital asset (hereafter referred to in this paragraph as the lower-tier wrapped digital asset)—
+  >       - **(i)** subparagraph (A) shall be applied with respect to such lower-tier wrapped digital asset, and
+  >       - **(ii)** the reference digital asset with respect to such lower-tier wrapped digital asset shall be treated as the reference digital asset of such wrapped digital asset.
+  >     - **(C)** *Multiple wrappings* If, after the application of subparagraph (B), the reference digital asset with respect to the lower-tier wrapped digital asset is a wrapped digital asset, such subparagraph shall be reapplied by treating such lower-tier wrapped digital asset as the wrapped digital asset.
+  >   - **(7)** *Stablecoin*
+  >     - **(A)** *Qualified U.S. dollar stablecoin* The term qualified U.S. dollar stablecoin means any U.S. dollar stablecoin which is issued by—
+  >       - **(i)** a permitted payment stablecoin issuer (as defined in section 2(23) of the GENIUS Act, as in effect on the date of the enactment of this paragraph), or
+  >       - **(ii)** a foreign payment stablecoin issuer (as defined in section 2(12) of the GENIUS Act, as so in effect) which is permitted under such Act (as so in effect) to offer, sell, or otherwise make available such U.S. dollar stablecoin in the United States.
+  >     - **(B)** *U.S. dollar stablecoin* The term U.S. dollar stablecoin means a payment stablecoin as defined in section 2(22) of the GENIUS Act (as in effect on the date of the enactment of this paragraph) applied by substituting “dollars” for “monetary value” each place it appears in such section.
+  >     - **(C)** *Publication of list* The Secretary shall, to the extent feasible, regularly publish a list of qualified U.S. dollar stablecoins.
+  >     - **(D)** *Limited authority to treat stablecoins as money* The Secretary may issue such regulations or other guidance as may be necessary or appropriate to (except as otherwise expressly provided in this title)—
+  >       - **(i)** treat qualified U.S. dollar stablecoins as dollars, and
+  >       - **(ii)** treat other stablecoins as currency if such treatment would increase Federal revenues.
+
+## § 4. Rules of construction
+
+- **(a)** *No inference with respect to application of other provisions of law* Except as otherwise expressly provided by this Act (or an amendment made by this Act) with respect to the application of one or more provisions of the Internal Revenue Code of 1986, nothing in this Act (or any amendment made by this Act) shall be construed to create an inference that a digital asset does or does not constitute a security, a commodity, debt, equity, stock, a partnership interest, or an interest in a trust, for purposes of any provision of law.
+- **(b)** *No inference with respect to prior periods* No provision of this Act (or any amendment made by this Act) shall be construed to create any inference with respect to the proper application of any provision of the Internal Revenue Code of 1986 with respect to any period before the period to which such provision or amendment applies.
