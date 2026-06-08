@@ -36,7 +36,7 @@ This Act may be cited as the “Pre-Payment Fraud Prevention and Treasury Data A
 
   - **(2)** *Technical and conforming amendment* The table of sections for chapter 33 of title 31, United States Code, is amended by inserting after the item for section 3325 the following:
 - **(b)** *Amendment to responsibilities of agency certifying official for payment vouchers* Section 3528(a) of title 31, United States Code, is amended—
-  - **(1)** in paragraph (2), by inserting after “of this title” the following: “, including pre-certification requirements described in section 3325a”;
+  - **(1)** in paragraph (2), by inserting after “of this title” the following: “, including pre-certification requirement described in section 3325a”;
   - **(2)** by redesignating paragraphs (4) and (5) as paragraphs (5) and (6), respectively; and
   - **(3)** by inserting after paragraph (3) the following:
     > - **(4)** Ensuring that—
@@ -59,14 +59,14 @@ This Act may be cited as the “Pre-Payment Fraud Prevention and Treasury Data A
       - **(ii)** by striking “Initiative” and inserting “System”; and
       - **(iii)** by striking “initiative” and inserting “system”; and
     - **(B)** by adding at the end the following (and by redesignating and moving the paragraphs to appear in alphabetical order):
-      > - **(9)** *Appropriate authorizing and appropriations committees of congress* The term appropriate authorizing and appropriations committees of Congress means the following:
+      > - **(9)** *Appropriate authorizing and appropriations committees of congress* The term “appropriate authorizing and appropriations committees of Congress” means the following:
       >   - **(A)** The Committees on Appropriations of the Senate and the House of Representatives.
       >   - **(B)** The Committee on Homeland Security and Governmental Affairs of the Senate.
       >   - **(C)** The Committee on Oversight and Government Reform of the House of Representatives.
       >   - **(D)** The Budget Committee of the House of Representatives and the Committee on the Budget of the Senate.
       >   - **(D)** Any other relevant congressional committee of jurisdiction.
-      > - **(10)** *Director* The term Director means the Director of the Office of Management and Budget.
-      > - **(11)** *Fraud-risk indicator* The term fraud-risk indicator means an objective data point or analytic signal that indicates an anomalous payment pattern or increase in the volume of a payment amount, a verified data mismatch, network or behavioral anomaly, or match identified by the Do Not Pay system and any other payment, account, and payee validation program or service provided by the Department of the Treasury that would result in financial loss to the Government.
+      > - **(10)** *Director* The term “Director” means the Director of the Office of Management and Budget.
+      > - **(11)** *Fraud-risk indicator* The term “fraud-risk indicator” means an objective data point or analytic signal that indicates an anomalous payment pattern or increase in the volume of a payment amount, a verified data mismatch, network or behavioral anomaly, or match identified by the Do Not Pay system and any other payment, account, and payee validation program or service provided by the Department of the Treasury that would result in financial loss to the Government.
 
   - **(2)** *Amendment* Section 3352(a)(1) of title 31, United States Code, is amended—
     - **(A)** in subparagraph (A), by striking “; and” and inserting a semicolon;
@@ -84,22 +84,27 @@ This Act may be cited as the “Pre-Payment Fraud Prevention and Treasury Data A
       >   - **(A)** screening all persons or entities that receive, or seek to receive, Federal awards or payments against all appropriate Do Not Pay system data assets, including data assets described in paragraph (2)(a), and risk tools before an award is made or a payment request is submitted to the disbursing officer in accordance with section 3325a; and
       >   - **(B)** a periodic review of available data assets and notification to the Secretary of any data asset that the agency requires access to, either directly or through the Do Not Pay system.
 
-    - **(B)** in paragraph (2), by striking “At a minimum and before issuing any payment or award, each executive agency shall review as appropriate the following databases to verify eligibility of the payment and award:” and inserting the following: “Consistent with the routine use authority under section 552a of title 5, and subject to the requirements of paragraphs (3) and (6), the Secretary shall have access to the following data assets for the purposes described in paragraph (1):”; and
+    - **(B)** in paragraph (2)—
+      - **(i)** by striking “At a minimum and before issuing any payment or award, each executive agency shall review as appropriate the following databases to verify eligibility of the payment and award:” and inserting the following: “Consistent with the routine use authority under section 552a of title 5, and subject to the requirements of paragraphs (3) and (6), the Secretary shall have access to the following data assets for the purposes described in paragraph (1):”; and
+      - **(ii)** by adding at the end the following:
+        > - **(G)** Information made available to such head pursuant to a request made under section 6103(i)(9)(A) of the Internal Revenue Code of 1986.
+        > - **(H)** Information made available to the Secretary of Treasury by the Commissioner of Social Security pursuant to section 235 of the Social Security Act.
+
     - **(C)** by adding at the end the following:
       > - **(3)** *Publication of data assets; additional data assets*
-      >   - **(A)** *Publication of data assets* The Secretary shall publish and maintain a System of Records Notice for the Do Not Pay system that identifies each data asset, the routine uses under which the data asset is disclosed from that system of record, the specific permitted purposes, and the access controls applicable to each data asset. A data asset may not be disclosed from the Do Not Pay system before publication of the applicable routine uses in the relevant System of Records Notice.
-      >   - **(B)** *Designation* The Secretary, in consultation with the Director, may designate additional categories of data assets for inclusion in the Do Not Pay system that substantially assist agencies in carrying out the requirements of paragraph (1).
+      >   - **(A)** *Publication of data assets* The Secretary shall publish and maintain a System of Records Notice for the Do Not Pay system that identifies each data asset, the routine use authority under which the data asset is accessed, the specific permitted purposes, and the access controls applicable to each data asset. A data asset may not be accessed through the Do Not Pay system before publication of the applicable routine use in the System of Records Notice.
+      >   - **(B)** *Designation* The Secretary may designate additional categories of data assets for inclusion in the Do Not Pay system to address risks of fraud and improper payments.
       >   - **(C)** *Privacy and notice* In designating data assets that include personally identifiable information, law enforcement sensitive information, or information subject to section 552a of title 5, the Secretary shall—
       >     - **(i)** act in coordination with the Director of the Office of Management and Budget; and
-      >     - **(ii)** provide public notice and an opportunity for comment for not less than 15 days prior to designation.
-      >   - **(D)** *Database inclusion* Following designation of a category of data assets under subparagraph (B), the Secretary shall provide public notice and an opportunity for comment for not less than 30 days before adding any specific data asset within such category.
-      >   - **(E)** *Non-sensitive data* Data assets that do not include personally identifiable information, law enforcement sensitive information, or information subject to section 552a of title 5 may be added at the discretion of the Secretary without designation if a list of such data assets is disclosed to the public on a public website maintained by the Department of the Treasury.
+      >     - **(ii)** provide public notice and an opportunity for comment for not less than 30 days prior to designation.
+      >   - **(D)** *Database inclusion* Following designation of a category of data assets under subparagraph (A), the Secretary shall provide public notice and an opportunity for comment for not less than 30 days before adding any specific data asset within such category.
+      >   - **(E)** *Non-sensitive data* Data assets that do not include personally identifiable or law enforcement sensitive information may be added at the discretion of the Secretary without designation if a list of such data sets is disclosed to the public on a public website maintained by the Department of the Treasury.
       > - **(4)** *Treatment of data matching for purposes of agency use of do not pay system* For purposes of section 552a of title 5, or any other provision of law, a computerized comparison of two or more automated Federal systems of records, or a computerized comparison of a Federal system of records with other records or non-Federal records, carried out by the Secretary to verify payments or identify or recover improper payments under this section shall not be considered a matching program if such match-based inquiry is conducted in strict adherence to the limitations of use under paragraph (5), returns a binary verification response, resulting data is not retained by the agency for more than 30 days in order to address the immediate award eligibility or payment verification determination, and contains not more than 20 discrete record requests at a time for a particular agency program.
       > - **(5)** *Limitation on use*
       >   - **(A)** *In general* Information obtained through the Do Not Pay system may be used solely for the purposes described in paragraph (1), or for Federal or State law enforcement or investigative purposes and any officer, employee, contractor, subcontractor, or agent of a Federal or State entity may not publish, examine for a purpose not explicitly authorized under this section, or communicate such information furnished in such data assets other than in fulfillment of the purposes of this section.
-      >   - **(B)** *Implementation of system* The Do Not Pay system shall be implemented in a manner to strictly provide match-based queries that return only limited responses derived from the data submitted by any individual described in subparagraph (A) with the minimum data exchanged and retained in order to conduct the verification match and any associated responsibility under section 552a(p) of title 5, if—
+      >   - **(B)** *Implementation of system* The Do Not Pay system shall be implemented in a manner to strictly provide match-based queries that return only limited responses derived from the data submitted by any individual described in subparagraph (A) with the minimum data exchanged in order to conduct the verification match, if—
       >     - **(i)** such responses to match-based queries are limited to a confirmation or denial of a match, the level of confidence in a match, the data sources that informed the match, and other administrative metadata or the minimum additional data elements necessary to achieve the purposes described in paragraph (1); and
-      >     - **(ii)** any individual described in subparagraph (A) is prohibited from retrieving, browsing, making repeated and tailored match-based inquiries with the intention of reconstituting the underlying record in another system, or otherwise accessing any underlying record maintained in the Do Not Pay system under subsection (a)(2) beyond the information necessary to resolve a match-based query solely for the purposes described in paragraph (1).
+      >     - **(ii)** any individual described in subparagraph (A) may not retrieve, browse, make repeated and tailored match-based inquiries with the intention of reconstituting the underlying record in another system, or otherwise access any underlying record maintained in the Do Not Pay system under subsection (a)(2) beyond the information necessary to resolve a match-based query solely for the purposes described in paragraph (1).
       >   - **(C)** *Individuals accessing information* Any individual described in subparagraph (A)—
       >     - **(i)** may not take an adverse action against any individual based solely upon the information obtained under such subparagraph;
       >     - **(ii)** shall take additional independent steps to verify the eligibility of a benefit recipient before taking any adverse action, when necessary or appropriate or when required by applicable law; and
@@ -107,7 +112,7 @@ This Act may be cited as the “Pre-Payment Fraud Prevention and Treasury Data A
       > - **(6)** *Confidentiality maintenance* The Secretary shall maintain, with respect to each data asset obtained through the Do Not Pay system, the same level of confidentiality required by the law governing the source of that data asset. Information obtained from a data asset may only be used for purposes for which the source statute authorizes disclosure, and access to such information shall be limited to persons and entities for whom the source statute authorizes access. The Secretary shall document, in the System of Records Notice required under paragraph (2), the specific confidentiality obligations applicable to each data asset and the means by which Treasury ensures compliance.
       > - **(7)** *Penalty for unlawful disclosure* Any individual described in paragraph (5)(A) who knowingly and willfully discloses information in violation of paragraph (5) shall be fined not more than $250,000, imprisoned not more than 5 years, or both.
       > - **(8)** *Exception when payment otherwise required under law* The head of an executive agency may be exempt from the requirements of paragraph (1) if a Federal statute expressly requires that a payment or award be made notwithstanding potential ineligibility, and the agency head notifies the Secretary of the Treasury and the Director of the Office of Management and Budget prior to certification of the payment under section 3325.
-      > - **(9)** *Definition* In this section, the term data asset has the meaning given that term in section 3502(17) of title 44.
+      > - **(9)** *Definition* In this section, the term “data asset” has the meaning given that term in section 3502(17) of title 44.
 
   - **(3)** by striking subsections (b) through (c) and inserting the following:
     > - **(b)** *Establishment of system* The Secretary of the Treasury shall establish and maintain a Do Not Pay system, which shall be administered and operated by the Fiscal Service of the Department of the Treasury. The Do Not Pay system shall include—
@@ -118,8 +123,8 @@ This Act may be cited as the “Pre-Payment Fraud Prevention and Treasury Data A
     >     - **(A)** the screening of persons or entities that receive, or seek to receive Federal awards or payments against appropriate Do Not Pay system data assets, including data assets described in subsection (a)(2), and risk tools before an award is made or a payment request is submitted to the disbursing officer; and
     >     - **(B)** periodic review of available data assets and notification to the Secretary of any data asset that the agency requires access to, either directly or through the Do Not Pay system.
     >   - **(2)** *Other governmental use* The judicial and legislative branches of the United States (as defined in section 202(e) of title 18) shall have access to the Do Not Pay system strictly for purposes of verifying eligibility for payments and preventing fraud and improper payments as authorized under subsection (a)(1).
-    >   - **(3)** *Privacy requirements* The Director, in coordination with the Secretary, shall issue regulations implementing this section, including establishing privacy and other requirements applicable to such access and disclosure, consistent with section 552a of title 5.
-    > - **(d)** *Quarterly report* The Secretary, in consultation with the Director, shall submit to the appropriate authorizing and appropriations committees of Congress quarterly reports on the governmentwide operation of the Do Not Pay system, which may be included as part of another report submitted to Congress by the Secretary, and which shall include the following:
+    >   - **(3)** *Privacy requirements* The Secretary, in consultation with the Director of the Office of Management and Budget, shall issue regulations implementing this section, including establishing privacy and other requirements applicable to such access, consistent with section 552a of title 5.
+    > - **(d)** *Quarterly report* The Secretary shall submit to the appropriate authorizing and appropriations committees of Congress quarterly reports on the operation of the Do Not Pay system, which may be included as part of another report submitted to Congress by the Secretary, and which shall include the following:
     >   - **(1)** Performance measures for monitoring the effectiveness of the system in reducing improper payments.
     >   - **(2)** Information on the frequency of corrections and identification of erroneous data.
     >   - **(3)** Recommendations for legislative or administrative action to enhance the operations of the system.
@@ -140,12 +145,12 @@ This Act may be cited as the “Pre-Payment Fraud Prevention and Treasury Data A
     - **(C)** by inserting after paragraph (1) the following:
       > - **(2)** *Voluntary expedited process for computer matching by executive agencies for purposes of using the do not pay system*
       >   - **(A)** *In general* In accordance with section 552a of title 5 (commonly known as the “Privacy Act of 1974”), the head of each executive agency may enter into an expedited process for establishing a computer matching agreement with the head of another executive agency for the purposes of ongoing and automated data matching with the Do Not Pay system for purposes under this section in order to assist in the detection and prevention of fraudulent and improper payments.
-      >   - **(B)** *Requirement for use of computer matching agreement template* Not later than 180 days after the effective date of this section, the Director, in coordination with the Secretary of the Treasury, shall establish a standard computer matching agreement template for the Do Not Pay system which shall authorize an agency that adopts the standard template to be deemed to have satisfied the requirements of section 552a(o) of title 5 upon execution of the agreement without the need for review by a Data Integrity Board established under section 552a(u) of title 5.
+      >   - **(B)** *Requirement for use of treasury computer matching agreement template* Not later than 90 days after the effective date of this section, the Secretary of the Treasury, in consultation with the Director of the Office of Management and Budget, shall establish a standard computer matching agreement template for the Do Not Pay system which shall authorize an agency that adopts the standard template to be deemed to have satisfied the requirements of section 552a(o) of title 5 upon execution of the agreement without the need for review by a Data Integrity Board established under section 552a(u) of title 5.
       >   - **(C)** *Requirement for federal record notices and publication* The standard computer matching agreement template described under paragraph (B), and any future modification to the template, shall be published in the Federal Register by the Secretary of the Treasury 30-days prior to putting any such template or modification of such template into effect. On a quarterly basis the Secretary of the Treasury shall publish in the Federal Register a consolidated listing of each computer matching agreement using the standardized template under paragraph (B) and maintain on a publicly available website all active computer matching agreements using such template or the process under paragraph (1) that shall include the agency name, data assets covered, authorized purposes, and date of the agreement. The consolidated quarterly listing under this subparagraph shall satisfy the matching program notice requirements of section 552a(e)(12) of title 5 for each computer matching agreement using the standardized template under paragraph (B), and no separate Federal Register publication under section 552a(e)(12) shall be required of any agency participating in such an agreement.
       >   - **(D)** *Termination date* An agreement under this paragraph—
       >     - **(i)** shall have a termination date of less than 5 years; and
       >     - **(ii)** during the 3-month period ending on the date on which the agreement is scheduled to terminate, may be renewed by each executive agency that entered into the agreement for not more than 5 years if the head of the agency attests to the Secretary of the Treasury and the Director of the Office of Management and Budget that the agreement is not being modified.
-      >   - **(E)** *Requirement for OMB guidance* Not later than 180 days after the effective date of this section, the Director of the Office of Management and Budget, in consultation with the Secretary of the Treasury, shall issue guidance, including the computer matching agreement template, to implement this paragraph.
+      >   - **(E)** *Requirement for OMB guidance* Not later than 60 days after the effective date of this section, the Director of the Office of Management and Budget, in consultation with the Secretary of the Treasury, shall issue guidance to implement this paragraph.
       >   - **(F)** *Multiple agencies* For purposes of this paragraph, section 552a(o)(1) of title 5 shall be applied by substituting “between the source agency and the recipient agency or non-Federal agency or an agreement governing multiple agencies” for “between the source agency and the recipient agency or non-Federal agency” in the matter preceding subparagraph (A).
 
   - **(5)** by striking subsection (e).
@@ -194,18 +199,56 @@ This Act may be cited as the “Pre-Payment Fraud Prevention and Treasury Data A
   >     - **(E)** the appropriate congressional committees.
   > - **(f)** *Use of information included in report* Information included in the report required by subsection (a) shall be used by the agency in support of improper payment activities of the agency under section 3352 as appropriate and applicable.
   > - **(g)** *Definitions* In this section:
-  >   - **(1)** *Appropriate congressional committees* The term appropriate congressional committees means—
+  >   - **(1)** *Appropriate congressional committees* The term “appropriate congressional committees” means—
   >     - **(A)** the Committees on Appropriations of the Senate and the House of Representatives;
   >     - **(B)** the Committee on Homeland Security and Governmental Affairs of the Senate;
   >     - **(C)** the Committee on Oversight and Government Reform of the House of Representatives; and
   >     - **(D)** any other relevant congressional committee of jurisdiction.
-  >   - **(2)** *Covered award* The term covered award means a Federal award (as defined under section 7501) in an amount not less than $50,000 (based on fiscal year 2027 constant dollars).
-  >   - **(3)** *Covered recipient* The term covered recipient means any entity, including any State, the District of Columbia, and any territory or possession of the United States, including a pass-through entity (as defined under section 7501), that receives the covered award from a particular agency program for the first time in that program’s existence.
-  >   - **(4)** *Fraud-risk indicator* The term fraud-risk indicator means an objective data point or analytic signal that indicates an anomalous payment pattern or increase in the volume of a payment amount, a verified data mismatch, network or behavioral anomaly, or match identified by the Do Not Pay system and any other payment, account, and payee validation program or service provided by the Department of the Treasury that would result in financial loss to the government.
+  >   - **(2)** *Covered award* The term “covered award” means a Federal award (as defined under section 7501) in an amount not less than $50,000 (based on fiscal year 2027 constant dollars).
+  >   - **(3)** *Covered recipient* The term “covered recipient” means any entity, including any State, the District of Columbia, and any territory or possession of the United States, including a pass-through entity (as defined under section 7501), that receives the covered award from a particular agency program for the first time in that program’s existence.
+  >   - **(4)** *Fraud-risk indicator* The term “fraud-risk indicator” means an objective data point or analytic signal that indicates an anomalous payment pattern or increase in the volume of a payment amount, a verified data mismatch, network or behavioral anomaly, or match identified by the Do Not Pay system and any other payment, account, and payee validation program or service provided by the Department of the Treasury that would result in financial loss to the government.
 
 - **(b)** *Technical and conforming amendment* The table of sections for chapter 61 of title 31, United States Code, is amended, by adding at the end the following:
 - **(c)** *Clarification of application of first reporting deadline* The report required under subsection (a) of section 6107 of title 31, United States Code, as added by subsection (a), shall apply to a covered award made during the fiscal year following the promulgation of regulations or guidance by the Director under subsection (b)(1)(A) of such section.
 
-## § 5. Effective date
+## § 5. United states treasury data access for purposes of program integrity
+
+- **(a)** *Privacy-preserving validation of select tax information*
+  - **(1)** *In general* Section 6103(i) of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:
+    > - **(9)** *Disclosure of certain return information for use in the do not pay working system*
+    >   - **(A)** *In general* Upon execution of a written intra agency agreement between the Internal Revenue Service and the office of the Department of the Treasury that operates the Do Not Pay system described in section 3354(c) of title 31, United States Code, the Secretary may disclose to any authorized individual return information described in subparagraph (C) with respect to an individual taxpayer for the applicable period described in subparagraph (D) for the limited purpose described in subparagraph (E). The Secretary may further authorize the redisclosure of such return information by an authorized person, subject to such terms, conditions, and safeguards as the Secretary determines appropriate, to other authorized persons described in subparagraph (B) solely for the limited purpose described in subparagraph (E). The Secretary shall disclose or permit the redisclosure of such return information only to the extent necessary and for the purpose of the Do Not Pay system assisting an authorized individual to identify, prevent, and recover improper payments.
+    >   - **(B)** *Authorized individual* For purposes of this paragraph, the term “authorized individual” means—
+    >     - **(i)** an officer, employee, agent, or contractor of the Department of Treasury, whose official duties require access to the Do Not Pay system for the purpose of facilitating the identification, prevention, or recovery of improper payments, or
+    >     - **(ii)** an officer, employee, or contractor of an entity authorized to access the Do Not Pay system for the purposes described in subparagraph (E).
+    >   - **(C)** *Return information* The return information that may be disclosed under this paragraph is limited to—
+    >     - **(i)** taxpayer identity, and
+    >     - **(ii)** any reported identity theft related to the taxpayer identification number.
+    >   - **(D)** *Applicable period* For purposes of this paragraph, the term “applicable period” means, with respect to any individual taxpayer, the period—
+    >     - **(i)** consisting of the number of taxable years specified in the agreement entered under subparagraph (A), except that such period shall not be fewer than 3 taxable years, and
+    >     - **(ii)** ending with the most recent taxable year for which the information described in subparagraph (C) is available.
+    >   - **(E)** *Limitation on use of information* Information disclosed under this subparagraph shall be solely for the use of the authorized persons to whom such information is disclosed and solely for the purpose of detecting, preventing, and recovering improper payments.
+
+  - **(2)** *Conforming amendments*
+    - **(A)** Section 6103(a)(3) of the Internal Revenue Code of 1986 is amended by inserting “subsection (i)(9),” after “subsection (e)(1)(D)(iii),”.
+    - **(B)** Section 6103(p)(4) of such Code is amended—
+      - **(i)** in the matter preceding subparagraph (A)—
+        - **(I)** by striking “or (7),” and inserting “(7), or (9),”; and
+        - **(II)** by striking “or (7)(A)(ii),” and inserting “(7)(A)(ii), or (9),”;
+      - **(ii)** in subparagraph (F)(i), by inserting “, or (9)” after “(i)(3)(B)(i)”; and
+      - **(iii)** in the matter preceding subclause (I) of subparagraph (F)(ii), by striking “(5) or (7),” and inserting “(5), (7), or (9),”.
+    - **(C)** Section 7213(a)(2) of such Code is amended by striking “or (7)(A)(ii),” and inserting “(7)(A)(ii), or (9),”.
+  - **(3)** *Effective date* The amendments made by this subsection shall apply to any disclosure made after the effective date of this Act.
+- **(b)** *Access to social security information* Title II of the Social Security Act (42 U.S.C. 401 et seq.) is amended by adding at the end the following new section:
+  > ## § 235. Disclosure of information for do not pay system
+  >
+  > - **(a)** The Commissioner of Social Security shall enter into an agreement with the Secretary of the Treasury (or his designee) under which—
+  >   - **(1)** the Commissioner establishes a reliable, secure method, which compares the name and social security account number provided in an inquiry against such information maintained by the Commissioner in order to confirm (or not confirm, including the reason for the nonconfirmation) the validity of the information provided;
+  >   - **(2)** appropriate safeguards are included to assure that the confirmation (or nonconfirmation) is used solely for the use of the authorized persons to whom such information is disclosed and solely for the purpose of using the Do No Pay system to identify, prevent, and recover improper payments, and any redisclosure shall be subject to the provisions of section 3354 of title 31, United States Code; and
+  >   - **(3)** the Secretary shall pay the Commissioner of Social Security the full costs (including systems and administrative costs) of providing the confirmation described in paragraph (1).
+  > - **(b)** For purposes of this paragraph the term “authorized person” means—
+  >   - **(1)** an officer, employee, contractor, or agent of the Department of Treasury, whose official duties require access to the Do Not Pay system, or
+  >   - **(2)** an officer, employee, or contractor of another Federal agency, or a State agency that manages Federally funded State-administered programs, whose official duties require access to the Do Not Pay system.
+
+## § 6. Effective date
 
 This Act and the amendments made by this Act shall take effect on the date that is 180 days after the date of the enactment of this Act.
