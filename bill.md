@@ -1,24 +1,24 @@
 ---
 legis-num: H.R. 6297
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H.R. 6297
 
-> To require the Department of State to provide briefings on antisemitism in Europe.
+> To require the Department of State to consult with Congress on antisemitism in Europe.
 
 ## § 1. Short title
 
 This Act may be cited as the “Protecting Europe from Antisemitic Crime and Extremism Act” or the “PEACE Act”.
 
-## § 2. Briefings on antisemitism in Europe
+## § 2. Consultations on antisemitism in Europe
 
 - **(a)** *Sense of Congress* It is the sense of Congress that—
   - **(1)** the Assistant Secretary for European and Eurasian Affairs, in consultation with other relevant officials of the Department of State, should assess the persistent and growing threat of antisemitism and acts of international terrorism in Europe as a matter of importance to the foreign policy of the United States; and
   - **(2)** the Under Secretary for Political Affairs, acting through the Assistant Secretary for European and Eurasian Affairs, should diplomatically engage governments of countries of apparent concern on efforts for transatlantic cooperation to counter and address antisemitism and acts of international terrorism that may threaten transatlantic stability, the safety and security of United States citizens, and institutions abroad.
-- **(b)** *Briefing* Not later than 180 days after the date of the enactment of this Act, and annually thereafter for two years, the Assistant Secretary for European and Eurasian Affairs shall provide a briefing to the appropriate congressional committees on the matters described in subsection (a).
-- **(c)** *Appropriate congressional committees defined* In this section, the term appropriate congressional committees means—
+- **(b)** *Consultation* Not later than 180 days after the date of the enactment of this Act, and annually thereafter for two years, the Assistant Secretary for European and Eurasian Affairs shall consult with the appropriate congressional committees on the matters described in subsection (a).
+- **(c)** *Appropriate congressional committees defined* In this section, the term “appropriate congressional committees” means—
   - **(1)** the Committee on Foreign Affairs of the House of Representatives; and
   - **(2)** the Committee on Foreign Relations of the Senate.
