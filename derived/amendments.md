@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6028
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-105 amendatory instructions. 46 executed, 59 stated and not applied.
+104 amendatory instructions. 45 executed, 59 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -366,15 +366,6 @@ to guess them.
 | Removed | `Librarian of Congress` |
 | Inserted | `Register of Copyrights` |
 
-### 2 U.S.C. § 185
-
-> Section 415(a)(1)(A) of title 5, United States Code, is amended by striking “and the United States Postal Service” and inserting “the United States Postal Service, and the Copyright Office”.
-
-| | |
-|---|---|
-| Removed | `and the United States Postal Service` |
-| Inserted | `the United States Postal Service, and the Copyright Office` |
-
 ### 2 U.S.C. § 1301
 
 > in paragraph (7), by striking “through (K)” and inserting “through (L)”;
@@ -473,7 +464,7 @@ complete account of the bill's effect, which it is not.
 | `17 U.S.C. § 205` | strike | in the first sentence, by striking “the Librarian of”; and | the bill quotes the text struck but describes what replaces it |
 | `17 U.S.C. § 205` | strike | by striking the second sentence; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `17 U.S.C. § 205` | replace | in subsection (f), by striking the second and third sentences and inserting the following: “The Register of Copyrights shall establish not more than 4 positions for Associate Registers of Copyrights and shall make appointments to those p… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `17 U.S.C. § 205` | strike | in section 702, by striking the second sentence; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `17 U.S.C. § 205` | replace | in section 702, by striking the second sentence and inserting “The Register shall consult with the Librarian of Congress prior to establishing regulations that affect deposits made under sections 407 and 704 of this title. The Register s… | the bill quotes the text inserted but describes where it goes |
 | `17 U.S.C. § 205` | strike | by striking the second sentence; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `17 U.S.C. § 205` | strike | in the paragraph heading, by striking “library of congress and”; and | the bill quotes the text struck but describes what replaces it |
 | `17 U.S.C. § 205` | strike | in section 1331, by striking “of the Library of Congress”; and | the bill quotes the text struck but describes what replaces it |
@@ -487,7 +478,7 @@ complete account of the bill's effect, which it is not.
 | `2 U.S.C. § 142b` | strike | The first section of the Act entitled “An Act to fix the responsibilities of certifying officers and disbursing officer of the Library of Congress”, approved June 13, 1957 (2 U.S.C. 142b), is amended by striking “, including the Copyrigh… | the bill quotes the text struck but describes what replaces it |
 | `17 U.S.C. § 205` | insert | by inserting before “shall be appointed by the President” the following: “shall be a citizen of the United States with a background and experience in copyright law, and”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `17 U.S.C. § 205` | insert | by inserting before “The subordinate officers” the following: “The Register of Copyrights shall be appointed for a term of 10 years, but if the Register is appointed to fill a vacancy occurring prior to the expiration of the term for whi… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `2 U.S.C. § 185` | add-at-end | Section 1307 of the Legislative Branch Appropriations Act, 2006 (2 U.S.C. 185) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `2 U.S.C. § 185` | add-at-end | Section 1307 of the Legislative Branch Appropriations Act, 2006 (2 U.S.C. 185), is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `17 U.S.C. § 205` | add-at-end | Section 701(a) of title 17, United States Code, as amended by this section, is amended by adding at the end the following: “Any officer appointed by an acting Register of Copyrights, including a Copyright Royalty Judge, shall be an actin… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `17 U.S.C. § 205` | add-at-end | Section 701 of title 17, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `2 U.S.C. § 1301` | strike | in subparagraph (J), by striking “or”; | the bill quotes the text struck but describes what replaces it |
