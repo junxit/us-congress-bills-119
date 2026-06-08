@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1744
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -26,18 +26,18 @@ to guess them.
 
 ### 22 U.S.C. § 6435
 
-> Section 207(a) of the International Religious Freedom Act of 1998 (22 U.S.C. 6435(a)) is amended by striking “2025 and 2026” and inserting “2027 and 2028”.
+> Section 207(a) of the International Religious Freedom Act of 1998 (22 U.S.C. 6435(a)) is amended by striking “2025 and 2026” and inserting “2027 and 2028, and for the period beginning on October 1, 2028, and ending on December 31, 2028”.
 
 | | |
 |---|---|
 | Removed | `2025 and 2026` |
-| Inserted | `2027 and 2028` |
+| Inserted | `2027 and 2028, and for the period beginning on October 1, 2028, and ending on December 31, 2028` |
 
 ### 22 U.S.C. § 6436
 
-> Section 209 of the International Religious Freedom Act of 1998 (22 U.S.C. 6436) is amended by striking “September 30, 2026” and inserting “September 30, 2028”.
+> Section 209 of the International Religious Freedom Act of 1998 (22 U.S.C. 6436) is amended by striking “September 30, 2026” and inserting “December 31, 2028”.
 
 | | |
 |---|---|
 | Removed | `September 30, 2026` |
-| Inserted | `September 30, 2028` |
+| Inserted | `December 31, 2028` |
