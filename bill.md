@@ -20,9 +20,11 @@ This Act may be cited as the “Countering China’s Control of the Caucasus Act
     - **(A)** the Committee on Foreign Relations of the Senate;
     - **(B)** the Select Committee on Intelligence of the Senate;
     - **(C)** the Committee on Armed Services of the Senate;
-    - **(D)** the Committee on Foreign Affairs of the House of Representatives;
-    - **(E)** the Permanent Select Committee on Intelligence of the House of Representatives; and
-    - **(F)** the Committee on Armed Services of the House of Representatives.
+    - **(D)** the Committee on Appropriations of the Senate;
+    - **(E)** the Committee on Foreign Affairs of the House of Representatives;
+    - **(F)** the Permanent Select Committee on Intelligence of the House of Representatives;
+    - **(G)** the Committee on Armed Services of the House of Representatives; and
+    - **(H)** the Committee on Appropriations of the House of Representatives.
   - **(2)** *In general* Not later than 180 days after the date of the enactment of this Act, the Secretary of State, in coordination with the Director of National Intelligence and the Secretary of Defense, shall submit a classified report, as appropriate, to the relevant congressional committees that meets the requirements set forth in paragraph (3).
   - **(3)** *Contents* The report required under paragraph (2) shall—
     - **(A)** be prepared consistent with the protection of sources and methods;
