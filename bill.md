@@ -1,41 +1,57 @@
 ---
 legis-num: H.R. 6916
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
 # H.R. 6916
 
-> To amend title 41, United States Code, to identify individuals who commit certain Federal felonies implicating Federal programs as an excluded source on the System for Award Management Exclusions list, and for other purposes.
+> To amend title 31, United States Code, to prohibit Federal Funds from being provided to individuals convicted of certain Federal felonies, and for other purposes.
 
 ## § 1. Short title
 
-This Act may be cited as the “Federal Program Integrity and Fraud Prevention Act of 2025”.
+This Act may be cited as the “Federal Program Integrity and Fraud Prevention Act of 2026”.
 
-## § 2. Exclusion of Felony Fraud Convicts to Protect Federal Funds
+## § 2. Prohibiting Federal Funds from being provided to individuals convicted of certain Federal felonies
 
-- **(a)** *Procurement integrity* Chapter 47 of title 41, United States Code, is amended by adding at the end the following new section:
-  > ## § 4715. Protecting Federal funds from individuals convicted of certain Federal felonies
+- **(a)** *Prohibition* Subchapter II of chapter 33 of title 31, United States Code, is amended by adding at the end the following:
+  > ## § 3337. Prohibiting Federal Funds from being provided to individuals convicted of certain Federal felonies.
   >
   > - **(a)** *Prohibition*
-  >   - **(1)** *In general* Except as provided in subsection (b), an individual who is convicted of a covered felony arising out of any agency contract, grant, cooperative agreement, loan, or other financial assistance shall be identified as an excluded source on the System for Award Management Exclusions list described in part 9 of title 48, Code of Federal Regulations, and part 180 of title 2 of such Code, or successor regulations.
-  >   - **(2)** *Notification of conviction* For each individual convicted of a covered felony, the Attorney General shall notify the Administrator of General Services in a timely manner of such conviction and the Administrator shall promptly enter the 3-year prohibition for such person into the System for Award Management, or any successor system.
-  > - **(b)** *Waiver* Notwithstanding subsection (a), the agency head may exempt an individual described in subsection (a)(1) from the prohibition under such subsection for a case in which the agency head determines in writing that the exemption is warranted. The agency head shall transmit a copy of each such written exemption to Congress immediately after making such determination.
-  > - **(c)** *Definitions* In this section:
-  >   - **(1)** *Agency* The term agency means an Executive department (as defined under section 101 of title 5), a military department (as defined under section 102 of title 5), a Government corporation (as defined under section 103 of title 5), and an independent establishment (as defined under section 104(1) of title 5).
-  >   - **(2)** *Convicted* The term convicted means—
-  >     - **(A)** a judgment of conviction has been entered against the individual by a Federal court;
-  >     - **(B)** there has been a finding of guilt against the individual by a Federal court;
-  >     - **(C)** a plea of guilty or nolo contendere by the individual has been accepted by a Federal court; or
-  >     - **(D)** the individual has entered into a first offender, deferred adjudication, deferred prosecution, or other arrangement or program in which judgment or conviction has been withheld.
-  >   - **(3)** *Covered felony* The term covered felony means a felony described under section 286, 287, 371, 641, 666, 1001, 1014, 1017, 1028, 1028A, 1030, 1031, 1040(a)(2), 1341, 1343, 1344, 1345, 1349, 1956, and 1957 of title 18 and section 16 of the Small Business Act (15 U.S.C. 645).
-  > - **(d)** *Rules of construction*
+  >   - **(1)** *In general* The head of an agency may not enter into, renew, or extend a Federal contract, or provide a grant or other Federal financial assistance to, an individual convicted of a covered felony arising out of any Federal contract, grant, cooperative agreement, loan, or other financial assistance, or to an entity of which such individual is a beneficial owner, during the three year period following the date of the conviction.
+  >   - **(2)** *Application* The prohibition under paragraph (1) shall apply with respect to an individual convicted after the date of the enactment of this section.
+  > - **(b)** *Waiver*
+  >   - **(1)** *Authority* The head of an agency may waive on a case-by-case basis the prohibition under subsection (a) with respect to an individual or entity described under such subsection if the head of the agency determines such waiver is justifiable.
+  >   - **(2)** *Written Congressional notification of waiver* Immediately after making a determination to issue a waiver under paragraph (1), the head of an agency shall provide to Congress a written notification of such determination that includes the justification for the waiver.
+  > - **(c)** *Notice requirements* For each individual convicted of a covered felony arising out of any Federal contract, grant, cooperative agreement, loan, or other financial assistance—
+  >   - **(1)** the Attorney General shall notify the Administrator of General Services in a timely manner of such conviction; and
+  >   - **(2)** the Administrator shall promptly update the System for Award Management Exclusions list described in part 9 of title 48, Code of Federal Regulations, and part 180 of title 2 of such Code, or any successor regulation, to include such individual.
+  > - **(d)** *Guidance* Not later than 1 year after the date of the enactment of this Act, the Director of the Office of Management and Budget shall issue guidance for the implementation of, and compliance with, the requirements of this section.
+  > - **(e)** *Federal acquisition regulation* The Federal Acquisition Regulation shall be revised as necessary to implement the provisions of this section.
+  > - **(f)** *Rules of construction*
   >   - **(1)** *Federal interests* Nothing in this section may be construed to prohibit an agency from seeking or taking any other available criminal, civil, or administrative action to protect Federal Government interests, including the proposal or implementation of suspension or debarment actions pursuant to subpart 9.4 of title 48, Code of Federal Regulations, and part 180 of title 2 of such Code.
   >   - **(2)** *Exclusion* Nothing in subsection (b) may be construed to affect any other statutory or regulatory waiver authority related to an exclusion.
+  > - **(g)** *Definitions* In this section:
+  >   - **(1)** *Agency* The term agency means—
+  >     - **(A)** an Executive department (as defined under section 101 of title 5);
+  >     - **(B)** a military department (as defined under section 102 of title 5);
+  >     - **(C)** a Government corporation (as defined under section 103 of title 5); and
+  >     - **(D)** an independent establishment (as defined under section 104(1) of title 5).
+  >   - **(2)** *Beneficial owner* The term beneficial owner—
+  >     - **(A)** means, with respect to an entity, an individual who, directly or indirectly, through any contract, arrangement, understanding, relationship, or otherwise—
+  >       - **(i)** exercises substantial control over the entity; or
+  >       - **(ii)** owns or controls not less than 25 percent of the ownership interests of the entity; and
+  >     - **(B)** does not include—
+  >       - **(i)** a minor child, as defined in the jurisdiction in which the entity is formed, if the information of the parent or guardian of the minor child is reported in accordance with this section;
+  >       - **(ii)** an individual acting as a nominee, intermediary, custodian, or agent on behalf of another individual;
+  >       - **(iii)** an individual acting solely as an employee of a corporation, limited liability company, or other similar entity and whose control over or economic benefits from such entity is derived solely from the employment status of the person;
+  >       - **(iv)** an individual whose only interest in a corporation, limited liability company, or other similar entity is through a right of inheritance; or
+  >       - **(v)** a creditor of a corporation, limited liability company, or other similar entity, unless the creditor meets the requirements of subparagraph (A).
+  >   - **(3)** *Convicted* The term convicted means any of the following:
+  >     - **(A)** A judgment of conviction has been entered against the individual by a Federal court, except for any individual whose conviction has been reversed or vacated.
+  >     - **(B)** A plea of guilty or nolo contendere by the individual has been accepted by a Federal court, except for any case in which the conviction entered as result of such plea has been reversed or vacated.
+  >     - **(C)** The individual has entered into a first offender, deferred adjudication, deferred prosecution, or other arrangement or program in which the individual admitted guilt or responsibility to the underlying offense.
+  >   - **(4)** *Covered felony* The term covered felony means a felony described under section 286, 287, 371, 508, 641, 666, 1001, 1002, 1014, 1017, 1028, 1028A, 1030, 1031, 1040(a)(2), 1341, 1342, 1343, 1344, 1345, 1349, 1956, or 1957 of title 18 or section 16 of the Small Business Act (15 U.S.C. 645).
 
-- **(b)** *Clerical amendment* The table of sections for chapter 47 of title 41, United States Code, is amended by adding at the end the following:
-
-## § 3. Guidance
-
-Not later than 1 year after the date of the enactment of this Act, the Attorney General, in consultation with the Administrator of General Services, shall issue guidance for the implementation of, and compliance with, the requirements of section 4715 of title 41, United States Code, as added by section 2.
+- **(b)** *Table of contents* The table of contents for subchapter II of chapter 33 of title 31, United States Code, is amended by adding at the end the following:
