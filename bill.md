@@ -1,0 +1,26 @@
+---
+legis-num: H.R. 9182
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 9182
+
+> To require the Administrator of the Federal Railroad Administration to study improving rail and integrating new rail power technologies in the southeastern United States, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Southeastern Rail Technologies Mapping Act of 2026”.
+
+## § 2. Study on improving rail and integration of new rail power technologies
+
+- **(a)** *In general* The Administrator of the Federal Railroad Administration, acting through the Associate Administrator of the Office of Research, Data, and Innovation, shall conduct a study relating to the improvement of rail performance and integration of new rail power technologies in the southeastern United States.
+- **(b)** *Considerations* In conducting the study under subsection (a), the Administrator shall—
+  - **(1)** identify—
+    - **(A)** any segment of a rail corridor between Florida and Washington, DC that may be suitable for technologies such as rail electrification or use of fuel cell or battery; and
+    - **(B)** any challenges relating to implementing such technologies; and
+  - **(2)** for each segment of such rail corridor for which the Administrator determines the technologies described in paragraph (1) cannot be implemented—
+    - **(A)** explain the reasoning for such determination; and
+    - **(B)** recommend any update to the rail corridor that would make it suitable for the implementation of such technologies and provide an estimated cost for each such update.
+- **(c)** *Report* Not later than 18 months after the date of enactment of this Act, the Administrator shall submit to Congress a report describing the results of the study conducted under subsection (a).
