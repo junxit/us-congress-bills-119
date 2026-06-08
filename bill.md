@@ -13,18 +13,24 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Government Audit and Accountability of Federally Funded State-Administered Programs Act”.
 
-## § 2. High Risk List for federally-funded State-administered programs
+## § 2. Federally-funded State-administered programs vulnerability assessment
 
-- **(a)** *In general* Not later than 2 years after the date of the enactment of this Act, and periodically thereafter, the Comptroller General of the United States shall submit to Congress a High Risk List identifying program areas and administrative practices presenting the greatest risk to the integrity of Federal funds administered by States and local governments, including Federal pass through programs subject to audit under chapter 75 of title 31, United States Code.
-- **(b)** *Contents* The High Risk List required under subsection (a) shall—
-  - **(1)** identify high-risk program areas and administrative practices presenting systematic vulnerability the administration of Federal funds by State and local governments;
-  - **(2)** assess best practices that have strengthened the integrity of Federal funds administered by State and local governments and reduced waste, fraud, and abuse in federally funded programs;
-  - **(3)** identify Federal tools, resources, and technical assistance available to address the vulnerability patterns under paragraph (1); and
-  - **(4)** include recommendations to Congress for addressing the high risk program areas and administrative practices identified under paragraph (1).
+- **(a)** *In general* Not later than 2 years after the date of the enactment of this Act, and periodically thereafter, the Comptroller General of the United States shall submit to Congress an assessment of program areas and administrative practices that present the greatest risk to the integrity of Federal funds administered by State and local governments and pass-through entities subject to audit under chapter 75 of title 31, United States Code.
+- **(b)** *Contents* Each assessment required by subsection (a) shall—
+  - **(1)** identify program areas and administrative practices at the Federal, State, and local level that present systematic vulnerabilities in the administration of Federal funds by State and local governments, including practices that are more susceptible to waste, fraud, abuse, and improper payments;
+  - **(2)** assess evidence-based best practices and strategies that have strengthened the integrity of Federal funds administered by State and local governments and reduced waste, fraud, and abuse in Federally-funded programs;
+  - **(3)** assess program areas and administrative practices at the Federal, State, and local level that—
+    - **(A)** have demonstrated effectiveness in mitigating waste, fraud, abuse, and improper payments; or
+    - **(B)** have shown limited effectiveness in reducing such risks;
+  - **(4)** identify Federal tools, resources, and technical assistance available to State and local governments and how such tools may be improved to prevent and mitigate the systemic vulnerabilities identified under paragraph (1); and
+  - **(5)** include recommendations to Federal agencies and matters for consideration to Congress to address and improve the program areas and administrative practices identified under paragraph (1), including recommendations to improve eligibility determination and enrollment processes to mitigate risks.
 - **(c)** *Sources*
-  - **(1)** In carrying out the preparation of the High Risk List under subsection (a), the Comptroller General shall primarily rely on existing publicly available oversight, audit and investigative materials, to conduct an analysis of federally funded State-administered programs, which may include—
-    - **(A)** findings of Federal and State auditors, inspectors general, and attorneys general with respect to the administration of Federal funds by State and local governments;
-    - **(B)** single audit reports required under section 7502 of title 31, United States Code; and
-    - **(C)** and other publicly available Federal oversight and program integrity data.
-  - **(2)** In preparing the High Risk List, the Comptroller General shall apply professional auditing and evaluation standards in analyzing such materials. The Comptroller General may supplement such materials with independent analysis of publicly available Federal program data where existing oversight materials are insufficient to identify high-risk program areas or administrative practices, provided that nothing in this section shall be construed to authorize the Comptroller General to compel the production of information from States or local governments or to conduct independent audits of State or local programs.
-- **(d)** *Form and methodology* The Comptroller General shall determine the appropriate form and methodology for preparing and presenting the High Risk List required under this section, consistent with Government Auditing Standards and the requirements of subsection (c).
+  - **(1)** *Audit and related materials* In carrying out the preparation of the assessment under subsection (a), the Comptroller General shall rely, to the extent practicable, on existing oversight, audit, and investigative materials to conduct an analysis of Federal funds administrated by State and local governments, which may include—
+    - **(A)** any finding of a Federal, State, or local auditor, comptroller, treasurer, inspector general, attorney general, or any other similar official with respect to the administration of such funds;
+    - **(B)** any audit required under section 7502 of title 31, United States Code; and
+    - **(C)** any other publicly available Federal, State, or local oversight and program integrity data.
+  - **(2)** *Additional materials* In preparing each assessment required by subsection (a), the Comptroller General may supplement the materials described in paragraph (1) with additional analysis and new audit work, including by drawing on prior and ongoing work, where such materials are insufficient to assess the program areas and administrative practices identified under subsection (b)(1).
+- **(d)** *Form and methodology* The Comptroller General shall determine the appropriate form and methodology for preparing and submitting each assessment required by subsection (a).
+- **(e)** *Definitions* In this section:
+  - **(1)** *Improper payment* The term “improper payment” has the meaning given that term in section 3351(4) of title 31, United States Code.
+  - **(2)** *State* The term “State” has the meaning given that term in section 6720(a)(4) of title 31, United States Code.
