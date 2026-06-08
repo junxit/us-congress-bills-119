@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 8428
 
-> To amend title 5, United States Code, to establish a mandatory antifraud and improper payment training program for Federal program administrators, to provide for the availability of such training to State and local entities administering Federally funded programs, and for other purposes.
+> To amend title 5, United States Code, to establish an antifraud and improper payment training program for Federal program administrators, to provide for the availability of such training to State and local entities administering Federally funded programs, and for other purposes.
 
 ## § 1. Short title
 
@@ -18,7 +18,7 @@ This Act may be cited as the “Federal Fraud Prevention Workforce Training Act�
 - **(a)** *In general* Chapter 41 of title 5, United States Code, is amended by adding at the end the following new section:
   > ## § 4122. Federal Government-wide antifraud and improper payment prevention training program
   >
-  > - **(a)** *Establishment* The Secretary of the Treasury and the Director of the Office of Management and Budget, in consultation with the Director of the Office of Personnel Management, shall establish and maintain a Federal Government-wide program for antifraud and improper payment prevention training (in this section referred to as the “Program”).
+  > - **(a)** *Establishment* The Secretary of the Treasury and the Director of the Office of Management and Budget, in consultation with the Director of the Office of Personnel Management, may establish and maintain a Federal Government-wide program for antifraud and improper payment prevention training (in this section referred to as the “Program”).
   > - **(b)** *Curriculum requirements* The Program shall include comprehensive instruction on—
   >   - **(1)** identifying and assessing fraud and improper payment risks in Federal programs;
   >   - **(2)** implementing resources, including the Government Accountability Office’s Framework for Managing Fraud Risks in Federal Programs and the Office of Management and Budget’s Circular A–123 and its applicable appendices, the Department of the Treasury’s Anti-Fraud Playbook, the National Institute of Standards and Technology Digital Identity Guidelines, and data analytics tools in agency program administration;
@@ -31,13 +31,11 @@ This Act may be cited as the “Federal Fraud Prevention Workforce Training Act�
   >     - **(B)** not less frequently than once every 2 years thereafter.
   >   - **(2)** *Certification* The Director of the Office of Personnel Management shall provide a system for certifying completion of the Program and maintaining records of such certifications.
   > - **(d)** *Availability to State, local, or Tribal-Administered programs*
-  >   - **(1)** *In general* The Secretary of the Treasury shall make the Program available to employees of State (including the District of Columbia), local (including territories of the United States), and Tribal governments who are responsible for the administration of Federally funded programs.
-  >   - **(2)** *Technical assistance* The Secretary of the Treasury shall provide technical assistance to State, local, or Tribal entities to integrate the Program’s standards into the respective administrative frameworks of such entities.
-  >   - **(3)** *Optional requirement* The head of an agency may, as a condition of a Federal grant or award, require that State, local, or Tribal administrators of such funds complete the Program.
-  > - **(e)** *Reporting* Not later than 2 years after the date of the enactment of the Federal Fraud Prevention Workforce Training Act and annually thereafter, the Secretary of Treasury and the Director of the Office of Management and Budget, in consultation with the Director of the Office of Personnel Management, shall submit, to the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate, a report on the implementation of the Program, including participation rates and an assessment of the Program’s effectiveness in reducing fraud.
-  > - **(f)** *Authorization of appropriations* For fiscal year 2027 and each fiscal year thereafter, there is authorized to be appropriated $5,000,000 for the Bureau of the Fiscal Service to carry out this section.
+  >   - **(1)** *In general* The Secretary of the Treasury may make the Program available at no cost to employees or contractors of a State (defined in this subsection as any State of the United States, the District of Columbia, a territory or possession of the United States, or a federally recognized Indian Tribe) or local government who are responsible for the administration of Federally funded programs.
+  >   - **(2)** *Technical assistance* The Secretary of the Treasury may provide technical assistance to such State or local governments to integrate the Program’s standards into the respective administrative frameworks of such entities.
+  > - **(e)** *Reporting* Not later than 2 years after the date of the enactment of the Federal Fraud Prevention Workforce Training Act and annually thereafter, the Secretary of the Treasury and the Director of the Office of Management and Budget, in consultation with the Director of the Office of Personnel Management, shall submit, to the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate, a report on the implementation of the Program, including participation rates and an assessment of the Program’s effectiveness in reducing fraud and improper payments.
 
-- **(b)** *Clerical amendment* The table of sections for such subchapter is amended by adding at the end the following:
+- **(b)** *Clerical amendment* The table of sections for such chapter is amended by adding at the end the following:
 - **(c)** *Effective date*
   - **(1)** *In general* Except as provided in paragraph (2), this Act and the amendments made by this Act shall take effect on the date that is 180 days after the date of the enactment of this Act.
-  - **(2)** *Regulations* Not later than the effective date described in subsection (a), the Secretary of the Treasury may prescribe such regulations as necessary to implement or administer the training program established under section 4122 of title 5, United States Code, as added by subsection (a) of this section.
+  - **(2)** *Regulations* Not later than 180 days after the effective date in paragraph (1), the Secretary of the Treasury may prescribe such regulations as necessary to implement or administer the training program established under section 4122 of title 5, United States Code, as added by subsection (a) of this section.
