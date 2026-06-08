@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6338
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -67,7 +67,7 @@ It is the Sense of Congress that—
   - **(1)** *Appropriate congressional committees* The term appropriate congressional committees means the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.
   - **(2)** *Foreign person* The term foreign person means an individual or entity that is not a United States person.
   - **(3)** *Foreign vessel* The term foreign vessel means a vessel of foreign registry or operated under the authority of a foreign country.
-  - **(4)** *IUU fishing* The term IUU fishing means illegal, unreported, and unregulated fishing.
+  - **(4)** *IUU fishing* The term IUU fishing has the meaning given the term in section 3532 of the Maritime SAFE Act (16 U.S.C. 8001).
   - **(5)** *United States person* The term United States person means—
     - **(A)** a United States citizen;
     - **(B)** a permanent resident alien of the United States;
