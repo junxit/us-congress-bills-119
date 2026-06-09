@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7668
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7668
@@ -20,9 +20,10 @@ Countering China’s Control of the Caucasus Act
 
 - Rep. Cohen, Steve [D-TN-9] (C001068)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -35,3 +36,4 @@ Countering China’s Control of the Caucasus Act
 - 2026-06-08 — Mr. Mast moved to suspend the rules and pass the bill, as amended.
 - 2026-06-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3967)
 - 2026-06-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3967)
+- 2026-06-09 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
