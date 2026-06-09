@@ -1,0 +1,24 @@
+---
+legis-num: S. 4720
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4720
+
+> To amend the High Seas Driftnet Fishing Moratorium Protection Act to authorize the Secretary of Commerce to consider nations with open registries in the Secretary’s identification of nations engaging in or endorsing illegal, unreported, or unregulated fishing.
+
+## § 1. Short title
+
+This Act may be cited as the “Protecting U.S. Fishers from Illegal Foreign Flags Act of 2026”.
+
+## § 2. Amendments to the High Seas Driftnet Fishing Moratorium Protection Act
+
+Section 609 of the High Seas Driftnet Fishing Moratorium Protection Act (16 U.S.C. 1826j) is amended—
+
+- **(1)** in subsection (a)(2), by adding at the end the following:
+  > - **(E)** Any nation that allows vessels to be operated under the laws of the nation without confirming a genuine link (as described in Article 5(1) of the United Nations Convention on the High Seas, done at Geneva on April 29, 1958 and entered into force September 30, 1962) between the nation and the persons or entities with beneficial ownership and control of the vessel, and that, as a result, fails to effectively exercise flag state responsibilities as described in subparagraphs (A) through (C).
+
+- **(2)** in subsection (e), by striking paragraph (2) and inserting the following:
+  > - **(2)** *Secretary to amend term within legislative guidelines* Not later than 90 days after the date of enactment of the Protecting U.S. Fishers from Illegal Foreign Flags Act of 2026, the Secretary shall amend the definition of the term illegal, unreported, or unregulated fishing published at part 300.201 of title 50, Code of Federal Regulations (as in effect on the date of enactment of such Act), to be consistent with section 3532(6) of the Maritime SAFE Act (16 U.S.C. 8001(6)).
