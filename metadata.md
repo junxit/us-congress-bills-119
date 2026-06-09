@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2505
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2505
@@ -26,10 +26,11 @@ Block the Use of Transatlantic Technology in Iranian Made Drones Act
 - Rep. Sherman, Brad [D-CA-32] (S000344)
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 
-## Committees (2)
+## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Armed Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Block the Use of Transatlantic Technology in Iranian Made Drones Act
 - 2026-06-08 — Mr. Mast moved to suspend the rules and pass the bill.
 - 2026-06-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3943-3944)
 - 2026-06-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3943-3944)
+- 2026-06-09 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
