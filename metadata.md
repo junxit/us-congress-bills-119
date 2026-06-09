@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7037
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7037
@@ -49,9 +49,10 @@ Developing Overseas Mineral Investments and New Allied Networks for Critical Ene
 - Rep. Mackenzie, Ryan [R-PA-7] (M001230)
 - Rep. Malliotakis, Nicole [R-NY-11] (M000317)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -66,3 +67,4 @@ Developing Overseas Mineral Investments and New Allied Networks for Critical Ene
 - 2026-06-08 — Mr. Mast moved to suspend the rules and pass the bill, as amended.
 - 2026-06-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3957-3964)
 - 2026-06-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3957-3964)
+- 2026-06-09 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
