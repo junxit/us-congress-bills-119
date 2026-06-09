@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5929
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Critical Minerals Supply Chain Resiliency Act”.
+This Act may be cited as the “Critical Minerals Supply Chain Resiliency Act of 2026”.
 
 ## § 2. Treatment of actions under presidential determination 2022–11 for Federal permitting improvement purposes
 
