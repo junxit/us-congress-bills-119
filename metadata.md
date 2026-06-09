@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8466
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8466
@@ -20,9 +20,10 @@ TRUE Accountability Act
 
 - Rep. Subramanyam, Suhas [D-VA-10] (S001230)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -44,3 +45,4 @@ TRUE Accountability Act
 - 2026-06-08 — Mr. Gill (TX) moved to suspend the rules and pass the bill, as amended.
 - 2026-06-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 384 - 0 (Roll no. 208). (text: CR H3929)
 - 2026-06-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 384 - 0 (Roll no. 208). (text: CR H3929)
+- 2026-06-09 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
