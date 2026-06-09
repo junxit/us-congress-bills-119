@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6230
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6230
@@ -22,13 +22,14 @@ Tehran Incitement to Violence Act
 - Rep. Lawler, Michael [R-NY-17] (L000599)
 - Rep. Fulcher, Russ [R-ID-1] (F000469)
 
-## Committees (5)
+## Committees (6)
 
 - House — Foreign Affairs Committee
 - House — Ways and Means Committee
 - House — Oversight and Government Reform Committee
 - House — Financial Services Committee
 - House — Judiciary Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Tehran Incitement to Violence Act
 - 2026-06-08 — Mr. Mast moved to suspend the rules and pass the bill, as amended.
 - 2026-06-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3954-3955)
 - 2026-06-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3954-3955)
+- 2026-06-09 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
