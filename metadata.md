@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1744
 congress: 119
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1744
@@ -50,3 +50,7 @@ United States Commission on International Religious Freedom Reauthorization Act 
 - 2026-06-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3947)
 - 2026-06-08 — The title of the measure was amended. Agreed to without objection.
 - 2026-06-09 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
+- 2026-09-29 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5186)
+- 2026-09-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (consideration: CR S5186)
+- 2026-09-29 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2026-09-29 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
