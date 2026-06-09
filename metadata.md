@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6338
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6338
@@ -22,10 +22,11 @@ Stop Illegal Fishing Act
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 - Rep. Case, Ed [D-HI-1] (C001055)
 
-## Committees (2)
+## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Judiciary Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Stop Illegal Fishing Act
 - 2026-06-08 — Mr. Mast moved to suspend the rules and pass the bill, as amended.
 - 2026-06-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3968-3969)
 - 2026-06-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3968-3969)
+- 2026-06-09 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
