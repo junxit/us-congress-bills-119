@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 192
 congress: 119
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 192
@@ -16,7 +16,7 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Sen. Wyden, Ron [D-OR] (W000779)
 
-## Cosponsors (19)
+## Cosponsors (20)
 
 - Sen. Murray, Patty [D-WA] (M001111)
 - Sen. Cantwell, Maria [D-WA] (C000127)
@@ -37,6 +37,7 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - Sen. Merkley, Jeff [D-OR] (M001176)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
 
 ## Committees (1)
 
@@ -46,3 +47,6 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - 2026-05-19 — Introduced in Senate
 - 2026-05-19 — Read twice and referred to the Committee on the Judiciary.
+- 2026-06-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 431.
+- 2026-06-09 — Senate Committee on the Judiciary discharged, by petition, pursuant to 5 U.S.C. 802(c).
+- 2026-06-09 — Senate Committee on the Judiciary discharged, by petition, pursuant to 5 U.S.C. 802(c).
