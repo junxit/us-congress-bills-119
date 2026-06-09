@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5248
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5248
@@ -21,9 +21,10 @@ PROFIT Act of 2026
 - Rep. McCaul, Michael T. [R-TX-10] (M001157)
 - Del. Moylan, James C. [R-GU-At Large] (M001219)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ PROFIT Act of 2026
 - 2026-06-08 — Mr. Mast moved to suspend the rules and pass the bill, as amended.
 - 2026-06-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3970-3974)
 - 2026-06-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3970-3974)
+- 2026-06-09 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
