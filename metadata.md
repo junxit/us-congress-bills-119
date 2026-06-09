@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3429
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3429
@@ -39,9 +39,10 @@ US-Japan-ROK Trilateral Cooperation Act
 - Rep. Nunn, Zachary [R-IA-3] (N000193)
 - Rep. Carson, André [D-IN-7] (C001072)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -56,3 +57,4 @@ US-Japan-ROK Trilateral Cooperation Act
 - 2026-06-08 — Mr. Mast moved to suspend the rules and pass the bill.
 - 2026-06-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3945-3946)
 - 2026-06-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3945-3946)
+- 2026-06-09 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
