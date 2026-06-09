@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6916
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6916
@@ -20,9 +20,10 @@ Federal Program Integrity and Fraud Prevention Act of 2026
 
 - Rep. Randall, Emily [D-WA-6] (R000621)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ Federal Program Integrity and Fraud Prevention Act of 2026
 - 2026-06-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3923-3924)
 - 2026-06-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3923-3924)
 - 2026-06-08 — The title of the measure was amended. Agreed to without objection.
+- 2026-06-09 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
