@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8107
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8107
@@ -20,9 +20,10 @@ Government Audit and Accountability of Federally Funded State-Administered Progr
 
 - Rep. Burchett, Tim [R-TN-2] (B001309)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ Government Audit and Accountability of Federally Funded State-Administered Progr
 - 2026-06-08 — Mr. Gill (TX) moved to suspend the rules and pass the bill, as amended.
 - 2026-06-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3933)
 - 2026-06-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3933)
+- 2026-06-09 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
