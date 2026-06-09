@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1744
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1744
@@ -30,9 +30,10 @@ United States Commission on International Religious Freedom Reauthorization Act 
 - Rep. Huizenga, Bill [R-MI-4] (H001058)
 - Rep. Raskin, Jamie [D-MD-8] (R000606)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ United States Commission on International Religious Freedom Reauthorization Act 
 - 2026-06-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3947)
 - 2026-06-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3947)
 - 2026-06-08 — The title of the measure was amended. Agreed to without objection.
+- 2026-06-09 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
