@@ -1,7 +1,7 @@
 ---
 measure: H.R. 428
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 428
@@ -21,9 +21,10 @@ Bonuses for Cost-Cutters and Fraud Preventers Act of 2026
 - Rep. Case, Ed [D-HI-1] (C001055)
 - Rep. DesJarlais, Scott [R-TN-4] (D000616)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Bonuses for Cost-Cutters and Fraud Preventers Act of 2026
 - 2026-06-08 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3936-3937)
 - 2026-06-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3936-3937)
 - 2026-06-08 — The title of the measure was amended. Agreed to without objection.
+- 2026-06-09 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
