@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8665
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8665
@@ -27,9 +27,10 @@ Allied Defense Sales Act
 - Rep. Fleischmann, Charles J. "Chuck" [R-TN-3] (F000459)
 - Rep. Tenney, Claudia [R-NY-24] (T000478)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Allied Defense Sales Act
 - 2026-06-08 — Mr. Mast moved to suspend the rules and pass the bill.
 - 2026-06-08 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3965-3966)
 - 2026-06-08 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3965-3966)
+- 2026-06-09 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
