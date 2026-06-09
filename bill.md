@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1501
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,7 +15,7 @@ This Act may be cited as the “Protecting Domestic Mining Act of 2025”.
 
 ## § 2. Definition of covered project
 
-Section 41001(6)(A) of the FAST Act (42 U.S.C. 4370m(6)(A)) is amended by inserting “mining,” before “or any other sector”.
+Section 41001(6)(A) of the FAST Act (42 U.S.C. 4370m(6)(A)) is amended by inserting “mining, mineral processing,” before “or any other sector”.
 
 ## § 3. Prohibition against finalizing, implementing, or enforcing proposed rule related to scope of mining under FAST Act
 

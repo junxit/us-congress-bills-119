@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1501
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 4370m` | insert | Section 41001(6)(A) of the FAST Act (42 U.S.C. 4370m(6)(A)) is amended by inserting “mining,” before “or any other sector”. | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 4370m` | insert | Section 41001(6)(A) of the FAST Act (42 U.S.C. 4370m(6)(A)) is amended by inserting “mining, mineral processing,” before “or any other sector”. | the bill quotes the text inserted but describes where it goes |
