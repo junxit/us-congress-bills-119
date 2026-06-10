@@ -1,7 +1,7 @@
 ---
 legis-num: S. 872
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -17,16 +17,16 @@ This Act may be cited as the “Stop Secret Spending Act of 2025”.
 
 - **(a)** *Other transaction agreements* Section 2(a) of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note) is amended—
   - **(1)** in paragraph (4)(A)—
-    - **(A)** in clause (ii), by adding “orand” and the end; and
+    - **(A)** in clause (ii), by adding “or” and the end; and
     - **(B)** by adding at the end the following:
-      > - **(iii)** includesinclude other transaction agreements;
+      > - **(iii)** include other transaction agreements;
 
   - **(2)** in paragraph (7)—
     - **(A)** in subparagraph (B), by striking “(2)(A)(i)” and inserting “(4)(A)(i)”; and
     - **(B)** in subparagraph (C), by striking “(2)(A)(ii)” and inserting “(4)(A)(ii)”.
 - **(b)** *Data standards* Section 4 of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note) is amended by adding at the end the following:
   > - **(e)** *Other transaction agreement data* Not later than 3 years after the date of enactment of the Stop Secret Spending Act of 2025, the Secretary shall ensure that, with respect to the website established under section 2, or any successor website—
-  >   - **(1)** data relating to other transaction agreements is automatically transmitted to the website,; and
+  >   - **(1)** data relating to other transaction agreements is automatically transmitted to the website; and
   >   - **(2)** a centralized view of the data described in paragraph (1) is available on the website.
 
 - **(c)** *Annual report on unreported funding* Section 2 of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note) is amended by adding at the end the following:
@@ -52,11 +52,11 @@ This Act may be cited as the “Stop Secret Spending Act of 2025”.
 
 - **(a)** *Inspector General reports* Section 6(a) of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note) is amended—
   - **(1)** in paragraph (1)—
-    - **(A)** in the matter preceding subparagraph (A), by striking “each Federal agency” and inserting “each agency described in paragraphs (1) and (2) paragraph (1) or (2) of section 901(b) of title 31, United States Code”;
+    - **(A)** in the matter preceding subparagraph (A), by striking “each Federal agency” and inserting “each agency described in paragraph (1) or (2) of section 901(b) of title 31, United States Code”;
     - **(B)** in subparagraph (A), by striking “Federal agency” and inserting “agency”; and
     - **(C)** in subparagraph (B), by striking “Federal agency” and inserting “agency”; and
   - **(2)** by striking paragraph (2) and inserting the following:
-    > - **(2)** *Deadlines* The inspector general of each agency described in paragraphs (1) and (2)paragraph (1) or (2) of section 901(b) of title 31, United States Code, shall submit to Congress and make publicly available a report described in paragraph (1)(B)—
+    > - **(2)** *Deadlines* The inspector general of each agency described in paragraph (1) or (2) of section 901(b) of title 31, United States Code, shall submit to Congress and make publicly available a report described in paragraph (1)(B)—
     >   - **(A)** not later than 1 year after the date of enactment of the Stop Secret Spending Act of 2025; and
     >   - **(B)** not less than frequently than once every 2 years after the date described in subparagraph (A) until the date that is 10 years after the date of enactment of the Stop Secret Spending Act of 2025 on the date of submission of the report required under section 3521(f) or 9105(a)(3) of title 31, United States Code, for the applicable fiscal year.
 
@@ -80,4 +80,4 @@ This Act may be cited as the “Stop Secret Spending Act of 2025”.
 
 ## § 4. GAO report
 
-Not later than 1 year after the date of enactment of this Act, the Comptroller General of the United States shall make recommendations for any updates the Comptroller General of the United States determines advisable to clause 52.204.1052.204—10 of the Federal Acquisition Regulation with respect to incorporating requirements under the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note).
+Not later than 1 year after the date of enactment of this Act, the Comptroller General of the United States shall make recommendations for any updates the Comptroller General of the United States determines advisable to clause 52.204–10 of the Federal Acquisition Regulation with respect to incorporating requirements under the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note).

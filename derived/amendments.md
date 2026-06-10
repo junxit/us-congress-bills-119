@@ -1,7 +1,7 @@
 ---
 measure: S. 872
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -44,12 +44,12 @@ to guess them.
 
 ### 31 U.S.C. § 6101
 
-> in the matter preceding subparagraph (A), by striking “each Federal agency” and inserting “each agency described in paragraphs (1) and (2) paragraph (1) or (2) of section 901(b) of title 31, United States Code”;
+> in the matter preceding subparagraph (A), by striking “each Federal agency” and inserting “each agency described in paragraph (1) or (2) of section 901(b) of title 31, United States Code”;
 
 | | |
 |---|---|
 | Removed | `each Federal agency` |
-| Inserted | `each agency described in paragraphs (1) and (2) paragraph (1) or (2) of section 901(b) of title 31, United States Code` |
+| Inserted | `each agency described in paragraph (1) or (2) of section 901(b) of title 31, United States Code` |
 
 ### 31 U.S.C. § 6101
 
@@ -96,7 +96,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `31 U.S.C. § 6101` | amend | in clause (ii), by adding “orand” and the end; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `31 U.S.C. § 6101` | amend | in clause (ii), by adding “or” and the end; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `31 U.S.C. § 6101` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `31 U.S.C. § 6101` | add-at-end | Section 4 of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `31 U.S.C. § 6101` | add-at-end | Section 2 of the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
