@@ -1,7 +1,7 @@
 ---
 measure: S. 1890
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1890
@@ -34,3 +34,5 @@ Carla Walker Act
 - 2026-05-20 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
 - 2026-05-20 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
 - 2026-05-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 419.
+- 2026-06-10 — Passed Senate with an amendment by Voice Vote. (consideration: CR S2724-2727; text of amendment in the nature of a substitute: CR S2724-2726)
+- 2026-06-10 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.

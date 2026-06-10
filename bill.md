@@ -17,12 +17,12 @@ This Act may be cited as the “Carla Walker Act”.
 
 Title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10101 et seq.) is amended by adding at the end the following:
 
-## § 3. DOJ report
+## § 3. Department of Justice report
 
-Not later than 2 years after the date of enactment of this Act, the Attorney General, in consultation with the Forensic Laboratory Needs Working Group of the National Institute of Justice, shall submit to Congress a report—
+Not later than 3 years after the date of enactment of this Act, the Attorney General, in consultation with the Forensic Laboratory Needs Working Group of the National Institute of Justice, shall submit to Congress a report—
 
-- **(1)** on the awards and practices reported the Attorney General under section 3064 of title I of the Omnibus Crime Control and Safe Streets Act of 1968, as added by this Act;
-- **(2)** on forensic genetic genealogy technologies and how best to implement forensic genetic genealogy into publicly funded forensic laboratories; and
-- **(3)** that includes recommendations for—
-  - **(A)** implementing forensic investigative genetic genealogy technology, including expected funding needs; and
-  - **(B)** necessary regulations for the use of forensic investigative genetic genealogy technology.
+- **(1)** on the awards and practices reported to the Attorney General under section 3065 of title I of the Omnibus Crime Control and Safe Streets Act of 1968, as added by this Act;
+- **(2)** on forensic genetic genealogy analysis technologies and how best to implement forensic genetic genealogy analysis for eligible entities (as defined in section 3063(a) of title I of the Omnibus Crime Control and Safe Streets Act of 1968, as added by this Act); and
+- **(3)** that includes any recommendations relating to—
+  - **(A)** expected funding needs; and
+  - **(B)** whether regulations are needed for the use of forensic genetic genealogy analysis technology.
