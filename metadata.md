@@ -1,7 +1,7 @@
 ---
 measure: S. 825
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 825
@@ -50,3 +50,5 @@ Fighting Post-Traumatic Stress Disorder Act of 2025
 - 2026-05-19 — Committee on the Judiciary. Reported by Senator Grassley with amendments. Without written report.
 - 2026-05-19 — Committee on the Judiciary. Reported by Senator Grassley with amendments. Without written report.
 - 2026-05-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 411.
+- 2026-06-10 — Passed Senate with amendments by Voice Vote. (consideration: CR S2723, S2726-2727; text: CR S2726-2727)
+- 2026-06-10 — Passed/agreed to in Senate: Passed Senate with amendments by Voice Vote.
