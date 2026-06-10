@@ -17,12 +17,12 @@ This Act may be cited as the “Promoting Police Leadership Act”.
 
 - **(a)** *Definitions* Section 901(a) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10251(a)) is amended—
   - **(1)** in paragraph (32), by striking “and” at the end;
-  - **(2)** in paragraph (33), by striking the period at the end and inserting a semicolon; and
+  - **(2)** in paragraph (33)(B), by striking the period at the end and inserting “; and”; and
   - **(3)** by adding at the end the following:
     > - **(34)** the term command-level personnel means law enforcement officers employed by a State, local, or Tribal law enforcement agency whose responsibilities include managing, directing, or overseeing law enforcement operations within a geographic subunit of the jurisdiction in which such agency has primary responsibility for law enforcement activities.
 
-- **(b)** *COPS program* Section 1701 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10381) is amended by adding at the end the following:
-  > - **(q)** *Training in improving police command-Level personnel leadership, management, and effectiveness*
+- **(b)** *Cops program* Section 1701 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10381) is amended by adding at the end the following:
+  > - **(q)** *Training in improving police command-level personnel leadership, management, and effectiveness*
   >   - **(1)** *Training curricula*
   >     - **(A)** *In general* Not later than 180 days after the date of enactment of this subsection, the Attorney General shall develop training curricula or identify effective existing training curricula for command-level personnel relating to—
   >       - **(i)** leadership and strategic thinking;
@@ -39,7 +39,7 @@ This Act may be cited as the “Promoting Police Leadership Act”.
   >         - **(II)** receive feedback from curriculum instructors and other participating command-level personnel to refine the proposed solution accordingly to meet the needs of the law enforcement agency and community served; and
   >         - **(III)** present a final, implementable product emphasizing evidence-based strategies to program instructors and the command-level personnel’s district or geographic command; and
   >       - **(iii)** the incorporation of pre-course and post-course assessments to measure knowledge acquisition and leadership competencies relevant to the training curricula.
-  >     - **(C)** *Consultation* The Attorney General shall develop and identify training curricula under this paragraph in consultation with relevant law enforcement agencies of States and units of local government, universities with appropriate law-enforcement or leadership programs, and any other entities the Attorney General determines appropriate.
+  >     - **(C)** *Consultation* The Attorney General shall develop and identify training curricula under this paragraph in consultation with relevant law enforcement agencies of States and units of local government, organizations and fraternal associations representing law enforcement officers, universities with appropriate law enforcement or leadership programs, and any other entities the Attorney General determines appropriate.
   >   - **(2)** *Certified programs and courses*
   >     - **(A)** *In general* Not later than 180 days after the date on which training curricula are developed or identified under paragraph (1), the Attorney General shall establish a process to—
   >       - **(i)** certify training programs and courses offered to command-level personnel which incorporate 1 or more of the training curricula developed or identified under paragraph (1), or equivalents to such training curricula, which may include certifying training programs or courses offered on or before the date on which the Attorney General establishes the process; and
@@ -51,12 +51,12 @@ This Act may be cited as the “Promoting Police Leadership Act”.
 
 ## § 3. Attorney General reports
 
-- **(1)** *In general* Not later than 2 years after the date of enactment of this Act, and annually thereafter until the date that is 3 years after the date of enactment of this Act, the Attorney General shall submit to Congress a report on the activities carried out as a result of the amendments made under section 2.
-- **(2)** *Contents* Each report under paragraph (1) shall include, at a minimum, information on—
-  - **(A)** steps taken by the Attorney General to develop or identify curricula under section 1701(q)(1) of the Omnibus Crime Control and Safe Streets Act of 1968, as added by section 2;
-  - **(B)** any assessments conducted or identified by the Attorney General on the effectiveness and utilization of curricula developed or identified under section 1701(q)(1) of the Omnibus Crime Control and Safe Streets Act of 1968, as added by section 2;
-  - **(C)** recommendations for curriculum updates and improvements; and
-  - **(D)** barriers to training implementation.
+- **(a)** *In general* Not later than 2 years after the date of enactment of this Act, and annually thereafter until the date that is 3 years after the date of enactment of this Act, the Attorney General shall submit to Congress a report on the activities carried out as a result of the amendments made under section 2.
+- **(b)** *Contents* Each report under subsection (a) shall include, at a minimum, information on—
+  - **(1)** steps taken by the Attorney General to develop or identify curricula under section 1701(q)(1) of the Omnibus Crime Control and Safe Streets Act of 1968, as added by section 2;
+  - **(2)** any assessments conducted or identified by the Attorney General on the effectiveness and utilization of curricula developed or identified under section 1701(q)(1) of the Omnibus Crime Control and Safe Streets Act of 1968, as added by section 2;
+  - **(3)** recommendations for curriculum updates and improvements; and
+  - **(4)** barriers to training implementation.
 
 ## § 4. GAO report
 

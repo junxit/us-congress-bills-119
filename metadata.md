@@ -1,7 +1,7 @@
 ---
 measure: S. 4394
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 4394
@@ -16,7 +16,7 @@ Promoting Police Leadership Act
 
 - Sen. Cornyn, John [R-TX] (C001056)
 
-## Cosponsors (13)
+## Cosponsors (14)
 
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
 - Sen. Graham, Lindsey [R-SC] (G000359)
@@ -31,6 +31,7 @@ Promoting Police Leadership Act
 - Sen. Padilla, Alex [D-CA] (P000145)
 - Sen. Welch, Peter [D-VT] (W000800)
 - Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
 
 ## Committees (1)
 
@@ -44,3 +45,5 @@ Promoting Police Leadership Act
 - 2026-05-19 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
 - 2026-05-19 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
 - 2026-05-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 414.
+- 2026-06-10 — Passed Senate with an amendment by Voice Vote. (consideration: CR S2724, S2727; text of amendment in the nature of a substitute: CR S2724)
+- 2026-06-10 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
