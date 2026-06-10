@@ -13,13 +13,17 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 This Act may be cited as the “Tribal Warrant Fairness Act”.
 
-## § 2. Amendments
+## § 2. Definition
+
+In this Act, the term Indian Tribe means any Indian or Alaska Native tribe, band, nation, pueblo, village, community, component band, or component reservation individually identified (including parenthetically) on the most recent list published by the Secretary of the Interior under section 104 of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 5131).
+
+## § 3. Amendments
 
 - **(a)** *U.S. Marshals Service* Section 566(e)(1) of title 28, United States Code, is amended—
-  - **(1)** in subparagraph (B), by inserting “including Tribal fugitive matters (on the request of an Indian Tribe, as applicable),” after “matters,”; and
+  - **(1)** in subparagraph (B), by inserting “including Tribal fugitive matters (on the request of an Indian Tribe, as defined in section 2 of the Tribal Warrant Fairness Act, as applicable),” after “matters,”; and
   - **(2)** in subparagraph (D), by inserting “Tribal,” after “local,”.
 - **(b)** *Presidential Threat Protection Act of 2000* Section 6 of the Presidential Threat Protection Act of 2000 (34 U.S.C. 41503) is amended—
   - **(1)** in subsection (a)—
-    - **(A)** by inserting “and Indian Tribes” after “components”; and
+    - **(A)** by inserting “and Indian Tribes, as defined in section 2 of the Tribal Warrant Fairness Act” after “components”; and
     - **(B)** by striking “and local” and inserting “local, and Tribal”; and
   - **(2)** in subsection (c), by striking “Federal or State law” and inserting “Federal, State, or Tribal law”.

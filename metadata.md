@@ -1,7 +1,7 @@
 ---
 measure: S. 3041
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3041
@@ -16,7 +16,7 @@ Tribal Warrant Fairness Act
 
 - Sen. Cortez Masto, Catherine [D-NV] (C001113)
 
-## Cosponsors (13)
+## Cosponsors (15)
 
 - Sen. Mullin, Markwayne [R-OK] (M001190)
 - Sen. Tillis, Thomas [R-NC] (T000476)
@@ -31,6 +31,8 @@ Tribal Warrant Fairness Act
 - Sen. Welch, Peter [D-VT] (W000800)
 - Sen. Booker, Cory A. [D-NJ] (B001288)
 - Sen. Cruz, Ted [R-TX] (C001098)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Armstrong, Alan [R-OK] (A000383)
 
 ## Committees (1)
 
@@ -44,3 +46,5 @@ Tribal Warrant Fairness Act
 - 2026-05-19 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
 - 2026-05-19 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
 - 2026-05-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 412.
+- 2026-06-10 — Passed Senate with an amendment by Voice Vote. (consideration: CR S2723-2724, S2727; text of amendment in the nature of a substitute: CR S2723-2724)
+- 2026-06-10 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
