@@ -1,7 +1,7 @@
 ---
 measure: S. 736
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 736
@@ -16,7 +16,7 @@ Lieutenant Osvaldo Albarati Stopping Prison Contraband Act
 
 - Sen. Grassley, Chuck [R-IA] (G000386)
 
-## Cosponsors (15)
+## Cosponsors (17)
 
 - Sen. Ossoff, Jon [D-GA] (O000174)
 - Sen. Hyde-Smith, Cindy [R-MS] (H001079)
@@ -33,6 +33,8 @@ Lieutenant Osvaldo Albarati Stopping Prison Contraband Act
 - Sen. Padilla, Alex [D-CA] (P000145)
 - Sen. Welch, Peter [D-VT] (W000800)
 - Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Lankford, James [R-OK] (L000575)
 
 ## Committees (1)
 
@@ -46,3 +48,5 @@ Lieutenant Osvaldo Albarati Stopping Prison Contraband Act
 - 2026-05-19 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
 - 2026-05-19 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
 - 2026-05-19 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 410.
+- 2026-06-10 — Passed Senate without amendment by Voice Vote. (consideration: CR S2723, S2726; text: CR S2726)
+- 2026-06-10 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
