@@ -17,14 +17,14 @@ This Act may be cited as the “Taxpayer Funds Oversight and Accountability Act�
 
 - **(a)** *Chief financial officer and deputy chief financial officer* Chapter 9 of title 31, United States Code, is amended—
   - **(1)** in section 902(a)—
-    - **(A)** in the matter preceding paragraph (1), by striking “An” and inserting “It shall be the duty and responsibility of each agency Chief Financial Officer to oversee and, unless otherwise specified in law, provide leadership in the areas of budget formulation and execution, planning and performance, risk management, internal controls, financial systems, accounting, and other areas as designated by the Deputy Director of Management under the authorities described in section 503. In carrying out the preceding sentence, each”;
+    - **(A)** in the matter preceding paragraph (1), by striking “An” and inserting “It shall be the duty and responsibility of each agency Chief Financial Officer to oversee and, unless specified otherwise in law, provide leadership in the areas of budget formulation and execution, planning and performance, risk management, internal controls, financial systems, accounting, and other areas as designated by the Deputy Director of Management under their authorities described in section 503 of this title. In carrying out the preceding sentence, each”;
     - **(B)** in paragraph (3)—
       - **(i)** in subparagraph (C), by inserting “areas and” before “systems”; and
       - **(ii)** in subparagraph (D)—
         - **(I)** in clause (iii), by striking “and” at the end;
         - **(II)** in clause (iv), by striking “performance;” and inserting “performance and integration of performance and cost information; and”; and
         - **(III)** by adding at the end the following:
-          > - **(v)** annual agency financial statements prepared in accordance with applicable accounting standards as determined by the Director of the Office of Management and Budget consistent with section 3512;
+          > - **(v)** annual agency financial statements prepared in accordance with applicable accounting standards;
 
     - **(C)** by redesignating paragraphs (5), (6), (7), and (8) as paragraphs (7), (8), (9), and (11) respectively;
     - **(D)** by inserting after paragraph (4) the following:
@@ -52,7 +52,7 @@ This Act may be cited as the “Taxpayer Funds Oversight and Accountability Act�
           > of—
           > - **(i)** the reports
 
-        - **(II)** in clause (i), as so designated, by striking “the amendments made by the Federal Managers’ Financial Integrity Act of 1982 (Public law 97–255); and” and inserting “section 3512(d) of this title;”; and
+        - **(II)** in clause (i), as so designated, by striking “the amendments made by the Federal Managers’ Financial Integrity Act of 1982 (Public Law 97–255); and” and inserting “section 3512(d) of this title; and”; and
         - **(III)** by adding at the end the following:
           > - **(ii)** the reporting of the agency under the Federal Financial Management Improvement Act of 1996 (31 U.S.C. 3512 note); and
 
@@ -60,13 +60,13 @@ This Act may be cited as the “Taxpayer Funds Oversight and Accountability Act�
       - **(i)** by striking “monitor the” and insert “manage the formulation and”; and
       - **(ii)** by striking “, and prepare and submit to the head of the agency timely performance reports; and” and inserting a semicolon;
     - **(H)** by inserting after paragraph (9), as so redesignated, the following:
-      > - **(10)** coordinate with the responsible agency official to ensure performance and cost information are linked, including in the preparation and submission to the head of the agency of timely performance reports that incorporate cost information;
+      > - **(10)** coordinating with the responsible agency official to ensure performance and cost information are linked, including in the preparation and submission to the head of the agency of timely performance reports that incorporate cost information;
 
     - **(I)** in paragraph (11), as so redesignated—
       - **(i)** by inserting “inflation and” before “costs”; and
       - **(ii)** by striking the period at the end and inserting “; and”; and
     - **(J)** by adding at the end the following:
-      > - **(12)** coordinate with senior agency personnel, including those with statutory, regulatory, and related policy responsibility, which may include the Chief Data Officer, Chief Information Officer, Chief Performance Officer, Chief Acquisition Officer, Chief Risk Officer, and Chief Evaluation Officer of the agency on—
+      > - **(12)** coordinate with senior agency personnel, including but not limited to, those with statutory, regulatory, and related policy responsibility which may include the Chief Data Officer, Chief Information Officer, Chief Performance Officer, Chief Acquisition Officer, Chief Risk Officer, and Chief Evaluation Officer of the agency on—
       >   - **(A)** the exercise of authorities under this subsection; and
       >   - **(B)** the strategic planning, performance measurement and reporting, and risk management functions of the agency.
 
@@ -77,7 +77,7 @@ This Act may be cited as the “Taxpayer Funds Oversight and Accountability Act�
 
 - **(b)** *Governmentwide financial management plan* Section 3512 of title 31, United States Code, is amended—
   - **(1)** in subsection (a)—
-    - **(A)** in paragraph (1), by striking “a financial management status report and a governmentwide 5-year financial management plan” and inserting “a governmentwide 4-year financial management plan, to be included within the President’s Management Agenda, and a financial management status report”;
+    - **(A)** in paragraph (1), by striking “a financial management status report and a governmentwide 5-year financial management plan” and inserting “a governmentwide 4-year financial management plan, to be included within the Federal Government performance plan described in section 1115, and a financial management status report”;
     - **(B)** by striking paragraph (2);
     - **(C)** by redesignating paragraph (3) as paragraph (2);
     - **(D)** in paragraph (2), as so redesignated—
@@ -87,9 +87,9 @@ This Act may be cited as the “Taxpayer Funds Oversight and Accountability Act�
           > shall—
           > - **(i)** describe
 
-        - **(III)** in clause (i), as so designated, by striking “5 fiscal years to improve the financial management of the Federal Government.” and inserting “4 fiscal years to improve the financial management of the Federal Government in a manner that is strategic, comprehensive, and cost-effective; and”; and
+        - **(III)** in clause (i), as so redesignated, by striking “5 fiscal years to improve the financial management of the Federal Government.” and inserting “4 fiscal years to improve the financial management of the Federal Government in a manner that is strategic, comprehensive, and cost-effective, and shall also include strategies for enabling data sharing in accordance with applicable law and joint fraud prevention initiatives with State (meaning a State of the United States, the District of Columbia, a territory or possession of the United States, or a federally recognized Indian tribe) and local governments that administer federally funded programs or disburse Federal funds on behalf of the Federal Government; and”; and
         - **(IV)** by adding at the end the following:
-          > - **(ii)** be developed in consultation with the Chief Financial Officers Council and, as appropriate, other councils and financial management experts as determined by the Director of the Office of Management and Budget. in consultation with the Chief Financial Officers Council.
+          > - **(ii)** be developed in consultation with the Chief Financial Officers Council and, as appropriate, other councils and financial management experts, including the Chief Information Officers Council, the Chief Data Officer Council, the Chief Acquisition Officers Council, and the Government Accountability Office, as determined by the Director of the Office of Management and Budget in consultation with the Chief Financial Officers Council.
 
       - **(ii)** in subparagraph (B)—
         - **(I)** in the matter preceding clause (i), by striking “5-year” and inserting “4-year”;
@@ -99,7 +99,7 @@ This Act may be cited as the “Taxpayer Funds Oversight and Accountability Act�
             > - **(I)** developing
 
           - **(bb)** by adding at the end the following:
-            > - **(II)** describing how performance and cost information are linked in order to facilitate effective and efficient decision making;
+            > - **(II)** describe how performance and cost information are linked in order to facilitate effective and efficient decision making;
             > - **(III)** eliminating duplicative and unnecessary systems and activities; and
             > - **(IV)** identifying opportunities for agencies to share systems and services and encouraging agencies to do so where practicable;
 
@@ -158,7 +158,7 @@ This Act may be cited as the “Taxpayer Funds Oversight and Accountability Act�
     >   - **(1)** in establishing the internal accounting and administrative controls under subsection (c), identify the key financial management information needed for effective financial management and decision making, which shall include a consideration of—
     >     - **(A)** the agency spending data required to be published under the Federal Funding Accountability and Transparency Act of 2006 (31 U.S.C. 6101 note); and
     >     - **(B)** the information used by the agency to report on improper payments under section 3352 of this title; and
-    >   - **(2)** annually assess and make a conclusion on the effectiveness of the internal controls of the executive agency over financial reporting and key financial management information identified under paragraph (1), consistent with guidance provided by the Director of the Office of Management and Budget.
+    >   - **(2)** annually assess and make a conclusion on the effectiveness of the internal controls of the executive agency over financial reporting and key financial management information identified under paragraph (1) consistent with guidance provided by the Director of the Office of Management and Budget.
 
 - **(c)** *Technical and conforming amendment* Section 3348(e) of title 5, United States Code, is amended—
   - **(1)** in paragraph (3), by adding “or” at the end;

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8340
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -26,12 +26,12 @@ to guess them.
 
 ### 31 U.S.C. § 3512
 
-> in the matter preceding paragraph (1), by striking “An” and inserting “It shall be the duty and responsibility of each agency Chief Financial Officer to oversee and, unless otherwise specified in law, provide leadership in the areas of budget formulation and execution, planning and performance, risk management, internal controls, financial systems, accounting, and other areas as designated by the Deputy Director of Management under the authorities described in section 503. In carrying out the preceding sentence, each”;
+> in the matter preceding paragraph (1), by striking “An” and inserting “It shall be the duty and responsibility of each agency Chief Financial Officer to oversee and, unless specified otherwise in law, provide leadership in the areas of budget formulation and execution, planning and performance, risk management, internal controls, financial systems, accounting, and other areas as designated by the Deputy Director of Management under their authorities described in section 503 of this title. In carrying out the preceding sentence, each”;
 
 | | |
 |---|---|
 | Removed | `An` |
-| Inserted | `It shall be the duty and responsibility of each agency Chief Financial Officer to oversee and, unless otherwise specified in law, provide leadership in the areas of budget formulation and execution, planning and performance, risk management, internal controls, financial systems, accounting, and other areas as designated by the Deputy Director of Management under the authorities described in section 503. In carrying out the preceding sentence, each` |
+| Inserted | `It shall be the duty and responsibility of each agency Chief Financial Officer to oversee and, unless specified otherwise in law, provide leadership in the areas of budget formulation and execution, planning and performance, risk management, internal controls, financial systems, accounting, and other areas as designated by the Deputy Director of Management under their authorities described in section 503 of this title. In carrying out the preceding sentence, each` |
 
 ### 31 U.S.C. § 3512
 
@@ -53,12 +53,12 @@ to guess them.
 
 ### 31 U.S.C. § 3512
 
-> in clause (i), as so designated, by striking “the amendments made by the Federal Managers’ Financial Integrity Act of 1982 (Public law 97–255); and” and inserting “section 3512(d) of this title;”; and
+> in clause (i), as so designated, by striking “the amendments made by the Federal Managers’ Financial Integrity Act of 1982 (Public Law 97–255); and” and inserting “section 3512(d) of this title; and”; and
 
 | | |
 |---|---|
-| Removed | `the amendments made by the Federal Managers’ Financial Integrity Act of 1982 (Public law 97–255); and` |
-| Inserted | `section 3512(d) of this title;` |
+| Removed | `the amendments made by the Federal Managers’ Financial Integrity Act of 1982 (Public Law 97–255); and` |
+| Inserted | `section 3512(d) of this title; and` |
 
 ### 31 U.S.C. § 3512
 
@@ -71,12 +71,12 @@ to guess them.
 
 ### 31 U.S.C. § 3512
 
-> in paragraph (1), by striking “a financial management status report and a governmentwide 5-year financial management plan” and inserting “a governmentwide 4-year financial management plan, to be included within the President’s Management Agenda, and a financial management status report”;
+> in paragraph (1), by striking “a financial management status report and a governmentwide 5-year financial management plan” and inserting “a governmentwide 4-year financial management plan, to be included within the Federal Government performance plan described in section 1115, and a financial management status report”;
 
 | | |
 |---|---|
 | Removed | `a financial management status report and a governmentwide 5-year financial management plan` |
-| Inserted | `a governmentwide 4-year financial management plan, to be included within the President’s Management Agenda, and a financial management status report` |
+| Inserted | `a governmentwide 4-year financial management plan, to be included within the Federal Government performance plan described in section 1115, and a financial management status report` |
 
 ### 31 U.S.C. § 3512
 
@@ -89,12 +89,12 @@ to guess them.
 
 ### 31 U.S.C. § 3512
 
-> in clause (i), as so designated, by striking “5 fiscal years to improve the financial management of the Federal Government.” and inserting “4 fiscal years to improve the financial management of the Federal Government in a manner that is strategic, comprehensive, and cost-effective; and”; and
+> in clause (i), as so redesignated, by striking “5 fiscal years to improve the financial management of the Federal Government.” and inserting “4 fiscal years to improve the financial management of the Federal Government in a manner that is strategic, comprehensive, and cost-effective, and shall also include strategies for enabling data sharing in accordance with applicable law and joint fraud prevention initiatives with State (meaning a State of the United States, the District of Columbia, a territory or possession of the United States, or a federally recognized Indian tribe) and local governments that administer federally funded programs or disburse Federal funds on behalf of the Federal Government; and”; and
 
 | | |
 |---|---|
 | Removed | `5 fiscal years to improve the financial management of the Federal Government.` |
-| Inserted | `4 fiscal years to improve the financial management of the Federal Government in a manner that is strategic, comprehensive, and cost-effective; and` |
+| Inserted | `4 fiscal years to improve the financial management of the Federal Government in a manner that is strategic, comprehensive, and cost-effective, and shall also include strategies for enabling data sharing in accordance with applicable law and joint fraud prevention initiatives with State (meaning a State of the United States, the District of Columbia, a territory or possession of the United States, or a federally recognized Indian tribe) and local governments that administer federally funded programs or disburse Federal funds on behalf of the Federal Government; and` |
 
 ### 31 U.S.C. § 3512
 
