@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 109
 congress: 119
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.Con.Res. 109
