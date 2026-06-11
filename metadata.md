@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4238
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4238
@@ -16,7 +16,7 @@ DLARA
 
 - Rep. Moore, Tim [R-NC-14] (M001236)
 
-## Cosponsors (10)
+## Cosponsors (19)
 
 - Rep. Davis, Donald G. [D-NC-1] (D000230)
 - Rep. Edwards, Chuck [R-NC-11] (E000246)
@@ -28,6 +28,15 @@ DLARA
 - Rep. Ciscomani, Juan [R-AZ-6] (C001133)
 - Rep. Rouzer, David [R-NC-7] (R000603)
 - Rep. Wilson, Joe [R-SC-2] (W000795)
+- Rep. LaMalfa, Doug [R-CA-1] (L000578)
+- Rep. Taylor, David J. [R-OH-2] (T000490)
+- Rep. Harrigan, Pat [R-NC-10] (H001101)
+- Rep. Flood, Mike [R-NE-1] (F000474)
+- Rep. Begich, Nicholas J. [R-AK-At Large] (B001323)
+- Rep. Shreve, Jefferson [R-IN-6] (S001229)
+- Rep. Luna, Anna Paulina [R-FL-13] (L000596)
+- Rep. Meuser, Daniel [R-PA-9] (M001204)
+- Rep. Goodlander, Maggie [D-NH-2] (G000604)
 
 ## Committees (2)
 
@@ -40,3 +49,10 @@ DLARA
 - 2025-06-27 — Introduced in House
 - 2025-06-27 — Referred to the Committee on Small Business, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2025-06-27 — Referred to the Committee on Small Business, and in addition to the Committee on the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2026-05-20 — Committee Consideration and Mark-up Session Held
+- 2026-05-20 — Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 23 - 0.
+- 2026-06-11 — Committee on the Budget discharged.
+- 2026-06-11 — Committee on the Budget discharged.
+- 2026-06-11 — Placed on the Union Calendar, Calendar No. 603.
+- 2026-06-11 — Reported (Amended) by the Committee on Small Business. H. Rept. 119-695, Part I.
+- 2026-06-11 — Reported (Amended) by the Committee on Small Business. H. Rept. 119-695, Part I.

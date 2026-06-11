@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4238
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-13 amendatory instructions. 1 executed, 12 stated and not applied.
+11 amendatory instructions. 1 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -52,5 +52,3 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 636` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 636` | redesignate | by redesignating the second paragraph designated as paragraph (16), relating to statute of limitations, as added by the COVID–19 EIDL Fraud Statute of Limitations Act of 2022 (Public Law 117–165; 136 Stat. 1363), as paragraph (18); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 636` | insert | by inserting after paragraph (16), relating to disaster declarations in rural areas, as added by the Disaster Assistance for Rural Communities Act (Public Law 117–249; 136 Stat. 2350), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 636` | strike | by striking paragraph (17); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 636` | redesignate | by redesignating paragraph (18) as paragraph (17). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

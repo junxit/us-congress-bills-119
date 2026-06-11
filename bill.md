@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4238
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -61,19 +61,11 @@ Section 1105 of title 31, United States Code, is amended—
 
 ## § 6. Limitations on disaster loans
 
-- **(a)** *Low funding* Section 7(b) of the Small Business Act (15 U.S.C. 636(b)) is amended—
-  - **(1)** by redesignating the second paragraph designated as paragraph (16), relating to statute of limitations, as added by the COVID–19 EIDL Fraud Statute of Limitations Act of 2022 (Public Law 117–165; 136 Stat. 1363), as paragraph (18); and
-  - **(2)** by inserting after paragraph (16), relating to disaster declarations in rural areas, as added by the Disaster Assistance for Rural Communities Act (Public Law 117–249; 136 Stat. 2350), the following:
-    > - **(17)** *Requirements when funding is low*
-    >   - **(A)** *In general* Not later than 24 hours after the unobligated balance of amounts available for the cost of direct loans authorized by this subsection is less than 10 percent of the 10-year average annual cost provided in the most recent Presidential budget request required under section 1105(a)(39)(A) of title 31, United States Code, or, if unavailable, the 10-year average annual cost for the immediately preceding 10-year period of SBA disaster loans (as defined in section 1105(j) of such title), the Administrator shall notify the Committee on Appropriations and the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Appropriations and the Committee on Small Business of the House of Representatives.
-    >   - **(B)** *Limitation on obligating funds* During the period beginning on the first business day occurring on or after the date by which the Administrator is required to notify Congress under subparagraph (A) and ending on the date on which additional amounts are appropriated for such costs, the Administrator may limit the obligation of funds for a direct loan authorized under this subsection to the amount of such a loan for which collateral is required.
-    >   - **(C)** *Authority to limit obligation of funds* In carrying out the authority to enact a limitation under (B), the Administrator shall apply that limitation with respect to amounts obligated for all direct loans authorized under this subsection during the period described in subparagraph (B).
-    >   - **(D)** *Requirement to disburse within 14 days* If the Administrator exercises the authority under (B), the Administrator shall, not later than 14 days after the date on which additional amounts are appropriated under subparagraph (B), obligate and disburse on a regular schedule any remaining amount outstanding on a direct loan authorized under this subsection.
+Section 7(b) of the Small Business Act (15 U.S.C. 636(b)) is amended—
 
-- **(b)** *Sunset* Effective on the date that is 4 years after the date of enactment of this Act, section 7(b) of the Small Business Act (15 U.S.C. 636(b)) is amended—
-  - **(1)** by striking paragraph (17); and
-  - **(2)** by redesignating paragraph (18) as paragraph (17).
-- **(c)** *Report* Not later than 1 year after the date of enactment of this Act, in the event that the Administrator exercises the authority described in paragraph (17)(B) of section 7(b) of the Small Business Act (15 U.S.C. 636(b)), as added by subsection (a), the Comptroller General of the United States shall submit to the appropriate committees of Congress a report assessing the actual and potential impact of the amendments made by subsection (a) during the period covered by the report.
+- **(1)** by redesignating the second paragraph designated as paragraph (16), relating to statute of limitations, as added by the COVID–19 EIDL Fraud Statute of Limitations Act of 2022 (Public Law 117–165; 136 Stat. 1363), as paragraph (18); and
+- **(2)** by inserting after paragraph (16), relating to disaster declarations in rural areas, as added by the Disaster Assistance for Rural Communities Act (Public Law 117–249; 136 Stat. 2350), the following:
+  > - **(17)** *Requirements when funding is low* Not later than 24 hours after the unobligated balance of amounts available for the cost of direct loans authorized by this subsection is less than 10 percent of the 10-year average annual cost provided in the most recent Presidential budget request required under section 1105(a)(39)(A) of title 31, United States Code, or, if unavailable, the 10-year average annual cost for the immediately preceding 10-year period of SBA disaster loans (as defined in section 1105(j) of such title), the Administrator shall notify the Committee on Appropriations and the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Appropriations and the Committee on Small Business of the House of Representatives.
 
 ## § 7. GAO report on SBA disaster loan account
 
@@ -92,29 +84,7 @@ Section 1105 of title 31, United States Code, is amended—
   - **(1)** the cost (as defined in section 502 of the Federal Credit Reform Act of 1990 (2 U.S.C. 661a)) of the increase in the home loan lending limits for, the extension of the deferment period for, the expansion of mitigation options for, the modifications to the criteria for determining whether applicants can obtain credit elsewhere with respect to, the changes to collateral requirements for, and other changes to the terms and conditions of loans under section 7(b)(1) of the Small Business Act (15 U.S.C. 636(b)(1)) made by the covered final rules; and
   - **(2)** the effect on the subsidy for such loans of the changes contained in the covered final rules.
 
-## § 9. SBA Inspector General review
-
-- **(a)** *Definitions* In this section—
-  - **(1)** the term covered amounts means amounts made available for the cost of direct loans authorized by section 7(b) of the Small Business Act (15 U.S.C. 636(b)); and
-  - **(2)** the term Inspector General means the Inspector General of the Administration.
-- **(b)** *Review*
-  - **(1)** *In general* The Inspector General shall conduct a review of the circumstances surrounding the funding shortfall with respect to covered amounts, as described in—
-    - **(A)** the letter from President Joseph R. Biden, Jr. entitled “Letter to Congress on Disaster Needs”, dated October 4, 2024; and
-    - **(B)** the letter from the Administrator submitted to the Chair and Ranking Members of the Committees on Appropriations of the Senate and the House of Representatives, dated October 10, 2024.
-  - **(2)** *Contents* The review required under paragraph (1) shall include the following with respect to the funding shortfall described in that paragraph:
-    - **(A)** The identification of any report or notification required by statute that the Administration failed to provide to Congress with respect to the funding shortfall.
-    - **(B)** The reason for any obligation or expenditure of covered amounts for a purpose that significantly diverged from the purpose for which the covered amounts were made available.
-    - **(C)** An analysis of the accuracy of projections and estimates relevant to the divergences described in subparagraph (B).
-    - **(D)** The identification and description of any internal controls in place to manage covered amounts.
-    - **(E)** An analysis of the impact that any reorganization of the Administration, including the transfer of administrative authority for the program carried out under section 7(b) of the Small Business Act (15 U.S.C. 636(b)) to the Office of Capital Access of the Administration, may have had with respect to the funding shortfall.
-    - **(F)** The identification of actions that the Administration can take to—
-      - **(i)** improve the accuracy of information submitted by the President under section 1105(a) of title 31, United States Code, with respect to the Administration;
-      - **(ii)** prevent any future funding shortfall with respect to any account of the Administration; and
-      - **(iii)** improve the reports submitted to the appropriate committees of Congress under section 12091(a) of the Small Business Disaster Response and Loan Improvements Act of 2008 (15 U.S.C. 636k(a)).
-    - **(G)** Any other matter determined relevant by the Inspector General.
-- **(c)** *Report* Not later than 180 days after the date of enactment of this Act, the Inspector General shall submit to the appropriate committees of Congress a report that contains the findings of the review carried out under subsection (b).
-
-## § 10. Budget and forecasting report regarding the cost of direct disaster loans
+## § 9. Budget and forecasting report regarding the cost of direct disaster loans
 
 - **(a)** *Budget formulation and forecasting* Not later than 30 days after the date of enactment of this Act, the Administrator shall submit to the appropriate committees of Congress a report detailing corrections the Administration will make to improve forecasting, data quality, and budget assumptions relating to budget submissions relating to amounts made available for the cost of SBA disaster loans.
 - **(b)** *Updates* Not later than 90 days after the date of enactment of this Act, and every 90 days thereafter until the date that is 90 days after the date on which all the corrections described in subsection (a) have been implemented, the Administrator shall submit to the appropriate committees of Congress a report—
