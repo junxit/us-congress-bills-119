@@ -1,7 +1,7 @@
 ---
 measure: S. 2033
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2033
@@ -29,3 +29,5 @@ Cross-Boundary Wildfire Solutions Act
 - 2026-06-08 — Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment in the nature of a substitute. Without written report.
 - 2026-06-08 — Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment in the nature of a substitute. Without written report.
 - 2026-06-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 430.
+- 2026-06-11 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S2747-2748; text: CR S2748)
+- 2026-06-11 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent. (consideration: CR S2747-2748; text: CR S2748)

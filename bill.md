@@ -21,6 +21,6 @@ This Act may be cited as the “Cross-Boundary Wildfire Solutions Act”.
   - **(3)** the activities carried out pursuant to subsection (e) of section 103 of the Healthy Forests Restoration Act of 2003 (16 U.S.C. 6513), including—
     - **(A)** how to improve the efficacy of such activities with respect to mitigating wildfire; and
     - **(B)** whether the enactment of such subsection has increased the access of Federal land management agencies and States to funding to mitigate wildfires.
-- **(b)** *Report* Not later than 2 years after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report that contains—
+- **(b)** *Report* Not later than 2 years after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Natural Resources and the Committee on Agriculture of the House of Representatives and the Committee on Energy and Natural Resources and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that contains—
   - **(1)** the results of the study required under subsection (a); and
   - **(2)** recommendations to simplify cross-boundary wildfire mitigation between Federal land management agencies and State, local, and Tribal governments.
