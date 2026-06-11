@@ -1,0 +1,111 @@
+---
+legis-num: H.R. 9271
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 9271
+
+> To authorize sitting Governors to conduct health and safety oversight inspections of immigration detention facilities located within their states, and to establish a reporting mechanism to Congress on conditions found therein.
+
+## § 1. Short title
+
+This Act may be cited as the “Governors’ Right to Inspect Act of 2026”.
+
+## § 2. Findings and purpose
+
+- **(a)** *Findings* Congress finds as follows:
+  - **(1)** The United States detains over 70,000 individuals in immigration detention facilities at any given time—the highest number in at least two decades—in facilities operated both directly by U.S. Immigration and Customs Enforcement (ICE) and by private contractors under Federal contract.
+  - **(2)** Nearly 50 individuals have died in ICE custody since the start of 2025, the highest death toll in at least twenty years, raising urgent concerns about the adequacy of medical care and conditions of confinement across the Federal detention system.
+  - **(3)** Credible reports from detainees, attorneys, and elected officials at Delaney Hall detention center in Newark, New Jersey—a privately operated, 1,000-bed facility run by GEO Group under Federal contract—have documented overcrowding, spoiled food, lack of medical access, and inadequate sanitation, resulting in a hunger and labor strike by approximately 300 detainees in May 2026.
+  - **(4)** New Jersey Governor Mikie Sherrill, exercising her responsibility as the chief executive of the State of New Jersey to protect the health and welfare of individuals within her state’s borders, sought to conduct an in-person oversight visit of Delaney Hall on May 25, 2026, and was denied entry. The Governor stated that the denial of access itself was evidence of serious concern about conditions inside the facility.
+  - **(5)** Governors, as the chief executives of the states in which detention facilities are sited, bear direct public health responsibilities for their residents and have a constitutional and civic interest in ensuring that facilities within their states meet basic health and safety standards.
+  - **(6)** Governors are uniquely well-positioned to conduct independent, on-the-ground health and safety oversight and to communicate findings directly to Congress, supplementing—and where necessary, compensating for gaps in—existing Federal inspection programs.
+- **(b)** *Purpose* The purpose of this Act is solely to authorize health and safety oversight—not to grant Governors any authority to interfere with Federal immigration enforcement operations, detainee custody determinations, or removal proceedings.
+
+## § 3. Definitions
+
+In this Act:
+
+- **(1)** The term authorized oversight official means—
+  - **(A)** the Governor of any State in which a covered facility is located; or
+  - **(B)** any State public health or safety official designated in writing by a Governor solely for purposes of conducting inspections under this Act.
+- **(2)** The term covered facility means any facility located within the United States that is used for the detention of individuals in the custody of the Secretary, including—
+  - **(A)** facilities owned or operated directly by ICE;
+  - **(B)** facilities owned or operated by a private entity pursuant to a contract with the Secretary; and
+  - **(C)** any detention facility of a State or unit of local government pursuant to an intergovernmental service agreement with the Secretary.
+- **(3)** The term health and safety inspection means a visit to a covered facility for the purpose of observing and documenting physical conditions at the covered facility as such conditions relate to the health, safety, and humane treatment of detained individuals, including sanitation, medical care access, food quality, water access, sleeping conditions, temperature, ventilation, and emergency safety systems.
+- **(4)** The term ICE means U.S. Immigration and Customs Enforcement.
+- **(5)** The term Secretary means the Secretary of Homeland Security.
+
+## § 4. Right of access for health and safety oversight
+
+- **(a)** *General authorization* Notwithstanding any other provision of law or policy, no funds appropriated or otherwise made available to the Secretary may be used to prevent an authorized oversight official from entering a covered facility for the purpose of conducting a health and safety inspection.
+- **(b)** *Scope of access* An authorized oversight official conducting a health and safety inspection shall have the right to—
+  - **(1)** access all areas of the covered facility where detainees are housed, fed, provided medical care, or otherwise held;
+  - **(2)** speak privately with detainees, on a voluntary basis, regarding health and safety conditions;
+  - **(3)** review health and safety records of detainees, including food preparation logs, medical treatment records (in aggregate and consistent with applicable privacy laws), and facility maintenance records; and
+  - **(4)** document physical conditions at the covered facility through written notes and photography, subject to reasonable security protocols established by the Secretary pursuant to section 6.
+- **(c)** *No interference with enforcement operations* Nothing in this Act may be construed to authorize any authorized oversight official to—
+  - **(1)** direct, halt, delay, or otherwise interfere with any ICE enforcement action, custody determination, removal proceeding, or transfer of detainees;
+  - **(2)** release or order the release of any detained individual;
+  - **(3)** direct Federal employees or contractors in the performance of their duties;
+  - **(4)** access classified law enforcement information or sensitive law enforcement information unrelated to health and safety conditions; or
+  - **(5)** engage in access for any purpose other than civilian health and safety oversight.
+
+## § 5. Notice requirements
+
+- **(a)** *Governor access* The Governor of a State may conduct a health and safety inspection without prior notice.
+- **(b)** *Designated State officials* An authorized oversight official shall provide advance notice to the Secretary not less than 24 hours before conducting a health and safety inspection. Notice shall be provided in writing to both the facility operator and to the ICE Field Office Director with jurisdiction over the facility.
+
+## § 6. Facility obligations and security protocols
+
+- **(a)** *Duty To cooperate* The operator of a covered facility shall cooperate with a health and safety inspection.
+- **(b)** *Reasonable security protocols* Not later than 90 days after enactment of this Act, the Secretary shall by rule establish reasonable security protocols governing health and safety inspections, which may include—
+  - **(1)** prohibition on weapons within the facility;
+  - **(2)** escort of authorized oversight officials by facility staff;
+  - **(3)** restrictions on photography in areas posing genuine security risks, provided such restrictions are narrowly tailored and do not prevent documentation of health and safety conditions; and
+  - **(4)** prohibition on disclosure of information that could compromise the identity or safety of undercover personnel.
+
+## § 7. Reporting to congress
+
+- **(a)** *Optional reports by Governors* Following any health and safety inspection of a covered facility in a State, the Governor of that State may submit a written report to—
+  - **(1)** the Committee on the Judiciary of the Senate;
+  - **(2)** the Committee on Homeland Security and Governmental Affairs of the Senate;
+  - **(3)** Committee on Appropriations of the Senate;
+  - **(4)** Committee on the Judiciary of the House of Representatives;
+  - **(5)** Committee on Homeland Security of the House of Representatives;
+  - **(6)** Committee on Appropriations of the House of Representatives; or
+  - **(7)** any Member of Congress representing the district or State in which the facility is located.
+- **(b)** *Contents of report* A report submitted under this section may include—
+  - **(1)** the name, location, and operator of the covered facility inspected;
+  - **(2)** the date and duration of the health and safety inspection;
+  - **(3)** observations regarding health and safety conditions, including any deficiencies observed;
+  - **(4)** recommendations for corrective action; and
+  - **(5)** any response or explanation provided by facility operators during or after the inspection.
+- **(c)** *DHS response* Upon receipt of any report submitted under this section, the relevant congressional committees may transmit the report to the Secretary of Homeland Security. The Secretary shall have 60 days to provide a written response addressing any deficiencies identified in the report and any corrective actions taken or planned.
+- **(d)** *Public availability* Reports submitted under this section, and any response of the Secretary thereto, shall be made publicly available on the website of the Secretary, subject to redaction of any information that would compromise facility security or individual privacy.
+
+## § 8. Enforcement and remedies
+
+- **(a)** *Civil Action* An authorized oversight official who is denied access to a covered facility in violation of this Act may bring a civil action in the U.S. district court for the district in which the facility is located for—
+  - **(1)** declaratory relief affirming the right of access;
+  - **(2)** injunctive relief ordering access to the facility; or
+  - **(3)** such other relief as the court deems appropriate.
+- **(b)** *No private right of action for detainees* Nothing in this Act creates a private right of action for any detained individual.
+
+## § 9. Relationship to existing law
+
+- **(a)** *Supplemental authority* The access granted to authorized oversight officials under this Act is supplemental to, and does not limit, any rights existing under—
+  - **(1)** any State law providing health and safety inspection authority over private detention facilities; or
+  - **(2)** any existing intergovernmental agreement between a State or locality and the Secretary.
+- **(b)** *Federal supremacy* Nothing in this Act may be construed to permit a Governor or their designee to enforce State law within a covered facility in a manner that conflicts with Federal law or that interferes with Federal immigration enforcement operations.
+
+## § 10. Authorization of appropriations
+
+There are authorized to be appropriated to the Secretary such sums as may be necessary to implement the requirements of this Act, including the establishment of security protocols under section 6 and the maintenance of a public reporting portal under section 7(d).
+
+## § 11. Effective date
+
+This Act shall take effect on the date this is 180 days after the date of enactment.
