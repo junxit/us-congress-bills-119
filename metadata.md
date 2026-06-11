@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8340
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8340
@@ -22,9 +22,10 @@ Taxpayer Funds Oversight and Accountability Act
 - Del. Norton, Eleanor Holmes [D-DC-At Large] (N000147)
 - Rep. Sessions, Pete [R-TX-17] (S000250)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Taxpayer Funds Oversight and Accountability Act
 - 2026-06-10 — Motion to reconsider laid on the table Agreed to without objection.
 - 2026-06-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2026-06-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2026-06-11 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
