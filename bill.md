@@ -1,7 +1,7 @@
 ---
 legis-num: S. 162
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -32,7 +32,7 @@ This Act may be cited as the “Recruiting Families Using Data Act of 2025”.
     >   - **(6)** The plan includes such other information relating to foster and adoptive parent recruitment and retention as the Secretary may require.
 
 - **(b)** *Effective date*
-  - **(1)** *In general* Except as provided in paragraph (2), the amendment made by this subsection shall take effect on October 1, 2026.
+  - **(1)** *In general* Except as provided in paragraph (2), the amendment made by this subsection shall take effect on October 1, 2027.
   - **(2)** *Delay permitted if state legislation required* In the case of a State plan approved under subpart 1 of part B of title IV of the Social Security Act which the Secretary of Health and Human Services determines requires State legislation (other than legislation appropriating funds) in order for the plan to meet the additional requirements imposed by this subsection, the State plan shall not be regarded as failing to comply with the requirements of such part solely on the basis of the failure of the plan to meet such additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of enactment of this subsection. For purposes of the previous sentence, in the case of a State that has a 2-year legislative session, each year of such session shall be deemed to be a separate regular session of the State legislature.
 
 ## § 3. Inclusion of information on foster and adoptive families in annual child welfare outcomes report to Congress
@@ -42,7 +42,7 @@ Section 479A(a) of the Social Security Act (42 U.S.C. 679b(a)) is amended—
 - **(1)** in paragraph (6)(C), by striking “and” after the semicolon;
 - **(2)** in paragraph (7)(B), by striking the period and inserting “; and”; and
 - **(3)** by adding at the end the following:
-  > - **(8)** include in the report submitted pursuant to paragraph (5) for fiscal year 2025 or any succeeding fiscal year—
+  > - **(8)** include in the report submitted pursuant to paragraph (5) for fiscal year 2028 or any succeeding fiscal year—
   >   - **(A)** State-by-State data on the number, demographics, and characteristics of foster and adoptive families in the State, and the number of potential foster and adoptive families not being utilized in the State and the reasons why;
   >   - **(B)** a summary of the challenges of, and barriers to, being a foster or adoptive parent, including with respect to recruitment, licensure, engagement, retention, and why parents stop fostering, adoptions disrupt or dissolve, or foster or adoptive families struggle, as reported by States based on surveys of foster and adoptive parents; and
   >   - **(C)** a summary of the challenges and barriers States reported on efforts to recruit a pool of families that reflect the racial and ethnic background of children in foster care in the State, and efforts to overcome those barriers.
