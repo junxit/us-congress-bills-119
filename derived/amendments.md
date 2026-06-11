@@ -1,7 +1,7 @@
 ---
 measure: S. 1377
 congress: 119
-version: Introduced in Senate
+version: Engrossed in Senate
 derived: true
 ---
 

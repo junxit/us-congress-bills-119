@@ -1,7 +1,7 @@
 ---
 measure: S. 1377
 congress: 119
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 1377
@@ -28,3 +28,9 @@ Theodore Roosevelt National Park Wild Horses Protection Act
 
 - 2025-04-09 — Introduced in Senate
 - 2025-04-09 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2025-12-09 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 119-238.
+- 2025-12-17 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2026-06-11 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S2747-2748; text: CR S2748)
+- 2026-06-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (consideration: CR S2747-2748; text: CR S2748)
+- 2026-06-11 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
+- 2026-06-11 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
