@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7892
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7892
@@ -23,9 +23,10 @@ No Aid for Ghost Students Act of 2026
 - Rep. Foxx, Virginia [R-NC-5] (F000450)
 - Rep. Obernolte, Jay [R-CA-23] (O000019)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -55,3 +56,4 @@ No Aid for Ghost Students Act of 2026
 - 2026-06-10 — Motion to reconsider laid on the table Agreed to without objection.
 - 2026-06-10 — On passage Passed by the Yeas and Nays: 249 - 172 (Roll no. 217).
 - 2026-06-10 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 249 - 172 (Roll no. 217).
+- 2026-06-11 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
