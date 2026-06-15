@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2675
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,43 +11,51 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Protecting Our Courts from Foreign Manipulation Act of 2025”.
+This Act may be cited as the “Protecting Our Courts from Foreign Manipulation Act”.
 
 ## § 2. Transparency and limitations on foreign third-party litigation funding
 
 - **(a)** *In general* Chapter 111 of title 28, United States Code, is amended by adding at the end the following:
   > ## § 1660. Transparency and limitations on foreign third-party litigation funding
   >
-  > - **(a)** *Definitions* In this section—
+  > - **(a)** *Prohibition on third-Party funding litigation by foreign states and sovereign wealth funds*
+  >   - **(1)** *Funding prohibition* It shall be unlawful—
+  >     - **(A)** for any foreign state or sovereign wealth fund to provide any monetary support either directly or indirectly for initiating or litigating a civil action in which it is not a named party; or
+  >     - **(B)** for any party or counsel to receive from a foreign state or sovereign wealth fund any monetary support either directly or indirectly for initiating or litigating a civil action in which the foreign state or sovereign wealth fund is not a named party.
+  >   - **(2)** *Sourcing prohibition* It shall be unlawful for any party or counsel to enter into an agreement creating a right for anyone, other than the named parties or counsel of record, to receive any payment that is contingent, in any respect, on proceeds from the action or from any matter within a portfolio of civil actions that includes the civil action and involves the same counsel of record or affiliated counsel, the terms of which are to be satisfied by money that has been or will be directly or indirectly sourced, in whole or in part, from a foreign state or a sovereign wealth fund.
+  > - **(b)** *Enforcement*
+  >   - **(1)** *Null and void* Any obligation to provide monetary support or agreement in violation of subsection (a) shall be null and void.
+  >   - **(2)** *Dismissal* Any civil action in which monetary support in violation of subsection (a) has been or is being used by a plaintiff to litigate the civil action shall be dismissed with prejudice and subject to terms the court considers proper.
+  >   - **(3)** *Relief on motion* Any final judgment entered in a civil action in which monetary support in violation of subsection (a) was used may be subject to being relieved on motion made pursuant to Rule 60(b)(3) of the Federal Rules of Civil Procedure.
+  > - **(c)** *Disclosure of third-Party litigation funding and foreign source certification by foreign persons, foreign states, and sovereign wealth funds*
+  >   - **(1)** *In general* In any civil action, each party or the counsel of record for the party shall—
+  >     - **(A)** disclose in writing to the court, to all other named parties to the civil action, to the Attorney General, and to the Principal Deputy Assistant Attorney General for National Security—
+  >       - **(i)** the name, the address and, if applicable, the citizenship or the country of incorporation or registration of any foreign person, foreign state, or sovereign wealth fund, other than the named parties or counsel of record, that—
+  >         - **(I)** has provided or has agreed to provide direct or indirect monetary support for initiating or litigating the civil action;
+  >         - **(II)** has a right to receive any payment that is contingent, in any respect, on proceeds from the civil action pursuant to a settlement, judgment, award of attorney’s fees, or pursuant to any other outcome of the civil action; or
+  >         - **(III)** has a right to receive any payment that is contingent, in any respect, on proceeds from any matter within a portfolio of civil actions that includes the civil action by settlement, judgement, award of attorney’s fees, or pursuant to any other outcome of the civil action, and involves the same counsel of record or affiliated counsel; and
+  >       - **(ii)** if the party or the counsel of record for the party submits a certification described in subparagraph (C)(i), the name, the address, and, if applicable, the citizenship or the country of incorporation or registration of the foreign person, foreign state, or sovereign wealth fund that is the source of the money;
+  >     - **(B)** produce to the court, to all other named parties to the civil action, to the Attorney General, and to the Principal Deputy Assistant Attorney General for National Security, except as otherwise stipulated or ordered by the court, a copy of any documentation concerning monetary support described in subparagraph (A)(i)(I) or any agreement creating a contingent right described in subclause (II) or (III) of subparagraph (A)(i); and
+  >     - **(C)** for a civil action in which direct or indirect monetary support for initiating or litigating the civil action has been or will be provided or in which there is an agreement creating a right to receive any payment by anyone, other than the named parties or counsel of record, that is contingent, in any respect, on proceeds from of the civil action by settlement, judgment, award of attorney’s fees, or pursuant to any other outcome of the civil action, or on proceeds from any matter within a portfolio that includes the civil action and involves the same counsel or affiliated counsel, submit to the court a certification that—
+  >       - **(i)** the money that has been or will be used to provide monetary support or satisfy any term of the agreement has been or will be directly or indirectly sourced, in whole or in part, from a foreign person, foreign state, or sovereign wealth fund, including the monetary amounts that have been or will be used to satisfy the agreement; or
+  >       - **(ii)** that the disclosure and certification criteria set forth in subparagraph (A)(ii) and clause (i) of this subparagraph do not apply to the civil action.
+  >   - **(2)** *Timing*
+  >     - **(A)** *In general* Any disclosure and certification required under paragraph (1) for a civil action described in such paragraph shall be made not later than the later of—
+  >       - **(i)** 30 days after the date on which any monetary support that is required to be disclosed pursuant to paragraph (1)(A)(i)(I), or any portion thereof, is initially provided, or any agreement described in subclause (I), (II), or (III) of paragraph (1)(A)(i) is executed; or
+  >       - **(ii)** the date on which the civil action is filed.
+  >     - **(B)** *Parties served or joined later* A party that has disclosure and certification obligations under paragraph (1) that is first joined in the civil action after the date on which the civil action is filed shall make any disclosure and certification required under paragraph (1) not later than 30 days after being joined, unless a different time is set by stipulation or court order.
+  >   - **(3)** *Foreign source disclosure and certification format*
+  >     - **(A)** *In general* Any disclosure required under paragraph (1)(A) and a certification required under paragraph (1)(C) shall—
+  >       - **(i)** be made in the form of a declaration under penalty of perjury pursuant to section 1746 and shall be made to the best knowledge, information, and belief of the declarant formed after reasonable inquiry; and
+  >       - **(ii)** be provided to all other named parties to the civil action, to the Attorney General, and to the Principal Deputy Assistant Attorney General for National Security by the party or counsel of record for the party making the disclosure and certification, except as otherwise stipulated or ordered by the court.
+  >     - **(B)** *Supplementation and correction* Not later than 30 days after the date on which a party or counsel of record for the party knew or should have known that a disclosure made under paragraph (1)(A) or a certification made under paragraph (1)(C) is incomplete or inaccurate in any material respect, the party or counsel of record shall supplement or correct the disclosure or certification.
+  > - **(d)** *Failure To disclose, To supplement; sanctions* A disclosure, production, or certification under subsection (b) is deemed to be information required by Rule 26(a) of the Federal Rules of Civil Procedure and subject to the sanctions provisions of Rule 37 of the Federal Rules of Civil Procedure.
+  > - **(e)** *Definitions* In this section—
   >   - **(1)** the term foreign person—
   >     - **(A)** means any person or entity that is not a United States person, as defined in section 101 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801); and
   >     - **(B)** does not include a foreign state or a sovereign wealth fund;
   >   - **(2)** the term foreign state has the meaning given that term in section 1603; and
-  >   - **(3)** the term sovereign wealth fund means an investment fund owned or controlled by a foreign state, an agency or instrumentality of a foreign state (as defined in section 1603), or an agent of a foreign principal (as defined in section 1 of the Foreign Agents Registration Act of 1938, as amended (22 U.S.C. 611)).
-  > - **(b)** *Disclosure of third-Party litigation funding and foreign source certification by foreign persons, foreign states, and sovereign wealth funds*
-  >   - **(1)** *In general* In any civil action, each party or the counsel of record for the party shall—
-  >     - **(A)** disclose in writing to the court, to all other named parties to the civil action, to the Attorney General, and to the Principal Deputy Assistant Attorney General for National Security—
-  >       - **(i)** the name, the address, and, if applicable, the citizenship or the country of incorporation or registration of any foreign person, foreign state, or sovereign wealth fund, other than the named parties or counsel of record, that has a right to receive any payment that is contingent in any respect on the outcome of the civil action by settlement, judgment, or otherwise;
-  >       - **(ii)** the name, the address, and, if applicable, the citizenship or the country of incorporation or registration of any foreign person, foreign state, or sovereign wealth fund, other than the named parties or counsel of record, that has a right to receive any payment that is contingent in any respect on the outcome of any matter within a portfolio that includes the civil action and involves the same counsel of record or affiliated counsel; and
-  >       - **(iii)** if the party or the counsel of record for the party submits a certification described in subparagraph (C)(i), the name, the address, and, if applicable, the citizenship or the country of incorporation or registration of the foreign person, foreign state, or sovereign wealth fund that is the source of the money;
-  >     - **(B)** produce to the court, to all other named parties to the civil action, to the Attorney General, and to the Principal Deputy Assistant Attorney General for National Security, except as otherwise stipulated or ordered by the court, a copy of any agreement creating a contingent right described in subparagraph (A); and
-  >     - **(C)** for a civil action involving an agreement creating a right to receive any payment by anyone, other than the named parties or counsel of record, that is contingent in any respect on the outcome of the civil action by settlement, judgment, or otherwise, or on the outcome of any matter within a portfolio that includes the civil action and involves the same counsel or affiliated counsel, submit to the court a certification that—
-  >       - **(i)** the money that has been or will be used to satisfy any term of the agreement has been or will be directly or indirectly sourced, in whole or in part, from a foreign person, foreign state, or sovereign wealth fund, including the monetary amounts that have been or will be used to satisfy the agreement; or
-  >       - **(ii)** that the disclosure and certification criteria set forth in subparagraph (A)(iii) and clause (i) of this subparagraph do not apply to the civil action.
-  >   - **(2)** *Timing*
-  >     - **(A)** *In general* The disclosure and certification required by paragraph (1) shall be made not later than the later of—
-  >       - **(i)** 30 days after execution of any agreement described in paragraph (1); or
-  >       - **(ii)** the date on which the civil action is filed.
-  >     - **(B)** *Parties served or joined later* A party that enters into an agreement described in paragraph (1) that is first served or joined after the date on which the civil action is filed shall make the disclosure and certification required by paragraph (1) not later than 30 days after being served or joined, unless a different time is set by stipulation or court order.
-  >   - **(3)** *Foreign source disclosure and certification format*
-  >     - **(A)** *In general* A disclosure required under paragraph (1)(A) and a certification required under paragraph (1)(C) shall—
-  >       - **(i)** be made in the form of a declaration under penalty of perjury pursuant to section 1746 and shall be made to the best knowledge, information, and belief of the declarant formed after reasonable inquiry; and
-  >       - **(ii)** be provided to all other named parties to the civil action, to the Attorney General, and to the Principal Deputy Assistant Attorney General for National Security by the party or counsel of record for the party making the disclosure and certification, except as otherwise stipulated or ordered by the court.
-  >     - **(B)** *Supplementation and correction* Not later than 30 days after the date on which a party or counsel of record for the party knew or should have known that the disclosure required under paragraph (1)(A) or a certification required under paragraph (1)(C) is incomplete or inaccurate in any material respect, the party or counsel of record shall supplement or correct the disclosure or certification.
-  > - **(c)** *Prohibition on third-Party funding litigation by foreign states and sovereign wealth funds*
-  >   - **(1)** *In general* It shall be unlawful for any party to or counsel of record for a civil action to enter into an agreement creating a right for anyone, other than the named parties or counsel of record, to receive any payment that is contingent in any respect on the outcome of a civil action or any matter within a portfolio that includes the civil action and involves the same counsel of record or affiliated counsel, the terms of which are to be satisfied by money that has been or will be directly or indirectly sourced, in whole or in part, from a foreign state or a sovereign wealth fund.
-  >   - **(2)** *Enforcement* Any agreement entered in violation of paragraph (1) shall be null and void.
-  > - **(d)** *Failure To disclose, To supplement; sanctions* A disclosure, production, or certification under subsection (b) is deemed to be information required by rule 26(a) of the Federal Rules of Civil Procedure and subject to the sanctions provisions of rule 37 of the Federal Rules of Civil Procedure.
+  >   - **(3)** the term sovereign wealth fund means an investment fund owned or controlled, directly or indirectly, by a foreign state or an agency or instrumentality of a foreign state (as defined in section 1603).
 
 - **(b)** *Technical and conforming amendment* The table of sections chapter 111 of title 28, United States Code, is amended by adding at the end the following:
 
