@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8800
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 8800
@@ -43,3 +43,8 @@ National Defense Authorization Act for Fiscal Year 2027
 - 2026-05-13 — Introduced in House
 - 2026-05-13 — Introduced in House
 - 2026-05-13 — Referred to the House Committee on Armed Services.
+- 2026-06-04 — Committee Consideration and Mark-up Session Held
+- 2026-06-04 — Ordered to be Reported (Amended) by the Yeas and Nays: 44 - 12.
+- 2026-06-15 — Placed on the Union Calendar, Calendar No. 606.
+- 2026-06-15 — Reported (Amended) by the Committee on Armed Services. H. Rept. 119-698.
+- 2026-06-15 — Reported (Amended) by the Committee on Armed Services. H. Rept. 119-698.
