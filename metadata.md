@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3922
 congress: 119
-version: Reported in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3922
@@ -52,3 +52,5 @@ Cross-Boundary Wildfire Solutions Act
 - 2026-06-02 — Placed on the Union Calendar, Calendar No. 587.
 - 2026-06-02 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-673, Part I.
 - 2026-06-02 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-673, Part I.
+- 2026-06-03 — Received in the Senate.
+- 2026-06-15 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 435.
