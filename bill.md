@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1468
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,33 +11,41 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Protect America’s Innovation and Economic Security from CCP Act of 2025”.
+This Act may be cited as the “Protect America’s Innovation and Economic Security from CCP Act”.
 
 ## § 2. CCP Initiative
 
 - **(a)** *Establishment* There is established in the National Security Division of the Department of Justice the CCP Initiative to—
-  - **(1)** counter nation-state threats to the United States;
-  - **(2)** curb spying by the Chinese Communist Party on United States intellectual property and academic institutions in the United States;
-  - **(3)** develop an enforcement strategy concerning nontraditional collectors, including researchers in labs, universities, and the defense industrial base, that are being used to transfer technology contrary to United States interests;
-  - **(4)** implement the Foreign Investment Risk Review Modernization Act of 2018 (title XVII of division A of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 132 Stat. 2173)) for the Department of Justice, including by working with the Department of the Treasury to develop regulations under that Act;
-  - **(5)** identify cases under the Foreign Corrupt Practices Act of 1977 (Public Law 95–213; 91 Stat. 1494) involving Chinese companies that compete with United States businesses;
-  - **(6)** prioritize—
-    - **(A)** identifying and prosecuting those engaged in trade secret theft, hacking, and economic espionage;
-    - **(B)** protecting the critical infrastructure in the United States against external threats through foreign direct investment and supply chain compromises; and
-    - **(C)** identifying Chinese Communist Party theft of intellectual property from small businesses; and
-  - **(7)** investigate investments made by Chinese companies included on the Entity List maintained by the Bureau of Industry and Security of the Department of Commerce or the People’s Republic of China Military Companies list maintained by the Department of Defense, and report to the Secretary of Commerce and the Secretary of Defense on any findings of such investigations, including findings related to subsidiaries or other entities controlled by such companies, whether or not such subsidiaries or other entities are registered in or operate in the People’s Republic of China.
-- **(b)** *Consultation* In executing the CCP Initiative’s objectives as set forth in subsection (a), the Attorney General, acting through the Assistant Attorney General for National Security, shall consult with relevant components of the Department of Justice as necessary, and coordinate activities with the Federal Bureau of Investigation and any other Federal agency as necessary.
+  - **(1)** curb spying by the CCP on United States intellectual property and academic institutions;
+  - **(2)** develop an enforcement strategy concerning nontraditional collectors, including researchers in labs, universities, and the defense industrial base, transferring technology to PRC-based individuals or entities, or those acting as their agents, contrary to United States interests;
+  - **(3)** review and take appropriate action, as part of the Committee on Foreign Investment in the United States, to address PRC-related risks arising from foreign investments in United States businesses and real estate;
+  - **(4)** prioritize, with respect to PRC-based individuals or entities, or those acting as their agents—
+    - **(A)** identifying and criminally prosecuting those engaged in trade secret theft, hacking, and economic espionage, including those who aid, abet, or conspire to engage in trade secret theft, hacking, or economic espionage;
+    - **(B)** protecting the critical infrastructure of the United States from threats arising from foreign direct investment, insider threats and supply chain compromises; and
+    - **(C)** identifying theft of intellectual property from United States businesses; and
+  - **(5)** counter any other threats to the United States by the PRC or those acting as its agents.
+- **(b)** *Consultation* In executing the CCP Initiative’s objectives as set forth in subsection (a), the Attorney General, acting through the Assistant Attorney General for National Security, shall consult with the relevant components of the Department of Justice, and coordinate activities with the Federal Bureau of Investigation and any other Federal agency as necessary on matters including—
+  - **(1)** identifying cases of concern involving PRC-based companies that compete with United States businesses;
+  - **(2)** identifying and investigating investments made by PRC-based or PRC-affiliated entities included on the Entity List maintained by the Bureau of Industry and Security of the Department of Commerce or the People's Republic of China Military Companies list maintained by the Department of Defense; and
+  - **(3)** any other matters relevant to fulfill the objectives set forth in subsection (a).
 - **(c)** *Requirement* Under the CCP Initiative—
-  - **(1)** the Initiative shall be separate from and not under the authority or discretion of any other Department of Justice initiative dedicated to countering nation-state threats; and
-  - **(2)** all resources used for the CCP Initiative shall solely be set aside for the CCP Initiative and shall not be combined to support any other Department of Justice program, including other programs and initiatives dedicated to countering nation-state threats.
-- **(d)** *Annual report* The Attorney General shall submit annually a written report to the Committee on Homeland Security and Governmental Affairs and the Committee on the Judiciary of the Senate, and the Committee on Homeland Security and the Committee on the Judiciary of the House of Representatives, on the progress and challenges of the CCP Initiative over the preceding year, including—
+  - **(1)** the Initiative shall be separate from any other Department of Justice initiative dedicated to countering nation-state threats; and
+  - **(2)** resources shall be set aside for the CCP Initiative, which shall not be combined to support any other Department of Justice program, including other programs and initiatives dedicated to countering nation-state threats, except under exceptional circumstances, as determined by the Attorney General, acting through the Assistant Attorney General for National Security, in which case, resources may be combined to support other programs and initiatives dedicated to countering nation-state threats.
+- **(d)** *Annual report* The Attorney General shall submit annually a written report, with a classified annex as necessary, in consultation with the Secretary of Commerce, the Secretary of the Treasury, the intelligence community, the United States Trade Representative, and the head of any other Federal agency determined necessary by the Attorney General, for the purposes of the report, to the Committee on Homeland Security and Governmental Affairs and the Committee on the Judiciary of the Senate, and the Committee on Homeland Security and the Committee on the Judiciary of the House of Representatives, on the progress and challenges of the CCP Initiative over the preceding year, including—
   - **(1)** its progress in accomplishing the objectives set forth in subsection (a);
   - **(2)** the amount and sufficiency of resources provided to, and expended by, the CCP Initiative;
   - **(3)** the level and effectiveness of coordination with the Federal Bureau of Investigation and other Federal agencies;
-  - **(4)** the status of efforts by and the financial intelligence capabilities of the Chinese Communist Party to engage in trade secret theft, hacking, and economic espionage;
-  - **(5)** an analysis of the use of unmanned aircraft and associated elements (including communication links and the components that control the unmanned aircraft required for the operator to operate safely and efficiently in the national airspace system) by the CCP;
-  - **(6)** the impact of the CCP Initiative on those efforts of the Chinese Communist Party;
-  - **(7)** the level and effectiveness of coordination and information sharing between Government agencies and private companies about economic espionage threats; and
-  - **(8)** an assessment of the economic loss to the United States as a result of hacking and trade secret theft by the Chinese Communist Party.
+  - **(4)** the status of efforts by and the financial intelligence capabilities of the PRC to engage in trade secret theft, hacking, and economic espionage;
+  - **(5)** an analysis of the use of unmanned aircraft and associated elements (including communication links and the components that control the unmanned aircraft required for the operator to operate safely and efficiently in the national airspace system) by the PRC;
+  - **(6)** an analysis of the capabilities, effectiveness, and use of artificial intelligence by the PRC and its proxies to engage in trade secret theft, hacking, or economic espionage;
+  - **(7)** any non-privileged findings of investigations of investments made by PRC-based or PRC-affiliated entities included on the Entity List maintained by the Bureau of Industry and Security of the Department of Commerce or the People's Republic of China Military Companies list maintained by the Department of Defense, including findings related to subsidiaries or other entities controlled by PRC companies, whether or not such subsidiaries or other entities are registered in or operate in the PRC;
+  - **(8)** the impact of the CCP Initiative on those efforts of the PRC;
+  - **(9)** the level and effectiveness of coordination and information sharing between Government agencies and private companies about economic espionage threats; and
+  - **(10)** an assessment of the economic loss to the United States as a result of hacking and trade secret theft by the PRC.
 - **(e)** *Sunset* This Act shall take effect on the date of enactment of this Act and cease to be in effect on the date that is 6 years after that date.
 - **(f)** *Severability* If any provision of this Act, or the application of such provision to any person or circumstance, is held to be unconstitutional, the remainder of this Act, and the application of the provisions of such to any person or circumstance, shall not be affected thereby.
+- **(g)** *Definitions* In this Act:
+  - **(1)** The term “non-traditional collector” means an individual who is not an intelligence collection professional but who collects sensitive technologies and information on behalf of, or for the benefit of, any foreign government, foreign instrumentality, or foreign agent.
+  - **(2)** The term “CCP” means the Chinese Communist Party.
+  - **(3)** The term “PRC” means the People’s Republic of China, the government of the People’s Republic of China, and the CCP.
+  - **(4)** The term “intelligence community” has the meaning given such term in section 3(4) of the National Security Act of 1947 (50 U.S.C. 3003(4)).
