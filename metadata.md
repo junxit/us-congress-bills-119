@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 444
 congress: 119
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 444
@@ -24,3 +24,7 @@ A resolution condemning the dictator of the People's Republic of China, Xi Jinpi
 
 - 2025-10-09 — Introduced in Senate
 - 2025-10-09 — Referred to the Committee on Foreign Relations. (text: CR S7095-7096)
+- 2026-06-16 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.
+- 2026-06-16 — Resolution agreed to in Senate without amendment and with a preamble by Voice Vote. (consideration: CR S2813)
+- 2026-06-16 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2026-06-16 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
