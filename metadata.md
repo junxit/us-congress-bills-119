@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5103
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5103
@@ -66,3 +66,5 @@ Make the District of Columbia Safe and Beautiful Act of 2025
 - 2026-03-25 — Rule provides for consideration of H.R. 8029, H. Res. 1128, H.R. 5103 and H.R. 7084. The resolution provides for consideration of H.R. 8029, H. Res. 1128, H.R. 5103, and H.R. 7084 under a closed rule with one hour of general debate on each measure. The resolution provides for one motion to recommit on H.R. 8029, H.R. 5103, and H.R. 7084.
 - 2026-03-25 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2026-03-25 — The previous question was ordered pursuant to the rule.
+- 2026-03-26 — Received in the Senate.
+- 2026-06-16 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 437.
