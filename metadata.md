@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2481
 congress: 119
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2481
@@ -50,3 +50,6 @@ Romance Scam Prevention Act
 - 2025-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2848-2849)
 - 2025-06-24 — Received in the Senate.
 - 2026-06-17 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 438.
+- 2026-09-23 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4902)
+- 2026-09-23 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (consideration: CR S4902)
+- 2026-09-24 — Message on Senate action sent to the House.
