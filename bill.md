@@ -1,8 +1,8 @@
 ---
 legis-num: H.R. 2481
 congress: 119th CONGRESS
-session: 1st Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 2481
