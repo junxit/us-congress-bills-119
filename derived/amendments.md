@@ -1,7 +1,7 @@
 ---
 measure: S. 1547
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,13 +14,51 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-14 amendatory instructions. 0 executed, 14 stated and not applied.
+34 amendatory instructions. 4 executed, 30 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 16 U.S.C. § 6802
+
+> by striking “2021 through 2025” and inserting “2027 through 2031”; and
+
+| | |
+|---|---|
+| Removed | `2021 through 2025` |
+| Inserted | `2027 through 2031` |
+
+### 16 U.S.C. § 6802
+
+> by striking “Federal land and water” and inserting “Federal onshore land”.
+
+| | |
+|---|---|
+| Removed | `Federal land and water` |
+| Inserted | `Federal onshore land` |
+
+### 16 U.S.C. § 6802
+
+> in paragraph (1), in the matter preceding subparagraph (A), by striking “in the National Wildlife Refuge System” and inserting “on land administered by the United States Fish and Wildlife Service”; and
+
+| | |
+|---|---|
+| Removed | `in the National Wildlife Refuge System` |
+| Inserted | `on land administered by the United States Fish and Wildlife Service` |
+
+### 16 U.S.C. § 6802
+
+> in paragraph (4) (as so redesignated), by striking “paragraph (2)(B)” and inserting “paragraph (3)(B)”.
+
+| | |
+|---|---|
+| Removed | `paragraph (2)(B)` |
+| Inserted | `paragraph (3)(B)` |
 
 ## Stated, not applied
 
@@ -45,3 +83,19 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by striking paragraph (3) (as so redesignated) and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (4) (as so redesignated), by striking “paragraph (2)(B)” and inserting “paragraph (3)(A)(ii)”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 200402 of title 54, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `16 U.S.C. § 6802` | redesignate | by redesignating paragraphs (3) and (4) as paragraphs (4) and (5), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6802` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6802` | insert | by inserting “total” before “amount”; and | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 6802` | insert | by inserting “, section 803 of the Federal Lands Recreation Enhancement Act (16 U.S.C. 6802), and section 4(e)(2)(B) of the America the Beautiful Act” after “paragraph (1)”. | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 6802` | redesignate | by redesignating paragraph (3) as paragraph (4); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6802` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6802` | replace | by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6802` | replace | Section 200402 of title 54, United States Code, is amended by striking subsection (f) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `25 U.S.C. § 5304` | replace | Section 200402 of title 54, United States Code, is amended by striking subsection (h) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6802` | replace | Section 200402 of title 54, United States Code, is amended by striking subsection (i) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6802` | strike | in the subsection heading, by striking “Public”; | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 6802` | strike | in paragraph (1), in the matter preceding subparagraph (A), by striking “public”; | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 6802` | redesignate | by redesignating paragraph (3) as paragraph (4); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6802` | replace | by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4321` | add-at-end | Section 200402 of title 54, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 6802` | add-at-end | Section 803(e) of the Federal Lands Recreation Enhancement Act (16 U.S.C. 6802(e)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
