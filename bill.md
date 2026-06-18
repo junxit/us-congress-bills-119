@@ -27,20 +27,23 @@ In this Act:
 
 ## § 3. Broadband Funding Map modernization
 
-- **(a)** *In general* The Commission, in coordination with NTIA, shall collect data submitted for the Broadband Funding Map by relevant Federal agencies on a reasonable and timely basis pursuant to section 60105(d) of the Infrastructure Investment and Jobs Act (47 U.S.C. 1704), in order to promote the most efficient use of Federal funds for broadband deployment and prevent redundant overbuilding of broadband infrastructure with Federal funding.
+- **(a)** *In general* The Commission, in coordination with NTIA, shall collect data submitted for the Broadband Funding Map by relevant Federal agencies on a reasonable and timely basis pursuant to section 60105(d) of the Infrastructure Investment and Jobs Act (47 U.S.C. 1704(d)), in order to promote the most efficient use of Federal funds for broadband deployment and prevent inefficient use or fragmentation of Federal funding for broadband infrastructure.
 - **(b)** *Inquiry*
-  - **(1)** *Notice of inquiry* Not later than 270 days after the date of enactment of this Act, the Commission shall initiate a notice of inquiry concerning the optimum functionality and transparency of the Broadband Funding Map, including the quality and completeness of the data populated to the Broadband Funding Map.
+  - **(1)** *Notice of inquiry*
+    - **(A)** *In general* Subject to subparagraph (B), not later than 270 days after the date of enactment of this Act, the Commission shall initiate a notice of inquiry concerning the optimum functionality and transparency of the Broadband Funding Map, including the quality and completeness of the data populated to the Broadband Funding Map.
+    - **(B)** *Request for vote* Any Commissioner may request a vote at the Commission level prior to the initiation of a notice of inquiry required under subparagraph (A). Upon such request, the notice of inquiry required under subparagraph (A) may not proceed unless a majority of the Commissioners vote to approve the notice of inquiry.
   - **(2)** *Evaluation considerations* In the inquiry, the Commission shall include evaluation of the following considerations:
-    - **(A)** The adequacy with which Federal agencies have been able to collect and submit the required categories of data pursuant to section 60105(d) of the Infrastructure Investment and Jobs Act (47 U.S.C. 1704) to date.
+    - **(A)** The adequacy with which Federal agencies have been able to collect and submit the required categories of data pursuant to section 60105(d) of the Infrastructure Investment and Jobs Act (47 U.S.C. 1704(d)) to date.
     - **(B)** The usability of such existing categories of data described in subparagraph (A) to the public, and whether any category should be added, eliminated, or otherwise altered for improved user experience.
-    - **(C)** The timeliness of periodic updates from Federal agencies to the Broadband Funding Map described in subparagraph (A) pursuant to section 60105(e) of the Infrastructure Investment and Jobs Act (47 U.S.C. 1704).
-    - **(D)** Whether the scope of programmatic data to be reported to the Broadband Funding Map pursuant to section 60105(d)(1) of the Infrastructure Investment and Jobs Act (47 U.S.C. 1704) should be expanded.
-    - **(E)** Any manners in which the Commission should potentially augment or streamline the Broadband Funding Map with existing Commission mapping tools.
+    - **(C)** The timeliness of periodic updates from Federal agencies to the Broadband Funding Map pursuant to section 60105(e) of the Infrastructure Investment and Jobs Act (47 U.S.C. 1704(e).
+    - **(D)** Whether the scope of programmatic data to be reported to the Broadband Funding Map pursuant to section 60105(d)(1) of the Infrastructure Investment and Jobs Act (47 U.S.C. 1704(d)(1)) should be expanded.
+    - **(E)** Whether third-party mapping data should be incorporated to improve the functionality and transparency of the Broadband Funding Map.
+    - **(F)** Any manners in which the Commission should potentially augment or streamline the Broadband Funding Map with existing Commission mapping tools.
   - **(3)** *Completion* Not later than 120 days after the initiation of the inquiry under paragraph (1), the Commission shall complete the inquiry.
 
 ## § 4. GAO Study and Report
 
-- **(a)** *In general* Not later than 180 days after the date of enactment of this Act, the Comptroller of the United States shall—
+- **(a)** *In general* Not later than 180 days after the date of enactment of this Act, the Comptroller General of the United States shall—
   - **(1)** conduct a study on the roles, responsibilities, and progress to date of Federal agencies to maintain the Broadband Funding Map and ensure the completeness and continued relevance of the Broadband Funding Map; and
   - **(2)** submit to the appropriate congressional committees a report on the study under paragraph (1) that includes the findings and conclusions of the Comptroller General.
 - **(b)** *Requirements* In conducting the study required under subsection (a), the Comptroller General shall review the following:
@@ -50,5 +53,6 @@ In this Act:
   - **(2)** The proficiency of the Commission’s management of the Broadband Funding Map and related interagency collaboration.
   - **(3)** Whether the Commission has sufficient authority to collect the necessary data from Federal agencies to populate the Broadband Funding Map.
   - **(4)** The respective data collection efforts of NTIA pursuant to the ACCESS BROADBAND Act (47 U.S.C. 1307) and section 60105 of the Infrastructure Investment and Jobs Act (47 U.S.C. 1704).
-  - **(5)** The effectiveness of coordination among the Commission, NTIA, and other relevant Federal agencies that provide funding for broadband infrastructure deployment, including the Department of Agriculture, the Department of Health and Human Services, the Department of the Treasury, the Department of Housing and Urban Development, and the Institute of Museum and Library Sciences, pursuant to section 60105(g) of the Infrastructure Investment and Jobs Act (47 U.S.C. 1704).
-  - **(6)** How enhanced use of the Broadband Funding Map across relevant Federal agencies could improve taxpayer savings.
+  - **(5)** The effectiveness of coordination among the Commission, NTIA, and other relevant Federal agencies that provide funding for broadband infrastructure deployment, including the Department of Agriculture, the Department of Health and Human Services, the Department of the Treasury, the Department of Housing and Urban Development, and the Institute of Museum and Library Services, pursuant to section 60105(g) of the Infrastructure Investment and Jobs Act (47 U.S.C. 1704(g)).
+  - **(6)** How enhanced use of the Broadband Funding Map by relevant Federal agencies could improve taxpayer savings.
+  - **(7)** The feasibility and potential benefits of incorporating third-party mapping data into the Broadband Funding Map.
