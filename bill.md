@@ -1,0 +1,80 @@
+---
+legis-num: S. 4835
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4835
+
+> To enhance the administration of export control licenses under the Export Control Reform Act of 2018, and other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Bureau of Industry and Security License Administration Enhancement Act”.
+
+## § 2. Enhancement of administration of export control licenses
+
+Part I of the Export Control Reform Act of 2018 (50 U.S.C. 4811 et seq.) is amended by adding at the end the following:
+
+> ## § 1769. Enhancement of administration of export control licenses
+>
+> - **(a)** *Enhancement of administration of certain communications*
+>   - **(1)** *In general* The Secretary shall administer any export control license or other authorization considered pursuant to an is-informed letter or similar targeted regulatory guidance or supplemental license requirement communication sent to a United States person or foreign person by the same interagency process as any license or other authorization administered pursuant to the Export Administration Regulations.
+>   - **(2)** *Publication* Not later than 60 days after issuing a license or other authorization described in paragraph (1), the is-informed letter or similar targeted regulatory guidance or supplemental license requirement communication with respect to the license or authorization shall terminate unless the Secretary, in consultation with the Secretary of State, the Secretary of Defense, and the Secretary of Energy, publishes in the Code of Federal Regulations a regulation that provides for the parameters of the letter or guidance or publishes in the Federal Register the communication.
+> - **(b)** *Standards and factors for presumption of denial standard*
+>   - **(1)** *In general* Not later than 90 days after the date of the enactment of this section, the Secretary shall publish in the Federal Register the standards and factors that licensing officers should consider when considering a license under a presumption of denial standard.
+>   - **(2)** *Submission to Congress* Not later than 7 days prior to the date the Secretary publishes or otherwise makes available to the public such standards and factors, the Secretary shall submit such standards and factors to—
+>     - **(A)** the Committee on Foreign Affairs of the House of Representatives; and
+>     - **(B)** the Committee on Banking, Housing, and Urban Affairs of the Senate.
+
+## § 3. Export control technical advisory committees
+
+Section 1754 of the Export Control Reform Act of 2018 (50 U.S.C. 4813) is amended by adding at the end the following new subsection:
+
+> - **(g)** *Technical advisory committees*
+>   - **(1)** *Duties* The technical advisory committees shall advise the Secretary on—
+>     - **(A)** the security and stability of global technology supply chains;
+>     - **(B)** national security challenges for the United States related to particular technologies;
+>     - **(C)** technical parameters for export controls;
+>     - **(D)** the extent to which existing and proposed export controls achieve the policy of the United States described in section 1752;
+>     - **(E)** the identification of emerging and foundational technologies pursuant to section 1758;
+>     - **(F)** improvements to export licensing procedures, compliance mechanisms, and export enforcement strategies; and
+>     - **(G)** any other matter requested by the Secretary.
+>   - **(2)** *Required committees* The Secretary shall appoint a technical advisory committee for each of the following topics:
+>     - **(A)** Computing technologies and information systems, including semiconductors, microelectronics, artificial intelligence, and quantum computing.
+>     - **(B)** Biotechnologies.
+>     - **(C)** Automation, including robotics, advanced manufacturing, and autonomous systems.
+>     - **(D)** Aerospace and space technologies.
+>     - **(E)** Advanced materials.
+>     - **(F)** Weapons of mass destruction.
+>     - **(G)** Emerging and foundational technologies.
+>     - **(H)** Regulations and procedures.
+>   - **(3)** *Subcommittees* The Secretary may appoint subcommittees for any technical advisory committee.
+>   - **(4)** *Committee review* Beginning on the date that is 2 years after the date of the enactment of this subsection, the Secretary may, in coordination with the Secretary of State, the Secretary of Defense, and the Secretary of Energy, revise the number of technical advisory committees or adjust the topics of existing committees as necessary.
+>   - **(5)** *Choosing committees* The Secretary, in coordination with the Secretary of State, the Secretary of Defense, and the Secretary of Energy, shall adjust the topics of the technical advisory committees to reflect relevant executive branch strategies and critical technology lists, such as the National Security Strategy and the National Defense Strategy.
+>   - **(6)** *Membership*
+>     - **(A)** *In general* Each technical advisory committee shall consist of technical specialists from a relevant industry, national security experts, and academic experts in a relevant field.
+>     - **(B)** *Term* The term of a member on a technical advisory committee shall be 3 years.
+>     - **(C)** *Non-disclosure agreement* No individual may serve as a member of a technical advisory committee unless such individual has entered into a binding non-disclosure agreement with the Secretary that prohibits the individual from making an unauthorized disclosure of proprietary information, policy deliberations, and national security information communicated through or related to a technical advisory committee.
+>     - **(D)** *Staffing* The Secretary shall process applications to join any technical advisory committee in a timely manner.
+>   - **(7)** *Meetings* Each technical advisory committee shall meet not less frequently than once every 120 days.
+>   - **(8)** *Web page* The Bureau of Industry and Security shall maintain on the website of the Bureau a web page describing each technical advisory committee, including the membership of each such committee.
+>   - **(9)** *Technology and policy assessment* Each technical advisory committee shall, not less frequently than annually, submit to the Secretary, the Secretary of State, the Secretary of Defense, the Secretary of Energy, and the appropriate congressional committees—
+>     - **(A)** an assessment of developments within the purview of the technical advisory committee; and
+>     - **(B)** recommendations related to the purview of the technical advisory committee for advancing the national security and foreign policy interests of the United States.
+>   - **(10)** *Definitions* In this subsection:
+>     - **(A)** *Appropriate congressional committees* The term appropriate congressional committees means the Committee on Foreign Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+>     - **(B)** *Technical advisory committee* The term technical advisory committee means a technical advisory committee appointed pursuant to subsection (a)(13).
+
+## § 4. Review and report regarding controlled integrated circuits
+
+- **(a)** *Review* The Secretary, in consultation with the Secretary of State, Secretary of Defense, and Secretary of Energy, shall review the implementation of the interim final rule of the Bureau of Industry and Security of the Department of Commerce entitled “Implementation of Additional Due Diligence Measures for Advanced Computing Integrated Circuits; Amendments and Clarifications; and Extension of Comment Period”, published in the Federal Register on January 16, 2025 (90 Fed. Reg. 5298; Docket No. 250108–0013), or any substantially similar successor rule, and consider any appropriate update or change to such rule to ensure that such rule is implemented effectively and fulfills the initial policy intent of such rule.
+- **(b)** *Report* Not later than 120 days after the date of the enactment of this Act, Secretary, in consultation with the Secretary of State, the Secretary of Defense, and the Secretary of Energy, shall submit to the appropriate congressional committees a report on—
+  - **(1)** the findings of the review required under subsection (a); and
+  - **(2)** any change to the rule described in such subsection that has been made.
+- **(c)** *Definitions* In this section:
+  - **(1)** *Appropriate congressional committees* The term appropriate congressional committees means—
+    - **(A)** the Committee on Foreign Affairs of the House of Representatives; and
+    - **(B)** the Committee on Banking, Housing, and Urban Affairs of the Senate.
+  - **(2)** *Secretary* The term Secretary means the Secretary of Commerce, acting through the Under Secretary for Industry and Security.
