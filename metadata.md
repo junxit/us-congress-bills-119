@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8290
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 8290
@@ -25,3 +25,8 @@ China Exchange Rate Accountability Act of 2026
 - 2026-04-15 — Introduced in House
 - 2026-04-15 — Introduced in House
 - 2026-04-15 — Referred to the House Committee on Financial Services.
+- 2026-04-21 — Committee Consideration and Mark-up Session Held
+- 2026-04-21 — Ordered to be Reported by the Yeas and Nays: 32 - 20.
+- 2026-06-18 — Placed on the Union Calendar, Calendar No. 611.
+- 2026-06-18 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-703.
+- 2026-06-18 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-703.
