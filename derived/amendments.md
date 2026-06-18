@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2715
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,33 +14,13 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 2 executed, 1 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
-
-## Executed
-
-### 21 U.S.C. § 381
-
-> in the seventh sentence, by striking “as described under subsection (b).” and inserting “as described under subsection (b), or any article refused admission under this section, if the Secretary of Health and Human Services determines that such article presents a significant public health concern.”; and
-
-| | |
-|---|---|
-| Removed | `as described under subsection (b).` |
-| Inserted | `as described under subsection (b), or any article refused admission under this section, if the Secretary of Health and Human Services determines that such article presents a significant public health concern.` |
-
-### 21 U.S.C. § 381
-
-> in the eighth, ninth, and tenth sentences, by striking “drug or device” each place it appears and inserting “drug, device, or other article”.
-
-| | |
-|---|---|
-| Removed | `drug or device` |
-| Inserted | `drug, device, or other article` |
 
 ## Stated, not applied
 
@@ -51,4 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| `21 U.S.C. § 381` | add-at-end | Section 801 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 381) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 331` | add-at-end | Section 301 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 331) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
