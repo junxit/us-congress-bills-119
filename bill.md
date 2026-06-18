@@ -1,0 +1,26 @@
+---
+legis-num: S. 4832
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4832
+
+> To amend the Indian Self-Determination and Education Assistance Act to allow the Secretary of Agriculture to enter into self-determination contracts with Indian Tribes and Tribal organizations to carry out supplemental nutrition assistance programs.
+
+## § 1. Short title
+
+This Act may be cited as the “SNAP Tribal Food Sovereignty Act of 2026”.
+
+## § 2. Self-determination for SNAP
+
+Title I of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5321 et seq.) is amended by adding at the end the following:
+
+> ## § 112. Self-determination for SNAP
+>
+> - **(a)** *Agriculture Self-Determination authorized* The Secretary of Agriculture shall enter into self-determination contracts, in accordance with subsection (b), with Indian Tribes and Tribal organizations, on the request of any Indian Tribe by Tribal resolution, to plan, conduct, and administer any function, service, or activity of the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.) for the Indian Tribe.
+> - **(b)** *Self-Determination contract* A self-determination contract entered into under subsection (a) shall have the same terms and conditions, and be subject to the same procedures, regulations, and requirements, as a self-determination contract entered into under section 102, except that the Secretary of Agriculture and the Department of Agriculture shall be the appropriate Secretary and agency for purposes of a self-determination contract entered into under subsection (a).
+> - **(c)** *Technical assistance* The Office of Self-Governance of the Bureau of Indian Affairs shall provide technical assistance regarding the self-determination contracts authorized under this section to—
+>   - **(1)** the Secretary of Agriculture; and
+>   - **(2)** Indian Tribes and Tribal organizations that request that assistance.
