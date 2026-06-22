@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6644
 congress: 119
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6644
@@ -109,9 +109,10 @@ version: Engrossed Amendment Senate
 - House — Veterans' Affairs Committee
 - House — Financial Services Committee
 
-## Recorded votes (10)
+## Recorded votes (11)
 
 - 2026-02-09 — [House 119-2-57](votes/house-119-2-0057.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (390–9)
+- 2026-06-23 — [House 119-2-224](votes/house-119-2-0224.md) — On Motion to Suspend the Rules and Concur in Senate Adt to House Adt to Senate Adt — **Passed** (358–32)
 - 2026-03-02 — Senate 119-2-44 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00044.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00044.xml answered HTTP 403
 - 2026-03-04 — Senate 119-2-45 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00045.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00045.xml answered HTTP 403
 - 2026-03-10 — Senate 119-2-50 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00050.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00050.xml answered HTTP 403
@@ -464,3 +465,15 @@ version: Engrossed Amendment Senate
 - 2026-06-22 — Roll call votes on amendments in Senate: Amendment SA 5823 agreed to in Senate by Yea-Nay Vote. 85 - 5. Record Vote Number: 182.
 - 2026-06-22 — Senate amendment agreed to: Amendment SA 5823 agreed to in Senate by Yea-Nay Vote. 85 - 5. Record Vote Number: 182.
 - 2026-06-22 — Senate concurred in the House amendment to the Senate amendment with an amendment (SA 5823) by Yea-Nay Vote. 85 - 5. Record Vote Number: 182.
+- 2026-06-23 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2026-06-23 — DEBATE - The House proceeded with forty minutes of debate on the motion to suspend the rules and agree to the Senate amendment to the House amendment to the Senate amendment.
+- 2026-06-23 — Message on Senate action sent to the House.
+- 2026-06-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-06-23 — Mr. Hill (AR) moved that the House suspend the rules and agree to the Senate amendment to the House amendment to the Senate amendment. (consideration: CR H4151-4193)
+- 2026-06-23 — On motion that the House suspend the rules and agree to the Senate amendment to the House amendment to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 358 - 32 (Roll no. 224). (text: CR H4151-4187)
+- 2026-06-23 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment to the House amendment to the Senate amendment Agreed to by the Yeas and Nays: (2/3 required): 358 - 32 (Roll no. 224). (text: CR H4151-4187)
+- 2026-06-29 — Presented to President.
+- 2026-06-29 — Presented to President.
+- 2026-07-11 — Became Public Law No: 119-101.
+- 2026-07-11 — Became Public Law No: 119-101.
+- 2026-07-11 — Sent to Archivist of the United States unsigned.
