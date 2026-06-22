@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6644
 congress: 119
-version: Engrossed Amendment House
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 6644
@@ -16,7 +16,7 @@ version: Engrossed Amendment House
 
 - Rep. Hill, J. French [R-AR-2] (H001072)
 
-## Cosponsors (83)
+## Cosponsors (85)
 
 - Rep. Waters, Maxine [D-CA-43] (W000187)
 - Rep. Flood, Mike [R-NE-1] (F000474)
@@ -49,6 +49,8 @@ version: Engrossed Amendment House
 - Rep. Haridopolos, Mike [R-FL-8] (H001099)
 - Rep. Moskowitz, Jared [D-FL-23] (M001217)
 - Rep. Moore, Tim [R-NC-14] (M001236)
+- Sen. Fischer, Deb [R-NE] (F000463)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
 - Sen. Warner, Mark R. [D-VA] (W000805)
 - Sen. Crapo, Mike [R-ID] (C000880)
 - Sen. Smith, Tina [D-MN] (S001203)
@@ -107,7 +109,7 @@ version: Engrossed Amendment House
 - House — Veterans' Affairs Committee
 - House — Financial Services Committee
 
-## Recorded votes (7)
+## Recorded votes (10)
 
 - 2026-02-09 — [House 119-2-57](votes/house-119-2-0057.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (390–9)
 - 2026-03-02 — Senate 119-2-44 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00044.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00044.xml answered HTTP 403
@@ -116,6 +118,9 @@ version: Engrossed Amendment House
 - 2026-03-11 — Senate 119-2-51 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00051.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00051.xml answered HTTP 403
 - 2026-03-11 — Senate 119-2-52 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00052.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00052.xml answered HTTP 403
 - 2026-03-12 — Senate 119-2-53 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00053.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00053.xml answered HTTP 403
+- 2026-06-16 — Senate 119-2-175 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00175.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00175.xml answered HTTP 403
+- 2026-06-18 — Senate 119-2-180 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00180.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00180.xml answered HTTP 403
+- 2026-06-22 — Senate 119-2-182 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00182.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00182.xml answered HTTP 403
 
 ## Actions
 
@@ -405,3 +410,57 @@ version: Engrossed Amendment House
 - 2026-03-16 — Message on Senate action sent to the House.
 - 2026-05-20 — House agreed to Senate amendment with amendment pursuant to H. Res. 1299 (consideration: CR H3643-3644)
 - 2026-05-20 — Resolving differences -- House actions: House agreed to Senate amendment with amendment pursuant to H. Res. 1299
+- 2026-06-02 — Message on House action received in Senate and at desk: House amendment to Senate amendment.
+- 2026-06-16 — 
+- 2026-06-16 — 
+- 2026-06-16 — 
+- 2026-06-16 — 
+- 2026-06-16 — 
+- 2026-06-16 — Amendment SA 5823 proposed by Senator Thune for Senator Scott SC. (consideration: CR S2815) In the nature of a substitute.
+- 2026-06-16 — Amendment SA 5824 proposed by Senator Thune to Amendment SA 5823. (consideration: CR S2815)
+- 2026-06-16 — Amendment SA 5825 proposed by Senator Thune. (consideration: CR S2815)
+- 2026-06-16 — Amendment SA 5826 proposed by Senator Thune to Amendment SA 5825 (the instructions of the motion to refer). (consideration: CR S2815)
+- 2026-06-16 — Amendment SA 5827 proposed by Senator Thune to Amendment SA 5826. (consideration: CR S2815-2816)
+- 2026-06-16 — Cloture motion on the motion to concur in the House amendment to the Senate amendment to H.R. 6644 with an amendment (SA 5823) presented in Senate.
+- 2026-06-16 — Measure laid before Senate by motion. (consideration: CR S2813-2316)
+- 2026-06-16 — Motion by Senator Thune to concur in the House amendment to the Senate amendment to H.R. 6644 with an amendment (SA 5823) made in Senate.
+- 2026-06-16 — Motion by Senator Thune to refer to Senate Committee on Banking, Housing, and Urban Affairs the House message to accompany H.R. 6644 with instructions to report back forthwith with the following amendment (SA5825) made in Senate.
+- 2026-06-16 — Motion to proceed to consideration of the House message to accompany H.R. 6644 agreed to in Senate by Yea-Nay Vote. 87 - 8. Record Vote Number: 175.
+- 2026-06-16 — Senate amendment proposed (on the floor): Amendment SA 5823 proposed by Senator Thune for Senator Scott SC.
+- 2026-06-16 — Senate amendment proposed (on the floor): Amendment SA 5824 proposed by Senator Thune to Amendment SA 5823.
+- 2026-06-16 — Senate amendment proposed (on the floor): Amendment SA 5825 proposed by Senator Thune.
+- 2026-06-16 — Senate amendment proposed (on the floor): Amendment SA 5826 proposed by Senator Thune to Amendment SA 5825 (the instructions of the motion to refer).
+- 2026-06-16 — Senate amendment proposed (on the floor): Amendment SA 5827 proposed by Senator Thune to Amendment SA 5826.
+- 2026-06-16 — Senate amendment submitted
+- 2026-06-16 — Senate amendment submitted
+- 2026-06-16 — Senate amendment submitted
+- 2026-06-16 — Senate amendment submitted
+- 2026-06-16 — Senate amendment submitted
+- 2026-06-17 — 
+- 2026-06-17 — 
+- 2026-06-17 — 
+- 2026-06-17 — 
+- 2026-06-17 — Senate amendment submitted
+- 2026-06-17 — Senate amendment submitted
+- 2026-06-17 — Senate amendment submitted
+- 2026-06-17 — Senate amendment submitted
+- 2026-06-18 — Cloture on the motion to concur in the House amendment to the Senate amendment to H.R. 6644 with an amendment (SA 5823) invoked in Senate by Yea-Nay Vote. 84 - 8. Record Vote Number: 180.
+- 2026-06-18 — Considered by Senate (Message from the House considered). (consideration: CR S2913)
+- 2026-06-18 — Considered by Senate (Message from the House considered). (consideration: CR S2913)
+- 2026-06-18 — Considered by Senate (Message from the House considered). (consideration: CR S2913)
+- 2026-06-18 — Considered by Senate (Message from the House considered). (consideration: CR S2913)
+- 2026-06-18 — Considered by Senate (Message from the House considered). (consideration: CR S2913)
+- 2026-06-18 — Considered by Senate (Message from the House considered). (consideration: CR S2913-2917)
+- 2026-06-18 — Motion by Senator Thune to refer to Senate Committee on Banking, Housing, and Urban Affairs the House message to accompany H.R. 6644 with instructions to report back forthwith with the following amendment (SA 5825) fell when cloture was invoked on the motion to concur in the House amendment to the Senate amendment to H.R. 6644 in Senate.
+- 2026-06-18 — SA 5825 fell when cloture invoked on the motion to concur in the House amendment to the Senate amendment to H.R. 6644.
+- 2026-06-18 — SA 5826 fell when SA 5825 (the instructions of the motion to refer) fell.
+- 2026-06-18 — SA 5827 fell when SA 5826 fell.
+- 2026-06-22 — Amendment SA 5823 agreed to in Senate by Yea-Nay Vote. 85 - 5. Record Vote Number: 182.
+- 2026-06-22 — Considered by Senate (Message from the House considered). (consideration: CR S2977)
+- 2026-06-22 — Considered by Senate (Message from the House considered). (consideration: CR S2977)
+- 2026-06-22 — Considered by Senate (Message from the House considered). (consideration: CR S2977, S2982-2984)
+- 2026-06-22 — Proposed amendment SA 5824 withdrawn in Senate.
+- 2026-06-22 — Resolving differences -- Senate actions: Senate concurred in the House amendment to the Senate amendment with an amendment (SA 5823) by Yea-Nay Vote. 85 - 5. Record Vote Number: 182.
+- 2026-06-22 — Roll call votes on amendments in Senate: Amendment SA 5823 agreed to in Senate by Yea-Nay Vote. 85 - 5. Record Vote Number: 182.
+- 2026-06-22 — Senate amendment agreed to: Amendment SA 5823 agreed to in Senate by Yea-Nay Vote. 85 - 5. Record Vote Number: 182.
+- 2026-06-22 — Senate concurred in the House amendment to the Senate amendment with an amendment (SA 5823) by Yea-Nay Vote. 85 - 5. Record Vote Number: 182.
