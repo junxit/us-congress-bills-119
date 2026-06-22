@@ -1,0 +1,39 @@
+---
+legis-num: H.R. 9383
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 9383
+
+> To amend the Internal Revenue Code of 1986 to provide special rules with respect to the net operating losses of certain financial institutions.
+
+## § 1. Short title
+
+This Act may be cited as the “Small Business and Consumer Credit Act of 2026”.
+
+## § 2. Net operating losses of certain financial institutions
+
+- **(a)** *In general* Section 172(b)(1) of the Internal Revenue Code of 1986 is amended by redesignating subparagraph (D) as subparagraph (E) and inserting after subparagraph (C) the following new subparagraph:
+  > - **(D)** *Certain financial institutions*
+  >   - **(i)** *2027* In the case of any specified financial institution which elects the application of this clause for any taxable year beginning after December 31, 2026, and before January 1, 2028, the net operating loss for such taxable year shall be a net operating loss carryover to each of the 20 taxable years following the taxable year of the loss.
+  >   - **(ii)** *2028* In the case of any specified financial institution which elects the application of this clause for any taxable year beginning after December 31, 2027, and before January 1, 2029, the net operating loss for such taxable year—
+  >     - **(I)** shall be a net operating loss carryback to the taxable year preceding the taxable year of the loss, and
+  >     - **(II)** shall be a net operating loss carryover to each of the 20 taxable years following the taxable year of the loss.
+  >   - **(iii)** *2029 and thereafter* In the case of any specified financial institution which elects the application of this clause for any taxable years beginning after December 31, 2028, the net operating loss for such taxable year—
+  >     - **(I)** shall be a net operating loss carryback to each of the 2 taxable years preceding the taxable year of the loss, and
+  >     - **(II)** shall be a net operating loss carryover to each of the 20 taxable years following the taxable year of the loss.
+  >   - **(iv)** *Specified financial institution* For purposes of this subparagraph, the term “specified financial institution” means—
+  >     - **(I)** any bank (as defined in section 581) that is not a member of an affiliated group (as defined in section 1504(a)(1)),
+  >     - **(II)** any member of an affiliated group (as so defined in section 1504(a)(1)) that includes one or more banks (as defined in section 581) that are not described in section 2(c)(2)(H) of the Bank Holding Company Act of 1956 (12 U.S.C. 1841(c)(2)(H)), and
+  >     - **(III)** any bank within the meaning of section 585(a)(2)(B).
+  >   - **(v)** *Elections* Any election under this subparagraph—
+  >     - **(I)** shall be made in such manner as the Secretary may prescribe,
+  >     - **(II)** shall be made not later than the due date of the taxpayer’s return of tax for the taxable year of the net operating loss to which such election relates, and
+  >     - **(III)** once made for any taxable year, shall be irrevocable for such taxable year.
+
+- **(b)** *Conforming amendments*
+  - **(1)** Section 172(b)(1)(A)(i) of such Code is amended by striking “and (D)” and inserting “(D)(ii)(I), (D)(iii)(I), and (E)”.
+  - **(2)** Section 172(b)(1)(A)(ii) of such Code is amended by inserting “(D)(i), (D)(ii)(II), and (D)(iii)(II),” after “(C)(ii),”.
+- **(c)** *Effective date* The amendments made by this section shall apply to net operating losses arising in taxable years beginning after December 31, 2026.
