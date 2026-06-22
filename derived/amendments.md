@@ -1,7 +1,7 @@
 ---
 measure: S. 3799
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -26,9 +26,9 @@ to guess them.
 
 ### 42 U.S.C. § 254c-8
 
-> Section 330H(e)(1) of the Public Health Service Act (42 U.S.C. 254c–8(e)(1)) is amended by striking “appropriated” and all that follows through the period at the end and inserting “appropriated $145,000,000 for each of fiscal years 2026 through 2030.”.
+> Section 330H(e)(1) of the Public Health Service Act (42 U.S.C. 254c–8(e)(1)) is amended by striking “appropriated” and all that follows through the period at the end and inserting “appropriated $145,000,000 for each of fiscal years 2026 through 2030$145,250,000 for each of fiscal years 2027 through 2031.”.
 
 | | |
 |---|---|
 | Removed | `appropriated` |
-| Inserted | `appropriated $145,000,000 for each of fiscal years 2026 through 2030.` |
+| Inserted | `appropriated $145,000,000 for each of fiscal years 2026 through 2030$145,250,000 for each of fiscal years 2027 through 2031.` |
