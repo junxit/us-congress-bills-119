@@ -1,7 +1,7 @@
 ---
 measure: S. 4109
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4109
@@ -30,3 +30,7 @@ Stem Cell Therapeutic and Research Reauthorization Act of 2026
 
 - 2026-03-17 — Introduced in Senate
 - 2026-03-17 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (Sponsor introductory remarks on measure: CR S1093)
+- 2026-06-17 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2026-06-22 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy with an amendment in the nature of a substitute. Without written report.
+- 2026-06-22 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy with an amendment in the nature of a substitute. Without written report.
+- 2026-06-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 443.
