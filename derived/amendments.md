@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6644
 congress: 119
-version: Engrossed Amendment House
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-283 amendatory instructions. 118 executed, 165 stated and not applied.
+296 amendatory instructions. 127 executed, 169 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -699,6 +699,15 @@ to guess them.
 | Removed | `lease—` |
 | Inserted | `lease meets the terms and conditions established by the Secretary` |
 
+### 42 U.S.C. § 5305
+
+> in section 105(a) (42 U.S.C. 5305(a)), in the matter preceding paragraph (1), by striking “Activities” and inserting “Unless otherwise authorized under section 123, activities”; and
+
+| | |
+|---|---|
+| Removed | `Activities` |
+| Inserted | `Unless otherwise authorized under section 123, activities` |
+
 ### 12 U.S.C. § 3332
 
 > by striking “year. The report shall also detail” and inserting “year, detailing”;
@@ -818,7 +827,7 @@ to guess them.
 
 ### 42 U.S.C. § 12750
 
-> by striking “Recognition.—” and all that follows through “A contribution” and inserting “Recognition.—A contribution”;
+> by striking “Recognition.—” and all that follows through “A contribution” and inserting “Recognition.—A contribution”; and
 
 | | |
 |---|---|
@@ -971,12 +980,12 @@ to guess them.
 
 ### 42 U.S.C. § 12747
 
-> in clause (ii), by striking “Subcommittee on Housing and Community Development” and inserting “Subcommittee on Housing and Insurance”;
+> in clause (ii), by striking “Subcommittee on Housing and Community Development of the Committee on Banking, Finance and Urban Affairs” and inserting “Subcommittee on Housing and Insurance of the Committee on Financial Services”;
 
 | | |
 |---|---|
-| Removed | `Subcommittee on Housing and Community Development` |
-| Inserted | `Subcommittee on Housing and Insurance` |
+| Removed | `Subcommittee on Housing and Community Development of the Committee on Banking, Finance and Urban Affairs` |
+| Inserted | `Subcommittee on Housing and Insurance of the Committee on Financial Services` |
 
 ### 42 U.S.C. § 12750
 
@@ -1004,6 +1013,15 @@ to guess them.
 |---|---|
 | Removed | `to community land trusts (as such term is defined in subsection (f))` |
 | Inserted | `to community land trusts (as such term is defined in section 104)` |
+
+### 12 U.S.C. § 3702
+
+> by striking “or 515” and inserting “515, or 538”; and
+
+| | |
+|---|---|
+| Removed | `or 515` |
+| Inserted | `515, or 538` |
 
 ### 42 U.S.C. § 1490a
 
@@ -1059,6 +1077,60 @@ to guess them.
 | Removed | `paragraph` |
 | Inserted | `subparagraph` |
 
+### 42 U.S.C. § 5306
+
+> by striking “metropolitan city or” and inserting “State, metropolitan city, or”;
+
+| | |
+|---|---|
+| Removed | `metropolitan city or` |
+| Inserted | `State, metropolitan city, or` |
+
+### 42 U.S.C. § 5306
+
+> by striking “city or county” and inserting “State, city, or county”; and
+
+| | |
+|---|---|
+| Removed | `city or county` |
+| Inserted | `State, city, or county` |
+
+### 42 U.S.C. § 5306
+
+> in subparagraph (D), by striking “metropolitan cities and” and inserting “States, metropolitan cities, and”;
+
+| | |
+|---|---|
+| Removed | `metropolitan cities and` |
+| Inserted | `States, metropolitan cities, and` |
+
+### 42 U.S.C. § 5306
+
+> by striking “metropolitan city or” and inserting “State, metropolitan city, or”; and
+
+| | |
+|---|---|
+| Removed | `metropolitan city or` |
+| Inserted | `State, metropolitan city, or` |
+
+### 42 U.S.C. § 5306
+
+> in subparagraph (G), by striking “metropolitan city or” and inserting “State, metropolitan city, or”;
+
+| | |
+|---|---|
+| Removed | `metropolitan city or` |
+| Inserted | `State, metropolitan city, or` |
+
+### 42 U.S.C. § 5321
+
+> in section 122 (42 U.S.C. 5321), by striking “disaster under title IV of the Robert T. Stafford Disaster Relief and Emergency Assistance Act” and inserting “major disaster”; and
+
+| | |
+|---|---|
+| Removed | `disaster under title IV of the Robert T. Stafford Disaster Relief and Emergency Assistance Act` |
+| Inserted | `major disaster` |
+
 ### 42 U.S.C. § 11313
 
 > by striking “Homeless Emergency Assistance and Rapid Transition to Housing Act of 2009” and inserting “21st Century ROAD to Housing Act”; and
@@ -1067,6 +1139,15 @@ to guess them.
 |---|---|
 | Removed | `Homeless Emergency Assistance and Rapid Transition to Housing Act of 2009` |
 | Inserted | `21st Century ROAD to Housing Act` |
+
+### 12 U.S.C. § 1831f
+
+> Section 29(i)(2)(A)(i)(I) of the Federal Deposit Insurance Act (12 U.S.C. 1831f(i)(2)(A)(i)) is amended by striking “was found to have a composite condition of outstanding or good” and inserting “was assigned a CAMELS rating of 1, 2, or 3 under the Uniform Financial Institutions Rating System (or an equivalent rating under a comparable rating system)”.
+
+| | |
+|---|---|
+| Removed | `was found to have a composite condition of outstanding or good` |
+| Inserted | `was assigned a CAMELS rating of 1, 2, or 3 under the Uniform Financial Institutions Rating System (or an equivalent rating under a comparable rating system)` |
 
 ### 12 U.S.C. § 1820
 
@@ -1102,24 +1183,30 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 5304` | strike | in paragraph (5), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 5304` | replace | in paragraph (6), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 5304` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 12705d` | repeal | Section 1205 of the Housing and Community Development Act of 1992 (42 U.S.C. 12705d) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5305` | strike | in paragraph (25)(D), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 5305` | strike | in paragraph (25), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 5305` | replace | in paragraph (26), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 5305` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 12705d` | repeal | Section 1205 of the Housing and Community Development Act of 1992 (42 U.S.C. 12705d) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5305` | strike | in paragraph (26), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 5305` | replace | in paragraph (27), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 12745` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3531` | insert | The Department of Housing and Urban Development Act (42 U.S.C. 3531 et seq.) is amended by inserting after section 12 (42 U.S.C. 3537a) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 4103` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 12741` | add-at-end | Subtitle A of title II of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12741 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 12741` | insert | The table of contents in section 1(b) of the Cranston-Gonzalez National Affordable Housing Act (Public Law 101–625; 104 Stat. 4079) is amended by inserting after the item relating to section 226 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1712a` | replace | in subsection (a), in the matter following paragraph (7), by striking “(commencing in 2004” and all that follows through the period at the end and inserting the following: “, commencing on July 1, 2025. The adjustment of the dollar amoun… | the bill quotes the text struck but describes what replaces it |
+| `12 U.S.C. § 1712a` | replace | in subsection (a), in the matter following paragraph (7), by striking “(commencing in 2004” and all that follows through the period at the end and inserting the following: “, commencing on July 1, 2025. The adjustment of the Dollar Amoun… | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 1712a` | amend | by amending subsection (b) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1713` | strike | by striking “, or not to exceed $17,460 per space”; | the bill quotes the text struck but describes what replaces it |
+| — | replace | in the second proviso, by striking “until September 30, 2029” and inserting “for fiscal year 2012 and each fiscal year thereafter”; | the bill names no machine-readable US Code section |
+| — | replace | in the fourth proviso, by striking “455,000” and inserting “555,000”; | the bill names no machine-readable US Code section |
+| — | replace | in the twentieth proviso, as so designated before the date of enactment of this Act, by striking “or other means:” and inserting “or other means, including the adoption of a mandatory tenant lease and management plan addendum for a prope… | the bill names no machine-readable US Code section |
+| — | replace | by striking “vouchers to project-based vouchers.” and inserting “vouchers to project-based vouchers: Provided further, That the Secretary shall annually assess and publish findings regarding the impact of the conversion of assistance und… | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 5302` | amend | the sum obtained by adding the absolute values of the current annual growth rate and the prior annual growth rate of the eligible recipient. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5403` | amend | Section 604(a) of the National Manufactured Housing Construction and Safety Standards Act of 1974 (42 U.S.C. 5403(a)) is amended by adding the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5403` | add-at-end | Section 604 of the National Manufactured Housing Construction and Safety Standards Act of 1974 (42 U.S.C. 5403) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5408` | strike | in paragraph (1), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 5408` | replace | in paragraph (2), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 5408` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5401` | insert | in section 603(7), by inserting “energy efficiency,” after “design,”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 5401` | add-at-end | in section 604, by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1703` | insert | in subsection (a), by inserting “construction of additional or accessory dwelling units, as defined by the Secretary,” after “energy conserving improvements,”; and | the bill quotes the text inserted but describes where it goes |
 | `12 U.S.C. § 1703` | replace | by striking subparagraph (A) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1703` | strike | by striking “an apartment house or”; | the bill quotes the text struck but describes what replaces it |
@@ -1130,6 +1217,7 @@ complete account of the bill's effect, which it is not.
 | `12 U.S.C. § 1703` | insert | by inserting after subparagraph (G) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1703` | insert | by inserting “, or as necessary to achieve the goals of the Federal Housing Administration, periodically reset the dollar amount limitations in subparagraphs (A) through (H) based on justification and methodology set forth in advance by … | the bill quotes the text inserted but describes where it goes |
 | `12 U.S.C. § 1703` | replace | by striking paragraph (9) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 4702` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1708` | replace | by striking subparagraphs (A) and (B) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 3338` | add-at-end | Section 1109(a) of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 3338(a)) is amended, in the matter following clause (ii) of paragraph (4)(B), by adding at the end the following: “Subject to the appr… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 3332` | insert | by inserting “and State credentialed trainee appraisers” after “licensed appraisers”; and | the bill quotes the text inserted but describes where it goes |
@@ -1170,15 +1258,15 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 12748` | redesignate | by redesignating subsection (h) as subsection (g). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 12771` | amend | Section 231(b) of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12771(b)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 12838` | add-at-end | Section 288 of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12838) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 12704` | amend | Section 104 of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12704) is amended by adding at end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 12704` | replace | Section 104 of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12704) is amended by striking paragraph (25) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 12721` | add-at-end | Title II of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12721 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 12747` | replace | in paragraph (1), by striking the second sentence and inserting the following: “Subject to paragraph (4), jurisdictions eligible for such reallocations shall include participating jurisdictions and jurisdictions meeting the requirements … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 12747` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 12745` | replace | Section 215(a)(1)(E) of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12745(a)) is amended by striking “except upon a foreclosure by a lender (or upon other transfer in lieu of foreclosure) if such action (i) recognize… | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 12755` | add-at-end | Section 225 of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12755) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 12704` | add-at-end | Section 104 of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12704) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 12750` | redesignate | by redesignating subparagraphs (A) and (B) as paragraphs (1) and (2), respectively and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 12750` | strike | by striking paragraph (2). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 12704` | add-at-end | Section 104 of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12704), as amended by subsection (l)(4), is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 12750` | strike | by striking paragraph (2); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 12750` | redesignate | by redesignating subparagraphs (A) and (B) as paragraphs (1) and (2), respectively, and adjusting the margins accordingly. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 12747` | replace | by striking “Unless otherwise specified” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 12756` | replace | by striking “Each participating jurisdiction” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 12756` | replace | by striking “Such review shall include” and all that follows and inserting the following: | the bill quotes the text struck but describes what replaces it |
@@ -1200,9 +1288,7 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 12750` | redesignate | by redesignating paragraphs (6), (7), and (8) as paragraphs (5), (6), and (7), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 12755` | strike | in section 225(d)(4)(B) (42 U.S.C. 12755(d)(4)(B)), by striking “for” the first place that term appears; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 12773` | strike | by striking subsection (f). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 3702` | strike | in subparagraph (E), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `12 U.S.C. § 3702` | replace | in subparagraph (F), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1484` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 3702` | insert | by inserting “, 1490p–2” after “1485”. | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 1490a` | add-at-end | Section 521(d) of the Housing Act of 1949 (42 U.S.C. 1490a(d)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1471` | add-at-end | Title V of the Housing Act of 1949 (42 U.S.C. 1471 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1490a` | redesignate | by redesignating subparagraphs (B) and (C) as subparagraphs (C) and (D), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1222,9 +1308,23 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 1472` | replace | by striking “Loans may be guaranteed” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 1472` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 11373` | add-at-end | Section 414 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11373) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 3533` | add-at-end | Section 4 of the Department of Housing and Urban Development Act (42 U.S.C. 3533) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1437a` | redesignate | by redesignating subparagraph (B) as subparagraph (C); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1437a` | redesignate | in subparagraph (C), as so redesignated, by inserting “or (B)” after “subparagraph (A)”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 1437a` | insert | by inserting after subparagraph (A) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5122` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5306` | strike | by striking “declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act”; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 5306` | insert | by inserting “States for use in nonentitlement areas and to” before “metropolitan cities”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 5306` | insert | by inserting “major” after “affected by the”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 5306` | insert | by inserting “major” before “disaster”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 5306` | insert | by inserting “major” before “disaster”; and | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 5165` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 4541` | add-at-end | Subpart A of part 2 of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4541 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1437a` | redesignate | by redesignating clauses (iv) and (v) as clauses (vi) and (vii), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 1437a` | insert | by inserting after clause (iii) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1709` | replace | by striking “ratio in” and inserting “ratio— | the bill quotes the text struck but describes what replaces it |
+| `12 U.S.C. § 1709` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 4541` | add-at-end | Subpart A of part 2 of subtitle A of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (12 U.S.C. 4541 et seq.), as amended by section 601(a) of this Act, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 3535` | add-at-end | Section 7 of the Department of Housing and Urban Development Act (42 U.S.C. 3535) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1708` | add-at-end | Section 202(a) of the National Housing Act (12 U.S.C. 1708(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 11313` | replace | by striking “update such plan annually” and inserting | the bill quotes the text struck but describes what replaces it |
@@ -1236,27 +1336,12 @@ complete account of the bill's effect, which it is not.
 | `12 U.S.C. § 1831f` | add-at-end | Section 29 of the Federal Deposit Insurance Act (12 U.S.C. 1831f) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1831f` | add-at-end | Section 29 of the Federal Deposit Insurance Act (12 U.S.C. 1831f), as amended by subsection (a), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1831f` | replace | Section 29(i) of the Federal Deposit Insurance Act (12 U.S.C. 1831f(i)) is amended by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1831f` | replace | Section 29(i)(2)(A)(i) of the Federal Deposit Insurance Act (12 U.S.C. 1831f(i)(2)(A)(i)) is amended by striking subclause (I) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1761b` | strike | by striking “monthly” each place such term appears; | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 1761b` | replace | in the matter preceding paragraph (1), by striking “The board of directors” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 1761b` | strike | in subsection (a) (as so designated), by striking “shall meet at least once a month and”; and | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 1761b` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1823` | amend | Section 13(c)(4)(G)(iv) of the Federal Deposit Insurance Act (12 U.S.C. 1823(c)(4)(G)(iv)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1823` | add-at-end | Section 13(c) of the Federal Deposit Insurance Act (12 U.S.C. 1823(c)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1823` | insert | in subparagraph (A)(ii), by inserting “except as provided in subparagraph (I),” before “the total amount”; | the bill quotes the text inserted but describes where it goes |
-| `12 U.S.C. § 1823` | insert | in subparagraph (E)(i), by inserting “and except as provided in subparagraph (I),” after “appropriate,”; and | the bill quotes the text inserted but describes where it goes |
-| `12 U.S.C. § 1823` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1831o` | amend | by amending subparagraph (B) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1831o` | strike | in clause (i), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
-| `12 U.S.C. § 1831o` | replace | in clause (ii), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1831o` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1811` | amend | in section 44, by amending subsection (e) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1841` | amend | in section 3(d), by amending paragraph (5) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1841` | amend | in section 4(i)(8), by amending subparagraph (B) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1852` | redesignate | by redesignating paragraphs (1), (2), and (3) as subparagraphs (A), (B), and (C), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1852` | replace | by striking “With the” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `12 U.S.C. § 1852` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1823` | add-at-end | Section 13(c)(4) of the Federal Deposit Insurance Act (12 U.S.C. 1823(c)(4)), as amended by section 906(a)(3), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1463` | add-at-end | Section 308 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 1463 note) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1681a` | repeal | are repealed on the date that is 15 years after the effective date under paragraph (1). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 221` | insert | The Federal Reserve Act (12 U.S.C. 221 et seq.) is amended by inserting after section 16 (12 U.S.C. 411 et seq.) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
