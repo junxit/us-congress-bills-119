@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8881
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 8881
@@ -34,3 +34,9 @@ SBA Artificial Intelligence Utilization Act of 2026
 - 2026-06-03 — Placed on the Union Calendar, Calendar No. 594.
 - 2026-06-03 — Reported by the Committee on Small Business. H. Rept. 119-681.
 - 2026-06-03 — Reported by the Committee on Small Business. H. Rept. 119-681.
+- 2026-06-23 — Considered under suspension of the rules. (consideration: CR H4148-4149)
+- 2026-06-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 8881.
+- 2026-06-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-06-23 — Mr. Williams (TX) moved to suspend the rules and pass the bill.
+- 2026-06-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4148)
+- 2026-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4148)
