@@ -27,7 +27,7 @@ The Small Business Act (15 U.S.C. 631 et seq.) is amended—
   >   - **(3)** *Native Hawaiian Organization* The term Native Hawaiian Organization has the meaning given the term in section 8(a)(15).
   >   - **(4)** *Office* The term Office means the Office of Native American Affairs described in this section.
   > - **(b)** *Establishment*
-  >   - **(1)** *In general* There is established within the Administration the Office of Native American Affairs, which shall be responsible for establishing a working relationship with Indian Tribes and Native Hawaiian Organizations by targeting programs of the Administration relating to entrepreneurial development, contracting, and capital access to—
+  >   - **(1)** *In general* There may be established within the Administration the Office of Native American Affairs, which shall be responsible for establishing a working relationship with Indian Tribes and Native Hawaiian Organizations by targeting programs of the Administration relating to entrepreneurial development, contracting, and capital access to—
   >     - **(A)** establish or expand small business concerns owned and controlled by individuals who are members of Indian Tribes or Native Hawaiian Organizations; and
   >     - **(B)** promote economic development in Indian country (as defined in section 1151 of title 18, United States Code).
   >   - **(2)** *Connection with other programs* To the extent reasonable, the Office shall educate Indian Tribes and Native Hawaiian Organizations about programs administered by other Federal agencies related to the interests described in paragraph (1).

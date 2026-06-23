@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7396
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7396
@@ -37,3 +37,9 @@ Native American Entrepreneurial Opportunity Act
 - 2026-02-17 — Placed on the Union Calendar, Calendar No. 424.
 - 2026-02-17 — Reported by the Committee on Small Business. H. Rept. 119-498.
 - 2026-02-17 — Reported by the Committee on Small Business. H. Rept. 119-498.
+- 2026-06-23 — Considered under suspension of the rules. (consideration: CR H4138-4140)
+- 2026-06-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7396.
+- 2026-06-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-06-23 — Mr. Williams (TX) moved to suspend the rules and pass the bill, as amended.
+- 2026-06-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4138-4139)
+- 2026-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
