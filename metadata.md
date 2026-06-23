@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4238
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4238
@@ -56,3 +56,9 @@ DLARA
 - 2026-06-11 — Placed on the Union Calendar, Calendar No. 603.
 - 2026-06-11 — Reported (Amended) by the Committee on Small Business. H. Rept. 119-695, Part I.
 - 2026-06-11 — Reported (Amended) by the Committee on Small Business. H. Rept. 119-695, Part I.
+- 2026-06-23 — Considered under suspension of the rules. (consideration: CR H4143-4145)
+- 2026-06-23 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4238.
+- 2026-06-23 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-06-23 — Mr. Williams (TX) moved to suspend the rules and pass the bill, as amended.
+- 2026-06-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4143-4144)
+- 2026-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.

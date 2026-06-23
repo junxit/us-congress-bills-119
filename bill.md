@@ -40,7 +40,7 @@ Section 12091(a) of the Small Business Disaster Response and Loan Improvements A
     > - **(J)** a summary detailing any changes to estimates or assumptions on obligations and expenditures, including data supporting these changes.
 
 - **(3)** by adding at the end the following:
-  > - **(3)** *Prohibition on official travel* If the Administrator does not submit a report required to be submitted under paragraph (1) by the required date, no funds may be obligated for official travel by the Administrator until the Administrator submits the report.
+  > - **(3)** *Prohibition on official travel* If the Administrator does not submit a report required to be submitted under paragraph (1) by the required date, no funds are authorized to be appropriated for official travel by the Administrator until the Administrator submits the report.
 
 ## § 5. Budget request relating to disaster loans
 
@@ -65,7 +65,7 @@ Section 7(b) of the Small Business Act (15 U.S.C. 636(b)) is amended—
 
 - **(1)** by redesignating the second paragraph designated as paragraph (16), relating to statute of limitations, as added by the COVID–19 EIDL Fraud Statute of Limitations Act of 2022 (Public Law 117–165; 136 Stat. 1363), as paragraph (18); and
 - **(2)** by inserting after paragraph (16), relating to disaster declarations in rural areas, as added by the Disaster Assistance for Rural Communities Act (Public Law 117–249; 136 Stat. 2350), the following:
-  > - **(17)** *Requirements when funding is low* Not later than 24 hours after the unobligated balance of amounts available for the cost of direct loans authorized by this subsection is less than 10 percent of the 10-year average annual cost provided in the most recent Presidential budget request required under section 1105(a)(39)(A) of title 31, United States Code, or, if unavailable, the 10-year average annual cost for the immediately preceding 10-year period of SBA disaster loans (as defined in section 1105(j) of such title), the Administrator shall notify the Committee on Appropriations and the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Appropriations and the Committee on Small Business of the House of Representatives.
+  > - **(17)** *Requirements when funding is low* Not later than 24 hours after the balance of funds authorized to be appropriated for the cost of direct loans authorized by this subsection is less than 10 percent of the 10-year average annual cost provided in the most recent Presidential budget request required under section 1105(a)(39)(A) of title 31, United States Code, or, if unavailable, the 10-year average annual cost for the immediately preceding 10-year period of SBA disaster loans (as defined in section 1105(j) of such title), the Administrator shall notify the Committee on Appropriations and the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Appropriations and the Committee on Small Business of the House of Representatives.
 
 ## § 7. GAO report on SBA disaster loan account
 
