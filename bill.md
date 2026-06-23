@@ -32,4 +32,4 @@ This Act may be cited as the “Small Business Cybersecurity Assistance Evaluati
 
 ## § 3. Compliance with CUTGO
 
-No additional amounts are authorized to carry out this Act.
+No such funds are authorized to be appropriated to carry out this Act.
