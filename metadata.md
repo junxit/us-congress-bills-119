@@ -1,7 +1,7 @@
 ---
 measure: S. 1133
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1133
@@ -32,3 +32,7 @@ Sunshine in the Courtroom Act of 2025
 
 - 2025-03-26 — Introduced in Senate
 - 2025-03-26 — Read twice and referred to the Committee on the Judiciary.
+- 2026-06-18 — Committee on the Judiciary. Ordered to be reported without amendment favorably.
+- 2026-06-23 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
+- 2026-06-23 — Committee on the Judiciary. Reported by Senator Grassley without amendment. Without written report.
+- 2026-06-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 444.
