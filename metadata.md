@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8882
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8882
@@ -21,9 +21,10 @@ Main Street Competes Act
 - Rep. Schmidt, Derek [R-KS-2] (S001228)
 - Rep. Goodlander, Maggie [D-NH-2] (G000604)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Main Street Competes Act
 - 2026-06-23 — Mr. Williams (TX) moved to suspend the rules and pass the bill.
 - 2026-06-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4149-4150)
 - 2026-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4149-4150)
+- 2026-06-24 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
