@@ -1,7 +1,7 @@
 ---
 measure: S. 4591
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4591
@@ -16,7 +16,7 @@ NO FAKES Act of 2026
 
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 
-## Cosponsors (13)
+## Cosponsors (15)
 
 - Sen. Blackburn, Marsha [R-TN] (B001243)
 - Sen. Klobuchar, Amy [D-MN] (K000367)
@@ -31,6 +31,8 @@ NO FAKES Act of 2026
 - Sen. Hagerty, Bill [R-TN] (H000601)
 - Sen. Slotkin, Elissa [D-MI] (S001208)
 - Sen. Lankford, James [R-OK] (L000575)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Scott, Rick [R-FL] (S001217)
 
 ## Committees (1)
 
@@ -40,3 +42,7 @@ NO FAKES Act of 2026
 
 - 2026-05-20 — Introduced in Senate
 - 2026-05-20 — Read twice and referred to the Committee on the Judiciary.
+- 2026-06-18 — Committee on the Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2026-06-24 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
+- 2026-06-24 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
+- 2026-06-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 446.
