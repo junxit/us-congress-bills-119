@@ -1,0 +1,57 @@
+---
+legis-num: H.R. 9433
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 9433
+
+> To direct the Secretary of Veterans Affairs to establish a pilot program to provide mental and behavioral health support to friends and families of veterans, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “VA Coaching into Care Act”.
+
+## § 2. Pilot program: mental and behavioral health hotline for friends and families of veterans
+
+- **(a)** *Establishment* Not later than one year after the date of the enactment of this Act, the Secretary of Veterans Affairs shall establish a pilot program (in this section referred to as the “Program”) to maintain a toll-free hotline to provide access to licensed mental and behavioral health support providers to eligible recipients.
+- **(b)** *Providers* In carrying out the Program, the Secretary shall ensure that—
+  - **(1)** the hotline is staffed by psychologists and social workers who are—
+    - **(A)** employees of the Department of Veterans Affairs; and
+    - **(B)** hired by the Secretary for the Program; and
+  - **(2)** such employees provide to eligible recipients—
+    - **(A)** advice on how to discuss mental and behavioral health with a veteran; and
+    - **(B)** appropriate referrals to programs of the Department or to non-Department entities that provide mental health services or resources.
+- **(c)** *Outreach*
+  - **(1)** *Service organizations* Not later than 60 days after the Secretary establishes the Program, the Secretary shall provide information on the services available through the Program to—
+    - **(A)** veterans service organizations; and
+    - **(B)** other organizations that serve veterans, family members of veterans, or caregivers of veterans, that the Secretary determines appropriate.
+  - **(2)** *Materials; website* Not later than 90 days after the Secretary establishes the Program, the Secretary shall—
+    - **(A)** furnish, in each Vet Center or medical facility of the Department, promotional flyers, brochures, and posters that provide information on the services available through the Program; and
+    - **(B)** promote the Program on a publicly accessible website of the Department and in other outreach campaigns and activities conducted by the Secretary.
+- **(d)** *Report* Not later than 180 days after the Program terminates under subsection (e), the Secretary shall submit to the Committees on Veterans' Affairs of the Senate and House of Representatives a report on the results of the Program. Elements of such report shall include—
+  - **(1)** with respect to calls received through the hotline—
+    - **(A)** the number of such calls;
+    - **(B)** the average time for such employees to answer such calls; and
+    - **(C)** the average duration of such calls;
+  - **(2)** with respect to referrals provided under subsection (b)—
+    - **(A)** the types of such referrals; and
+    - **(B)** the number of such referrals;
+  - **(3)** a summary of the actions taken by the Secretary to comply with the requirements of subsection (c); and
+  - **(4)** recommendations of the Secretary regarding—
+    - **(A)** whether continuing or expanding the Program is feasible and advisable; and
+    - **(B)** any additional or modified authorities or resources required to conduct or expand the program.
+- **(e)** *Termination* The Program shall terminate three years after the day on which the Secretary establishes the Program.
+- **(f)** *Definitions* In this section:
+  - **(1)** The term eligible recipient means, with respect to a veteran, any of the following:
+    - **(A)** A family member.
+    - **(B)** An individual who resides with a veteran.
+    - **(C)** A friend.
+  - **(2)** The term family member includes the following:
+    - **(A)** A spouse.
+    - **(B)** A parent.
+    - **(C)** A dependent.
+    - **(D)** A sibling.
+  - **(3)** The term “Vet Center” has the meaning given such term in section 1712A of title 38, United States Code.
+  - **(4)** The term “veterans service organization” means an organization recognized under section 5902 of title 38, United States Code.
