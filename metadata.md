@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8286
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 8286
@@ -16,9 +16,10 @@ Protecting Americans’ Retirement Savings From Politics Act
 
 - Rep. Steil, Bryan [R-WI-1] (S001213)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Wagner, Ann [R-MO-2] (W000812)
+- Rep. Meuser, Daniel [R-PA-9] (M001204)
 
 ## Committees (1)
 
@@ -29,3 +30,8 @@ Protecting Americans’ Retirement Savings From Politics Act
 - 2026-04-15 — Introduced in House
 - 2026-04-15 — Introduced in House
 - 2026-04-15 — Referred to the House Committee on Financial Services.
+- 2026-04-21 — Committee Consideration and Mark-up Session Held
+- 2026-04-21 — Ordered to be Reported by the Yeas and Nays: 27 - 24.
+- 2026-06-24 — Placed on the Union Calendar, Calendar No. 618.
+- 2026-06-24 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-712.
+- 2026-06-24 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-712.
