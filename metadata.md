@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4801
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4801
@@ -31,3 +31,8 @@ Unleashing AI Innovation in Financial Services Act
 - 2025-07-29 — Introduced in House
 - 2025-07-29 — Introduced in House
 - 2025-07-29 — Referred to the House Committee on Financial Services.
+- 2026-05-13 — Committee Consideration and Mark-up Session Held
+- 2026-05-13 — Ordered to be Reported (Amended) by the Yeas and Nays: 33 - 19.
+- 2026-06-24 — Placed on the Union Calendar, Calendar No. 619.
+- 2026-06-24 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-713.
+- 2026-06-24 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-713.
