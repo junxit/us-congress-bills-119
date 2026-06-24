@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2152
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,28 +13,36 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Artificial Intelligence Practices, Logistics, Actions, and Necessities Act” or the “AI PLAN Act”.
 
-## § 2. Strategy to defend against risks posed by the use of artificial intelligence
+## § 2. Strategy to defend against risks posed by the use of artificial intelligence by adversarial actors
 
 - **(a)** *Sense of Congress* It is the sense of Congress that the development and use of artificial intelligence in the commission of financial crimes by adversarial actors poses a significant risk to the national and economic security of the United States.
-- **(b)** *Strategy To defend against risks posed by misinformation, fraud, and financial crime conducted with artificial intelligence*
-  - **(1)** *In general* Not later than 180 days after the date of the enactment of this Act and annually thereafter, the Secretary of the Treasury, the Secretary of Homeland Security, and the Secretary of Commerce, in consultation with the officials specified in paragraph (3), shall jointly submit to Congress a report that includes the following:
-    - **(A)** A description of interagency policies and procedures to defend United States financial markets, United States persons, United States businesses, and global supply chains from the national and economic security risks posed by the use of artificial intelligence in the commission of financial crimes, including fraud and the dissemination of misinformation.
-    - **(B)** An itemized list of readily available resources, hardware, software, and technologies that can be immediately utilized to combat the use of artificial intelligence in the commission of financial crimes, including fraud and the dissemination of misinformation.
-    - **(C)** An itemized list of resources, hardware, software, technologies, people, and budgetary estimates needed to help Federal departments and agencies to combat the use of artificial intelligence in the commission of financial crimes, including fraud and the dissemination of misinformation.
+- **(b)** *Strategy to defend against risks posed by financial crime conducted with artificial intelligence*
+  - **(1)** *In general* Not later than 180 days after the date of the enactment of this Act and annually thereafter, the Secretary of the Treasury, the Secretary of Homeland Security, and the Secretary of Commerce, in consultation with the officials specified in paragraph (3), shall jointly submit to Congress a report, which shall include a classified annex and may include an unclassified summary, provided that no sensitive information is disclosed publicly, that includes the following:
+    - **(A)** A description of interagency and applicable intergovernmental policies, procedures, and working groups to defend United States financial markets, United States persons, United States businesses, and global supply chains from the national and economic security risks posed by the use of artificial intelligence by adversarial actors in the commission of financial crimes.
+    - **(B)** A description of public-private partnerships, collaborative arrangements, and other coordinated activities of Federal departments and agencies in cooperation with the private-sector to defend United States financial markets, United States persons, United States businesses, and global supply chains from the national and economic security risks posed by the use of artificial intelligence by adversarial actors in the commission of financial crimes.
+    - **(C)** An itemized list of, and accompanying analysis of, readily available resources, including hardware, software, technologies, and people that can be immediately deployed by Federal departments and agencies to combat the use of artificial intelligence in the commission of financial crimes, with an assessment of their capabilities, limitations, and tradeoffs.
+    - **(D)** An itemized list of, and accompanying analysis of, resources, including hardware, software, technologies, and people, and budgetary estimates needed to help Federal departments and agencies to combat the use of artificial intelligence in the commission of financial crimes, with an assessment of their capabilities, limitations, and tradeoffs.
   - **(2)** *Considerations* Reports required pursuant to paragraph (1) shall take the following risks into consideration:
     - **(A)** Deepfakes.
     - **(B)** Voice cloning.
     - **(C)** Foreign election interference.
     - **(D)** Synthetic Identities.
-    - **(E)** False flags and false signals that disrupt market operations.
-    - **(F)** Overall digital fraud.
+    - **(E)** Artificial Intelligence-Driven Market Response.
+    - **(F)** False flags and false signals that disrupt market operations.
+    - **(G)** Attacks involving AI-supported social engineering.
+    - **(H)** Cyber breaches.
+    - **(I)** Number Spoofing.
+    - **(J)** Overall digital fraud and scams.
   - **(3)** *Officials specified* The officials specified in this paragraph are the following:
-    - **(A)** The United States Trade Representative.
-    - **(B)** The Attorney General.
-    - **(C)** The Chairman of the Board of Governors of the Federal Reserve System.
-    - **(D)** The Director of the National Institute of Standards and Technology.
-    - **(E)** The Under Secretary of Commerce for Industry and Security.
-    - **(F)** The Chairman of the Securities and Exchange Commission.
-- **(c)** *Recommendations* Not later than 90 days after each report under subsection (b) is submitted, the Secretary of the Treasury, the Secretary of Homeland Security, and the Secretary of Commerce shall jointly submit to Congress a set of recommendations relating to each such respective report that contain the following:
-  - **(1)** Legislative recommendations to address the risks posed by the use of artificial intelligence in the commission of financial crimes, including fraud and the dissemination of misinformation.
-  - **(2)** Best practices to assist American businesses and government entities with risk mitigation and incident response to address the risks posed by the use of artificial intelligence in the commission of financial crimes, including fraud and the dissemination of misinformation.
+    - **(A)** The Attorney General.
+    - **(B)** The Chairman of the Board of Governors of the Federal Reserve System.
+    - **(C)** The Comptroller of the Currency.
+    - **(D)** The Chairperson of the Federal Deposit Insurance Corporation.
+    - **(E)** The Chairman of the National Credit Union Administration.
+    - **(F)** The Director of the National Institute of Standards and Technology.
+    - **(G)** The Chairman of the Securities and Exchange Commission.
+    - **(H)** The Chairman of the Federal Communications Commission.
+    - **(I)** The Chairman of the Federal Trade Commission.
+- **(c)** *Recommendations* Not later than 90 days after each report under subsection (b) is submitted, the Secretary of the Treasury, the Secretary of Homeland Security, and the Secretary of Commerce shall jointly submit to Congress a set of recommendations relating to each such respective report that contains the following:
+  - **(1)** Legislative recommendations to address the risks posed by the use of artificial intelligence by adversarial actors in the commission of financial crimes.
+  - **(2)** Best practices to assist American businesses and government entities with risk mitigation and incident response to address the risks posed by the use of artificial intelligence by adversarial actors in the commission of financial crimes.
