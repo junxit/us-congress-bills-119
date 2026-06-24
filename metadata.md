@@ -1,7 +1,7 @@
 ---
 measure: S. 4668
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4668
@@ -30,3 +30,7 @@ Protect College Sports Act of 2026
 
 - 2026-06-02 — Introduced in Senate
 - 2026-06-02 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2026-06-18 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2026-06-24 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. Without written report.
+- 2026-06-24 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. Without written report.
+- 2026-06-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 449.
