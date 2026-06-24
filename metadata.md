@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8880
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8880
@@ -20,9 +20,10 @@ Small Business Cybersecurity Assistance Evaluation Act of 2026
 
 - Rep. Bresnahan, Robert P. [R-PA-8] (B001327)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Small Business Cybersecurity Assistance Evaluation Act of 2026
 - 2026-06-23 — Mr. Williams (TX) moved to suspend the rules and pass the bill, as amended.
 - 2026-06-23 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4146-4147)
 - 2026-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4146-4147)
+- 2026-06-24 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
