@@ -18,9 +18,10 @@ This Act may be cited as the “Fostering the Use of Technology to Uphold Regula
 Congress finds the following:
 
 - **(1)** Banking regulators continue to examine and monitor depository institutions without sufficient access to real-time information.
-- **(2)** Supervisory regulators should leverage technologies to more effectively carry out their duties.
-- **(3)** When updating supervisory technology, risks surrounding technology procurement must be effectively managed.
-- **(4)** Agencies’ reliance on outdated technology can create vulnerabilities for the financial system, through—
+- **(2)** Risk surrounding technology procurement may present challenges for updating supervisory technology.
+- **(3)** To ensure that prudential supervision is effective and sustainable in the digital age, agencies must leverage new technologies to allow for the financial monitoring necessary to preserve a safe and sound banking system.
+- **(4)** New technological tools are also necessary in order for agencies to effectively fulfill mandates other than prudential supervision, including their mandates to assure consumer protection and monitor Bank Secrecy Act compliance.
+- **(5)** Agencies’ reliance on outdated technology can create vulnerabilities for the financial system, through—
   - **(A)** difficulties in collecting, compiling, and analyzing relevant information about risks and noncompliance at supervised firms;
   - **(B)** reliance on information that is inaccurate, incomplete, or not timely;
   - **(C)** reliance on limited and outdated tools for data analysis;
@@ -28,8 +29,8 @@ Congress finds the following:
   - **(E)** difficulties in producing accurate and timely reports;
   - **(F)** inadequacy of cybersecurity safeguards; and
   - **(G)** failure to detect illegal activities.
-- **(5)** The rapid expansion of financial firms’ use of artificial intelligence may generate opportunities to improve the financial system while also introducing a range of risks, making it essential that agencies be equipped with the technology, expertise, and skills needed to analyze these opportunities and potential risks.
-- **(6)** While agencies assess their supervisory capabilities on an ongoing basis, it is imperative that there be a unified goal of enhancing supervisory technologies that ensure effective and sustainable oversight.
+- **(6)** The rapid expansion of financial firms’ use of artificial intelligence may generate opportunities to improve the financial system while also introducing a range of risks, making it essential that agencies be equipped with the technology, expertise, and skills needed to analyze these opportunities and potential risks.
+- **(7)** While agencies assess their supervisory capabilities on an ongoing basis, it is imperative that there be a unified goal of enhancing supervisory technologies that ensure effective and sustainable oversight.
 
 ## § 3. Technological capabilities and procurement practices assessment
 
@@ -49,7 +50,7 @@ Congress finds the following:
     - **(B)** any opportunities to further streamline procurement rules and protocols, including an assessment of the impact such rules or protocols have on the ability of the covered agency to test new technological systems.
   - **(3)** A general overview of the portion of the workforce of the covered agency that is engaged materially in technology development within the covered agency, including—
     - **(A)** an overview of the ability of the covered agency to recruit and retain appropriate technology experts; and
-    - **(B)** a description of the degree to which the covered agency relies on contractors to design, develop, or deploy technology and perform technology-related tasks.
+    - **(B)** a description of the degree to which the covered agency relies on contractors to design, develop, or deploy technology and perform technology-related tasks, and a description of related risk management practices for contractors and third-party technologies.
   - **(4)** A general description of the processes used by the covered agency to obtain information from entities supervised by the covered agency and any impediments thereto, including regulatory obstacles.
   - **(5)** General information about market and technology trends and risks in the underlying regulated markets including, specific to the covered agency’s jurisdiction—
     - **(A)** market developments influenced by the adoption of new technologies;
@@ -68,4 +69,4 @@ Congress finds the following:
       - **(i)** estimates of transition costs; and
       - **(ii)** estimates of any potential cost reductions; and
     - **(G)** as applicable, the covered agency’s relationships with other covered agencies in their capacity as delegated examiners.
-- **(c)** *Covered agency defined* In this section, the “covered agency” means the Board of Governors of the Federal Reserve System, the Bureau of Consumer Financial Protection, the Federal Deposit Insurance Corporation, the Department of the Treasury, including the Office of the Comptroller of the Currency and the Financial Crimes Enforcement Network, the Federal Housing Finance Agency, and the National Credit Union Administration.
+- **(c)** *Covered agency defined* In this section, the term “covered agency” means the Board of Governors of the Federal Reserve System, the Bureau of Consumer Financial Protection, the Federal Deposit Insurance Corporation, the Department of the Treasury, including the Office of the Comptroller of the Currency and the Financial Crimes Enforcement Network, the Federal Housing Finance Agency, and the National Credit Union Administration.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8278
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 8278
@@ -29,3 +29,8 @@ Fostering the Use of Technology to Uphold Regulatory Effectiveness in Supervisio
 - 2026-04-14 — Introduced in House
 - 2026-04-14 — Introduced in House
 - 2026-04-14 — Referred to the House Committee on Financial Services.
+- 2026-05-13 — Committee Consideration and Mark-up Session Held
+- 2026-05-13 — Ordered to be Reported (Amended) by the Yeas and Nays: 52 - 0.
+- 2026-06-24 — Placed on the Union Calendar, Calendar No. 617.
+- 2026-06-24 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-711.
+- 2026-06-24 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-711.
