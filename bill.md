@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Small Business Technological Act of 2025”.
+This Act may be cited as the “Small Business Technological Advancement Act”.
 
 ## § 2. Additional uses for small business administration business loans
 
