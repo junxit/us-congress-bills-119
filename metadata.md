@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8879
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8879
@@ -20,9 +20,10 @@ Oversight and Transparency for Small Business Certifications Act of 2026
 
 - Rep. Wied, Tony [R-WI-8] (W000829)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Oversight and Transparency for Small Business Certifications Act of 2026
 - 2026-06-23 — Mr. Williams (TX) moved to suspend the rules and pass the bill.
 - 2026-06-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4145-4146)
 - 2026-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4145-4146)
+- 2026-06-24 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
