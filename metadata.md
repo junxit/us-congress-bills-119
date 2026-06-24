@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5396
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5396
@@ -30,3 +30,8 @@ Price Stability Act of 2026
 - 2025-09-16 — Introduced in House
 - 2025-09-16 — Introduced in House
 - 2025-09-16 — Referred to the House Committee on Financial Services.
+- 2026-05-13 — Committee Consideration and Mark-up Session Held
+- 2026-05-13 — Ordered to be Reported (Amended) by the Yeas and Nays: 30 - 21.
+- 2026-06-24 — Placed on the Union Calendar, Calendar No. 616.
+- 2026-06-24 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-710.
+- 2026-06-24 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-710.
