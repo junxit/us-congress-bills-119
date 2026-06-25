@@ -1,0 +1,30 @@
+---
+legis-num: H.R. 9487
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 9487
+
+> To amend the Internal Revenue Code of 1986 to prohibit amortization of any professional women’s sports franchise which allows biological males to participate, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “No Goodwill for Harming Women Act”.
+
+## § 2. Prohibition on amortization of certain sports franchises
+
+- **(a)** *In general* Section 197(e) of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:
+  > - **(8)** *Certain sports franchises*
+  >   - **(A)** *In general* A specified sports franchise and any item acquired in connection with such a franchise.
+  >   - **(B)** *Specified sports franchise*
+  >     - **(i)** *In general* For purposes of subparagraph (A), the term specified sports franchise means a franchise—
+  >       - **(I)** to engage in a professional sport that is designated for females, and
+  >       - **(II)** which allows any individual whose sex is male to participate in such sport.
+  >     - **(ii)** *Sex* For purposes of clause (i), the term sex means an individual’s reproductive biology and genetics at birth.
+  >   - **(C)** *Regulations* For purposes of this paragraph, the Secretary shall prescribe such regulations or other guidance as may be necessary to carry out the purposes of this paragraph, including regulations or other guidance to—
+  >     - **(i)** verify which franchises are franchises described in subparagraph (B)(i)(I), and
+  >     - **(ii)** outline any necessary policies and verification methods required to determine whether a franchise verified pursuant to clause (i) is also a franchise described in subparagraph (B)(i)(II).
+
+- **(b)** *Effective date* The amendment made by this section shall apply to property acquired after the date of the enactment of this Act.
