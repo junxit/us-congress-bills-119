@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8884
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-9 amendatory instructions. 3 executed, 6 stated and not applied.
+10 amendatory instructions. 4 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -51,6 +51,15 @@ to guess them.
 | Removed | `90 days` |
 | Inserted | `120 days` |
 
+### 42 U.S.C. § 434
+
+> in subsection (d)(1), by striking “subsection” and inserting “section”; and
+
+| | |
+|---|---|
+| Removed | `subsection` |
+| Inserted | `section` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -65,4 +74,4 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 434` | strike | in paragraph (2), by striking the “and” at the end; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 434` | replace | in paragraph (3), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 434` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 434` | strike | Section 234 of such Act (42 U.S.C. 434) is further amended by striking subsection (f). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 434` | strike | by striking subsection (f). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
