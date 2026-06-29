@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7128
 congress: 119
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-13 amendatory instructions. 9 executed, 4 stated and not applied.
+16 amendatory instructions. 10 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -105,6 +105,15 @@ to guess them.
 | Removed | `Terrorism Insurance Program` |
 | Inserted | `Terrorism Risk Insurance Program` |
 
+### 15 U.S.C. § 6701
+
+> Section 313(c)(1)(D) of title 31, United States Code, is amended by striking “Terrorism Insurance Program” and inserting “Terrorism Risk Insurance Program”.
+
+| | |
+|---|---|
+| Removed | `Terrorism Insurance Program` |
+| Inserted | `Terrorism Risk Insurance Program` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -118,3 +127,5 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 6701` | replace | in clause (ii), by striking “exceed $5,000,000.” and inserting: | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 6701` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 6701` | replace | by striking subparagraph (D) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 6701` | redesignate | by redesignating subparagraphs (B), (C), (D), (E), and (F) as subparagraphs (C), (D), (E), (F), and (G), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 6701` | insert | by inserting after subparagraph (A) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

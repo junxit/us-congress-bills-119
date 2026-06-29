@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7128
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7128
@@ -27,6 +27,10 @@ TRIA Program Reauthorization Act of 2026
 
 - House — Financial Services Committee
 
+## Recorded votes (1)
+
+- 2026-06-29 — [House 119-2-229](votes/house-119-2-0229.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (373–15)
+
 ## Actions
 
 - 2026-01-16 — Introduced in House
@@ -37,3 +41,11 @@ TRIA Program Reauthorization Act of 2026
 - 2026-03-19 — Placed on the Union Calendar, Calendar No. 482.
 - 2026-03-19 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-561.
 - 2026-03-19 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-561.
+- 2026-06-29 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2026-06-29 — Considered as unfinished business. (consideration: CR H4302-4303)
+- 2026-06-29 — Considered under suspension of the rules. (consideration: CR H4273-4279)
+- 2026-06-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7128.
+- 2026-06-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-06-29 — Mr. Flood moved to suspend the rules and pass the bill, as amended.
+- 2026-06-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 373 - 15 (Roll no. 229). (text: CR H4273-4274)
+- 2026-06-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 373 - 15 (Roll no. 229). (text: CR H4273-4274)
