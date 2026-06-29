@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7258
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7258
@@ -38,3 +38,9 @@ Energy Emergency Leadership Act
 - 2026-05-11 — Placed on the Union Calendar, Calendar No. 562.
 - 2026-05-11 — Reported by the Committee on Energy and Commerce. H. Rept. 119-645.
 - 2026-05-11 — Reported by the Committee on Energy and Commerce. H. Rept. 119-645.
+- 2026-06-29 — Considered under suspension of the rules. (consideration: CR H4297-4298)
+- 2026-06-29 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7258.
+- 2026-06-29 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-06-29 — Mr. Guthrie moved to suspend the rules and pass the bill.
+- 2026-06-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4298)
+- 2026-06-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4298)
