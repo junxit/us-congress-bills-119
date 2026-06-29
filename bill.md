@@ -1,0 +1,24 @@
+---
+legis-num: H.R. 9525
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 9525
+
+> To amend title 18, United States Code, to limit the ability to assess a fee for health care services for prisoners, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Federal Bureau of Prisons Medical Care Act of 2026”.
+
+## § 2. No fee for health care services for prisoners
+
+Section 4048 of title 18, United States Code, is amended—
+
+- **(1)** by amending subsection (b) to read as follows:
+  > - **(b)** *Fees for health care services* In the case of health care services provided to a prisoner in connection with a health care visit that results from an injury inflicted on a prisoner by another prisoner, the Director, in accordance with this section and with such regulations as the Director shall promulgate to carry out this section, may assess and collect a fee in connection with each such health care visit, from the account of the prisoner who inflicted the injury, as determined by the Director.
+
+- **(2)** by striking subsection (c); and
+- **(3)** in subsection (e), by striking “or whether the prisoner qualifies under an exclusion under this section”.
