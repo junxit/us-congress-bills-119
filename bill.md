@@ -46,4 +46,4 @@ Section 40124 of the Infrastructure Investment and Jobs Act (42 U.S.C. 18723) is
 >     - **(B)** owns assets critical to the reliability of the bulk-power system; or
 >     - **(C)** owns or operates defense critical electric infrastructure.
 > - **(e)** *Protection of information* Information shared by or with the Federal Government or a State, Tribal, or local government under the Program shall be deemed voluntarily shared information and exempt from disclosure under section 552 of title 5, United States Code (commonly known as the Freedom of Information Act), or any provision of any State, Tribal, or local freedom of information law, open government law, open meetings law, open records law, sunshine law, or similar law requiring the disclosure of information or records.
-> - **(f)** *Authorization of appropriations* There is authorized to be appropriated to the Secretary to carry out this section $250,000,000 for the period of fiscal years 2026 through 2030.
+> - **(f)** *Authorization of appropriations* There is authorized to be appropriated to the Secretary to carry out this section $250,000,000 for the period of fiscal years 2027 through 2031.
