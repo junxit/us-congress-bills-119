@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7890
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7890
@@ -16,10 +16,11 @@ Science of Reading Act of 2026
 
 - Rep. Houchin, Erin [R-IN-9] (H001093)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Rep. Mannion, John W. [D-NY-22] (M001231)
 - Rep. Kiley, Kevin [R-CA-3] (K000401)
+- Rep. Foxx, Virginia [R-NC-5] (F000450)
 
 ## Committees (1)
 
@@ -30,3 +31,8 @@ Science of Reading Act of 2026
 - 2026-03-12 — Introduced in House
 - 2026-03-12 — Introduced in House
 - 2026-03-12 — Referred to the House Committee on Education and Workforce.
+- 2026-03-17 — Committee Consideration and Mark-up Session Held
+- 2026-03-17 — Ordered to be Reported (Amended) by the Yeas and Nays: 33 - 0.
+- 2026-06-29 — Placed on the Union Calendar, Calendar No. 623.
+- 2026-06-29 — Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-717.
+- 2026-06-29 — Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-717.

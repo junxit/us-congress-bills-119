@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Science of Reading Act of 2026”.
 
-## § 2. Promoting reading instruction aligned to science of reading
+## § 2. Promoting reading instruction aligned to the science of reading
 
 - **(a)** *Comprehensive literacy instruction* Section 2221(b) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6641(b)) is amended—
   - **(1)** in paragraph (1)—
