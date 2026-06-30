@@ -1,0 +1,47 @@
+---
+legis-num: H.R. 9562
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 9562
+
+> To amend the Immigration and Nationality Act to clarify the classes of individuals born in the United States who are nationals and citizens of the United States at birth and to provide for the inadmissibility of pregnant aliens who are not married to citizens of the United States seeking admission as nonimmigrants, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Anchors Away Act”.
+
+## § 2. Citizenship at birth for certain persons born in the united states
+
+- **(a)** *In general* Section 301 of the Immigration and Nationality Act (8 U.S.C. 1401) is amended—
+  - **(1)** by inserting “(a) In general.—” before “The following”;
+  - **(2)** by redesignating subsections (a) through (h) as paragraphs (1) through (8), respectively; and
+  - **(3)** by adding at the end the following:
+    > - **(b)** *Definition* Acknowledging the right of birthright citizenship established by section 1 of the 14th amendment to the Constitution, a person born in the United States shall be considered “subject to the jurisdiction” of the United States for purposes of subsection (a)(1) if the person is born in the United States of parents, one of whom is—
+    >   - **(1)** a citizen or national of the United States;
+    >   - **(2)** an alien lawfully admitted for permanent residence in the United States whose residence is in the United States; or
+    >   - **(3)** an alien with lawful status under the immigration laws performing active service in the Armed Forces (as defined in section 101 of title 10, United States Code).
+
+- **(b)** *Applicability* The amendment made by subsection (a) shall not be construed to affect the citizenship or nationality status of any person born before the date of the enactment of this Act.
+- **(c)** *Severability* If any provision of this section, or the application of such provision to any person or circumstance, is held to be unconstitutional, the remainder of this section, and the application of the provisions of this section to any other person or circumstance, shall not be affected thereby.
+
+## § 3. Inadmissibility of certain pregnant aliens
+
+Section 212(a)(10) of the Immigration and Nationality Act (8 U.S.C. 1182(a)(10)) is amended by adding at the end the following:
+
+> - **(F)** *Pregnant aliens not married to United States citizens*
+>   - **(i)** *In general* Any alien seeking admission to the United States as a nonimmigrant who is pregnant and is not married to a citizen of the United States is inadmissible.
+>   - **(ii)** *Rule of construction* Nothing in this subparagraph may be construed to render inadmissible an alien seeking legitimate medical treatment relating to childbirth.
+
+## § 4. Effective date
+
+This Act, and the amendments made by this Act, shall take effect on the date of the enactment of this Act and shall apply to—
+
+- **(1)** any person born on or after such date of enactment; and
+- **(2)** any application for admission to the United States made on or after such date of enactment.
+
+## § 5. Severability
+
+If any provision of this Act, or the application of such provision to any person or circumstance, is held to be unconstitutional, the remainder of this Act, and the application of the provisions of this Act to any other person or circumstance, shall not be affected thereby.
