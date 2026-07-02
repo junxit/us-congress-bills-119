@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7893
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7893
@@ -16,6 +16,10 @@ FAFSA Verification Efficiency Act
 
 - Rep. Walberg, Tim [R-MI-5] (W000798)
 
+## Cosponsors (1)
+
+- Rep. Foxx, Virginia [R-NC-5] (F000450)
+
 ## Committees (1)
 
 - House — Education and Workforce Committee
@@ -25,3 +29,8 @@ FAFSA Verification Efficiency Act
 - 2026-03-12 — Introduced in House
 - 2026-03-12 — Introduced in House
 - 2026-03-12 — Referred to the House Committee on Education and Workforce.
+- 2026-03-17 — Committee Consideration and Mark-up Session Held
+- 2026-03-17 — Ordered to be Reported (Amended) by the Yeas and Nays: 19 - 13.
+- 2026-07-02 — Placed on the Union Calendar, Calendar No. 635.
+- 2026-07-02 — Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-730.
+- 2026-07-02 — Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-730.
