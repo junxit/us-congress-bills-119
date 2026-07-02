@@ -94,7 +94,7 @@ Section 7 of the Harry S Truman Memorial Scholarship Act (20 U.S.C. 2006) is ame
   >       - **(iii)** has been convicted by any Federal, State, or local court of competent jurisdiction of a felony; and
   >     - **(C)** may not disfavor or otherwise apply adverse considerations to a student because the student intends to pursue a particular type of graduate degree, including with respect to a Master of Business Administration degree or Doctor of Medicine degree.
 
-## § 5. Termination of scholarship
+## § 5. Termination of Truman scholarship
 
 Section 9 of the Harry S Truman Memorial Scholarship Act (20 U.S.C. 2008) is amended—
 
