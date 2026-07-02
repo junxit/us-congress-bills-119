@@ -1,0 +1,39 @@
+---
+legis-num: H. RES. 1415
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 1415
+
+> Celebrating the country’s history of church-state separation and recognizing the 250th anniversary of the founding of the United States.
+
+## Preamble
+
+- Whereas one of the founding principles of the United States was religious freedom for all individuals to choose their own religious beliefs, including no religious beliefs at all;
+- Whereas the United States represented a beacon of freedom for early European settlers fleeing religious persecution and conflict who sought to practice their religion without government intervention;
+- Whereas Indigenous Americans had a profound diversity of religious beliefs which continue to be practiced today;
+- Whereas the Founding Fathers understood that a new form of government rooted in the consent of the governed was incompatible with monarchy and religious absolutism;
+- Whereas, in 1776, Thomas Paine affirmed that “in America the law is king”, writing, “For as in absolute governments the King is law, so in free countries the law ought to be King”;
+- Whereas the Founding Fathers erected a legal separation between church and state as the legal foundation of religious freedom;
+- Whereas the Founders’ fundamental principles were manifested in the creation of the First Amendment to the Constitution, which states that “Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof”;
+- Whereas 2 clauses of the First Amendment, the Free Exercise Clause and the Establishment Clause, have been an important bulwark in allowing religious pluralism to thrive as the United States expanded;
+- Whereas article VI, clause 3 of the Constitution prohibits religious tests for public office;
+- Whereas George Washington, in a letter to the Touro Synagogue, wrote of religious freedom: “the Government of the United States, which gives to bigotry no sanction, to persecution no assistance, requires only that they who live under its protection should demean themselves as good citizens in giving it on all occasions their effectual support”;
+- Whereas, in 1785, James Madison penned “A Memorial and Remonstrance Against Religious Assessments”, which argued that the state should not support overtly religious instruction paid for by the taxpayers, and expressed the importance of leaving matters of religion to the individual;
+- Whereas Thomas Jefferson described the importance of “a wall of separation” in his 1802 letter to the Danbury Baptists, in which he affirmed the First Amendment’s ironclad separation between government and religion;
+- Whereas numerous Presidents of the United States have addressed the United States to reaffirm the importance of church-state separation, including Ulysses S. Grant’s 1875 speech to the Society of the Army of the Tennessee, Calvin Coolidge’s 1925 inaugural address, John F. Kennedy’s 1960 remarks before the Greater Houston Ministerial Association, and Lyndon B. Johnson’s 1964 answers to the Baptist Standard;
+- Whereas American Presidents have repeatedly demonstrated the importance of fidelity to their oath to the Constitution and their obligations to steward religious freedom instead of endorsing or imposing a preferred religious belief system;
+- Whereas the Supreme Court has affirmed these constitutional principles in several landmark decisions, including Everson v. Board of Education (1947), McCollum v. Board of Education (1948), and Engel v. Vitale (1962);
+- Whereas these principles of religious freedom have ensured that the United States is the largest religiously diverse country in the world;
+- Whereas the separation of church and state has motivated people from all over the world to seek refuge in America from theocrats and dictators;
+- Whereas any public official who would use the mechanisms of government to impose their own religious views upon their fellow citizens would violate the foundational principles of the United States and long history of religious freedom; and
+- Whereas the importance of maintaining church-state separation to guard against tyranny cloaked in any form of religion has never been greater: Now, therefore, be it
+
+That the House of Representatives—
+
+- **(1)** recognizes the 250th anniversary of the founding of the United States of America and the important moment to reflect upon our historical traditions;
+- **(2)** continues to uphold the founding principles that have allowed each individual to practice their own version of belief, or lack thereof;
+- **(3)** opposes any theocratic impulses that would undermine fundamental American freedoms; and
+- **(4)** reaffirms the United States 250-year commitment to a secular Constitution that protects religious freedom, religious pluralism, and democratic self-government.
