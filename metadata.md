@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7661
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7661
@@ -16,7 +16,7 @@ Stop the Sexualization of Children Act
 
 - Rep. Miller, Mary E. [R-IL-15] (M001211)
 
-## Cosponsors (17)
+## Cosponsors (22)
 
 - Rep. Downing, Troy [R-MT-2] (D000634)
 - Rep. Fine, Randy [R-FL-6] (F000484)
@@ -35,6 +35,11 @@ Stop the Sexualization of Children Act
 - Rep. Rose, John W. [R-TN-6] (R000612)
 - Rep. Owens, Burgess [R-UT-4] (O000086)
 - Rep. Self, Keith [R-TX-3] (S001224)
+- Rep. McGuire, John J. [R-VA-5] (M001239)
+- Rep. Bost, Mike [R-IL-12] (B001295)
+- Rep. Norman, Ralph [R-SC-5] (N000190)
+- Rep. Webster, Daniel [R-FL-11] (W000806)
+- Rep. Taylor, David J. [R-OH-2] (T000490)
 
 ## Committees (1)
 
@@ -45,3 +50,8 @@ Stop the Sexualization of Children Act
 - 2026-02-24 — Introduced in House
 - 2026-02-24 — Introduced in House
 - 2026-02-24 — Referred to the House Committee on Education and Workforce.
+- 2026-03-17 — Committee Consideration and Mark-up Session Held
+- 2026-03-17 — Ordered to be Reported (Amended) by the Yeas and Nays: 18 - 13.
+- 2026-07-02 — Placed on the Union Calendar, Calendar No. 632.
+- 2026-07-02 — Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-727.
+- 2026-07-02 — Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-727.
