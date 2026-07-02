@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5160
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -27,4 +27,27 @@ Section 379B of the Public Health Service Act (42 U.S.C. 274m) is amended—
 
 ## § 3. Cord blood inventory
 
-Section 2(g) of the Stem Cell Therapeutic and Research Act of 2005 (42 U.S.C. 274k note) is amended by striking “2026” and inserting “2031”.
+- **(a)** *In general* Section 2(a) of the Stem Cell Therapeutic and Research Act of 2005 (42 U.S.C. 274k note) is amended by striking “at least 150,000 new units of high-quality cord blood” and inserting “a sufficient supply, as determined by the Secretary, of high-quality cord blood units”.
+- **(b)** *Application* Section 2(c) of such Act (42 U.S.C. 274k note) is amended—
+  - **(1)** in paragraph (2), by striking “in perpetuity or”; and
+  - **(2)** by amending paragraph (5) to read as follows:
+    > - **(5)** if the Secretary determines through an assessment, or through petition by the applicant, that a cord blood bank is no longer operational, does not meet the requirements described in subsection (d)(4), or does not meet the requirements of section 379(d)(4) of the Public Health Service Act, and as a result may not distribute the high-quality units, the Secretary may transfer the units collected pursuant to this section to another qualified cord blood bank or entity approved by the Secretary to ensure continued availability of high-quality cord blood units.
+
+- **(c)** *Duration of Contracts* Section 2(d)(4) of such Act (42 U.S.C. 274k note) is amended to read as follows:
+  > - **(4)** *Consideration of best science* The Secretary shall take into consideration current scientific and clinical information in order to maximize the availability of high-quality cord blood units meeting applicable clinical and quality standards for transplant when entering into contracts under this section, or when extending a period of funding under such a contract under paragraph (2).
+
+- **(d)** *Inventory management* Section 2 of such Act (42 U.S.C. 274k note) is amended—
+  - **(1)** by redesignating subsections (e), (f), and (g) and as subsections (f), (g), and (h), respectively; and
+  - **(2)** by inserting after subsection (d) the following:
+    > - **(e)** *Inventory management*
+    >   - **(1)** *In general* The Secretary shall manage the size and composition of the National Cord Blood Inventory to maximize clinical utility, ensure genetic diversity, and promote the efficient use of resources.
+    >   - **(2)** *Considerations* In carrying out paragraph (1), the Secretary may—
+    >     - **(A)** on the Secretary’s own initiative or upon petition by a qualified cord blood bank, make determinations regarding the continued storage of cord blood units based on the best available scientific and clinical evidence; or
+    >     - **(B)** prioritize the collection, retention, or disposition of cord blood units based on scientific, clinical, or operational considerations that the Secretary determines to be relevant.
+
+- **(e)** *Definitions* Section 2(g) of such Act, as redesignated by subsection (d)(1) of this section, is amended—
+  - **(1)** by redesignating paragraphs (4) and (5) as paragraphs (5) and (6), respectively; and
+  - **(2)** by inserting after paragraph (3) the following:
+    > - **(4)** The term “high quality cord blood unit” means a cord blood unit that meets current industry standards and any requirements of the Food and Drug Administration.
+
+- **(f)** *Authorization of appropriations* Section 2(h) of such Act, as redesignated by subsection (d)(1) of this section, is amended by striking “fiscal years 2022 through 2026” and inserting “fiscal years 2027 through 2031”.

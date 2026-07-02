@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5160
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-4 amendatory instructions. 1 executed, 3 stated and not applied.
+12 amendatory instructions. 2 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,12 +26,21 @@ to guess them.
 
 ### 42 U.S.C. § 274k
 
-> Section 2(g) of the Stem Cell Therapeutic and Research Act of 2005 (42 U.S.C. 274k note) is amended by striking “2026” and inserting “2031”.
+> Section 2(a) of the Stem Cell Therapeutic and Research Act of 2005 (42 U.S.C. 274k note) is amended by striking “at least 150,000 new units of high-quality cord blood” and inserting “a sufficient supply, as determined by the Secretary, of high-quality cord blood units”.
 
 | | |
 |---|---|
-| Removed | `2026` |
-| Inserted | `2031` |
+| Removed | `at least 150,000 new units of high-quality cord blood` |
+| Inserted | `a sufficient supply, as determined by the Secretary, of high-quality cord blood units` |
+
+### 42 U.S.C. § 274k
+
+> Section 2(h) of such Act, as redesignated by subsection (d)(1) of this section, is amended by striking “fiscal years 2022 through 2026” and inserting “fiscal years 2027 through 2031”.
+
+| | |
+|---|---|
+| Removed | `fiscal years 2022 through 2026` |
+| Inserted | `fiscal years 2027 through 2031` |
 
 ## Stated, not applied
 
@@ -45,3 +54,10 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 274m` | replace | by striking “appropriated $31,009,000” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 274m` | replace | in paragraph (1), as so inserted, by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 274m` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 274k` | strike | in paragraph (2), by striking “in perpetuity or”; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 274k` | amend | by amending paragraph (5) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 274k` | amend | Section 2(d)(4) of such Act (42 U.S.C. 274k note) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 274k` | redesignate | by redesignating subsections (e), (f), and (g) and as subsections (f), (g), and (h), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 274k` | insert | by inserting after subsection (d) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 274k` | redesignate | by redesignating paragraphs (4) and (5) as paragraphs (5) and (6), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 274k` | insert | by inserting after paragraph (3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
