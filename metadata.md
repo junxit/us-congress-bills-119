@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7895
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7895
@@ -25,3 +25,8 @@ PBM Kickback Prohibition Act
 - 2026-03-12 — Introduced in House
 - 2026-03-12 — Introduced in House
 - 2026-03-12 — Referred to the House Committee on Education and Workforce.
+- 2026-05-21 — Committee Consideration and Mark-up Session Held
+- 2026-05-21 — Ordered to be Reported (Amended) by the Yeas and Nays: 34 - 0.
+- 2026-07-02 — Placed on the Union Calendar, Calendar No. 634.
+- 2026-07-02 — Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-729.
+- 2026-07-02 — Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-729.
