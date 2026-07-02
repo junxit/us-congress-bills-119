@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3747
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-12 amendatory instructions. 2 executed, 10 stated and not applied.
+3 amendatory instructions. 2 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,21 +26,21 @@ to guess them.
 
 ### 42 U.S.C. § 254c-20
 
-> by striking “this section” and inserting “subsection (b)(1), and shall require entities awarded a grant under subsection (b)(2),”; and
+> in subsection (a)(1), by striking “entities” and inserting “entities, including a public or nonprofit private entity,”; and
 
 | | |
 |---|---|
-| Removed | `this section` |
-| Inserted | `subsection (b)(1), and shall require entities awarded a grant under subsection (b)(2),` |
+| Removed | `entities` |
+| Inserted | `entities, including a public or nonprofit private entity,` |
 
 ### 42 U.S.C. § 254c-20
 
-> by striking “subsection (b).” and inserting “subsection (b)(1).”; and
+> Section 330N(k) of the Public Health Service Act (42 U.S.C. 254c–20(k)) is amended by striking “fiscal years 2022 through 2026” and inserting “fiscal years 2027 through 2031”.
 
 | | |
 |---|---|
-| Removed | `subsection (b).` |
-| Inserted | `subsection (b)(1).` |
+| Removed | `fiscal years 2022 through 2026` |
+| Inserted | `fiscal years 2027 through 2031` |
 
 ## Stated, not applied
 
@@ -51,13 +51,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 254c-20` | amend | Section 330N(a)(1) of the Public Health Service Act (42 U.S.C. 254c–20(a)(1)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 254c-20` | replace | by striking “Established.—The Secretary” and inserting | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 254c-20` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 254c-20` | amend | Section 330N(f) of the Public Health Service Act (42 U.S.C. 254c–20(f)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 254c-20` | insert | by inserting after the first sentence the following: “Each entity awarded a grant under subsection (b)(2) shall submit to the Advisory Council on Alzheimer’s Research, Care, and Services a report containing such collected information.”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 254c-20` | redesignate | in paragraph (2), by redesignating subparagraphs (A) through (C) as clauses (i) through (iii), respectively, and adjusting the margins accordingly; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 254c-20` | redesignate | by redesignating paragraphs (1) through (3) as subparagraphs (A) through (C), respectively, and adjusting the margins accordingly; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 254c-20` | replace | by striking “Not later than 4 years after” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 254c-20` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 254c-20` | amend | Section 330N(k) of the Public Health Service Act (42 U.S.C. 254c–20(k)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 254c-20` | insert | in subsection (b), by inserting “dementia care,” after “palliative care,”. | the bill quotes the text inserted but describes where it goes |
