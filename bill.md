@@ -17,33 +17,27 @@ This Act may be cited as the “Accelerating Access to Critical Therapies for AL
 
 - **(a)** *In general* Section 7 of the Accelerating Access to Critical Therapies for ALS Act (Public Law 117–79) is amended by striking “2026” and inserting “2031”.
 - **(b)** *Grants for ALS research* Section 2(f) of the Accelerating Access to Critical Therapies for ALS Act (21 U.S.C. 360ee note) is amended by striking “2026” and inserting “2031”.
-- **(c)** *Sense of Congress* The Committee on Energy and Commerce of the House of Representatives expresses support for directly appropriating funds to carry out each section of the Accelerating Access to Critical Therapies for ALS Act (Public Law 117–79).
 
 ## § 3. Improvements to program for grants for research on therapies for ALS
 
-- **(a)** *Clinical trial status review* Section 2(b) of the Accelerating Access to Critical Therapies for ALS Act (21 U.S.C. 360ee note) is amended by adding at the end the following:
-  > - **(4)** *Clinical trial status review*
-  >   - **(A)** *In general* In reviewing applications for renewals of a grant awarded under this section with respect to an investigational drug, the Secretary shall assess the status of a clinical trial carried out for such drug with respect to data on enrollment of patients in such clinical trial.
-  >   - **(B)** *Interim clinical trial data* To enable the Secretary to make the assessment under subparagraph (A) with respect to an investigational drug, the Secretary shall request that the manufacturer of the investigational drug share interim clinical trial data with respect to such drug with the Secretary.
+- **(a)** *Renewal of grants for research on therapies for ALS review* Section 2(b) of the Accelerating Access to Critical Therapies for ALS Act (21 U.S.C. 360ee note) is amended by adding at the end the following:
+  > - **(4)** *Renewal of grants for research on therapies for ALS review* In reviewing applications for renewals of a grant awarded under this section with respect to an investigational drug, the Secretary shall request from the manufacturer or sponsor, and assess, the enrollment, safety, and any available efficacy data relating to the investigational drug in the prevention, diagnosis, mitigation, treatment, or cure of amyotrophic lateral sclerosis.
 
-- **(b)** *Clarifying participating clinical trial definition* Section 2(e) of the Accelerating Access to Critical Therapies for ALS Act (21 U.S.C. 360ee note) is amended by adding at the end the following:
-  > - **(4)** The term “phase 3”, with respect to a clinical trial, includes a phase 2/3 combined trial and a planned phase 3 clinical trial that is not yet enrolling participants.
+- **(b)** *Reporting safety data* Section 2(c) of the Accelerating Access to Critical Therapies for ALS Act (21 U.S.C. 360ee note) is amended—
+  - **(1)** in paragraph (2)(B), by striking “and” at the end;
+  - **(2)** in paragraph (3), by striking the period at the end and inserting “; and”; and
+  - **(3)** by adding at the end the following:
+    > - **(4)** the entity seeking such grant will promptly report any new and serious adverse events and safety information that is considered to be unexpected with respect to the phase 3 trial to the grant-making institution, in addition to complying with the safety reporting requirements under section 312.32 of title 21, Code of Federal Regulations (or any successor regulations).
 
-## § 4. Report on ALS and other rare neurodegenerative disease action plans
+- **(c)** *Clarifying participating clinical trial definition* Section 2(e) of the Accelerating Access to Critical Therapies for ALS Act (21 U.S.C. 360ee note) is amended by adding at the end the following:
+  > - **(4)** The term “phase 3”, with respect to a clinical trial, includes a phase 2/3 combined trial that begins enrollment within a timeframe, determined by the Secretary through the terms and conditions of the grant awarded under this section.
 
-Section 4 of the Accelerating Access to Critical Therapies for ALS Act (21 U.S.C. 360aa note) is amended by adding at the end the following:
+## § 4. FDA rare neurodegenerative disease action plan
 
-> - **(c)** *Report on ALS and other rare neurodegenerative disease action plans* Not later than one year after the date of enactment of the Accelerating Access to Critical Therapies for ALS Reauthorization Act of 2026, the Commissioner of Food and Drugs shall publish on the website of the Food and Drug Administration a report that contains—
->   - **(1)** an updated action plan, including—
->     - **(A)** a description of the actions the Food and Drug Administration intends to take during the 5-year period following publication of the plan with respect to the program enhancements, policy development, regulatory science initiatives, and other appropriate initiatives described in subsection (a);
->     - **(B)** a description of the resources necessary to implement each section of the plan within such 5-year period; and
->     - **(C)** specific approaches the Commissioner will take to improve coordination of implementation of the plan with rare neurodegenerative disease communities that are not specifically ALS communities; and
->   - **(2)** with respect to the Action Plan for Rare Neurodegenerative Diseases including Amyotrophic Lateral Sclerosis (ALS) published by the Food and Drug Administration on June 23, 2022 (referred to in this section as the “2022 Action Plan”), a description of—
->     - **(A)** the actions taken by the Food and Drug Administration under the 2022 Action Plan;
->     - **(B)** the effect of the implementation of the 2022 Action Plan on the development of therapies and regulatory consideration of therapies for ALS and other rare neurodegenerative diseases;
->     - **(C)** any programs and initiatives that established or carried out as part of the implementation of the 2022 Action Plan; and
->     - **(D)** the extent to which the 2022 Action Plan was implemented with respect to rare neurodegenerative diseases that are not amyotrophic lateral sclerosis.
+Section 4 of the Accelerating Access to Critical Therapies for ALS Act (21 U.S.C. 360aa note) is amended—
 
-## § 5. GAO report
-
-Not later than 4 years after the date of enactment of this Act, the Comptroller General of the United States shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report containing the analyses and data described in section 6 of the Accelerating Access to Critical Therapies for ALS Act (Public Law 117–79) (as in effect on the date of enactment of this Act).
+- **(1)** in the section heading, by striking “ALS and other rare neurodegenerative disease action plan” and inserting “FDA rare neurodegenerative disease action plan”; and
+- **(2)** by adding at the end the following:
+  > - **(c)** *FDA rare neurodegenerative disease action plan*
+  >   - **(1)** *In general* Not later than 18 months after the date of enactment of the Accelerating Access to Critical Therapies for ALS Reauthorization Act of 2026, the Commissioner of Food and Drugs shall publish on the website of the Food and Drug Administration an action plan that includes a description of the actions that the Food and Drug Administration intends to take during the 5-year period following publication of the action plan with respect to the program enhancements, policy development, regulatory science initiatives, and other appropriate initiatives described in subsection (a).
+  >   - **(2)** *Report* Not later than 5 years after the date of enactment of the Accelerating Access to Critical Therapies for ALS Reauthorization Act of 2026, the Commissioner of Food and Drugs shall publish on the website of the Food and Drug Administration a report that describes the actions taken by the Food and Drug Administration under the action plan published under paragraph (1) and the extent to which such action plan meets the requirements specified in paragraph (1).
