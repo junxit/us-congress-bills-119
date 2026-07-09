@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6238
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “NIH Implementing a Maternal health and PRegnancy Outcomes Vision for Everyone” or the “NIH IMPROVE Act”.
+This Act may be cited as the “NIH Implementing a Maternal health and PRegnancy Outcomes Vision for Everyone Act” or the “NIH IMPROVE Act”.
 
 ## § 2. IMPROVE Initiative
 
@@ -30,4 +30,4 @@ Part B of title IV of the Public Health Service Act (42 U.S.C. 284 et seq.) is a
 >     - **(A)** implementing and evaluating community-based interventions for disproportionately affected women; and
 >     - **(B)** identifying risk factors and the underlying biological mechanisms associated with leading causes of maternal mortality and severe maternal morbidity in the United States.
 > - **(c)** *Implementation* The Director of NIH may award grants or enter into contracts, cooperative agreements, or other transactions to carry out this section.
-> - **(d)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $73,400,000 for each of fiscal years 2026 through 2031.
+> - **(d)** *Authorization of appropriations* There is authorized to be appropriated to carry out this section $63,400,000 for each of fiscal years 2026 through 2030.
