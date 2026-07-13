@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2306
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2306
@@ -27,9 +27,10 @@ Adams Memorial-Great American Heroes Act
 - Rep. Keating, William R. [D-MA-9] (K000375)
 - Rep. Amodei, Mark E. [R-NV-2] (A000369)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -50,3 +51,5 @@ Adams Memorial-Great American Heroes Act
 - 2025-12-09 — Mr. Crank moved to suspend the rules and pass the bill, as amended.
 - 2025-12-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5083-5084)
 - 2025-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5083-5084)
+- 2025-12-10 — Received in the Senate.
+- 2026-07-13 — Read twice and referred to the Committee on Energy and Natural Resources.
