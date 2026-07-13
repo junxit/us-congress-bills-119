@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9391
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -26,16 +26,16 @@ to guess them.
 
 ### 49 U.S.C. § 44901
 
-> Subsection (e) of section 225 of division A of the Consolidated Appropriations Act, 2019 (Public Law 116–6; 49 U.S.C. 44901 note), is amended by striking “through fiscal year 2026” and inserting “through fiscal year 2031”.
+> Subsection (e) of section 225 of division A of the Consolidated Appropriations Act, 2019 (Public Law 116–6; 49 U.S.C. 44901 note), is amended by striking “for fiscal years 2019 through 2026” and inserting “through fiscal year 2031”.
 
 | | |
 |---|---|
-| Removed | `through fiscal year 2026` |
+| Removed | `for fiscal years 2019 through 2026` |
 | Inserted | `through fiscal year 2031` |
 
 ### 49 U.S.C. § 44901
 
-> Subsection (e) of section 225 of division A of the Consolidated Appropriations Act, 2019 is further amended by striking “not more than eight” and inserting “not more than 14”.
+> Subsection (e) of section 225 of division A of the Consolidated Appropriations Act, 2019, as amended by subsection (a), is further amended by striking “not more than eight” and inserting “not more than 14”.
 
 | | |
 |---|---|
