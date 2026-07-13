@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4662
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4662
@@ -67,9 +67,10 @@ To designate the facility of the United States Postal Service located at 6444 Sa
 - Rep. Waters, Maxine [D-CA-43] (W000187)
 - Rep. DeSaulnier, Mark [D-CA-10] (D000623)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -84,3 +85,4 @@ To designate the facility of the United States Postal Service located at 6444 Sa
 - 2026-06-29 — Mr. Grothman moved to suspend the rules and pass the bill.
 - 2026-06-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4279)
 - 2026-06-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4279)
+- 2026-07-13 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
