@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7128
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7128
@@ -23,9 +23,10 @@ TRIA Program Reauthorization Act of 2026
 - Rep. Velázquez, Nydia M. [D-NY-7] (V000081)
 - Rep. Pressley, Ayanna [D-MA-7] (P000617)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -49,3 +50,4 @@ TRIA Program Reauthorization Act of 2026
 - 2026-06-29 — Mr. Flood moved to suspend the rules and pass the bill, as amended.
 - 2026-06-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 373 - 15 (Roll no. 229). (text: CR H4273-4274)
 - 2026-06-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 373 - 15 (Roll no. 229). (text: CR H4273-4274)
+- 2026-07-13 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
