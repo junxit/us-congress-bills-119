@@ -1,7 +1,7 @@
 ---
 legis-num: S. 3468
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -17,27 +17,33 @@ This Act may be cited as the “National Programmable Cloud Laboratories Network
 
 - **(a)** *Definitions* In this Act:
   - **(1)** *Artificial intelligence* The term artificial intelligence has the meaning given such term in section 5002 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (15 U.S.C. 9401).
-  - **(2)** *Director* Unless otherwise provided, the term Director means the Director of the National Science Foundation.
-  - **(3)** *Institution of higher education* The term institution of higher education has the meaning given the term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
-  - **(4)** *Network* The term Network means the National Programmable Cloud Laboratories Network.
-  - **(5)** *Node* The term node means a programmable cloud laboratory designated as part of the Network.
-  - **(6)** *Non-designated laboratory* The term non-designated laboratory means any Federal, academic, nonprofit, or private industry programmable cloud laboratory not selected as a node under section 3.
-  - **(7)** *Programmable cloud laboratory* The term programmable cloud laboratory means a physical laboratory that is equipped with research instrumentation and advanced manufacturing capabilities, including robotics and artificial intelligence, that can be securely and remotely programmed and controlled in order to conduct experiments and collect associated data.
+  - **(2)** *Biological Data* The term biological data means the information, including associated descriptors, derived from the structure, function, or process of a biological system that is either measured, collected, or aggregated for analysis.
+  - **(23)** *Director* Unless otherwise provided, the term Director means the Director of the National Science Foundation.
+  - **(34)** *Institution of higher education* The term institution of higher education has the meaning given the term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
+  - **(45)** *Network* The term Network means the National Programmable Cloud Laboratories Network.
+  - **(56)** *Node* The term node means a programmable cloud laboratory designated as part of the Network.
+  - **(67)** *Non-designated laboratory* The term non-designated laboratory means any Federal, academic, nonprofit, or private industry programmable cloud laboratory not selected as a node under section 3.
+  - **(78)** *Programmable cloud laboratory* The term programmable cloud laboratory means a physical laboratory that is equipped with research instrumentation and advanced manufacturing capabilities, including robotics and artificial intelligence, that can be securely and remotely programmed and controlled in order to conduct experiments and collect associated data.
 
 ## § 3. National Programmable Cloud Laboratories Network
 
 - **(a)** *Purposes* The purposes of the Network established under this Act are—
-  - **(1)** to maintain leadership by the United States in advanced experimentation, laboratory automation, and artificial intelligence for scientific research, advanced manufacturing, long-term economic competitiveness, and national security;
+  - **(1)** to maintain leadership by the United States in advanced experimentation, biotechnology, laboratory automation, and artificial intelligence for scientific research, advanced manufacturing, long-term economic competitiveness, and national security;
   - **(2)** to reduce the cost of federally funded research through automation and reproducibility;
   - **(3)** to accelerate national competitiveness by transferring government-funded research to private-sector commercial applications;
   - **(4)** to improve collaboration among federally funded national laboratories, institutions of higher education, and private industry;
   - **(5)** to ensure that investment in programmable cloud laboratories results in measurable cost savings, efficiencies, and long-term fiscal sustainability;
   - **(6)** to incentivize private-sector cost-sharing in research infrastructure and equipment;
   - **(7)** to support workforce development aligned with the technical needs of industry in the United States;
-  - **(8)** to advance the development of a domestic industrial base for scientific automation tools, artificial intelligence systems for experimentation, and robotics platforms for use in laboratory settings; and
-  - **(9)** to further programmable cloud laboratory research in areas such as materials science, biotechnology, chemistry, and other scientific or engineering disciplines where automation and cloud-enabled experimentation can deliver transformative results, including advanced materials synthesis and characterization, scalable biotechnology experimentation, and high-throughput chemical catalyst development.
+  - **(8)** to provide funding for nodes;
+  - **(89)** to advance the development of a domestic industrial base for scientific automation tools, biotechnology, artificial intelligence systems for experimentation, and robotics platforms for use in laboratory settings; and
+  - **(910)** to further programmable cloud laboratory research in areas such as materials science, biotechnology, chemistry, and other scientific or engineering disciplines where automation and cloud-enabled experimentation can deliver transformative results, including advanced materials synthesis and characterization, scalable biotechnology experimentation, and high-throughput chemical catalyst development.
 - **(b)** *Establishment*
-  - **(1)** *In general* Not later than 1 year after the date of enactment of this Act, the Director, in consultation with the Director of the National Institute of Standards and Technology, shall designate and oversee a National Programmable Cloud Laboratories Network of not more than 6 nodes to support secure, standards-based, and cost-effective remote experimentation and automated research.
+  - **(1)** *In general* Not later
+- **(b)** *Establishment; awards*
+  - **(1)** *In General*
+    - **(A)** *Establishment* Not later than 1 year after the date of enactment of this Act, the Director, in consultation with the Director of the National Institute of Standards and Technology, shall designate and oversee a National Programmable Cloud Laboratories Network of not more than 6 nodes to support secure, standards-based, and cost-effective remote experimentation and automated research.
+    - **(B)** *Awards* The Director shall award a grant to each node, in an amount not greater than $5,000,000 per fiscal year for a period of not more than 5 years, to support the National Programmable Cloud Laboratories Network.
   - **(2)** *Assessment sequencing* The assessment required under section 5 shall be conducted only after the final designation of nodes under paragraph (1).
   - **(3)** *Nodes* The Network shall consist of nodes that—
     - **(A)** enable programmable workflows and automated science;
@@ -49,13 +55,13 @@ This Act may be cited as the “National Programmable Cloud Laboratories Network
   - **(2)** *Eligible entities* Eligible entities that may apply for designation as a node include—
     - **(A)** institutions of higher education;
     - **(B)** nonprofit research organizations;
-    - **(C)** private-sector research entities; and
+    - **(C)** private- sector research entities; and
     - **(D)** consortia or collaborations of the entities described in subparagraphs (A) through (C).
 - **(d)** *Applications for designation* An eligible entity that desires to apply for designation as a node in the Network shall submit an application to the Director at such time and in such manner as the Director may require. The application shall include—
   - **(1)** a technical and programmatic plan for laboratory operations, automation capabilities, and data integration;
   - **(2)** a plan to achieve long-term self-sustainability, including metrics, interim milestones, and a timeline for reducing reliance on Federal funding; and
   - **(3)** evidence of non-Federal cost share, private capital, or other third-party contributions demonstrating self-sustainability potential.
-- **(e)** *Evaluation of applicants* The Director shall ensure that the process for selecting eligible entities for designation in the Network shall be competitive, merit-reviewed, and transparent, evaluating—
+- **(e)** *Evaluation of applicants* The Director shall ensure that the process for selecting eligible entities for designation in the Network is competitive, merit-based, and transparent, through the evaluation of, with respect to each entity—shall be competitive, merit-reviewed, and transparent, evaluating—
   - **(1)** pre-existing laboratory infrastructure and suitability for automated science;
   - **(2)** capacity to support distributed, cloud-enabled programmable workflows for multiple users;
   - **(3)** likelihood of achieving long-term sustainability without continued Federal funding;
@@ -63,11 +69,14 @@ This Act may be cited as the “National Programmable Cloud Laboratories Network
   - **(5)** protocols for research security, cybersecurity, and responsible access; and
   - **(6)** demonstration of user interest and research needs.
 - **(f)** *Designation* In designating nodes, the Director shall provide preference for applications demonstrating meaningful third-party cost share and pre-existing infrastructure.
+- **(f)** *Designation* In designating nodes, the Director shall—
+  - **(1)** give preference to applicants demonstrating meaningful third-party cost share and pre-existing infrastructure; and
+  - **(2)** to the extent practicable, ensure that at least 1 node demonstrates the capability to support cloud-enabled biotechnology research, including automated experimentation or quality control workflows.
 - **(g)** *Responsibilities* Each node selected by the Director shall—
   - **(1)** support the purposes described in subsection (a)(9);
   - **(2)** facilitate collaboration among Network members to expand and integrate automated science capabilities and best practices;
-  - **(3)** actively participate with the Director of National Institute of Standards and Technology in developing network-wide interoperability, data-sharing, cybersecurity, and artificial intelligence-assisted experimentation standards;
-  - **(4)** support secure sharing of experimental data, models, and results across institutions of higher education participating in the Network, if applicable;
+  - **(3)** actively participate with the Director of the National Institute of Standards and Technology in developing network-wide interoperability, data-sharing, cybersecurity, and artificial intelligence-assisted experimentation standards;
+  - **(4)** support secure sharing of experimental data, including biological data, models, and results across institutions of higher education participating in the Network, if applicable;
   - **(5)** provide a secure digital infrastructure to enable remote experimentation, artificial intelligence-assisted analysis, and reproducible science;
   - **(6)** engage in public-private partnerships to streamline the transfer of technology developed using Network infrastructure;
   - **(7)** develop and maintain a financial sustainability plan to reduce long-term reliance on Federal funds, including through user fees, licensing, consortia membership, or other revenue-generating models;
@@ -79,9 +88,9 @@ This Act may be cited as the “National Programmable Cloud Laboratories Network
 Not later than 180 days after all nodes of the Network are designated, the Director of the National Institute of Standards and Technology, in cooperation with the Director and participating eligible entities (including institutions of higher education), shall—
 
 - **(1)** develop and promulgate standards to ensure interoperability across Network nodes, including laboratory instrumentation, data infrastructure, communication protocols, and experiment execution systems;
-- **(2)** establish protocols for secure, seamless, and standardized data-sharing among all members of the Network aligned with node-level cybersecurity and research security protocols;
+- **(2)** establish protocols for secure, seamless, and standardized data-sharing among all members of the Network, including sharing of biological data, aligned with node-level cybersecurity and research security protocols;
 - **(3)** define minimum technical requirements and operating procedures to support remote experimentation, experiment reproducibility, and artificial intelligence-assisted workflows; and
-- **(4)** periodically update such standards in consultation with private-sector partners and nodes of the Network to reflect advancements in hardware, software, and automation technology.
+- **(4)** periodically update such standards in consultation with private- sector partners and nodes of the Network to reflect advancements in hardware, software, and automation technology.
 
 ## § 5. Assessment of non-designated laboratories
 
@@ -91,7 +100,7 @@ Not later than 180 days after all nodes of the Network are designated, the Direc
   - **(2)** the instrumentation, automation, and data capabilities of such laboratories;
   - **(3)** cybersecurity and research security measures relevant to interoperability;
   - **(4)** existing or potential pathways for such laboratories to coordinate with Network nodes in areas such as data-sharing, standards adoption, or pilot interoperability projects; and
-  - **(5)** legal, contractual, or intellectual property considerations that may affect participation.
+  - **(5)** legal, contractual, or intellectual property considerations that may affect participation in the Network.
 - **(c)** *Confidentiality and security* Proprietary information shall be protected from public disclosure consistent with applicable law. The Director shall publish a nonproprietary public summary of the assessment and may submit a proprietary annex to the congressional committees of jurisdiction.
 
 ## § 6. Reporting and oversight
@@ -102,6 +111,10 @@ Not later than 180 days after all nodes of the Network are designated, the Direc
   - **(2)** the progress each node of the Network has made toward achieving self-sustainability as described in section 3(d)(2); and
   - **(3)** the performance metrics established in section 3(g)(8).
 
-## § 7. Sunset
+## § 7. Funding
+
+From amounts appropriated or otherwise made available to the National Science Foundation, the Director shall allocate $30,000,000 for each of the fiscal years 2026 through 2030 to carry out this Act, subject to the availability of appropriations.
+
+## § 78. Sunset
 
 The National Programmable Cloud Laboratories Network, including all authorities, programs, and funding provided under this Act, shall terminate on September 30, 2031.

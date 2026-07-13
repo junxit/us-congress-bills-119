@@ -1,7 +1,7 @@
 ---
 measure: S. 3468
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3468
@@ -28,3 +28,7 @@ National Programmable Cloud Laboratories Network Act of 2025
 
 - 2025-12-11 — Introduced in Senate
 - 2025-12-11 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2026-02-12 — Committee on Commerce, Science, and Transportation. Ordered to be reported with amendments favorably.
+- 2026-07-13 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with amendments. With written report No. 119-129.
+- 2026-07-13 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with amendments. With written report No. 119-129.
+- 2026-07-13 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 451.
