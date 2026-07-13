@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5347
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5347
@@ -23,10 +23,11 @@ Health Care Efficiency Through Flexibility Act
 - Rep. LaHood, Darin [R-IL-16] (L000585)
 - Rep. Lawler, Michael [R-NY-17] (L000599)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ Health Care Efficiency Through Flexibility Act
 - 2026-06-29 — Mr. Smith (MO) moved to suspend the rules and pass the bill, as amended.
 - 2026-06-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4272)
 - 2026-06-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4272)
+- 2026-07-13 — Received in the Senate and Read twice and referred to the Committee on Finance.
