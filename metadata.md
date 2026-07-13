@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7258
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7258
@@ -23,9 +23,10 @@ Energy Emergency Leadership Act
 - Rep. Balderson, Troy [R-OH-12] (B001306)
 - Rep. Onder, Robert F. [R-MO-3] (O000177)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ Energy Emergency Leadership Act
 - 2026-06-29 — Mr. Guthrie moved to suspend the rules and pass the bill.
 - 2026-06-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4298)
 - 2026-06-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4298)
+- 2026-07-13 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
