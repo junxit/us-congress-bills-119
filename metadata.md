@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9328
 congress: 119
-version: Engrossed in House
+version: Reported in House
 ---
 
 # H.R. 9328
