@@ -56,7 +56,8 @@ Section 302 of the Federal Election Campaign Act of 1971 (52 U.S.C. 30102), as a
 
 Section 302 of the Federal Election Campaign Act of 1971 (52 U.S.C. 30102), as amended by section 2 and section 3, is amended by adding at the end the following:
 
-> - **(l)** No political committee shall knowingly accept a contribution made through the use of a gift certificate or store gift card, as such terms are defined, respectively, under section 915(a) of the Electronic Fund Transfer Act.
+> - **(l)**
+>   - **(1)** No political committee shall knowingly accept a contribution made through the use of a gift certificate or store gift card, as such terms are defined, respectively, under section 915(a) of the Electronic Fund Transfer Act.
 >   - **(2)**
 >     - **(A)** A treasurer of a political committee who is aware that a contribution to the committee is not in compliance with this subsection has an affirmative duty to refund the contribution to the individual or entity making the contribution.
 >     - **(B)** If the treasurer of a political committee shows that best efforts have been used to comply with the requirements of this subsection, the committee shall be considered in compliance with this subsection.
