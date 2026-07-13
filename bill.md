@@ -1,0 +1,39 @@
+---
+legis-num: H.R. 9653
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 9653
+
+> To establish special rules for certain agency adjudications, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Limiting Excessive Government Obstruction Act”.
+
+## § 2. Agency adjudications
+
+- **(a)** *Adjudications* Chapter 7 of title 5, United States Code, is amended by inserting after section 706 the following:
+  > ## § 706A. Special rules for certain agency adjudications
+  >
+  > - **(a)** *Agency adjudication*
+  >   - **(1)** *Demurrer* Except as provided in subsection (c), a party against whom an agency adjudication is initiated may file with the adjudicator a demurrer.
+  >   - **(2)** *Final order of dismissal* If the party makes a filing described in paragraph (1), the adjudicator shall issue a final order of dismissal with prejudice.
+  > - **(b)** *Civil action*
+  >   - **(1)** *In general* Not later than 90 days after an agency adjudication is dismissed with respect to a party under subsection (a), the agency may commence a civil action against such party in the district court for the district in which the alleged violation occurred setting forth the violations alleged in such agency adjudication. No such action may be commenced after the expiration of such 90-day period.
+  >   - **(2)** *Jury trial* A defendant in an action described in paragraph (1) shall be entitled to a trial by jury.
+  >   - **(3)** *Defense* Notwithstanding any other provision of law, it shall be a defense to an action described in paragraph (1) that an alleged violation of an agency rule, order, or consent decree was reasonable under the circumstances.
+  > - **(c)** *Exceptions*
+  >   - **(1)** *In general* This section does not apply with respect to any matter pertaining to—
+  >     - **(A)** the immigration laws (as such term is defined in section 101 of the Immigration and Nationality Act);
+  >     - **(B)** national security;
+  >     - **(C)** the Internal Revenue Code of 1986;
+  >     - **(D)** bankruptcy;
+  >     - **(E)** patent; or
+  >     - **(F)** a Federal benefit.
+  >   - **(2)** *Federal benefit defined* In this section, the term Federal benefit means any retirement, welfare, health, disability, public or assisted housing, postsecondary education, food assistance, unemployment benefit, or any other similar benefit for which payments or assistance are provided to an individual, household, or family eligibility unit by an agency of the United States or by appropriated funds of the United States.
+
+- **(b)** *Definitions* Section 701(b)(2) of title 5, United States Code, is amended by striking ““relief”, and “agency action”” and inserting ““relief”, “party”, “adjudication”, and “agency action””.
+- **(c)** *Table of sections* The table of sections for chapter 7 of title 5, United States Code, is amended by inserting after the item relating to section 706 the following:
