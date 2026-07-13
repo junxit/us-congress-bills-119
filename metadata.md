@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7257
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7257
@@ -23,9 +23,10 @@ SECURE Grid Act
 - Rep. James, John [R-MI-10] (J000307)
 - Rep. Onder, Robert F. [R-MO-3] (O000177)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ SECURE Grid Act
 - 2026-06-29 — Mr. Guthrie moved to suspend the rules and pass the bill, as amended.
 - 2026-06-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4296)
 - 2026-06-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4296)
+- 2026-07-13 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
