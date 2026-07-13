@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7757
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7757
@@ -20,10 +20,11 @@ KIDS Act
 
 - Rep. Pallone, Frank [D-NJ-6] (P000034)
 
-## Committees (2)
+## Committees (3)
 
 - House — Judiciary Committee
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -43,3 +44,4 @@ KIDS Act
 - 2026-06-29 — Mr. Guthrie moved to suspend the rules and pass the bill, as amended.
 - 2026-06-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 267 - 117 (Roll no. 228). (text: CR H4280-4292)
 - 2026-06-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 267 - 117 (Roll no. 228). (text: CR H4280-4292)
+- 2026-07-13 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
