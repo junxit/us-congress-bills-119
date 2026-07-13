@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8873
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8873
@@ -21,9 +21,10 @@ Recover COVID Unemployment Fraud in Banks Act
 - Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
 - Rep. Feenstra, Randy [R-IA-4] (F000446)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Recover COVID Unemployment Fraud in Banks Act
 - 2026-06-29 — Mr. Smith (MO) moved to suspend the rules and pass the bill, as amended.
 - 2026-06-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4269-4270)
 - 2026-06-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4269-4270)
+- 2026-07-13 — Received in the Senate and Read twice and referred to the Committee on Finance.
