@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7266
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7266
@@ -21,9 +21,10 @@ Rural and Municipal Utility Cybersecurity Act
 - Rep. McClellan, Jennifer L. [D-VA-4] (M001227)
 - Rep. Harshbarger, Diana [R-TN-1] (H001086)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Rural and Municipal Utility Cybersecurity Act
 - 2026-06-29 — Mr. Guthrie moved to suspend the rules and pass the bill, as amended.
 - 2026-06-29 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4299)
 - 2026-06-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4299)
+- 2026-07-13 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
