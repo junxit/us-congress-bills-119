@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2478
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2478
@@ -30,9 +30,10 @@ Financial Exploitation Prevention Act of 2025
 - Rep. Sessions, Pete [R-TX-17] (S000250)
 - Rep. Nunn, Zachary [R-IA-3] (N000193)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -56,3 +57,4 @@ Financial Exploitation Prevention Act of 2025
 - 2026-06-25 — Motion to reconsider laid on the table Agreed to without objection.
 - 2026-06-25 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 2 (Roll no. 227).
 - 2026-06-25 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 2 (Roll no. 227).
+- 2026-07-13 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
