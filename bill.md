@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 8535
 
-> To direct the Secretary of Homeland Security to develop performance metrics relating to the detection, deterrence, and seizure of illicit fentanyl, and for other purposes.
+> To direct the Secretary of Homeland Security to develop performance metrics relating to the detection, deterrence, and seizure of fentanyl.
 
 ## § 1. Short title
 
