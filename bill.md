@@ -32,9 +32,9 @@ This Act may be cited as the “Transparency in Billing Act of 2026”.
 
 Section 502 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1132) is amended—
 
-- **(1)** in subsection (a)(6), by striking “or (9)” and inserting “(9), or (13)”; and
+- **(1)** in subsection (a)(6), by striking “or (13)” and inserting “(13), or (14)”; and
 - **(2)** in subsection (c), by adding at the end the following new paragraph:
-  > - **(13)** The Secretary may assess a civil monetary penalty against a hospital for a violation under section 901 in an amount—
+  > - **(14)** *Secretarial enforcement authority relating to honest billing requirements* The Secretary may assess a civil monetary penalty against a hospital for a violation of section 901 in an amount—
   >   - **(A)** in the case of a hospital with not more than 30 beds (as determined under section 180.90(c)(2)(ii)(D) of title 45, Code of Federal Regulations, as in effect on the date of the enactment of this paragraph), not to exceed $300 per day that the violation is ongoing, as determined by the Secretary; and
   >   - **(B)** in the case of a hospital with more than 30 beds (as so determined), not to exceed $5,500 per each such day.
 

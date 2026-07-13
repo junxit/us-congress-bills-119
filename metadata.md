@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8684
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 8684
@@ -29,3 +29,8 @@ Transparency in Billing Act of 2026
 - 2026-05-07 — Introduced in House
 - 2026-05-07 — Introduced in House
 - 2026-05-07 — Referred to the House Committee on Education and Workforce.
+- 2026-05-21 — Committee Consideration and Mark-up Session Held
+- 2026-05-21 — Ordered to be Reported (Amended) by the Yeas and Nays: 34 - 0.
+- 2026-07-13 — Placed on the Union Calendar, Calendar No. 652.
+- 2026-07-13 — Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-748.
+- 2026-07-13 — Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-748.

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8684
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,12 +26,12 @@ to guess them.
 
 ### 29 U.S.C. § 1132
 
-> in subsection (a)(6), by striking “or (9)” and inserting “(9), or (13)”; and
+> in subsection (a)(6), by striking “or (13)” and inserting “(13), or (14)”; and
 
 | | |
 |---|---|
-| Removed | `or (9)` |
-| Inserted | `(9), or (13)` |
+| Removed | `or (13)` |
+| Inserted | `(13), or (14)` |
 
 ## Stated, not applied
 
