@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7401
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7401
@@ -20,9 +20,10 @@ Small Business Lending Fraud Prevention Act
 
 - Rep. Goodlander, Maggie [D-NH-2] (G000604)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ Small Business Lending Fraud Prevention Act
 - 2026-06-24 — Motion to reconsider laid on the table Agreed to without objection.
 - 2026-06-24 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 415 - 0, 1 Present (Roll no. 225).
 - 2026-06-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 415 - 0, 1 Present (Roll no. 225).
+- 2026-07-13 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
