@@ -1,0 +1,44 @@
+---
+legis-num: S. 4950
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4950
+
+> To amend the National Telecommunications and Information Administration Organization Act to codify the Institute for Telecommunication Sciences, to direct the Assistant Secretary of Commerce for Communications and Information to establish an initiative to support the development of emergency communication and tracking technologies, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Institute for Telecommunication Sciences Codification Act” or the “ITS Codification Act”.
+
+## § 2. Institute for Telecommunication Sciences
+
+Part A of the National Telecommunications and Information Administration Organization Act (47 U.S.C. 901 et seq.) is amended by adding at the end the following:
+
+> ## § 106. Institute for Telecommunication Sciences
+>
+> - **(a)** *Establishment*
+>   - **(1)** *Definition* In this subsection, the term Federal spectrum means frequencies assigned on a primary basis to a Federal entity, as defined in section 113(l).
+>   - **(2)** *Operation* Under the authority provided to the Assistant Secretary under section 103, the Assistant Secretary shall operate a test center to be known as the Institute for Telecommunication Sciences (referred to in this section as “ITS”).
+>   - **(3)** *Functions*
+>     - **(A)** *In general* In addition to any functions delegated by the Assistant Secretary under subparagraph (B), ITS shall serve as a laboratory for the executive branch of the Federal Government to—
+>       - **(i)** study radio frequency emissions, including technologies and techniques to control those emissions and interference caused by those emissions;
+>       - **(ii)** study spectrum propagation characteristics;
+>       - **(iii)** conduct tests on technology that enhances the sharing of electromagnetic spectrum between Federal and non-Federal users;
+>       - **(iv)** examine the interference tolerance of Federal systems operating with, or using, Federal spectrum, in collaboration with other Federal laboratories examining such issues;
+>       - **(v)** analyze activities relating to access to Federal spectrum by non-Federal users and the sharing of Federal spectrum between Federal and non-Federal users; and
+>       - **(vi)** conduct such other activities determined necessary by the Assistant Secretary.
+>     - **(B)** *Additional functions* The Assistant Secretary may delegate to ITS the specific functions assigned to the Assistant Secretary under section 103(b)(1), as they relate to the responsibility for the performance of the communications and information functions of the Secretary, pursuant to that section.
+>   - **(4)** *Agreements and transactions* In carrying out the functions described in paragraph (3), the Assistant Secretary, acting through the head of ITS, may enter into agreements, as provided under the following authorities:
+>     - **(A)** Sections 11 and 12 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3710, 3710a).
+>     - **(B)** Section 1535 of title 31, United States Code.
+>     - **(C)** Sections 207 and 209 of title 35, United States Code.
+>     - **(D)** The first undesignated section of the Act entitled “An Act to authorize the Department of Commerce to make special studies, to provide services, and to engage in joint projects, and for other purposes”, approved September 25, 1970 (Public Law 91–412).
+> - **(b)** *Emergency communication and tracking technologies initiative*
+>   - **(1)** *Establishment* The Assistant Secretary, acting through the head of ITS, shall establish an initiative to support the development of emergency communication and tracking technologies for use in locating trapped individuals in confined spaces (such as underground mines) and other shielded environments (such as high-rise buildings or collapsed structures) where conventional radio communication is limited.
+>   - **(2)** *Activities* In order to carry out this subsection, the Assistant Secretary, acting through the head of ITS, shall work with private sector entities and the heads of appropriate Federal agencies to—
+>     - **(A)** perform a needs assessment to identify and evaluate the measurement, technical specifications, and conformity assessment needs required to improve the operation and reliability of emergency communication and tracking technologies described in paragraph (1); and
+>     - **(B)** support the development of technical specifications and conformance architecture to improve the operation and reliability of emergency communication and tracking technologies described in paragraph (1).
+>   - **(3)** *Report* Not later than 18 months after the date of enactment of this section, the Assistant Secretary shall submit to Congress, and make publicly available, a report on the assessment performed under paragraph (2)(A).
