@@ -2,7 +2,7 @@
 legis-num: H.R. 7574
 congress: 119th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 7574
@@ -41,4 +41,4 @@ This Act may be cited as the “ELO Realignment and Strategic Engagement Reform 
   - **(3)** *I&A* The term “I&A” means the Office of Intelligence and Analysis of the Department of Homeland Security.
   - **(4)** *Secretary* The term “Secretary” means the Secretary of Homeland Security.
   - **(5)** *SLTT entity* The term “SLTT entity” has the meaning given such term in section 2200 of the Homeland Security Act of 2002 (6 U.S.C. 650).
-  - **(6)** *Priority law enforcement agencies* The term “priority law enforcement agencies” means Federal, State, and local law enforcement agencies identified by the Secretary as key partners for national security, counterterrorism, emergency response, or other mission-critical operations.
+  - **(6)** *Priority law enforcement agencies* The term “priority law enforcement agencies” means Federal, State, and local law enforcement agencies identified by the Secretary as key partners for na-tional security, counterterrorism, emergency response, or other mission-critical operations.
