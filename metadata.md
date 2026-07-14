@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5334
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5334
@@ -62,3 +62,6 @@ Lindsey O. Graham Sanctioning Russia and Iran Act of 2026
 - 2026-04-27 — Mr. Smith (MO) moved to suspend the rules and pass the bill, as amended.
 - 2026-04-27 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3111-3112)
 - 2026-04-27 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H3111-3112)
+- 2026-04-28 — Received in the Senate.
+- 2026-07-13 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2026-07-14 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 454.
