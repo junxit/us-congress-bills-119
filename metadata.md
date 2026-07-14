@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8897
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8897
@@ -21,9 +21,10 @@ Improving Travel for American Families Act
 - Rep. Foushee, Valerie P. [D-NC-4] (F000477)
 - Rep. Vindman, Eugene Simon [D-VA-7] (V000138)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -49,3 +50,4 @@ Improving Travel for American Families Act
 - 2026-07-13 — Mr. Garbarino moved to suspend the rules and pass the bill, as amended.
 - 2026-07-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 398 - 12 (Roll no. 235). (text: CR H4395-4396)
 - 2026-07-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 398 - 12 (Roll no. 235). (text: CR H4395-4396)
+- 2026-07-14 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
