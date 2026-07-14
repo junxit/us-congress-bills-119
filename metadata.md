@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9391
 congress: 119
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 9391
@@ -20,9 +20,10 @@ Reimbursable Screening Services Program Extension Act of 2026
 
 - Rep. Pou, Nellie [D-NJ-9] (P000621)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Reimbursable Screening Services Program Extension Act of 2026
 - 2026-07-13 — Placed on the Union Calendar, Calendar No. 643.
 - 2026-07-13 — Reported by the Committee on Homeland Security. H. Rept. 119-739.
 - 2026-07-13 — Reported by the Committee on Homeland Security. H. Rept. 119-739.
+- 2026-07-14 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
