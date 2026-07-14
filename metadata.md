@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9328
 congress: 119
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 9328
@@ -21,9 +21,10 @@ Improving Travel for Military Members Act
 - Rep. Goldman, Daniel S. [D-NY-10] (G000599)
 - Rep. Vindman, Eugene Simon [D-VA-7] (V000138)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Improving Travel for Military Members Act
 - 2026-07-13 — Placed on the Union Calendar, Calendar No. 645.
 - 2026-07-13 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 119-741.
 - 2026-07-13 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 119-741.
+- 2026-07-14 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
