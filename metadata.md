@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3535
 congress: 119
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3535
@@ -21,9 +21,10 @@ Stop Foreign Funds in Elections Act
 - Rep. Golden, Jared F. [D-ME-2] (G000592)
 - Rep. Lee, Susie [D-NV-3] (L000590)
 
-## Committees (1)
+## Committees (2)
 
 - House — Committee on House Administration
+- Senate — Rules and Administration Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Stop Foreign Funds in Elections Act
 - 2026-07-13 — Placed on the Union Calendar, Calendar No. 649.
 - 2026-07-13 — Reported by the Committee on House Administration. H. Rept. 119-745.
 - 2026-07-13 — Reported by the Committee on House Administration. H. Rept. 119-745.
+- 2026-07-14 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
