@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8535
 congress: 119
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 8535
@@ -22,9 +22,10 @@ Measuring Illicit Fentanyl Trafficking Act
 - Rep. Correa, J. Luis [D-CA-46] (C001110)
 - Rep. Guest, Michael [R-MS-3] (G000591)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Measuring Illicit Fentanyl Trafficking Act
 - 2026-07-13 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 119-742.
 - 2026-07-13 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 119-742.
 - 2026-07-13 — The title of the measure was amended. Agreed to without objection.
+- 2026-07-14 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.

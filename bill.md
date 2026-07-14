@@ -2,12 +2,12 @@
 legis-num: H.R. 8535
 congress: 119th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 8535
 
-> To direct the Secretary of Homeland Security to develop performance metrics relating to the detection, deterrence, and seizure of fentanyl.
+> To direct the Secretary of Homeland Security to develop performance metrics relating to the detection, deterrence, and seizure of illicit fentanyl, and for other purposes.
 
 ## § 1. Short title
 
