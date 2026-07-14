@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 742
 congress: 119
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 742
@@ -28,3 +28,7 @@ A resolution commemorating the 70th anniversary of the United States Forest Serv
 
 - 2026-05-20 — Referred to the Committee on Agriculture, Nutrition, and Forestry. (text: CR S2419)
 - 2026-05-20 — Submitted in Senate
+- 2026-07-14 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2026-07-14 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4087)
+- 2026-07-14 — Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent.
+- 2026-07-14 — Senate Committee on Agriculture, Nutrition, and Forestry discharged by Unanimous Consent.
