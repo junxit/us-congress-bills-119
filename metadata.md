@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 197
 congress: 119
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 197
@@ -16,7 +16,7 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Sen. Baldwin, Tammy [D-WI] (B001230)
 
-## Cosponsors (13)
+## Cosponsors (14)
 
 - Sen. Schumer, Charles E. [D-NY] (S000148)
 - Sen. Wyden, Ron [D-OR] (W000779)
@@ -31,6 +31,7 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - Sen. Hickenlooper, John W. [D-CO] (H000273)
 - Sen. Warner, Mark R. [D-VA] (W000805)
 - Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
 
 ## Committees (1)
 
@@ -40,3 +41,6 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - 2026-06-17 — Introduced in Senate
 - 2026-06-17 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2026-07-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 456.
+- 2026-07-14 — Senate Committee on Health, Education, Labor, and Pensions discharged, by petition, pursuant to 5 U.S.C. 802(c).
+- 2026-07-14 — Senate Committee on Health, Education, Labor, and Pensions discharged, by petition, pursuant to 5 U.S.C. 802(c).
