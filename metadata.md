@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6332
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6332
@@ -30,9 +30,10 @@ To designate the facility of the United States Postal Service located at 10660 P
 - Rep. Turner, Michael R. [R-OH-10] (T000463)
 - Rep. Kiggans, Jennifer A. [R-VA-2] (K000399)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ To designate the facility of the United States Postal Service located at 10660 P
 - 2026-07-13 — Mr. Sessions moved to suspend the rules and pass the bill.
 - 2026-07-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4386)
 - 2026-07-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4386)
+- 2026-07-14 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
