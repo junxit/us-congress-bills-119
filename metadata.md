@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8168
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8168
@@ -20,9 +20,10 @@ Major Non-NATO Ally Terror Threat Assessment Act
 
 - Rep. Pou, Nellie [D-NJ-9] (P000621)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Major Non-NATO Ally Terror Threat Assessment Act
 - 2026-07-13 — Mr. Garbarino moved to suspend the rules and pass the bill.
 - 2026-07-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4396-4397)
 - 2026-07-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4396-4397)
+- 2026-07-14 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
