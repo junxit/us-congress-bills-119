@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3106
 congress: 119
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 3106
@@ -20,9 +20,10 @@ Weatherizing Infrastructure in the North and Terrorism Emergency Readiness Act o
 
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -50,3 +51,4 @@ Weatherizing Infrastructure in the North and Terrorism Emergency Readiness Act o
 - 2026-07-13 — Placed on the Union Calendar, Calendar No. 648.
 - 2026-07-13 — Reported by the Committee on Homeland Security. H. Rept. 119-744.
 - 2026-07-13 — Reported by the Committee on Homeland Security. H. Rept. 119-744.
+- 2026-07-14 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
