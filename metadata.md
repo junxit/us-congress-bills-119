@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1181
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1181
@@ -155,6 +155,11 @@ Protecting Privacy in Purchases Act
 
 - House — Financial Services Committee
 
+## Recorded votes (2)
+
+- 2026-07-14 — [House 119-2-239](votes/house-119-2-0239.md) — On Motion to Recommit — **Failed** (208–217)
+- 2026-07-14 — [House 119-2-240](votes/house-119-2-0240.md) — On Passage — **Passed** (221–201)
+
 ## Actions
 
 - 2025-02-11 — Introduced in House
@@ -166,3 +171,22 @@ Protecting Privacy in Purchases Act
 - 2026-02-25 — Placed on the Union Calendar, Calendar No. 447.
 - 2026-02-25 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-522.
 - 2026-02-25 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-522.
+- 2026-06-23 — Rules Committee Resolution H. Res. 1377 Reported to House. Rule provides for consideration of H.R. 1181, H.R. 9022, H.R. 8595 and H.R. 9237. The resolution provides for consideration of H.R. 1181 and H.R. 9237 under a closed rule and H.R. 9022 and H.R. 8595 under a structured rule. The resolution provides for one hour of general debate and one motion to recommit on each bill.
+- 2026-07-13 — Rules Committee Resolution H. Res. 1423 Reported to House. Rule provides for consideration of H.R. 139, H.R. 8595, H.R. 9237 and H.R. 1181. The resolution provides for consideration of H.R. 139, H.R. 9237, and H.R. 1181 under a closed rule, and H.R. 8595 under a structured rule with one hour of debate and one motion to reconsider on each bill.
+- 2026-07-14 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2026-07-14 — Considered as unfinished business. (consideration: CR H4451-4452)
+- 2026-07-14 — Considered under the provisions of rule H. Res. 1423. (consideration: CR H4441-4445)
+- 2026-07-14 — DEBATE - The House proceeded with one hour of debate on H.R. 1181.
+- 2026-07-14 — House amendment considered as adopted: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2026-07-14 — House amendment offered/reported by: Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2026-07-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-07-14 — Mr. Frost moved to recommit to the Committee on Financial Services. (CR H4445)
+- 2026-07-14 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2026-07-14 — On motion to recommit Failed by the Yeas and Nays: 208 - 217 (Roll no. 239).
+- 2026-07-14 — On passage Passed by the Yeas and Nays: 221 - 201 (Roll no. 240). (text: CR H4441-4442)
+- 2026-07-14 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 1181 the Chair put the question on the motion to recommit and by voice vote, announced the noes had prevailed. Mr. Frost demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2026-07-14 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 221 - 201 (Roll no. 240).
+- 2026-07-14 — Rule H. Res. 1423 passed House.
+- 2026-07-14 — Rule provides for consideration of H.R. 139, H.R. 8595, H.R. 9237 and H.R. 1181. The resolution provides for consideration of H.R. 139, H.R. 9237, and H.R. 1181 under a closed rule, and H.R. 8595 under a structured rule with one hour of debate and one motion to reconsider on each bill.
+- 2026-07-14 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2026-07-14 — The previous question was ordered pursuant to the rule.
