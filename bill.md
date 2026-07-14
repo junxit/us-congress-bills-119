@@ -1,0 +1,38 @@
+---
+legis-num: S. 4960
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 4960
+
+> To amend the Geothermal Steam Act of 1970 to increase the frequency of lease sales, to require replacement sales, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Committing Leases for Energy Access Now Act” or the “CLEAN Act”.
+
+## § 2. Geothermal leasing
+
+- **(a)** *Annual leasing* Section 4(b) of the Geothermal Steam Act of 1970 (30 U.S.C. 1003(b)) is amended—
+  - **(1)** in paragraph (2), by striking “2 years” and inserting “year”;
+  - **(2)** by redesignating paragraphs (3) and (4) as paragraphs (5) and (6), respectively; and
+  - **(3)** after paragraph (2), by inserting the following:
+    > - **(3)** *Replacement Sales* If a lease sale under paragraph (1) for a year is canceled or delayed, the Secretary of the Interior shall conduct a replacement sale during the same year.
+    > - **(4)** *Requirement* Of the nominated parcels eligible for geothermal development and utilization under the resource management plan in effect for the State, the Secretary shall, in conducting a lease sale under paragraph (2), offer for lease—
+    >   - **(A)** 75 percent of such nominated parcels; and
+    >   - **(B)** the remaining 25 percent of such nominated parcels, unless the Secretary provides a written justification that identifies a statutory, environmental, or administrative basis that prevents the Secretary from offering such nominated parcels for lease.
+
+- **(b)** *Deadlines for consideration of geothermal drilling permits* Section 4 of the Geothermal Steam Act of 1970 (30 U.S.C. 1003) is amended by adding at the end the following:
+  > - **(h)** *Deadlines for consideration of geothermal drilling permits*
+  >   - **(1)** *Notice* Not later than 30 days after the date on which the Secretary receives an application for any geothermal drilling permit, the Secretary shall—
+  >     - **(A)** provide written notice to the applicant that the application is complete; or
+  >     - **(B)** notify the applicant that information is missing and specify any information that is required to be submitted for the application to be complete.
+  >   - **(2)** *Issuance or deferral*
+  >     - **(A)** *In general* Not later than 30 days after the Secretary has provided written notice to an applicant for a geothermal drilling permit that the application for such permit is complete pursuant to paragraph (1)(A), the Secretary shall—
+  >       - **(i)** issue the permit, if the requirements under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and other applicable law have been completed within such timeframe; or
+  >       - **(ii)** defer the decision on the permit and provide to the applicant a notice—
+  >         - **(I)** that specifies any steps that the applicant could take for the permit to be issued; and
+  >         - **(II)** that includes a list of actions that need to be taken by the agency to comply with applicable law, together with timelines and deadlines for taking such actions, which shall not exceed the deadlines specified in section 107(g) of the National Environmental Policy Act of 1969 (42 U.S.C. 4336a(g)).
+  >     - **(B)** *Deadline for deferred decisions* If the Secretary defers a decision on a permit under subparagraph (A)(ii), the Secretary shall issue a decision on the permit not later than 10 days after the applicant takes any steps specified pursuant to subparagraph (A)(ii)(I) and the agency takes the actions listed pursuant to subparagraph (A)(ii)(II) in accordance with any applicable timelines and deadlines.
