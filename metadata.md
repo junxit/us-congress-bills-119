@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8469
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 8469
@@ -80,3 +80,6 @@ Making appropriations for military construction, the Department of Veterans Affa
 - 2026-05-15 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
 - 2026-05-15 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 8469.
 - 2026-05-15 — The previous question was ordered pursuant to the rule.
+- 2026-05-20 — Received in the Senate.
+- 2026-07-13 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2026-07-14 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 455.
