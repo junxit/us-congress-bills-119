@@ -2,7 +2,7 @@
 legis-num: H.R. 2347
 congress: 119th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 2347
@@ -30,4 +30,4 @@ This Act may be cited as the “Survivor Justice Tax Prevention Act”.
   - **(2)** *Special rule for decisions* For purposes of paragraph (1), a decision shall be treated as made after the date of the enactment of this Act if the first payment pursuant to such decision is received after such date.
   - **(3)** *Special rule for agreements* For purposes of paragraph (1), an agreement shall not be treated as entered into after the date of the enactment of this Act if such agreement replaces, supersedes, or revises an agreement entered into on or before such date.
 - **(d)** *No inference with respect to effect of medical records or observable injuries on determinations with respect to personal physical injuries or physical sickness* No inference may be drawn from the amendment made by subsection (a) (or from section 104(a)(2)(B) of the Internal Revenue Code of 1986, as amended by subsection (a)) with respect to whether the term personal physical injuries or physical sickness as used in section 104(a)(2) of such Code includes injuries or sickness with respect to which there are no medical records or observable injuries.
-- **(e)** *Promotion of public awareness of exclusion* The Secretary of the Treasury (or the Secretary’s delegate), in consultation with the Department of Justice Office on Violence Against Women and other relevant Federal agencies, shall conduct a program to promote public awareness of the exclusion from gross income provided by section 104(a)(2)(B) of the Internal Revenue Code of 1986, as amended by this section.
+- **(e)** *Promotion of public awareness of exclusion* The Secretary of the Treasury (or the Secretary’s delegate), in consultation with the Department of Justice Office on Violence Against Women and other relevant Federal agencies, shall conduct a program to promote public awareness of the exclusion from gross income pro-vided by section 104(a)(2)(B) of the Internal Revenue Code of 1986, as amended by this section.
