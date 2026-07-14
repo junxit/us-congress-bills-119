@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8874
 congress: 119
-version: Reported in House
+version: Referred in Senate
 ---
 
 # H.R. 8874
@@ -21,9 +21,10 @@ Homeland Security Capabilities Preservation Reporting Act of 2026
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 - Rep. Gimenez, Carlos A. [R-FL-28] (G000593)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ Homeland Security Capabilities Preservation Reporting Act of 2026
 - 2026-07-13 — Placed on the Union Calendar, Calendar No. 647.
 - 2026-07-13 — Reported by the Committee on Homeland Security. H. Rept. 119-743.
 - 2026-07-13 — Reported by the Committee on Homeland Security. H. Rept. 119-743.
+- 2026-07-14 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
