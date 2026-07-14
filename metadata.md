@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8770
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8770
@@ -25,9 +25,10 @@ SAFEGUARDS Act of 2026
 - Rep. Mackenzie, Ryan [R-PA-7] (M001230)
 - Rep. Van Epps, Matt [R-TN-7] (V000139)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ SAFEGUARDS Act of 2026
 - 2026-07-13 — Mr. Garbarino moved to suspend the rules and pass the bill, as amended.
 - 2026-07-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4389-4390)
 - 2026-07-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4389-4390)
+- 2026-07-14 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
