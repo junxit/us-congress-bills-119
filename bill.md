@@ -84,6 +84,11 @@ This Act may be cited as the “Failing Bank Acquisition Fairness Act”.
 
 Section 13(c)(4) of the Federal Deposit Insurance Act (12 U.S.C. 1823(c)(4)) is amended by adding at the end the following:
 
-> - **(I)** *Limitation on considering bad faith bids* In making a determination under this paragraph of whether an exercise of authority is the least costly to the Deposit Insurance Fund, the Corporation may not consider any application, proposed application, or bid from a company, if such application, proposed application, or bid would result in violation of—
->   - **(i)** section 18(c)(13) or 44(b)(2); or
->   - **(ii)** section 3(d)(2), 4(i)(8), or 14 of the Bank Holding Company Act of 1956.
+> - **(I)** *Limitation on considering bad faith bids* In making a determination under this paragraph of whether an exercise of authority is the least costly to the Deposit Insurance Fund, any application, proposed application, or bid that would result in violation of—
+>   - **(i)** section 18(c)(13) or 44(b)(2), or
+>   - **(ii)** section 3(d)(2), 4(i)(8), or 14 of the Bank Holding Company Act of 1956,
+
+## § 5. Discretionary Surplus Fund
+
+- **(a)** *In general* The dollar amount specified under section 7(a)(3)(A) of the Federal Reserve Act (12 U.S.C. 289(a)(3)(A)) is reduced by $2,000,000.
+- **(b)** *Effective date* The amendment made by subsection (a) shall take effect on September 1, 2036.

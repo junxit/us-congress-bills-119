@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6556
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6556
@@ -35,3 +35,9 @@ Failing Bank Acquisition Fairness Act
 - 2026-02-02 — Placed on the Union Calendar, Calendar No. 406.
 - 2026-02-02 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-475.
 - 2026-02-02 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-475.
+- 2026-07-14 — Considered under suspension of the rules. (consideration: CR H4438-4441)
+- 2026-07-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6556.
+- 2026-07-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-07-14 — Mr. Hill (AR) moved to suspend the rules and pass the bill, as amended.
+- 2026-07-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4438-4440)
+- 2026-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
