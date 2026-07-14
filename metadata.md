@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8738
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8738
@@ -22,9 +22,10 @@ FEC Administrative Improvements Act
 - Rep. Steil, Bryan [R-WI-1] (S001213)
 - Rep. Sewell, Terri A. [D-AL-7] (S001185)
 
-## Committees (1)
+## Committees (2)
 
 - House — Committee on House Administration
+- Senate — Rules and Administration Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ FEC Administrative Improvements Act
 - 2026-07-13 — Mr. Steil moved to suspend the rules and pass the bill.
 - 2026-07-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4401-4402)
 - 2026-07-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4401-4402)
+- 2026-07-14 — Received in the Senate and Read twice and referred to the Committee on Rules and Administration.
