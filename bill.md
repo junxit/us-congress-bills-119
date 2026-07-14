@@ -1,0 +1,54 @@
+---
+legis-num: H.R. 9689
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 9689
+
+> To protect publicly commissioned art, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Protecting Resources and Ensuring Stewardship of Enduring Records of Visual Expression Act” or the “PRESERVE Act”.
+
+## § 2. Protecting publicly commissioned art
+
+- **(a)** *Covered art designation*
+  - **(1)** *Determination required by GSA* Not later than 30 days after the date on which the Administrator determines excess property that is Federal real property is surplus property, the Administrator shall determine whether the surplus property contains covered art.
+  - **(2)** *Notification required* Not later than 60 days after the Administrator determines that surplus property is covered surplus property, the Administrator shall notify the appropriate congressional committees and each Member of Congress that represents the area where the surplus property is located of such designation.
+- **(b)** *Preservation Committee*
+  - **(1)** *Establishment* Not later than 90 days before the initiation of the first demolition, transfer, or disposal of a covered surplus property, the Administrator shall establish a Preservation Committee for such covered surplus property.
+  - **(2)** *Member* There shall be at least 3 and not more than 6 members of the Preservation Committee as follows:
+    - **(A)** At least one member shall be a GSA Fine Arts Program employee who is a career employee in the civil service.
+    - **(B)** At least two members from different categories as follows:
+      - **(i)** An expert in art conservation or art history in either the time period or medium of the covered art.
+      - **(ii)** Any GSA employee that is responsible for preserving the artwork in the Federal building, such as an Historic Preservation Program employee.
+      - **(iii)** Any other individual the Administrator determines has important historical knowledge about the creation or preservation of the covered artwork.
+  - **(3)** *GSA plan or alternatives required to be submitted* On the date on which the Preservation Committee is established, the Administrator shall provide the Preservation Committee with—
+    - **(A)** a proposed plan of action for the sale, transfer, or demolition of the property; or
+    - **(B)** a range of alternatives the Administrator is considering for the covered surplus property.
+  - **(4)** *Preservation plan*
+    - **(A)** *Submission of plan* Not later than 90 days after the date on which the Preservation Committee is established, the Preservation Committee shall submit to the Administrator, the appropriate congressional committees, and each Member of Congress that represents the area where the surplus property is located a preservation plan for covered art within the surplus properties to preserve the covered artwork to the maximum extent possible, including through a preservation covenant in an outlease agreement and sale terms, or moving covered artwork to another facility or museum.
+    - **(B)** *Availability of preservation plan on GSA website* Not later than 30 days after the date on which the Administrator receives the preservation plan pursuant to subparagraph (A), the Administrator shall make the plan publicly available on the GSA website for not less than 90 days.
+    - **(C)** *Report required for missed deadline* If the Preservation Committee does not meet the deadline under subparagraph (A), the Committee shall submit to Congress and the Administrator a report explaining why the deadline was missed.
+  - **(5)** *Transfer of property* At the recommendation of the Preservation Committee, the Administrator may place the covered art on long-term loan to a museum or nonprofit organization, if the agreement to transfer includes the requirements described in subparagraphs (A) and (B) of paragraph (4).
+  - **(6)** *Condition for real property disposal* The Administrator may not dispose of, demolish, or outlease any covered surplus property unless—
+    - **(A)** the Administrator has established a Preservation Committee for such covered surplus property and the Preservation Committee has finished the preservation plan for any covered art in the property, in accordance with paragraph (4); and
+    - **(B)** the Administrator certifies to the appropriate congressional committees that the GSA is implementing such preservation plan and the covered artwork in such covered surplus property will remain publicly accessible under any future owners or tenants of the property.
+- **(c)** *Definitions* In this section:
+  - **(1)** *Administrator* The term Administrator means the Administrator of General Services.
+  - **(2)** *Appropriate congressional Committees* The term appropriate congressional committees means—
+    - **(A)** the Committee on Transportation and Infrastructure of the House of Representatives;
+    - **(B)** the Committee on Oversight and Government Reform of the House of Representatives; and
+    - **(C)** the Committee on Environment and Public Works of the Senate.
+  - **(3)** *Civil service* The term civil service has the meaning given that term in section 2101 of title 5, United States Code.
+  - **(4)** *Covered art* The term covered art means artwork that—
+    - **(A)** is owned by the Federal Government; and
+    - **(B)** is or was, within the preceding 5 years, managed by the General Services Administration Fine Arts Program, including any work commissioned using taxpayer funds under a Federal program established as part of the New Deal of President Franklin D. Roosevelt or commissioned through the GSA Art in Architecture program.
+  - **(5)** *Covered surplus property* The term covered surplus property means surplus property the Administrator determines contains covered art under subsection (a).
+  - **(6)** *Excess property; surplus property* The terms excess property and surplus property have the meaning given those terms in section 102 of title 40, United States Code.
+  - **(7)** *GSA* The term GSA means the General Services Administration.
+  - **(8)** *Nonprofit organization* The term nonprofit organization means an organization that is described in section 501(c)(3) of the Internal Revenue Code of 1986 and exempt from taxation under section 501(a) of such Code.
+  - **(9)** *Publicly accessible* The term publicly accessible means accessible to the general public on a regular and predictable basis.
