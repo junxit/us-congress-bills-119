@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 799
 congress: 119
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 799
@@ -20,7 +20,15 @@ A resolution expressing the condolences of the Senate and honoring the memory of
 
 - Sen. Duckworth, Tammy [D-IL] (D000622)
 
+## Committees (1)
+
+- Senate — Judiciary Committee
+
 ## Actions
 
 - 2026-06-24 — Referred to the Committee on the Judiciary. (text: CR S3220-3221)
 - 2026-06-24 — Submitted in Senate
+- 2026-07-15 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2026-07-15 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4117)
+- 2026-07-15 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2026-07-15 — Senate Committee on the Judiciary discharged by Unanimous Consent.
