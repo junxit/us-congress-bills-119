@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1181
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1181
@@ -151,9 +151,10 @@ Protecting Privacy in Purchases Act
 - Rep. Owens, Burgess [R-UT-4] (O000086)
 - Rep. Joyce, David P. [R-OH-14] (J000295)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (2)
 
@@ -190,3 +191,4 @@ Protecting Privacy in Purchases Act
 - 2026-07-14 — Rule provides for consideration of H.R. 139, H.R. 8595, H.R. 9237 and H.R. 1181. The resolution provides for consideration of H.R. 139, H.R. 9237, and H.R. 1181 under a closed rule, and H.R. 8595 under a structured rule with one hour of debate and one motion to reconsider on each bill.
 - 2026-07-14 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2026-07-14 — The previous question was ordered pursuant to the rule.
+- 2026-07-15 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
