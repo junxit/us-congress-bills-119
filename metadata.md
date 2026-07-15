@@ -1,7 +1,7 @@
 ---
 measure: H.R. 139
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 139
@@ -54,9 +54,10 @@ Sunshine Protection Act of 2025
 - Rep. Kim, Young [R-CA-40] (K000397)
 - Rep. Patronis, Jimmy [R-FL-1] (P000622)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (1)
 
@@ -75,3 +76,4 @@ Sunshine Protection Act of 2025
 - 2026-07-14 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 308 - 117 (Roll no. 238).
 - 2026-07-14 — Rule provides for consideration of H.R. 139, H.R. 8595, H.R. 9237 and H.R. 1181. The resolution provides for consideration of H.R. 139, H.R. 9237, and H.R. 1181 under a closed rule, and H.R. 8595 under a structured rule with one hour of debate and one motion to reconsider on each bill.
 - 2026-07-14 — The previous question was ordered pursuant to the rule.
+- 2026-07-15 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
