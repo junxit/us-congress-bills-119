@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 772
 congress: 119
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 772
@@ -16,9 +16,10 @@ A resolution expressing the sense of the Senate that under no circumstances shou
 
 - Sen. Gallego, Ruben [D-AZ] (G000574)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Lummis, Cynthia M. [R-WY] (L000571)
+- Sen. Moreno, Bernie [R-OH] (M001242)
 
 ## Committees (1)
 
@@ -28,3 +29,7 @@ A resolution expressing the sense of the Senate that under no circumstances shou
 
 - 2026-06-17 — Referred to the Committee on the Judiciary. (text: CR S2896)
 - 2026-06-17 — Submitted in Senate
+- 2026-07-15 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2026-07-15 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4117)
+- 2026-07-15 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2026-07-15 — Senate Committee on the Judiciary discharged by Unanimous Consent.
