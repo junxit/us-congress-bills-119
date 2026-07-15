@@ -1,7 +1,7 @@
 ---
 measure: S. 4949
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4949
@@ -31,3 +31,7 @@ Water Resources Development Act of 2026
 
 - 2026-07-13 — Introduced in Senate
 - 2026-07-13 — Read twice and referred to the Committee on Environment and Public Works.
+- 2026-07-15 — Committee on Environment and Public Works. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2026-07-15 — Committee on Environment and Public Works. Reported by Senator Capito with an amendment in the nature of a substitute. Without written report.
+- 2026-07-15 — Committee on Environment and Public Works. Reported by Senator Capito with an amendment in the nature of a substitute. Without written report.
+- 2026-07-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 457.
