@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6556
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6556
@@ -20,9 +20,10 @@ Failing Bank Acquisition Fairness Act
 
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Failing Bank Acquisition Fairness Act
 - 2026-07-14 — Mr. Hill (AR) moved to suspend the rules and pass the bill, as amended.
 - 2026-07-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4438-4440)
 - 2026-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2026-07-15 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
