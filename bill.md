@@ -28,9 +28,10 @@ This Act may be cited as the “Voter ID Act”.
     >         - **(II)** an affidavit developed and made available to the individual by the State attesting that the individual does not possess the identification required under subparagraph (A) because the individual has a religious objection to being photographed.
     >       - **(ii)** *No effect on other provisional balloting rules* Nothing in clause (i) may be construed to apply to the casting of a provisional ballot pursuant to section 302(a) or any State law for reasons other than the failure to present the identification required under subparagraph (A).
     >   - **(2)** *Individuals voting other than in person*
-    >     - **(A)** *In general* Notwithstanding any other provision of law and except as provided in subparagraph (B), the appropriate State or local election official may not accept any ballot for an election for Federal office provided by an individual who votes other than in person unless the individual submits with the ballot—
-    >       - **(i)** a copy of a valid photo identification; or
-    >       - **(ii)** the last four digits of the individual’s Social Security number and an affidavit developed and made available to the individual by the State attesting that the individual is unable to obtain a copy of a valid photo identification after making reasonable efforts to obtain such a copy.
+    >     - **(A)** *In general* Notwithstanding any other provision of law and except as provided in subparagraph (B), the appropriate State or local election official may not accept any ballot for an election for Federal office provided by an individual who votes other than in person unless the individual—
+    >       - **(i)** submits with the ballot a copy of a valid photo identification;
+    >       - **(ii)** submits with the ballot the last four digits of the individual’s Social Security number and an affidavit developed and made available to the individual by the State attesting that the individual is unable to obtain a copy of a valid photo identification after making reasonable efforts to obtain such a copy; or
+    >       - **(iii)** includes a notarization by a notary public attesting that the individual has personally marked the ballot.
     >     - **(B)** *Exceptions* Subparagraph (A) does not apply with respect to a ballot provided by—
     >       - **(i)** an absent uniformed services voter, as defined in section 107(1) of the Uniformed and Overseas Citizens Absentee Voting Act (52 U.S.C. 20310(1)); or
     >       - **(ii)** an individual provided the right to vote otherwise than in person under section 3(b)(2)(B)(ii) of the Voting Accessibility for the Elderly and Handicapped Act (52 U.S.C. 20102(b)(2)(B)(ii)).
@@ -42,7 +43,7 @@ This Act may be cited as the “Voter ID Act”.
     >   - **(1)** A valid State-issued motor vehicle driver’s license that includes a photo of the individual and an expiration date.
     >   - **(2)** A valid State-issued identification card that includes a photo of the individual and an expiration date issued by a State motor vehicle authority.
     >   - **(3)** A valid United States passport for the individual.
-    >   - **(4)** A valid military identification for the individual.
+    >   - **(4)** A valid photo identification card for the individual issued by the Department of Defense or the Department of Veterans Affairs.
     >   - **(5)** A valid identification document issued by a Tribal government that includes a photo of the individual and an expiration date.
 
   - **(2)** *Clerical amendment* The table of contents of such Act is amended by inserting after the item relating to section 303 the following new item:
