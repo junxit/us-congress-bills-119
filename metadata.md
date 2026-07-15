@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3074
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3074
@@ -20,9 +20,10 @@ Common Cents Act
 
 - Rep. Garcia, Robert [D-CA-42] (G000598)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Common Cents Act
 - 2026-07-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4433-4434)
 - 2026-07-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2026-07-14 — The title of the measure was amended. Agreed to without objection.
+- 2026-07-15 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
