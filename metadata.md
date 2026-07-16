@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5362
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 5362
@@ -36,8 +36,21 @@ To name the Department of Veterans Affairs multispecialty clinic in Marietta, Ge
 
 - House — Veterans' Affairs Committee
 
+## Recorded votes (1)
+
+- 2026-07-16 — [House 119-2-248](votes/house-119-2-0248.md) — On Motion to Suspend the Rules and Pass — **Passed** (418–0)
+
 ## Actions
 
 - 2025-09-15 — Introduced in House
 - 2025-09-15 — Introduced in House
 - 2025-09-15 — Referred to the House Committee on Veterans' Affairs.
+- 2025-09-25 — Referred to the Subcommittee on Health.
+- 2026-07-15 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Bost objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2026-07-15 — Considered under suspension of the rules. (consideration: CR H4473-4474; text: CR H4473)
+- 2026-07-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5362.
+- 2026-07-15 — Mr. Bost moved to suspend the rules and pass the bill.
+- 2026-07-16 — Considered as unfinished business. (consideration: CR H4613-4614)
+- 2026-07-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-07-16 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 248).
+- 2026-07-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 248).
