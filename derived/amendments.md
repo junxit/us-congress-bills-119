@@ -1,7 +1,7 @@
 ---
 measure: S. 2339
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 1 executed, 0 stated and not applied.
+2 amendatory instructions. 2 executed, 0 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,3 +32,12 @@ to guess them.
 |---|---|
 | Removed | `2026` |
 | Inserted | `2031` |
+
+### 42 U.S.C. § 280m
+
+> Section 399NN(h) of the Public Health Service Act (42 U.S.C. 280m(h)) is amended by striking “2022 through 2026” and inserting “2027 through 2031”.
+
+| | |
+|---|---|
+| Removed | `2022 through 2026` |
+| Inserted | `2027 through 2031` |
