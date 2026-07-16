@@ -17,11 +17,11 @@ This Act may be cited as the “Next-Generation Geothermal Research and Developm
 
 - **(a)** *In general* The Energy Independence and Security Act of 2007 (Public Law 110–140) is amended—
   - **(1)** in section 612 (42 U.S.C. 17191; relating to definitions)—
-    - **(A)** by redesignating paragraphs (1), (2), (3), (4), (5), (6), (7), and (8) as paragraphs (2), (3), (4), (5), (6), (7), (8), and (10), respectively;
+    - **(A)** by redesignating paragraphs (1), (2), (3), (4), (5), (6), (7), and (8) as paragraphs (2), (3), (4), (5), (6), (7), (8), and (11), respectively;
     - **(B)** by inserting before paragraph (2), as so redesignated, the following new paragraph:
       > - **(1)** *Closed-loop geothermal systems* The term “closed-loop geothermal systems” means a wellbore or subsurface circuit of wellbores containing a fluid heated through contact with the borehole wall.
 
-    - **(C)** by inserting after paragraph (8), as so redesignated, the following new paragraph:
+    - **(C)** by inserting after paragraph (8), as so redesignated, the following new paragraphs:
       > - **(9)** *Next-generation geothermal systems* The term “next-generation geothermal systems” means—
       >   - **(A)** enhanced geothermal systems;
       >   - **(B)** closed-loop geothermal systems;
@@ -29,9 +29,7 @@ This Act may be cited as the “Next-Generation Geothermal Research and Developm
       >     - **(i)** enhanced geothermal systems; or
       >     - **(ii)** closed-loop geothermal systems; and
       >   - **(D)** other innovative energy technologies.
-
-    - **(D)** by adding at the end the following new paragraph:
-      > - **(11)** *Supercritical geothermal* The term “supercritical geothermal” means energy derived from a subsurface rock resource in-situ existing at or above the supercritical conditions, whether relating to temperature or pressure, of the primary fluid present.
+      > - **(10)** *Supercritical geothermal* The term “supercritical geothermal” means energy derived from a subsurface rock resource in-situ existing at or above the supercritical conditions, whether relating to temperature or pressure, of the primary fluid present.
 
   - **(2)** in section 613(b)(1) (42 U.S.C. 17192(b)(1); relating to hydrothermal research and development), by striking “advanced geologic tools to assist” and inserting “advanced tools, including machine learning algorithms, to assist”;
   - **(3)** in section 614 (42 U.S.C. 17193; relating to general geothermal systems research and development)—
@@ -59,16 +57,16 @@ This Act may be cited as the “Next-Generation Geothermal Research and Developm
       - **(iii)** in paragraph (11), by striking “and” after the semicolon;
       - **(iv)** in paragraph (12), by striking the period and inserting “; and”; and
       - **(v)** by adding at the end the following new paragraph:
-        > - **(13)** the research topics specified in subparagraphs (1) through (12) in supercritical conditions.
+        > - **(13)** the research topics specified in paragraphs (1) through (12) in supercritical conditions.
 
     - **(D)** in subsection (c)—
       - **(i)** by redesignating paragraph (7) as paragraph (8); and
       - **(ii)** by inserting after paragraph (6) the following new paragraph:
-        > - **(7)** *Next-generation geothermal testing* Not later than one year after the date of the enactment of this paragraph, the Secretary shall take such actions as may be necessary to ensure that at least one FORGE site has the capabilities to include next-generation geothermal testing, including, if practicable and technically feasible, closed-loop geothermal systems in supercritical conditions.
+        > - **(7)** *Next-generation geothermal testing* Not later than one year after the date of the enactment of this paragraph, the Secretary shall take such actions as may be necessary to ensure that at least one FORGE site has the capabilities to include next-generation geothermal testing, including in supercritical conditions.
 
     - **(E)** by adding at the end the following new subsections:
-      > - **(e)** *Next-Generation geothermal research and development program*
-      >   - **(1)** *In general* Within the Geothermal Technologies Office of the Department, the Secretary shall support a program of next-generation geothermal research, development, demonstration, and commercial application activities, including, if practicable and technically feasible, closed-loop geothermal systems in supercritical conditions.
+      > - **(e)** *Next-generation geothermal research and development program*
+      >   - **(1)** *In general* Within the Geothermal Technologies Office of the Department, the Secretary shall support a program of next-generation geothermal research, development, demonstration, and commercial application activities, including in supercritical conditions.
       >   - **(2)** *Focus areas*
       >     - **(A)** *In general* The program described in paragraph (1) shall focus on the following topics:
       >       - **(i)** Well completion.
