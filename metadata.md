@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3029
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 3029
@@ -16,9 +16,11 @@ To amend the Research and Development, Competition, and Innovation Act to suppor
 
 - Rep. Salinas, Andrea [D-OR-6] (S001226)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Rep. McCormick, Richard [R-GA-7] (M001218)
+- Rep. McBride, Sarah [D-DE-At Large] (M001238)
+- Rep. Riley, Josh [D-NY-19] (R000622)
 
 ## Committees (1)
 
@@ -29,3 +31,8 @@ To amend the Research and Development, Competition, and Innovation Act to suppor
 - 2025-04-28 — Introduced in House
 - 2025-04-28 — Introduced in House
 - 2025-04-28 — Referred to the House Committee on Science, Space, and Technology.
+- 2025-04-29 — Committee Consideration and Mark-up Session Held
+- 2025-04-29 — Ordered to be Reported by Voice Vote.
+- 2026-07-16 — Placed on the Union Calendar, Calendar No. 654.
+- 2026-07-16 — Reported by the Committee on Science, Space, and Technology. H. Rept. 119-751.
+- 2026-07-16 — Reported by the Committee on Science, Space, and Technology. H. Rept. 119-751.
