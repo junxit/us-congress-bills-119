@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4288
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4288
@@ -71,9 +71,10 @@ To name the Department of Veterans Affairs community-based outpatient clinic in 
 - Rep. Kim, Young [R-CA-40] (K000397)
 - Rep. LaMalfa, Doug [R-CA-1] (L000578)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Actions
 
@@ -86,3 +87,4 @@ To name the Department of Veterans Affairs community-based outpatient clinic in 
 - 2026-07-15 — Mr. Bost moved to suspend the rules and pass the bill.
 - 2026-07-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4478)
 - 2026-07-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4478)
+- 2026-07-16 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
