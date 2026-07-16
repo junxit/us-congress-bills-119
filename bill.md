@@ -1,0 +1,141 @@
+---
+legis-num: H.R. 9725
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 9725
+
+> To amend title 5, United States Code, to abolish the Council of the Inspectors General on Integrity and Efficiency, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Restoring Integrity and Efficiency to Inspector General Oversight Act of 2026”.
+
+## § 2. Abolishment of the Council of the Inspectors General on Integrity and Efficiency
+
+- **(a)** *In general*
+  - **(1)** *Abolishment of Council* The Council of the Inspectors General on Integrity and Efficiency, as established by section 424 of title 5, United States Code, is abolished effective on the abolishment date specified in paragraph (3).
+  - **(2)** *Abolition of functions* Except for functions otherwise vested or transferred by this Act, or an amendment made by this Act, all functions that, immediately before the abolishment date specified in paragraph (3), were functions of the Council of the Inspectors General on Integrity and Efficiency are abolished effective on such date.
+  - **(3)** *Abolishment date* The abolishment date specified in this paragraph is the date that is 1 year after the date of the enactment of this Act.
+- **(b)** *Vesting of Council functions and duties* Effective on the abolishment date specified in subsection (a)(3), section 424 of title 5, United States Code, is amended to read as follows (and by conforming the table of sections at the beginning of chapter 4 of such title accordingly):
+  > ## § 424. Additional provisions with respect to the offices of the Inspectors General
+  >
+  > - **(a)** *Development of standards* The Director of the Office of Management and Budget shall develop policies, standards, and approaches to aid in the establishment of a well-trained and highly skilled workforce in the offices of the Inspectors General.
+  > - **(b)** *Inspections* The Comptroller General of the United States shall develop standards for the offices of the Inspectors General to conduct inspections.
+  > - **(c)** *Areas of weakness and vulnerability* The offices of the Inspectors General shall coordinate to continually identify, review, and discuss areas of weakness and vulnerability in Federal programs and operations with respect to fraud, waste, and abuse.
+  > - **(d)** *Governmentwide activities* The Director of the Office of Management and Budget shall develop plans for coordinated, governmentwide activities that address these problems and promote economy and efficiency in Federal programs and operations, including interagency and inter-entity audit, investigation, inspection, and evaluation programs and projects to deal efficiently and effectively with those problems concerning fraud and waste that exceed the capability or jurisdiction of an individual agency or entity.
+  > - **(e)** *Policies for personnel* The Director of the Office of Management and Budget, in coordination with the Director of the Office of Personnel Management, the offices of the Inspectors General, and the Director of the Federal Law Enforcement Training Centers, shall develop policies that will aid in the maintenance of a corps of well-trained and highly skilled Office of Inspector General personnel.
+  > - **(f)** *Professional training* The Director of the Federal Law Enforcement Training Centers, in coordination with the offices of the Inspectors General, shall maintain 1 or more academies for the professional training of auditors, investigators, inspectors, evaluators, and other personnel of the various offices of Inspector General.
+  > - **(g)** *Multi-Jurisdiction review* The Director of the Office of Management and Budget shall, except for matters coordinated among Inspectors General under section 103H of the National Security Act of 1947 (50 U.S.C. 3033), receive, review, and mediate any disputes submitted in writing by an Office of Inspector General regarding an audit, investigation, inspection, evaluation, or project that involves the jurisdiction of more than one Office of Inspector General.
+  > - **(h)** *Responsibilities relating to whistleblower protection* The Inspectors General shall—
+  >   - **(1)** facilitate the work of the Whistleblower Protection Coordinators designated under section 403(d)(1)(C) of this title; and
+  >   - **(2)** in consultation with the Office of Special Counsel and Whistleblower Protection Coordinators from the member offices of the Inspector General, develop best practices for coordination and communication in promoting the timely and appropriate handling and consideration of protected disclosures, allegations of reprisal, and general matters regarding the implementation and administration of whistleblower protection laws, in accordance with Federal law.
+
+- **(c)** *Transfer of revolving fund* Any amounts that are available in the Inspectors General Council Fund immediately before the abolishment date specified in paragraph (3) or that were transferred to the Council of the Inspectors General on Integrity and Efficiency are hereby transferred to the Director of the Federal Law Enforcement Training Centers.
+- **(d)** *Transfer of assets* Except as otherwise provided in this Act, so much of the personnel, property, records, and unexpended balances of appropriations, allocations, and other funds employed, used, held, available, or to be made available in connection with a function transferred to an official or agency by this Act shall be available to the official or the head of that agency, respectively, at such time or times as the Director of the Office of Management and Budget, or the Administrator of General Services, as appropriate, directs for use in connection with the functions transferred.
+- **(e)** *Termination of personnel* Except as provided by subsection (d), effective on the abolishment date specified in subsection (a), any individual who is an officer or employee of the Council of the Inspectors General on Integrity and Efficiency shall be separated from the civil service.
+- **(f)** *Delegation and assignment* Except as otherwise expressly prohibited by law or otherwise provided in this Act, or an amendment made by this Act, an official to whom functions are transferred under this Act (including the head of any office to which functions are transferred under this Act) may delegate any of the functions so transferred to such officers and employees of the office of the official as the official may designate, and may authorize successive redelegations of such functions as may be necessary or appropriate. No delegation of functions under this section or under any other provision of this Act shall relieve the official to whom a function is transferred under this Act of responsibility for the administration of the function.
+- **(g)** *Savings Provisions*
+  - **(1)** *Legal documents* All orders, determinations, regulations, permits, grants, loans, contracts, agreements, certificates, licenses, and privileges—
+    - **(A)** that have been issued, made, granted, or allowed to become effective by the President, the Chair of the Council of the Inspectors General on Integrity and Efficiency, the Council of the Inspectors General on Integrity and Efficiency, any officer or employee of any office transferred by this Act, or any other Government official, or by a court of competent jurisdiction, in the performance of any function that is transferred by this Act; and
+    - **(B)** that are in effect on the effective date of such transfer (or become effective after such date pursuant to their terms as in effect on such effective date),
+  - **(2)** *Proceedings* This Act shall not affect any proceedings or any application for any benefits, service, license, permit, certificate, or financial assistance pending on the date of the enactment of this Act before an office transferred by this Act, but such proceedings and applications shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this Act had not been enacted, and orders issued in any such proceeding shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law. Nothing in this paragraph shall be considered to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this Act had not been enacted.
+  - **(3)** *Suits* This Act shall not affect suits commenced against the Council of the Inspectors General on Integrity and Efficiency or the Chair of the Council of the Inspectors General on Integrity and Efficiency, or against any individual in the official capacity of such individual as an officer or employee of an office transferred by this Act, before the date of the enactment of this Act, and in all such suits, proceeding shall be had, appeal taken, and judgments rendered in the same manner and with the same effect as if this Act had not been enacted.
+  - **(4)** *Nonabatement of actions* No suit, action, or other proceeding commenced against the Council of the Inspectors General on Integrity and Efficiency or the Chair of the Council of the Inspectors General on Integrity and Efficiency, or against any individual in the official capacity of such individual as an officer or employee of an office transferred by this Act, shall abate by reason of the enactment of this Act.
+  - **(5)** *Continuance of suits* If any Government officer in the official capacity of such officer is party to a suit with respect to a function of the officer, and under this Act such function is transferred to any other officer or office, then such suit shall be continued with the other officer or the head of such other office, as applicable, substituted or added as a party.
+  - **(6)** *Administrative procedure and judicial review* Except as otherwise provided by this Act, any statutory requirements relating to notice, hearings, action upon the record, or administrative or judicial review that apply to any function transferred by this Act shall apply to the exercise of such function by the head of the Federal agency, and other officers of the agency, to which such function is transferred by this Act.
+- **(h)** *Technical and Conforming amendments*
+  - **(1)** *Inspector General of the Library of Congress* Section 1307(d)(3) of the Library of Congress Inspector General Act of 2005 (2 U.S.C. 185(d)(3)) is amended—
+    - **(A)** in subparagraph (B)(ii), by striking “the Council of the Inspectors General on Integrity and Efficiency use of force policies, which incorporate” and inserting “the”;
+    - **(B)** in subparagraph (C)(i), by striking “standards established by the Council of the Inspectors General on Integrity and Efficiency, which incorporate” and inserting “the”;
+    - **(C)** in subparagraph (D)—
+      - **(i)** by striking “established by the Council of the Inspectors General on Integrity and Efficiency” and inserting “established by the Comptroller General of the United States”; and
+      - **(ii)** by striking “, the Council of the Inspectors General on Integrity and Efficiency,”;
+    - **(D)** by striking subparagraph (E); and
+    - **(E)** by redesignating subparagraph (F) as subparagraph (E).
+  - **(2)** *Inspector General of the Architect of the Capitol* Section 1301(d)(3) of the Architect of the Capitol Inspector General Act of 2007 (2 U.S.C. 1808(d)(3)) is amended—
+    - **(A)** in subparagraph (B)(ii), by striking “the Council of the Inspectors General on Integrity and Efficiency use of force policies, which incorporate” and inserting “the”;
+    - **(B)** in subparagraph (C)(i), by striking “standards established by the Council of the Inspectors General on Integrity and Efficiency, which incorporate” and inserting “the”;
+    - **(C)** in subparagraph (D)—
+      - **(i)** by striking “established by the Council of the Inspectors General on Integrity and Efficiency” and inserting “established by the Comptroller General of the United States”; and
+      - **(ii)** by striking “, the Council of the Inspectors General on Integrity and Efficiency,”;
+    - **(D)** by striking subparagraph (E); and
+    - **(E)** by redesignating subparagraph (F) as subparagraph (E).
+  - **(3)** *Inspectors General appointments* Section 403(d)(1)(C)(iii) of title 5, United States Code, is amended by striking “the Council of the Inspectors General on Integrity and Efficiency,”.
+  - **(4)** *Authority of Inspector General* Section 406 of title 5, United States Code, is amended—
+    - **(A)** in subsection (g)(1), by striking “, and any resources necessary to support the Council of the Inspectors General on Integrity and Efficiency. Resources necessary to support the Council of the Inspectors General on Integrity and Efficiency shall be specifically identified and justified in the budget request”;
+    - **(B)** in subsection (g)(2)—
+      - **(i)** in subparagraph (B), by striking the semicolon and inserting “; and”; and
+      - **(ii)** by striking subparagraph (C);
+    - **(C)** in subsection (g)(3)—
+      - **(i)** in subparagraph (C), by striking the semicolon and inserting “; and”; and
+      - **(ii)** by striking subparagraph (D); and
+    - **(D)** in subsection (k), by striking “the Council of the Inspectors General on Integrity and Efficiency or”.
+  - **(5)** *Special application* Section 415(g) of title 5, United States Code, is amended—
+    - **(A)** in paragraph (1)—
+      - **(i)** by striking “Sections 404, 405, 406, and 407” and inserting “Sections 404, 405, 406, 407, and 424”; and
+      - **(ii)** by striking “and 407” and inserting “407, and 424”;
+    - **(B)** in paragraph (4)(A), by striking the semicolon and inserting “; or”;
+    - **(C)** in paragraph (4)(B) by striking “; or” and inserting a period; and
+    - **(D)** by striking paragraph (4)(C).
+  - **(6)** *Inspector General oversight of fund* Section 1521(e)(1)(B) of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91) is amended by striking “by the Council of the Inspectors General on Integrity and Efficiency (commonly referred to as the “CIGIE Blue Book”)” and inserting “ by the Comptroller General of the United States”.
+  - **(7)** *Special provisions concerning overseas contingency operations* Section 419 of title 5, United States Code, is amended—
+    - **(A)** by striking subsection (a) and inserting the following:
+      > - **(a)** *Responsibilities of Inspectors General* The Inspectors General specified in subsection (c) shall have the specific responsibilities specified in subsection (b) upon the earlier of—
+      >   - **(1)** the commencement or designation of a military operation as an overseas contingency operation that exceeds 60 days; or
+      >   - **(2)** receipt of a notification under section 113(n) of title 10 with respect to an overseas contingency operation.
+
+    - **(B)** in subsection (b)—
+      - **(i)** in paragraph (1), by striking “In consultation with the Inspectors General specified in subsection (c), to designate” and inserting “To designate”; and
+      - **(ii)** in paragraph (2), by striking “To resolve” and inserting “In accordance with section 424(g) of this title, to resolve”; and
+    - **(C)** in subsection (d)(1), by striking “the Chair of the Council of Inspectors General on Integrity and Efficiency under subsection (b)(1)” and inserting “the Inspectors General specified in subsection (c)”.
+  - **(8)** *Investigative leave and notice leave* Section 6329b(e) of title 5, United States Code, is amended by striking “the Council of the Inspectors General on Integrity and Efficiency, in consultation with”.
+  - **(9)** *Secretary of Defense* Section 113(o) of title 10, United States Code, is amended by striking “the Chair of the Council of Inspectors General on Integrity and Efficiency” and inserting “Director of the Office of Management and Budget”.
+  - **(10)** *Special Inspector General for the Troubled Asset Relief Program* Section 121 of the Emergency Economic Stabilization Act of 2008 (12 U.S.C. 5231) is amended—
+    - **(A)** by striking subsection (h); and
+    - **(B)** by redesignating subsections (i) through (k) as subsections (h) through (j), respectively.
+  - **(11)** *Reducing vulnerability of SBIR and STTR programs to fraud, waste, and abuse* Section 5143 of the National Defense Authorization Act for Fiscal Year 2012 (15 U.S.C. 638b) is amended by striking “, in consultation with the Council of Inspectors General on Integrity and Efficiency,”.
+  - **(12)** *Budget contents and submission to Congress* Section 1105(a) of title 31, United States Code, is amended—
+    - **(A)** by striking paragraph (33); and
+    - **(B)** by redesignating paragraphs (34) through (38) as paragraphs (33) through (37), respectively.
+  - **(13)** *Compliance* Section 3353(a) of title 31, United States Code, is amended—
+    - **(A)** by striking paragraph (2);
+    - **(B)** by redesignating paragraph (3) as paragraph (2);
+    - **(C)** in paragraph (2), as so redesignated, by striking “in consultation with the Council”; and
+    - **(D)** in paragraph (4)—
+      - **(i)** by striking “CIGIE” and inserting “Additional OMB”; and
+      - **(ii)** by striking “Not later than 180 days after the date of enactment of this section, the Council” and inserting “The Director of the Office of Management and Budget”.
+  - **(14)** *Annual independent evaluation* Section 3555(j) of title 44, United States Code, is amended by striking “, the Council of the Inspectors General on Integrity and Efficiency”.
+  - **(15)** *Duties, responsibilities, authority, and reports* Section 3903(c) of title 44, United States Code, is amended—
+    - **(A)** in paragraph (2)(B), by striking “the Council of the Inspectors General on Integrity and Efficiency use of force policies, which incorporate” and inserting “the”;
+    - **(B)** in paragraph (3)(A), by striking “standards established by the Council of the Inspectors General on Integrity and Efficiency, which incorporate” and inserting “the”;
+    - **(C)** in paragraph (4)—
+      - **(i)** by striking “by the Council of the Inspectors General on Integrity and Efficiency” and inserting “by the Comptroller General of the United States”; and
+      - **(ii)** by striking “, the Council of the Inspectors General on Integrity and Efficiency,”;
+    - **(D)** by striking paragraph (5); and
+    - **(E)** by redesignating paragraph (6) as paragraph (5).
+  - **(16)** *Inspector General of the intelligence community* Section 103H of the National Security Act of 1947 (50 U.S.C. 3033) is amended—
+    - **(A)** in subsection (i)(1)(B), by striking “or the Council of the Inspectors General on Integrity and Efficiency”; and
+    - **(B)** in subsection (n)—
+      - **(i)** in paragraph (1)(A), by striking the semicolon and inserting “; and”;
+      - **(ii)** in paragraph (1)(B), by striking “; and” and inserting a period at the end;
+      - **(iii)** by striking paragraph (1)(C);
+      - **(iv)** in paragraph (2)(B), by striking the semicolon and inserting “; and”;
+      - **(v)** by striking paragraph (2)(C);
+      - **(vi)** in paragraph (3)(C), by striking the semicolon and inserting “; and”; and
+      - **(vii)** by striking paragraph (3)(D).
+  - **(17)** *Inspector General for Central Intelligence Agency* Section 17 of the Central Intelligence Agency Act of 1949 (50 U.S.C. 3517) is amended—
+    - **(A)** in subsection (e)(8)(A)(ii), by striking “or the Council of the Inspectors General on Integrity and Efficiency”; and
+    - **(B)** in subsection (f)—
+      - **(i)** in paragraph (2)(A), by striking the semicolon and inserting “; and”;
+      - **(ii)** in paragraph (2)(B), by striking “; and” and inserting a period at the end;
+      - **(iii)** by striking paragraph (2)(C);
+      - **(iv)** in paragraph (3)(B), by striking the semicolon and inserting “; and”;
+      - **(v)** by striking in paragraph (3)(C);
+      - **(vi)** in paragraph (4)(C), by striking the semicolon and inserting “; and”; and
+      - **(vii)** by striking paragraph (4)(D).
+- **(i)** *Definitions* In this Act:
+  - **(1)** *Function* The term function includes any duty, obligation, power, authority, responsibility, right, privilege, activity, or program.
+  - **(2)** *Office* The term office includes any office, administration, agency, bureau, institute, council, unit, organizational entity, or component thereof.
