@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4647
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4647
@@ -32,3 +32,4 @@ Captain Paul W. Bud Bucha VA Medical Center Act of 2025
 - 2026-07-15 — Mr. Bost moved to suspend the rules and pass the bill.
 - 2026-07-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4476-4477)
 - 2026-07-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4476-4477)
+- 2026-07-16 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 458.
