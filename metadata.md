@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4123
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 4123
@@ -33,3 +33,11 @@ FIT Procurement Act
 - 2025-06-25 — Introduced in House
 - 2025-06-25 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Small Business, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2025-06-25 — Referred to the Committee on Oversight and Government Reform, and in addition to the Committee on Small Business, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2026-02-04 — Committee Consideration and Mark-up Session Held
+- 2026-02-04 — Ordered to be Reported (Amended) by the Yeas and Nays: 42 - 0.
+- 2026-07-20 — Considered under suspension of the rules. (consideration: CR H4659-4661)
+- 2026-07-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4123.
+- 2026-07-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-07-20 — Mr. Burlison moved to suspend the rules and pass the bill, as amended.
+- 2026-07-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4659-4661)
+- 2026-07-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4659-4661)
