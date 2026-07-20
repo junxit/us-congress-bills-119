@@ -26,4 +26,4 @@ This Act may be cited as the “Putting Patients First by Strengthening Provider
     >     - **(C)** any State program for which payments are made to providers for services, appliances, or supplies similar to such services, appliances, or supplies provided pursuant to this subchapter.
     >   - **(2)** The Secretary shall promulgate regulations to carry out this subsection.
 
-- **(b)** *Effective date* The amendments made by this Act shall apply to payments made to a provider of services, appliances, or supplies on or after the date that is 180 days after the date of enactment of this Act.
+- **(b)** *Effective date* The amendments made by this Act shall apply with respect to payments made to a provider of services, appliances, or supplies on or after the date that is 180 days after the date of enactment of this Act.
