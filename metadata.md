@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2069
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 2069
@@ -16,10 +16,11 @@ Stop Secret Spending Act of 2025
 
 - Rep. Moore, Barry [R-AL-1] (M001212)
 
-## Cosponsors (2)
+## Cosponsors (3)
 
 - Rep. Panetta, Jimmy [D-CA-19] (P000613)
 - Rep. Goodlander, Maggie [D-NH-2] (G000604)
+- Rep. Hageman, Harriet M. [R-WY-At Large] (H001096)
 
 ## Committees (1)
 
@@ -30,3 +31,11 @@ Stop Secret Spending Act of 2025
 - 2025-03-11 — Introduced in House
 - 2025-03-11 — Introduced in House
 - 2025-03-11 — Referred to the House Committee on Oversight and Government Reform.
+- 2026-03-18 — Committee Consideration and Mark-up Session Held
+- 2026-03-18 — Ordered to be Reported (Amended) by the Yeas and Nays: 40 - 0.
+- 2026-07-20 — Considered under suspension of the rules. (consideration: CR H4657-4659)
+- 2026-07-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2069.
+- 2026-07-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-07-20 — Mr. Burlison moved to suspend the rules and pass the bill.
+- 2026-07-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4657-4658)
+- 2026-07-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4657-4658)
