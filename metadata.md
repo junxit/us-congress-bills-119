@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2821
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2821
@@ -77,3 +77,9 @@ FDA Modernization Act 3.0
 - 2026-06-18 — Placed on the Union Calendar, Calendar No. 614.
 - 2026-06-18 — Reported by the Committee on Energy and Commerce. H. Rept. 119-706.
 - 2026-06-18 — Reported by the Committee on Energy and Commerce. H. Rept. 119-706.
+- 2026-07-20 — Considered under suspension of the rules. (consideration: CR H4639-4640)
+- 2026-07-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2821.
+- 2026-07-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-07-20 — Mr. Guthrie moved to suspend the rules and pass the bill.
+- 2026-07-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4639)
+- 2026-07-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4639)
