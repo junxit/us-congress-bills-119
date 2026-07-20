@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4541
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4541
@@ -43,6 +43,10 @@ To reauthorize the Young Women’s Breast Health Education and Awareness Require
 
 - House — Energy and Commerce Committee
 
+## Recorded votes (1)
+
+- 2026-07-20 — [House 119-2-250](votes/house-119-2-0250.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (394–6)
+
 ## Actions
 
 - 2025-07-17 — Introduced in House
@@ -56,3 +60,11 @@ To reauthorize the Young Women’s Breast Health Education and Awareness Require
 - 2026-07-13 — Placed on the Union Calendar, Calendar No. 650.
 - 2026-07-13 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-746.
 - 2026-07-13 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-746.
+- 2026-07-20 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2026-07-20 — Considered as unfinished business. (consideration: CR H4670-4671)
+- 2026-07-20 — Considered under suspension of the rules. (consideration: CR H4648-4649)
+- 2026-07-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4541.
+- 2026-07-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-07-20 — Mr. Guthrie moved to suspend the rules and pass the bill, as amended.
+- 2026-07-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 6 (Roll no. 250). (text: CR H4648)
+- 2026-07-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 6 (Roll no. 250). (text: CR H4648)
