@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5578
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Expanding Whistleblower Protections for Contractors Act of 2025”.
+This Act may be cited as the “Expanding Whistleblower Protections for Contractors Act of 2026”.
 
 ## § 2. Defense contractor employees: protection from reprisal for disclosure of certain information
 
@@ -38,27 +38,23 @@ Section 4701 of title 10, United States Code, is amended—
   - **(A)** in paragraph (1), by adding at the end the following subparagraph:
     > - **(E)** Propose appropriate disciplinary action against any executive branch official for any request made of a contractor, subcontractor, grantee, or subgrantee that subjected the complainant to a reprisal prohibited by subsection (a).
 
-  - **(B)** by striking paragraph (7) and inserting the following paragraph:
-    > - **(7)** *Clarification for scope of waiver restrictions* The rights, forum, and remedies provided for in this section may not be waived by any public or private agreement, policy, form, or condition of employment, including by any predispute arbitration agreement.
+  - **(B)** by striking paragraph (8) and inserting the following paragraph:
+    > - **(8)** *Clarification for scope of waiver restrictions* The rights, forum, and remedies provided for in this section may not be waived by any public or private agreement, policy, form, or condition of employment, including by any predispute arbitration agreement.
 
-- **(3)** by striking subsection (e) and redesignating subsections (f) and (g) as subsections (e) and (f), respectively;
-- **(4)** in subsection (e), as so redesignated—
+- **(3)** in subsection (f)—
   - **(A)** by striking “an employee” and inserting “a protected individual”; and
   - **(B)** by striking “the employee” and inserting “the protected individual”; and
-- **(5)** in subsection (f), as so redesignated, by adding at the end the following new paragraph:
+- **(4)** in subsection (g), by adding at the end the following new paragraph:
   > - **(8)** The term protected individual means—
   >   - **(A)** a contractor, subcontractor, grantee, or subgrantee of the Department of Defense or the National Aeronautics and Space Administration, including—
-  >     - **(i)** the government of each of the several States, the District of Columbia, an Indian tribe or authorized tribal organization, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, or any other territory or possession of the United States;
-  >     - **(ii)** the government of any political subdivision of, agency of, or instrumentality of, a government listed in clause (i); and
-  >     - **(iii)** an element of the intelligence community (as defined in section 3 of the National Security Act of 1947 (50 U.S.C. 3003)) within the Department of Defense;
+  >     - **(i)** the government of each of the several States, the District of Columbia, an Indian tribe or authorized tribal organization, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, or any other territory or possession of the United States; and
+  >     - **(ii)** the government of any political subdivision of, agency of, or instrumentality of, a government listed in clause (i);
   >   - **(B)** an employee of a contractor, subcontractor, grantee, or subgrantee of the Department of Defense or the National Aeronautics and Space Administration, or a former employee of such contractor, subcontractor, grantee, or subgrantee whose protected disclosure or engagement in any activity protected against reprisal under this section occurred prior to termination, including an employee of—
-  >     - **(i)** the government of each of the several States, the District of Columbia, an Indian tribe or authorized tribal organization, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, or any other territory or possession of the United States;
-  >     - **(ii)** the government of any political subdivision of, agency of, or instrumentality of, a government listed in clause (i); and
-  >     - **(iii)** an element of the intelligence community (as defined in section 3 of the National Security Act of 1947 (50 U.S.C. 3003)) within the Department of Defense; or
+  >     - **(i)** the government of each of the several States, the District of Columbia, an Indian tribe or authorized tribal organization, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, or any other territory or possession of the United States; and
+  >     - **(ii)** the government of any political subdivision of, agency of, or instrumentality of, a government listed in clause (i); or
   >   - **(C)** a person performing personal services for the Department of Defense or the National Aeronautics and Space Administration pursuant to a contractual agreement for the performance of personal services, including a personal services contract or personal services agreement, and who engages in an activity for which any reprisal is prohibited under subsection (a), including a person performing personal services pursuant such a contractual agreement for—
-  >     - **(i)** the government of each of the several States, the District of Columbia, an Indian tribe or authorized tribal organization, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, or any other territory or possession of the United States;
-  >     - **(ii)** the government of any political subdivision of, agency of, or instrumentality of, a government listed in clause (i); and
-  >     - **(iii)** an element of the intelligence community (as defined in section 3 of the National Security Act of 1947 (50 U.S.C. 3003)) within the Department of Defense.
+  >     - **(i)** the government of each of the several States, the District of Columbia, an Indian tribe or authorized tribal organization, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, or any other territory or possession of the United States; and
+  >     - **(ii)** the government of any political subdivision of, agency of, or instrumentality of, a government listed in clause (i).
 
 ## § 3. Enhancement of non-defense contractor protection from reprisal for disclosure of certain information
 
@@ -87,18 +83,14 @@ Section 4712 of title 41, United States Code, is amended—
 - **(3)** in subsection (e)—
   - **(A)** by striking “an employee” and inserting “a protected individual”; and
   - **(B)** by striking “the employee” and inserting “the protected individual”;
-- **(4)** by striking subsection (f) and redesignating subsections (g) and (h) as subsections (f) and (g), respectively; and
-- **(5)** in subsection (f), as so redesignated, by inserting after paragraph (2) the following new paragraph:
+- **(4)** in subsection (g), by inserting after paragraph (2) the following new paragraph:
   > - **(3)** The term protected individual means—
   >   - **(A)** a contractor, subcontractor, grantee, or subgrantee of the Federal Government, including—
-  >     - **(i)** the government of each of the several States, the District of Columbia, an Indian tribe or authorized tribal organization, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, or any other territory or possession of the United States;
-  >     - **(ii)** the government of any political subdivision of, agency of, or instrumentality of, a government listed in clause (i); and
-  >     - **(iii)** an element of the intelligence community (as defined in section 3 of the National Security Act of 1947 (50 U.S.C. 3003));
+  >     - **(i)** the government of each of the several States, the District of Columbia, an Indian tribe or authorized tribal organization, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, or any other territory or possession of the United States; and
+  >     - **(ii)** the government of any political subdivision of, agency of, or instrumentality of, a government listed in clause (i);
   >   - **(B)** an employee of a contractor, subcontractor, grantee, or subgrantee of the Federal Government or a former employee of such contractor, subcontractor, grantee, or subgrantee whose protected disclosure or engagement in any activity protected against reprisal under this section occurred prior to termination, including an employee of—
-  >     - **(i)** the government of each of the several States, the District of Columbia, an Indian tribe or authorized tribal organization, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, or any other territory or possession of the United States;
-  >     - **(ii)** the government of any political subdivision of, agency of, or instrumentality of, a government listed in clause (i); and
-  >     - **(iii)** an element of the intelligence community (as defined in section 3 of the National Security Act of 1947 (50 U.S.C. 3003)); or
+  >     - **(i)** the government of each of the several States, the District of Columbia, an Indian tribe or authorized tribal organization, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, or any other territory or possession of the United States; and
+  >     - **(ii)** the government of any political subdivision of, agency of, or instrumentality of, a government listed in clause (i); or
   >   - **(C)** a person performing personal services for the Federal Government pursuant to a contractual agreement for the performance of personal services, including a personal services contract or personal services agreement, including a person performing personal services pursuant to such a contractual agreement for—
-  >     - **(i)** the government of each of the several States, the District of Columbia, an Indian tribe or authorized tribal organization, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, or any other territory or possession of the United States;
-  >     - **(ii)** the government of any political subdivision of, agency of, or instrumentality of, a government listed in clause (i); and
-  >     - **(iii)** an element of the intelligence community (as defined in section 3 of the National Security Act of 1947 (50 U.S.C. 3003)).
+  >     - **(i)** the government of each of the several States, the District of Columbia, an Indian tribe or authorized tribal organization, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Mariana Islands, or any other territory or possession of the United States; and
+  >     - **(ii)** the government of any political subdivision of, agency of, or instrumentality of, a government listed in clause (i).
