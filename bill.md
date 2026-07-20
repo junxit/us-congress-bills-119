@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6330
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -23,5 +23,12 @@ This Act may be cited as the “Federal Relocation Payment Improvement Act”.
   >   - **(1)** when agencies may authorize a one-time lump sum payment under this section or the payments otherwise authorized or required under this subchapter;
   >   - **(2)** how agencies will calculate the lump sum amount; and
   >   - **(3)** the process for employees to dispute a relocation expenses claim with their agency, notice of the employee’s right to appeal the agency decision to the Civilian Board of Contract Appeals, and citation to the Board’s procedures governing the appeals process.
+  > - **(c)** *Reporting*
+  >   - **(1)** *Agency submission* Not later than 3 years following the date of enactment of the Federal Relocation Payment Improvement Act, the head of each agency shall submit to the Administrator of General Services the following:
+  >     - **(A)** Data on the number of employees authorized a one-time lump sum payment.
+  >     - **(B)** The number of employee challenges to agency disallowance of claims pursuant to this section.
+  >     - **(C)** Data on cost savings achieved by the Federal Relocation Payment Improvement Act.
+  >     - **(D)** A summary of recommendations to improve the Federal Relocation Payment Improvement Act.
+  >   - **(2)** *Administrator submission* Not later than 90 days after receipt of the data submitted pursuant to paragraph (1), the Administrator of General Services shall submit to the Committee on Oversight and Government Reform of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate an analysis of the data submitted pursuant to paragraph (1).
 
 - **(b)** *Clerical amendment* The table of sections for such subchapter is amended by adding after the item relating to section 5739 the following:
