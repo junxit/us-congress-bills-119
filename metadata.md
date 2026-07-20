@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3491
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 3491
@@ -51,3 +51,9 @@ DeOndra Dixon INCLUDE Project Act of 2025
 - 2026-07-02 — Placed on the Union Calendar, Calendar No. 627.
 - 2026-07-02 — Reported by the Committee on Energy and Commerce. H. Rept. 119-722.
 - 2026-07-02 — Reported by the Committee on Energy and Commerce. H. Rept. 119-722.
+- 2026-07-20 — Considered under suspension of the rules. (consideration: CR H4649-4651)
+- 2026-07-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 3491.
+- 2026-07-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-07-20 — Mr. Guthrie moved to suspend the rules and pass the bill.
+- 2026-07-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4649-4650)
+- 2026-07-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4649-4650)
