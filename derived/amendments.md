@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8790
 congress: 119
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-25 amendatory instructions. 5 executed, 20 stated and not applied.
+26 amendatory instructions. 5 executed, 21 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -78,9 +78,10 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 17191` | redesignate | by redesignating paragraphs (1), (2), (3), (4), (5), (6), (7), and (8) as paragraphs (2), (3), (4), (5), (6), (7), (8), and (11), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 17191` | redesignate | by redesignating paragraphs (1), (2), (3), (4), (5), (6), (7), and (8) as paragraphs (2), (3), (4), (5), (6), (7), (8), and (10), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 17191` | redesignate | by inserting before paragraph (2), as so redesignated, the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 17191` | redesignate | by inserting after paragraph (8), as so redesignated, the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 17191` | redesignate | by inserting after paragraph (8), as so redesignated, the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 17191` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 17193` | insert | in paragraph (1), by inserting “and publicly available subsurface data, including data reported as part of fossil fuel and mining operations,” after “geothermal drilling information”; and | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 17193` | add-at-end | in paragraph (2), by adding at the end the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 17194` | insert | in the heading, by inserting “and closed-loop” after “Enhanced”; | the bill quotes the text inserted but describes where it goes |
