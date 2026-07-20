@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2913
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2913
@@ -97,3 +97,6 @@ Ukraine Support Act
 - 2026-06-04 — On passage Passed by the Yeas and Nays: 226 - 195 (Roll no. 207). (text: CR H3877-3886)
 - 2026-06-04 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 226 - 195 (Roll no. 207).
 - 2026-06-04 — The previous question was ordered pursuant to the rule.
+- 2026-06-08 — Received in the Senate.
+- 2026-07-16 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2026-07-20 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 462.
