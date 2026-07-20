@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4348
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4348
@@ -72,3 +72,9 @@ To reauthorize the Kay Hagan Tick Act, and for other purposes.
 - 2026-07-02 — Placed on the Union Calendar, Calendar No. 630.
 - 2026-07-02 — Reported by the Committee on Energy and Commerce. H. Rept. 119-725.
 - 2026-07-02 — Reported by the Committee on Energy and Commerce. H. Rept. 119-725.
+- 2026-07-20 — Considered under suspension of the rules. (consideration: CR H4640-4642)
+- 2026-07-20 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4348.
+- 2026-07-20 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-07-20 — Mr. Guthrie moved to suspend the rules and pass the bill.
+- 2026-07-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4640)
+- 2026-07-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4640)
