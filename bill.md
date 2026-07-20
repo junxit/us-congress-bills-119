@@ -42,7 +42,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
   - **(3)** *Authorization of appropriations* Section 394A of the Public Health Service Act (42 U.S.C. 280b–3) is amended—
     - **(A)** in subsection (a), by striking “1994, and” and inserting “1994,”; and
-    - **(B)** in subsection (b), by striking “2020 through 2024” and inserting “2026 through 2030”.
+    - **(B)** in subsection (b), by striking “appropriated” and all that follows through “2024” and inserting “appropriated $9,250,000 for each of fiscal years 2026 through 2030”.
 - **(b)** *State grant programs*
   - **(1)** *State grants for projects regarding traumatic brain injury* Section 1252 of the Public Health Service Act (42 U.S.C. 300d–52) is amended—
     - **(A)** in subsection (b)(2)—
@@ -66,8 +66,13 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
       >     - **(iii)** does not include brain dysfunction caused by congenital or degenerative disorders, or birth trauma.
       >   - **(B)** *Revisions to definition* The Secretary may revise the definition of the term traumatic brain injury under this paragraph, as the Secretary determines necessary, after consultation with States and other appropriate public or nonprofit private entities.
 
-    - **(E)** in subsection (i), by striking “2020 through 2024” and inserting “2026 through 2030”.
-  - **(2)** *State grants for protection and advocacy services* Section 1253(l) of the Public Health Service Act (42 U.S.C. 300d–53(l)) is amended by striking “2020 through 2024” and inserting “2026 through 2030”.
+    - **(E)** by striking subsection (i).
+  - **(2)** *State grants for protection and advocacy services* Section 1253 of the Public Health Service Act (42 U.S.C. 300d–53) is amended by striking subsection (l).
+  - **(3)** *Authorization of appropriations* Part E of title XII of the Public Health Service Act (42 U.S.C. 300d–51 et seq.) is amended by inserting after section 1253 (42 U.S.C. 300d–53) the following:
+    > ## § 1253A. Authorization of appropriations for State programs relating to Traumatic Brain Injury
+    >
+    > There are authorized to be appropriated to carry out sections 1252 and 1253 $13,118,000 for each of fiscal years 2026 through 2030.
+
 - **(c)** *Report to Congress* Not later than 2 years after the date of enactment of this Act, the Secretary of Health and Human Services (referred to in this Act as the “Secretary”) shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report that contains—
   - **(1)** an overview of populations who may be at higher risk for traumatic brain injury, such as individuals affected by domestic violence or sexual assault and public safety officers as defined in section 1204 of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10284);
   - **(2)** an outline of existing surveys and activities of the Centers for Disease Control and Prevention on traumatic brain injuries and any steps the agency has taken to address gaps in data collection related to such higher risk populations, which may include leveraging surveys such as the National Intimate Partner and Sexual Violence Survey to collect data on traumatic brain injuries;

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1493
 congress: 119
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-27 amendatory instructions. 7 executed, 20 stated and not applied.
+28 amendatory instructions. 5 executed, 23 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -62,30 +62,12 @@ to guess them.
 
 ### 42 U.S.C. § 280b-3
 
-> in subsection (b), by striking “2020 through 2024” and inserting “2026 through 2030”.
+> in subsection (b), by striking “appropriated” and all that follows through “2024” and inserting “appropriated $9,250,000 for each of fiscal years 2026 through 2030”.
 
 | | |
 |---|---|
-| Removed | `2020 through 2024` |
-| Inserted | `2026 through 2030` |
-
-### 42 U.S.C. § 300d-52
-
-> in subsection (i), by striking “2020 through 2024” and inserting “2026 through 2030”.
-
-| | |
-|---|---|
-| Removed | `2020 through 2024` |
-| Inserted | `2026 through 2030` |
-
-### 42 U.S.C. § 300d-53
-
-> Section 1253(l) of the Public Health Service Act (42 U.S.C. 300d–53(l)) is amended by striking “2020 through 2024” and inserting “2026 through 2030”.
-
-| | |
-|---|---|
-| Removed | `2020 through 2024` |
-| Inserted | `2026 through 2030` |
+| Removed | `appropriated” and all that follows through “2024` |
+| Inserted | `appropriated $9,250,000 for each of fiscal years 2026 through 2030` |
 
 ## Stated, not applied
 
@@ -116,3 +98,6 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 300d-52` | strike | by striking “(such as third party payers, State agencies, community-based providers, schools, and educators)”; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 300d-52` | insert | by inserting “(such as third party payers, State agencies, community-based providers, schools, and educators)” after “professionals”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 300d-52` | replace | in subsection (h), by striking paragraphs (1) and (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300d-52` | strike | by striking subsection (i). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300d-53` | strike | Section 1253 of the Public Health Service Act (42 U.S.C. 300d–53) is amended by striking subsection (l). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300d-51` | insert | Part E of title XII of the Public Health Service Act (42 U.S.C. 300d–51 et seq.) is amended by inserting after section 1253 (42 U.S.C. 300d–53) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
