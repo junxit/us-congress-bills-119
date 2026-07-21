@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2069
 congress: 119
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 2069
@@ -39,3 +39,4 @@ Stop Secret Spending Act of 2025
 - 2026-07-20 — Mr. Burlison moved to suspend the rules and pass the bill.
 - 2026-07-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4657-4658)
 - 2026-07-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4657-4658)
+- 2026-07-21 — Received in the Senate, read twice.
