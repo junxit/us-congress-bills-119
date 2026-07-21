@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1703
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1703
@@ -29,10 +29,11 @@ Choices for Increased Mobility Act of 2026
 - Rep. Van Orden, Derrick [R-WI-3] (V000135)
 - Rep. Van Drew, Jefferson [R-NJ-2] (V000133)
 
-## Committees (2)
+## Committees (3)
 
 - House — Ways and Means Committee
 - House — Energy and Commerce Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -56,3 +57,4 @@ Choices for Increased Mobility Act of 2026
 - 2026-07-20 — Mr. Guthrie moved to suspend the rules and pass the bill, as amended.
 - 2026-07-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4636-4637)
 - 2026-07-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4636-4637)
+- 2026-07-21 — Received in the Senate and Read twice and referred to the Committee on Finance.
