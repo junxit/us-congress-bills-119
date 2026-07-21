@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3491
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3491
@@ -37,9 +37,10 @@ DeOndra Dixon INCLUDE Project Act of 2025
 - Rep. Walkinshaw, James R. [D-VA-11] (W000831)
 - Rep. Wittman, Robert J. [R-VA-1] (W000804)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -57,3 +58,4 @@ DeOndra Dixon INCLUDE Project Act of 2025
 - 2026-07-20 — Mr. Guthrie moved to suspend the rules and pass the bill.
 - 2026-07-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4649-4650)
 - 2026-07-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4649-4650)
+- 2026-07-21 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
