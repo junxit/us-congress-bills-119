@@ -1,0 +1,46 @@
+---
+legis-num: H.R. 9796
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 9796
+
+> To amend the American Rescue Plan Act of 2021 to reestablish the National Technical Assistance Center on Grandfamilies and Kinship Families.
+
+## § 1. Short title
+
+This Act may be cited as the “Supporting Grandfamilies Act of 2026”.
+
+## § 2. Amendments
+
+Section 2922 of the American Rescue Plan Act of 2021 (20 U.S.C. 3020g) is amended—
+
+- **(1)** by amending subsection (a) to read as follows:
+  > - **(a)** *In general* In addition to amounts otherwise available, there is authorized to be appropriated, and there is appropriated, to the Secretary of Health and Human Services for fiscal year 2027, out of any money in the Treasury not otherwise appropriated, $10,000,000, to remain available through September 30, 2031, for the Secretary, acting through the Assistant Secretary for Aging and in consultation with the Assistant Secretary for the Administration for Children and Families, to operate, through a grant or contract, a National Technical Assistance Center on Grandfamilies and Kinship Families (in this section referred to as the “Center”) to conduct the activities described in subsection (c).
+
+- **(2)** redesignating subsection (b) as subsection (c),
+- **(3)** by inserting after subsection (a) the following:
+  > - **(b)** *Purpose* The purpose of the Center shall be to provide training, technical assistance, coordination, and resources to community-based organizations, government programs, and other organizations that serve grandfamilies and kinship families, to support the health, academic achievement, and well-being, including economic well-being, of members of these families, including caregivers, children, and their parents. The Center shall focus primarily on serving grandfamilies or kinship families in which the primary caregiver is an adult age 55 or older, or on grandfamilies or kinship families in which the child has one or more disabilities, as defined under the Developmental Disabilities Assistance and Bill of Rights Act of 2000 (42 U.S.C. 15002).
+
+- **(4)** in subsection (c), as so redesignated—
+  - **(A)** in paragraph (1)—
+    - **(i)** by striking “stimulate the development of” and inserting “develop”, and
+    - **(ii)** by striking “and substance use” and inserting “, opioid and other substance use,”,
+  - **(B)** in paragraph (2) by striking “and to promote” and all that follows through “them”, and inserting “with a priority on evidence-based practices or programs developed or identified under paragraph (1)”,
+  - **(C)** by amending paragraphs (3), (4), and (5) to read as follows:
+    > - **(3)** promote coordination of services for grandfamilies and kinship families across systems that support them;
+    > - **(4)** facilitate learning across States, territories, Indian Tribes, urban Indian organizations, and Tribal organizations, for providing technical assistance, resources, and training related to issues described in paragraph (1) to individuals and entities across systems that directly work with grandfamilies and kinship families;
+    > - **(5)** help community-based organizations, government programs, Indian Tribes, urban Indian organizations, and Tribal organizations, serving grandfamilies and kinship families, to plan and coordinate programs and services to assist grandfamilies and kinship families; and
+
+  - **(D)** by adding at the end the following:
+    > - **(6)** assist community-based organizations and government programs in tailoring services to the unique needs of grandfamilies and kinship families to serve them most effectively and efficiently.
+
+- **(5)** by adding at the end the following:
+  > - **(d)** *Grant or contract requirements* The organization that carries out the activities of the Center with a grant or contract made under subsection (a) shall be a nonprofit organization that has—
+  >   - **(1)** a history of demonstrated expertise in issues impacting grandfamilies and kinship families, including those in contact with the child welfare system;
+  >   - **(2)** experience providing technical assistance to a range of organizations that serve grandfamilies, kinship families, and kinship families, including Indian Tribes, urban Tribal organizations, and Tribal organizations;
+  >   - **(3)** experience facilitating peer to peer learning networks and building connections between providers across systems of care;
+  >   - **(4)** an established process and history of engagement of grandfamilies and kinship families in providing guidance, input, and feedback into the organization’s work; and
+  >   - **(5)** experience assisting community-based organizations, government programs, and other organizations serving grandfamilies and kinship families in tailoring services to their unique needs.
