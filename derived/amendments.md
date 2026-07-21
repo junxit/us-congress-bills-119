@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1118
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+1 amendatory instruction. 0 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,5 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | amend | Section 152(3)(B) of title 41, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | Section 3012(3)(B) of title 10, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | Section 152(3)(B) of title 41, United States Code, is amended by striking “lowest overall cost alternative” and inserting “best value”. | the bill names no machine-readable US Code section |
