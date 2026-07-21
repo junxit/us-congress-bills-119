@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5578
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5578
@@ -39,3 +39,4 @@ Expanding Whistleblower Protections for Contractors Act of 2026
 - 2026-07-20 — Mr. Burlison moved to suspend the rules and pass the bill, as amended.
 - 2026-07-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4664-4665)
 - 2026-07-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4664-4665)
+- 2026-07-21 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 465.
