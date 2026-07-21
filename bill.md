@@ -1,0 +1,55 @@
+---
+legis-num: H.R. 9798
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 9798
+
+> To amend the Employee Retirement Income Security Act of 1974 and the Public Health Service Act to exempt certain employer-sponsored group health plans governed by ERISA from the Affordable Care Act’s Essential Health Benefits requirements, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Employer Health Plan Flexibility Act”.
+
+## § 2. Exempting certain employer-sponsored group health plans from the Affordable Care Act's Essential Health Benefits requirements
+
+- **(a)** *Amendment to ERISA* Section 715 of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1185d) is amended by adding at the end the following:
+  > - **(c)** Notwithstanding any other provision of Federal law, a group health plan sponsored by an employer and governed by this Act shall not be required to provide coverage for the Essential Health Benefits described in section 1302(b) of the Patient Protection and Affordable Care Act solely by reason of such Federal requirement.
+
+- **(b)** *Amendment to the Public Health Service Act* Section 2707(a) of the Public Health Service Act (42 U.S.C. 300gg–6(a)) is amended by inserting “This section shall not apply to any employer-sponsored group health plan governed by the Employee Retirement Income Security Act of 1974.” at the end.
+- **(c)** *Conforming amendments* The Secretary of Health and Human Services shall revise applicable regulations to reflect the exemption established under this Act.
+
+## § 3. Preservation of other Federal requirements
+
+Nothing in this Act shall be construed to exempt a group health plan from compliance with—
+
+- **(1)** the portability and nondiscrimination provisions of the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 201 et seq.);
+- **(2)** the Paul Wellstone and Pete Domenici Mental Health Parity and Addiction Equity Act of 2008 (subtitle B of title V of division C of Public Law 110–343);
+- **(3)** the Consolidated Omnibus Budget Reconciliation Act of 1985;
+- **(4)** fiduciary duties under the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1001 et seq.);
+- **(5)** Internal Revenue Code requirements applicable to employer-sponsored health plans;
+- **(6)** Federal nondiscrimination requirements; or
+- **(7)** preventive services requirements, unless otherwise provided by law.
+
+## § 4. Employer disclosure requirements
+
+A group health plan claiming the exemption under this Act shall annually provide participants with a notice that includes—
+
+- **(1)** a description of benefits covered under the plan;
+- **(2)** identification of any Essential Health Benefits not covered;
+- **(3)** information regarding cost-sharing; and
+- **(4)** instructions for obtaining the Summary Plan Description.
+
+## § 5. Rule of construction
+
+Nothing in this Act shall—
+
+- **(1)** prohibit an employer from voluntarily providing all or part of the Essential Health Benefits;
+- **(2)** alter existing Employee Retirement Income Security Act of 1974 (29 U.S.C. 1001 et seq.) preemption; or
+- **(3)** affect State regulation of health insurance issuers except as expressly provided.
+
+## § 6. Effective date
+
+The amendments made by this Act shall apply to plan years beginning on or after January 1, 2028.
