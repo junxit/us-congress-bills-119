@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5362
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5362
@@ -32,9 +32,10 @@ To name the Department of Veterans Affairs multispecialty clinic in Marietta, Ge
 - Rep. Greene, Marjorie Taylor [R-GA-14] (G000596)
 - Rep. Bishop, Sanford D. [D-GA-2] (B000490)
 
-## Committees (1)
+## Committees (2)
 
 - House — Veterans' Affairs Committee
+- Senate — Veterans' Affairs Committee
 
 ## Recorded votes (1)
 
@@ -54,3 +55,4 @@ To name the Department of Veterans Affairs multispecialty clinic in Marietta, Ge
 - 2026-07-16 — Motion to reconsider laid on the table Agreed to without objection.
 - 2026-07-16 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 248).
 - 2026-07-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 418 - 0 (Roll no. 248).
+- 2026-07-21 — Received in the Senate and Read twice and referred to the Committee on Veterans' Affairs.
