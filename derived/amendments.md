@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6955
 congress: 119
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-177 amendatory instructions. 75 executed, 102 stated and not applied.
+116 amendatory instructions. 20 executed, 96 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,33 +23,6 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
-
-### 12 U.S.C. § 1464
-
-> in paragraph (2)(A), by striking “business, or agricultural” and inserting “or business”.
-
-| | |
-|---|---|
-| Removed | `business, or agricultural` |
-| Inserted | `or business` |
-
-### 12 U.S.C. § 24
-
-> The paragraph designated as the “Eleventh” of section 5136 of the Revised Statutes of the United States (12 U.S.C. 24) is amended, in the fifth sentence, by striking “15” each place that term appears and inserting “20”.
-
-| | |
-|---|---|
-| Removed | `15` |
-| Inserted | `20` |
-
-### 12 U.S.C. § 338a
-
-> The 23rd paragraph of section 9 of the Federal Reserve Act (12 U.S.C. 338a) is amended, in the fifth sentence, by striking “15” each place that term appears and inserting “20”.
-
-| | |
-|---|---|
-| Removed | `15` |
-| Inserted | `20` |
 
 ### 12 U.S.C. § 4713a
 
@@ -69,492 +42,6 @@ to guess them.
 | Removed | `September 30, 2014` |
 | Inserted | `December 31, 2028` |
 
-### 12 U.S.C. § 5371
-
-> in subsection (a)(3)(A), by striking “$10,000,000,000” and inserting “$15,000,000,000”; and
-
-| | |
-|---|---|
-| Removed | `$10,000,000,000` |
-| Inserted | `$15,000,000,000` |
-
-### 12 U.S.C. § 5371
-
-> in subsection (b)(1), by striking “not less than 8 percent and not more than 10 percent” and inserting “not less than 6 percent and not more than 9 percent”.
-
-| | |
-|---|---|
-| Removed | `not less than 8 percent and not more than 10 percent` |
-| Inserted | `not less than 6 percent and not more than 9 percent` |
-
-### 12 U.S.C. § 248
-
-> in paragraph (2), by striking “$100,000,000,000” each place that term appears and inserting “$150,000,000,000”; and
-
-| | |
-|---|---|
-| Removed | `$100,000,000,000` |
-| Inserted | `$150,000,000,000` |
-
-### 12 U.S.C. § 248
-
-> in paragraph (3), by striking “between $100,000,000,000 and $250,000,000,000” and inserting “between $150,000,000,000 and $370,000,000,000”.
-
-| | |
-|---|---|
-| Removed | `between $100,000,000,000 and $250,000,000,000` |
-| Inserted | `between $150,000,000,000 and $370,000,000,000` |
-
-### 12 U.S.C. § 1843
-
-> Section 4(k)(6)(B)(ii) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(k)(6)(B)(ii)) is amended by striking “$10,000,000,000” and inserting “$15,000,000,000”.
-
-| | |
-|---|---|
-| Removed | `$10,000,000,000` |
-| Inserted | `$15,000,000,000` |
-
-### 12 U.S.C. § 5326
-
-> in section 116(a) (12 U.S.C. 5326(a)), by striking “$250,000,000,000” and inserting “$370,000,000,000”;
-
-| | |
-|---|---|
-| Removed | `$250,000,000,000` |
-| Inserted | `$370,000,000,000` |
-
-### 12 U.S.C. § 5331
-
-> in section 121(a) (12 U.S.C. 5331(a)), by striking “$250,000,000,000” and inserting “$370,000,000,000”;
-
-| | |
-|---|---|
-| Removed | `$250,000,000,000` |
-| Inserted | `$370,000,000,000` |
-
-### 12 U.S.C. § 5363
-
-> by striking “$250,000,000,000” each place that term appears and inserting “$370,000,000,000”; and
-
-| | |
-|---|---|
-| Removed | `$250,000,000,000` |
-| Inserted | `$370,000,000,000` |
-
-### 12 U.S.C. § 5363
-
-> by striking “$10,000,000,000” and inserting “$15,000,000,000”;
-
-| | |
-|---|---|
-| Removed | `$10,000,000,000` |
-| Inserted | `$15,000,000,000` |
-
-### 12 U.S.C. § 5364
-
-> in section 164 (12 U.S.C. 5364), by striking “$250,000,000,000” and inserting “$370,000,000,000”; and
-
-| | |
-|---|---|
-| Removed | `$250,000,000,000` |
-| Inserted | `$370,000,000,000` |
-
-### 12 U.S.C. § 5365
-
-> in paragraph (1), by striking “$250,000,000,000” and inserting “$370,000,000,000”; and
-
-| | |
-|---|---|
-| Removed | `$250,000,000,000` |
-| Inserted | `$370,000,000,000` |
-
-### 12 U.S.C. § 5365
-
-> in paragraph (2)(C), by striking “$100,000,000,000” and inserting “$150,000,000,000”;
-
-| | |
-|---|---|
-| Removed | `$100,000,000,000` |
-| Inserted | `$150,000,000,000` |
-
-### 12 U.S.C. § 5365
-
-> in subsection (h)(2), by striking “$50,000,000,000” each place that term appears and inserting “$75,000,000,000”;
-
-| | |
-|---|---|
-| Removed | `$50,000,000,000` |
-| Inserted | `$75,000,000,000` |
-
-### 12 U.S.C. § 5365
-
-> in subsection (i)(2)(A), by striking “$250,000,000,000” and inserting “$370,000,000,000”; and
-
-| | |
-|---|---|
-| Removed | `$250,000,000,000` |
-| Inserted | `$370,000,000,000` |
-
-### 12 U.S.C. § 5365
-
-> in subsection (j)(1), by striking “$250,000,000,000” and inserting “$370,000,000,000”.
-
-| | |
-|---|---|
-| Removed | `$250,000,000,000` |
-| Inserted | `$370,000,000,000` |
-
-### 12 U.S.C. § 5365
-
-> Section 401(f) of the Economic Growth, Regulatory Relief, and Consumer Protection Act (12 U.S.C. 5365 note) is amended by striking “$250,000,000,000” and inserting “$370,000,000,000”.
-
-| | |
-|---|---|
-| Removed | `$250,000,000,000` |
-| Inserted | `$370,000,000,000` |
-
-### 12 U.S.C. § 1844
-
-> in section 5(c)(3)(C)(ii) (12 U.S.C. 1844(c)(3)(C)(ii)), by striking “$1,000,000” and inserting “$3,000,000”; and
-
-| | |
-|---|---|
-| Removed | `$1,000,000` |
-| Inserted | `$3,000,000` |
-
-### 12 U.S.C. § 1851
-
-> in section 13(h)(1)(B)(i) (12 U.S.C. 1851(h)(1)(B)(i)), by striking “$10,000,000,000” and inserting “$15,000,000,000”.
-
-| | |
-|---|---|
-| Removed | `$10,000,000,000` |
-| Inserted | `$15,000,000,000` |
-
-### 12 U.S.C. § 2908
-
-> Section 809(a) of the Community Reinvestment Act of 1977 (12 U.S.C. 2908(a)) is amended by striking “$250,000,000” and inserting “$800,000,000”.
-
-| | |
-|---|---|
-| Removed | `$250,000,000` |
-| Inserted | `$800,000,000` |
-
-### 12 U.S.C. § 3201
-
-> in section 202(4) (12 U.S.C. 3201(4)), by striking “$100,000,000” and inserting “$600,000,000”;
-
-| | |
-|---|---|
-| Removed | `$100,000,000` |
-| Inserted | `$600,000,000` |
-
-### 12 U.S.C. § 3202
-
-> in section 203(1) (12 U.S.C. 3202(1)), by striking “$50,000,000” and inserting “$110,000,000”; and
-
-| | |
-|---|---|
-| Removed | `$50,000,000` |
-| Inserted | `$110,000,000` |
-
-### 12 U.S.C. § 3203
-
-> by striking “$2,500,000,000” and inserting “$10,000,000,000”; and
-
-| | |
-|---|---|
-| Removed | `$2,500,000,000` |
-| Inserted | `$10,000,000,000` |
-
-### 12 U.S.C. § 3203
-
-> by striking “$1,500,000,000” and inserting “$10,000,000,000”.
-
-| | |
-|---|---|
-| Removed | `$1,500,000,000` |
-| Inserted | `$10,000,000,000` |
-
-### 12 U.S.C. § 5390
-
-> in subsection (o), by striking “$50,000,000,000” in each place it appears and inserting “$105,000,000,000”; and
-
-| | |
-|---|---|
-| Removed | `$50,000,000,000` |
-| Inserted | `$105,000,000,000` |
-
-### 12 U.S.C. § 5390
-
-> in subsection (r), by striking “$1,000,000” and inserting “$5,000,000”; and
-
-| | |
-|---|---|
-| Removed | `$1,000,000` |
-| Inserted | `$5,000,000` |
-
-### 12 U.S.C. § 5641
-
-> in section 956(f) (12 U.S.C. 5641(f)), by striking “$1,000,000,000” and inserting “$3,000,000,000”.
-
-| | |
-|---|---|
-| Removed | `$1,000,000,000` |
-| Inserted | `$3,000,000,000` |
-
-### 12 U.S.C. § 1782
-
-> in the heading, by striking “De MINIMUS” and inserting “De MINIMIS”; and
-
-| | |
-|---|---|
-| Removed | `De MINIMUS` |
-| Inserted | `De MINIMIS` |
-
-### 12 U.S.C. § 1782
-
-> by striking “$10,000,000” and inserting “$34,000,000”;
-
-| | |
-|---|---|
-| Removed | `$10,000,000` |
-| Inserted | `$34,000,000` |
-
-### 12 U.S.C. § 1782
-
-> by striking “$500,000,000” and inserting “$2,000,000,000”; and
-
-| | |
-|---|---|
-| Removed | `$500,000,000` |
-| Inserted | `$2,000,000,000` |
-
-### 12 U.S.C. § 1782
-
-> by striking “$10,000,000” and inserting “$34,000,000”;
-
-| | |
-|---|---|
-| Removed | `$10,000,000` |
-| Inserted | `$34,000,000` |
-
-### 12 U.S.C. § 1782
-
-> in subsection (b)(1)(A), by striking “$50,000,000” each place that term appears and inserting “$170,000,000”; and
-
-| | |
-|---|---|
-| Removed | `$50,000,000` |
-| Inserted | `$170,000,000` |
-
-### 12 U.S.C. § 1782
-
-> in subsection (c)(1)(A)(iii), by striking “$50,000,000” each place that term appears and inserting “$170,000,000”; and
-
-| | |
-|---|---|
-| Removed | `$50,000,000` |
-| Inserted | `$170,000,000` |
-
-### 12 U.S.C. § 1790d
-
-> in subsection (f)(2), by striking “$10,000,000” and inserting “$34,000,000”;
-
-| | |
-|---|---|
-| Removed | `$10,000,000` |
-| Inserted | `$34,000,000` |
-
-### 12 U.S.C. § 1790d
-
-> in subsection (i)(4)(B), by striking “$5,000,000” and inserting “$17,000,000”;
-
-| | |
-|---|---|
-| Removed | `$5,000,000` |
-| Inserted | `$17,000,000` |
-
-### 12 U.S.C. § 1790d
-
-> in subsection (j)(2)(A), by striking “$25,000,000” and inserting “$51,000,000”; and
-
-| | |
-|---|---|
-| Removed | `$25,000,000` |
-| Inserted | `$51,000,000` |
-
-### 12 U.S.C. § 1790d
-
-> in subsection (o)(4), by striking “$10,000,000” and inserting “$34,000,000”.
-
-| | |
-|---|---|
-| Removed | `$10,000,000` |
-| Inserted | `$34,000,000` |
-
-### 12 U.S.C. § 1817
-
-> in section 7(a)(12) (12 U.S.C. 1817(a)(12)), by striking “$5,000,000,000” and inserting “$8,000,000,000”;
-
-| | |
-|---|---|
-| Removed | `$5,000,000,000` |
-| Inserted | `$8,000,000,000` |
-
-### 12 U.S.C. § 1821
-
-> in section 11(p)(1)(A)(i) (12 U.S.C. 1821(p)(1)(A)(i)), by striking “$1,000,000” and inserting “$5,000,000”;
-
-| | |
-|---|---|
-| Removed | `$1,000,000` |
-| Inserted | `$5,000,000` |
-
-### 12 U.S.C. § 1831m
-
-> in subsection (i), by striking “$5,000,000,000” each place that term appears and inserting “$21,000,000,000”; and
-
-| | |
-|---|---|
-| Removed | `$5,000,000,000` |
-| Inserted | `$21,000,000,000` |
-
-### 12 U.S.C. § 1831m
-
-> in subsection (j), by striking “$150,000,000” each place that term appears and inserting “$800,000,000”; and
-
-| | |
-|---|---|
-| Removed | `$150,000,000` |
-| Inserted | `$800,000,000` |
-
-### 12 U.S.C. § 1831o
-
-> in subsection (b), by striking “$300,000,000” and inserting “$2,000,000,000”; and
-
-| | |
-|---|---|
-| Removed | `$300,000,000` |
-| Inserted | `$2,000,000,000` |
-
-### 12 U.S.C. § 1831o
-
-> by striking “$50,000,000” and inserting “$110,000,000”; and
-
-| | |
-|---|---|
-| Removed | `$50,000,000` |
-| Inserted | `$110,000,000` |
-
-### 12 U.S.C. § 1831o
-
-> by striking “$75,000,000” and inserting “$150,000,000”.
-
-| | |
-|---|---|
-| Removed | `$75,000,000` |
-| Inserted | `$150,000,000` |
-
-### 12 U.S.C. § 1422
-
-> Section 2(10) of the Federal Home Loan Bank Act (12 U.S.C. 1422(10)) is amended by striking “$1,000,000,000” each place that term appears and inserting “$3,000,000,000”.
-
-| | |
-|---|---|
-| Removed | `$1,000,000,000` |
-| Inserted | `$3,000,000,000` |
-
-### 12 U.S.C. § 289
-
-> in section 7(a)(1) (12 U.S.C. 289) by striking “$10,000,000,000” each place that term appears and inserting “$17,000,000,000”; and
-
-| | |
-|---|---|
-| Removed | `$10,000,000,000` |
-| Inserted | `$17,000,000,000` |
-
-### 12 U.S.C. § 375b
-
-> in section 22(h)(5)(C) (12 U.S.C. 375b(h)(5)(C)) by striking “$100,000,000” and inserting “$500,000,000”.
-
-| | |
-|---|---|
-| Removed | `$100,000,000` |
-| Inserted | `$500,000,000` |
-
-### 12 U.S.C. § 2803
-
-> in the second paragraph (3) of section 304(i) (12 U.S.C. 2803(i)(3); relating to “Exemption from certain disclosure requirements”), by striking “$30,000,000” and inserting “$160,000,000”; and
-
-| | |
-|---|---|
-| Removed | `$30,000,000` |
-| Inserted | `$160,000,000` |
-
-### 12 U.S.C. § 2808
-
-> in section 309(a) (12 U.S.C. 2808(a)), by striking “$10,000,000” and inserting “$180,000,000”.
-
-| | |
-|---|---|
-| Removed | `$10,000,000` |
-| Inserted | `$180,000,000` |
-
-### 12 U.S.C. § 1464
-
-> in paragraph (2)(A)(i), by striking “$500,000” and inserting “$3,000,000”; and
-
-| | |
-|---|---|
-| Removed | `$500,000` |
-| Inserted | `$3,000,000` |
-
-### 12 U.S.C. § 1464
-
-> in paragraph (2)(A)(ii), by striking “$30,000,000” and inserting “$160,000,000”.
-
-| | |
-|---|---|
-| Removed | `$30,000,000` |
-| Inserted | `$160,000,000` |
-
-### 12 U.S.C. § 3908
-
-> Section 909(a)(1) of the International Lending Supervision Act of 1983 (12 U.S.C. 3908(a)(1)) is amended by striking “$20,000,000” and inserting “$160,000,000”.
-
-| | |
-|---|---|
-| Removed | `$20,000,000` |
-| Inserted | `$160,000,000` |
-
-### 12 U.S.C. § 2602
-
-> Section 3(1)(B)(iv) of the Real Estate Settlement Procedures Act of 1974 (12 U.S.C. 2602(1)(B)(iv)) is amended by striking “$1,000,000” and inserting “$19,000,000”.
-
-| | |
-|---|---|
-| Removed | `$1,000,000` |
-| Inserted | `$19,000,000` |
-
-### 12 U.S.C. § 24a
-
-> Section 5136A(a)(2)(D)(ii) of the Revised Statutes of the United States (12 U.S.C. 24a(a)(2)(D)(ii)) is amended by striking “$50,000,000,000” and inserting “$175,000,000,000”.
-
-| | |
-|---|---|
-| Removed | `$50,000,000,000` |
-| Inserted | `$175,000,000,000` |
-
-### 15 U.S.C. § 1639c
-
-> Section 129C(b)(2)(F)(i) of the Truth in Lending Act (15 U.S.C. 1639c(b)(2)(F)(i)) is amended by striking “$10,000,000,000” and inserting “$15,000,000,000”.
-
-| | |
-|---|---|
-| Removed | `$10,000,000,000` |
-| Inserted | `$15,000,000,000` |
-
 ### 12 U.S.C. § 1841
 
 > by striking “achievement of” and all that follows through “a CAMEL” and inserting “achievement of a CAMEL”;
@@ -565,6 +52,24 @@ to guess them.
 | Inserted | `achievement of a CAMEL` |
 
 ### 12 U.S.C. § 1841
+
+> by striking “; and” and inserting “; or”; and
+
+| | |
+|---|---|
+| Removed | `; and` |
+| Inserted | `; or` |
+
+### 12 U.S.C. § 24a
+
+> by striking “agency—” and all that follows through “the achievement” and inserting “agency, the achievement”;
+
+| | |
+|---|---|
+| Removed | `agency—” and all that follows through “the achievement` |
+| Inserted | `agency, the achievement` |
+
+### 12 U.S.C. § 24a
 
 > by striking “; and” and inserting “; or”; and
 
@@ -609,23 +114,14 @@ to guess them.
 | Removed | `(other than the hearing provided for in subsection (g)(3) of this section)` |
 | Inserted | `(other than the hearing provided for in subsection (b)(11)(B), (e)(8)(B), (g)(3), or (i)(2)(H)(ii))` |
 
-### 12 U.S.C. § 1820
+### 12 U.S.C. § 1786
 
-> in paragraph (4)(A), by striking “$3,000,000,000” and inserting “$6,000,000,000”; and
-
-| | |
-|---|---|
-| Removed | `$3,000,000,000` |
-| Inserted | `$6,000,000,000` |
-
-### 12 U.S.C. § 1820
-
-> in paragraph (10), by striking “$3,000,000,000” and inserting “$6,000,000,000”.
+> in paragraph (1), by striking “(other than the hearing provided for in subsection (i)(3) of this section)” and inserting “(other than the hearing provided for in subsection (e)(5)(B), (g)(8)(B), (i)(3), or (k)(2)(H)(ii))”; and
 
 | | |
 |---|---|
-| Removed | `$3,000,000,000` |
-| Inserted | `$6,000,000,000` |
+| Removed | `(other than the hearing provided for in subsection (i)(3) of this section)` |
+| Inserted | `(other than the hearing provided for in subsection (e)(5)(B), (g)(8)(B), (i)(3), or (k)(2)(H)(ii))` |
 
 ### 12 U.S.C. § 1812
 
@@ -690,6 +186,15 @@ to guess them.
 | Removed | `the regulatory burdens associated with such issues by regulation` |
 | Inserted | `the regulatory burdens associated with the issues identified by public comments received by the Council and the Federal financial institutions regulatory agencies, as well as the regulatory burdens identified by each Federal financial institutions regulatory agency through the internal reviews conducted under subsection (b)(2), by regulation` |
 
+### 12 U.S.C. § 1831f
+
+> Section 29(i)(1)(C) of the Federal Deposit Insurance Act (12 U.S.C. 1831f(i)(1)(C)) is amended by striking “$96,333,333,333” and inserting “$250,000,000,000”.
+
+| | |
+|---|---|
+| Removed | `$96,333,333,333` |
+| Inserted | `$250,000,000,000` |
+
 ### 12 U.S.C. § 1842
 
 > by striking “required” and inserting “acquired”;
@@ -708,21 +213,21 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `12 U.S.C. § 1464` | add-at-end | in paragraph (1), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | in subsection (b)(2), by striking “180-day” and inserting “90-day”; | the bill names no machine-readable US Code section |
+| — | insert | in the heading, by inserting “and extension” after “study”; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (2) as paragraph (3); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (1) the following: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (e)(6)(B), by striking “between January 1, 2026, and December 31, 2028” and inserting “on or after January 1, 2026”. | the bill names no machine-readable US Code section |
 | `12 U.S.C. § 4703` | amend | Section 104(b) of the Riegle Community Development and Regulatory Improvement Act of 1994 (12 U.S.C. 4703(b)) is amended by adding to the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 4713a` | strike | by striking “, multiplied by an amount equal to the outstanding principal balance of issued notes or bonds”; and | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 4713a` | insert | by inserting “outstanding” before “principal amount”; | the bill quotes the text inserted but describes where it goes |
 | `12 U.S.C. § 4713a` | amend | by amending subsection (e)(2) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 4713a` | insert | The table of contents in section 1(b) of the Riegle Community Development and Regulatory Improvement Act of 1994 (Public Law 103–325; 108 Stat. 2160) is amended by inserting after the item relating to section 114 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 248` | redesignate | by redesignating the second subsection (s) (relating to assessments) as subsection (t); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 5311` | add-at-end | The Financial Stability Act of 2010 (12 U.S.C. 5311 et seq.) is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 5311` | add-at-end | The Financial Stability Act of 2010 (12 U.S.C. 5311 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 5311` | insert | The table of contents in section 1(b) of the Dodd-Frank Wall Street Reform and Consumer Protection Act is amended by inserting after the item relating to section 176 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1761b` | strike | by striking “monthly” each place such term appears; | the bill quotes the text struck but describes what replaces it |
-| `12 U.S.C. § 1761b` | replace | in the matter preceding paragraph (1), by striking “The board of directors” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `12 U.S.C. § 1761b` | strike | in subsection (a) (as so designated), by striking “shall meet at least once a month and”; and | the bill quotes the text struck but describes what replaces it |
-| `12 U.S.C. § 1761b` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 3301` | add-at-end | The Federal Financial Institutions Examination Council Act of 1978 (12 U.S.C. 3301 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1841` | strike | by striking clause (ii). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 24a` | strike | by striking clause (ii). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 3301` | add-at-end | The Federal Financial Institutions Examination Council Act of 1978 (12 U.S.C. 3301 et seq.), as amended by section 301(b)(1), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 3301` | add-at-end | The Federal Financial Institutions Examination Council Act of 1978 (12 U.S.C. 3301 et seq.), as amended by subsection (a), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 3301` | add-at-end | The Federal Financial Institutions Examination Council Act of 1978 (12 U.S.C. 3301 et seq.), as amended by subsection (b), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -749,6 +254,13 @@ complete account of the bill's effect, which it is not.
 | `12 U.S.C. § 1818` | amend | by amending subparagraph (H) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1818` | amend | by amending subparagraph (I)(ii) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1818` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1786` | add-at-end | in subsection (e), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1786` | add-at-end | in subsection (g), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1786` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1786` | amend | by amending subparagraph (E)(ii) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1786` | amend | by amending subparagraph (H) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1786` | amend | by amending subparagraph (I)(ii) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1786` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1820` | add-at-end | Section 10(d) of the Federal Deposit Insurance Act (12 U.S.C. 1820(d)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1784` | add-at-end | Section 204 of the Federal Credit Union Act (12 U.S.C. 1784) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1820` | add-at-end | Section 10(d) of the Federal Deposit Insurance Act (12 U.S.C. 1820(d)), as amended by subsection (a)(1), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -764,28 +276,17 @@ complete account of the bill's effect, which it is not.
 | `12 U.S.C. § 3311` | redesignate | by redesignating paragraph (2) as paragraph (3); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 3311` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 3302` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 247` | replace | by striking “The Board” and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `12 U.S.C. § 247` | strike | by striking the second sentence; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 262r` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 14` | amend | The second section 333 of the Revised Statutes of the United States (12 U.S.C. 14; relating to an annual report) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 14a` | redesignate | by redesignating the first section 333 (12 U.S.C. 14a; relating to data standards) as section 332; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 14a` | amend | in the table of contents of such chapter, by amending the item relating to section 332 to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1827` | replace | Section 17(a) of the Federal Deposit Insurance Act (12 U.S.C. 1827(a)) is amended by striking paragraph (3) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 247b` | insert | Paragraph (12) of section 10 of the Federal Reserve Act (12 U.S.C. 247b) is amended by inserting before the period at the end the following: “and with respect to the conduct of interactions at global financial regulatory or supervisory f… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 241` | insert | Section 10 of the Federal Reserve Act (12 U.S.C. 241 et seq.) is amended by inserting after paragraph (10) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1831f` | replace | Section 29(i) of the Federal Deposit Insurance Act (12 U.S.C. 1831f(i)) is amended by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1831f` | replace | in clause (i), by striking subclause (I) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1831f` | redesignate | by redesignating clauses (ii) and (iii) as clauses (iii) and (iv), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1831f` | insert | by inserting after clause (i) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1831f` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1831f` | add-at-end | Section 29 of the Federal Deposit Insurance Act (12 U.S.C. 1831f) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1831f` | add-at-end | Section 29 of the Federal Deposit Insurance Act (12 U.S.C. 1831f), as amended by subsection (a), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1828` | strike | in clause (i), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 1828` | replace | in clause (ii), by striking the period at the end and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
 | `12 U.S.C. § 1828` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1828` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1842` | add-at-end | Section 3(c) of the Bank Holding Company Act of 1956 (12 U.S.C. 1842(c)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1467a` | add-at-end | Section 10(e) of the Home Owners’ Loan Act (12 U.S.C. 1467a(e)), as amended by section 103(b), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1467a` | add-at-end | Section 10(e) of the Home Owners’ Loan Act (12 U.S.C. 1467a(e)), as amended by section 604(b), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1842` | replace | by striking “Upon receiving” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 1842` | strike | by striking “In the event of the failure of the Board to act on any application for approval under this section within the ninety-one-day period which begins on the date of submission to the Board of the complete record on that applicati… | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 1842` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -807,6 +308,4 @@ complete account of the bill's effect, which it is not.
 | `12 U.S.C. § 1852` | replace | by striking “With the” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `12 U.S.C. § 1852` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1823` | add-at-end | Section 13(c)(4) of the Federal Deposit Insurance Act (12 U.S.C. 1823(c)(4)), as amended by section 701(a)(3), is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1823` | amend | Section 13(c)(4)(G)(iv) of the Federal Deposit Insurance Act (12 U.S.C. 1823(c)(4)(G)(iv)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 1823` | add-at-end | Section 13(c) of the Federal Deposit Insurance Act (12 U.S.C. 1823(c)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 1843` | insert | Section 4(k)(7)(A) of the Bank Holding Company Act of 1956 (12 U.S.C. 1843(k)(7)(A)) is amended by inserting “Under such regulations, the period of time generally permitted for holding merchant banking investments shall not be less than … | the bill quotes the text inserted but describes where it goes |
