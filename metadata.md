@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6955
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6955
@@ -56,6 +56,11 @@ Main Street Capital Access Act
 
 - House — Financial Services Committee
 
+## Recorded votes (2)
+
+- 2026-07-21 — [House 119-2-270](votes/house-119-2-0270.md) — On Motion to Recommit — **Failed** (210–216)
+- 2026-07-21 — [House 119-2-271](votes/house-119-2-0271.md) — On Passage — **Passed** (270–155)
+
 ## Actions
 
 - 2026-01-07 — Introduced in House
@@ -66,3 +71,20 @@ Main Street Capital Access Act
 - 2026-04-20 — Placed on the Union Calendar, Calendar No. 535.
 - 2026-04-20 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-617.
 - 2026-04-20 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-617.
+- 2026-07-20 — Rules Committee Resolution H. Res. 1438 Reported to House. Rule provides for consideration of H.R. 8800, H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955 and H.R. 9770. The resolution provides for consideration of H.R. 8800 under a structured rule and for consideration of H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955, and H.R. 9770 under a closed rule, with one hour of debate on each measure and one motion to recommit on H.R. 8800, H.R. 8884, H.R. 7008, H.R. 6955, and H.R. 9770.
+- 2026-07-21 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2026-07-21 — Considered as unfinished business. (consideration: CR H5018-5019)
+- 2026-07-21 — Considered under the provisions of rule H. Res. 1438. (consideration: CR H4707-4731)
+- 2026-07-21 — DEBATE - The House proceeded with one hour of debate on H.R. 6955.
+- 2026-07-21 — House amendment considered as adopted: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2026-07-21 — House amendment offered/reported by: Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2026-07-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-07-21 — Ms. Garcia (TX) moved to recommit to the Committee on Financial Services. (text: CR H4731)
+- 2026-07-21 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2026-07-21 — On motion to recommit Failed by the Yeas and Nays: 210 - 216 (Roll no. 270).
+- 2026-07-21 — On passage Passed by the Yeas and Nays: 270 - 155, 1 Present (Roll no. 271). (text of amendment in the nature of a substitute: CR H4708-4722)
+- 2026-07-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 6955, the Chair put the question on motion to recommit and by voice vote, announced that the noes had prevailed. Ms. Garcia (TX) demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2026-07-21 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 270 - 155, 1 Present (Roll no. 271).
+- 2026-07-21 — Rule provides for consideration of H.R. 8800, H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955 and H.R. 9770. The resolution provides for consideration of H.R. 8800 under a structured rule and for consideration of H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955, and H.R. 9770 under a closed rule, with one hour of debate on each measure and one motion to recommit on H.R. 8800, H.R. 8884, H.R. 7008, H.R. 6955, and H.R. 9770.
+- 2026-07-21 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2026-07-21 — The previous question was ordered pursuant to the rule.
