@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8823
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8823
@@ -20,9 +20,10 @@ Putting Patients First by Strengthening Provider Accountability in FECA Act
 
 - Rep. Omar, Ilhan [D-MN-5] (O000173)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -43,3 +44,4 @@ Putting Patients First by Strengthening Provider Accountability in FECA Act
 - 2026-07-20 — Mr. Walberg moved to suspend the rules and pass the bill, as amended.
 - 2026-07-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 396 - 0 (Roll no. 251). (text: CR H4654)
 - 2026-07-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 396 - 0 (Roll no. 251). (text: CR H4654)
+- 2026-07-21 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
