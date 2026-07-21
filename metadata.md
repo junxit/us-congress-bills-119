@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6238
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6238
@@ -23,9 +23,10 @@ NIH IMPROVE Act
 - Rep. McClain Delaney, April [D-MD-6] (M001232)
 - Rep. Vindman, Eugene Simon [D-VA-7] (V000138)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ NIH IMPROVE Act
 - 2026-07-20 — Mr. Guthrie moved to suspend the rules and pass the bill, as amended.
 - 2026-07-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4651)
 - 2026-07-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4651)
+- 2026-07-21 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
