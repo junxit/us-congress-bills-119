@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2069
 congress: 119
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2069
@@ -40,3 +40,8 @@ Stop Secret Spending Act of 2025
 - 2026-07-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4657-4658)
 - 2026-07-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4657-4658)
 - 2026-07-21 — Received in the Senate, read twice.
+- 2026-08-07 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4547)
+- 2026-08-07 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2026-08-10 — Message on Senate action sent to the House.
+- 2026-09-03 — Presented to President.
+- 2026-09-03 — Presented to President.
