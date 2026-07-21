@@ -1,7 +1,7 @@
 ---
 measure: S.Con.Res. 37
 congress: 119
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S.Con.Res. 37
@@ -23,3 +23,8 @@ A concurrent resolution authorizing the use of the rotunda of the Capitol for a 
 - 2026-07-21 — Passed/agreed to in Senate: Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S4199-4200; text: CR S4197)
 - 2026-07-21 — Received in the House.
 - 2026-07-21 — Submitted in the Senate, considered, and agreed to without amendment by Unanimous Consent. (consideration: CR S4199-4200; text: CR S4197)
+- 2026-07-22 — Considered by unanimous consent. (consideration: CR H5159-5160)
+- 2026-07-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-07-22 — Mr. Steil asked unanimous consent to take from the Speaker's table and consider.
+- 2026-07-22 — On agreeing to the resolution Agreed to without objection. (text: CR H5160)
+- 2026-07-22 — Passed/agreed to in House: On agreeing to the resolution Agreed to without objection.
