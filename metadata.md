@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3029
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3029
@@ -22,9 +22,10 @@ To amend the Research and Development, Competition, and Innovation Act to suppor
 - Rep. McBride, Sarah [D-DE-At Large] (M001238)
 - Rep. Riley, Josh [D-NY-19] (R000622)
 
-## Committees (1)
+## Committees (2)
 
 - House — Science, Space, and Technology Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ To amend the Research and Development, Competition, and Innovation Act to suppor
 - 2026-07-20 — Mr. Babin moved to suspend the rules and pass the bill, as amended.
 - 2026-07-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4666)
 - 2026-07-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4666)
+- 2026-07-21 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
