@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1493
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1493
@@ -25,9 +25,10 @@ To reauthorize and make improvements to Federal programs relating to the prevent
 - Rep. Rutherford, John H. [R-FL-5] (R000609)
 - Rep. Vindman, Eugene Simon [D-VA-7] (V000138)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ To reauthorize and make improvements to Federal programs relating to the prevent
 - 2026-07-20 — Mr. Guthrie moved to suspend the rules and pass the bill, as amended.
 - 2026-07-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4646-4647)
 - 2026-07-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4646-4647)
+- 2026-07-21 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
