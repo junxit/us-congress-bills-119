@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1703
 congress: 119
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1703
@@ -58,3 +58,7 @@ Choices for Increased Mobility Act of 2026
 - 2026-07-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4636-4637)
 - 2026-07-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4636-4637)
 - 2026-07-21 — Received in the Senate and Read twice and referred to the Committee on Finance.
+- 2026-09-30 — Passed Senate without amendment by Voice Vote. (consideration: CR S5299)
+- 2026-09-30 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2026-09-30 — Senate Committee on Finance discharged by Unanimous Consent.
+- 2026-09-30 — Senate Committee on Finance discharged by Unanimous Consent.
