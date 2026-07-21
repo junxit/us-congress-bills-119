@@ -1,0 +1,37 @@
+---
+legis-num: H.R. 9807
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 9807
+
+> To amend the Federal Insecticide, Fungicide, and Rodenticide Act to prevent preemption of State law claims that are consistent with the misbranding standards of such Act, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Americans vs. Poisonous Pesticides Act”.
+
+## § 2. State law claims on misbranding of pesticides
+
+- **(a)** *Preservation of State failure-to-Warn claims* Section 24(b) of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136v(b)) is amended—
+  - **(1)** in the subsection heading, by inserting “of labeling standards” after “Uniformity”; and
+  - **(2)** by inserting “This subsection does not preempt any State law claim that is consistent with the misbranding standards of section 2(q).” after “this Act.”.
+- **(b)** *Misbranding information* Section 3(f) of the Federal Insecticide, Fungicide, and Rodenticide Act (7 U.S.C. 136a(f)) is amended—
+  - **(1)** in paragraph (2), by inserting “The registration of a pesticide, and the approval of the labeling of such pesticide by the Administrator, shall not be construed as a defense to any State law claim. In any proceeding, including a proceeding on any State law claim, registration of a pesticide and the approval of the labeling of such pesticide by the Administrator, shall be prima facie evidence (but not conclusive evidence) that the pesticide and its labeling comply with this Act.” after “of the Act.”; and
+  - **(2)** by adding at the end the following:
+    > - **(6)** *Duty to address misbranding information*
+    >   - **(A)** *In general* If the registrant or the Administrator obtains information indicating that a pesticide may be misbranded under section 2(q) due to potential effects on human health or the environment which are not disclosed on the label of such pesticide, the registrant of such pesticide may amend the labeling of such pesticide to address such information without prior approval of the Administrator.
+    >   - **(B)** *Disapproval* The Administrator may disapprove, or otherwise take action under section 6 with respect to, the amendment of the labeling of a pesticide under subparagraph (A).
+    >   - **(C)** *Information defined* In this paragraph, the term “information” means any reliable data, findings, study, report, or documentation and includes—
+    >     - **(i)** a government report;
+    >     - **(ii)** an independent peer-reviewed study;
+    >     - **(iii)** data of the registrant;
+    >     - **(iv)** material obtained through legal discovery;
+    >     - **(v)** a disclosure by a whistleblower;
+    >     - **(vi)** material from a congressional or other oversight investigation; and
+    >     - **(vii)** pesticide incident data under section 6(a)(2).
+
+- **(c)** *Application to pending actions* The amendments made by this Act shall apply to any civil action, including any action on remand or appeal, that is pending on, or commenced on or after, the date of enactment of this Act, regardless of the date on which the conduct that gave rise to such action occurred.
+- **(d)** *Rule of construction* None of the amendments made by this Act shall be construed to modify, restrict, or otherwise affect any action for damages or injunctive relief, or the liability of any person under the law of any State.
