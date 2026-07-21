@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4123
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4123
@@ -22,10 +22,11 @@ FIT Procurement Act
 - Rep. Luna, Anna Paulina [R-FL-13] (L000596)
 - Rep. Lynch, Stephen F. [D-MA-8] (L000562)
 
-## Committees (2)
+## Committees (3)
 
 - House — Oversight and Government Reform Committee
 - House — Small Business Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ FIT Procurement Act
 - 2026-07-20 — Mr. Burlison moved to suspend the rules and pass the bill, as amended.
 - 2026-07-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4659-4661)
 - 2026-07-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4659-4661)
+- 2026-07-21 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
