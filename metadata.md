@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6330
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6330
@@ -16,9 +16,10 @@ Federal Relocation Payment Improvement Act
 
 - Rep. Jack, Brian [R-GA-3] (J000311)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -33,3 +34,4 @@ Federal Relocation Payment Improvement Act
 - 2026-07-20 — Mr. Burlison moved to suspend the rules and pass the bill, as amended.
 - 2026-07-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4661-4662)
 - 2026-07-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4661-4662)
+- 2026-07-21 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
