@@ -1,7 +1,7 @@
 ---
 measure: H.Res. 1438
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.Res. 1438
@@ -16,9 +16,26 @@ Providing for consideration of the bill (H.R. 8800) to authorize appropriations 
 
 - Rep. Foxx, Virginia [R-NC-5] (F000450)
 
+## Committees (1)
+
+- House — Rules Committee
+
+## Recorded votes (2)
+
+- 2026-07-21 — [House 119-2-253](votes/house-119-2-0253.md) — On Ordering the Previous Question — **Passed** (213–209)
+- 2026-07-21 — [House 119-2-254](votes/house-119-2-0254.md) — On Agreeing to the Resolution — **Passed** (214–211)
+
 ## Actions
 
 - 2026-07-20 — Placed on the House Calendar, Calendar No. 86.
 - 2026-07-20 — The House Committee on Rules reported an original measure, H. Rept. 119-755, by Ms. Foxx.
 - 2026-07-20 — The House Committee on Rules reported an original measure, H. Rept. 119-755, by Ms. Foxx.
 - 2026-07-20 — The resolution provides for consideration of H.R. 8800 under a structured rule and for consideration of H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955, and H.R. 9770 under a closed rule, with one hour of debate on each measure and one motion to recommit on H.R. 8800, H.R. 8884, H.R. 7008, H.R. 6955, and H.R. 9770.
+- 2026-07-21 — Considered as privileged matter. (consideration: CR H4698-4705)
+- 2026-07-21 — Considered as unfinished business. (consideration: CR H4706-4707)
+- 2026-07-21 — DEBATE - The House proceeded with one hour of debate on H. Res. 1438.
+- 2026-07-21 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-07-21 — On agreeing to the resolution Agreed to by recorded vote: 214 - 211 (Roll no. 254). (text: CR H4698-4699)
+- 2026-07-21 — On ordering the previous question Agreed to by the Yeas and Nays: 213 - 209 (Roll no. 253). (consideration: CR H4706-4707)
+- 2026-07-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on H. Res. 1438, the Chair put the question on ordering the previous question and by voice vote, announced the ayes had prevailed. Mr. McGovern demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2026-07-21 — Passed/agreed to in House: On agreeing to the resolution Agreed to by recorded vote: 214 - 211 (Roll no. 254).
