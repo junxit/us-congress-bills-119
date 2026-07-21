@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5160
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 5160
@@ -63,3 +63,4 @@ Stem Cell Therapeutic and Research Reauthorization Act of 2025
 - 2026-07-20 — Mr. Guthrie moved to suspend the rules and pass the bill, as amended.
 - 2026-07-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4642)
 - 2026-07-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H4642)
+- 2026-07-21 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 464.
