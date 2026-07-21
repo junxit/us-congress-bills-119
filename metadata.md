@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4348
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 4348
@@ -78,3 +78,4 @@ To reauthorize the Kay Hagan Tick Act, and for other purposes.
 - 2026-07-20 — Mr. Guthrie moved to suspend the rules and pass the bill.
 - 2026-07-20 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4640)
 - 2026-07-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4640)
+- 2026-07-21 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 463.
