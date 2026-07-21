@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1041
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -13,10 +13,10 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 This Act may be cited as the “Affordable Prescriptions for Patients Act”.
 
-## § 2. Patent infringement; Medicare Improvement Fund
+## § 2. Patent infringement
 
 - **(a)** *In general* Section 271(e) of title 35, United States Code, is amended—
-  - **(1)** in paragraph (2)(C), in the flush text following clausesubparagraph (C)(ii), by adding at the end the following: “With respect to a submission described in clausesubparagraph (C)(ii), the act of infringement shall extend to any patent that claims the biological product, a method of using the biological product, or a method or product used to manufacture the biological product.”; and
+  - **(1)** in paragraph (2), in the flush text following subparagraph (C)(ii), by adding at the end the following: “With respect to a submission described in subparagraph (C)(ii), the act of infringement shall extend to any patent that claims the biological product, a method of using the biological product, or a method or product used to manufacture the biological product.”; and
   - **(2)** by adding at the end the following:
     > - **(7)**
     >   - **(A)** Subject to subparagraphs (C), (D), and (E), if the sponsor of an approved application for a reference product, as defined in section 351(i) of the Public Health Service Act (42 U.S.C. 262(i)) (referred to in this paragraph as the “reference product sponsor”), brings an action for infringement under this section against an applicant for approval of a biological product under section 351(k) of such Act that references that reference product (referred to in this paragraph as the “subsection (k) applicant”), the reference product sponsor may assert in the action a total of not more than 20 patents of the type described in subparagraph (B), not more than 10 of which shall have issued after the date specified in section 351(l)(7)(A) of such Act.
@@ -34,7 +34,7 @@ This Act may be cited as the “Affordable Prescriptions for Patients Act”.
     >         - **(aa)** shall be established if the subsection (k) applicant fails to provide information required by section 351(k)(2)(A) of the Public Health Service Act (42. U.S.C. 262(k)(2)(A)) that would enable the reference product sponsor to form a reasonable belief with respect to whether a claim of infringement under this section could reasonably be asserted; and
     >         - **(bb)** may be established—
     >           - **(AA)** if there is a material change to the biological product (or process with respect to the biological product) of the subsection (k) applicant that is the subject of the application;
-    >           - **(BB)** if, with respect to a patent on the supplemental list described in section 351(l)(7)(A) of the Public Health Service Act (42 U.S.C. 262(l)(7)(A)), the patent would have issued before the date specified in such section 351(l)(7)(A) of such Act but for the failure of the Office to issue the patent or a delay in the issuance of the patent, as described in paragraph (1) of section 154(b) and subject to the limitations under paragraph (2) of such section 154(b); or
+    >           - **(BB)** if, with respect to a patent on the supplemental list described in section 351(l)(7) of the Public Health Service Act (42 U.S.C. 262(l)(7)), the patent would have issued before the date specified in section 351(l)(7)(A) of such Act but for the failure of the Office to issue the patent or a delay in the issuance of the patent, as described in paragraph (1) of section 154(b) and subject to the limitations under paragraph (2) of such section 154(b); or
     >           - **(CC)** for another reason that shows good cause, as determined appropriate by the court.
     >   - **(D)** In determining whether good cause has been shown for the purposes of subparagraph (C)(ii)(II), a court may consider whether the reference product sponsor has provided a reasonable description of the identity and relevance of any information beyond the subsection (k) application that the court believes is necessary to enable the court to form a belief with respect to whether a claim of infringement under this section could reasonably be asserted.
     >   - **(E)** The limitation imposed under subparagraph (A)—

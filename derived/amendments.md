@@ -1,7 +1,7 @@
 ---
 measure: S. 1041
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `42 U.S.C. § 262` | add-at-end | in paragraph (2)(C), in the flush text following clausesubparagraph (C)(ii), by adding at the end the following: “With respect to a submission described in clausesubparagraph (C)(ii), the act of infringement shall extend to any patent th… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 262` | add-at-end | in paragraph (2), in the flush text following subparagraph (C)(ii), by adding at the end the following: “With respect to a submission described in subparagraph (C)(ii), the act of infringement shall extend to any patent that claims the b… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 262` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
