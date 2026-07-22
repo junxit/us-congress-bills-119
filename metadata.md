@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7008
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7008
@@ -116,6 +116,11 @@ Stop Insider Trading Act
 
 - House — Committee on House Administration
 
+## Recorded votes (2)
+
+- 2026-07-22 — [House 119-2-279](votes/house-119-2-0279.md) — On Motion to Recommit — **Failed** (211–218)
+- 2026-07-22 — [House 119-2-280](votes/house-119-2-0280.md) — On Passage — **Passed** (232–198)
+
 ## Actions
 
 - 2026-01-12 — Introduced in House
@@ -126,3 +131,20 @@ Stop Insider Trading Act
 - 2026-02-03 — Placed on the Union Calendar, Calendar No. 409.
 - 2026-02-03 — Reported (Amended) by the Committee on House Administration. H. Rept. 119-479.
 - 2026-02-03 — Reported (Amended) by the Committee on House Administration. H. Rept. 119-479.
+- 2026-07-20 — Rules Committee Resolution H. Res. 1438 Reported to House. Rule provides for consideration of H.R. 8800, H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955 and H.R. 9770. The resolution provides for consideration of H.R. 8800 under a structured rule and for consideration of H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955, and H.R. 9770 under a closed rule, with one hour of debate on each measure and one motion to recommit on H.R. 8800, H.R. 8884, H.R. 7008, H.R. 6955, and H.R. 9770.
+- 2026-07-22 — Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2026-07-22 — Considered as unfinished business. (consideration: CR H5157-5158)
+- 2026-07-22 — Considered under the provisions of rule H. Res. 1438. (consideration: CR H5143-5153)
+- 2026-07-22 — DEBATE - The House proceeded with one hour of debate on H.R. 7008.
+- 2026-07-22 — House amendment considered as adopted: On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2026-07-22 — House amendment offered/reported by: Amendment in the nature of a substitute reported by the House Committee on Rules.
+- 2026-07-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-07-22 — Mr. Magaziner moved to recommit to the Committee on House Administration. (text: CR H5152)
+- 2026-07-22 — On agreeing to the Rules amendment (A001) Agreed to without objection.
+- 2026-07-22 — On motion to recommit Failed by the Yeas and Nays: 211 - 218 (Roll no. 279).
+- 2026-07-22 — On passage Passed by the Yeas and Nays: 232 - 198 (Roll no. 280). (text of amendment in the nature of a substitute: CR H5143-5144)
+- 2026-07-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 7008, the Chair put the question on motion to recommit and by voice vote, announced the ayes had prevailed. Mr. Steil demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2026-07-22 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 232 - 198 (Roll no. 280).
+- 2026-07-22 — Rule provides for consideration of H.R. 8800, H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955 and H.R. 9770. The resolution provides for consideration of H.R. 8800 under a structured rule and for consideration of H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955, and H.R. 9770 under a closed rule, with one hour of debate on each measure and one motion to recommit on H.R. 8800, H.R. 8884, H.R. 7008, H.R. 6955, and H.R. 9770.
+- 2026-07-22 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2026-07-22 — The previous question was ordered pursuant to the rule.
