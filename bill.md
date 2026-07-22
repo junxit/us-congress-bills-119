@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1722
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,19 +11,19 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Billion Dollar Boondoggle Act of 2025”.
+This Act may be cited as the “Billion Dollar Boondoggle Act”.
 
 ## § 2. Annual report
 
 - **(a)** *Definitions* In this section—
-  - **(1)** the term covered agency means—
+  - **(1)** the term “covered agency” means—
     - **(A)** an Executive agency, as defined in section 105 of title 5, United States Code; and
     - **(B)** an independent regulatory agency, as defined in section 3502 of title 44, United States Code;
-  - **(2)** the term covered project means a project funded by a covered agency—
+  - **(2)** the term “covered project” means a project funded by a covered agency—
     - **(A)** that is more than 5 years behind schedule, as measured against the original expected date for completion; or
     - **(B)** for which the amount spent on the project is not less than $1,000,000,000 more than the original cost estimate for the project;
-  - **(3)** the term Director means the Director of the Office of Management and Budget; and
-  - **(4)** the term project means a major acquisition, a major defense acquisition program (as defined in section 4201 of title 10, United States Code), a procurement, a construction project, a remediation or clean-up effort, or any other time-limited endeavor, that is not funded through direct spending (as defined in section 250(c) of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 900(c))).
+  - **(3)** the term “Director” means the Director of the Office of Management and Budget; and
+  - **(4)** the term “project” means a major acquisition, a major defense acquisition program (as defined in section 4201 of title 10, United States Code), a procurement, a construction project, a remediation or clean-up effort, or any other time-limited endeavor, that is not funded through direct spending (as defined in section 250(c) of the Balanced Budget and Emergency Deficit Control Act of 1985 (2 U.S.C. 900(c))).
 - **(b)** *Requirements*
   - **(1)** *Submission* Not later than 1 year after the date of enactment of this Act, the Director shall issue guidance requiring covered agencies to, on an annual basis, submit to the Director information relating to each covered project of the covered agency, which shall include—
     - **(A)** a brief description of the covered project, including—
@@ -41,3 +41,4 @@ This Act may be cited as the “Billion Dollar Boondoggle Act of 2025”.
     - **(G)** an explanation for a delay in completion or an increase in the original cost estimate for the covered project, including, where applicable, any impact of insufficient or delayed appropriations; and
     - **(H)** the amount of and rationale for any award, incentive fee, or other type of bonus, if any, awarded for the covered project.
   - **(2)** *Report* The Director shall submit to Congress and post on the website of the Office of Management and Budget an annual report containing the information submitted under paragraph (1) for the relevant year.
+  - **(3)** *Form* The report required under paragraph (2) shall be submitted in unclassified form, but may include a classified annex.
