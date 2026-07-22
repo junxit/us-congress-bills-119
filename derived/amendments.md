@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8800
 congress: 119
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1,257 amendatory instructions. 133 executed, 1,124 stated and not applied.
+1,742 amendatory instructions. 215 executed, 1,527 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -41,6 +41,15 @@ to guess them.
 |---|---|
 | Removed | `The report` |
 | Inserted | `Each report` |
+
+### 10 U.S.C. § 4061
+
+> The heading of section 238 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 10 U.S.C. 4061 note prec.) is amended by striking “Joint artificial intelligence research, development, and transition activities” and inserting “Department of Defense artificial intelligence and artificial general intelligence activities”.
+
+| | |
+|---|---|
+| Removed | `Joint artificial intelligence research, development, and transition activities` |
+| Inserted | `Department of Defense artificial intelligence and artificial general intelligence activities` |
 
 ### 10 U.S.C. § 1791
 
@@ -77,6 +86,285 @@ to guess them.
 |---|---|
 | Removed | `2028` |
 | Inserted | `2031` |
+
+### 37 U.S.C. § 357
+
+> by striking “Implementation Date” and all that follows through “The Secretary shall not” and inserting “Implementation Date.—The Secretary shall not”;
+
+| | |
+|---|---|
+| Removed | `Implementation Date” and all that follows through “The Secretary shall not` |
+| Inserted | `Implementation Date.—The Secretary shall not` |
+
+### 33 U.S.C. § 3041
+
+> in paragraph (1), by striking “retired lists” and all that follows through “Space Force” and inserting “retired lists of the uniformed services”;
+
+| | |
+|---|---|
+| Removed | `retired lists” and all that follows through “Space Force` |
+| Inserted | `retired lists of the uniformed services` |
+
+### 33 U.S.C. § 3041
+
+> in paragraph (2), by striking “armed forces” and inserting “uniformed services”; and
+
+| | |
+|---|---|
+| Removed | `armed forces` |
+| Inserted | `uniformed services` |
+
+### 33 U.S.C. § 3041
+
+> by striking “Department of Defense and the Department of Homeland Security” and inserting “Departments of Defense, Homeland Security, Commerce, and Health and Human Services”;
+
+| | |
+|---|---|
+| Removed | `Department of Defense and the Department of Homeland Security` |
+| Inserted | `Departments of Defense, Homeland Security, Commerce, and Health and Human Services` |
+
+### 33 U.S.C. § 3041
+
+> by striking “armed forces” and inserting “uniformed services”;
+
+| | |
+|---|---|
+| Removed | `armed forces` |
+| Inserted | `uniformed services` |
+
+### 33 U.S.C. § 3041
+
+> by striking “and section” and inserting “section”; and
+
+| | |
+|---|---|
+| Removed | `and section` |
+| Inserted | `section` |
+
+### 33 U.S.C. § 3041
+
+> in subsection (a), by striking “the Department of Defense and the Coast Guard” and inserting “the uniformed services”; and
+
+| | |
+|---|---|
+| Removed | `the Department of Defense and the Coast Guard` |
+| Inserted | `the uniformed services` |
+
+### 33 U.S.C. § 3041
+
+> by striking “armed forces” and inserting “uniformed services”; and
+
+| | |
+|---|---|
+| Removed | `armed forces` |
+| Inserted | `uniformed services` |
+
+### 33 U.S.C. § 3041
+
+> by striking “Secretary of the department in which the Coast Guard is operating” and inserting “Secretaries of the departments specified in section 1463(a)(4) of this title”; and
+
+| | |
+|---|---|
+| Removed | `Secretary of the department in which the Coast Guard is operating` |
+| Inserted | `Secretaries of the departments specified in section 1463(a)(4) of this title` |
+
+### 33 U.S.C. § 3041
+
+> by striking “Department of Defense and Coast Guard” and inserting “uniformed services”;
+
+| | |
+|---|---|
+| Removed | `Department of Defense and Coast Guard` |
+| Inserted | `uniformed services` |
+
+### 33 U.S.C. § 3041
+
+> in subparagraph (A)(ii), by striking “Armed Forces” and inserting “uniformed services”; and
+
+| | |
+|---|---|
+| Removed | `Armed Forces` |
+| Inserted | `uniformed services` |
+
+### 33 U.S.C. § 3041
+
+> in subparagraph (B)(ii), by striking “armed forces” and inserting “uniformed services”;
+
+| | |
+|---|---|
+| Removed | `armed forces` |
+| Inserted | `uniformed services` |
+
+### 33 U.S.C. § 3041
+
+> in the matter preceding subparagraph (A), by striking “Secretary of the department in which the Coast Guard is operating” and inserting “Secretaries of the departments specified in section 1463(a)(4) of this title”;
+
+| | |
+|---|---|
+| Removed | `Secretary of the department in which the Coast Guard is operating` |
+| Inserted | `Secretaries of the departments specified in section 1463(a)(4) of this title` |
+
+### 33 U.S.C. § 3041
+
+> in subparagraph (A), by striking “Armed Forces” and inserting “uniformed services”; and
+
+| | |
+|---|---|
+| Removed | `Armed Forces` |
+| Inserted | `uniformed services` |
+
+### 33 U.S.C. § 3041
+
+> in subparagraph (B), by striking “armed forces” and inserting “uniformed services”; and
+
+| | |
+|---|---|
+| Removed | `armed forces` |
+| Inserted | `uniformed services` |
+
+### 33 U.S.C. § 3041
+
+> in paragraphs (2) and (3), by striking “Secretary of the department in which the Coast Guard is operating” both places it appears and inserting “Secretaries of the departments specified in section 1463(a)(4) of this title”; and
+
+| | |
+|---|---|
+| Removed | `Secretary of the department in which the Coast Guard is operating` |
+| Inserted | `Secretaries of the departments specified in section 1463(a)(4) of this title` |
+
+### 33 U.S.C. § 3041
+
+> in subsection (e), by striking “The Secretary of Defense and, with regard to the Coast Guard, the Secretary of the department in which the Coast Guard is operating shall” and inserting “The Secretary of a department specified in section 1463(a)(4) of this title shall, with regard to the respective department”.
+
+| | |
+|---|---|
+| Removed | `The Secretary of Defense and, with regard to the Coast Guard, the Secretary of the department in which the Coast Guard is operating shall` |
+| Inserted | `The Secretary of a department specified in section 1463(a)(4) of this title shall, with regard to the respective department` |
+
+### 33 U.S.C. § 3041
+
+> by striking “Secretary of Defense and the Secretary of the department in which the Coast Guard is operating, with respect to the Coast Guard” and inserting “Secretaries of the departments specified in section 1463(a)(4) of this title”; and
+
+| | |
+|---|---|
+| Removed | `Secretary of Defense and the Secretary of the department in which the Coast Guard is operating, with respect to the Coast Guard` |
+| Inserted | `Secretaries of the departments specified in section 1463(a)(4) of this title` |
+
+### 33 U.S.C. § 3041
+
+> by striking “the Secretary of Defense and the Secretary of the department in which the Coast Guard is operating” and inserting “such Secretaries”;
+
+| | |
+|---|---|
+| Removed | `the Secretary of Defense and the Secretary of the department in which the Coast Guard is operating` |
+| Inserted | `such Secretaries` |
+
+### 33 U.S.C. § 3041
+
+> in paragraph (2)(B), by striking “armed forces” and inserting “uniformed services”;
+
+| | |
+|---|---|
+| Removed | `armed forces` |
+| Inserted | `uniformed services` |
+
+### 33 U.S.C. § 3041
+
+> in paragraph (1), by striking “armed forces under the jurisdiction of the Secretary of a military department” and inserting “uniformed services”; and
+
+| | |
+|---|---|
+| Removed | `armed forces under the jurisdiction of the Secretary of a military department` |
+| Inserted | `uniformed services` |
+
+### 33 U.S.C. § 3041
+
+> in paragraph (2), by striking “Coast Guard” and inserting “Coast Guard, commissioned corps of the National Oceanic and Atmospheric Administration, or the Commissioned Corps of the Public Health Service”; and
+
+| | |
+|---|---|
+| Removed | `Coast Guard` |
+| Inserted | `Coast Guard, commissioned corps of the National Oceanic and Atmospheric Administration, or the Commissioned Corps of the Public Health Service` |
+
+### 33 U.S.C. § 3041
+
+> in paragraph (1), by striking “Secretary of Defense” and inserting “Secretaries of the departments specified in section 1463(a)(4) of this title of this title”;
+
+| | |
+|---|---|
+| Removed | `Secretary of Defense` |
+| Inserted | `Secretaries of the departments specified in section 1463(a)(4) of this title of this title` |
+
+### 33 U.S.C. § 3041
+
+> in paragraph (2)(A), by striking “the Department of Defense and the Coast Guard” and inserting “each uniformed service”; and
+
+| | |
+|---|---|
+| Removed | `the Department of Defense and the Coast Guard` |
+| Inserted | `each uniformed service` |
+
+### 33 U.S.C. § 3041
+
+> in paragraph (3), by striking “Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating” and inserting “Secretaries of the departments specified in section 1463(a)(4) of this title”.
+
+| | |
+|---|---|
+| Removed | `Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating` |
+| Inserted | `Secretaries of the departments specified in section 1463(a)(4) of this title` |
+
+### 33 U.S.C. § 3041
+
+> in section 1444(a), by striking “armed forces, the National Oceanic and Atmospheric Administration, and the Public Health Service” and inserting “uniformed services”;
+
+| | |
+|---|---|
+| Removed | `armed forces, the National Oceanic and Atmospheric Administration, and the Public Health Service` |
+| Inserted | `uniformed services` |
+
+### 33 U.S.C. § 3041
+
+> by striking “armed forces” each place it appears and inserting “uniformed services”;
+
+| | |
+|---|---|
+| Removed | `armed forces` |
+| Inserted | `uniformed services` |
+
+### 33 U.S.C. § 3041
+
+> by striking “an armed force” both places it appears and inserting “a uniformed service”;
+
+| | |
+|---|---|
+| Removed | `an armed force` |
+| Inserted | `a uniformed service` |
+
+### 33 U.S.C. § 3041
+
+> by striking “armed force” each place it appears and inserting “uniformed service”; and
+
+| | |
+|---|---|
+| Removed | `armed force` |
+| Inserted | `uniformed service` |
+
+### 33 U.S.C. § 3041
+
+> in the headings to sections 1431 and 1432 by striking “armed forces” both places it appears and inserting “uniformed services”.
+
+| | |
+|---|---|
+| Removed | `armed forces` |
+| Inserted | `uniformed services` |
+
+### 33 U.S.C. § 3041
+
+> Section 1449(a) of title 10, United States Code, is amended by striking “armed force” and inserting “uniformed service”.
+
+| | |
+|---|---|
+| Removed | `armed force` |
+| Inserted | `uniformed service` |
 
 ### 10 U.S.C. § 1074o
 
@@ -203,6 +491,24 @@ to guess them.
 |---|---|
 | Removed | `a domestic cat (Felis catus) or a domestic dog (Canis familiaris)` |
 | Inserted | `a domestic cat (Felis catus), a domestic dog (Canis familiaris), or a nonhuman member of the order Primates` |
+
+### 10 U.S.C. § 1071
+
+> in subsection (c), by striking “two-year” and inserting “five-year”; and
+
+| | |
+|---|---|
+| Removed | `two-year` |
+| Inserted | `five-year` |
+
+### 10 U.S.C. § 1074
+
+> in subsection (d), by striking “three years” and inserting “nine years”;
+
+| | |
+|---|---|
+| Removed | `three years` |
+| Inserted | `nine years` |
 
 ### 10 U.S.C. § 3243
 
@@ -609,6 +915,78 @@ to guess them.
 | Removed | `2027` |
 | Inserted | `2030` |
 
+### 10 U.S.C. § 4333
+
+> Subsection (i)(1) of such section is amended by striking “calendar year” in the matter preceding subparagraph (A) and in subparagraph (G) and inserting “fiscal year”.
+
+| | |
+|---|---|
+| Removed | `calendar year` |
+| Inserted | `fiscal year` |
+
+### 10 U.S.C. § 4333
+
+> Subsection (j) of such section is amended by striking “December 31, 2027” and inserting “December 31, 2031”.
+
+| | |
+|---|---|
+| Removed | `December 31, 2027` |
+| Inserted | `December 31, 2031` |
+
+### 22 U.S.C. § 10431
+
+> by striking “two” and inserting “three”; and
+
+| | |
+|---|---|
+| Removed | `two` |
+| Inserted | `three` |
+
+### 22 U.S.C. § 10431
+
+> by striking “Effective beginning on” and all that follows through “the President” and inserting “The President”; and
+
+| | |
+|---|---|
+| Removed | `Effective beginning on” and all that follows through “the President` |
+| Inserted | `The President` |
+
+### 22 U.S.C. § 10431
+
+> by striking “20-year period beginning on the date of the enactment of this Act” and inserting “20-year period beginning on December 22, 2023”;
+
+| | |
+|---|---|
+| Removed | `20-year period beginning on the date of the enactment of this Act` |
+| Inserted | `20-year period beginning on December 22, 2023` |
+
+### 22 U.S.C. § 10431
+
+> in subsection (d)(4), by striking “the date of the enactment of this Act” and inserting “December 22, 2023 ”; and
+
+| | |
+|---|---|
+| Removed | `the date of the enactment of this Act` |
+| Inserted | `December 22, 2023` |
+
+### 22 U.S.C. § 10431
+
+> in the matter preceding subparagraph (A), by striking “Not later than” and all that follows through “15 years” and inserting “Not later than July 1 of each year through 2039”; and
+
+| | |
+|---|---|
+| Removed | `Not later than” and all that follows through “15 years` |
+| Inserted | `Not later than July 1 of each year through 2039` |
+
+### 22 U.S.C. § 10431
+
+> in subparagraph (D), by striking “over the” and all that follows through “this Act” and inserting “through December 22, 2038”.
+
+| | |
+|---|---|
+| Removed | `over the” and all that follows through “this Act` |
+| Inserted | `through December 22, 2038` |
+
 ### 10 U.S.C. § 2224
 
 > in paragraph (3)(B), by striking “if” and inserting “on and after the date that is 90 days after the date on which”.
@@ -726,6 +1104,87 @@ to guess them.
 | Removed | `SEC.` |
 | Inserted | `§` |
 
+### 50 U.S.C. § 3121
+
+> by striking “a covert agent” and inserting “a covert agent or protected defense individual”;
+
+| | |
+|---|---|
+| Removed | `a covert agent` |
+| Inserted | `a covert agent or protected defense individual` |
+
+### 50 U.S.C. § 3121
+
+> by striking “identifying such covert agent” and inserting “identifying such covert agent or such protected defense individual”;
+
+| | |
+|---|---|
+| Removed | `identifying such covert agent` |
+| Inserted | `identifying such covert agent or such protected defense individual` |
+
+### 50 U.S.C. § 3121
+
+> by striking “identifies such covert agent” and inserting “identifies such covert agent or such protected defense individual”; and
+
+| | |
+|---|---|
+| Removed | `identifies such covert agent` |
+| Inserted | `identifies such covert agent or such protected defense individual` |
+
+### 50 U.S.C. § 3121
+
+> by striking “a covert agent and” and inserting “a covert agent or protected defense individual and”;
+
+| | |
+|---|---|
+| Removed | `a covert agent and` |
+| Inserted | `a covert agent or protected defense individual and` |
+
+### 50 U.S.C. § 3121
+
+> by striking “identifying such covert agent” and inserting “identifying such covert agent or such protected defense individual”;
+
+| | |
+|---|---|
+| Removed | `identifying such covert agent` |
+| Inserted | `identifying such covert agent or such protected defense individual` |
+
+### 50 U.S.C. § 3121
+
+> by striking “identifies such covert agent” and inserting “identifies such covert agent or such protected defense individual”; and
+
+| | |
+|---|---|
+| Removed | `identifies such covert agent` |
+| Inserted | `identifies such covert agent or such protected defense individual` |
+
+### 50 U.S.C. § 3121
+
+> by striking “covert agents” and inserting “covert agents or protected defense individuals”;
+
+| | |
+|---|---|
+| Removed | `covert agents` |
+| Inserted | `covert agents or protected defense individuals` |
+
+### 50 U.S.C. § 3121
+
+> by striking “as a covert agent” and inserting “as a covert agent or protected defense individual”; and
+
+| | |
+|---|---|
+| Removed | `as a covert agent` |
+| Inserted | `as a covert agent or protected defense individual` |
+
+### 50 U.S.C. § 3122
+
+> by striking “It is a defense to a prosecution under section 601” and inserting “(1) With respect to a prosecution under section 601 relating to the identity of a covert agent, it is a defense”; and
+
+| | |
+|---|---|
+| Removed | `It is a defense to a prosecution under section 601` |
+| Inserted | `(1) With respect to a prosecution under section 601 relating to the identity of a covert agent, it is a defense` |
+
 ### 10 U.S.C. § 111
 
 > in the enumerator, by striking “SEC.” and inserting “§”;
@@ -815,6 +1274,15 @@ to guess them.
 |---|---|
 | Removed | `2025` |
 | Inserted | `2035` |
+
+### 50 U.S.C. § 4564
+
+> Section 717(a) of the Defense Production Act of 1950 (50 U.S.C. 4564(a)) is amended by striking “2026” and inserting “2031”.
+
+| | |
+|---|---|
+| Removed | `2026` |
+| Inserted | `2031` |
 
 ### 50 U.S.C. § 4552
 
@@ -1187,12 +1655,12 @@ to guess them.
 
 ### 16 U.S.C. § 1802
 
-> in the subsection heading by striking “DIRECT LOANS FOR FISHERIES” and inserting “DIRECT LOANS”;
+> in the subsection heading by striking “Direct loans for fisheries” and inserting “Direct loans”;
 
 | | |
 |---|---|
-| Removed | `DIRECT LOANS FOR FISHERIES` |
-| Inserted | `DIRECT LOANS` |
+| Removed | `Direct loans for fisheries` |
+| Inserted | `Direct loans` |
 
 ### 16 U.S.C. § 1802
 
@@ -1205,12 +1673,57 @@ to guess them.
 
 ### 16 U.S.C. § 1802
 
-> Section 53704(a) of title 46, United States Code, is amended by striking “obligations related to fishing vessels and fishery facilities” and inserting “obligations by the Secretary related to fishing facilities, and used fishing vessels”.
+> in paragraph (1), by striking “signed application” and inserting “completed application”;
 
 | | |
 |---|---|
-| Removed | `obligations related to fishing vessels and fishery facilities` |
-| Inserted | `obligations by the Secretary related to fishing facilities, and used fishing vessels` |
+| Removed | `signed application` |
+| Inserted | `completed application` |
+
+### 16 U.S.C. § 1802
+
+> by striking “Financing (including reimbursement of an obligor for expenditures previously made for) the construction, reconstruction, or reconditioning, of a vessel” and inserting “Financing, including reimbursement of an obligor for expenditures previously made for, the construction, reconstruction, reconditioning, or purchase of a vessel (including an eligible export vessel)”;
+
+| | |
+|---|---|
+| Removed | `Financing (including reimbursement of an obligor for expenditures previously made for) the construction, reconstruction, or reconditioning, of a vessel` |
+| Inserted | `Financing, including reimbursement of an obligor for expenditures previously made for, the construction, reconstruction, reconditioning, or purchase of a vessel (including an eligible export vessel)` |
+
+### 16 U.S.C. § 1802
+
+> in subsection (b) by striking “construction, reconstruction, or reconditioning” and inserting “construction, reconstruction, reconditioning, or purchase”; and
+
+| | |
+|---|---|
+| Removed | `construction, reconstruction, or reconditioning` |
+| Inserted | `construction, reconstruction, reconditioning, or purchase` |
+
+### 16 U.S.C. § 1802
+
+> by striking “advanced shipbuilding technology and modern shipbuilding technology” and inserting “shipyard capital improvements, including infrastructure and modern shipbuilding technology,”; and
+
+| | |
+|---|---|
+| Removed | `advanced shipbuilding technology and modern shipbuilding technology` |
+| Inserted | `shipyard capital improvements, including infrastructure and modern shipbuilding technology,` |
+
+### 16 U.S.C. § 1802
+
+> by striking “Only a private shipyard is eligible to receive a guarantee” and inserting “To be eligible to receive a guarantee the obligor must have the authority to modify the general shipyard facility”;
+
+| | |
+|---|---|
+| Removed | `Only a private shipyard is eligible to receive a guarantee` |
+| Inserted | `To be eligible to receive a guarantee the obligor must have the authority to modify the general shipyard facility` |
+
+### 16 U.S.C. § 1802
+
+> in subsection (c), as so redesignated, by striking “advanced shipbuilding technology” and inserting “shipyard capital improvements, infrastructure,”; and
+
+| | |
+|---|---|
+| Removed | `advanced shipbuilding technology` |
+| Inserted | `shipyard capital improvements, infrastructure,` |
 
 ### 16 U.S.C. § 1802
 
@@ -1220,6 +1733,231 @@ to guess them.
 |---|---|
 | Removed | `construction or reconstruction of the vessel` |
 | Inserted | `construction or refinancing and reconstruction of the vessel` |
+
+### 43 U.S.C. § 1331
+
+> in subsection (a) by striking “passengers” and inserting “passengers for hire”;
+
+| | |
+|---|---|
+| Removed | `passengers` |
+| Inserted | `passengers for hire` |
+
+### 43 U.S.C. § 1331
+
+> in subsection (b)(3) by striking “(43 U.S.C. 1331(a)).” and inserting “(43 U.S.C. 1331(a))).”; and
+
+| | |
+|---|---|
+| Removed | `(43 U.S.C. 1331(a)).` |
+| Inserted | `(43 U.S.C. 1331(a))).` |
+
+### 26 U.S.C. § 501
+
+> by striking “an” and inserting “a”.
+
+| | |
+|---|---|
+| Removed | `an` |
+| Inserted | `a` |
+
+### 26 U.S.C. § 501
+
+> by striking “covered foundation” and inserting “qualified organization” each place it appears.
+
+| | |
+|---|---|
+| Removed | `covered foundation` |
+| Inserted | `qualified organization` |
+
+### 22 U.S.C. § 2151
+
+> by striking “Minimum tonnage.—When the United States Government” and inserting “Requirement to use U.S.-Flag vessels.—When a United States department or agency”; and
+
+| | |
+|---|---|
+| Removed | `Minimum tonnage.—When the United States Government` |
+| Inserted | `Requirement to use U.S.-Flag vessels.—When a United States department or agency` |
+
+### 22 U.S.C. § 2151
+
+> by striking “the appropriate agencies shall take steps necessary” and all that follows through the end of the subsection and inserting “the department or agency must ensure that all equipment, materials, or commodities that may be transported on ocean vessels, except when required for the timely transportation of cargoes under the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.), is transported on privately-owned commercial vessels of the United States.”;
+
+| | |
+|---|---|
+| Removed | `the appropriate agencies shall take steps necessary` |
+| Inserted | `the department or agency must ensure that all equipment, materials, or commodities that may be transported on ocean vessels, except when required for the timely transportation of cargoes under the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.), is transported on privately-owned commercial vessels of the United States.` |
+
+### 22 U.S.C. § 2151
+
+> in the subsection heading by striking “Programs of other agencies” and inserting “Department and agency requirements”;
+
+| | |
+|---|---|
+| Removed | `Programs of other agencies` |
+| Inserted | `Department and agency requirements` |
+
+### 22 U.S.C. § 2151
+
+> in subparagraph (F), as so redesignated, by striking “may take other measures as appropriate under” and inserting “shall notify agencies of violations so that other measures may be taken as appropriate under subsection (e)(1)(D) of this section or”.
+
+| | |
+|---|---|
+| Removed | `may take other measures as appropriate under` |
+| Inserted | `shall notify agencies of violations so that other measures may be taken as appropriate under subsection (e)(1)(D) of this section or` |
+
+### 7 U.S.C. § 1736o
+
+> in the matter preceding paragraph (1), by striking “Secretary of Agriculture or the Commodity Credit Corporation” and inserting “Federal Government”;
+
+| | |
+|---|---|
+| Removed | `Secretary of Agriculture or the Commodity Credit Corporation` |
+| Inserted | `Federal Government` |
+
+### 7 U.S.C. § 1736o
+
+> in paragraph (4), by striking “agricultural commodities or their products” and inserting “agricultural products”;
+
+| | |
+|---|---|
+| Removed | `agricultural commodities or their products` |
+| Inserted | `agricultural products` |
+
+### 7 U.S.C. § 1736o
+
+> in paragraph (5), by striking “agricultural commodities or their products” and inserting “agricultural products”;
+
+| | |
+|---|---|
+| Removed | `agricultural commodities or their products` |
+| Inserted | `agricultural products` |
+
+### 7 U.S.C. § 1736o
+
+> in paragraph (6), by striking “agricultural commodities or their products” and inserting “agricultural products”;
+
+| | |
+|---|---|
+| Removed | `agricultural commodities or their products` |
+| Inserted | `agricultural products` |
+
+### 7 U.S.C. § 1736o
+
+> in paragraph (7), by striking “agricultural commodities” and inserting “agricultural products”;
+
+| | |
+|---|---|
+| Removed | `agricultural commodities` |
+| Inserted | `agricultural products` |
+
+### 52 U.S.C. § 20502
+
+> by striking “As used” and inserting “(a) In general.—As used”; and
+
+| | |
+|---|---|
+| Removed | `As used` |
+| Inserted | `(a) In general.—As used` |
+
+### 52 U.S.C. § 20504
+
+> in subsection (a)(1), by striking “Each State motor vehicle driver's license application” and inserting “Subject to the requirements under section 8(j), each State motor vehicle driver's license application”;
+
+| | |
+|---|---|
+| Removed | `Each State motor vehicle driver's license application` |
+| Inserted | `Subject to the requirements under section 8(j), each State motor vehicle driver's license application` |
+
+### 52 U.S.C. § 20504
+
+> in subsection (c)(1), by striking “Each State shall include” and inserting “Subject to the requirements under section 8(j), each State shall include”;
+
+| | |
+|---|---|
+| Removed | `Each State shall include` |
+| Inserted | `Subject to the requirements under section 8(j), each State shall include` |
+
+### 52 U.S.C. § 20504
+
+> in subsection (c)(2)(C)(i), by striking “(including citizenship)” and inserting “, including the requirement that the applicant provides documentary proof of United States citizenship”; and
+
+| | |
+|---|---|
+| Removed | `(including citizenship)` |
+| Inserted | `, including the requirement that the applicant provides documentary proof of United States citizenship` |
+
+### 52 U.S.C. § 20505
+
+> by striking “Each State shall accept and use” and inserting “Subject to the requirements under section 8(j), each State shall accept and use”; and
+
+| | |
+|---|---|
+| Removed | `Each State shall accept and use` |
+| Inserted | `Subject to the requirements under section 8(j), each State shall accept and use` |
+
+### 52 U.S.C. § 20505
+
+> by striking “Federal Election Commission” and inserting “Election Assistance Commission”;
+
+| | |
+|---|---|
+| Removed | `Federal Election Commission` |
+| Inserted | `Election Assistance Commission` |
+
+### 52 U.S.C. § 20506
+
+> in subparagraph (A)(i)(I), by striking “(including citizenship)” and inserting “, including the requirement that the applicant provides documentary proof of United States citizenship”;
+
+| | |
+|---|---|
+| Removed | `(including citizenship)` |
+| Inserted | `, including the requirement that the applicant provides documentary proof of United States citizenship` |
+
+### 52 U.S.C. § 20507
+
+> by striking “In the administration of voter registration” and inserting “Subject to the requirements of subsection (j), in the administration of voter registration”; and
+
+| | |
+|---|---|
+| Removed | `In the administration of voter registration` |
+| Inserted | `Subject to the requirements of subsection (j), in the administration of voter registration` |
+
+### 52 U.S.C. § 20507
+
+> Section 8(c)(2)(B)(i) of such Act (52 U.S.C. 20507(c)(2)(B)(i)) is amended by striking “(4)(A)” and inserting “(4)(A) or (C)”.
+
+| | |
+|---|---|
+| Removed | `(4)(A)` |
+| Inserted | `(4)(A) or (C)` |
+
+### 52 U.S.C. § 20508
+
+> in paragraph (2)(A), by striking “(including citizenship)” and inserting “(including an explanation of what is required to present documentary proof of United States citizenship)”;
+
+| | |
+|---|---|
+| Removed | `(including citizenship)` |
+| Inserted | `(including an explanation of what is required to present documentary proof of United States citizenship)` |
+
+### 52 U.S.C. § 20510
+
+> Section 11(b)(1) of the National Voter Registration Act of 1993 (52 U.S.C. 20510(b)(1)) is amended by striking “a violation of this Act” and inserting “a violation of this Act, including the act of an election official who registers an applicant to vote in an election for Federal office who fails to present documentary proof of United States citizenship,”.
+
+| | |
+|---|---|
+| Removed | `a violation of this Act` |
+| Inserted | `a violation of this Act, including the act of an election official who registers an applicant to vote in an election for Federal office who fails to present documentary proof of United States citizenship,` |
+
+### 52 U.S.C. § 21111
+
+> Section 401 of such Act (52 U.S.C. 21111) is amended by striking “sections 301, 302, 303, and 304” and inserting “subtitle A of title III”.
+
+| | |
+|---|---|
+| Removed | `sections 301, 302, 303, and 304` |
+| Inserted | `subtitle A of title III` |
 
 ## Stated, not applied
 
@@ -1242,6 +1980,8 @@ complete account of the bill's effect, which it is not.
 | — | insert | by inserting “to another military department or” after “evaluated for potential transfer”. | the bill names no machine-readable US Code section |
 | — | replace | Section 146(a)(3)(B) of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (Public Law 117–263; 136 Stat. 2455), as most recently amended by section 145(a) of the National Defense Authorization Act for Fiscal Yea… | the bill names no machine-readable US Code section |
 | — | replace | Section 146(b)(1) of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (Public Law 117–263; 136 Stat. 2455), as most recently amended by section 145(b) of the National Defense Authorization Act for Fiscal Year 2… | the bill names no machine-readable US Code section |
+| `50 U.S.C. § 98e-2` | redesignate | by redesignating subsection (e) as subsection (f); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 98e-2` | insert | by inserting after subsection (d) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | strike | in paragraph (4), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (5), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
@@ -1275,12 +2015,25 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subsection (d), by striking “for the DDG(X) destroyer class of vessels” and inserting “for the class of vessels involved”; | the bill names no machine-readable US Code section |
 | — | replace | in subsection (e), by striking “by not later than the delivery date of the lead ship in the DDG(X) destroyer class of vessels” and inserting “for a class of vessels by not later than the delivery date of the lead ship in that class of ve… | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (f) to read as follows: | the bill names no machine-readable US Code section |
-| — | insert | in subsections (b) and (e), by inserting “ or nuclear energy” after “renewable energy sources” each place it appears; | the bill names no machine-readable US Code section |
-| — | insert | in the heading, by inserting “ and nuclear energy” after “renewable energy”; | the bill names no machine-readable US Code section |
-| — | insert | in paragraphs (1) and (2), by inserting “ or nuclear energy” after “renewable energy sources” each place it appears; and | the bill names no machine-readable US Code section |
-| — | insert | in paragraph (2), by inserting “ and nuclear energy” after “the use of renewable energy”; and | the bill names no machine-readable US Code section |
-| — | insert | in subparagraph (C), by inserting “ or nuclear energy” after “renewable energy source, other than solar energy,”; and | the bill names no machine-readable US Code section |
-| — | insert | in subparagraph (D), by inserting “ or nuclear energy” after “a renewable energy source”. | the bill names no machine-readable US Code section |
+| `10 U.S.C. § 4061` | amend | by amending paragraph (1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 4061` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 4061` | strike | in subparagraph (J), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `10 U.S.C. § 4061` | replace | in subparagraph (K), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 4061` | add-at-end | by adding at the end the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 4061` | add-at-end | by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 4061` | redesignate | by redesignating subsections (f) and (g) as subsections (g) and (h), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 4061` | insert | by inserting after subsection (e) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 4061` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | by inserting “or Department of Defense laboratory” after “Center” each place it appears; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (2) as paragraph (3); | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (1) the following new paragraph: | the bill names no machine-readable US Code section |
+| — | redesignate | in paragraph (3)(B), as so redesignated, by adding “, or that can assist a Center or Department of Defense laboratory with technology transition, either out of, or into, the Center or laboratory” before the semicolon. | the bill names no machine-readable US Code section |
+| — | insert | in subsections (b) and (e), by inserting “or nuclear energy” after “renewable energy sources” each place it appears; | the bill names no machine-readable US Code section |
+| — | insert | in the heading, by inserting “and nuclear energy” after “renewable energy”; | the bill names no machine-readable US Code section |
+| — | insert | in paragraphs (1) and (2), by inserting “or nuclear energy” after “renewable energy sources” each place it appears; and | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (2), by inserting “and nuclear energy” after “the use of renewable energy”; and | the bill names no machine-readable US Code section |
+| — | insert | in subparagraph (C), by inserting “or nuclear energy” after “renewable energy source, other than solar energy,”; and | the bill names no machine-readable US Code section |
+| — | insert | in subparagraph (D), by inserting “or nuclear energy” after “a renewable energy source”. | the bill names no machine-readable US Code section |
 | — | replace | in the section heading, by striking “renewable forms of energy” and inserting “nuclear energy, renewable forms of energy,”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “solar energy or other renewable forms of energy” each place it appears and inserting “nuclear energy, or solar energy or other renewable forms of energy,”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b), by striking “a renewable form of energy” and inserting “such a form of energy”. | the bill names no machine-readable US Code section |
@@ -1312,7 +2065,10 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 453(c)(5) of title 37, United States Code, is amended by striking “baggage and household goods” and inserting “personal property”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 861 of title 10, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | replace | Section 510(a) of title 32, United States Code, is amended by striking “may” and inserting “shall”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 1 of title 32, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | replace | Section 12012(a) of title 10, United States Code, is amended by striking that part of the table pertaining to the Marine Corps Reserve and inserting the following: | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (e); and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (f) and (g) as subsections (g) and (h), respectively. | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (A), by inserting “and (C)” after “subparagraph (B)”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting a new subparagraph (C): | the bill names no machine-readable US Code section |
 | — | replace | by striking “he is selected for continuation on active duty by a selection board convened under section 611(b) of this title.” and inserting an em dash; and | the bill names no machine-readable US Code section |
@@ -1320,6 +2076,9 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “he is selected for continuation on active duty by a selection board convened under section 611(b) of this title.” and inserting an em dash; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subparagraphs: | the bill names no machine-readable US Code section |
 | `10 U.S.C. § 974` | insert | Chapter 49 of title 10, United States Code, is amended by inserting after section 974 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | in subparagraph (A), by striking “; and” and inserting a semicolon; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 7037(a) of title 10, United States Code, is amended by adding at the end the following: “The Judge Advocate General, while so serving, has the grade of lieutenant general. An officer appointed as Deputy Judge Advocate General who… | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 8046(a) of title 10, United States Code, is amended by adding at the end the following: “If the officer to be appointed as the Staff Judge Advocate to the Commandant of the Marine Corps holds a grade lower than the grade of lieut… | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 8088(b) of title 10, United States Code, is amended by adding at the end the following: “The Judge Advocate General, while so serving, has the grade of vice admiral or lieutenant general, as appropriate.”. | the bill names no machine-readable US Code section |
@@ -1332,6 +2091,11 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 9038(b) of such title is amended by striking paragraph (4) and inserting the following new paragraph: | the bill names no machine-readable US Code section |
 | — | replace | by striking “The Chief” and inserting “(a) Appointment.—The Chief”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 9 of title 32, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A), by striking “subparagraph (B)” and inserting “subparagraphs (B) and (C)”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | in subsection (c)(1), by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| — | strike | in subsection (d), by striking paragraph (4). | the bill names no machine-readable US Code section |
 | `10 U.S.C. § 20001` | redesignate | by redesignating subsection (k) as subsection (l); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 20001` | insert | by inserting after subsection (j) the following new subsection (k): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | in clause (ii), by striking “; and” and inserting a semicolon; | the bill names no machine-readable US Code section |
@@ -1340,6 +2104,11 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | by adding at the end the following new clause: | the bill names no machine-readable US Code section |
 | — | replace | Section 1559(a) of title 10, United States Code, is amended by striking “Before December 31, 2025” and inserting “During the period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2027 and… | the bill names no machine-readable US Code section |
 | `50 U.S.C. § 3802` | add-at-end | Section 3 of the Military Selective Service Act (50 U.S.C. 3802), as amended by section 535 of the National Defense Authorization Act for Fiscal Year 2026 (Public Law 119–60), is further amended by adding at the end the following new sub… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1101` | add-at-end | Section 504 of title 10, United States Code, is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1101` | replace | in paragraph (3), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `8 U.S.C. § 1101` | redesignate | by redesignating paragraph (4) as paragraph (5); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1101` | insert | by inserting after paragraph (3) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 978` | insert | Chapter 49 of title 10, United States Code, is amended by inserting after section 978 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | redesignate | by redesignating subsection (d) as subsection (e); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting, after subsection (c), the following new subsection (d): | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 102 of title 10, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
@@ -1363,12 +2132,26 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 7461(e) of title 10, United States Code, is amended by striking “72 hours” each place it appears and inserting “five days”. | the bill names no machine-readable US Code section |
 | — | replace | Section 8480(e) of title 10, United States Code, is amended by striking “72 hours” each place it appears and inserting “five days”. | the bill names no machine-readable US Code section |
 | — | replace | Section 9461(e) of title 10, United States Code, is amended by striking “72 hours” each place it appears and inserting “five days”. | the bill names no machine-readable US Code section |
+| — | insert | in the heading, by inserting “and institution fees” after “tuition”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a), by striking “tuition or expenses” and inserting “tuition, expenses, or institution fees”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (c), by striking “tuition or expenses” each place it appears and inserting “tuition, expenses, or institution fees”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 2007 of title 10, United States Code, is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| `50 U.S.C. § 3901` | redesignate | by redesignating subparagraphs (D) and (E) as subparagraphs (E) and (F), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3901` | insert | by inserting after subparagraph (C) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3901` | redesignate | by redesignating subsection (d) through (f) as subsections (e) through (g), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3901` | insert | by inserting after subsection (c) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Section 2113 of title 10, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 2127 of title 10, United States Code, is amended by adding at the end the following new subsections: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraph (7) as paragraph (8); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (6) the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 108 of title 10, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | strike | Section 8545 of title 10, United States Code, is amended by striking subsection (d). | the bill names no machine-readable US Code section |
+| — | replace | in section 9431(b)(2), by striking “Dean of the Faculty” and inserting “Provost and Dean of the Faculty”; and | the bill names no machine-readable US Code section |
+| — | insert | in the heading, by inserting “Provost and” before “Dean”; | the bill names no machine-readable US Code section |
+| — | replace | in the first sentence, by striking “Dean of the Faculty” and inserting “Provost and Dean of the Faculty”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “the Dean” each place it appears in the second and third sentences and inserting “the Provost and Dean”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b), by striking “Dean of the Faculty” and inserting “Provost and Dean of the Faculty”. | the bill names no machine-readable US Code section |
+| `10 U.S.C. § 2165` | insert | Chapter 108 of title 10, United States Code, is amended by inserting after section 2165 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Section 806(a)(1)(B) of title 10, United States Code (article 6(a)(1)(B) of the Uniform Code of Military Justice), is amended by striking “license status that provides current eligibility to actively practice law before such court” and i… | the bill names no machine-readable US Code section |
 | — | replace | in the matter preceding subparagraph (A), by striking “paragraph (5)” and inserting “paragraphs (4) and (6)”; and | the bill names no machine-readable US Code section |
 | — | insert | in subparagraph (C), by inserting “or pretrial agreement” after “plea agreement”; | the bill names no machine-readable US Code section |
@@ -1417,6 +2200,7 @@ complete account of the bill's effect, which it is not.
 | `10 U.S.C. § 1791` | insert | by inserting after subsection (a) the following new subsection (b): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 1791` | redesignate | by redesignating subsections (c), (d), and (e) as subsections (d), (e), and (f), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 1791` | insert | by inserting after subsection (b) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 2164d` | insert | Chapter 108 of title 10, United States Code, is amended by inserting after section 2164d the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 101` | insert | by inserting “(1)” before “Under regulations”; and | the bill quotes the text inserted but describes where it goes |
 | `10 U.S.C. § 101` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 101` | strike | Section 626 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 10 U.S.C. 101 note) is amended by striking subsection (c). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1424,6 +2208,26 @@ complete account of the bill's effect, which it is not.
 | `10 U.S.C. § 1134a` | insert | Chapter 57 of title 10, United States Code, is amended by inserting after section 1134a the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | strike | Section 592 of the National Defense Authorization Act for Fiscal Year 2026 (Public Law 119–60) is amended, in the section heading, by striking the third word. | the bill names no machine-readable US Code section |
 | — | strike | Section 2564a of title 10, United States Code, is amended, in subsection (a)(1)(B), in the matter preceding clause (i), by striking “, during the one-year period following the veteran's date of separation,”. | the bill names no machine-readable US Code section |
+| `42 U.S.C. § 2000bb-1` | redesignate | by redesignating paragraphs (2) and (3) as paragraphs (5) and (6), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 2000bb-1` | insert | by inserting after paragraph (1) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 2000bb-1` | redesignate | by redesignating subsection (b) as subsection (f); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 2000bb-1` | insert | by inserting after subsection (a) the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 2000bb-1` | redesignate | by redesignating subsection (g) as subsection (h); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 2000bb-1` | insert | by inserting after subsection (f) the following new subsection (g): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 2000bb-1` | amend | Section 7217 of title 10, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 2000bb-1` | add-at-end | Section 8082 of title 10, United States Code, is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 2000bb-1` | amend | Section 8082a of title 10, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 2000bb-1` | amend | Section 8221 of title 10, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 2000bb-1` | add-at-end | Section 9039 of title 10, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 9039` | insert | Chapter 905 of title 10, United States Code, is amended by inserting after section 9039 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 2000bb-1` | redesignate | by redesignating paragraphs (7), (8), and (9) as paragraphs (8), (9), and (10), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 2000bb-1` | insert | by inserting after paragraph (6) the following new paragraph (7): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 2000bb-1` | amend | Section 9217 of title 10, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Section 101(b) of title 10, United States Code, is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| `10 U.S.C. § 1030` | strike | in the section heading, by striking “and chaplains of such members”; | the bill quotes the text struck but describes what replaces it |
+| `10 U.S.C. § 1030` | strike | by striking subsection (b); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 1030` | redesignate | by redesignating subsection (c) as subsection (b). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 1030` | amend | Section 9063(h) of title 10, United States Code, is amended by adding “in accordance with section 9217(a)” after “Secretary”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Section 910(g) of title 37, United States Code, relating to income replacement payments for reserve component members experiencing extended and frequent mobilization for active duty service, is amended by striking “December 31, 2026” and… | the bill names no machine-readable US Code section |
 | — | replace | The following sections of title 10, United States Code, are amended by striking “December 31, 2026” and inserting “December 31, 2027”: | the bill names no machine-readable US Code section |
 | — | replace | Section 333(i) of title 37, United States Code, is amended by striking “December 31, 2026” and inserting “December 31, 2027”. | the bill names no machine-readable US Code section |
@@ -1445,6 +2249,9 @@ complete account of the bill's effect, which it is not.
 | — | strike | Section 2103a(a) of title 10, United States Code is amended in the matter preceding paragraph (1) by striking “who has completed successfully the first year of a four-year Senior Reserve Officers’ Training Corps course and”. | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b), by striking “$5,000” and inserting “$15,000”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (c)(1), by striking “field training or a practice cruise under section 2104(b)(6)(A)(ii) of title 10” and inserting “training requirements prescribed by the Secretary concerned”. | the bill names no machine-readable US Code section |
+| — | insert | Subchapter I of Chapter 5 of title 37, United States Code, is amended by inserting, after section 301e, the following new section: | the bill names no machine-readable US Code section |
+| `37 U.S.C. § 357` | strike | by striking paragraph (2); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `37 U.S.C. § 357` | redesignate | by redesignating subparagraphs (A) and (B) as paragraphs (1) and (2), respectively, and conforming the margins accordingly. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | strike | by striking “in” and all that follows through “portion of”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “that the Secretary concerned elects to exclude” and inserting “paid to such member”. | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (D), by striking “Subject to subparagraph (E), an” and inserting “An”; and | the bill names no machine-readable US Code section |
@@ -1455,6 +2262,8 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating subsection (i) as subsection (j); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (h) the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 453 of title 37, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (i) as subsection (j); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (h) the following new subsection: | the bill names no machine-readable US Code section |
 | — | replace | Section 701(a) of title 10, United States Code, is amended by striking “2½ calendar days” and inserting “3½ calendar days”. | the bill names no machine-readable US Code section |
 | — | strike | by striking subsections (b), (e), and (g); | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (c), (d), (f), (h), (i), (j), (k), (l), and (m) as subsections (b) through (j), respectively; | the bill names no machine-readable US Code section |
@@ -1463,17 +2272,29 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 702(c) of title 10, United States Code, is amended by striking “section 701(m)” and inserting “section 701(j)”. | the bill names no machine-readable US Code section |
 | — | repeal | Section 2508 of title 14, United States Code, is repealed. | the bill names no machine-readable US Code section |
 | — | strike | The table of sections at the beginning of chapter 25 of title 14, United States Code, is amended by striking the item relating to section 2508. | the bill names no machine-readable US Code section |
-| — | strike | in subsection (b), by striking paragraph (6); and | the bill names no machine-readable US Code section |
-| — | replace | in subsection (h), by striking “section 701(f)” and inserting “section 701(d)”. | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (5), by striking “and in subsection (f)”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking paragraph (6); | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1), by striking “subsections (b) and (g)” each place it appears and inserting “subsections (b) and (f)”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph(2), by striking “subsection (b)(3), subsection (f), and the second sentence of subsection (g)” and inserting “subsection (b)(3)”; | the bill names no machine-readable US Code section |
+| — | strike | by striking subsection (f); | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (g) and (h) as subsections (f) and (g), respectively; and | the bill names no machine-readable US Code section |
+| — | redesignate | in subsection (f) (as so redesignated), by striking the second sentence. | the bill names no machine-readable US Code section |
 | — | strike | Section 502(b) of title 37, United States Code, is amended by striking “and section 701(g) of title 10”. | the bill names no machine-readable US Code section |
 | — | replace | by striking “the death of an immediate family member.” and inserting an em dash; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new clauses: | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (1), by striking “a period of”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking “a period of”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting “one” before “round-trip”. | the bill names no machine-readable US Code section |
 | — | insert | Subchapter II of chapter 73 of title 10, United States Code, is amended by inserting, after section 1448a, the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1452(a)(1) of such title is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | replace | Section 1478(a) of title 10, United States Code, is amended by striking “$100,000” and inserting “$165,000”. | the bill names no machine-readable US Code section |
 | — | insert | Section 1478 of title 10, United States Code, as amended by subsection (a) of this section, is further amended by inserting after subsection (b) the following new subsection: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1066(a) of title 10, United States Code, is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 2485 of title 10, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 2484 of title 10, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (D), by striking “; and” and inserting a semicolon; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraph (E) as subparagraph (F); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subparagraph (D) the following new subparagraph (E): | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 710 of title 10, United States Code, is amended, in subsection (a), by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | insert | Such section is further amended, in subsection (b)(1), by inserting “and the minimum period shall be one month” after “may not exceed three years”. | the bill names no machine-readable US Code section |
 | `7 U.S.C. § 2012` | replace | in clause (v), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
@@ -1482,6 +2303,18 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating paragraphs (1), (2), and (3) as subparagraphs (A), (B), and (C), respectively, and adjusting the margins accordingly; | the bill names no machine-readable US Code section |
 | — | insert | by inserting “(1)” before “Subject to”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| `33 U.S.C. § 3041` | insert | by inserting “, subtitle C of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 (33 U.S.C. 3041 et seq.), and section 229 of the Social Security Act (42 U.S.C. 429)” after “Public Law 96–402”. | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 3041` | replace | by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `33 U.S.C. § 3041` | replace | in paragraph (3), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3041` | add-at-end | by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3041` | add-at-end | in subsection (a), by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3041` | insert | in paragraph (2), by inserting “, the Department of Health and Human Services Retirement Pay account for Commissioned officers, and the Department of Commerce NOAA Corps Retirement Pay account for Commissioned officers” after “Coast Guar… | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 3041` | strike | in paragraph (3), by striking “Department of Defense and Coast Guard”; | the bill quotes the text struck but describes what replaces it |
+| `33 U.S.C. § 3041` | insert | in paragraph (1)(B), by inserting “, the commissioned corps of the National Oceanic and Atmospheric Administration, or the Commissioned Corps of the Public Health Service” after “Coast Guard”; and | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 3071` | redesignate | by redesignating paragraphs (21) through (27) as paragraphs (22) through (28), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3071` | insert | by inserting, after paragraph (20), the following new paragraph (21): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 213a` | redesignate | by redesignating paragraphs (6) through (21) as paragraphs (7) through (22), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 213a` | insert | by inserting, after paragraph (5), the following new paragraph (6): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | in paragraph (1), by striking “A dental insurance plan” and inserting “Except as provided by paragraph (5), a dental insurance plan”; | the bill names no machine-readable US Code section |
 | — | insert | in paragraph (2), in the header, by inserting “individual ready” after “other”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
@@ -1496,6 +2329,13 @@ complete account of the bill's effect, which it is not.
 | `10 U.S.C. § 1074o` | add-at-end | Section 1079(a) of title 10, United States Code, is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | in paragraph (1)(A), by striking “a notification of” and inserting “a notification under paragraph (2) and a report under paragraph (3) regarding”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| `10 U.S.C. § 1076f` | insert | Chapter 55 of title 10, United States Code, is amended by inserting after section 1076f the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 1076f` | add-at-end | In section 1077(b), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 1076f` | strike | In section 1079(a)(20), by striking “that could result in sterilization”. | the bill quotes the text struck but describes what replaces it |
+| — | add-at-end | Section 1079(a) of title 10, United States Code, as amended by section 703, is further amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | replace | Section 1079(a)(1)(B) of title 10, United States Code, is amended by striking “or for pediatric patients age 5 or under, only institutional and anesthesia services may be provided” and inserting “or for pediatric patients age 5 or under,… | the bill names no machine-readable US Code section |
+| — | replace | by striking “Except as” and inserting “(A) Except as”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (H), by striking “; and” and inserting a semicolon; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraph (I) as subparagraph (J); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subparagraph (H) the following new subparagraph (I): | the bill names no machine-readable US Code section |
@@ -1550,13 +2390,15 @@ complete account of the bill's effect, which it is not.
 | — | insert | Chapter 55 of title 10, United States Code, is amended by inserting after section 1097d the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1095f(a)(2) of title 10, United States Code, is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | `42 U.S.C. § 1395l` | insert | in paragraph (1), by inserting “and paragraph (3)(A)” after “Subject to paragraph (2)”; and | the bill quotes the text inserted but describes where it goes |
-| `42 U.S.C. § 1395l` | replace | in paragraph (3), by striking “In establishing” and inserting the following | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 1395l` | replace | in paragraph (3), by striking “In establishing” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | — | insert | in the heading, by inserting “plans and” before “reports”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsections (a) and (b) as subsections (b) and (c), respectively; and | the bill names no machine-readable US Code section |
 | — | redesignate | by inserting before subsection (b), as so redesignated, the following new subsection: | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (B), by striking “; and” and inserting a semicolon; | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (C), by striking the period and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
+| `10 U.S.C. § 1073a` | redesignate | by redesignating subsection (b) as subsection (c); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 1073a` | insert | by inserting after subsection (a) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | redesignate | by redesignating subsection (k) as subsection (l); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (j) the following new subsection: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (e) as subsection (f); and | the bill names no machine-readable US Code section |
@@ -1578,6 +2420,12 @@ complete account of the bill's effect, which it is not.
 | `10 U.S.C. § 1071` | insert | by inserting after subsection (a) the following new subsection (b): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 1071` | redesignate | by redesignating subparagraphs (I) through (M) as subparagraphs (J) through (N), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 1071` | insert | by inserting after subparagraph (H) the following new subparagraph (I): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 1071` | insert | in subsection (a), by inserting “or covered drugs” after “infectious diseases”; | the bill quotes the text inserted but describes where it goes |
+| `10 U.S.C. § 1071` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 1074` | redesignate | by redesignating subsection (e) as subsection (f); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 1074` | insert | by inserting after subsection (d) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | by striking “The Secretary” and inserting “(A) The Secretary”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking “Such data” and all that follows and inserting the following new subparagraph: | the bill names no machine-readable US Code section |
 | `10 U.S.C. § 3105` | insert | Chapter 205 of title 10, United States Code, is amended by inserting after section 3105 the following new sections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 3243` | insert | Chapter 223 of title 10, United States Code, is amended by inserting after section 3243 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `41 U.S.C. § 4714` | insert | Chapter 47 of title 41, United States Code, is amended by inserting after section 4714 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1700,6 +2548,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in each of subsections (a) and (b), as so redesignated, by striking “30 days after the date of the enactment of this Act” and inserting “30 days after the date on which the Secretary awards a contract for financial management services fo… | the bill names no machine-readable US Code section |
 | `10 U.S.C. § 4811` | redesignate | by redesignating paragraph (3) as paragraph (4); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 4811` | insert | by inserting after paragraph (2) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 4862` | strike | Section 842 of the Servicemember Quality of Life Improvement and National Defense Authorization Act for Fiscal Year 2025 (Public Law 118–159; 10 U.S.C. 4862 note) is amended by striking subsection (c). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | strike | in paragraph (10), by striking “and” at the end; | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (11), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
@@ -1755,10 +2604,13 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “The President may” and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | insert | Section 916(a) of the National Defense Authorization Act for Fiscal Year 2026 (Public Law 119–60; 139 Stat. 1022) is amended by inserting “or fiscal year 2027” after “fiscal year 2026”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 181(d) of title 10, United States Code, is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | replace | Section 152(b)(1)(B) of title 10, United States Code, as amended by section 902 of this title, is further amended by striking “or the Commandant of the Coast Guard” and inserting “the Commandant of the Coast Guard, or the Chief of the Na… | the bill names no machine-readable US Code section |
 | `10 U.S.C. § 234` | insert | Chapter 9 of title 10, United States Code, is amended by inserting after section 234 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | redesignate | by redesignating subsections (b) through (f) as subsections (c) through (g), respectively; | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (a) the following new subsection (b): | the bill names no machine-readable US Code section |
 | — | redesignate | in subsection (e), as so redesignated, by inserting “, and shall establish, review, and update the equivalency standards under subsection (b),” after “standards under subsection (a)”. | the bill names no machine-readable US Code section |
+| `10 U.S.C. § 240a` | insert | Section 1005 of the National Defense Authorization Act for Fiscal Year 2024 (Public Law 118–31; 137 Stat. 379; 10 U.S.C. 240a note) is amended by inserting “and for three consecutive fiscal years thereafter” after “2028”. | the bill quotes the text inserted but describes where it goes |
 | `10 U.S.C. § 8661` | insert | in subparagraph (B), by inserting “(other than an excluded vessel)” after “a used vessel”. | the bill quotes the text inserted but describes where it goes |
 | `10 U.S.C. § 8661` | add-at-end | Subsection (k) of such section is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 8661` | amend | Subparagraph (C) of paragraph (3) of subsection (f) of such section is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1779,6 +2631,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 1034(a) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 132 Stat. 1954) is amended by striking “December 31, 2026” and inserting “December 31, 2027”. | the bill names no machine-readable US Code section |
 | — | replace | Section 1035 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 132 Stat. 1954) is amended by striking “December 31, 2026” and inserting “December 31, 2027”. | the bill names no machine-readable US Code section |
 | — | replace | Section 1036 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 131 Stat. 1551) is amended by striking “fiscal years 2018 through 2026” and inserting “fiscal years 2018 through 2027”. | the bill names no machine-readable US Code section |
+| `10 U.S.C. § 801` | insert | Section 1021(b) of the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81; 10 U.S.C. 801 note) is amended, in the matter preceding paragraph (1), by inserting “, other than a citizen of the United States,” after “… | the bill quotes the text inserted but describes where it goes |
 | — | add-at-end | Chapter 4 of title 10, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 2566(b)(1) of title 10, United States Code, is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 1033(b)(2) of title 10, United States Code, is amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
@@ -1796,6 +2649,10 @@ complete account of the bill's effect, which it is not.
 | `10 U.S.C. § 2661` | insert | by inserting after subparagraph (G) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | in subsection (a)(1), by striking “two-year” and inserting “five-year”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b)(1), by striking “one-year” and inserting “three-year”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 101 of title 10, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 803 of title 10, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1), by striking “A military animal” and inserting, “Except as provided in paragraph (3), a military animal”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | `10 U.S.C. § 2701` | strike | Section 185 of title 10, United States Code, is amended by striking subsection (l). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 2701` | strike | Section 403(p)(2) of title 37, United States Code, is amended by striking subparagraph (C). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 2701` | strike | The National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92) is amended by striking section 1656. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1818,7 +2675,7 @@ complete account of the bill's effect, which it is not.
 | `10 U.S.C. § 2701` | strike | The National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92) is amended by striking section 1260K. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 2701` | strike | The National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92) is amended by striking section 1274. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 2701` | strike | The National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92) is amended by striking section 1275. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `10 U.S.C. § 2701` | strike | The National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92) is amended by striking section 1280 | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 2701` | strike | The National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92) is amended by striking section 1280. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 2701` | strike | The National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92) is amended by striking section 1644. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 2701` | strike | The National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92) is amended by striking section 1673. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 2701` | strike | The National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92) is amended by striking section 1674. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1847,6 +2704,11 @@ complete account of the bill's effect, which it is not.
 | `10 U.S.C. § 2701` | strike | by striking subsection (c); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 2701` | redesignate | by redesignating subsections (d) and (e) as subsections (c) and (d), respectively. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Section 1070 of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (Public Law 117–263; 136 Stat. 2791), as most recently amended by section 1064 of the National Defense Authorization Act for Fiscal Year 2026 (Pu… | the bill names no machine-readable US Code section |
+| `10 U.S.C. § 149` | add-at-end | Section 1092 of the National Defense Authorization Act for Fiscal Year 2025 (Public Law 118–159; 10 U.S.C. 149 note) is amended by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | Chapter 807 of title 10, United States Code, is amended by inserting at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | The table of contents for chapter 807 of such title is amended by inserting at the end the following new items: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraph (F) as subparagraph (G); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subparagraph (E) the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 1 of title 10, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | replace | Section 167(k)(6) of title 10, United States Code, is amended by striking “Military information support operations” and inserting “Psychological and cognitive warfare”. | the bill names no machine-readable US Code section |
 | — | insert | Section 199(h)(1) of title 10, United States Code, is amended by inserting “detecting, identifying, monitoring, tracking,” after “lawfully and safely”. | the bill names no machine-readable US Code section |
@@ -1856,6 +2718,8 @@ complete account of the bill's effect, which it is not.
 | `32 U.S.C. § 329` | insert | Chapter 3 of title 32, United States Code, is amended by inserting after section 329 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 127d` | redesignate | by redesignating subsection (c) as subsection (d); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 127d` | insert | by inserting after subsection (b) the following new subsection (c): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 2672` | add-at-end | Chapter 53 of title 10, United States Code, is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 2672` | repeal | Section 526 of the National Defense Authorization Act for Fiscal Year 2016 (Public Law 114–92; 10 U.S.C. 2672 note) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Section 131 of title 10, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 81 of title 10, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of sections at the beginning of such chapter is amended by adding at the end the following new item: | the bill names no machine-readable US Code section |
@@ -1873,9 +2737,14 @@ complete account of the bill's effect, which it is not.
 | — | strike | by striking subsection (d) (relating to sunset date 3 years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2026); and | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (c) (relating to sunset date of January 1, 2034) at the end as subsection (d). | the bill names no machine-readable US Code section |
 | — | strike | Section 1587(d) of title 10, United States Code, is amended by striking the second sentence. | the bill names no machine-readable US Code section |
+| `10 U.S.C. § 1580` | add-at-end | Chapter 81 of title 10, United States Code, is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 1580` | add-at-end | The table of sections at the beginning of such chapter is amended by adding at the end the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 1580` | repeal | Section 1125 of the National Defense Authorization Act for Fiscal Year 2017 (10 U.S.C. 1580 note prec.) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 414(h) of title 39, United States Code, is amended by striking “2027” and inserting “2037”. | the bill names no machine-readable US Code section |
 | — | replace | Section 127d(a) of title 10, United States Code, is amended by striking “$20,000,000” and inserting “$50,000,000”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 333(a) of title 10, United States Code, is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | `10 U.S.C. § 352` | insert | Chapter 16 of title 10, United States Code, is amended by inserting after section 352 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 345(d) of title 10, United States Code, is amended by striking “$35,000,000” and inserting “$50,000,000”. | the bill names no machine-readable US Code section |
 | — | replace | Section 1233(a) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 393) is amended by striking “beginning on October 1, 2025, and ending on December 31, 2026” and inserting “beginning on October… | the bill names no machine-readable US Code section |
 | — | replace | Section 1233(d)(1) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 393) is amended by striking “beginning on October 1, 2025, and ending on December 31, 2026” and inserting “beginning on Octo… | the bill names no machine-readable US Code section |
 | — | replace | Section 1094(e)(2)(A)(ii)(I) of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 135 Stat. 1941) is amended by striking “3 years” and inserting “4 years”. | the bill names no machine-readable US Code section |
@@ -1915,12 +2784,24 @@ complete account of the bill's effect, which it is not.
 | `10 U.S.C. § 113` | insert | by inserting after paragraph (13) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Subsection (d) of section 1323 of the Servicemember Quality of Life Improvement and National Defense Authorization Act for Fiscal Year 2025 (Public Law 118–159) is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | Section 1268 of the National Defense Authorization Act for Fiscal Year 2026 (Public Law 119–60) is amended by striking “Amounts authorized to be appropriated by this Act may not be obligated or expended” and inserting “None of the amount… | the bill names no machine-readable US Code section |
+| `10 U.S.C. § 4333` | redesignate | by redesignating paragraph (2) as paragraph (3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 4333` | insert | by inserting after paragraph (1) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 10431` | strike | by striking “, and transfer not more than one additional Virginia Class submarine to the Government of Australia on a sale basis”. | the bill quotes the text struck but describes what replaces it |
+| — | replace | by striking “fiscal year 2027, the Secretary of State and the Secretary of Defense, in coordination with the Director of National Intelligence and the heads of other relevant Federal departments and agencies, shall jointly” and inserting… | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “ability of Taiwan” and inserting “readiness of the Taiwan military”; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (16) as paragraph (19); and | the bill names no machine-readable US Code section |
+| — | amend | by adding after paragraph (15) the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “; and” and inserting a semicolon; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | `10 U.S.C. § 321` | repeal | Section 1209 of the National Defense Authorization Act for Fiscal Year 2025 (Public Law 118–159; 10 U.S.C. 321 note) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Section 53202(a)(2) of title 46, United States Code, is amended by striking “two” and inserting “not less than 6”. | the bill names no machine-readable US Code section |
 | — | replace | Section 53209 of title 46, United States Code, is amended by striking “$10,000,000 for each of the fiscal years 2021 through 2035” and inserting “$30,000,000 for each of the fiscal years 2027 through 2040”. | the bill names no machine-readable US Code section |
 | — | replace | Section 1704(e) of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2573), as most recently amended by section 1421(a) of the National Defense Authorization Act for Fiscal Year 2025 (Public Law 11… | the bill names no machine-readable US Code section |
 | `10 U.S.C. § 391b` | insert | Chapter 19 of title 10, United States Code, is amended by inserting after section 391b the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 2224a` | insert | Chapter 131 of title 10, United States Code, is amended by inserting after section 2224a the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 113` | amend | in subsection (c), by amending paragraph (2) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `10 U.S.C. § 113` | add-at-end | in subsection (e), by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 2220` | insert | Chapter 131 of title 10, United States Code, is amended by inserting after section 2220 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 2224` | amend | by amending paragraph (2) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 2271` | repeal | Section 9087 of title 10, United States Code, is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -1949,6 +2830,16 @@ complete account of the bill's effect, which it is not.
 | — | strike | Section 7377(b)(2) of title 10, United States Code, is amended by striking “during the four-year period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2025,”. | the bill names no machine-readable US Code section |
 | `10 U.S.C. § 426` | insert | Chapter 21 of title 10, United States Code, is amended by inserting after section 426 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Subchapter I of chapter 21 of title 10, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| `6 U.S.C. § 121` | add-at-end | Subtitle A of title II of the Homeland Security Act of 2002 (6 U.S.C. 121 et seq.) is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 121` | insert | The table of contents at the beginning of such Act is amended by inserting after the item relating to section 210G the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3121` | insert | by inserting after “United States,” the following: “or that the United States is taking affirmative measures to conceal such individual’s service in a sensitive unit or participation in a Department of Defense sensitive activity,”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3121` | insert | by inserting after “United States,” the following: “or that the United States is taking affirmative measures to conceal such protected defense individual’s service in a sensitive unit or participation in a Department of Defense sensitive… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3121` | insert | by inserting after “to the United States,” the following: “or that the United States is taking affirmative measures to conceal such individual’s service in a sensitive unit or participation in a Department of Defense sensitive activity,”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3122` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3122` | insert | in subsection (b), by inserting “or protected defense individuals” after “covert agents”; and | the bill quotes the text inserted but describes where it goes |
+| `50 U.S.C. § 3122` | insert | in subsection (d), by inserting after “to disclose information that solely identifies himself as a covert agent” the following: “or as an individual who, in the course of serving in the Armed Forces or being employed by the Department of… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3126` | add-at-end | Section 605 of such Act (50 U.S.C. 3126) is amended by adding at the end the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 3121` | add-at-end | Section 601 of the National Security Act of 1947 (50 U.S.C. 3121) is amended in the heading by adding at the end the following: “, and certain other individuals” (and by conforming the table of contents at the beginning of such Act accor… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | add-at-end | Chapter 24 of title 10, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 2244a(b) of title 10, United States Code, is amended by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 9068 of title 10, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
@@ -1958,6 +2849,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “10-year period following the date of the report” and inserting “period covered by the future-years defense program submitted to Congress under section 221 of this title”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “such 10-year period” and inserting “such period”. | the bill names no machine-readable US Code section |
 | — | insert | Section 491(c) of title 10, United States Code, is amended by inserting “, or a similar evaluation,” after “made pursuant to a Nuclear Posture Review Implementation Study”. | the bill names no machine-readable US Code section |
+| — | replace | Section 499(e) of title 10, United States Code, is amended by striking “December 31, 2032” and inserting “December 31, 2035”. | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 5502 of title 10, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
 | — | replace | in subparagraph (A), by striking “the date of the enactment of this subsection” and inserting “December 27, 2021,”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “the date of the enactment of this subsection” and inserting “December 27, 2021”; and | the bill names no machine-readable US Code section |
@@ -2000,8 +2892,7 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 1504` | insert | in subparagraph (B), in the matter preceding clause (i), by inserting “and, as appropriate, updated,” after “developed”; | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 1504` | insert | in paragraph (2)(B), by inserting “, and, as appropriate, update,” after “review”; and | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 1504` | insert | in paragraph (3), in the matter preceding subparagraph (A), by inserting “and, as appropriate, updated,” after “required”; and | the bill quotes the text inserted but describes where it goes |
-| `6 U.S.C. § 1504` | insert | in paragraph (1)(D), by inserting “, including if such capability and process employs artificial intelligence” before the semicolon; and | the bill quotes the text inserted but describes where it goes |
-| `6 U.S.C. § 1504` | add-at-end | in paragraph (2), by adding at the end the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `6 U.S.C. § 1504` | insert | in subsection (c)(1)(D), by inserting “, including if such capability and process employs artificial intelligence” before the semicolon; and | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 1504` | strike | in clause (iv), by striking “or” after the semicolon; | the bill quotes the text struck but describes what replaces it |
 | `6 U.S.C. § 1504` | replace | in clause (v)(III), by striking the period and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 1504` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -2024,6 +2915,8 @@ complete account of the bill's effect, which it is not.
 | `6 U.S.C. § 650` | insert | in subparagraph (F), by inserting “or compromised” after “exfiltrated”; | the bill quotes the text inserted but describes where it goes |
 | `6 U.S.C. § 1503` | amend | in paragraph (14), by amending subparagraph (B) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `6 U.S.C. § 650` | insert | in paragraph (25), by inserting “or compromise” after “defeat”. | the bill quotes the text inserted but describes where it goes |
+| — | add-at-end | Section 1903 of title 41, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | insert | Subsection (b) of such section is amended by inserting “or (d)” after “subsection (a)”. | the bill names no machine-readable US Code section |
 | — | redesignate | By redesignating the second section 130g (relating to notification requirements for waivers issued under Department of Defense guidance related to autonomy in weapon systems) as section 130h. | the bill names no machine-readable US Code section |
 | — | replace | In section 130i(m)(4), by striking “covered facility or asset—” and inserting “covered facility or asset—”. | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (3)(C), by striking “section 6218” and inserting “section 6128”; and | the bill names no machine-readable US Code section |
@@ -2064,9 +2957,20 @@ complete account of the bill's effect, which it is not.
 | — | replace | In section 453(g)(5)(A), by striking “a the” and inserting “the”. | the bill names no machine-readable US Code section |
 | — | replace | In section 501(g), by striking “Reserve Corps of the Public Health Service” and inserting “Ready Reserve Corps of the Public Health Service”. | the bill names no machine-readable US Code section |
 | — | replace | In section 503(b), by striking “Reserve Corps of the Public Health Service” and inserting “Ready Reserve Corps of the Public Health Service”. | the bill names no machine-readable US Code section |
-| — | replace | In section 907(d)(1)(K), by striking “section section” and inserting “section” | the bill names no machine-readable US Code section |
+| — | replace | In section 907(d)(1)(K), by striking “section section” and inserting “section”. | the bill names no machine-readable US Code section |
 | — | replace | In section 908(a)(3), by striking “Commissioned Reserve Corps of the Public Health Service” and inserting “Ready Reserve Corps of the Public Health Service”. | the bill names no machine-readable US Code section |
 | — | replace | In section 1011, in the section heading, by striking “operation” and inserting “operations”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 4001 of title 10, United States Code, is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | replace | by striking “The Secretary of Defense” and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a), as designated by paragraph (1), in the second sentence, by striking “Technology may” and inserting the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| `22 U.S.C. § 2778` | insert | Section 38(l)(4)(B) of the Arms Export Control Act (22 U.S.C. 2778(l)(4)(B)) is amended by inserting before the semicolon “, excluding subclauses (I), (II), and (III)”. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | redesignate | by redesignating paragraphs (5) through (12), as paragraphs (6) through (13), respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (4) the following: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b)(1) by striking “A railroad” and inserting “Expect as required in subsection (d), a railroad”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (c)(3)(B) by striking “Association of American Railroad’s Umler system” and inserting “Association of American Railroads’ Umler system”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | strike | The table of contents in section 2 of such Act is amended by striking the items relating to subtitle C of title XVIII. | the bill names no machine-readable US Code section |
 | `50 U.S.C. § 4552` | amend | by amending paragraph (1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `50 U.S.C. § 4552` | insert | in subparagraph (A), by inserting “, including the conclusions of the risk assessment upon which this determination was made” after “supply chain risk”; and | the bill quotes the text inserted but describes where it goes |
 | `50 U.S.C. § 4552` | amend | by amending paragraph (3) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -2135,7 +3039,7 @@ complete account of the bill's effect, which it is not.
 | `10 U.S.C. § 3241` | strike | in subparagraph (C), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `10 U.S.C. § 3241` | replace | in subparagraph (D)(iii), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `10 U.S.C. § 3241` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `50 U.S.C. § 4501` | repeal | Section 849 of the National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 98h-3` | repeal | Section 849 of the National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283) is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | amend | by amending subparagraph (L) to read as follows: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 4817(g)(1) of title 10, United States Code, as amended by section 1831, is further amended by adding at the end the following new subparagraph: | the bill names no machine-readable US Code section |
@@ -2174,6 +3078,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | in subparagraph (B), by striking “; and” and inserting a semicolon; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subparagraph (C) as subparagraph (D); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subparagraph (B) the following new subparagraph: | the bill names no machine-readable US Code section |
+| `15 U.S.C. § 632` | add-at-end | Chapter 367 of title 10, United States Code, is amended by adding at the end the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | in subsection (a), by striking “and may retain” and inserting “and may, except as provided in subsection (f), retain”; | the bill names no machine-readable US Code section |
 | — | replace | in subsection (b), by striking “The Secretary concerned” and inserting “Except as provided in subsection (f), the Secretary concerned”; | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (f) as subsection (g); and | the bill names no machine-readable US Code section |
@@ -2189,6 +3094,9 @@ complete account of the bill's effect, which it is not.
 | — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (g) to read as follows: | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (k) the following new subsection: | the bill names no machine-readable US Code section |
+| — | replace | The authorization table in section 2604 of the Military Construction Authorization Act for Fiscal Year 2022 (division B of Public Law 117–81; 135 Stat. 2179) is amended in the item relating to Sumpter Smith Air National Guard Base, Alaba… | the bill names no machine-readable US Code section |
+| — | replace | by striking the dollar amount and inserting “$15,000,000”; and | the bill names no machine-readable US Code section |
+| — | strike | by striking “security and”. | the bill names no machine-readable US Code section |
 | — | replace | in subsection (d), by striking “The construction agent” and all that follows through “to execute” and inserting “The head of the contracting activity for the Department of Defense executing”; and | the bill names no machine-readable US Code section |
 | — | replace | in subsection (e), by striking “construction agent designated by the Department of Defense” and inserting “head of the contracting activity”. | the bill names no machine-readable US Code section |
 | `25 U.S.C. § 5304` | insert | in paragraph (1)(A), by inserting “ Indian tribes,” after “local governments,”; and | the bill quotes the text inserted but describes where it goes |
@@ -2239,8 +3147,14 @@ complete account of the bill's effect, which it is not.
 | — | redesignate | by redesignating subsection (c) as subsection (e); | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (b) the following new subsections: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (e), by striking “2026” and inserting “2031”. | the bill names no machine-readable US Code section |
+| — | amend | Section 307104 of title 54, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 2894a(a) of title 10, United States Code, is amended by adding at the end the following new sentence: “Upon entering into or renewing a lease for a housing unit, the landlord responsible for such unit shall provide a notice to th… | the bill names no machine-readable US Code section |
 | `10 U.S.C. § 2246` | insert | Subchapter I of chapter 134 of title 10, United States Code, is amended by inserting after section 2246 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `10 U.S.C. § 2802` | add-at-end | Section 2849(f) of the National Defense Authorization Act for Fiscal Year 2025 (Public Law 118–159; 10 U.S.C. 2802 note) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | Section 2661 of title 10, United States Code, is amended by inserting at the end the following new subsection: | the bill names no machine-readable US Code section |
+| `43 U.S.C. § 1701` | add-at-end | The Military Land Withdrawals Act of 2013 (title XXIX of Public Law 113–66; 127 Stat. 1025) is amended by adding at the end the following new subtitle: The Military Land Withdrawals Act of 2013 (title XXIX of Public Law 113–66; 127 Stat.… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | in subsection (b), by striking “The conveyances” and inserting “Except as provided in subsection (d), the conveyances”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking subsection (d) and inserting the following: | the bill names no machine-readable US Code section |
 | — | insert | Chapter 159 of title 10, United States Code, is amended by inserting before section 2674 the following new section: | the bill names no machine-readable US Code section |
 | — | replace | Section 2674(f)(1) of such title is amended by striking “means the” and all that follows and inserting the following: | the bill names no machine-readable US Code section |
 | `10 U.S.C. § 2851a` | insert | Subchapter III of chapter 169 of title 10, United States Code, is amended by inserting after section 2851a the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -2250,6 +3164,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | Section 6156(b)(2) of title 10, United States Code, is amended by striking “50 percent of the per-device cost” and inserting “100 percent of the cost”. | the bill names no machine-readable US Code section |
 | `10 U.S.C. § 6328` | insert | Chapter 608 of title 10, United States Code, is amended by inserting after section 6328 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | Section 3127(a)(1) of the National Defense Authorization Act for Fiscal Year 2024 (Public Law 118–31; 137 Stat. 794) is amended by striking “2034” and inserting “2032”. | the bill names no machine-readable US Code section |
+| `50 U.S.C. § 2401` | add-at-end | Section 3211(b) of the National Nuclear Security Administration Act (50 U.S.C. 2401(b)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | strike | in subsection (c)(9), by striking “summary or”; and | the bill names no machine-readable US Code section |
 | — | replace | in clause (i), by striking “subsection (d)(4)(A)(i)” and inserting “subsection (c)(4)(A)(i)”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “subsection (d)(4)” and inserting “subsection (c)(4)”; and | the bill names no machine-readable US Code section |
@@ -2319,20 +3234,41 @@ complete account of the bill's effect, which it is not.
 | `26 U.S.C. § 501` | add-at-end | The table of sections at the beginning of such chapter is amended by adding at the end the following new items: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 19221` | redesignate | by redesignating subsection (d) as subsection (e); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 19221` | insert | by inserting after subsection (c) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1802` | redesignate | by redesignating paragraphs (5) through (15) as paragraphs (6) through (16), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1802` | insert | in paragraph (3), by inserting “retrofitting, reconfiguration, or similar work, as well as” after “include”; | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 1802` | redesignate | by redesignating paragraphs (5), (6), and (7) as paragraphs (7), (8), and (10) respectively and redesignating paragraphs (8) through (15) as paragraphs (12) through (19) respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1802` | insert | by inserting after paragraph (4) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1802` | redesignate | in paragraph (14), as so redesignated, by inserting “used” before “fishing vessels”. | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 1802` | redesignate | by inserting after paragraph (8), as redesignated by paragraph (2), the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1802` | redesignate | by inserting after paragraph (10), as redesignated by paragraph (2), the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1802` | redesignate | in paragraph (15), as so redesignated, by inserting “used”" before “fishing vessels”. | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 1802` | insert | in paragraph (1) by inserting “used” before “fishing vessel”; and | the bill quotes the text inserted but describes where it goes |
-| `16 U.S.C. § 1802` | strike | in clause (iv) by striking the second “or”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1802` | replace | in clause (v) by striking the period and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 1802` | replace | by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1802` | amend | in subsection (c), by amending paragraph (1)(D) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1802` | replace | in subsection (a), by striking the second sentence and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1802` | replace | in subparagraph (I) by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 1802` | replace | in subparagraph (J) by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 1802` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1802` | insert | Section 53707(c) of title 46, United States Code, is amended by inserting “or Administrator” after “Secretary”. | the bill quotes the text inserted but describes where it goes |
-| `16 U.S.C. § 1801` | add-at-end | Section 53708 of title 46, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 1802` | replace | by striking “For a fishing vessel or fishery facility” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 1802` | strike | in clause (iv) by striking the last “or”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1802` | strike | in clause (v) by striking the period; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1802` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1802` | strike | by striking paragraph (8). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1802` | insert | in subsection (c) by inserting “or Administrator” after “Secretary”. | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 1801` | strike | by striking “Fishing”; and | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 1801` | insert | by inserting “Fishing” before “Facilities”; and | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 1801` | amend | by amending paragraph (1) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1801` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1802` | amend | by amending subsection (b) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1802` | insert | in subsection (e) by inserting “or Administrator” after “Secretary”. | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 1802` | insert | Section 53107(a)(4)(A) of title 46, United States Code, is amended by inserting “or, in the case of an eligible export vessel, of the appropriate foreign authorities under a treaty, convention, or other international agreement to which t… | the bill quotes the text inserted but describes where it goes |
+| `2 U.S.C. § 661a` | add-at-end | Section 53714(b) of title 46, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1802` | replace | in subsection (a) by striking “shall be paid in cash.” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 1802` | redesignate | by redesignating subsections (b) through (d) as subsections (c) through (e), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1802` | insert | by inserting after subsection (a) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1802` | redesignate | by striking subsection (a) and redesignating subsections (b) through (e) as subsections (a) through (d), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1802` | insert | by inserting the following new subsection (e): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1802` | strike | by striking subsection (f). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1802` | insert | in subsection (a)(1) by inserting “fishing, or other seafood related,” before “coastwise, intercoastal, or foreign trade”; | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 1802` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1802` | repeal | Sections 3506(i)(2) and 3506(1)(2) of the National Defense Authorization Act of Fiscal Year 2020 (Public Law 116–92) are repealed, and the provisions of law that were repealed or amended by these sections are reenacted and amended, respe… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | replace | by striking “including projects to improve port resilience;” and inserting “including—”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
@@ -2343,14 +3279,219 @@ complete account of the bill's effect, which it is not.
 | — | insert | in subparagraph (B) by inserting “, including digital training technologies,” after “training”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “Small shipyard defined” and all that follows through “the term” and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | The chapter heading for chapter 541 of title 46, United States Code, is amended by striking “Miscellaneous” and inserting “Small Shipyard Grant Program”. | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating and transferring such section to appear after subsection (k) of section 102 of title 49, United States Code (as added by this Act), as subsection (j), including by redesignating each subordinate provision appropriately t… | the bill names no machine-readable US Code section |
 | — | redesignate | in paragraph (1), as so redesignated, by inserting “in the Department within the Office of the Deputy Secretary” after “established”; and | the bill names no machine-readable US Code section |
 | — | redesignate | in subparagraph (A), as so redesignated, by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | replace | by striking “The Secretary of Transportation” and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | Chapter 504 of title 46, United States Code, is amended by inserting before section 50402 the following: | the bill names no machine-readable US Code section |
 | — | insert | in subsection (a)(2) by inserting “, and the waiver” after “without such a waiver”; and | the bill names no machine-readable US Code section |
 | — | insert | in subsection (b)(4)(B) by inserting “the waiver and” after “subparagraph (A)(ii)”. | the bill names no machine-readable US Code section |
-| — | add-at-end | Chapter 151 of title 46, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | The analysis for chapter 3 of title 14, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | amend | Section 1154 of title 14, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | by striking “five” and inserting “6” in each place it appears; and | the bill names no machine-readable US Code section |
+| — | replace | in clause (ii) by striking “one position shall oversee personnel management, workforce, and dependent support, training, and related matters; and” and inserting the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (a), (b), (c), (d), (e), (f) and (g) as subsections (f), (g), (h), (i), (j), (k), and (l), respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting the following: | the bill names no machine-readable US Code section |
+| `49 U.S.C. § 109` | add-at-end | Chapter 7 of title 14, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | in the section heading, by striking “contracts and grants” and inserting “contracts, cooperative agreements, and grants”; | the bill names no machine-readable US Code section |
+| — | amend | by amending subsection (a) to read as follows: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (f) as subsection (g); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (e) the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 19 of title 14, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in the section heading, by striking “military justice or healthcare” and inserting “military justice, healthcare, or other highly skilled professional fields”; | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (1), by striking “or” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking the period and inserting “; or”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end, the following new paragraph: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b), by striking “section 2126” and inserting “regulations prescribed by the Secretary”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end, the following new subsection: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (b) and (c) as subsection (c) and (d) respectively; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (d), as so redesignated, by striking “subsection (b)” and inserting “subsection (c)”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (a) the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (b) and (c) as subsections (c) and (d), respectively; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (d)(2), as so redesignated, by striking “subsection (b)” and inserting “subsection (c)”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (a) the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking “Any regular” and inserting— | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (3) by striking “allowed” and inserting “subject to subsection (b), allowed”; | the bill names no machine-readable US Code section |
+| — | replace | in the matter preceding paragraph (1) by striking “Each Officer” and inserting the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following new subsection (b): | the bill names no machine-readable US Code section |
+| `43 U.S.C. § 1333` | add-at-end | Subchapter I of chapter 700 of title 46, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1331` | redesignate | by redesignating the second subsection (g) as subsection (i). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 1905` | amend | Section 6(a)(3) of the Act to Prevent Pollution from Ships (33 U.S.C. 1905(a)(3)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 501` | insert | Chapter 19 of title 14, United States Code, is amended by inserting after subchapter III the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 501` | strike | amended by striking— | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 501` | strike | in subsection (a) by striking “athletic or recreational extracurricular”; and | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 501` | strike | by striking “athletic or recreational extracurricular” each place it appears; and | the bill quotes the text struck but describes what replaces it |
+| `26 U.S.C. § 501` | replace | by striking the section title and inserting “Authorization for use of Coast Guard Academy facilities and equipment by qualified organizations”; and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 501` | strike | by striking subsection (f); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 501` | strike | amended by striking paragraph (5). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 501` | insert | Subchapter IV of chapter 19 of title 14, United States Code, as added by this Act, is further amended by inserting after section 1954 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | amend | Section 910 of title 14, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subchapter I of chapter 11 of title 14, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | amend | Section 54101 of title 46, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | insert | by inserting “or territory of the United States” after “State”; and | the bill names no machine-readable US Code section |
+| — | replace | in clause (i), by striking “Gulf of Mexico” and inserting “Gulf of America”; | the bill names no machine-readable US Code section |
+| — | insert | in clause (iii), by inserting “or” at the end; | the bill names no machine-readable US Code section |
+| — | strike | in clause (iv), by striking “or” at the end; and | the bill names no machine-readable US Code section |
+| — | strike | by striking clause (v); | the bill names no machine-readable US Code section |
+| — | strike | by striking paragraph (2); and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (3) through (6) as paragraphs (2) through (5), respectively. | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 515 of title 46, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 517 of title 46, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking paragraphs (1) and (2) and inserting the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (3) as paragraph (2); and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), as so redesignated, by striking “uniforms, tuition, books, and subsistence” and inserting “the cost of attendance at the Academy”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A)(ii) by striking “$8,000” and inserting “10 percent of the agreed upon amount”; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B)(ii) by striking “$16,000” and inserting “25 percent of the agreed upon amount”; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (i) the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 515 of title 46, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | Section 55305(b) of title 46, United States Code, is amended by striking “after January 1, 2030,”. | the bill names no machine-readable US Code section |
+| `22 U.S.C. § 2151` | replace | by striking subsection (d) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2151` | replace | by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2151` | strike | by striking subparagraphs (A) and (B); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2151` | redesignate | by redesignating subparagraphs (C) and (D) as subparagraphs (E) and (F), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 2151` | redesignate | by inserting before subparagraph (E), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | insert | Part D of subtitle V of title 46, United States Code, is amended by inserting after subchapter III the following new subchapter: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 531 of title 46, United States Code, is amended by adding at the end the following new section 53112: | the bill names no machine-readable US Code section |
+| — | replace | by striking the chapter heading and inserting the following: “Oversight and Accountability”; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating section 50401 as section 50403; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting before section 50402, the following: | the bill names no machine-readable US Code section |
+| — | amend | The table of sections for chapter 504 of subtitle V of title 46, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | replace | by striking subsection (a), and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking subsections (c) and (d) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b), by striking “Secretary of Transportation” and inserting “Maritime Security Advisor and Maritime Security Board”; and | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (1), by striking “by the Secretary of Transportation”; | the bill names no machine-readable US Code section |
+| — | replace | by striking paragraph (3) and inserting the following: | the bill names no machine-readable US Code section |
+| — | redesignate | in paragraph (4), by redesignating subparagraphs (A) and (B) as clauses (i) and (ii), respectively, and adjusting the margins accordingly; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraph (4) as subparagraph (A) and adjusting the margins accordingly; | the bill names no machine-readable US Code section |
+| — | insert | by inserting after paragraph (3) the following: | the bill names no machine-readable US Code section |
+| — | insert | at the end of paragraph (4), as so designated, by inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking the section heading and inserting “Funds established”; | the bill names no machine-readable US Code section |
+| — | redesignate | in paragraph (2), by redesignating subparagraphs (A), (B), and (C), as clauses (i), (ii), and (iii), respectively, and adjusting the margins accordingly; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating paragraphs (1), (2), and (3), as subparagraphs (A), (B), and (C), respectively, and adjusting the margins accordingly; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (A), as redesignated by subparagraph (B), by striking “paragraph (2)” and inserting “subparagraph (B)”; | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (B), as redesignated by subparagraph (B), in the matter preceding clause (i), by striking “Paragraph (1)” and inserting “Subparagraph (A)”; and | the bill names no machine-readable US Code section |
+| — | replace | in subparagraph (C), as redesignated by subparagraph (B), by striking “Paragraph (1)” and inserting “Subparagraph (A)”; | the bill names no machine-readable US Code section |
+| — | redesignate | in subsection (f), by redesignating paragraphs (1) through (4) as subparagraphs (A) through (D), respectively, and adjusting the margins accordingly; | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsections (b) through (g) as paragraphs (2) through (7), respectively, and adjusting the margins accordingly; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a), by striking “In General” and all that follows through “There is a” and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (4), by striking “subsection (a)” and inserting “paragraph (1)”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Subtitle V of title 46, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of chapters for subtitle V of title 46, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (16), by striking “and” after the semicolon; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (17), by striking the period at the end and inserting “; and”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (2), by inserting “or passengers” after “transportation of cargo”; and | the bill names no machine-readable US Code section |
+| — | insert | in paragraph (5), by inserting “or passengers” after “carriage of cargo”. | the bill names no machine-readable US Code section |
+| — | strike | in paragraph (1), by striking “or” at the end; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking the period at the end and inserting “; or”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b), by striking “rule, or regulation” and inserting “rule, regulation, or fare”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (c), by striking “rule, or regulation” and inserting “rule, regulation, or fare”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (d), by striking “rule, or regulation” and inserting “rule, regulation, or fare”; | the bill names no machine-readable US Code section |
+| — | replace | in the matter preceding paragraph (1), by striking “rule, or regulation” and inserting “rule, regulation, or fare”; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1), by striking “rate or charge” and inserting “rate, charge, or fare”; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “rule, or regulation” and inserting “rule, regulation, or fare”; | the bill names no machine-readable US Code section |
+| — | replace | in section 40703, by striking “a rate, charge,” and inserting “a rate, fare, charge,”; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (a), by striking “rule, or regulation” and inserting “rule, regulation, or fare”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (b), by striking “rule, or regulation” and inserting “rule, regulation, or fare”; | the bill names no machine-readable US Code section |
+| — | replace | in subsection (c), by striking “rule, or regulation” and inserting “rule, regulation, or fare” each place the term appears; | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1), by striking “rule, or regulation” and inserting “rule, regulation, or fare” each place the term appears; and | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (2), by striking “rule, or regulation” and inserting “rule, regulation, or fare” each place the term appears; and | the bill names no machine-readable US Code section |
+| — | replace | in subsection (e), by striking “rule, or regulation” and inserting “rule, regulation, or fare” each place the term appears. | the bill names no machine-readable US Code section |
+| `46 U.S.C. § 53101` | insert | Part C of subtitle V of title 46, United States Code, is amended by inserting after chapter 537 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `46 U.S.C. § 53101` | insert | The table of chapters at the beginning of part C of subtitle V of title 46, United States Code, and at the beginning of subtitle V of such title, are each amended by inserting after the item relating to chapter 537 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | Section 55305(a) of title 46, United States Code, is amended by striking “at least 50” and inserting “100”. | the bill names no machine-readable US Code section |
+| — | amend | Section 55305(d)(1) of title 46, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | insert | Section 55305(d)(3)(B) of title 46, United States Code, is amended by inserting “Maritime Security Board and the” after “to the”. | the bill names no machine-readable US Code section |
+| `46 U.S.C. § 55305` | repeal | Subsection (a) of section 3502 of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (46 U.S.C. 55305 note; Public Law 117–263), is repealed. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | replace | in subsection (a)(2), by striking “section 55305” and inserting “sections 55305, 55314, 55315, and 55316”; and | the bill names no machine-readable US Code section |
+| — | add-at-end | by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | insert | Part D of subtitle V of title 46, United States Code, is amended by inserting after chapter 553 the following: | the bill names no machine-readable US Code section |
+| — | insert | The table of chapters for subtitle V of title 46, United States Code, is amended by inserting after the item relating to chapter 553 the following: | the bill names no machine-readable US Code section |
+| `7 U.S.C. § 1736o` | insert | by inserting before subsection (b) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 1736o` | insert | in paragraph (1), by inserting “titles I, II, or III of” after “carried out under”; | the bill quotes the text inserted but describes where it goes |
+| `7 U.S.C. § 1736o` | redesignate | by redesignating paragraphs (4), (5), (6), and (7) as paragraphs (6), (7), (8), and (9), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 1736o` | insert | by inserting after paragraph (3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `7 U.S.C. § 1621` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Chapter 553 of title 46, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections for chapter 553 of title 46, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating sections 3317 and 3318 as sections 3318 and 3319, respectively; and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after section 3316 the following: | the bill names no machine-readable US Code section |
+| — | replace | The table of sections for chapter 33 of title 46, United States Code, is amended by striking the items relating to sections 3317 and 3318 and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking subsection (a) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | by striking subsection (c) and inserting the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 30529(c) of title 46, United States Code, is amended by striking “the matter in question” and inserting “a matter subject to consideration for limitation under section 30523 or section 30524”. | the bill names no machine-readable US Code section |
+| `46 U.S.C. § 50114` | add-at-end | Chapter 501 of title 46, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `46 U.S.C. § 50114` | insert | The table of sections for chapter 501 of title 46, United States Code, is amended by inserting after the item relating to section 50114 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4370m` | insert | in the matter preceding clause (i), by inserting “the maritime industry” after “waterways,”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 4370m` | redesignate | by redesignating clauses (iii) and (iv) as clauses (iv) and (v), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4370m` | insert | by inserting after clause (ii) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 4370m` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `26 U.S.C. § 1400Z` | insert | in paragraph (1), by inserting “through the establishment, management, and coordination of geographically and topically diverse maritime incubators” after “maritime transportation system”; and | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 1400Z` | replace | by striking paragraphs (2), (3), and (4), and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | amend | Section 50105(c) of title 46, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 521 of title 46, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections for chapter 521 of title 46, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | in subsection (a), by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
+| — | add-at-end | in subsection (b)(1), by adding at the end the following new sentence: “The Secretary of Transportation shall bear the cost of the instruction received by officers and unlicensed mariners of the United States Merchant Marine detailed for… | the bill names no machine-readable US Code section |
+| — | insert | in subsection (c), by inserting “, and officers and unlicensed mariners of the United States Merchant Marine,” after “Coast Guard”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 521 of title 46, United States Code, as amended by section 3671, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections for chapter 521 of title 46, United States Code, as amended by section 3671, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 521 of title 46, United States Code, as amended by sections 3682 and 3684, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections for chapter 521 of title 46, United States Code, as amended by sections 3682 and 3684, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 521 of title 46, United States Code, as amended by sections 3682, 3684, and 3685, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections for chapter 521 of title 46, United States Code, as amended by sections 3682, 3684, and 3685, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 539A(a) of the Servicemember Quality of Life Improvement and National Defense Authorization Act for Fiscal Year 2025 (Public Law 118–159) is amended by striking “the heads of such other Federal agencies as the Secretary determine… | the bill names no machine-readable US Code section |
+| — | replace | Section 51706(c)(1)(B)(iii) of title 46, United States Code, is amended by striking “nonprofit entity” and inserting “entity”. | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 513 of title 46, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | replace | Section 51504 of title 46, United States Code, is amended by striking subsection (f) and inserting the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | Chapter 515 of title 46, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
 | — | add-at-end | The table of sections for chapter 515 of title 46, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 515 of title 46, United States Code, as amended by section 3700, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| — | add-at-end | The table of sections for chapter 515 of title 46, United States Code, as amended by section 3700, is further amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `43 U.S.C. § 1356` | add-at-end | Chapter 81 of part F of subtitle II of title 46, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1356` | add-at-end | The table of sections for chapter 81 of title 46, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| — | add-at-end | Section 7507 of title 46, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
+| `50 U.S.C. § 1621` | add-at-end | Chapter 75 of subtitle II of part E, of title 46, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `50 U.S.C. § 1621` | add-at-end | The table of sections for chapter 75 of title 46, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 20502` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 20503` | replace | Section 4 of the National Voter Registration Act of 1993 (52 U.S.C. 20503) is amended by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 20504` | strike | in clause (i), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `52 U.S.C. § 20504` | amend | in clause (ii), by adding “and” at the end; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 20504` | add-at-end | by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 20504` | replace | in subsection (c)(2)(D)(iii), by striking “; and” and inserting the following: “, other than as evidence in a criminal proceeding or immigration proceeding brought against an applicant who knowingly attempts to register to vote and knowi… | the bill quotes the text struck but describes what replaces it |
+| `52 U.S.C. § 20505` | add-at-end | in subsection (b), by adding at the end the following: “The chief State election official of a State shall take such steps as may be necessary to ensure that residents of the State are aware of the requirement to provide documentary proo… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 20505` | strike | in subparagraph (A), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `52 U.S.C. § 20505` | replace | in subparagraph (B) by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `52 U.S.C. § 20505` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 20505` | add-at-end | by adding at the end the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 20506` | add-at-end | in paragraph (4)(A), by adding at the end the following new clause: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 20506` | redesignate | by redesignating subparagraphs (B) and (C) as subparagraphs (C) and (D), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 20506` | insert | by inserting after subparagraph (A) the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 20506` | insert | in subsection (c)(1), by inserting “who are citizens of the United States” after “for persons”. | the bill quotes the text inserted but describes where it goes |
+| `52 U.S.C. § 20507` | strike | in subparagraph (B), by striking “or” at the end; and | the bill quotes the text struck but describes what replaces it |
+| `52 U.S.C. § 20507` | add-at-end | by adding at the end the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 20507` | redesignate | by redesignating subsection (j) as subsection (l); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 1320b-7` | insert | by inserting after subsection (i) the following new subsections: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 20507` | strike | by striking “or” at the end of subparagraph (A); | the bill quotes the text struck but describes what replaces it |
+| `52 U.S.C. § 20507` | amend | by adding “or” at the end of subparagraph (B); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 20507` | add-at-end | by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 20508` | strike | in paragraph (3), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `52 U.S.C. § 20508` | replace | in paragraph (4), by striking the period at the end and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `52 U.S.C. § 20508` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 20508` | redesignate | by redesignating clauses (i) through (iii) as subparagraphs (A) through (C), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 20508` | redesignate | in subparagraph (C) (as so redesignated and as amended by paragraph (1)(C)), by striking “; and” and inserting the following: “, other than as evidence in a criminal proceeding or immigration proceeding brought against an applicant who a… | the bill quotes the text struck but describes what replaces it |
+| `52 U.S.C. § 20511` | strike | by striking “or” at the end of subparagraph (A); | the bill quotes the text struck but describes what replaces it |
+| `52 U.S.C. § 20511` | redesignate | by redesignating subparagraph (B) as subparagraph (D); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 20511` | insert | by inserting after subparagraph (A) the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 20503` | add-at-end | Section 4 of the National Voter Registration Act of 1993 (52 U.S.C. 20503), as amended by subsection (b), is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 21081` | insert | Title III of the Help America Vote Act of 2002 (52 U.S.C. 21081 et seq.) is amended by inserting after section 303 the following new section: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 21081` | insert | The table of contents of such Act is amended by inserting after the item relating to section 303 the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `52 U.S.C. § 21101` | strike | by striking “and” at the end of paragraph (2); | the bill quotes the text struck but describes what replaces it |
+| `52 U.S.C. § 21101` | replace | by striking the period at the end of paragraph (3) and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `52 U.S.C. § 21101` | add-at-end | by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
