@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8800
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 8800
@@ -38,6 +38,30 @@ National Defense Authorization Act for Fiscal Year 2027
 - House — Science, Space, and Technology Committee
 - House — Transportation and Infrastructure Committee
 
+## Recorded votes (21)
+
+- 2026-07-21 — [House 119-2-255](votes/house-119-2-0255.md) — On Agreeing to the Amendment — **Failed** (65–361)
+- 2026-07-21 — [House 119-2-256](votes/house-119-2-0256.md) — On Agreeing to the Amendment — **Failed** (61–360)
+- 2026-07-21 — [House 119-2-257](votes/house-119-2-0257.md) — On Agreeing to the Amendment — **Failed** (65–359)
+- 2026-07-21 — [House 119-2-258](votes/house-119-2-0258.md) — On Agreeing to the Amendment — **Agreed to** (265–161)
+- 2026-07-21 — [House 119-2-259](votes/house-119-2-0259.md) — On Agreeing to the Amendment — **Failed** (208–219)
+- 2026-07-21 — [House 119-2-260](votes/house-119-2-0260.md) — On Agreeing to the Amendment — **Agreed to** (215–214)
+- 2026-07-21 — [House 119-2-261](votes/house-119-2-0261.md) — On Agreeing to the Amendment — **Failed** (212–216)
+- 2026-07-21 — [House 119-2-262](votes/house-119-2-0262.md) — On Agreeing to the Amendment — **Failed** (201–224)
+- 2026-07-21 — [House 119-2-263](votes/house-119-2-0263.md) — On Agreeing to the Amendment — **Failed** (61–365)
+- 2026-07-21 — [House 119-2-264](votes/house-119-2-0264.md) — On Agreeing to the Amendment — **Failed** (76–350)
+- 2026-07-21 — [House 119-2-265](votes/house-119-2-0265.md) — On Agreeing to the Amendment — **Agreed to** (215–214)
+- 2026-07-21 — [House 119-2-266](votes/house-119-2-0266.md) — On Agreeing to the Amendment — **Failed** (212–217)
+- 2026-07-21 — [House 119-2-267](votes/house-119-2-0267.md) — On Agreeing to the Amendment — **Agreed to** (219–208)
+- 2026-07-21 — [House 119-2-268](votes/house-119-2-0268.md) — On Agreeing to the Amendment — **Agreed to** (221–203)
+- 2026-07-21 — [House 119-2-269](votes/house-119-2-0269.md) — On Agreeing to the Amendment — **Failed** (214–216)
+- 2026-07-22 — [House 119-2-273](votes/house-119-2-0273.md) — On Agreeing to the Amendment — **Agreed to** (221–210)
+- 2026-07-22 — [House 119-2-274](votes/house-119-2-0274.md) — On Agreeing to the Amendment — **Failed** (207–224)
+- 2026-07-22 — [House 119-2-275](votes/house-119-2-0275.md) — On Agreeing to the Amendment — **Agreed to** (232–199)
+- 2026-07-22 — [House 119-2-276](votes/house-119-2-0276.md) — On Agreeing to the Amendment — **Failed** (175–254)
+- 2026-07-22 — [House 119-2-277](votes/house-119-2-0277.md) — On Motion to Recommit — **Failed** (213–216)
+- 2026-07-22 — [House 119-2-278](votes/house-119-2-0278.md) — On Passage — **Passed** (216–212)
+
 ## Actions
 
 - 2026-05-13 — Introduced in House
@@ -48,3 +72,297 @@ National Defense Authorization Act for Fiscal Year 2027
 - 2026-06-15 — Placed on the Union Calendar, Calendar No. 606.
 - 2026-06-15 — Reported (Amended) by the Committee on Armed Services. H. Rept. 119-698.
 - 2026-06-15 — Reported (Amended) by the Committee on Armed Services. H. Rept. 119-698.
+- 2026-06-30 — Rules Committee Resolution H. Res. 1398 Reported to House. Rule provides for consideration of H.R. 8800, H.R. 8595, H.R. 8884 and H. Res. 1383. The resolution provides for consideration of H.R. 8800 and H.R. 8595 under a structured rule, and H.R. 8884 and H. Res. 1383 under a closed rule. The resolution provides for one hour of general debate on each measure and one motion to recommit on H.R. 8800, H.R. 8595, and H.R. 8884.
+- 2026-07-20 — Rules Committee Resolution H. Res. 1438 Reported to House. Rule provides for consideration of H.R. 8800, H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955 and H.R. 9770. The resolution provides for consideration of H.R. 8800 under a structured rule and for consideration of H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955, and H.R. 9770 under a closed rule, with one hour of debate on each measure and one motion to recommit on H.R. 8800, H.R. 8884, H.R. 7008, H.R. 6955, and H.R. 9770.
+- 2026-07-21 — 
+- 2026-07-21 — 
+- 2026-07-21 — 
+- 2026-07-21 — 
+- 2026-07-21 — 
+- 2026-07-21 — 
+- 2026-07-21 — 
+- 2026-07-21 — 
+- 2026-07-21 — 
+- 2026-07-21 — 
+- 2026-07-21 — 
+- 2026-07-21 — 
+- 2026-07-21 — 
+- 2026-07-21 — 
+- 2026-07-21 — 
+- 2026-07-21 — Amendment (A001) offered by Ms. Boebert. (consideration: CR H4967-4968, H5008-5009; text: CR H4967)
+- 2026-07-21 — Amendment (A002) offered by Ms. Boebert. (consideration: CR H4968-4969, H5009; text: CR H4968)
+- 2026-07-21 — Amendment (A003) offered by Ms. Boebert. (consideration: CR H4969-4970, H5009-5010; text: CR H4969)
+- 2026-07-21 — Amendment (A004) offered by Ms. Boebert. (consideration: CR H4970, H5010-5011; text: CR H4970)
+- 2026-07-21 — Amendment (A006) offered by Mr. Hunt. (consideration: CR H4987-4991, H5011; text: CR H4987-4990)
+- 2026-07-21 — Amendment (A007) offered by Mr. Hunt. (consideration: CR H4991-4993, H5011-5012; text: CR H4991-4992)
+- 2026-07-21 — Amendment (A008) offered by Mr. Gallagher. (consideration: CR H4993-4994, H5012-5013; text: CR H4993)
+- 2026-07-21 — Amendment (A009) offered by Mr. Carter (GA). (consideration: CR H4995-4996, H5013; text: CR H4995)
+- 2026-07-21 — Amendment (A010) offered by Mr. Crane. (consideration: CR H4996-4997, H5013-5014; text: CR H4996)
+- 2026-07-21 — Amendment (A011) offered by Mr. Crane. (consideration: CR H4997-4999, H5014-5015; text: CR H4998)
+- 2026-07-21 — Amendment (A012) offered by Mr. Crank. (consideration: CR H4999-5000, H5015; text: CR H4999)
+- 2026-07-21 — Amendment (A013) offered by Ms. Boebert. (consideration: CR H5001-5002, H5015-5016; text: CR H5001)
+- 2026-07-21 — Amendment (A014) offered by Ms. Mace. (consideration: CR H5003-5005, H5016-5017; text: CR H5003)
+- 2026-07-21 — Amendment (A015) offered by Ms. Mace. (consideration: CR H5005-5006, H5017; text: CR H5005)
+- 2026-07-21 — Amendment (A016) offered by Mr. McDowell. (consideration: CR H5006-5007, H5017-5018; text: CR H5006)
+- 2026-07-21 — Amendments en bloc (A005) offered by Mr. Rogers (AL). (consideration: CR H4970-4987; text: CR H4970-4986)
+- 2026-07-21 — Committee of the Whole House on the state of the Union rises leaving H.R. 8800 as unfinished business.
+- 2026-07-21 — Committee of the Whole House on the state of the Union rises leaving H.R. 8800 as unfinished business.
+- 2026-07-21 — Considered as unfinished business. (consideration: CR H5008-5018)
+- 2026-07-21 — Considered under the provisions of rule H. Res. 1438. (consideration: CR H4736-5007; text of amendment in the nature of a substitute: CR H4746-4967)
+- 2026-07-21 — DEBATE - Pursuant to the provisions of H. Res. 1438, the Committee of the Whole proceeded with 10 minutes of debate on the Boebert amendment No. 1.
+- 2026-07-21 — DEBATE - Pursuant to the provisions of H. Res. 1438, the Committee of the Whole proceeded with 10 minutes of debate on the Boebert amendment No. 18.
+- 2026-07-21 — DEBATE - Pursuant to the provisions of H. Res. 1438, the Committee of the Whole proceeded with 10 minutes of debate on the Boebert amendment No. 2.
+- 2026-07-21 — DEBATE - Pursuant to the provisions of H. Res. 1438, the Committee of the Whole proceeded with 10 minutes of debate on the Boebert amendment No. 3.
+- 2026-07-21 — DEBATE - Pursuant to the provisions of H. Res. 1438, the Committee of the Whole proceeded with 10 minutes of debate on the Boebert amendment No. 4.
+- 2026-07-21 — DEBATE - Pursuant to the provisions of H. Res. 1438, the Committee of the Whole proceeded with 10 minutes of debate on the Carter (GA) amendment No. 9.
+- 2026-07-21 — DEBATE - Pursuant to the provisions of H. Res. 1438, the Committee of the Whole proceeded with 10 minutes of debate on the Crane amendment No. 14.
+- 2026-07-21 — DEBATE - Pursuant to the provisions of H. Res. 1438, the Committee of the Whole proceeded with 10 minutes of debate on the Crane amendment No. 15.
+- 2026-07-21 — DEBATE - Pursuant to the provisions of H. Res. 1438, the Committee of the Whole proceeded with 10 minutes of debate on the Crank amendment No. 17.
+- 2026-07-21 — DEBATE - Pursuant to the provisions of H. Res. 1438, the Committee of the Whole proceeded with 10 minutes of debate on the Gallagher amendment No. 8.
+- 2026-07-21 — DEBATE - Pursuant to the provisions of H. Res. 1438, the Committee of the Whole proceeded with 10 minutes of debate on the Hunt amendment No. 6.
+- 2026-07-21 — DEBATE - Pursuant to the provisions of H. Res. 1438, the Committee of the Whole proceeded with 10 minutes of debate on the Hunt amendment No. 7.
+- 2026-07-21 — DEBATE - Pursuant to the provisions of H. Res. 1438, the Committee of the Whole proceeded with 10 minutes of debate on the Mace amendment No. 19.
+- 2026-07-21 — DEBATE - Pursuant to the provisions of H. Res. 1438, the Committee of the Whole proceeded with 10 minutes of debate on the Mace amendment No. 20.
+- 2026-07-21 — DEBATE - Pursuant to the provisions of H. Res. 1438, the Committee of the Whole proceeded with 10 minutes of debate on the McDowell amendment No. 26.
+- 2026-07-21 — DEBATE - Pursuant to the provisions of H. Res. 1438, the Committee of the Whole proceeded with 40 minutes of debate on the Rogers (AL) en bloc amendment No. 1.
+- 2026-07-21 — GENERAL DEBATE - The Committee of the Whole proceeded with one hour of general debate on H.R. 8800.
+- 2026-07-21 — House Amendment Offered
+- 2026-07-21 — House Amendment Offered
+- 2026-07-21 — House Amendment Offered
+- 2026-07-21 — House Amendment Offered
+- 2026-07-21 — House Amendment Offered
+- 2026-07-21 — House Amendment Offered
+- 2026-07-21 — House Amendment Offered
+- 2026-07-21 — House Amendment Offered
+- 2026-07-21 — House Amendment Offered
+- 2026-07-21 — House Amendment Offered
+- 2026-07-21 — House Amendment Offered
+- 2026-07-21 — House Amendment Offered
+- 2026-07-21 — House Amendment Offered
+- 2026-07-21 — House Amendment Offered
+- 2026-07-21 — House Amendment Offered
+- 2026-07-21 — House Amendment Offered
+- 2026-07-21 — House amendment agreed to: On agreeing to the Boebert amendment (A004) Agreed to by recorded vote: 265 - 161, 1 Present (Roll no. 258).
+- 2026-07-21 — House amendment agreed to: On agreeing to the Crank amendment (A012) Agreed to by recorded vote: 215 - 214 (Roll no. 265).
+- 2026-07-21 — House amendment agreed to: On agreeing to the Hunt amendment (A007) Agreed to by recorded vote: 215 - 214 (Roll no. 260).
+- 2026-07-21 — House amendment agreed to: On agreeing to the Mace amendment (A014) Agreed to by recorded vote: 219 - 208 (Roll no. 267).
+- 2026-07-21 — House amendment agreed to: On agreeing to the Mace amendment (A015) Agreed to by recorded vote: 221 - 203 (Roll no. 268).
+- 2026-07-21 — House amendment agreed to: On agreeing to the Rogers (AL) amendments (A005) Agreed to by voice vote.
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A001) Failed by recorded vote: 65 - 361 (Roll no. 255).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A002) Failed by recorded vote: 61 - 360 (Roll no. 256).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A003) Failed by recorded vote: 65 - 359 (Roll no. 257).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Carter (GA) amendment (A009) Failed by recorded vote: 201 - 224 (Roll no. 262).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Crane amendment (A010) Failed by recorded vote: 61 - 365 (Roll no. 263).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Crane amendment (A011) Failed by recorded vote: 76 - 350 (Roll no. 264).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Gallagher amendment (A008) Failed by recorded vote: 212 - 216 (Roll no. 261).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the Hunt amendment (A006) Failed by recorded vote: 208 - 219 (Roll no. 259).
+- 2026-07-21 — House amendment not agreed to: On agreeing to the McDowell amendment (A016) Failed by recorded vote: 214 - 216 (Roll no. 269).
+- 2026-07-21 — House resolved itself into the Committee of the Whole House on the state of the Union pursuant to H. Res. 1438 and Rule XVIII.
+- 2026-07-21 — Mr. Rogers (AL) moved that the committee rise.
+- 2026-07-21 — Mr. Rogers (AL) moved that the committee rise.
+- 2026-07-21 — On agreeing to the Boebert amendment (A001) Failed by recorded vote: 65 - 361 (Roll no. 255).
+- 2026-07-21 — On agreeing to the Boebert amendment (A002) Failed by recorded vote: 61 - 360 (Roll no. 256).
+- 2026-07-21 — On agreeing to the Boebert amendment (A003) Failed by recorded vote: 65 - 359 (Roll no. 257).
+- 2026-07-21 — On agreeing to the Boebert amendment (A004) Agreed to by recorded vote: 265 - 161, 1 Present (Roll no. 258).
+- 2026-07-21 — On agreeing to the Boebert amendment (A013) Failed by recorded vote: 212 - 217 (Roll no. 266).
+- 2026-07-21 — On agreeing to the Carter (GA) amendment (A009) Failed by recorded vote: 201 - 224 (Roll no. 262).
+- 2026-07-21 — On agreeing to the Crane amendment (A010) Failed by recorded vote: 61 - 365 (Roll no. 263).
+- 2026-07-21 — On agreeing to the Crane amendment (A011) Failed by recorded vote: 76 - 350 (Roll no. 264).
+- 2026-07-21 — On agreeing to the Crank amendment (A012) Agreed to by recorded vote: 215 - 214 (Roll no. 265).
+- 2026-07-21 — On agreeing to the Gallagher amendment (A008) Failed by recorded vote: 212 - 216 (Roll no. 261).
+- 2026-07-21 — On agreeing to the Hunt amendment (A006) Failed by recorded vote: 208 - 219 (Roll no. 259).
+- 2026-07-21 — On agreeing to the Hunt amendment (A007) Agreed to by recorded vote: 215 - 214 (Roll no. 260).
+- 2026-07-21 — On agreeing to the Mace amendment (A014) Agreed to by recorded vote: 219 - 208 (Roll no. 267).
+- 2026-07-21 — On agreeing to the Mace amendment (A015) Agreed to by recorded vote: 221 - 203 (Roll no. 268).
+- 2026-07-21 — On agreeing to the McDowell amendment (A016) Failed by recorded vote: 214 - 216 (Roll no. 269).
+- 2026-07-21 — On agreeing to the Rogers (AL) amendments (A005) Agreed to by voice vote.
+- 2026-07-21 — On motion that the committee rise Agreed to by voice vote.
+- 2026-07-21 — On motion that the committee rise Agreed to by voice vote.
+- 2026-07-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Boebert amendment No. 1, the Chair put the question on agreeing to the amendment and by voice vote, announced the noes had prevailed. Ms. Boebert demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2026-07-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Boebert amendment No. 18, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mr. Takano demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2026-07-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Boebert amendment No. 2, the Chair put the question on agreeing to the amendment and by voice vote, announced the noes had prevailed. Ms. Boebert demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2026-07-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Boebert amendment No. 3, the Chair put the question on agreeing to the amendment and by voice vote, announced the noes had prevailed. Ms. Boebert demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2026-07-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Boebert amendment No. 4, the Chair put the question on agreeing to the amendment and by voice vote, announced the noes had prevailed. Ms. Boebert demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2026-07-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Carter (GA) amendment No. 9, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mr. Carbajal demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2026-07-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Crane amendment No. 14, the Chair put the question on agreeing to the amendment and by voice vote, announced the noes had prevailed. Mr. Crane demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2026-07-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Crane amendment No. 15, the Chair put the question on agreeing to the amendment and by voice vote, announced the noes had prevailed. Mr. Crane demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2026-07-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Crank amendment No. 17, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Ms. Tokuda demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2026-07-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Gallagher amendment No. 8, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mr. Carbajal demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2026-07-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hunt amendment No. 6, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mr. Garamendi demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2026-07-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Hunt amendment No. 7, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mr. Carbajal demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2026-07-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Mace amendment No. 19, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mr. Cisneros demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2026-07-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Mace amendment No. 20, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Ms. Jacobs demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2026-07-21 — POSTPONED PROCEEDINGS - At the conclusion of debate on the McDowell amendment No. 26, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mr. Courtney demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2026-07-21 — Roll call votes on amendments in House
+- 2026-07-21 — Roll call votes on amendments in House
+- 2026-07-21 — Roll call votes on amendments in House
+- 2026-07-21 — Roll call votes on amendments in House
+- 2026-07-21 — Roll call votes on amendments in House
+- 2026-07-21 — Roll call votes on amendments in House
+- 2026-07-21 — Roll call votes on amendments in House
+- 2026-07-21 — Roll call votes on amendments in House
+- 2026-07-21 — Roll call votes on amendments in House
+- 2026-07-21 — Roll call votes on amendments in House
+- 2026-07-21 — Roll call votes on amendments in House
+- 2026-07-21 — Roll call votes on amendments in House
+- 2026-07-21 — Roll call votes on amendments in House
+- 2026-07-21 — Roll call votes on amendments in House
+- 2026-07-21 — Roll call votes on amendments in House
+- 2026-07-21 — Rule provides for consideration of H.R. 8800, H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955 and H.R. 9770. The resolution provides for consideration of H.R. 8800 under a structured rule and for consideration of H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955, and H.R. 9770 under a closed rule, with one hour of debate on each measure and one motion to recommit on H.R. 8800, H.R. 8884, H.R. 7008, H.R. 6955, and H.R. 9770.
+- 2026-07-21 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2026-07-21 — The Speaker designated the Honorable Nathaniel Moran to act as Chairman of the Committee.
+- 2026-07-22 — 
+- 2026-07-22 — 
+- 2026-07-22 — 
+- 2026-07-22 — 
+- 2026-07-22 — Amendment (A017) offered by Mr. Self. (consideration: CR H5030-5034, H5153-5154; text: CR H5030-5033)
+- 2026-07-22 — Amendment (A018) offered by Mr. Issa. (consideration: CR H5034-5036, H5154; text: CR H5034-5035)
+- 2026-07-22 — Amendment (A019) offered by Mrs. Hinson. (consideration: CR H5036-5037; text: CR H5036-5037)
+- 2026-07-22 — Amendment (A020) offered by Mr. Harrigan. (consideration: CR H5037-5038, H5154-5155; text: CR H5037)
+- 2026-07-22 — Amendment (A025) offered by Mr. Grothman. (consideration: CR H5123-5125, H5155-5156; text: CR H5123-5124)
+- 2026-07-22 — Amendments en bloc (A021) offered by Mr. Rogers (AL). (consideration: CR H5038-5056; text: CR H5038-5055)
+- 2026-07-22 — Amendments en bloc (A022) offered by Mr. Rogers (AL). (consideration: CR H5056-5066; text: CR H5056-5066)
+- 2026-07-22 — Amendments en bloc (A023) offered by Mr. Rogers (AL). (consideration: CR H5066-5077; text: CR H5066-5077)
+- 2026-07-22 — Amendments en bloc (A024) offered by Mr. Rogers (AL). (consideration: CR H5077-5123; text: CR H5077-5122)
+- 2026-07-22 — Committee of the Whole House on the state of the Union rises leaving H.R. 8800 as unfinished business.
+- 2026-07-22 — Considered as unfinished business. (consideration: CR H5029-5127)
+- 2026-07-22 — Considered as unfinished business. (consideration: CR H5153-5157)
+- 2026-07-22 — DEBATE - Pursuant to the provisions of H. Res. 1438, the Committee of the Whole proceeded with 10 minutes of debate on the Grothman amendment No. 316.
+- 2026-07-22 — DEBATE - Pursuant to the provisions of H. Res. 1438, the Committee of the Whole proceeded with 10 minutes of debate on the Harrigan amendment No. 44.
+- 2026-07-22 — DEBATE - Pursuant to the provisions of H. Res. 1438, the Committee of the Whole proceeded with 10 minutes of debate on the Hinson amendment No. 34.
+- 2026-07-22 — DEBATE - Pursuant to the provisions of H. Res. 1438, the Committee of the Whole proceeded with 10 minutes of debate on the Issa amendment No. 30.
+- 2026-07-22 — DEBATE - Pursuant to the provisions of H. Res. 1438, the Committee of the Whole proceeded with 10 minutes of debate on the Self amendment No. 28.
+- 2026-07-22 — DEBATE - Pursuant to the provisions of H. Res. 1438, the Committee of the Whole proceeded with 40 minutes of debate on the Rogers (AL) amendment en bloc No. 2.
+- 2026-07-22 — DEBATE - Pursuant to the provisions of H. Res. 1438, the Committee of the Whole proceeded with 40 minutes of debate on the Rogers (AL) amendment en bloc No. 3.
+- 2026-07-22 — DEBATE - Pursuant to the provisions of H. Res. 1438, the Committee of the Whole proceeded with 40 minutes of debate on the Rogers (AL) amendment en bloc No. 4.
+- 2026-07-22 — DEBATE - Pursuant to the provisions of H. Res. 1438, the Committee of the Whole proceeded with 40 minutes of debate on the Rogers (AL) amendment en bloc No. 5.
+- 2026-07-22 — House Amendment Offered
+- 2026-07-22 — House Amendment Offered
+- 2026-07-22 — House Amendment Offered
+- 2026-07-22 — House Amendment Offered
+- 2026-07-22 — House Amendment Offered
+- 2026-07-22 — House Amendment Offered
+- 2026-07-22 — House Amendment Offered
+- 2026-07-22 — House Amendment Offered
+- 2026-07-22 — House Amendment Offered
+- 2026-07-22 — House amendment agreed to: On agreeing to the Harrigan amendment (A020) Agreed to by recorded vote: 232 - 199 (Roll no. 275).
+- 2026-07-22 — House amendment agreed to: On agreeing to the Hinson amendment (A019) Agreed to by voice vote.
+- 2026-07-22 — House amendment agreed to: On agreeing to the Rogers (AL) amendments (A021) Agreed to by voice vote.
+- 2026-07-22 — House amendment agreed to: On agreeing to the Rogers (AL) amendments (A022) Agreed to by voice vote.
+- 2026-07-22 — House amendment agreed to: On agreeing to the Rogers (AL) amendments (A023) Agreed to by voice vote.
+- 2026-07-22 — House amendment agreed to: On agreeing to the Rogers (AL) amendments (A024) Agreed to by voice vote.
+- 2026-07-22 — House amendment agreed to: On agreeing to the Self amendment (A017) Agreed to by recorded vote: 221 - 210 (Roll no. 273).
+- 2026-07-22 — House amendment not agreed to: On agreeing to the Grothman amendment (A025) Failed by recorded vote: 175 - 254 (Roll no. 276).
+- 2026-07-22 — House amendment not agreed to: On agreeing to the Issa amendment (A018) Failed by recorded vote: 207 - 224 (Roll no. 274).
+- 2026-07-22 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-07-22 — Mr. Rogers (AL) moved that the committee rise.
+- 2026-07-22 — Mr. Ryan moved to recommit to the Committee on Armed Services. (text: CR H5156)
+- 2026-07-22 — On agreeing to the Grothman amendment (A025) Failed by recorded vote: 175 - 254 (Roll no. 276).
+- 2026-07-22 — On agreeing to the Harrigan amendment (A020) Agreed to by recorded vote: 232 - 199 (Roll no. 275).
+- 2026-07-22 — On agreeing to the Hinson amendment (A019) Agreed to by voice vote.
+- 2026-07-22 — On agreeing to the Issa amendment (A018) Failed by recorded vote: 207 - 224 (Roll no. 274).
+- 2026-07-22 — On agreeing to the Rogers (AL) amendments (A021) Agreed to by voice vote.
+- 2026-07-22 — On agreeing to the Rogers (AL) amendments (A022) Agreed to by voice vote.
+- 2026-07-22 — On agreeing to the Rogers (AL) amendments (A023) Agreed to by voice vote.
+- 2026-07-22 — On agreeing to the Rogers (AL) amendments (A024) Agreed to by voice vote.
+- 2026-07-22 — On agreeing to the Self amendment (A017) Agreed to by recorded vote: 221 - 210 (Roll no. 273).
+- 2026-07-22 — On motion that the committee rise Agreed to by voice vote.
+- 2026-07-22 — On motion to recommit Failed by the Yeas and Nays: 213 - 216 (Roll no. 277).
+- 2026-07-22 — On passage Passed by the Yeas and Nays: 216 - 212 (Roll no. 278).
+- 2026-07-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Grothman amendment No. 316, the Chair put the question on agreeing to the amendment and by voice vote, announced the noes had prevailed. Mr. Grothman demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2026-07-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Harrigan amendment No. 44, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mr. Cisneros demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2026-07-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Issa amendment No. 30, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Mr. Casten demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2026-07-22 — POSTPONED PROCEEDINGS - At the conclusion of debate on the Self amendment No. 28, the Chair put the question on agreeing to the amendment and by voice vote, announced the ayes had prevailed. Ms. Houlahan demanded a recorded vote, and the Chair postponed further proceedings until a time to be announced.
+- 2026-07-22 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 216 - 212 (Roll no. 278).
+- 2026-07-22 — Roll call votes on amendments in House
+- 2026-07-22 — Roll call votes on amendments in House
+- 2026-07-22 — Roll call votes on amendments in House
+- 2026-07-22 — Roll call votes on amendments in House
+- 2026-07-22 — The House adopted the amendments en gros as agreed to by the Committee of the Whole House on the state of the Union.
+- 2026-07-22 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2026-07-22 — The House resolved into Committee of the Whole House on the state of the Union for further consideration.
+- 2026-07-22 — The House rose from the Committee of the Whole House on the state of the Union to report H.R. 8800.
+- 2026-07-22 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
+- 2026-07-22 — The previous question was ordered pursuant to the rule.
