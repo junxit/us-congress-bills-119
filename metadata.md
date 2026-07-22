@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6955
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6955
@@ -52,9 +52,10 @@ Main Street Capital Access Act
 - Rep. Calvert, Ken [R-CA-41] (C000059)
 - Rep. Fedorchak, Julie [R-ND-At Large] (F000482)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (2)
 
@@ -88,3 +89,4 @@ Main Street Capital Access Act
 - 2026-07-21 — Rule provides for consideration of H.R. 8800, H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955 and H.R. 9770. The resolution provides for consideration of H.R. 8800 under a structured rule and for consideration of H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955, and H.R. 9770 under a closed rule, with one hour of debate on each measure and one motion to recommit on H.R. 8800, H.R. 8884, H.R. 7008, H.R. 6955, and H.R. 9770.
 - 2026-07-21 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2026-07-21 — The previous question was ordered pursuant to the rule.
+- 2026-07-22 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
