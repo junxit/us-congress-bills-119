@@ -1,0 +1,29 @@
+---
+legis-num: H.R. 9865
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 9865
+
+> To direct the Secretary of Defense to submit a report and establish standards on the timeliness of providing electronic health records to members of the Armed Forces separating from active duty, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Timely Electronic Health Record Transfers for Transitioning Servicemembers Act of 2026”.
+
+## § 2. Report and standards on timeliness of electronic health records during transition from the Armed Forces
+
+- **(a)** *Report*
+  - **(1)** *Requirement* Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional defense committees a report on the timeliness of providing members of the Armed Forces who are separating from active duty with a copy of the electronic health records of the members.
+  - **(2)** *Elements* The report under paragraph (1) shall include the following, with respect to the 1-year period preceding the date of the report:
+    - **(A)** The average number of days following separation from active duty for a member to receive the electronic health records of the member.
+    - **(B)** The most number of days a member has waited to receive such records.
+    - **(C)** An explanation for delays in providing members such records.
+- **(b)** *Standards* Not later than 270 days after the date on which the Secretary submits the report under subsection (a)(1), the Secretary shall establish standards to ensure that a member of the Armed Forces who is separating from active duty receives the electronic health records of the member within a reasonable period.
+- **(c)** *Definitions* In this section:
+  - **(1)** The term “congressional defense committees” has the meaning given such term in section 101(a) of title 10, United States Code.
+  - **(2)** The term “reasonable period”, with respect to the standards established under subsection (b), means a period that the Secretary of Defense determines appropriate after taking into account—
+    - **(A)** the findings of the report under subsection (a)(1); and
+    - **(B)** the views of members of the Armed Forces who are separating from active duty, veterans, and other individuals the Secretary determines appropriate.
