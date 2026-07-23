@@ -1,7 +1,7 @@
 ---
 measure: S. 1135
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1135
@@ -28,3 +28,8 @@ A bill to amend the National Trails System Act to direct the Secretary of the In
 
 - 2025-03-26 — Introduced in Senate
 - 2025-03-26 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2025-12-09 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.
+- 2026-03-04 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2026-07-23 — Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment in the nature of a substitute and an amendment to the title. Without written report.
+- 2026-07-23 — Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment in the nature of a substitute and an amendment to the title. Without written report.
+- 2026-07-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 473.
