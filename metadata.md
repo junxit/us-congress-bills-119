@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8205
 congress: 119
-version: Placed on Calendar Senate
+version: Enrolled Bill
 ---
 
 # H.R. 8205
@@ -148,3 +148,5 @@ Accelerating Access to Critical Therapies for ALS Reauthorization Act of 2026
 - 2026-07-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2026-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2026-07-23 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 466.
+- 2026-09-28 — Passed Senate without amendment by Voice Vote. (consideration: CR S5120)
+- 2026-09-28 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote. (consideration: CR S5120)
