@@ -1,7 +1,7 @@
 ---
 measure: S. 1363
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1363
@@ -24,3 +24,8 @@ New Mexico Land Grant-Mercedes Historical or Traditional Use Cooperation and Coo
 
 - 2025-04-09 — Introduced in Senate
 - 2025-04-09 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2025-12-02 — Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 119-237.
+- 2025-12-17 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.
+- 2026-07-23 — Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment. Without written report.
+- 2026-07-23 — Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment. Without written report.
+- 2026-07-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 476.
