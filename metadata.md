@@ -1,7 +1,7 @@
 ---
 measure: S. 1787
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1787
@@ -28,3 +28,7 @@ Dolores River National Conservation Area and Special Management Area Act
 
 - 2025-05-15 — Introduced in Senate
 - 2025-05-15 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2025-12-17 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2026-07-23 — Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. Without written report.
+- 2026-07-23 — Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. Without written report.
+- 2026-07-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 480.
