@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1550
 congress: 119
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 1550
@@ -41,3 +41,5 @@ Strengthening America’s Turning Point Act
 - 2026-07-23 — Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. Without written report.
 - 2026-07-23 — Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. Without written report.
 - 2026-07-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 492.
+- 2026-09-29 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5140-5144)
+- 2026-09-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (consideration: CR S5140-5144)
