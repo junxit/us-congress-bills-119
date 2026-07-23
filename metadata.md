@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1722
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1722
@@ -43,3 +43,4 @@ Billion Dollar Boondoggle Act
 - 2026-07-22 — Motion to reconsider laid on the table Agreed to without objection.
 - 2026-07-22 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2026-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2026-07-23 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 467.
