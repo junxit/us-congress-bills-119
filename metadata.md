@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 89
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 89
