@@ -1,0 +1,66 @@
+---
+legis-num: H.R. 9908
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 9908
+
+> To require the development of a comprehensive rural hospital cybersecurity workforce development strategy, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Rural Hospital Cybersecurity Enhancement Act”.
+
+## § 2. Definitions
+
+In this Act:
+
+- **(1)** *Agency* The term agency has the meaning given the term in section 551 of title 5, United States Code.
+- **(2)** *Appropriate committees of Congress* The term “appropriate committees of Congress” means—
+  - **(A)** the Committee on Health, Education, Labor, and Pensions of the Senate;
+  - **(B)** the Committee on Finance of the Senate;
+  - **(C)** the Committee on Energy and Commerce of the House of Representatives; and
+  - **(D)** the Committee on Ways and Means of the House of Representatives.
+- **(3)** *Geographic division* The term geographic division means a geographic division that is among the 9 geographic divisions determined by the Bureau of the Census.
+- **(4)** *Rural hospital* The term rural hospital means—
+  - **(A)** a subsection (d) hospital (as defined in section 1886(d)(1)(B) of the Social Security Act (42 U.S.C. 1395ww(d)(1)(B))) that—
+    - **(i)** is located in a rural area (as defined in paragraph (2)(D) of section 1886(d) of such Act);
+    - **(ii)** is treated as being located in a rural area pursuant to paragraph (8)(E) of such section 1886(d); or
+    - **(iii)** is located in a rural census tract of a metropolitan statistical area (as determined under the most recent modification of the Goldsmith Modification, originally published in the Federal Register on February 27, 1992 (57 Fed. Reg. 6725));
+  - **(B)** a critical access hospital (as defined in section 1861(mm)(1) of such Act (42 U.S.C. 1395x(mm)(1)));
+  - **(C)** a sole community hospital (as defined in section 1886(d)(5)(D)(iii) of such Act (42 U.S.C. 1395ww(d)(5)(D)(iii)));
+  - **(D)** a medicare-dependent, small rural hospital (as defined in section 1886(d)(5)(G)(iv) of such Act (42 U.S.C. 1395(ww)(d)(5)(G)(iv)));
+  - **(E)** a low-volume hospital (as defined in section 1886(d)(12)(C) of such Act (42 U.S.C. 1395ww(d)(12)(C))); or
+  - **(F)** a rural emergency hospital (as defined in section 1861(kkk)(2) of such Act (42 U.S.C. 1395x(kkk)(2))).
+- **(5)** *Secretary* The term Secretary means the Secretary of Health and Human Services.
+
+## § 3. Rural hospital cybersecurity workforce development strategy
+
+- **(a)** *In general* Not later than 1 year after the date of enactment of this Act, the Secretary shall develop and transmit to the appropriate committees of Congress a comprehensive rural hospital cybersecurity workforce development strategy to address the growing need for skilled cybersecurity professionals in rural hospitals.
+- **(b)** *Consultation*
+  - **(1)** *Agencies* In carrying out subsection (a), the Secretary shall consult with the Director of the Cybersecurity and Infrastructure Security Agency, the Secretary of Education, the Secretary of Labor, the National Cyber Director, and any other appropriate head of an agency.
+  - **(2)** *Providers* In carrying out subsection (a), the Secretary shall consult with not fewer than 2 representatives of rural health care providers from each geographic division in the United States.
+- **(c)** *Considerations* The rural hospital cybersecurity workforce development strategy developed under subsection (a) shall, at a minimum, consider the following components:
+  - **(1)** Partnerships between rural hospitals, hospitals that are not rural hospitals as defined in section 2(4), educational institutions, and private nonprofit or for-profit entities, to develop, promote, and expand the rural hospital cybersecurity workforce, including through education and training programs tailored to the needs of rural hospitals.
+  - **(2)** The development of a cybersecurity curriculum and teaching resources that focus on teaching technical skills and abilities related to cybersecurity in rural hospitals for use in community colleges, vocational schools, and other educational institutions located in rural areas.
+  - **(3)** Identification of—
+    - **(A)** cybersecurity workforce challenges of rural hospitals; and
+    - **(B)** common practices to mitigate the challenges described in subparagraph (A).
+- **(d)** *Annual briefing* Not later than 60 days after the date on which the first full fiscal year ends following the date on which the Secretary transmits the rural hospital cybersecurity workforce development strategy developed under subsection (a), and not later than 60 days after the date on which each fiscal year thereafter ends, the Secretary shall provide a briefing to the appropriate committees of Congress that includes, at a minimum, information relating to—
+  - **(1)** updates to the rural hospital cybersecurity workforce development strategy, as appropriate;
+  - **(2)** any programs or initiatives established pursuant to the rural hospital cybersecurity workforce development strategy, and the number of individuals trained or educated through such programs or initiatives; and
+  - **(3)** the effectiveness of the rural hospital cybersecurity workforce development strategy in addressing the need for skilled cybersecurity professionals in rural hospitals.
+
+## § 4. Instructional materials for rural hospitals
+
+- **(a)** *In general* Not later than 1 year after the date of enactment of this Act, the Secretary shall publish on the website of the Department of Health and Human Services and make available through other appropriate means, at no cost, instructional materials for rural hospitals that can be used to train staff on fundamental cybersecurity efforts.
+- **(b)** *Duties* In carrying out subsection (a), the Secretary shall—
+  - **(1)** consult with appropriate heads of agencies, experts in cybersecurity education, and rural health care experts;
+  - **(2)** identify existing cybersecurity instructional materials that can be adapted for use in rural hospitals and develop new materials as needed; and
+  - **(3)** conduct an awareness campaign to promote the materials available to rural hospitals developed under subsection (a).
+
+## § 5. No additional funds
+
+No additional funds are authorized to be appropriated for the purpose of carrying out this Act.
