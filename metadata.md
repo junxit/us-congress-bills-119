@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7283
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7283
@@ -20,9 +20,10 @@ Ensuring Federal Purchasing Efficiency Act
 
 - Rep. Walkinshaw, James R. [D-VA-11] (W000831)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Ensuring Federal Purchasing Efficiency Act
 - 2026-07-22 — Motion to reconsider laid on the table Agreed to without objection.
 - 2026-07-22 — On motion to suspend the rules and pass the bill Agreed to by voice vote.
 - 2026-07-22 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2026-07-23 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
