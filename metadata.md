@@ -1,7 +1,7 @@
 ---
 measure: H.R. 204
 congress: 119
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 204
@@ -35,3 +35,8 @@ ACRES Act
 - 2025-01-21 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H244-245)
 - 2025-01-21 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H244-245)
 - 2025-01-22 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2026-02-12 — Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.
+- 2026-03-04 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2026-07-23 — Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. Without written report.
+- 2026-07-23 — Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. Without written report.
+- 2026-07-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 490.
