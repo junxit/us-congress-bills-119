@@ -1,7 +1,7 @@
 ---
 measure: S. 2787
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2787
@@ -16,9 +16,10 @@ Grasslands Grazing Act of 2025
 
 - Sen. Barrasso, John [R-WY] (B001261)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Lummis, Cynthia M. [R-WY] (L000571)
+- Sen. Thune, John [R-SD] (T000250)
 
 ## Committees (1)
 
@@ -28,3 +29,8 @@ Grasslands Grazing Act of 2025
 
 - 2025-09-11 — Introduced in Senate
 - 2025-09-11 — Read twice and referred to the Committee on Energy and Natural Resources. (text: CR S6578)
+- 2026-02-12 — Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.
+- 2026-03-04 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.
+- 2026-07-23 — Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment. Without written report.
+- 2026-07-23 — Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment. Without written report.
+- 2026-07-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 485.
