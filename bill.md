@@ -1,7 +1,7 @@
 ---
 legis-num: S. 700
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -35,3 +35,5 @@ chamber: IN THE SENATE OF THE UNITED STATES
 - **(g)** *Use of land; reversion*
   - **(1)** *In general* The land conveyed to the County under subsection (b) shall be used by the County only for the purposes of serving and supporting veterans of the Armed Forces.
   - **(2)** *Reversion* If any land conveyed under subsection (b) is used in a manner that is inconsistent with the requirements of paragraph (1), all right, title, and interest in and to the land shall revert to the United States, at the discretion of the Secretary.
+- **(g)** *Use of land* The land conveyed to the County under subsection (b) shall be used by the County only for the purposes of serving and supporting veterans of the Armed Forces.
+- **(h)** *Reversion* If any land conveyed under subsection (b) is used in a manner that is inconsistent with the requirements of subsection (g), all right, title, and interest in and to the land shall revert to the United States, at the discretion of the Secretary.
