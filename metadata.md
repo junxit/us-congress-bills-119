@@ -1,7 +1,7 @@
 ---
 measure: S. 3878
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3878
@@ -28,3 +28,7 @@ A bill to establish the Grand Village of the Natchez Indians and Jefferson Colle
 
 - 2026-02-12 — Introduced in Senate
 - 2026-02-12 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2026-06-10 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2026-07-23 — Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. Without written report.
+- 2026-07-23 — Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. Without written report.
+- 2026-07-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 489.
