@@ -1,7 +1,7 @@
 ---
 measure: S. 2787
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -26,9 +26,9 @@ to guess them.
 
 ### 43 U.S.C. § 1752
 
-> Section 402(a) of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1752(a)) is amended by striking “lands within National Forests” and inserting “National Forest System (as defined in section 11(a) of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1609(a))) land”.
+> Section 402(a) of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1752(a)) is amended by striking “lands within National Forests in the sixteen contiguous Western States” and inserting “National Forest System (as defined in section 11(a) of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1609(a))) land”.
 
 | | |
 |---|---|
-| Removed | `lands within National Forests` |
+| Removed | `lands within National Forests in the sixteen contiguous Western States` |
 | Inserted | `National Forest System (as defined in section 11(a) of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1609(a))) land` |
