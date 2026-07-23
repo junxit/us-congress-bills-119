@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 113
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.Con.Res. 113
@@ -16,9 +16,10 @@ Establishing the congressional budget for the United States Government for fisca
 
 - Rep. Arrington, Jodey C. [R-TX-19] (A000375)
 
-## Committees (1)
+## Committees (2)
 
 - House — Budget Committee
+- Senate — Budget Committee
 
 ## Recorded votes (1)
 
@@ -43,3 +44,7 @@ Establishing the congressional budget for the United States Government for fisca
 - 2026-07-22 — The House rose from the Committee of the Whole House on the state of the Union to report H. Con. Res. 113.
 - 2026-07-22 — The Speaker designated the Honorable Craig A. Goldman to act as Chairman of the Committee.
 - 2026-07-22 — The previous question was ordered pursuant to the rule.
+- 2026-07-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 468.
+- 2026-07-23 — Received in the Senate and referred to the Committee on the Budget.
+- 2026-07-23 — Senate Committee on the Budget discharged pursuant to Sec. 300 of the Congressional Budget Act.
+- 2026-07-23 — Senate Committee on the Budget discharged pursuant to Sec. 300 of the Congressional Budget Act.
