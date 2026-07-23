@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1353
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,4 +11,4 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Extension of authority for modifications to Second Division Memorial
 
-Notwithstanding section 8903(e) of title 40, United States Code, the authority provided by section 352 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 131 Stat. 1367) shall continue to apply through September 30, 2032.
+Notwithstanding section 8903(e) of title 40, United States Code, the authority provided by section 352 of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91; 131 Stat. 1367) shall continue to apply through September 30, 20322033.
