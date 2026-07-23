@@ -1,7 +1,7 @@
 ---
 measure: S. 1175
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,9 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| — | replace | in paragraph (1), by striking “4,999” and inserting “999”; and | the bill names no machine-readable US Code section |
+| — | replace | in the matter preceding the table, by striking “5,000” and inserting “1,000”; and | the bill names no machine-readable US Code section |
+| — | replace | by striking the table and inserting the following: | the bill names no machine-readable US Code section |
 | — | replace | in paragraph (1), by striking “4,999” and inserting “999”; and | the bill names no machine-readable US Code section |
 | — | replace | in the matter preceding the table, by striking “5,000” and inserting “1,000”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking the table and inserting the following: | the bill names no machine-readable US Code section |
