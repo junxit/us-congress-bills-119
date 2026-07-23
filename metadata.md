@@ -1,7 +1,7 @@
 ---
 measure: S. 815
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 815
@@ -28,3 +28,7 @@ A bill to designate the outdoor amphitheater at the Blue Ridge Music Center in G
 
 - 2025-03-03 — Introduced in Senate
 - 2025-03-03 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2026-03-04 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2026-07-23 — Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. Without written report.
+- 2026-07-23 — Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. Without written report.
+- 2026-07-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 472.
