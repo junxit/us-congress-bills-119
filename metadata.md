@@ -1,7 +1,7 @@
 ---
 measure: S. 4723
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4723
@@ -28,3 +28,7 @@ Eliminate PRC Organized Crime Act
 
 - 2026-06-09 — Introduced in Senate
 - 2026-06-09 — Read twice and referred to the Committee on Foreign Relations.
+- 2026-06-17 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2026-07-27 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute and an amendment to the title. Without written report.
+- 2026-07-27 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute and an amendment to the title. Without written report.
+- 2026-07-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 518.
