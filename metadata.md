@@ -1,7 +1,7 @@
 ---
 measure: S. 4259
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4259
@@ -16,10 +16,12 @@ Blue Skies for Taiwan Act of 2026
 
 - Sen. Merkley, Jeff [D-OR] (M001176)
 
-## Cosponsors (2)
+## Cosponsors (4)
 
 - Sen. Cruz, Ted [R-TX] (C001098)
 - Sen. Curtis, John R. [R-UT] (C001114)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
 
 ## Committees (1)
 
@@ -29,3 +31,7 @@ Blue Skies for Taiwan Act of 2026
 
 - 2026-03-26 — Introduced in Senate
 - 2026-03-26 — Read twice and referred to the Committee on Foreign Relations.
+- 2026-06-17 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2026-07-27 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
+- 2026-07-27 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
+- 2026-07-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 507.
