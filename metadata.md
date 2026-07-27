@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4541
 congress: 119
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 4541
@@ -39,9 +39,10 @@ To reauthorize the Young Women’s Breast Health Education and Awareness Require
 - Rep. Wilson, Joe [R-SC-2] (W000795)
 - Rep. Kennedy, Timothy M. [D-NY-26] (K000402)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -68,3 +69,5 @@ To reauthorize the Young Women’s Breast Health Education and Awareness Require
 - 2026-07-20 — Mr. Guthrie moved to suspend the rules and pass the bill, as amended.
 - 2026-07-20 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 6 (Roll no. 250). (text: CR H4648)
 - 2026-07-20 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 394 - 6 (Roll no. 250). (text: CR H4648)
+- 2026-07-21 — Received in the Senate.
+- 2026-07-27 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
