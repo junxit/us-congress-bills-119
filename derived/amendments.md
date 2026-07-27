@@ -1,7 +1,7 @@
 ---
 measure: S. 3900
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 1 executed, 4 stated and not applied.
+11 amendatory instructions. 2 executed, 9 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,6 +33,15 @@ to guess them.
 | Removed | `Not later than` |
 | Inserted | `(A) Initial strategy.—Not later than` |
 
+### 22 U.S.C. § 8754a
+
+> Section 5124(c)(5)(A) of the National Defense Authorization Act for Fiscal Year 2025 (22 U.S.C. 8754a(c)(5)(A)), as redesignated by section 3(b)(1)(B), is amended by striking “each of fiscal years 2025 and 2026” and inserting “each fiscal year through fiscal year 2030”.
+
+| | |
+|---|---|
+| Removed | `each of fiscal years 2025 and 2026` |
+| Inserted | `each fiscal year through fiscal year 2030` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -46,3 +55,8 @@ complete account of the bill's effect, which it is not.
 | `22 U.S.C. § 8754` | insert | by inserting after paragraph (10) the following new paragraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 8754` | add-at-end | by adding at the end of the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 8754a` | insert | Section 5124(b)(5)(A) of the National Defense Authorization Act for Fiscal Year 2025 (22 U.S.C. 8754a(b)(5)(A)) is amended by inserting “and not less than $20,000,000 for each of fiscal years 2027 through 2030” after “$15,000,000 for eac… | the bill quotes the text inserted but describes where it goes |
+| `22 U.S.C. § 8754a` | replace | in subsection (a)(2), by striking subparagraphs (A) through (G) and inserting the following new subparagraphs: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 8754a` | redesignate | by redesignating subsection (b) as subsection (c); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 8754a` | insert | by inserting after subsection (a) the following new subsection: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 8754` | redesignate | by redesignating paragraphs (11) and (12) as paragraphs (12) and (13), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `22 U.S.C. § 8754` | insert | by inserting after paragraph (10) the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
