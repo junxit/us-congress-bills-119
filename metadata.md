@@ -1,7 +1,7 @@
 ---
 measure: S. 4610
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4610
@@ -16,11 +16,12 @@ Pacific POWER Act
 
 - Sen. Schatz, Brian [D-HI] (S001194)
 
-## Cosponsors (3)
+## Cosponsors (4)
 
 - Sen. McCormick, David [R-PA] (M001243)
 - Sen. Curtis, John R. [R-UT] (C001114)
 - Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Fetterman, John [D-PA] (F000479)
 
 ## Committees (1)
 
@@ -30,3 +31,7 @@ Pacific POWER Act
 
 - 2026-05-20 — Introduced in Senate
 - 2026-05-20 — Read twice and referred to the Committee on Foreign Relations.
+- 2026-06-17 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2026-07-27 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
+- 2026-07-27 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
+- 2026-07-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 513.
