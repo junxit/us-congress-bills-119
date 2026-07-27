@@ -1,7 +1,7 @@
 ---
 measure: S. 4570
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 1 executed, 0 stated and not applied.
+2 amendatory instructions. 2 executed, 0 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,15 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 22 U.S.C. § 10305
+
+> Subsection (d) of section 9508 of the Department of State Authorization Act of 2022 (22 U.S.C. 10305) is amended by striking “2027” and inserting “2032”.
+
+| | |
+|---|---|
+| Removed | `2027` |
+| Inserted | `2032` |
 
 ### 22 U.S.C. § 10305
 
