@@ -1,7 +1,7 @@
 ---
 measure: S. 3984
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 2 executed, 0 stated and not applied.
+4 amendatory instructions. 4 executed, 0 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -41,3 +41,21 @@ to guess them.
 |---|---|
 | Removed | `September 30, 2026` |
 | Inserted | `September 30, 2028` |
+
+### 22 U.S.C. § 6435
+
+> Section 207(a) of the International Religious Freedom Act of 1998 (22 U.S.C. 6435(a)) is amended by striking “2025 and 2026” and inserting “2026 through 2028”.
+
+| | |
+|---|---|
+| Removed | `2025 and 2026` |
+| Inserted | `2026 through 2028` |
+
+### 22 U.S.C. § 6436
+
+> Section 209 of the International Religious Freedom Act of 1998 (22 U.S.C. 6436) is amended by striking “September 30, 2026” and inserting “December 31, 2028”.
+
+| | |
+|---|---|
+| Removed | `September 30, 2026` |
+| Inserted | `December 31, 2028` |
