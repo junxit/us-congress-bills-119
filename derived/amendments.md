@@ -1,7 +1,7 @@
 ---
 measure: S. 3788
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 1 executed, 5 stated and not applied.
+9 amendatory instructions. 2 executed, 7 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,6 +33,15 @@ to guess them.
 | Removed | `count: Provided, That under clause (2) of this paragraph reasonable variations` |
 | Inserted | `count, provided that under this clause, reasonable variations` |
 
+### 21 U.S.C. § 333
+
+> Section 303(f)(5)(A) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 333(f)(5)(A)) is amended by striking “(1), (2), (3), (4), or (9)” and inserting “(1), (2), (3), (4), (9), or (10)”.
+
+| | |
+|---|---|
+| Removed | `(1), (2), (3), (4), or (9)` |
+| Inserted | `(1), (2), (3), (4), (9), or (10)` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -47,3 +56,5 @@ complete account of the bill's effect, which it is not.
 | `21 U.S.C. § 352` | replace | by striking “(b) If in a package form” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `21 U.S.C. § 352` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `19 U.S.C. § 1304` | add-at-end | Section 304 of the Tariff Act of 1930 (19 U.S.C. 1304) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 353` | add-at-end | Section 503 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 353) is amended by adding at the end the following — | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 333` | add-at-end | Section 303(f) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 333(f)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
