@@ -1,7 +1,7 @@
 ---
 measure: S. 3733
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
