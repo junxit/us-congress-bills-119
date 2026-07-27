@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 781
 congress: 119
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 781
@@ -16,7 +16,7 @@ A resolution commemorating June 19, 2026, as "Juneteenth National Independence D
 
 - Sen. Cornyn, John [R-TX] (C001056)
 
-## Cosponsors (21)
+## Cosponsors (22)
 
 - Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
 - Sen. Sanders, Bernard [I-VT] (S000033)
@@ -39,6 +39,7 @@ A resolution commemorating June 19, 2026, as "Juneteenth National Independence D
 - Sen. Scott, Tim [R-SC] (S001184)
 - Sen. Justice, James C. [R-WV] (J000312)
 - Sen. Britt, Katie Boyd [R-AL] (B001319)
+- Sen. Cantwell, Maria [D-WA] (C000127)
 
 ## Committees (1)
 
@@ -48,3 +49,7 @@ A resolution commemorating June 19, 2026, as "Juneteenth National Independence D
 
 - 2026-06-18 — Referred to the Committee on the Judiciary. (text: CR S2940)
 - 2026-06-18 — Submitted in Senate
+- 2026-07-27 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2026-07-27 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4286)
+- 2026-07-27 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2026-07-27 — Senate Committee on the Judiciary discharged by Unanimous Consent.
