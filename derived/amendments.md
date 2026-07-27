@@ -1,7 +1,7 @@
 ---
 measure: S. 3794
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-7 amendatory instructions. 1 executed, 6 stated and not applied.
+12 amendatory instructions. 1 executed, 11 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -48,3 +48,8 @@ complete account of the bill's effect, which it is not.
 | `21 U.S.C. § 353a` | insert | by inserting after subsection (c) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 353b` | add-at-end | Section 503B(b) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 353b(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 360` | insert | Section 510(g)(1) of such Act (21 U.S.C. 360(g)(1)) is amended by inserting before the semicolon at the end the following: “, except that the exemption in this paragraph shall not apply to any outsourcing facility (as defined in section … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 353a` | redesignate | by redesignating subsections (d) and (e) as subsections (e) and (f), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 353a` | insert | by inserting after subsection (c) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 353a` | replace | in subparagraph (A), by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `21 U.S.C. § 353a` | replace | in subparagraph (B)(ii), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `21 U.S.C. § 353a` | insert | by inserting after subparagraph (B) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
