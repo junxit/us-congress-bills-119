@@ -1,7 +1,7 @@
 ---
 measure: S. 4680
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4680
@@ -28,3 +28,7 @@ Expanded Consular Fellows Act of 2026
 
 - 2026-06-04 — Introduced in Senate
 - 2026-06-04 — Read twice and referred to the Committee on Foreign Relations.
+- 2026-06-17 — Committee on Foreign Relations. Ordered to be reported without amendment favorably.
+- 2026-07-27 — Committee on Foreign Relations. Reported by Senator Risch without amendment. Without written report.
+- 2026-07-27 — Committee on Foreign Relations. Reported by Senator Risch without amendment. Without written report.
+- 2026-07-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 515.
