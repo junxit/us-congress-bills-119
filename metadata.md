@@ -1,7 +1,7 @@
 ---
 measure: S. 4600
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4600
@@ -28,3 +28,7 @@ South China Sea Strategy Act of 2026
 
 - 2026-05-20 — Introduced in Senate
 - 2026-05-20 — Read twice and referred to the Committee on Foreign Relations.
+- 2026-06-17 — Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2026-07-27 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
+- 2026-07-27 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
+- 2026-07-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 512.
