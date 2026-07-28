@@ -1,7 +1,7 @@
 ---
 measure: S. 2658
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-10 amendatory instructions. 0 executed, 10 stated and not applied.
+20 amendatory instructions. 0 executed, 20 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,16 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| `21 U.S.C. § 355` | add-at-end | Section 505(b) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 355` | strike | in clause (vii), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `21 U.S.C. § 355` | replace | in clause (viii)(II), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `21 U.S.C. § 355` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 262` | add-at-end | Section 351(a)(2) of the Public Health Service Act (42 U.S.C. 262(a)(2)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 331` | replace | in clause (B), by striking “; or” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `21 U.S.C. § 331` | replace | in clause (C), by striking the period and inserting “; or”; and | the bill quotes the text inserted but describes where it goes |
+| `21 U.S.C. § 331` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 355` | add-at-end | Chapter 28 of title 35, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 355` | add-at-end | The table of sections for chapter 28 of title 35, United States Code, is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 355` | add-at-end | Section 505(b) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(b)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 355` | strike | in clause (vii), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `21 U.S.C. § 355` | replace | in clause (viii)(II), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
