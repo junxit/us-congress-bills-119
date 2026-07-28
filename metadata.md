@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 199
 congress: 119
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 199
@@ -16,7 +16,7 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Sen. Murray, Patty [D-WA] (M001111)
 
-## Cosponsors (15)
+## Cosponsors (17)
 
 - Sen. Blumenthal, Richard [D-CT] (B001277)
 - Sen. Booker, Cory A. [D-NJ] (B001288)
@@ -33,6 +33,8 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - Sen. Van Hollen, Chris [D-MD] (V000128)
 - Sen. Warren, Elizabeth [D-MA] (W000817)
 - Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Schumer, Charles E. [D-NY] (S000148)
+- Sen. Kim, Andy [D-NJ] (K000394)
 
 ## Committees (1)
 
@@ -42,3 +44,6 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - 2026-06-24 — Introduced in Senate
 - 2026-06-24 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2026-07-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 533.
+- 2026-07-28 — Senate Committee on Health, Education, Labor, and Pensions discharged, by petition, pursuant to 5 U.S.C. 802(c).
+- 2026-07-28 — Senate Committee on Health, Education, Labor, and Pensions discharged, by petition, pursuant to 5 U.S.C. 802(c).
