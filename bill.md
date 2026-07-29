@@ -1,0 +1,45 @@
+---
+legis-num: S. 5156
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 5156
+
+> To amend the Internal Revenue Code of 1986 to provide for in-service rollovers for individual retirement annuity purchases, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Retirement Simplification and Clarity Act”.
+
+## § 2. In-service rollovers for annuity purchases
+
+- **(a)** *In general* Section 401(k) of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:
+  > - **(17)** *Special rule for pre-retirement rollover* Notwithstanding the requirements of paragraph (2)(B)(i), a plan may permit a participant who has attained age 50 or older to elect a direct rollover to an individual retirement annuity (as defined in section 408(b)) of all or a portion of the accrued benefit of the participant attributable to employer contributions made pursuant to the employee’s election.
+
+- **(b)** *Safe harbor* Section 402(f) of the Internal Revenue Code of 1986 is amended by redesignating paragraph (2) as paragraph (3) and by inserting after paragraph (1) the following new paragraph:
+  > - **(2)** *Safe harbor*
+  >   - **(A)** *In general* A written explanation shall satisfy the requirements of paragraph (1) if it includes the following information in concise, plain language:
+  >     - **(i)** The taxpayer has 30 days to review such explanation before they must take any action.
+  >     - **(ii)** Distributions made directly to the taxpayer will be subject to income tax withholding and added to gross income to the extent taxable.
+  >     - **(iii)** The taxpayer may owe an additional 10 percent tax on a distribution issued before the taxpayer attains age 59½.
+  >     - **(iv)** A 20 percent income tax withholding will apply to distributions that are not eligible for rollover.
+  >     - **(v)** A taxpayer can defer Federal income tax on eligible distributions by rolling such distribution over to another qualified plan or individual retirement arrangement.
+  >     - **(vi)** A taxpayer may not roll over—
+  >       - **(I)** required minimum distributions,
+  >       - **(II)** hardship distributions,
+  >       - **(III)** a series of payments to be made over a number of years,
+  >       - **(IV)** employee stock ownership plan dividends, or
+  >       - **(V)** corrective distributions.
+  >     - **(vii)** The plan administrator can be contacted for information regarding whether all or a portion of a payment to the taxpayer is eligible for rollover.
+  >     - **(viii)** A plan may require the taxpayer to take a distribution upon the taxpayer’s attainment of the plan’s retirement age, or in the case of a benefit that is less than $7,000, the plan may automatically pay the benefit directly to the taxpayer or in a rollover to an individual retirement account or, for designated Roth amounts, a Roth IRA it establishes for the taxpayer.
+  >     - **(ix)** Eligible amounts may be rolled over to a new plan or to an individual retirement account when a taxpayer changes employers, and the administrator of the new plan can confirm how to accomplish such a rollover.
+  >     - **(x)** The taxpayer may choose to leave eligible amounts in the taxpayer's original plan when changing employers.
+  >     - **(xi)** The taxpayer may roll over an eligible distribution to an individual retirement account or individual retirement annuity, or a Roth IRA for designated Roth contributions.
+  >     - **(xii)** Direct rollovers are not subject to mandatory 20 percent withholding under section 3405, and the distribution may be in the form of a check payable to the new plan or arrangement or by electronic transfer.
+  >     - **(xiii)** If the taxpayer receives a payment directly, the taxpayer has up to 60 days from the date of distribution to roll over an amount equal to the eligible amount received plus the dollar amount that was withheld and sent to the Internal Revenue Service.
+  >     - **(xiv)** The taxpayer may obtain additional information from the Internal Revenue Service.
+  >   - **(B)** *Regulations and Guidance* The Secretary may promulgate such regulations and guidance as are necessary to administer this section, including regulations updating the list in subparagraph (A) as necessary.
+
+- **(c)** *Effective Date* The amendments made by this section shall apply to taxable years beginning after December 31, 2026.
