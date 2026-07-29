@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 608
 congress: 119
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 608
@@ -24,3 +24,7 @@ A resolution expressing the sense of the Senate that Ghislaine Maxwell should no
 
 - 2026-02-12 — Referred to the Committee on the Judiciary. (text: CR S613)
 - 2026-02-12 — Submitted in Senate
+- 2026-07-29 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2026-07-29 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4311)
+- 2026-07-29 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2026-07-29 — Senate Committee on the Judiciary discharged by Unanimous Consent.
