@@ -1,0 +1,31 @@
+---
+measure: S.Res. 820
+congress: 119
+version: Introduced in Senate
+---
+
+# S.Res. 820
+
+A resolution designating August 7, 2026, as "National Lighthouse Day".
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Sen. Peters, Gary C. [D-MI] (P000595)
+
+## Cosponsors (2)
+
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+
+## Committees (1)
+
+- Senate — Judiciary Committee
+
+## Actions
+
+- 2026-07-30 — Referred to the Committee on the Judiciary. (text: CR S4390-4391)
+- 2026-07-30 — Submitted in Senate
