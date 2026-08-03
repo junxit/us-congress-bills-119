@@ -42,9 +42,7 @@ This Act may be cited as the “Foreign Robocall Elimination Act”.
     - **(B)** *Inability to reach agreement*
       - **(i)** *In general* Subject to clauses (ii) and (iii), if the Chairman of the Commission, the Chairman of the Federal Trade Commission, and the Attorney General cannot reach agreement regarding an appointment described in subparagraph (A), as determined by the Chairman of the Commission, the Chairman of the Commission shall make that appointment.
       - **(ii)** *Notice of appointments* Not later than 48 hours before appointing a member to the taskforce under clause (i), the Chairman of the Commission shall provide notice of the proposed appointment to the commissioners of the Commission.
-      - **(iii)** *Request for vote*
-        - **(I)** *In general* Except as provided in subclause (II), if, after receiving notice under clause (ii) of a proposed appointment under clause (i), not fewer than 2 commissioners of the Commission request that the proposed appointment be subject to a vote of the Commission, the Chairman of the Commission may not make that appointment unless a majority of the commissioners of the Commission vote to approve the appointment.
-        - **(II)** *Inapplicability* Subclause (I) shall have no force or effect during any period in which there has been a vacancy with respect to a position as commissioner of the Commission for more than 180 days.
+      - **(iii)** *Request for vote* If, after receiving notice under clause (ii) of a proposed appointment under clause (i), a commissioner of the Commission requests that the proposed appointment be subject to a vote of the Commission, the Chairman of the Commission may not make that appointment unless a majority of the commissioners of the Commission vote to approve the appointment.
 - **(d)** *Report*
   - **(1)** *In general* The taskforce shall prepare a report on unlawful robocalls, which shall contain recommendations and advice for Federal agencies with jurisdiction relevant to combating unlawful robocalls, and for Congress, regarding the most effective ways to combat unlawful robocalls made into the United States from outside the United States.
   - **(2)** *Matters to be studied* In preparing the report required under paragraph (1), the taskforce shall—
@@ -57,15 +55,24 @@ This Act may be cited as the “Foreign Robocall Elimination Act”.
     - **(G)** determine whether—
       - **(i)** the technical standards commonly known as “STIR/SHAKEN” adequately provide call authentication for unlawful robocalls from foreign originating providers or foreign intermediate providers through gateway providers in the United States; and
       - **(ii)** it would be desirable to encourage other countries to adopt the standards described in clause (i);
-    - **(H)** determine if coordination with respect to technologies and incentives to combat unlawful robocalls placed from outside the United States into the United States can help inform strategies to combat potentially fraudulent, or otherwise unlawful, text messages sent from persons outside the United States to persons within the United States;
-    - **(I)** examine ways to provide incentives to foreign countries to cooperate with law enforcement efforts in the United States to combat unlawful robocalls;
-    - **(J)** examine whether any Federal agency, or any other organization, that combats unlawful robocalls needs additional resources in order to more effectively combat unlawful robocalls made into the United States from outside the United States;
-    - **(K)** specifically consider whether the ability of the Attorney General to conduct enforcement activities with respect to unlawful robocalls would be increased through the establishment of an office within the Department of Justice dedicated to those enforcement activities;
-    - **(L)** examine how increased criminal penalties based on the volume of unlawful robocalls could help prevent unlawful robocalls made into the United States;
-    - **(M)** examine how many enforcement activities the Attorney General has undertaken in the year preceding the date on which the preparation of the report begins, including in response to referrals made by the Commission;
-    - **(N)** specifically determine how the Attorney General has pursued forfeiture amounts in enforcement activities with respect to unlawful robocalls;
-    - **(O)** seek input, as appropriate, from technologists and private sector innovators to find solutions for combating unlawful robocalls; and
-    - **(P)** identify a list of best practices regarding the identification and blocking of unlawful robocalls that telephone service providers and providers of technology solutions can voluntarily implement to improve the effectiveness of mitigating unlawful robocalls made into the United States from outside the United States.
+    - **(H)** examine ways to provide incentives to foreign countries to cooperate with law enforcement efforts in the United States to combat unlawful robocalls;
+    - **(I)** examine whether any Federal agency, or any other organization, that combats unlawful robocalls needs additional resources in order to more effectively combat unlawful robocalls made into the United States from outside the United States;
+    - **(J)** specifically consider whether the ability of the Attorney General to conduct enforcement activities with respect to unlawful robocalls would be increased through the establishment of an office within the Department of Justice dedicated to those enforcement activities;
+    - **(K)** examine how increased criminal penalties based on the volume of unlawful robocalls could help prevent unlawful robocalls made into the United States;
+    - **(L)** examine how many enforcement activities the Attorney General has undertaken in the year preceding the date on which the preparation of the report begins, including in response to referrals made by the Commission;
+    - **(M)** specifically determine how the Attorney General has pursued forfeiture amounts in enforcement activities with respect to unlawful robocalls;
+    - **(N)** seek input, as appropriate, from technologists and private sector innovators to find solutions for combating unlawful robocalls;
+    - **(O)** identify a list of best practices regarding the identification and blocking of unlawful robocalls that telephone service providers and providers of technology solutions can voluntarily implement to improve the effectiveness of mitigating unlawful robocalls made into the United States from outside the United States;
+    - **(P)** evaluate whether requiring periodic public disclosure, in whole or in part, of the results of trace backs conducted by the Consortium would impact the integrity and effectiveness of the trace back process of the Consortium, including by—
+      - **(i)** revealing investigative methods;
+      - **(ii)** allowing consumers and businesses to avoid providers with a track record of making unlawful robocalls;
+      - **(iii)** exposing proprietary, competitively sensitive, or confidential information of legitimate providers or entities;
+      - **(iv)** strengthening accountability and deterrence;
+      - **(v)** enabling the initiators of unlawful robocalls to evade detection, adapt tactics, or exploit system vulnerabilities;
+      - **(vi)** improving the efforts of voice service providers to block calls that are determined to be unwanted based on reasonable analytics;
+      - **(vii)** impeding cooperation with future law enforcement investigations or future consumer protection efforts; or
+      - **(viii)** ensuring fairness in the reporting of trace back information; and
+    - **(Q)** examine mechanisms for improving compliance with the requirements imposed pursuant to sections 6 and 7 of the Pallone-Thune TRACED Act (47 U.S.C. 227b–1, 227 note).
   - **(3)** *Report to Congress* Not later than 360 days after the date on which the taskforce is established under subsection (b), the taskforce shall submit to Congress the report prepared under this subsection.
 - **(e)** *Use of funds* Notwithstanding section 1346 of title 31, United States Code, funds made available by this or any other Act to the Commission, the Federal Trade Commission, or the Department of Justice may be used by the applicable Federal agency for coordination with, participation in, or recommendations involving the taskforce, as required under this section.
 - **(f)** *Termination* The taskforce shall terminate on the date that is 90 days after the date on which the taskforce submits to Congress the report prepared under subsection (d), as required under paragraph (3) of that subsection.
@@ -73,3 +80,48 @@ This Act may be cited as the “Foreign Robocall Elimination Act”.
 ## § 3. FCC notice provision
 
 Section 13(d)(2) of the Pallone-Thune TRACED Act (Public Law 116–105) is amended by striking “annually” and inserting “once every 3 years”.
+
+## § 4. Registered consortium conducting private-led efforts to trace back the origin of suspected unlawful robocalls
+
+- **(a)** *Immunity for receiving, sharing, and publishing trace back information* Section 13(d) of the Pallone-Thune TRACED Act (Public Law 116–105; 133 Stat. 3287) is amended by adding at the end the following:
+  > - **(3)** *Immunity for receiving, sharing, and publishing trace back information*
+  >   - **(A)** *Definition* In this paragraph, the term covered information—
+  >     - **(i)** means information regarding suspected—
+  >       - **(I)** fraudulent, abusive, or unlawful robocalls;
+  >       - **(II)** illegally spoofed calls; and
+  >       - **(III)** other illegal calls; and
+  >     - **(ii)** includes—
+  >       - **(I)** call detail records of calls described in clause (i);
+  >       - **(II)** the names of, and other identifying information concerning, the voice service providers that originated, carried, routed, and transmitted calls described in clause (i); and
+  >       - **(III)** information about the entities that made calls described in clause (i), including any contact information of individuals that such an entity provided to the voice service provider that originated the call.
+  >   - **(B)** *Trace back immunity* No cause of action shall lie or be maintained in any court against the registered consortium for receiving, sharing, or publishing covered information or information derived from covered information.
+
+- **(b)** *Publication of list of voice service providers* Section 13(e) of the Pallone-Thune TRACED Act (Public Law 116–105; 133 Stat. 3287) is amended to read as follows:
+  > - **(e)** *List of voice service providers*
+  >   - **(1)** *Publication of list* The Commission, or the registered consortium in consultation with the Commission, may publish a list of voice service providers based on—
+  >     - **(A)** information obtained by the consortium about voice service providers that refuse to participate in private-led efforts to trace back the origin of suspected unlawful robocalls; and
+  >     - **(B)** other information the Commission or the consortium may collect about voice service providers that are found to originate or transmit substantial amounts of unlawful robocalls.
+  >   - **(2)** *Enforcement* The Commission may take enforcement action based on the information described in paragraph (1).
+
+## § 5. Robocall Mitigation Database
+
+- **(a)** *Definitions* In this section:
+  - **(1)** *Commission* The term Commission means the Federal Communications Commission.
+  - **(2)** *Robocall Mitigation Database* The term Robocall Mitigation Database has the meaning given the term in section 64.6300 of title 47, Code of Federal Regulations, or any successor regulation.
+  - **(3)** *Unlawful robocall* The term unlawful robocall has the meaning given the term in section 2(a).
+- **(b)** *Bond requirement*
+  - **(1)** *In general* The Commission shall issue rules to require that, subject to the other provisions of this section, before a provider may file a certification to the Robocall Mitigation Database, the provider shall post a bond in an amount that is not more than $100,000, if the Commission determines that posting such a bond is necessary to preserve the integrity of the Robocall Mitigation Database.
+  - **(2)** *Excepted providers*
+    - **(A)** *In general* In issuing rules under paragraph (1), the Commission shall establish criteria to exempt a provider from the requirement to post a bond described in that paragraph if that requirement, as applied to the provider, is not necessary to deter unlawful robocall activity.
+    - **(B)** *Considerations* In establishing criteria under subparagraph (A), the Commission shall require consideration of whether a provider—
+      - **(i)** is registered with the Commission under section 64.1195 of title 47, Code of Federal Regulations (or any successor regulation) and makes contributions under section 254(d) of the Communications Act of 1934 (47 U.S.C. 254(d));
+      - **(ii)** holds a certificate of authority, license, or registration with a State public utility commission;
+      - **(iii)** is an issuer, the securities of which are listed on a national securities exchange; and
+      - **(iv)** otherwise presents indicia of being a bona fide, established communications service provider, such that requiring the provider to post a bond under paragraph (1) would impose unnecessary burdens without materially improving enforcement of section 227 of the Communications Act of 1934 (47 U.S.C. 227).
+- **(c)** *Implementation* In implementing this section, the Commission shall—
+  - **(1)** require the posting of a bond under subsection (b)(1) from providers that do not demonstrate—
+    - **(A)** legitimate, ongoing operations;
+    - **(B)** regulatory oversight sufficient to ensure accountability; or
+    - **(C)** the ability to pay fines or forfeitures imposed by the Commission or other governmental enforcement authorities with respect to violations of Federal or State laws or regulations;
+  - **(2)** establish categorical exemptions for identifiable classes of legitimate providers that satisfy the criteria established under subsection (b)(2); and
+  - **(3)** minimize administrative and financial burdens on compliant, established, and regulated providers while ensuring effective enforcement of section 227 of the Communications Act of 1934 (47 U.S.C. 227).

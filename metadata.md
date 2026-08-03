@@ -1,7 +1,7 @@
 ---
 measure: S. 2666
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2666
@@ -34,3 +34,5 @@ Foreign Robocall Elimination Act
 - 2026-06-01 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-122.
 - 2026-06-01 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-122.
 - 2026-06-01 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 422.
+- 2026-08-03 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S4412-4414; text: CR S4412-4414)
+- 2026-08-03 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
