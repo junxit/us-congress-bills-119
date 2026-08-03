@@ -1,7 +1,7 @@
 ---
 measure: S. 3977
 congress: 119
-version: Placed on Calendar Senate
+version: Engrossed in Senate
 ---
 
 # S. 3977
@@ -29,3 +29,5 @@ Bankruptcy Threshold Adjustment Act of 2026
 - 2026-03-03 — Introduced in Senate
 - 2026-03-03 — Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2026-03-04 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 347.
+- 2026-08-03 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4412; text: CR S4412)
+- 2026-08-03 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
