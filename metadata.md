@@ -1,7 +1,7 @@
 ---
 measure: S. 289
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 289
@@ -34,3 +34,5 @@ Youth Poisoning Protection Act
 - 2025-07-29 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-49.
 - 2025-07-29 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-49.
 - 2025-07-29 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 132.
+- 2026-08-03 — Passed Senate without amendment by Voice Vote. (consideration: CR S4411-4412; text: CR S4411-4412)
+- 2026-08-03 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
