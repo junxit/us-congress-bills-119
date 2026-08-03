@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3620
 congress: 119
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 3620
@@ -49,3 +49,5 @@ Southcentral Foundation Land Transfer Act of 2025
 - 2026-08-03 — Committee on Indian Affairs. Reported by Senator Murkowski without amendment. With written report No. 119-132.
 - 2026-08-03 — Committee on Indian Affairs. Reported by Senator Murkowski without amendment. With written report No. 119-132.
 - 2026-08-03 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 535.
+- 2026-09-29 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5144)
+- 2026-09-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (consideration: CR S5144)
