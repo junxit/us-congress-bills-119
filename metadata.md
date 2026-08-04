@@ -1,7 +1,7 @@
 ---
 measure: S. 494
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 494
@@ -58,3 +58,5 @@ National Plan for Epilepsy Act
 - 2026-07-28 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy with an amendment in the nature of a substitute. Without written report.
 - 2026-07-28 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy with an amendment in the nature of a substitute. Without written report.
 - 2026-07-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 526.
+- 2026-08-04 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S4426-4427; text: CR S4426-4427)
+- 2026-08-04 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
