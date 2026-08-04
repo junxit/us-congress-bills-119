@@ -1,7 +1,7 @@
 ---
 measure: S. 4472
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-41 amendatory instructions. 8 executed, 33 stated and not applied.
+34 amendatory instructions. 6 executed, 28 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,24 +23,6 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
-
-### 21 U.S.C. § 360ee
-
-> Section 7 of the Accelerating Access to Critical Therapies for ALS Act (Public Law 117–79) is amended by striking “2026” and inserting “2031”.
-
-| | |
-|---|---|
-| Removed | `2026` |
-| Inserted | `2031` |
-
-### 21 U.S.C. § 360ee
-
-> Section 2(f) of the Accelerating Access to Critical Therapies for ALS Act (21 U.S.C. 360ee note) is amended by striking “2026” and inserting “2031”.
-
-| | |
-|---|---|
-| Removed | `2026` |
-| Inserted | `2031` |
 
 ### 21 U.S.C. § 360ee
 
@@ -105,11 +87,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `21 U.S.C. § 360ee` | add-at-end | Section 2(b) of the Accelerating Access to Critical Therapies for ALS Act (21 U.S.C. 360ee note) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 360ee` | add-at-end | Section 2(e) of the Accelerating Access to Critical Therapies for ALS Act (21 U.S.C. 360ee note) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `21 U.S.C. § 360aa` | add-at-end | Section 4 of the Accelerating Access to Critical Therapies for ALS Act (21 U.S.C. 360aa note) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | by striking “4 years after the date of the enactment of this Act” and inserting “5 years after the date of enactment of the Accelerating Access to Critical Therapies for ALS Reauthorization Act of 2026”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “, with respect to the 10-year period starting on the date of enactment of this Act” after “containing”. | the bill names no machine-readable US Code section |
 | `21 U.S.C. § 360ee` | insert | in subsection (a), by inserting “(referred to in this section as expanded access grants)” before the period at the end of the first sentence; | the bill quotes the text inserted but describes where it goes |
 | `21 U.S.C. § 360ee` | replace | by striking “(b) Application—” and all that follows through “A participating” in paragraph (1) and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `21 U.S.C. § 360ee` | redesignate | by redesignating paragraphs (2) and (3) as paragraphs (1) and (2) respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

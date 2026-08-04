@@ -1,7 +1,7 @@
 ---
 measure: S. 4472
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 4472
@@ -16,7 +16,7 @@ Accelerating Access to Critical Therapies for ALS Reauthorization Act of 2026
 
 - Sen. Murkowski, Lisa [R-AK] (M001153)
 
-## Cosponsors (11)
+## Cosponsors (15)
 
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 - Sen. Collins, Susan M. [R-ME] (C001035)
@@ -29,6 +29,10 @@ Accelerating Access to Critical Therapies for ALS Reauthorization Act of 2026
 - Sen. Banks, Jim [R-IN] (B001299)
 - Sen. Markey, Edward J. [D-MA] (M000133)
 - Sen. Daines, Steve [R-MT] (D000618)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. McCormick, David [R-PA] (M001243)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Barrasso, John [R-WY] (B001261)
 
 ## Committees (1)
 
@@ -42,3 +46,5 @@ Accelerating Access to Critical Therapies for ALS Reauthorization Act of 2026
 - 2026-07-16 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy with an amendment in the nature of a substitute. Without written report.
 - 2026-07-16 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy with an amendment in the nature of a substitute. Without written report.
 - 2026-07-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 461.
+- 2026-08-04 — Passed Senate with an amendment by Voice Vote. (consideration: CR S4425-4426; text: CR S4425-4426)
+- 2026-08-04 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.
