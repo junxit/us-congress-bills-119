@@ -1,7 +1,7 @@
 ---
 measure: S. 4965
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 2 executed, 3 stated and not applied.
+10 amendatory instructions. 4 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,24 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 45 U.S.C. § 231
+
+> in section 15A(c), by striking “to provide” and inserting “to transfer to the Railroad Retirement Board Administrative Account established under section 15(h)”.
+
+| | |
+|---|---|
+| Removed | `to provide` |
+| Inserted | `to transfer to the Railroad Retirement Board Administrative Account established under section 15(h)` |
+
+### 45 U.S.C. § 231
+
+> by striking “Notwithstanding” and inserting “Subject to section 15(h) of the Railroad Retirement Act of 1974 (45 U.S.C. 231(h)) and notwithstanding”; and
+
+| | |
+|---|---|
+| Removed | `Notwithstanding` |
+| Inserted | `Subject to section 15(h) of the Railroad Retirement Act of 1974 (45 U.S.C. 231(h)) and notwithstanding` |
 
 ### 45 U.S.C. § 231
 
@@ -51,6 +69,9 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| `45 U.S.C. § 231n` | amend | Section 15(h) of the Railroad Retirement Act of 1974 (45 U.S.C. 231n(h)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `45 U.S.C. § 231` | insert | in section 15(a), by inserting “to transfer to the Railroad Retirement Board Administrative Account established under subsection (h)” before “to provide for expenses”; and | the bill quotes the text inserted but describes where it goes |
+| `45 U.S.C. § 231` | insert | by inserting “for transferring to the Railroad Retirement Board Administrative Account established under section 15(h) of the Railroad Retirement Act of 1974 (45 U.S.C. 231(h))” before “for any expenses necessary”. | the bill quotes the text inserted but describes where it goes |
 | `45 U.S.C. § 231n` | amend | Section 15(h) of the Railroad Retirement Act of 1974 (45 U.S.C. 231n(h)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `45 U.S.C. § 231` | insert | in section 15(a), by inserting “to transfer to the Railroad Retirement Board Administrative Account established under subsection (h)” before “to provide for expenses”; and | the bill quotes the text inserted but describes where it goes |
 | `45 U.S.C. § 231` | insert | by inserting “for transferring to the Railroad Retirement Board Administrative Account established under section 15(h) of the Railroad Retirement Act of 1974 (45 U.S.C. 231(h))” before “for any expenses necessary”. | the bill quotes the text inserted but describes where it goes |
