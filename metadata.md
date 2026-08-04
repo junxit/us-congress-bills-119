@@ -1,7 +1,7 @@
 ---
 measure: S. 2511
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2511
@@ -16,7 +16,7 @@ College Transparency Act
 
 - Sen. Cassidy, Bill [R-LA] (C001075)
 
-## Cosponsors (21)
+## Cosponsors (25)
 
 - Sen. Warren, Elizabeth [D-MA] (W000817)
 - Sen. Baldwin, Tammy [D-WI] (B001230)
@@ -39,6 +39,10 @@ College Transparency Act
 - Sen. Tuberville, Tommy [R-AL] (T000278)
 - Sen. Van Hollen, Chris [D-MD] (V000128)
 - Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Husted, Jon [R-OH] (H001104)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Banks, Jim [R-IN] (B001299)
+- Sen. Luján, Ben Ray [D-NM] (L000570)
 
 ## Committees (1)
 
@@ -48,3 +52,7 @@ College Transparency Act
 
 - 2025-07-29 — Introduced in Senate
 - 2025-07-29 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2026-07-30 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2026-08-04 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy with an amendment in the nature of a substitute. Without written report.
+- 2026-08-04 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy with an amendment in the nature of a substitute. Without written report.
+- 2026-08-04 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 537.
