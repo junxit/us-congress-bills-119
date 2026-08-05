@@ -1,7 +1,7 @@
 ---
 measure: S. 850
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -31,7 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | in the matter preceding paragraph (1), by striking “180 days after the date of enactment of this Act” and inserting “September 2, 2025, and every 3 years thereafter”; | the bill names no machine-readable US Code section |
+| — | replace | in the matter preceding paragraph (1), by striking “180 days after the date of enactment of this Act” and inserting “180 days after the date of the enactment of the Northern Border Security Enhancement and Review Act, and every 3 years t… | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating paragraphs (2), (3), and (4) as paragraphs (3), (4), and (5), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after paragraph (1) the following: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (c) as subsection (d); and | the bill names no machine-readable US Code section |

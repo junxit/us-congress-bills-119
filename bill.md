@@ -1,7 +1,7 @@
 ---
 legis-num: S. 850
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -16,7 +16,7 @@ This Act may be cited as the “Northern Border Security Enhancement and Review 
 ## § 2. Northern border threat analysis and strategy
 
 - **(a)** *Northern border threat analysis* Section 3(a) of the Northern Border Security Review Act (Public Law 114–267) is amended—
-  - **(1)** in the matter preceding paragraph (1), by striking “180 days after the date of enactment of this Act” and inserting “September 2, 2025, and every 3 years thereafter”;
+  - **(1)** in the matter preceding paragraph (1), by striking “180 days after the date of enactment of this Act” and inserting “180 days after the date of the enactment of the Northern Border Security Enhancement and Review Act, and every 3 years thereafter”;
   - **(2)** by redesignating paragraphs (2), (3), and (4) as paragraphs (3), (4), and (5), respectively; and
   - **(3)** by inserting after paragraph (1) the following:
     > - **(2)** an assessment of recent changes in the amount and demographics of apprehensions at the Northern Border, including an analysis of apprehension changes at the sector level.
@@ -24,7 +24,7 @@ This Act may be cited as the “Northern Border Security Enhancement and Review 
 - **(b)** *Northern border strategy updates* Section 3 of the Northern Border Security Review Act (Public Law 114–267) is amended—
   - **(1)** by redesignating subsection (c) as subsection (d); and
   - **(2)** by inserting after subsection (b) the following:
-    > - **(c)** *Northern border strategy updates* The Secretary of Homeland Security shall update the Department of Homeland Security’s Northern Border strategy not later than September 2, 2026, and every 5 years thereafter, and shall incorporate the results of the most recent threat analysis in each such update.
+    > - **(c)** *Northern border strategy updates* The Secretary of Homeland Security shall update the Department of Homeland Security’s Northern Border strategy not later than 18 months after the date of the enactment of the Northern Border Security Enhancement and Review Act, and every 5 years thereafter, and shall incorporate the results of the most recent threat analysis in each such update.
 
 - **(c)** *Classified briefings* Section 3 of the Northern Border Security Review Act, as amended by subsections (a) and (b), is further amended by adding at the end the following:
   > - **(e)** *Classified briefings* Not later than 30 days after the submission of each threat analysis pursuant to subsection (a), the Secretary of Homeland Security shall provide a classified briefing regarding such analysis to the appropriate congressional committees.
