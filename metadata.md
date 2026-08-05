@@ -1,7 +1,7 @@
 ---
 measure: S. 3010
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3010
@@ -16,10 +16,13 @@ version: Introduced in Senate
 
 - Sen. Cassidy, Bill [R-LA] (C001075)
 
-## Cosponsors (2)
+## Cosponsors (5)
 
 - Sen. Hickenlooper, John W. [D-CO] (H000273)
 - Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Banks, Jim [R-IN] (B001299)
 
 ## Committees (1)
 
@@ -29,3 +32,7 @@ version: Introduced in Senate
 
 - 2025-10-15 — Introduced in Senate
 - 2025-10-15 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2026-07-30 — Committee on Health, Education, Labor, and Pensions. Ordered to be reported without amendment favorably.
+- 2026-08-05 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy without amendment. Without written report.
+- 2026-08-05 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy without amendment. Without written report.
+- 2026-08-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 542.
