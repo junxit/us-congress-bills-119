@@ -1,0 +1,46 @@
+---
+legis-num: S. 5339
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 5339
+
+> To limit the duties that may be imposed with respect to school supplies and educational materials, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Back-to-School Supplies Affordability Act”.
+
+## § 2. Sense of Congress
+
+It is the sense of Congress that arbitrary and chaotic tariffs increase the cost of school supplies for students, families, teachers, schools, and local governments.
+
+## § 3. Limitation on imposition of duties on school supplies and educational material
+
+- **(a)** *In general* Beginning on the date of the enactment of this Act, no duty described in subsection (b) applies with respect to any item described in subsection (c).
+- **(b)** *Duty described* A duty is described in this subsection if the duty imposed on an article exceeds the duty in effect for the article on January 19, 2025, except if the duty was—
+  - **(1)** imposed pursuant to title VII of the Tariff Act of 1930 (19 U.S.C. 1671 et seq.); or
+  - **(2)** proclaimed pursuant to section 201 of the Trade Act of 1974 (19 U.S.C. 2251).
+- **(c)** *Items described* An item is described in this subsection if—
+  - **(1)** the item is an item used in an elementary or secondary school classroom, as designated through regulations issued by the Secretary of Commerce, in coordination with the Secretary of Education, unless there is enacted into law a joint resolution of disapproval under subsection (e) with respect to the item; or
+  - **(2)** the item is classified under any of the following headings, subheadings, and statistical reporting numbers of the Harmonized Tariff Schedule of the United States:
+    - **(A)** 3926.10 (Office or school supplies).
+    - **(B)** 4202.92 (Backpack and lunchboxes).
+    - **(C)** 4820.10.20 (Diaries, notebooks and address books, bound, memorandum pads, letter pads, and similar articles).
+    - **(D)** 4903 (Children’s picture, drawing, or coloring books).
+    - **(E)** 4910 (Calendars).
+    - **(F)** 8471.60.20 (Keyboards).
+    - **(G)** 9603.29.8010 (Hairbrushes).
+    - **(H)** 9606 (Pencils, crayons, pencil leads, pastels, drawing charcoals, writing or drawing chalks and tailors' chalks).
+    - **(I)** 9608 (Ball point pens, felt tipped and other porous tipped pens and markers, fountain pens, pencil-holders and similar holders, parts of the foregoing articles).
+- **(d)** *Report to Congress* Not later than 180 days after the date of the enactment of this Act, and every 180 days thereafter, the Secretary of Commerce shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report that includes—
+  - **(1)** a list of the items exempt from the application of duties pursuant to this Act; and
+  - **(2)** a list of the items designated, during the period covered by the report, by the Secretary pursuant to subsection (c)(1).
+- **(e)** *Joint resolution of disapproval*
+  - **(1)** *Joint resolution of disapproval defined* In this section, the term joint resolution of disapproval means a joint resolution the sole matter after the resolving clause of which is as follows: “That Congress disapproves the designation of _____ as a school supply eligible for exemption from duties under section 3 of the Back-to-School Supplies Affordability Act, notice of which was submitted to Congress on ______.”, with the first blank space being filled with the name of the item and the second blank space being filled with the date the report that contained the designation of the item was submitted to Congress.
+  - **(2)** *Expedited procedures* The provisions of subsections (b) through (f) of section 152 of the Trade Act of 1974 (19 U.S.C. 2192) apply to a joint resolution of disapproval to the same extent that such subsections apply to joint resolutions under such section 152.
+  - **(3)** *Rules of the senate and the house of representatives* This subsection is enacted by Congress—
+    - **(A)** as an exercise of the rulemaking power of the Senate and the House of Representatives, respectively, and as such is deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in that House in the case of a joint resolution of disapproval, and supersedes other rules only to the extent that it is inconsistent with such rules; and
+    - **(B)** with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of that House.
