@@ -1,7 +1,7 @@
 ---
 measure: S. 2398
 congress: 119
-version: Engrossed in Senate
+version: Enrolled Bill
 ---
 
 # S. 2398
@@ -56,3 +56,12 @@ Kay Hagan Tick Reauthorization Act
 - 2025-09-08 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 154.
 - 2026-08-06 — Passed Senate with an amendment by Voice Vote. (consideration: CR S4494-4495; text: CR S4494-4495)
 - 2026-08-06 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote. (consideration: CR S4494-4495; text: CR S4494-4495)
+- 2026-08-10 — Held at the desk.
+- 2026-08-10 — Message on Senate action sent to the House.
+- 2026-08-10 — Received in the House.
+- 2026-09-15 — Considered under suspension of the rules. (consideration: CR H5670-5671)
+- 2026-09-15 — DEBATE - The House proceeded with forty minutes of debate on S. 2398.
+- 2026-09-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-09-15 — Mr. Guthrie moved to suspend the rules and pass the bill.
+- 2026-09-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5670)
+- 2026-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
