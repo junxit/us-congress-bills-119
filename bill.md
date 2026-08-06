@@ -1,0 +1,33 @@
+---
+legis-num: S. 5355
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 5355
+
+> To amend the Help America Vote Act of 2002 to provide a deadline for the receipt of ballots in elections for Federal office.
+
+## § 1. Short title
+
+This Act may be cited as the “Ballots by Election Day Act”.
+
+## § 2. Deadline for receipt of ballots
+
+- **(a)** *In general* Title III of the Help America Vote Act of 2002 (52 U.S.C. 20901 et seq.) is amended—
+  - **(1)** by redesignating sections 305 and 306 as sections 306 and 307, respectively; and
+  - **(2)** by inserting after section 304 the following new section:
+    > ## § 305. Deadline for receipt of ballots
+    >
+    > - **(a)** *In general* To be considered validly cast and eligible to be counted in an election for Federal office, an absentee or mail-in ballot must be received by the appropriate election official no later than the time polls close on the date of the election and, in the case of a general election for Federal office, no later than the time polls close on the date established under section 25 of the Revised Statutes of the United States (2 U.S.C. 7) for each general election for Federal office.
+    > - **(b)** *Untimely ballot* No State may accept for tabulation an absentee or mail-in ballot that is received by the appropriate election official following the time polls close on the date of the election.
+    > - **(c)** *Exception*
+    >   - **(1)** *In general* The deadline described in subsection (a) shall not apply with respect to ballots cast by absent uniformed services voter or overseas voters, as defined in section 107 of the Uniformed and Overseas Citizens Absentee Voting Act (52 U.S.C. 20310).
+    >   - **(2)** *No inference* Nothing in this subsection shall be construed to preempt any State law that requires ballots cast by voters described in paragraph (1) to be received on or before the date of the election.
+    > - **(d)** *Effective date* This section shall apply with respect to elections for Federal office held in 2027 or any succeeding year.
+
+- **(b)** *Enforcement* Section 401 of the Help America Vote Act of 2002 (52 U.S.C. 2111) is amended by striking “and 304” and inserting “304, and 305”.
+- **(c)** *Clerical amendment* The table of contents of such Act is amended—
+  - **(1)** by redesignating the items relating to sections 305 and 306 as relating to sections 306 and 307, respectively; and
+  - **(2)** by inserting after the item relating to section 304 the following new item:
