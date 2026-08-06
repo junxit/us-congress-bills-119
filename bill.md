@@ -1,7 +1,7 @@
 ---
 legis-num: S. 434
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -18,19 +18,8 @@ This Act may be cited as the “Space Commerce Advisory Committee Act”.
 In this Act:
 
 - **(1)** *Secretary* The term Secretary means the Secretary of Commerce, acting through the Office of Space Commerce.
-- **(2)** *Space object* The term space object—
-  - **(A)** means—
-    - **(i)** a human-made object located in outer space, including on the Moon or other celestial bodies, with or without human occupants, that was launched from Earth, such as a satellite or a spacecraft, including component parts of the object; and
-    - **(ii)** all items carried on such object that are intended for use in outer space outside of, and independent of, the operation of such object;
-  - **(B)** includes any human-made object that is—
-    - **(i)** manufactured or assembled in outer space; and
-    - **(ii)** intended for operations in outer space other than, and independent of, the operations of such object in which the manufacturing or assembly occurred; and
-  - **(C)** does not include—
-    - **(i)** an article aboard a space object that is only intended for use inside the space object;
-    - **(ii)** an article manufactured or processed in outer space that is a material; or
-    - **(iii)** an article intended for use outside a space object as part of the authorized operations of the space object.
-- **(3)** *State* The term State means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other commonwealth, territory, or possession of the United States.
-- **(4)** *United States entity* The term United States entity means—
+- **(2)** *State* The term State means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other commonwealth, territory, or possession of the United States.
+- **(3)** *United States entity* The term United States entity means—
   - **(A)** an individual who is a national of the United States (as defined in section 101(a) of the Immigration and Nationality Act (8 U.S.C. 1101(a))); and
   - **(B)** a nongovernmental entity organized or existing under, and subject to, the laws of the United States or a State.
 
@@ -40,18 +29,18 @@ In this Act:
 - **(b)** *Membership*
   - **(1)** *In general* The Committee shall be composed of 15 members appointed by the Secretary.
   - **(2)** *Qualifications*
-    - **(A)** *In general* The Committee shall be composed of representatives from a variety of space policy, engineering, technical, science, legal, and finance fields who have significant experience in the commercial space industry.
+    - **(A)** *In general* The Committee shall be composed of representatives from a variety of space policy, engineering, technical, science, legal, academic, and finance fields who have significant experience in the commercial space industry, which may include previous Government experience.
     - **(B)** *Limitation*
-      - **(i)** *In general* Except as provided in clause (i), the Secretary may not appoint as a member of the Committee any employee or official of the Federal Government.
+      - **(i)** *In general* Except as provided in clause (ii), the Secretary may not appoint as a member of the Committee any employee or official of the Federal Government.
       - **(ii)** *Exception* The Secretary may appoint as a member of the Committee a special government employee (as defined in section 202(a) of title 18, United States Code) who serves on 1 or more other Federal advisory committees.
   - **(3)** *Term* Each individual appointed as a member of the Committee—
-    - **(A)** shall be appointed for a term of 4 years; and
+    - **(A)** shall be appointed for a term of not more than 4 years; and
     - **(B)** during the 2-year period beginning on the date on which such term ends, may not serve as a member of the Committee.
 - **(c)** *Duties* The duties of the Committee shall be—
   - **(1)** to advise on the status and recent developments of nongovernmental space activities;
-  - **(2)** to provide to the Secretary and Congress recommendations on the manner in which the United States may facilitate and promote a robust and innovative commercial sector that is investing in, developing, and operating space objects;
-  - **(3)** to identify any challenge faced by the United States commercial sector relating to—
-    - **(A)** international obligations of the United States relevant to commercial space sector activities in outer space;
+  - **(2)** to provide to the Secretary and Congress recommendations on the manner in which the United States may facilitate and promote a safe, sustainable, robust, competitive, and innovative commercial sector that is investing in, developing, and conducting space activities within the jurisdiction of the Department of Commerce, including through the development and implementation of any regulatory framework applicable to the commercial space industry;
+  - **(3)** to identify, and provide recommendations in response to, any challenge faced by the United States commercial sector relating to—
+    - **(A)** the application of international obligations of the United States relevant to commercial space sector activities in outer space;
     - **(B)** export controls that affect the commercial space sector;
     - **(C)** harmful interference with commercial space sector activities in outer space; and
     - **(D)** access to adequate, predictable, and reliable radio frequency spectrum;
