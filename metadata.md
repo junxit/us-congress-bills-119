@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7008
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 7008
@@ -148,3 +148,6 @@ Stop Insider Trading Act
 - 2026-07-22 — Rule provides for consideration of H.R. 8800, H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955 and H.R. 9770. The resolution provides for consideration of H.R. 8800 under a structured rule and for consideration of H.R. 8884, H. Con. Res. 113, H.R. 7008, H.R. 6955, and H.R. 9770 under a closed rule, with one hour of debate on each measure and one motion to recommit on H.R. 8800, H.R. 8884, H.R. 7008, H.R. 6955, and H.R. 9770.
 - 2026-07-22 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2026-07-22 — The previous question was ordered pursuant to the rule.
+- 2026-07-23 — Received in the Senate.
+- 2026-08-05 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2026-08-06 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 548.
