@@ -1,0 +1,44 @@
+---
+legis-num: H.R. 10064
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 10064
+
+> To amend the Foreign Service Act of 1980 to require a list of critical foreign languages for purposes of that Act.
+
+## § 1. Short title
+
+This Act may be cited as the “Foreign Service Language Readiness Act”.
+
+## § 2. List of critical foreign languages
+
+- **(a)** *In general* Section 701 of the Foreign Service Act of 1980 (22 U.S.C. 4021) is amended by adding at the end the following:
+  > - **(h)** *List of critical foreign languages*
+  >   - **(1)** *In general* Not later than 180 days after the date of the enactment of this subsection, and not less frequently than once every three years thereafter, the Secretary should designate, and make available to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate, a list of critical foreign languages for purposes of this Act.
+  >   - **(2)** *Matters to be included* For each critical foreign language designated pursuant to paragraph (1), the Secretary shall include information in the list describing—
+  >     - **(A)** minimum tested levels at which a member of the Service shall be considered to be proficient in the language; and
+  >     - **(B)** criteria for determining positions for which such critical foreign language capability is mission essential.
+  >   - **(3)** *Coordination* In carrying out this subsection, the Secretary shall, to the maximum extent practicable, coordinate with the heads of other Federal departments and agencies that maintain foreign language capabilities, in order to promote interoperability, avoid duplication, and achieve cost savings to the taxpayer.
+  >   - **(4)** *Workforce planning* The Secretary should incorporate critical foreign language capability planning into the career development, training, and assignment processes under this chapter, including through—
+  >     - **(A)** the use of training at the National Foreign Affairs Training Center;
+  >     - **(B)** the use of limited noncareer appointments and recall and reappointment authorities under sections 308 and 309 to address temporary or surge requirements; and
+  >     - **(C)** the development of a surge reserve of rehired officers and other appropriately cleared individuals with critical foreign language capabilities who may be activated rapidly in response to crises.
+  >   - **(5)** *Critical foreign language defined* In this subsection, the term “critical foreign language” means a foreign language identified by the Secretary, in consultation with the heads of other Federal departments and agencies, as appropriate—
+  >     - **(A)** as essential to the protection of United States national security interests, United States economic prosperity, and the protection of United States citizens abroad;
+  >     - **(B)** with respect to which required levels of proficiency are limited in the United States workforce relative to strategic needs and operational demand; and
+  >     - **(C)** as corresponding to category I, II, III, or IV languages, as specified in section 3911.2 of volume 3 of the Foreign Affairs Manual (3 FAM 3911.2) or successor guidance, encompassing difficult, hard, and super hard languages that are less commonly taught or studied in the United States.
+
+- **(b)** *Critical foreign language requirement* Section 702 (22 U.S.C. 4022) is amended by adding at the end the following:
+  > - **(c)** *Critical foreign language requirement* In carrying out this section, the Secretary shall ensure that policies for the instruction, testing, and use of foreign languages explicitly support the preservation of capabilities with respect to critical foreign languages identified pursuant to section 701(h).
+
+- **(c)** *Report*
+  - **(1)** *In general* Not later than December 31, 2027, the Secretary of State shall submit to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate a report on the Department of State’s critical language capabilities.
+  - **(2)** *Matters to be included* The report required by this subsection should include the following:
+    - **(A)** An assessment of the Department of State’s critical foreign language staffing requirements, by regional and functional bureau.
+    - **(B)** For each critical language, numbers of the Foreign Service meeting the minimum critical language proficiency standards, as well as the criteria for determining if a critical language is mission essential for a given position.
+    - **(C)** The impact of workforce shortages on the Department’s ability to meet mission-essential critical foreign language requirements.
+    - **(D)** Any actions taken or planned to strengthen critical foreign language capability in the Service.
+    - **(E)** A list of each Service position abroad that is language-designated in order to determine whether or not a continuing requirement for foreign language proficiency for such position is warranted.
