@@ -1,7 +1,7 @@
 ---
 measure: S. 4689
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-11 amendatory instructions. 1 executed, 10 stated and not applied.
+27 amendatory instructions. 2 executed, 25 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -32,6 +32,15 @@ to guess them.
 |---|---|
 | Removed | `subsection (f)(1)` |
 | Inserted | `subsection (f)(2)` |
+
+### 20 U.S.C. § 6642
+
+> in subsection (c), by striking “5 years” and inserting “4 years”;
+
+| | |
+|---|---|
+| Removed | `5 years` |
+| Inserted | `4 years` |
 
 ## Stated, not applied
 
@@ -52,3 +61,18 @@ complete account of the bill's effect, which it is not.
 | `20 U.S.C. § 6642` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 7901` | add-at-end | Subpart 2 of part F of title VIII of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7901 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 7901` | insert | The table of contents in section 2 of the Elementary and Secondary Education Act of 1965 is amended by inserting after the item relating to section 8549C the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6641` | redesignate | by redesignating paragraph (3) as paragraph (5); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6641` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6641` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6641` | strike | in subparagraph (K), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
+| `20 U.S.C. § 6641` | replace | in subparagraph (L), by striking the period at the end and inserting a semicolon; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6641` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6642` | replace | by striking subsection (a) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6642` | replace | by striking subsection (b) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6642` | replace | by striking subparagraph (B) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6642` | replace | by striking subparagraphs (D) and (E) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6642` | replace | by striking subsection (e) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6642` | replace | by striking subsection (f) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6692` | add-at-end | Section 2302 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6692) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6645` | add-at-end | Section 2225 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6645) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 6645` | add-at-end | Section 2225 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6645), as amended by section 5, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
