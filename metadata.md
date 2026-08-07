@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5334
 congress: 119
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5334
@@ -62,12 +62,13 @@ Lindsey O. Graham Sanctioning Russia and Iran Act of 2026
 
 - House — Ways and Means Committee
 
-## Recorded votes (4)
+## Recorded votes (5)
 
 - 2026-07-28 — [Senate 119-2-212](votes/senate-119-2-0212.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (86–12)
 - 2026-07-29 — [Senate 119-2-213](votes/senate-119-2-0213.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (84–12)
 - 2026-08-07 — [Senate 119-2-223](votes/senate-119-2-0223.md) — On the Amendment — **Amendment Rejected** (32–64)
 - 2026-08-07 — [Senate 119-2-224](votes/senate-119-2-0224.md) — On Passage of the Bill — **Bill Passed** (86–11)
+- 2026-09-16 — [House 119-2-308](votes/house-119-2-0308.md) — On Motion to Concur in the Senate Amendments — **Passed** (262–159)
 
 ## Actions
 
@@ -150,3 +151,18 @@ Lindsey O. Graham Sanctioning Russia and Iran Act of 2026
 - 2026-08-07 — Senate amendment proposed (on the floor): Amendment SA 6711 proposed by Senator Graham.
 - 2026-08-07 — Senate amendment proposed (on the floor): Amendment SA 6712 proposed by Senator Graham.
 - 2026-08-07 — Senate amendment proposed (on the floor): Amendment SA 6715 proposed by Senator Paul to Amendment SA 6711.
+- 2026-08-10 — Message on Senate action sent to the House.
+- 2026-09-16 — DEBATE - Pursuant to the provisions of H. Res. 1530, the House proceeded with one hour of debate on motion to agree to the Senate amendments to H.R. 5334.
+- 2026-09-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-09-16 — Mr. McCaul moved that the House agree to the Senate amendments.
+- 2026-09-16 — On motion that the House agree to the Senate amendments Agreed to by the Yeas and Nays: 262 - 159 (Roll no. 308).
+- 2026-09-16 — POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 5334, the Chair put the question on agreeing to the Senate amendments and by voice vote, announced the ayes had prevailed. Mr. Meeks demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.
+- 2026-09-16 — Pursuant to the provisions of H. Res. 1530, Mr. McCaul called up the Senate amendments to H.R. 5334.
+- 2026-09-16 — Resolving differences -- House actions: On motion that the House agree to the Senate amendments Agreed to by the Yeas and Nays: 262 - 159 (Roll no. 308).
+- 2026-09-16 — The previous question was ordered pursuant to the rule.
+- 2026-09-17 — Presented to President.
+- 2026-09-17 — Presented to President.
+- 2026-09-18 — Became Public Law No: 119-111.
+- 2026-09-18 — Became Public Law No: 119-111.
+- 2026-09-18 — Signed by President.
+- 2026-09-18 — Signed by President.
