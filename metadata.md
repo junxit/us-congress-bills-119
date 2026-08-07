@@ -1,7 +1,7 @@
 ---
 measure: S. 4850
 congress: 119
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 4850
@@ -16,11 +16,12 @@ Diversity Jurisdiction Inflation Adjustment Act
 
 - Sen. Kennedy, John [R-LA] (K000393)
 
-## Cosponsors (3)
+## Cosponsors (4)
 
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 - Sen. Cruz, Ted [R-TX] (C001098)
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
 
 ## Committees (1)
 
@@ -30,3 +31,7 @@ Diversity Jurisdiction Inflation Adjustment Act
 
 - 2026-06-22 — Introduced in Senate
 - 2026-06-22 — Read twice and referred to the Committee on the Judiciary.
+- 2026-08-07 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S4550-4551; text: CR S4551)
+- 2026-08-07 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2026-08-07 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2026-08-07 — Senate Committee on the Judiciary discharged by Unanimous Consent.
