@@ -1,7 +1,7 @@
 ---
 measure: S. 4189
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-35 amendatory instructions. 6 executed, 29 stated and not applied.
+59 amendatory instructions. 10 executed, 49 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -78,6 +78,42 @@ to guess them.
 | Removed | `Exceptions” and all that follows through “This subsection does` |
 | Inserted | `Exceptions.—This subsection does` |
 
+### 21 U.S.C. § 355
+
+> by striking “application and” and inserting “application or”;
+
+| | |
+|---|---|
+| Removed | `application and` |
+| Inserted | `application or` |
+
+### 21 U.S.C. § 355
+
+> in subparagraph (G), as so redesignated, by striking “submission of this petition” and inserting “submission of this document”;
+
+| | |
+|---|---|
+| Removed | `submission of this petition` |
+| Inserted | `submission of this document` |
+
+### 21 U.S.C. § 355
+
+> in clause (iii) of subparagraph (E), as so redesignated, by striking “as defined under subparagraph (2)(A)” and inserting “within the meaning of subparagraph (C)”; and
+
+| | |
+|---|---|
+| Removed | `as defined under subparagraph (2)(A)` |
+| Inserted | `within the meaning of subparagraph (C)` |
+
+### 21 U.S.C. § 355
+
+> by striking “Exceptions” in the paragraph heading and all that follows through “This subsection does” and inserting “Exceptions.—This subsection does”;
+
+| | |
+|---|---|
+| Removed | `Exceptions” in the paragraph heading and all that follows through “This subsection does` |
+| Inserted | `Exceptions.—This subsection does` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -104,6 +140,26 @@ complete account of the bill's effect, which it is not.
 | `21 U.S.C. § 355` | replace | by striking “If the Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `21 U.S.C. § 355` | replace | by striking the second sentence and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 355` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 355` | strike | by striking subparagraph (F); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 355` | redesignate | by redesignating subparagraphs (G) through (I) as subparagraphs (F) through (H), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 355` | redesignate | by redesignating subparagraphs (A) through (C) as subparagraphs (C) through (E), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 355` | redesignate | by inserting before subparagraph (C), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 355` | strike | in the heading, by striking “within 150 days”; | the bill quotes the text struck but describes what replaces it |
+| `21 U.S.C. § 355` | strike | in clause (i), by striking “during the 150-day period referred to in paragraph (1)(F),”; and | the bill quotes the text struck but describes what replaces it |
+| `21 U.S.C. § 355` | amend | by amending clause (ii) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 355` | redesignate | by amending subparagraph (D), as so redesignated, to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 355` | strike | by striking subparagraph (B); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `21 U.S.C. § 355` | redesignate | by redesignating clauses (i) and (ii) as subparagraphs (A) and (B), respectively, and adjusting the margins accordingly. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 262` | add-at-end | Section 351(k) of the Public Health Service Act (42 U.S.C. 262(k)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 280g` | add-at-end | Part P of title III of the Public Health Service Act (42 U.S.C. 280g et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 300gg-11` | add-at-end | Subpart II of part A of title XXVII of the Public Health Service Act (42 U.S.C. 300gg–11 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 18022` | add-at-end | Section 1302(d)(2) of the Patient Protection and Affordable Care Act (42 U.S.C. 18022(d)(2)) is amended by adding at the end the following new subparagraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 18022` | add-at-end | Section 1302(e) of the Patient Protection and Affordable Care Act (42 U.S.C. 18022(e)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `29 U.S.C. § 1185d` | insert | Section 715(a)(1) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1185d(a)(1)) is amended by inserting “and the INSULIN Act of 2026” after “Affordable Care Act”. | the bill quotes the text inserted but describes where it goes |
+| `26 U.S.C. § 9815` | insert | Section 9815(a)(1) of the Internal Revenue Code of 1986 is amended by inserting “and the INSULIN Act of 2026” after “Affordable Care Act”. | the bill quotes the text inserted but describes where it goes |
+| `21 U.S.C. § 355` | insert | in subparagraph (A)(i), by inserting “, 10.31,” after “10.30”; | the bill quotes the text inserted but describes where it goes |
+| `21 U.S.C. § 355` | replace | by striking “If the Secretary” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `21 U.S.C. § 355` | replace | by striking the second sentence and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 355` | strike | by striking subparagraph (F); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 355` | redesignate | by redesignating subparagraphs (G) through (I) as subparagraphs (F) through (H), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `21 U.S.C. § 355` | redesignate | by redesignating subparagraphs (A) through (C) as subparagraphs (C) through (E), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
