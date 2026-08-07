@@ -16,15 +16,15 @@ This Act may be cited as the “Officer John Barnes and Chief Michael Ansbro Pub
 ## § 2. Eligibility determination for public safety officer benefits
 
 - **(a)** *In general* Section 1205 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10285) is amended—
-  - **(1)** in subsection (e)(2)(E), by inserting “, including whether the delay is due to the inaction of the claimant or the failure to cooperate of an agency from which information is required” after “basis for delay”; and
+  - **(1)** in subsection (e)(2)(E), by inserting “, including whether the delay is due to the inaction of the claimant or an agency from which information is required” after “basis for delay”; and
   - **(2)** by adding at the end the following:
     > - **(f)** *Notice and interim benefits*
     >   - **(1)** *Notice of missing information* Not later than 90 calendar days after receiving a claim filed under this subpart, the Bureau shall notify the claimant or the relevant agency of any missing information required to process the claim.
     >   - **(2)** *Notice of determination*
-    >     - **(A)** *In general* Not later than 270 calendar days after receiving a complete claim, the Bureau shall inform the claimant of the Bureau’s determination as to the claimant’s benefit eligibility.
-    >     - **(B)** *Interim benefits as notice* Provision of interim benefits under section 1201(d) shall be deemed to be notice under subparagraph (A).
+    >     - **(A)** *In general* Not later than 270 calendar days after receiving all information required to process the claim, the Bureau shall inform the claimant of the Bureau’s final, appealable determination as to the claimant’s benefit eligibility.
+    >     - **(B)** *Interim benefits as notice* Provision of interim benefits under section 1201(c) shall be deemed to be notice under subparagraph (A).
     >   - **(3)** *Interim benefits*
-    >     - **(A)** *Entitlement* If the Bureau fails to inform a claimant of the Bureau's determination on or before the date that is 270 calendar days after receiving a complete claim, the Bureau shall issue a single interim benefit payment with respect to the claim, payable only to—
+    >     - **(A)** *Entitlement* If the Bureau fails to inform a claimant of the Bureau's determination on or before the date that is 270 calendar days after receiving all information required to process the claim, the Bureau shall issue a single interim benefit payment with respect to the claim, payable only to—
     >       - **(i)** a claimant whose status as an eligible beneficiary is undisputed; or
     >       - **(ii)** if beneficiary status remains unresolved, an escrow or fiduciary account, pending final determination under section 1201.
     >     - **(B)** *Rescission or repayment* Any interim benefits paid under this subsection—
@@ -55,72 +55,16 @@ This Act may be cited as the “Officer John Barnes and Chief Michael Ansbro Pub
 
 - **(c)** *Definitions*
   - **(1)** *In general* Section 1204 of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10284) is amended—
-    - **(A)** in paragraph (4)—
-      - **(i)** in the matter preceding subparagraph (A), by inserting “or gainful work as a public safety officer” after “including sedentary work” each place it appears; and
-      - **(ii)** in subparagraph (B)(ii), by striking “parapalegic” and inserting “paraplegic”;
-    - **(B)** by redesignating paragraph (7) as paragraph (8) and paragraphs (8) through (14) as paragraphs (10) through (16), respectively;
-    - **(C)** by inserting after paragraph (6) the following:
-      > - **(7)** “complete claim” means any claim that—
-      >   - **(A)** contains all required documents from the claimant and the relevant agency for processing; and
-      >   - **(B)** has been assigned a claim number by the Bureau;
-
-    - **(D)** by inserting after paragraph (8), as so redesignated, the following:
-      > - **(9)** “gainful work” means gainful work activity, as defined in section 416.972 of title 20, Code of Federal Regulations, or successor regulation;
+    - **(A)** in paragraph (4)(B)(ii), by striking “parapalegic” and inserting “paraplegic”;
+    - **(B)** by redesignating paragraphs (8) through (14) as paragraphs (9) through (15), respectively; and
+    - **(C)** by inserting after paragraph (7) the following:
+      > - **(8)** “gainful work” means gainful work activity, as defined in section 32.23 of title 28, Code of Federal Regulations, or successor regulation;
 
   - **(2)** *Conforming amendments*
-    - **(A)** *Internal Revenue Code* Section 402(l)(4)(C) of the Internal Revenue Code of 1986 is amended by striking “(9)(A)” each place it appears.
+    - **(A)** *Internal Revenue Code* Section 402(l)(4)(C) of the Internal Revenue Code of 1986 is amended by striking “(42 U.S.C. 3796b(9)(A))”.
     - **(B)** *Title 28* Section 1863(b)(5)(B) of title 28, United States Code, is amended by striking “section 1203(6)” and inserting “section 1204”.
 
-## § 3. Benefits for permanent and partial disability
-
-- **(a)** *In general* Section 1201 of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10281) is amended—
-  - **(1)** by redesignating subsections (c) through (q) as subsections (d) through (r), respectively;
-  - **(2)** by inserting after subsection (b) the following:
-    > - **(c)** *Benefits for permanent and partial disability with inability To continue previous work*
-    >   - **(1)** *In general* In accordance with regulations issued pursuant to this part, in any case in which the Bureau determines that a public safety officer has become permanently, but not totally, disabled as the direct and proximate result of a personal injury sustained in the line of duty that has caused a physical or mental impairment of such severity that the public safety officer is prevented from performing any gainful work as a public safety officer, including if the individual is medically retired by the public safety agency, a benefit shall be payable to the public safety officer (if living on the date on which the determination is made) of half of the amount that would be payable, as of the date such injury was sustained (including as adjusted in accordance with subsection (i), and calculated in accordance with subsection (j)), if such determination were a determination under subsection (a).
-    >   - **(2)** *Progression of disability* If, not later than 3 years after the date of sustaining the injury described in paragraph (1), the severity of the impairment of the public safety officer progresses to that of permanent and total disability, as described in subsection (b), the public safety officer may apply for a benefit under that subsection and, if the Bureau determines that a permanent and total disability exists, the Bureau shall pay the public safety officer a benefit in the amount of the benefit to which the public safety officer would have been entitled under that subsection, less any benefit provided under this subsection.
-    >   - **(3)** *Offset in the event of death* If a public safety officer who has received a benefit under this subsection subsequently dies as a direct and proximate result of the same line-of-duty injury, any death benefit payable under subsection (a) shall be reduced by the amount of any benefit previously paid under this subsection.
-    >   - **(4)** *Rule of construction*
-    >     - **(A)** *Availability of benefits* Nothing in this subsection shall be construed to affect the availability of full benefits under subsection (a) or (b), nor shall this subsection apply to temporary disabilities or injuries that do not result in permanent impairment at the time of filing.
-    >     - **(B)** *Determination* A determination under this subsection shall not constitute a final determination with respect to eligibility for benefits under subsection (b).
-
-  - **(3)** by striking subsection (d), and inserting the following:
-    > - **(d)** *Interim payment* Whenever the Bureau determines upon showing of need and prior to final action that the disability or death of a public safety officer is one with respect to which a benefit will probably be paid, the Bureau may make an interim benefit payment not exceeding $6,000, adjusted in accordance with subsection (i), to the individual entitled to receive a benefit under subsection (a), (b), or (c) of this section.
-
-  - **(4)** in subsection (j), as so redesignated, by striking “subsections (a) and (b)” and inserting “subsections (a), (b), and (c)” .
-- **(b)** *Technical and conforming amendments*
-  - **(1)** *In general* Part L of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10281 et seq.) is amended—
-    - **(A)** in section 1201—
-      - **(i)** in subsection (a), by striking “adjusted in accordance with subsection (h), and calculated in accordance with subsection (i)” and inserting “adjusted in accordance with subsection (i), and calculated in accordance with subsection (j)”;
-      - **(ii)** in subsection (b), by striking “adjusted in accordance with subsection (h), and calculated in accordance with subsection (i)” and inserting “adjusted in accordance with subsection (i), and calculated in accordance with subsection (j)”;
-      - **(iii)** in subsection (d), as so redesignated, by striking “subsection (h)” and inserting “subsection (i)”;
-      - **(iv)** in subsection (e), as so redesignated, by striking “subsection (c)” and inserting “subsection (d)”;
-      - **(v)** in subsection (i), as so redesignated—
-        - **(I)** by striking “subsection (c)” and inserting “subsection (d)”; and
-        - **(II)** by striking “subsections (a) and (b)” and inserting “subsections (a), (b), and (c)”;
-      - **(vi)** in subsection (j), as so redesignated, by striking “and total” after “death or permanent”;
-      - **(vii)** in subsection (m), as so redesignated, by striking “subsection (k)” and inserting “subsection (l)”;
-      - **(viii)** in subsection (n), as so redesignated, by striking “subsection (a), (b), or (c)” and inserting “subsection (a), (b), (c), or (d)”;
-      - **(ix)** in subsection (p)(3), as so redesignated—
-        - **(I)** in the paragraph heading, by striking “and total disability” and inserting “or permanent disability”;
-        - **(II)** in the matter preceding subparagraph (A), by striking “subsection (a) or (b)” and inserting “subsection (a), (b), or (c)”;
-        - **(III)** in subparagraph (A), by striking “and total” after “death or permanent”; and
-        - **(IV)** in subparagraph (B), by striking “and total” after “death or permanent”; and
-      - **(x)** in subsection (r)(2)(A), as so redesignated—
-        - **(I)** by striking “subsection (a) or (b)” and inserting “subsection (a), (b), or (c)”; and
-        - **(II)** by striking “and total” each place it appears; and
-    - **(B)** in section 1205(e)—
-      - **(i)** in paragraph (2), by striking “(f)(3)” and inserting “(g)(3)”; and
-      - **(ii)** in paragraph (3)(A), by striking “(f)(3)” and inserting “(g)(3)”.
-  - **(2)** *Other amendments*
-    - **(A)** *Public Safety Officer Support Act* Section 3(b)(2) of the Public Safety Officer Support Act of 2022 (34 U.S.C. 10281 note; Public Law 117–172; 136 Stat. 2101) is amended—
-      - **(i)** by striking “section 1201(o)” and inserting “section 1201(p)”; and
-      - **(ii)** by striking “January 1, 2019” and inserting “January 1, 2018”.
-    - **(B)** *Dale Long Public Safety Officers' Benefits Improvements Act of 2012* Section 1086(d)(2)(B) of the National Defense Authorization Act for Fiscal Year 2013 (Public Law 112–239; 126 Stat. 1969) is amended by striking “Section 1201(k)” and inserting “Section 1201(l)”.
-    - **(C)** *USA PATRIOT Act of 2001* Section 611(a) of the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism Act of 2001 (34 U.S.C. 10286(a)) is amended by striking “and total” after “producing permanent”.
-    - **(D)** *NDAA FY26* Section 8204(b)(2) of the National Defense Authorization Act for Fiscal Year 2026 (Public Law 119–60) is amended by striking “section 1201(p)” and inserting “section 1201(q)”.
-
-## § 4. Expedited payment for VCF or WTCHP determinations
+## § 3. Expedited payment for VCF or WTCHP determinations
 
 Section 1205(b) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10285(b)) is amended by adding at the end the following:
 
@@ -128,10 +72,6 @@ Section 1205(b) of title I of the Omnibus Crime Control and Safe Streets Act of 
 >   - **(A)** the claim is eligible for death benefits under the Victim Compensation Fund; or
 >   - **(B)** the cause of claimant's death is a World Trade Center Health Program-related condition.
 
-## § 5. Implementation of certain GAO recommendations
+## § 4. Implementation of certain GAO recommendations
 
 Not later than 180 days after the date of enactment of this Act, the Attorney General shall ensure that the Director of the Bureau of Justice Assistance implements the recommendations provided in the report of the Government Accountability Office entitled “Public Safety Officers' Benefits Program: Transparency, Claims Assistance, and Program Management Improvements Needed” (GAO–24–105549), published on September 27, 2024.
-
-## § 6. Educational benefits
-
-Nothing in this Act, or the amendments made by this Act shall be construed as expanding or altering any benefits available to dependents under subpart 2 of part L of title I of the Omnibus Crime Control and Safe Streets Act of 1968 (34 U.S.C. 10281 et seq.).
