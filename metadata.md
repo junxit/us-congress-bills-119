@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 820
 congress: 119
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 820
@@ -29,3 +29,7 @@ A resolution designating August 7, 2026, as "National Lighthouse Day".
 
 - 2026-07-30 — Referred to the Committee on the Judiciary. (text: CR S4390-4391)
 - 2026-07-30 — Submitted in Senate
+- 2026-08-07 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2026-08-07 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4553)
+- 2026-08-07 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2026-08-07 — Senate Committee on the Judiciary discharged by Unanimous Consent.
