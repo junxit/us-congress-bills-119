@@ -1,0 +1,59 @@
+---
+legis-num: S. 5372
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 5372
+
+> To amend title 18, United States Code, to provide for the issuance of natural lifetime injunctions for certain victims.
+
+## § 1. Short title
+
+This Act may be cited as the “Kayleigh’s Law Act of 2026”.
+
+## § 2. Natural lifetime injunctions
+
+- **(a)** *In general* Chapter 238 of title 18, United States Code, is amended by adding at the end the following:
+  > ## § 3773. Natural lifetime injunctions
+  >
+  > - **(a)** *Definitions* For purposes of this section:
+  >   - **(1)** *Covered offense* The term covered offense—
+  >     - **(A)** means—
+  >       - **(i)** a crime of violence (as such term is defined in section 16(a)) that is a felony under Federal law; or
+  >       - **(ii)** an offense that includes as an element a sexual act or sexual conduct (as defined in section 2246) that is a felony under Federal law; and
+  >     - **(B)** includes an offense under—
+  >       - **(i)** section 1591;
+  >       - **(ii)** section 2241;
+  >       - **(iii)** section 2242;
+  >       - **(iv)** section 2243;
+  >       - **(v)** section 2244;
+  >       - **(vi)** section 2245;
+  >       - **(vii)** section 2251;
+  >       - **(viii)** section 2251A;
+  >       - **(ix)** section 2252;
+  >       - **(x)** section 2252A;
+  >       - **(xi)** section 2260;
+  >       - **(xii)** section 2261A;
+  >       - **(xiii)** section 2421;
+  >       - **(xiv)** section 2422;
+  >       - **(xv)** section 2423; or
+  >       - **(xvi)** section 2425.
+  >   - **(2)** *Contact* The term contact means any direct or indirect communication, transmission, or physical interaction between two or more persons, including communication or interaction by written, oral, electronic, digital, or physical means, whether initiated personally, through an intermediary, or by automated or technological systems.
+  > - **(b)** *Offense*
+  >   - **(1)** *In general* In the case of any defendant convicted of a covered offense, the court shall, on motion of the Government (with the consent of a victim) or a victim, issue, at the time of sentencing, an order prohibiting contact with a victim.
+  >   - **(2)** *Duration* Such order shall remain in effect for the life of the defendant, subject to subsection (c).
+  >   - **(3)** *Service* The imposition of such order shall be included in and served on the defendant during any sentencing proceeding.
+  >   - **(4)** *Violation* A violation of such order shall be punishable as a contempt of court.
+  > - **(c)** *Termination of injunction*
+  >   - **(1)** *In general* An order issued under subsection (b) may be terminated or suspended only—
+  >     - **(A)** on motion of the victim to whom such order pertains, alleging—
+  >       - **(i)** that the conviction was the subject of a pardon or commutation; or
+  >       - **(ii)** a change in circumstances; or
+  >     - **(B)** on motion of the defendant, alleging that the conviction was dismissed or overturned on appeal.
+  >   - **(2)** *Hearing* The court shall order a hearing on such motion, and may take evidence regarding the allegations included therein.
+  > - **(d)** *No fee* No fee may be assessed or collected from a victim in connection with the issuance of an order under subsection (b).
+  > - **(e)** *Rule of construction* Nothing in this section may be construed to limit the application of an order under this section within the jurisdiction of any State.
+
+- **(b)** *Clerical amendment* The table of sections for such chapter is amended by adding at the end the following:
