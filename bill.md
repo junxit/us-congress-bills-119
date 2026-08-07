@@ -18,7 +18,7 @@ This Act may be cited as the “Federal Building Threat Notification Act”.
 - **(a)** *Definition* In this section, the term law enforcement-related means requiring a law enforcement response.
 - **(b)** *Guidance*
   - **(1)** *In general* Not later than 1 year after the date of enactment of this Act, the Director of the Federal Protective Service shall, in coordination with the Secretary of Homeland Security, develop and implement guidance for emergency communication regarding law enforcement-related events for Federal tenants in buildings under the protection of the Federal Protective Service.
-  - **(2)** *Contents* The guidance developed under subsection (b) shall include best practices and protocols relating to—
+  - **(2)** *Contents* The guidance developed under paragraph (1) shall include best practices and protocols relating to—
     - **(A)** standard operating procedures to inform building tenants in a timely manner of violent threats in the building or within approximately 150 feet of the building perimeter, including all firearm events, other weapons threats, acts of or threats of potential, suspected, or confirmed terrorism, and the discovery of suspicious devices or materials; and
     - **(B)** ensuring that tenants receive instructions for safety practices in response to an immediate threat or a heightened risk of a threat.
 - **(c)** *Security officials*
@@ -30,3 +30,4 @@ This Act may be cited as the “Federal Building Threat Notification Act”.
 - **(e)** *Report*
   - **(1)** *In general* Not later than 1 year after the date of enactment of this Act, the Director of the Federal Protective Service shall, in coordination with the Secretary of Homeland Security, electronically submit to Congress a report, not longer than 10 pages, on the best practices and protocols implemented under this Act.
   - **(2)** *Briefing* The Director of the Federal Protective Service shall provide to Congress a briefing on the report required under paragraph (1) and shall present any information relating to support needed to maintain the safety of buildings under the protection of the Federal Protective Service.
+- **(f)** *No additional funds* No additional funds are authorized to be appropriated to carry out this Act.
