@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5334
 congress: 119
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 2 executed, 0 stated and not applied.
+1 amendatory instruction. 1 executed, 0 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -24,20 +24,11 @@ to guess them.
 
 ## Executed
 
-### 26 U.S.C. § 62
+### 50 U.S.C. § 1701
 
-> in subparagraph (A), by striking “a kindergarten through grade 12 teacher” and inserting “an early childhood or kindergarten through grade 12 teacher”, and
-
-| | |
-|---|---|
-| Removed | `a kindergarten through grade 12 teacher` |
-| Inserted | `an early childhood or kindergarten through grade 12 teacher` |
-
-### 26 U.S.C. § 62
-
-> Section 62(a)(2)(D) of such Code is amended by striking “Certain expenses of elementary and secondary school teachers” in the heading and inserting “Certain expenses of early childhood, elementary, and secondary school teachers”.
+> Section 13(b) of the Iran Sanctions Act of 1996 (Public Law 104–172; 50 U.S.C. 1701 note) is amended by striking “2026” and inserting “2031”.
 
 | | |
 |---|---|
-| Removed | `Certain expenses of elementary and secondary school teachers` |
-| Inserted | `Certain expenses of early childhood, elementary, and secondary school teachers` |
+| Removed | `2026` |
+| Inserted | `2031` |
