@@ -1,0 +1,194 @@
+---
+legis-num: S. 5382
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 5382
+
+> To require a report on the artificial intelligence power of the People's Republic of China.
+
+## § 1. Short title
+
+This Act may be cited as the “China AI Power Report Act”.
+
+## § 2. Report on artificial intelligence power of the People's Republic of China
+
+- **(a)** *In general* Not later than 180 days after the date of the enactment of this Act, and annually thereafter for 3 years, the Secretaries, in consultation with the covered agency heads, shall submit to the appropriate committees of Congress a report on the advanced artificial intelligence capabilities of the PRC, including the efforts by the PRC relating to supply chains for advanced artificial intelligence systems.
+- **(b)** *Components* Each report required under subsection (a) shall also include the following:
+  - **(1)** An assessment of integrated circuits designed or optimized for advanced artificial intelligence training or inference by artificial intelligence chip designers in the PRC, including Huawei Technologies Co., Ltd. and Cambricon Technologies (or successor entities), that includes—
+    - **(A)** with respect to such integrated circuits, the—
+      - **(i)** total processing power;
+      - **(ii)** integer and floating point operations per second at relevant precision levels;
+      - **(iii)** memory capacity and bandwidth;
+      - **(iv)** interconnect bandwidth;
+      - **(v)** power efficiency;
+      - **(vi)** transistor count and die size;
+      - **(vii)** process node used per design;
+      - **(viii)** energy efficiency;
+      - **(ix)** manufacturing cost and yield assumptions;
+      - **(x)** ability of the integrated circuit to effectively run artificial intelligence models trained on a different chip designer’s integrated circuit, including measurements such as model inference in tokens per second and cost per token with and without a software application layer that improves model translation ability;
+      - **(xi)** the capability of the most advanced server configuration produced using the chip designer’s integrated circuits including such technical specifications like floating point operations per second, memory capacity and bandwidth, energy efficiency, and ability to function at scale; and
+      - **(xii)** any future specification that becomes relevant to the development of future artificial intelligence capability; and
+    - **(B)** with respect to such chip designers—
+      - **(i)** the total number and types of integrated circuits produced in the year preceding submission of such report and the projected production number for the year proceeding submission of such report;
+      - **(ii)** the foundries used in the production of the integrated circuits;
+      - **(iii)** the software ecosystem, including any parallel computing platforms, programming models, or development frameworks that enable accelerated computing for artificial intelligence training or inference;
+      - **(iv)** the method and extent to which such integrated circuits are used in other countries, including in the United States; and
+      - **(v)** the manufacturer’s ability to produce a software application layer required to achieve an improved token per seconds and cost per token rate.
+  - **(2)** An assessment of semiconductor fabrication facilities in the PRC that produce logic integrated circuits for use in advanced artificial intelligence training or inference, including such facilities owned or operated by the Semiconductor Manufacturing International Corporation, that includes, with respect to such facilities, the—
+    - **(A)** total monthly production capacity per advanced process node with non-planar transistors or 16⁄14 nm and below and the percentage of that monthly production capacity dedicated to production of logic integrated circuits for use in advanced artificial training or inference;
+    - **(B)** yield for producing such logic integrated circuits for use in advanced artificial intelligence training or inference at each facility with an assessment of that yield in industry relevant terms, such as compared to PRC firms, compared to non-PRC firms, or how many are in current industry-leading datacenters;
+    - **(C)** most advanced process node under production;
+    - **(D)** types and volume of semiconductor manufacturing equipment used, the country of origin for such equipment, and the export control regulatory regime under which such equipment was procured;
+    - **(E)** collaborations, licit or illicit, between PRC firms or their subsidiaries and non-PRC firms and the advancements those collaborations produce for the PRC firm;
+    - **(F)** progress PRC firms are making at indigenizing export controlled technologies;
+    - **(G)** market share PRC firms have in the PRC and internationally; and
+    - **(H)** year-over-year trends in leading semiconductor fabrication facilities during at least the preceding 5-year period;
+  - **(3)** An assessment of semiconductor fabrication facilities in the PRC that produce memory integrated circuits used for advanced artificial intelligence training or inference, including such facilities owned or operated by ChangXin Memory Technologies or Yangtze Memory Technologies Corp., that includes—
+    - **(A)** with respect to such circuits, the—
+      - **(i)** most advanced generation of high-bandwidth memory, including the technical specifications and stack height;
+      - **(ii)** memory cell area and memory density of other dynamic random access memory integrated circuits; and
+      - **(iii)** highest number of layers in three-dimensional NOT–AND memory integrated circuits;
+    - **(B)** with respect to such facilities, the—
+      - **(i)** yield and total monthly production capacity for memory integrated circuits, including dynamic random access memory such as high-bandwidth memory, and NOT–AND memory; and
+      - **(ii)** types and volume of semiconductor manufacturing equipment used, including the country of origin of such equipment and the export control regulatory regime such equipment was procured under.
+    - **(C)** collaborations, licit or illicit, between PRC firms or their subsidiaries and non-PRC firms and the advancements those collaborations produce for the PRC firm;
+    - **(D)** progress PRC firms are making at indigenizing export controlled technologies;
+    - **(E)** market share PRC firms have in the PRC and internationally; and
+    - **(F)** year-over-year trends in the PRC’s advanced memory integrated circuit production for a minimum of the 5 previous years.
+  - **(4)** An assessment of semiconductor manufacturing equipment companies in the PRC, including NAURA Technology Group, KINGSEMI, Advanced Micro-Fabrication Equipment Inc., Shanghai Micro Electronics Equipment, and Shenzhen SiCarrier Technologies Co., Ltd, that includes—
+    - **(A)** a categorical breakdown of annual unit production volume and technical specifications, including minimum feature size, throughput, and defect rate, of all major equipment classes installed or under development for wafer production in foundries in the PRC, including—
+      - **(i)** lithography tools, including photolithography, nanoimprint, and electron beam lithography tools;
+      - **(ii)** etch equipment, including wet etching and dry etching;
+      - **(iii)** deposition equipment, including chemical vapor deposition, physical vapor deposition, and atomic layer deposition;
+      - **(iv)** cleaning systems;
+      - **(v)** chemical mechanical planarization tools;
+      - **(vi)** ion implantation and diffusion systems;
+      - **(vii)** wafer inspection, metrology, and process control tools;
+      - **(viii)** back-end packaging equipment, including wafer dicing equipment and wire bonders;
+      - **(ix)** capabilities and advancements in advanced packaging technologies;
+      - **(x)** thermal processing equipment;
+      - **(xi)** bonding equipment, including thermo compression bonders and hybrid bonders;
+      - **(xii)** environmental control systems;
+      - **(xiii)** laser systems; and
+      - **(xiv)** reticle and photomask writing and inspection tools;
+    - **(B)** the country of origin and supplier company for each piece of semiconductor manufacturing equipment used in foundries in the PRC for advanced-node logic or high-bandwidth memory production by such companies;
+    - **(C)** the foreign-sourced subcomponents integrated into the semiconductor manufacturing equipment produced by such companies, including precision motion stages, lasers, electrostatic chucks, optical systems, radio frequency generators, or extreme-purity gas handling systems;
+    - **(D)** collaborations, licit or illicit, between PRC firms or their subsidiaries and non-PRC firms and the advancements those collaborations produce for the PRC firm;
+    - **(E)** progress PRC firms are making at indigenizing export controlled technologies;
+    - **(F)** market share PRC firms have in the PRC and internationally; and
+    - **(G)** year-over-year trends in leading semiconductor manufacturing equipment companies in the PRC for a minimum of the 5 previous years.
+  - **(5)** An assessment of electronic design automation (EDA) software used in the design of integrated circuits for advanced artificial intelligence applications in the PRC, including software developed or provided by leading PRC EDA companies such as Empyrean Technology Co., Ltd. and Primarius Technologies Co., Ltd., that includes—
+    - **(A)** with respect to such software tools, the—
+      - **(i)** range of design stages supported, including front-end design such as architecture and register-transfer level design, logic synthesis, verification, physical design, place-and-route, timing closure, and final signoff;
+      - **(ii)** compatibility with advanced process nodes, including sub-7 nanometer technologies, gate-all-around devices, and three-dimensional integration;
+      - **(iii)** capabilities for designing artificial intelligence-specific components of such integrated circuits, including tensor processing cores, systolic array processing units, matrix multiplier units, and high-bandwidth memory interfaces;
+      - **(iv)** ability to model and optimize for power, performance, and thermal constraints in artificial intelligence workloads;
+      - **(v)** scale and performance of the software in handling large designs, such as chips exceeding 50–100 billion transistors; and
+      - **(vi)** integration with cloud compute resources or distributed workflows for large-scale artificial intelligence chip development;
+    - **(B)** with respect to such companies, the—
+      - **(i)** total market share within the PRC and internationally, including the share of advanced-node integrated circuits designed or optimized for advanced artificial intelligence training or inference designs supported by each company; and
+      - **(ii)** types, volume, and origin of critical technology components used in software development, including intellectual property cores, third-party libraries, verification suites, and artificial intelligence-assisted optimization algorithms;
+    - **(C)** progress PRC firms are making at indigenizing export-controlled or foreign-origin technologies used in EDA, including high-performance computing integration, advanced verification engines, and proprietary intellectual property cores;
+    - **(D)** year-over-year trends for the PRC’s EDA industry over a minimum of the previous 5 years, including technology adoption, market share, and software capability evolution; and
+    - **(E)** identification of technical gaps relative to leading global EDA providers, particularly in relation to artificial intelligence-focused design, advanced nodes, and large-scale verification.
+  - **(6)** An assessment of the advanced artificial intelligence models determined by the Secretaries to be the most relevant to the national security of the United States that were developed by artificial intelligence laboratories or companies based in the PRC, especially those laboratories and companies affiliated with the People’s Liberation Army or any university in the PRC, including the most advanced models, open-weight and closed-weight models, based on model size, total compute used during training, benchmark performance, and any other advanced capabilities the Secretaries determine relevant, that includes, with respect to each such model—
+    - **(A)** the number of model parameters;
+    - **(B)** the total training compute used, measured in floating-point operations and their relevant precision level;
+    - **(C)** the model performance on benchmark tasks;
+    - **(D)** an evaluation of the extent to which the model exhibits advanced cyber offensive capabilities, an advanced understanding of biological and virological application domains, and the ability to substantially automate or accelerate artificial intelligence research, and a comparison of such models to the most advanced artificial intelligence models from United States developers;
+    - **(E)** if the model is open-weight, an evaluation of the files provided and the security implications of following the developer’s deployment instructions;
+    - **(F)** a description of the algorithmic alignment training used;
+    - **(G)** the type and scale of compute infrastructure used in training and inference, including the cluster configurations, the number and type of integrated circuits specifically designed or optimized for advanced artificial intelligence training or inference, how such integrated circuits were acquired and from which companies, where those clusters are located, and how they are being accessed;
+    - **(H)** the manner and extent to which the model is used throughout society in the PRC, including throughout the following industries or sectors:
+      - **(i)** the People’s Liberation Army;
+      - **(ii)** the surveillance and intelligence collection functions of the CCP, including the genocide of Uyghur Muslims and other religious and ethnic minorities in the Xinjiang Uyghur Autonomous Region;
+      - **(iii)** the Government of the PRC;
+      - **(iv)** business and finance;
+      - **(v)** education;
+      - **(vi)** healthcare;
+      - **(vii)** critical infrastructure sectors, including the power grid and transportation; and
+      - **(viii)** any other sectors that the Secretaries determines to be relevant, such as high-risk industries where artificial intelligence failure would have outsized safety or mission consequences.
+    - **(I)** whether and where such models are deployed for public use, including API access or mobile app deployment;
+    - **(J)** the manner and extent to which such models are diffused in other countries, including the United States;
+    - **(K)** the alignment of those models to CCP propaganda;
+    - **(L)** the potential of those models to inject or create vulnerabilities for users or other ways they could be used to further CCP national security objectives;
+    - **(M)** an assessment of global market share of PRC models and the effect that global market share is enabling the PRC to set artificial intelligence hardware or software standards; and
+    - **(N)** the total number of tokens inferenced globally using the model, the types of hardware utilized for such inference and the percent breakdown between company of origin for such hardware, and the percentage of global inferenced tokens attributable to the model.
+  - **(7)** An assessment of artificial intelligence research in the PRC, based on indicators such as academic publications, patent filings, and research funding, including—
+    - **(A)** the development of novel artificial intelligence algorithms and techniques, including advancements in reinforcement learning, natural language processing, or computer vision, with a focus on algorithms and techniques most relevant for developing or deploying the most advanced artificial intelligence systems;
+    - **(B)** advancements in hardware designed to enhance artificial intelligence capabilities, including custom integrated circuits, quantum computing technologies, or neuromorphic computing systems, with a focus on hardware advancements most relevant for developing or deploying the most advanced artificial intelligence systems;
+    - **(C)** the scale and focus of research efforts, including the number of researchers, institutions, and collaborations involved, and the funding levels and sources, with a focus on those most relevant for developing or deploying the most advanced frontier artificial intelligence systems;
+    - **(D)** an evaluation of the potential impact of such research on future artificial intelligence capabilities relevant to national security competitiveness; and
+    - **(E)** a description of licit or illicit methods or tactics such as unauthorized model distillation used by PRC entities to steal non-PRC artificial intelligence related intellectual property.
+  - **(8)** An assessment of the aggregate public funding and capital flows supporting artificial intelligence development in the PRC, including—
+    - **(A)** the sum total of the PRC’s national, provincial, and municipal investment in artificial intelligence;
+    - **(B)** subsidies that are underwriting the costs of artificial intelligence development in areas such as compute, infrastructure, water, and energy;
+    - **(C)** an assessment of foreign capital investments, including the total amount invested and a breakdown by entity, including the country of origin and the amount invested; and
+    - **(D)** an assessment of the PRC entities that have received the funding, including the name of the entity and the amount of funding received.
+  - **(9)** The aggregate artificial intelligence computational capacity in the PRC, including—
+    - **(A)** a detailed analysis of computational capacity of the 5 most capable PRC entities, including the number and types of integrated circuits and server systems used and their aggregate computational power;
+    - **(B)** the countries and companies with respect to which the PRC sourced its computational capacity; and
+    - **(C)** the locations and specifications, including energy and computational capacity, of datacenters used for advanced artificial intelligence training and inference.
+  - **(10)** An assessment of leading humanoid robot manufacturers in the PRC, including Unitree Robotics and Fourier, that includes—
+    - **(A)** with respect to such manufacturers, the—
+      - **(i)** production capacity per year; and
+      - **(ii)** unit cost and pricing trends for such robots intended for commercial deployment; and
+    - **(B)** with respect to the humanoid robots produced by such manufactures—
+      - **(i)** the number, type, and country and company of origin of the semiconductor components, including integrated circuits, used to build, run, or train such robots;
+      - **(ii)** the country and company of origin and the technical specifications of critical components used in such robots, including actuators, sensors, and battery systems, and if not PRC, the progress toward indigenization;
+      - **(iii)** a description of the tasks such robots can perform;
+      - **(iv)** whether such robots are teleoperated, operated through hard-coded instructions, or function autonomously using artificial intelligence models;
+      - **(v)** whether inference is performed locally or via remote cloud services;
+      - **(vi)** the number of such robots deployed across the PRC, including in the military, manufacturing, logistics, health care, security, and personal assistance sectors;
+      - **(vii)** the extent to which, and ways in which, such robots are diffused in other countries, including in the United States; and
+      - **(viii)** an assessment of the cybersecurity and other vulnerabilities of PRC origin robotic systems.
+  - **(11)** An assessment of the most advanced or widely used artificial intelligence-powered applications developed by PRC entities or built on PRC artificial intelligence models, including—
+    - **(A)** the artificial intelligence models used to power these applications, including the company and country of origin for each model and whether the models are open-weight or closed-weight;
+    - **(B)** the means of deployment and the extent to which such applications are used, including in the United States;
+    - **(C)** the purposes, capabilities, and promoted uses of the applications;
+    - **(D)** an analysis of how data collected or generated by the applications is used, including for artificial intelligence model training, surveillance, or other national security-relevant purposes; and
+    - **(E)** an evaluation of the potential risks posed by these applications to United States national security, foreign policy objectives, or data privacy.
+  - **(12)** An assessment of the regulatory framework governing artificial intelligence development, deployment, and usage in the PRC, that includes—
+    - **(A)** the explicit restrictions on artificial intelligence models, including laws, regulations, and government policies that directly limit or control the development, deployment, or use of artificial intelligence models in the PRC;
+    - **(B)** an analysis of the implicit restrictions on artificial intelligence models, including censorship, data access limitations, or other indirect controls that may constrain artificial intelligence model capabilities;
+    - **(C)** how such explicit and implicit restrictions impact the development, deployment, and diffusion of artificial intelligence models both within the PRC and internationally, including the effects on innovation, competitiveness, and national security;
+    - **(D)** an analysis of efforts by the CCP to acquire greater insight into advanced artificial intelligence and reduce strategic surprise, such as efforts that require advanced artificial intelligence developers to disclose information about artificial intelligence systems or provide models to government entities;
+    - **(E)** an analysis of efforts in the PRC to assess or mitigate national security or public safety threats from advanced artificial intelligence systems, including efforts to prevent loss of control from autonomous artificial intelligence systems; and
+    - **(F)** the goals for artificial intelligence development explicitly and implicitly stated by the CCP.
+  - **(13)** An assessment of the PRC’s global artificial intelligence standards diplomacy efforts, including—
+    - **(A)** mapping the fora where PRC actors aimed to shape global standards;
+    - **(B)** outlining key policy objectives of the PRC;
+    - **(C)** jurisdictions where PRC-promoted standards, model laws, guidance, or procurement criteria have been adopted or referenced;
+    - **(D)** the effects on procurement and vendor eligibility; and
+    - **(E)** opportunities for the United States to shape global artificial intelligence standards and counter PRC efforts when they run contrary to United States interest.
+  - **(14)** An assessment of the degree to which PRC entities remotely accessed artificial intelligence computational resources, including through cloud services, international data centers, or through circumvention or avoidance of United States export controls.
+  - **(15)** An assessment of the methods, pathways, quantities, and companies and countries of origin of United States-controlled integrated circuits specifically designed or optimized for advanced artificial intelligence training or inference, including graphics processing units or application-specific integrated circuits, that have been diverted to the PRC, the estimated total compute capacity enabled through these chip diversions, and the percent of the PRC’s total compute capacity enabled through these chip diversions.
+  - **(16)** An assessment of the effectiveness of United States export controls in restricting access by the PRC to artificial intelligence-relevant technologies, including an identification of loopholes within United States export controls and recommendations for legislative and administrative action to strengthen export controls and enforcement that is consistent with United States national security and foreign policy objectives.
+- **(c)** *Prioritization* In conducting the assessments required under subsection (b), the Secretaries shall prioritize the identification and analysis of—
+  - **(1)** semiconductors, semiconductor manufacturing equipment, and critical components of semiconductor manufacturing equipment that are, or are likely to become, critical to the supply chains for the training or inference of the most advanced artificial intelligence systems; and
+  - **(2)** items that enable or could enable advanced model performance, are associated with systems that pose significant national security or strategic implications to the United States, or are likely to be foundational to the development of future advanced artificial intelligence systems, including those not yet deployed or publicly disclosed.
+- **(d)** *Reference class* Where applicable, the Secretaries shall provide context to all statistics regarding the PRC’s artificial intelligence power in the report by presenting the PRC’s capabilities and production numbers in comparison to relevant United States and partner country production numbers and capabilities.
+- **(e)** *Coordination with expert entities* In carrying out this section, the Secretaries may consult and coordinate with other Federal departments and agencies, private industry or research organizations, federally funded research and development centers, national laboratories, academic institutions, relevant media outlets, or any other entities with expertise in semiconductor technologies, artificial intelligence, or national security that the Secretaries determine relevant.
+- **(f)** *Avoidance of duplication* In carrying out this section, the Secretaries shall, to the maximum extent practicable, leverage existing and ongoing assessments, analyses, intelligence products, collection efforts, and reporting produced by covered agency heads and other Federal departments and agencies, including elements of the intelligence community (as defined in section 3 of the National Security Act of 1947 (50 U.S.C. 3003)), to avoid unnecessary duplication of Federal efforts.
+- **(g)** *Form* The report required by subsection (a) shall be submitted in unclassified form and may contain a classified annex.
+- **(h)** *Mandatory unclassified elements* In the unclassified portion of the report required under subsection (a), the Secretaries shall include, subject to the appropriate treatment of classified information and protection of sources and methods—
+  - **(1)** the number of integrated circuits specifically designed or optimized for advanced artificial intelligence training or inference produced by leading entities in the PRC in the year preceding submission of such report;
+  - **(2)** the projected production numbers of integrated circuits from the PRC specifically designed or optimized for advanced artificial intelligence training or inference, including identification of foundries responsible for such production, for the year proceeding submission of such report; and
+  - **(3)** the extent to which and ways artificial intelligence-relevant technologies in the PRC, including integrated circuits, models, semiconductor manufacturing equipment, and humanoid robots are diffused in other countries, including the United States.
+- **(i)** *Briefing* Not later than 90 days after submission of the report required by subsection (a), the Secretaries shall provide to the appropriate committees of Congress a classified and unclassified briefing on the contents of the report.
+- **(j)** *Definitions* In this section:
+  - **(1)** *Appropriate committees of Congress* The term appropriate committees of Congress means—
+    - **(A)** the Committee on Foreign Relations, the Committee on Banking, Housing, and Urban Affairs, the Committee on Commerce, Science, and Transportation, and the Select Committee on Intelligence of the Senate; and
+    - **(B)** the Committee on Foreign Affairs, the Committee on Energy and Commerce, and the Permanent Select Committee on Intelligence of the House of Representatives.
+  - **(2)** *CCP* The term CCP means the Chinese Communist Party.
+  - **(3)** *Covered agency heads* The term covered agency heads means the—
+    - **(A)** Secretary of Defense;
+    - **(B)** Secretary of Energy;
+    - **(C)** Director of National Intelligence;
+    - **(D)** Director for the White House Office of Science and Technology Policy; and
+    - **(E)** head of any other relevant Federal department or agency the Secretary determines necessary.
+  - **(4)** *PRC* The term PRC means the People's Republic of China.
+  - **(5)** *Secretaries* The term Secretaries means the Secretary of Commerce and the Secretary of State.
