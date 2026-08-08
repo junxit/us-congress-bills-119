@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6500
 congress: 119
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 6500
@@ -48,9 +48,10 @@ Continuing Appropriations and Extensions Act, 2027
 
 - House — Ways and Means Committee
 
-## Recorded votes (5)
+## Recorded votes (6)
 
 - 2026-01-12 — [House 119-2-14](votes/house-119-2-0014.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (340–54)
+- 2026-09-01 — [House 119-2-286](votes/house-119-2-0286.md) — On Motion to Suspend the Rules and Concur in the Senate Amendments — **Passed** (370–48)
 - 2026-08-03 — Senate 119-2-218 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00218.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00218.xml answered HTTP 403
 - 2026-08-07 — Senate 119-2-226 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00226.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00226.xml answered HTTP 403
 - 2026-08-08 — Senate 119-2-227 — **not retrievable** ([as published](https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00227.xml)): https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00227.xml answered HTTP 403
@@ -163,3 +164,16 @@ Continuing Appropriations and Extensions Act, 2027
 - 2026-08-08 — Senate amendment proposed (on the floor): Amendment SA 6750 proposed by Senator Collins.
 - 2026-08-08 — The amendment SA 6736 withdrawn by Unanimous Consent.
 - 2026-08-08 — The amendment SA 6738 to language proposed to be stricken by amendment no. 6732 withdrawn by Unanimous Consent.
+- 2026-08-10 — Message on Senate action sent to the House.
+- 2026-09-01 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the chair announced that further proceedings on the motion would be postponed.
+- 2026-09-01 — DEBATE - The House proceeded with forty minutes of debate on motion to agree to the Senate amendments to H.R. 6500.
+- 2026-09-01 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-09-01 — Mr. Cole moved that the House suspend the rules and agree to the Senate amendments. (consideration: CR H5377-5385)
+- 2026-09-01 — On motion that the House suspend the rules and agree to the Senate amendments Agreed to by the Yeas and Nays: (2/3 required): 370 - 48 (Roll no. 286). (consideration: CR H5387; text: CR H5377-5383)
+- 2026-09-01 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendments Agreed to by the Yeas and Nays: (2/3 required): 370 - 48 (Roll no. 286). (consideration: CR H5387; text: CR H5377-5383)
+- 2026-09-02 — Became Public Law No: 119-103.
+- 2026-09-02 — Became Public Law No: 119-103.
+- 2026-09-02 — Presented to President.
+- 2026-09-02 — Presented to President.
+- 2026-09-02 — Signed by President.
+- 2026-09-02 — Signed by President.
