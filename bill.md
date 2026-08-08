@@ -2,45 +2,23 @@
 legis-num: H.R. 6500
 congress: 119th CONGRESS
 session: 2d Session
-chamber: IN THE SENATE OF THE UNITED STATES
+chamber: In the Senate of the United States,
 ---
 
 # H.R. 6500
 
-> To extend duty-free treatment provided with respect to imports from certain countries in Africa under the African Growth and Opportunity Act, to extend customs user fees, and for other purposes.
+That the bill from the House of Representatives (H.R. 6500) entitled “An Act to extend duty-free treatment provided with respect to imports from certain countries in Africa under the African Growth and Opportunity Act, to extend customs user fees, and for other purposes.”, do pass with the following
+
+*Strike all after the enacting clause and insert the following:*
 
 ## § 1. Short title
 
-This Act may be cited as the “AGOA Extension Act”.
+This Act may be cited as the “Continuing Appropriations and Extensions Act, 2027”.
 
-## § 2. Extension of preferential treatment for certain countries in Africa under African Growth and Opportunity Act; retroactive application
+## § 2. Table of contents
 
-- **(a)** *Extension*
-  - **(1)** *Trade Act of 1974* Section 506B of the Trade Act of 1974 (19 U.S.C. 2466b) is amended by striking “September 30, 2025” and inserting “December 31, 2028”.
-  - **(2)** *African Growth and Opportunity Act*
-    - **(A)** *In general* Section 112(g) of the African Growth and Opportunity Act (19 U.S.C. 3721(g)) is amended by striking “September 30, 2025” and inserting “December 31, 2028”.
-    - **(B)** *Regional apparel article program* Section 112(b)(3)(A) of the African Growth and Opportunity Act (19 U.S.C. 3721(b)(3)(A)) is amended—
-      - **(i)** in clause (i), by striking “21 succeeding” and inserting “24 succeeding”; and
-      - **(ii)** in clause (ii)(II), by striking “September 30, 2025” and inserting “December 31, 2028”.
-    - **(C)** *Third-country fabric program* Section 112(c)(1) of the African Growth and Opportunity Act (19 U.S.C. 3721(c)(1)) is amended—
-      - **(i)** in the paragraph heading, by striking “september 30, 2025” and inserting “december 31, 2028”;
-      - **(ii)** in subparagraph (A), by striking “September 30, 2025” and inserting “December 31, 2028”; and
-      - **(iii)** in subparagraph (B)(ii), by striking “September 30, 2025” and inserting “December 31, 2028”.
-- **(b)** *Retroactive application*
-  - **(1)** *In general* Notwithstanding section 514 of the Tariff Act of 1930 (19 U.S.C. 1514) or any other provision of law, and subject to paragraph (2), any entry of a covered article to which duty-free treatment or other preferential treatment under section 506A of the Trade Act of 1974 (19 U.S.C. 2466a) would have applied if the entry had been made on September 30, 2025, that was made—
-    - **(A)** after September 30, 2025, and
-    - **(B)** before the date of the enactment of this Act,
-  - **(2)** *Requests* A liquidation or reliquidation may be made under paragraph (1) with respect to an entry only if a request therefor is filed with the Commissioner of U.S. Customs and Border Protection not later than 180 days after the date of the enactment of this Act that contains sufficient information to enable such Commissioner—
-    - **(A)** to locate the entry; or
-    - **(B)** to reconstruct the entry if it cannot be located.
-  - **(3)** *Payment of amounts owed* Any amounts owed by the United States pursuant to the liquidation or reliquidation of an entry of a covered article under paragraph (1) shall be paid, without interest of any kind, not later than 90 days after the date of the liquidation or reliquidation (as the case may be).
-  - **(4)** *Definitions* In this subsection:
-    - **(A)** *Covered article* The term “covered article” means an article from a country that is designated by the President as a beneficiary sub-Saharan African country under section 104 of the African Growth and Opportunity Act (19 U.S.C. 3703) as of the day before the date of the enactment of this Act.
-    - **(B)** *Entry* The term “entry” includes a withdrawal from warehouse for consumption.
+The table of contents for this Act is as follows:
 
-## § 3. Extension of customs user fees
+## § 3. References
 
-- **(a)** *In general* Section 13031(j)(3) of the Consolidated Omnibus Budget Reconciliation Act of 1985 (19 U.S.C. 58c(j)(3)) is amended—
-  - **(1)** in subparagraph (A), by striking “September 30, 2031” and inserting “December 31, 2031”; and
-  - **(2)** in subparagraph (B)(i), by striking “September 30, 2031” and inserting “December 31, 2031”.
-- **(b)** *Rate for merchandise processing fees* Section 503 of the United States-Korea Free Trade Agreement Implementation Act (19 U.S.C. 3805 note) is amended by striking “September 30, 2031” and inserting “December 31, 2031”.
+Except as expressly provided otherwise, any reference to “this Act” contained in any division of this Act shall be treated as referring only to the provisions of that division.
