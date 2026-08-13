@@ -1,0 +1,29 @@
+---
+legis-num: H.R. 10101
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 10101
+
+> To amend the Foreign Service Act of 1980 to ensure that the Secretary of State improves outreach and recruitment efforts at nontraditional institutions of higher education, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Open Doors to Diplomacy Act”.
+
+## § 2. Recruiting from nontraditional institutions of higher education
+
+- **(a)** *In general* Section 105 of the Foreign Service Act of 1980 (22 U.S.C. 3905) is amended by adding at the end the following:
+  > - **(f)** *Recruiting from nontraditional institutions of higher education*
+  >   - **(1)** *Sense of congress* It is the sense of Congress that the Service should actively recruit candidates from nontraditional institutions of higher education, including community colleges, junior colleges, career and technical colleges, and other open- access or workforce-oriented institutions.
+  >   - **(2)** *Outreach* The Secretary should ensure that outreach, information sessions, and preparation resources related to the Foreign Service officer selection process and other entry programs are regularly conducted at nontraditional institutions of higher education. In carrying out this subsection, the Secretary may—
+  >     - **(A)** partner, where appropriate, with institutional career centers, faculty, and student organizations to expand awareness of Service careers;
+  >     - **(B)** leverage digital and hybrid outreach methods to reach students and alumni who may not be geographically near current recruitment hubs; and
+  >     - **(C)** collaborate with other Federal departments and agencies engaged in workforce out- reach at nontraditional institutions of higher education.
+
+- **(b)** *In general* Section 1202(c) of the Foreign Service Act of 1980 (22 U.S.C. 4141a(c)) is amended—
+  - **(1)** in paragraph (1), by striking “Students enrolled full-time in institutions of higher education” and inserting “Students enrolled, whether full-time or at least half-time, in institutions of higher education,”; and
+  - **(2)** by adding at end the following:
+    > - **(4)** The Secretary shall, to the extent practicable, ensure that recruitment efforts include out- reach to potential applicants enrolled at community colleges, vocational or technical institutions, and other nontraditional institutions of higher education.
