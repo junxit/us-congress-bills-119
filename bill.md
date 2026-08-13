@@ -1,0 +1,43 @@
+---
+legis-num: H.R. 10088
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 10088
+
+> To direct the Secretary of Health and Human Services, acting through the Commissioner of Food and Drugs, to conduct a study to assess the potential for expanding the safe and effective use of reprocessed single-use devices, and for other purposes.
+
+## § 1. Reprocessing of single-use devices
+
+- **(a)** *Study* The Secretary of Health and Human Services, acting through the Commissioner of Food and Drugs (in this section referred to as the “Secretary”), shall conduct a study to assess the potential for expanding the safe and effective use of reprocessed single-use devices.
+- **(b)** *Primary criteria* In conducting the study under subsection (a), the Secretary shall ensure that patient safety and infection prevention are the primary criteria used in examining the potential for reprocessing single-use devices, with stratification by risk category and clinical use.
+- **(c)** *Focus on third-Party reprocessors* In conducting the study under subsection (a), the Secretary shall evaluate opportunities for, and barriers to, the expanded use of qualified third-party reprocessors.
+- **(d)** *Contents* In conducting the study under subsection (a), the Secretary shall examine, at a minimum—
+  - **(1)** existing pathways of the Food and Drug Administration for the reprocessing of single-use devices, including instances in which current rules are sufficient and instances in which barriers exist;
+  - **(2)** the role of third-party reprocessors of single-use devices versus in-house hospital reprocessing;
+  - **(3)** the operational feasibility of reprocessing single-use devices, including sterile processing capacity, staffing, equipment, chain of custody, tracking, and quality assurance;
+  - **(4)** the financial and environmental return of reprocessing single-use devices, taking into consideration waste reduction, cost savings, and any added labor, capital, or compliance burden; and
+  - **(5)** issues related to liability and accountability if a reprocessed single-use device fails or contributes to patient harm.
+- **(e)** *Considerations* In conducting the study under subsection (a), the Secretary shall consider, with respect to the reprocessing of single-use devices—
+  - **(1)** clinical outcomes and device performance;
+  - **(2)** validated reprocessing-cycle limits;
+  - **(3)** collection and transportation logistics;
+  - **(4)** the percentage of collected devices that can be reprocessed;
+  - **(5)** contractual or technical barriers; and
+  - **(6)** full lifecycle financial and environmental impact.
+- **(f)** *Consultation* In conducting the study under subsection (a), the Secretary shall seek input from—
+  - **(1)** non-Federal entities, including hospitals, supply chain leaders, infection prevention organizations, sterile processing organizations, clinicians, and appropriate industry representatives; and
+  - **(2)** Federal entities, including the Food and Drug Administration, the Centers for Disease Control and Prevention, and the Centers for Medicare & Medicaid Services.
+- **(g)** *Definitions* In this section, the terms “device”, “reprocessed”, and “single-use device” have the meanings given such terms in section 201 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321).
+- **(h)** *Report to Congress* Not later than 1 year after the date of enactment of this Act, the Secretary shall transmit to Congress a report on the results of the study, including—
+  - **(1)** a listing of single-use devices that the Secretary determines have the potential for reprocessing, including an identification of—
+    - **(A)** devices currently legally marketed for reprocessing;
+    - **(B)** devices for which reprocessing is supported by sufficient evidence; and
+    - **(C)** devices for which reprocessing requires further research; and
+  - **(2)** recommendations for programs and activities to provide for such reprocessing, including the use of—
+    - **(A)** qualified third-party reprocessors;
+    - **(B)** appropriate cleaning and sterilization technology;
+    - **(C)** quality assurance and tracking systems; and
+    - **(D)** infection prevention controls.
