@@ -1,0 +1,25 @@
+---
+legis-num: H. RES. 1484
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. RES. 1484
+
+> Recognizing the nonprofit sector and the contributions of nonprofit employees, and expressing support for August 17, 2026, to be designated as “National Nonprofit Day”.
+
+## Preamble
+
+- Whereas there are 1,300,000 nonprofits across the United States that feed, heal, shelter, educate, nurture, and inspire people of all ages;
+- Whereas nonprofit organizations are the Nation’s third-largest employer, employing more than 12,000,000 people and representing 5.6 percent of the United States overall gross domestic product;
+- Whereas 92 percent of nonprofits are small and community-based, serving local needs;
+- Whereas nonprofits are trusted community touchstones and allies in designing and implementing the work of government;
+- Whereas, without nonprofit partners, Federal programs would be run less efficiently and require more taxpayer dollars; and
+- Whereas August 17, 2026, would be an appropriate date to designate as “National Nonprofit Day”: Now, therefore, be it
+
+That the House of Representatives—
+
+- **(1)** recognizes the contributions of nonprofits and nonprofit workers;
+- **(2)** supports the designation of “National Nonprofit Day”; and
+- **(3)** recognizes the benefits nonprofits bring to communities across the United States.
