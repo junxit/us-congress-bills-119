@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3276
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,16 +11,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Local Communities & Bird Habitat Stewardship Act of 2025”.
+This Act may be cited as the “Local Communities & Bird Habitat Stewardship Act of 2026”.
 
 ## § 2. Urban Bird Treaty Program
 
-- **(a)** *Findings* Congress finds the following:
-  - **(1)** According to the 2025 State of Birds Report, bird populations continue to decline and have resulted in a 50 percent loss of tipping point bird population species in the last 50 years. The report found that policies to reverse bird declines carry benefits such as healthier working lands, cleaner water, and more resilient landscapes that can withstand fires, floods, and drought.
-  - **(2)** Nearly 96 million Americans—more than a third of United States adults—engage in birdwatching every year, generating $279,000,000,000 in annual economic output from these birder expenditures—including spending $108,000,000,000 annually on birding-related trips and equipment, directly supporting local businesses and 1.4 million American jobs.
-  - **(3)** Maintaining an abundance of healthy, well-distributed green spaces and bird habitats in and near communities reduces the risk of cross-transmission between wild birds and domestic poultry by dispersing bird populations, minimizing overlap at concentrated feeding or resting areas, and enabling earlier disease detection and response through coordinated monitoring.
-  - **(4)** Enhancing bird habitat and stewardship in populated areas serves not only to conserve bird populations and connect people to nature, but also to strengthen the ecological infrastructure necessary to mitigate the spread of wildlife-borne diseases such as Highly Pathogenic Avian Influenza.
-- **(b)** *Urban Bird Treaty Program*
+- **(a)** *Urban Bird Treaty Program*
   - **(1)** *In general* The Director shall establish a program for the voluntary conservation of birds and the habitats of such birds in urban areas, to be known as the “Urban Bird Treaty Program”.
   - **(2)** *Program duties* In carrying out the Program, the Director shall—
     - **(A)** work with and support covered entities to—
@@ -34,11 +29,12 @@ This Act may be cited as the “Local Communities & Bird Habitat Stewardship Act
     - **(A)** *In general* The Director shall establish a competitive grant program to award amounts to eligible entities for the purposes of conducting research, planning, assessments, management, building capacity, monitoring, collaboration and information sharing, workforce training, and accomplishing related activities as described in paragraph (2) with respect to the conservation, restoration, enhancement or management of urban birds and the habitats of urban birds.
     - **(B)** *Applications* To be eligible for a grant under this paragraph, an eligible entity shall submit to the Director an application in such form, at such time, and containing such information as the Director determines appropriate.
     - **(C)** *Administration*
-      - **(i)** *Agreement* The Director shall enter into an agreement with the Foundation for the Foundation to administer the grant program established under subparagraph (A) pursuant to the National Fish and Wildlife Foundation Establishment Act (16 U.S.C. 3701 et seq.).
+      - **(i)** *Agreement* The Director may enter into an agreement with the Foundation for the Foundation to administer the grant program established under subparagraph (A) pursuant to the National Fish and Wildlife Foundation Establishment Act (16 U.S.C. 3701 et seq.).
       - **(ii)** *Application of National Fish and Wildlife Foundation Establishment Act* Section 10(a) of the National Fish and Wildlife Foundation Establishment Act (16 U.S.C. 3709(a)) shall not apply with respect to—
         - **(I)** an agreement entered into under clause (i); or
         - **(II)** amounts made available to carry out this section.
-- **(c)** *Definitions* In this section:
+      - **(iii)** *Geographic distribution* The Director shall ensure, to the extent practicable, equitable distribution of awards among and between small, midsize, and large cities, as described in the document titled “Education Demographic and Geographic Estimates Program (EDGE): Locale Boundaries Technical Documentation” published by the National Center for Education Statistics of the Department of Education.
+- **(b)** *Definitions* In this section:
   - **(1)** *Covered entity* The term covered entity means—
     - **(A)** a Federal, Tribal, State, or municipal agency;
     - **(B)** a nongovernmental organization;
@@ -51,6 +47,6 @@ This Act may be cited as the “Local Communities & Bird Habitat Stewardship Act
     - **(C)** a community group; and
     - **(D)** an academic institution.
   - **(4)** *Foundation* The term Foundation means the National Fish and Wildlife Foundation established by section 2(a) of the National Fish and Wildlife Foundation Establishment Act (16 U.S.C. 3701(a)).
-  - **(5)** *Program* The term Program means the Urban Bird Treaty Program established under subsection (b)(1).
+  - **(5)** *Program* The term Program means the Urban Bird Treaty Program established under subsection (a)(1).
   - **(6)** *Urban* The term urban has the meaning given the term urban area in section 101(a) of title 23, United States Code.
-- **(d)** *Authorization of appropriations* There is authorized to be appropriated to the Director to carry out this section $1,000,000 for each of fiscal years 2026 through 2032.
+- **(c)** *Authorization of appropriations* There is authorized to be appropriated to the Director to carry out this section $200,000 for each of fiscal years 2027 through 2033.
