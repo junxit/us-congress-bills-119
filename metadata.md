@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7889
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7889
@@ -16,7 +16,7 @@ AWRC Act of 2025
 
 - Rep. Wittman, Robert J. [R-VA-1] (W000804)
 
-## Cosponsors (6)
+## Cosponsors (10)
 
 - Rep. Brownley, Julia [D-CA-26] (B001285)
 - Rep. Lawler, Michael [R-NY-17] (L000599)
@@ -24,6 +24,10 @@ AWRC Act of 2025
 - Rep. Griffith, H. Morgan [R-VA-9] (G000568)
 - Rep. Hurd, Jeff [R-CO-3] (H001100)
 - Rep. McDowell, Addison P. [R-NC-6] (M001240)
+- Rep. Pingree, Chellie [D-ME-1] (P000597)
+- Rep. Shreve, Jefferson [R-IN-6] (S001229)
+- Rep. Kiggans, Jennifer A. [R-VA-2] (K000399)
+- Rep. McClain Delaney, April [D-MD-6] (M001232)
 
 ## Committees (1)
 
@@ -34,3 +38,11 @@ AWRC Act of 2025
 - 2026-03-09 — Introduced in House
 - 2026-03-09 — Introduced in House
 - 2026-03-09 — Referred to the House Committee on Natural Resources.
+- 2026-03-19 — Referred to the Subcommittee on Water, Wildlife and Fisheries.
+- 2026-03-26 — Subcommittee Hearings Held
+- 2026-07-15 — Committee Consideration and Mark-up Session Held
+- 2026-07-15 — Ordered to be Reported by Unanimous Consent.
+- 2026-07-15 — Subcommittee on Water, Wildlife and Fisheries Discharged
+- 2026-08-20 — Placed on the Union Calendar, Calendar No. 665.
+- 2026-08-20 — Reported by the Committee on Natural Resources. H. Rept. 119-764.
+- 2026-08-20 — Reported by the Committee on Natural Resources. H. Rept. 119-764.
