@@ -32,6 +32,6 @@ Congress finds the following:
   - **(1)** diminishing or infringing upon any right protected under the First Amendment to the Constitution; or
   - **(2)** preempting State antidiscrimination laws.
 - **(c)** *Definitions* In this section:
-  - **(1)** *Antisemitism* The term antisemitism has the meaning incorporated by reference in section 2 of Executive Order 13899 (84 FR 68779; December 11, 2019), including the contemporary examples described in section 2(a)(ii) of such Executive order.
+  - **(1)** *Antisemitism* The term antisemitism has the meaning incorporated by reference in section 2 of Executive Order 13899 (84 FR 68779; December 11, 2019), including the contemporary examples described in section 2(a)(ii) of such Executive Order.
   - **(2)** *Institution of higher education* The term institution of higher education has the meaning given such term in section 102 of the Higher Education Act of 1965 (20 U.S.C. 1002).
   - **(3)** *Local educational agency* The term local educational agency has the meaning given such term in section 8101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
