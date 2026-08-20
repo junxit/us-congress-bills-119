@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 309
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,61 +11,43 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “National Law Enforcement Officers Remembrance, Support and Community Outreach Act.”
+This Act may be cited as the “National Law Enforcement Officers Remembrance, Support, and Community Outreach Act”.
 
-## § 2. Findings
+## § 2. Definitions
 
-The Congress finds the following:
+In this Act:
 
-- **(1)** The National Law Enforcement Officers Memorial and the National Law Enforcement Museum in Washington, DC represent the only law enforcement campus in the United States and serves a critical national mission of honoring and remembering those law enforcement officers who have died in the line of duty, educating the public about the important role of law enforcement in a democratic society and working to reduce the number of line of duty deaths and injuries among law enforcement.
-- **(2)** It is in the national interest to ensure that the unique education and outreach programs of the National Law Enforcement Museum be maintained and enhanced.
-- **(3)** In 1984, Congress passed and President Ronald Reagan signed into law a joint resolution to authorize the Law Enforcement Officers Memorial Fund, Inc., to establish a National Law Enforcement Heroes Memorial (Public Law 98–534) in Washington, DC.
-- **(4)** Dedicated on October 15, 1991, the National Law Enforcement Officers Memorial honors Federal, tribal, State, and local law enforcement officers who have made the ultimate sacrifice for the safety and protection of our Nation and its people. The National Law Enforcement Officers Memorial is centered in the 400 block of E Street, NW, Washington, DC and is the nation’s monument to law enforcement officers who have died in the line of duty. The Memorial was built entirely with private funds.
-- **(5)** In 2000, Congress passed and President William J. Clinton signed into law the National Law Enforcement Museum Act (Public Law 106–492), which authorized the National Law Enforcement Officers Memorial Fund, Inc. to build and operate the National Law Enforcement Museum on Federal land in the District of Columbia to honor and commemorate the service and sacrifice of law enforcement officers in the United States.
-- **(6)** In April 2016, construction began on the National Law Enforcement Museum in the District of Columbia across the street from the National Law Enforcement Officers Memorial in Judiciary Square. In October of 2018 the National Law Enforcement Museum was completed and formally opened. No Federal funds were used to build the Museum.
-- **(7)** The National Law Enforcement Museum’s mission is—
-  - **(A)** to honor and commemorate the extraordinary service and sacrifice of America’s law enforcement officers;
-  - **(B)** to serve as an important bridge between law enforcement’s past and present, between the heroes of yesteryear and those who have followed in their footsteps, and between America’s peace officers and the public they serve; and
-  - **(C)** to increase public understanding and support for law enforcement and to promote law enforcement safety.
-- **(8)** The programs of the National Law Enforcement Museum play a critical role in educating the public about the vital importance of law enforcement in a democratic society, the critical role law enforcement plays in protecting and serving the public, and the sacrifices law enforcement officers have made to serve in this role.
-- **(9)** The community education and outreach programs, activities, and special exhibits within the National Law Enforcement Museum help bring local law enforcement agencies closer to the communities they serve, and help to foster a better understanding between law enforcement and communities.
-- **(10)** The National Law Enforcement Museum’s Officer Safety and Wellness education and outreach programs and activities help provide local, State and Federal law enforcement agencies with critical information on best practices to reduce the number of line of duty deaths and injuries and provide communities and the public with education concerning the sacrifices made. These programs, activities, and special exhibits are vitally important at a time when annual line of duty deaths among law enforcement officers remain at an historically high level.
-- **(11)** Since the establishment in 1991 of the National Law Enforcement Officers Memorial, and the dedication of the National Law Enforcement Museum in 2018, the National Law Enforcement Officers Memorial Fund and the National Law Enforcement Museum have worked cooperatively with local, State and Federal law enforcement agencies to properly honor the sacrifices made by law enforcement, and provide key programming to reduce the number of law enforcement fatalities and injuries, and foster better understanding between law enforcement and the communities they serve.
-- **(12)** Law enforcement agencies around the country are dedicated to continuous improvement and innovation in officer and community safety, and to building trust through community-based engagement and interventions.
-- **(13)** Since 2020, there has been a significant increase in the number of law enforcement officers resigning or retiring. According to the Police Executive Research Forum, over the past three years there has been an almost 24-percent increase in the number of law enforcement officers retiring, and more than 47-percent increase in the number of law enforcement officers resigning.
-- **(14)** A number of law enforcement agencies across the country remain under-staffed, and many law enforcement agencies have been forced to declare personnel emergencies and require mandatory overtime.
-- **(15)** The resulting deficit in confidence and support jeopardizes public safety. There is a critical need to enhance public understanding and appreciation of law enforcement, and to improve the safety and wellness of officers who serve our communities. Fostering a more informed and positive relationship between law enforcement and the public is essential for societal safety and cohesion. A sustained national effort to restore confidence and understanding in law enforcement is urgently needed.
+- **(1)** *Fund* The term “Fund” means the National Law Enforcement Officers Memorial Fund.
+- **(2)** *Secretary* The term “Secretary” means the Secretary of the Interior.
 
-## § 3. Support for the national law enforcement museum
+## § 3. Support for National Law Enforcement Museum
 
-During the first seven fiscal years beginning after the date of enactment of this Act, the Secretary of the Interior shall award a grant to the National Law Enforcement Officers Memorial Fund for the expenses associated with operating and enhancing the community outreach, public education, and officer safety and wellness programs of the National Law Enforcement Museum, including programs to:
-
-- **(1)** Memorialize law enforcement heroes who die in the line of duty and compile statistics on law enforcement fatalities and injuries.
-- **(2)** Honor and commemorate the extraordinary service and sacrifice of America’s law enforcement officers.
-- **(3)** Develop and make available accurate, relevant, and accessible resources to promote the understanding of law enforcement history and officer safety and wellness training, which include digital resources and other types of resources, such as print resources and traveling exhibitions.
-- **(4)** Increase technical resources to better engage the public in person and via online platforms to educate and inform the public about community policing and officer safety and wellness.
-- **(5)** Create, expand and disseminate scholarly work through research, curricula, in-house and traveling exhibitions, publications, and other outreach initiatives.
-- **(6)** Expand the collection acquisition and collection processes, including staffing, conservation, processing, and digitization.
-- **(7)** Augment law enforcement history and officer safety and wellness education activities, including the development, dissemination, and implementation of principles of sound pedagogy for teaching about law enforcement history and officer safety and wellness.
-- **(8)** Promote professional development including local, regional, and national workshops; teacher trainings; and partnerships with appropriate entities to better educate and inform the public about law enforcement history and officer safety and wellness education.
-- **(9)** Engage with local and independent educational agencies and expand teacher engagement to cultivate and support the development of leaders in the teaching of law enforcement history and officer safety and wellness education.
-- **(10)** Engage with State and local education leaders to encourage the adoption of resources supported under this Act into curricula across diverse disciplines.
-- **(11)** Create, develop, implement, replicate, or take to scale entrepreneurial, evidence-based, field-initiated innovations for museum and officer safety and wellness improvement, and rigorously evaluate such innovations.
-- **(12)** Provide for the free admission to National Law Enforcement Museum for active and retired law enforcement officers and family members of fallen officers; and dedicated free admission hours for the general public at least once a week.
-- **(13)** Develop online Law Enforcement History and Officer Safety and Wellness Education Resources for the general public and scholarly research.
-
-## § 4. Progress reports; certifications
-
-- **(a)** *Progress report* For each of the first seven fiscal years the National Law Enforcement Officers Memorial Fund shall submit a report to the Secretary of the Interior that—
-  - **(1)** documents, consistent with the funding provided from the Department, the progress in delivering public education, community outreach and officer safety and wellness programming; and
-  - **(2)** provides a formal accounting of total amounts of Federal funds expended during the fiscal year.
-- **(b)** *Submission to congress* The Secretary of the Interior shall share this report with Congress every fiscal year and make the report available on the U.S. Department of Interior website.
-
-## § 5. Authorization of appropriations
-
-- **(1)** *In general* There are authorized to be appropriated to the Secretary of the Interior to carry out this section $6,000,000 for each of the first 7 fiscal years beginning after the date of the enactment of this Act.
-- **(2)** *Exception* If in any fiscal year the amount appropriated pursuant to the authorization under paragraph (1) is not the full amount provided by such paragraph, the Secretary may transfer such sums as may be necessary from the National Park Service, up to the amount specified in paragraph (1), to carry out this section.
-
-## § 6. Continuation of activities
-
-To the extent that the National Law Enforcement Museum is engaged in an activity described on the date of the enactment of this Act, the Secretary may use the funds appropriated under section 5 to continue that activity.
+- **(a)** *In general* Subject to the availability of appropriations made in advance for such purpose, beginning on the first fiscal year the begins after the date of the enactment of this Act, and for each of the following 6 fiscal years, the Secretary shall award a grant in the amount specified in subsection (c) to the Fund to be used solely for the purposes described in subsection (b), if upon review of the application submitted pursuant to subsection (d), the Secretary makes a determination to award such grant pursuant to subsection (e).
+- **(b)** *Purpose* The purpose of the grants authorized under subsection (a) shall be for the expenses associated with operating and enhancing the community outreach, public education, and officer safety and wellness programs of the National Law Enforcement Museum, including programs to—
+  - **(1)** memorialize law enforcement heroes who die in the line of duty and compile statistics on law enforcement fatalities and injuries;
+  - **(2)** honor and commemorate the extraordinary service and sacrifice of America’s law enforcement officers;
+  - **(3)** develop and make available accurate, relevant, and accessible resources to promote the understanding of law enforcement history and officer safety and wellness training, which include digital resources and other types of resources, such as print resources and traveling exhibitions;
+  - **(4)** increase technical resources to better engage the public in person and via online platforms to educate and inform the public about community policing and officer safety and wellness;
+  - **(5)** create, expand, and disseminate scholarly work through research, curricula, in-house and traveling exhibitions, publications, and other outreach initiatives;
+  - **(6)** expand the collection acquisition and collection processes, including staffing, conservation, processing, and digitization;
+  - **(7)** augment law enforcement history and officer safety and wellness education activities, including the development, dissemination, and implementation of principles of sound pedagogy for teaching about law enforcement history and officer safety and wellness;
+  - **(8)** promote professional development, including local, regional, and national workshops, teacher trainings, and partnerships, with appropriate entities to better educate and inform the public about law enforcement history and officer safety and wellness education;
+  - **(9)** engage with local and independent educational agencies and expand teacher engagement to cultivate and support the development of leaders in the teaching of law enforcement history and officer safety and wellness education;
+  - **(10)** engage with State and local education leaders to encourage the adoption of resources supported under this Act into curricula across diverse disciplines;
+  - **(11)** create, develop, implement, replicate, or take to scale entrepreneurial, evidence-based, field-initiated innovations for museum and officer safety and wellness improvement, and rigorously evaluate such innovations;
+  - **(12)** provide for the free admission to National Law Enforcement Museum for active and retired law enforcement officers and family members of fallen officers, and dedicated free admission hours for the general public at least once a week; and
+  - **(13)** develop online Law Enforcement History and Officer Safety and Wellness Education Resources for the general public and scholarly research.
+- **(c)** *Grant amount* Each grant authorized under subsection (a) shall be for $6,000,000.
+- **(d)** *Application* To be considered for an award of a grant under this section, the Fund shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
+- **(e)** *Review; deadline for award* If the Secretary, after review of the application from the Fund, determines that the Fund satisfies any requirements established by the Secretary under subsection (d), the Secretary shall award the grant to the Fund, not later than 90 days after the date of receipt by the Secretary of the completed application submitted by the Fund.
+- **(f)** *Condition on receipt of grant* As a condition on receipt of a grant under this section, the Fund shall—
+  - **(1)** provide for—
+    - **(A)** free admission to National Law Enforcement Museum for active and retired law enforcement officers and family members of fallen officers; and
+    - **(B)** dedicated free admission hours for the general public at least once a week; and
+  - **(2)** allow for annual Federal audits of the financial statements of the Fund, including revenues associated with ticket sales, charitable donations, grants, and all expenditures on salaries and operations, which shall be subject to review by the Secretary and made available to the public.
+- **(g)** *Reports* Not later than 90 days after the end of each fiscal year for which the Fund obligates or expends funds made available to the Fund pursuant to this section, the Fund shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report that includes, for the fiscal year covered by the report, each of the following:
+  - **(1)** Information relating to the amount of grant funds obligated or expended for the preceding fiscal year.
+  - **(2)** Information relating to any purposes for which such funds were obligated or expended.
+  - **(3)** Information relating to the progress in delivering public education, community outreach, and officer safety and wellness programming using funds provided under this section.
+  - **(3)** Any other information the Secretary may require to effectively administer the program under this section, as determined by the Secretary, if not later than the last day of the fiscal year the Secretary notified the Fund of such requested information.
+- **(h)** *No additional funds authorized* No additional funds are authorized to carry out the requirements of this section, and the activities authorized by this section are subject to the availability of appropriations made in advance for such purposes.
