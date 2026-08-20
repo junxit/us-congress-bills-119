@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2827
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2827
@@ -30,3 +30,11 @@ To provide for the equitable settlement of certain Indian land disputes regardin
 - 2025-04-10 — Introduced in House
 - 2025-04-10 — Introduced in House
 - 2025-04-10 — Referred to the House Committee on Natural Resources.
+- 2026-02-25 — Referred to the Subcommittee on Indian and Insular Affairs.
+- 2026-03-04 — Subcommittee Hearings Held
+- 2026-07-15 — Committee Consideration and Mark-up Session Held
+- 2026-07-15 — Ordered to be Reported by Unanimous Consent.
+- 2026-07-15 — Subcommittee on Indian and Insular Affairs Discharged
+- 2026-08-20 — Placed on the Union Calendar, Calendar No. 663.
+- 2026-08-20 — Reported by the Committee on Natural Resources. H. Rept. 119-762.
+- 2026-08-20 — Reported by the Committee on Natural Resources. H. Rept. 119-762.
