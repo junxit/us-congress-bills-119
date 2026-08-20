@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6893
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-18 amendatory instructions. 3 executed, 15 stated and not applied.
+17 amendatory instructions. 3 executed, 14 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -60,8 +60,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `15 U.S.C. § 1511d` | replace | in paragraph (1) by striking “(in this section” and all that follows and inserting a period; | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 1511d` | amend | by amending paragraph (2) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 1511d` | replace | in paragraph (1), by striking “(in this section” and all that follows and inserting a period; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 1511d` | strike | by striking paragraph (3); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 1511d` | insert | by inserting “with and represent” after “coordinate”; | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 1511d` | strike | in clauses (vi) and (vii), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |

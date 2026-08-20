@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6893
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,20 +13,16 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Chesapeake Bay Watershed Advancement for Training, Education, Restoration, and Science (WATERS) Act”.
 
-## § 2. Sense of Congress
-
-It is the sense of Congress that the National Oceanic and Atmospheric Administration’s Chesapeake Bay Office should be the primary representative of the National Oceanic and Atmospheric Administration in the Chesapeake Bay watershed.
-
-## § 3. Reauthorization of the National Oceanic and Atmospheric Administration Chesapeake Bay Office
+## § 2. Reauthorization of National Oceanic and Atmospheric Administration Chesapeake Bay Office
 
 Section 307 of the National Oceanic and Atmospheric Administration Authorization Act of 1992 (15 U.S.C. 1511d) is amended—
 
 - **(1)** in subsection (a)—
-  - **(A)** in paragraph (1) by striking “(in this section” and all that follows and inserting a period;
-  - **(B)** by amending paragraph (2) to read as follows:
+  - **(A)** in paragraph (1), by striking “(in this section” and all that follows and inserting a period;
+  - **(B)** in paragraph (2), to read as follows:
     > - **(2)** The Office shall be headed by a Director, who—
     >   - **(A)** shall have knowledge and experience in research or resource management efforts in the Chesapeake Bay; and
-    >   - **(B)** shall be responsible for the administration and operation of the office and the implementation of this section.
+    >   - **(B)** shall be responsible for the administration and operation of the Office and the implementation of this section.
 
   - **(C)** by striking paragraph (3);
 - **(2)** in subsection (b)—
@@ -37,7 +33,7 @@ Section 307 of the National Oceanic and Atmospheric Administration Authorization
     - **(iii)** in subparagraph (A)—
       - **(I)** in clauses (vi) and (vii), by striking “and” at the end; and
       - **(II)** by adding at the end the following:
-        > - **(viii)** coastal hazards and climate change; and
+        > - **(viii)** coastal hazards; and
         > - **(ix)** education; and
 
     - **(iv)** in subparagraph (B)—
@@ -57,13 +53,13 @@ Section 307 of the National Oceanic and Atmospheric Administration Authorization
 - **(3)** by striking subsections (c), (d), and (e); and
 - **(4)** by adding at the end the following:
   > - **(c)** *Program Activities*
-  >   - **(1)** *In general* The Administrator, through the Director, shall implement the program activities authorized by this section to support the activity of the Chesapeake Executive Council and to further the purposes of this section.
+  >   - **(1)** *In general* The Administrator, acting through the Director, shall implement the program activities authorized by this section to support the activity of the Chesapeake Executive Council and to further the purposes of this section.
   >   - **(2)** *Ensuring scientific and technical merit* The Director shall—
   >     - **(A)** establish and use an effective and transparent mechanism to ensure that projects funded under this section have undergone appropriate peer review; and
   >     - **(B)** provide other appropriate means to determine that such projects have acceptable scientific and technical merit for the purpose of achieving maximum use of available funds and resources to benefit the Chesapeake Bay area.
-  >   - **(3)** *Consultation with Chesapeake Executive Council* The Director shall, in the implementation of the program activities authorized under this section, consult with the Chesapeake Executive Council, to ensure that the activities of the Office are consistent with the purposes and priorities of the Chesapeake Bay Agreement and plans developed pursuant to such agreement.
+  >   - **(3)** *Consultation with Chesapeake Executive Council* The Director shall, in the implementation of the program activities authorized under this section, consult with the Chesapeake Executive Council, to ensure that the activities of the Office are consistent with the purposes and priorities of the Chesapeake Bay Agreement and plans developed pursuant to the such agreement.
   >   - **(4)** *Integrated coastal observations*
-  >     - **(A)** *In general* The Administrator, through the Director, may collaborate with scientific and academic institutions, State and Federal agencies, non-governmental organizations, and other constituents in the Chesapeake Bay watershed, to support an integrated observations system for the Chesapeake Bay consistent with the purposes of the Integrated Coastal and Ocean Observation System Act of 2009 (33 U.S.C. 3601 et seq.).
+  >     - **(A)** *In general* The Administrator, acting through the Director, may collaborate with scientific and academic institutions, State and Federal agencies, nongovernmental organizations, and other constituents in the Chesapeake Bay watershed to support an integrated observations system for the Chesapeake Bay consistent with the purposes of the Integrated Coastal and Ocean Observation System Act of 2009 (33 U.S.C. 3601 et seq.).
   >     - **(B)** *Specific requirements* To support the system referred to in subparagraph (A) and provide a complete set of environmental information for the Chesapeake Bay, the Director shall—
   >       - **(i)** coordinate monitoring with Federal and State agencies in the tidal portions of the Chesapeake Bay to understand impacts of water quality on living marine resources;
   >       - **(ii)** identify new data collection needs and deploy new technologies, as appropriate;
@@ -75,7 +71,7 @@ Section 307 of the National Oceanic and Atmospheric Administration Authorization
   >       - **(iii)** interpret data and information for use by educators and students to inspire stewardship of the Chesapeake Bay; and
   >       - **(iv)** incorporate the observational data from the Chesapeake Bay Interpretive Buoy System into the Integrated Ocean Observing System regional observing system network.
   >   - **(5)** *Chesapeake Bay Watershed Education and Training Program*
-  >     - **(A)** *In general* The Administrator, through the Director, may establish a Chesapeake Bay watershed education and training program. The program shall—
+  >     - **(A)** *In general* The Administrator, acting through the Director, may establish a Chesapeake Bay watershed education and training program. The program shall—
   >       - **(i)** continue and expand the Chesapeake Bay watershed education programs offered by the Office immediately before the enactment of the Chesapeake Bay Watershed Advancement for Training, Education, Restoration, and Science (WATERS) Act;
   >       - **(ii)** improve the understanding of elementary and secondary school students and teachers of the living resources of the ecosystem of the Chesapeake Bay;
   >       - **(iii)** provide education and career pathway internships; and
@@ -89,7 +85,7 @@ Section 307 of the National Oceanic and Atmospheric Administration Authorization
   >       - **(vi)** build the capacity of school districts and their partners to deliver high quality environmental education programs.
   >     - **(C)** *Coordination* The Director shall implement the education and training program in coordination with the heads of other Federal agencies, as the Director determines appropriate.
   >   - **(6)** *Coastal and Living Resources Management and Habitat Program*
-  >     - **(A)** *In general* The Administrator, through the Director, may establish a Chesapeake Bay Coastal Living Resources Management and Habitat Program to support coordinated management, protection, characterization, and restoration of priority Chesapeake Bay habitats and living resources, including oysters, blue crabs, submerged aquatic vegetation, and economically and ecologically important fish species such as striped bass and menhaden.
+  >     - **(A)** *In general* The Administrator, acting through the Director, may establish a Chesapeake Bay Coastal Living Resources Management and Habitat Program to support coordinated management, protection, characterization, and restoration of priority Chesapeake Bay habitats and living resources, including oysters, blue crabs, salt marshes, submerged aquatic vegetation, and economically and ecologically important fish species such as striped bass and menhaden.
   >     - **(B)** *Activities* Under the Chesapeake Bay Coastal Living Resources Management and Habitat Program, the Director may carry out or enter into grants, contracts, and cooperative agreements and provide technical assistance to support—
   >       - **(i)** native oyster research and restoration;
   >       - **(ii)** fish and shellfish aquaculture that is carried out in accordance with a valid Federal or State permit;
@@ -102,16 +98,16 @@ Section 307 of the National Oceanic and Atmospheric Administration Authorization
   >       - **(ix)** other activities that the director determines are appropriate to carry out the purposes of such program.
   > - **(d)** *Delegation*
   >   - **(1)** *Authority* The Administrator shall delegate to the Director such authority as may be necessary to carry out this section.
-  >   - **(2)** *Staff* The Administrator shall delegate to the Director appropriate staff representing expertise that covers the breadth of the duties of the Office.
+  >   - **(2)** *Staff* The Administrator shall assign to the Director appropriate staff representing expertise that covers the breadth of the duties of the Office.
   > - **(e)** *Reports*
-  >   - **(1)** *In general* The Administrator, through the Director, shall submit a biennial report to the Congress and the Secretary of Commerce on the activities of the Office and on progress made in protecting and restoring the living resources and habitat of the Chesapeake Bay.
+  >   - **(1)** *In general* The Administrator, acting through the Director, shall submit a biennial report to the Committee on Natural Resources of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Secretary of Commerce on the activities of the Office and on progress made in protecting and restoring the living resources and habitat of the Chesapeake Bay.
   >   - **(2)** *Action plan* Each such report shall include an action plan for the 2-year period following submission of the report, consisting of—
   >     - **(A)** a list of recommended research, monitoring, and data collection activities necessary to continue implementation of the strategy under subsection (b)(2); and
   >     - **(B)** recommendations to integrate National Oceanic and Atmospheric Administration activities with the activities of the partners in the Chesapeake Bay Program to meet the commitments of the Chesapeake Bay Agreement and subsequent agreements.
   > - **(f)** *Agreements*
-  >   - **(1)** *In general* The Administrator, through the Director, may enter into and perform such contracts, leases, grants, or cooperative agreements as may be necessary to carry out the purposes of this Act.
+  >   - **(1)** *In general* The Administrator, acting through the Director, may enter into and perform such contracts, leases, grants, or cooperative agreements as may be necessary to carry out the purposes of this Act.
   >   - **(2)** *Use of other resources* For purposes related to the understanding, protection, and restoration of Chesapeake Bay, the Director may use, with consent and with or without reimbursement, the land, services, equipment, personnel, and facilities of any Department, agency, or instrumentality of the United States, or of any State, local government, Indian Tribe, or of any political subdivision thereof.
-  > - **(g)** *Definitions* In this section, the following definitions apply:
+  > - **(g)** *Definitions* In this section:
   >   - **(1)** *Administrator* The term Administrator means the Administrator of the National Oceanic and Atmospheric Administration.
   >   - **(2)** *Chesapeake bay agreement; Chesapeake bay ecosystem; Chesapeake bay program; Chesapeake executive council* The terms Chesapeake Bay Agreement, Chesapeake Bay ecosystem, Chesapeake Bay Program, and Chesapeake Executive Council have the meanings given those terms in section 117(a) of the Federal Water Pollution Control Act (33 U.S.C. 1267(a)).
   >   - **(3)** *Director* The term Director means the Director of the Office.
