@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5063
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,12 +15,10 @@ This Act may be cited as the “Safe Beaches, Safe Swimmers Act”.
 
 ## § 2. Adequate lifeguard staffing at Federal swimming areas and beaches
 
-- **(a)** *In general* If the Secretary determines there is a staffing shortage with respect to a designated swim location, the Secretary shall seek to enter into an agreement with one or more local government agencies to enable lifeguards employed by those local government agencies to—
+- **(a)** *In general* If the Secretary determines there is a staffing shortage with respect to a designated swim location, the Secretary may seek to enter into an agreement with one or more local government agencies to enable lifeguards employed by those local government agencies to—
   - **(1)** adequately staff such designated swim location during normal seasonal operating hours; and
   - **(2)** ensure visitor safety and provide rescue and first aid services at the designated swim location as necessary.
-- **(b)** *Reimbursement*
-  - **(1)** *In general* In entering into an agreement under subsection (a), the Secretary shall ensure that the local government agency providing the lifeguard services is reimbursed for all reasonable costs incurred by the local government agency in carrying out the agreement.
-  - **(2)** *Current agreements* If an agreement has been entered into by the Secretary and a local government agency for lifeguard services at a designated swim location on or before the date of the enactment of this Act, the Secretary shall amend such agreement as necessary to provide for the reimbursement of the local government agency for all reasonable costs incurred by the local government agency in carrying out the agreement, regardless of the terms of the original agreement relating to cost sharing.
+- **(b)** *Reimbursement* In entering into an agreement under subsection (a), the Secretary shall ensure that the local government agency providing the lifeguard services is reimbursed for all reasonable costs incurred by the local government agency in carrying out the agreement.
 - **(c)** *Definitions* In this section:
   - **(1)** *Designated swim location* The term designated swim location means a swimming area or swimming beach—
     - **(A)** on lands and waters managed by the National Park Service, the United States Fish and Wildlife Service, the Bureau of Land Management, or the Bureau of Reclamation; and
