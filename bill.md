@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Bankruptcy Threshold Adjustment Act of 2026”.
+This Act may be cited as the “Bankruptcy Threshold Adjustment Act”.
 
 ## § 2. Debt limit modifications
 
