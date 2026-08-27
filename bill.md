@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5576
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -34,35 +34,7 @@ The Geothermal Steam Act of 1970 (30 U.S.C. 1001 et seq.) is amended by adding a
 > - **(b)** *Non-Major Federal action* Geothermal exploration projects and covered activities shall not be considered major Federal actions under section 102(2)(C) of the National Environmental Policy Act of 1969 (42 U.S.C. 4332(2)(C)).
 > - **(c)** *Requirement To provide notice* The holder of a geothermal lease shall provide to the Secretary notice of their intent to carry out a geothermal exploration project at least 30 days before the start of drilling under the project.
 
-## § 3. Geothermal leasing priority areas
-
-The Geothermal Steam Act of 1970 (30 U.S.C. 1001 et seq.) is further amended by adding at the end the following:
-
-> ## § 31. Geothermal leasing priority areas
->
-> - **(a)** *Definition of covered land* In this section, the term covered land means land that is—
->   - **(1)** Federal land; and
->   - **(2)** not excluded from the development of geothermal energy under—
->     - **(A)** a land use plan established under the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 et seq.); or
->     - **(B)** any other Federal law.
-> - **(b)** *Designation of geothermal leasing priority areas* The Secretary, in consultation with the Secretary of Energy, shall designate portions of covered land as geothermal leasing priority areas as soon as practicable, but not later than 3 years, after the date of enactment of this section.
-> - **(c)** *Criteria for selection* In determining which covered lands to designate as geothermal leasing priority areas under subsection (b), the Secretary, in consultation with the Secretary of Energy, shall consider if—
->   - **(1)** the covered land is preferable for geothermal leasing;
->   - **(2)** production of geothermal energy on such land is economically viable, including if such land has access to methods of energy transmission; and
->   - **(3)** the designation would be in compliance with section 202 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1712), including subsection (c)(9) of such section.
-> - **(d)** *Review and modification* Not less frequently than once every 5 years, the Secretary shall—
->   - **(1)** review covered land and, if appropriate, make additional designations of geothermal leasing priority areas; and
->   - **(2)** review each area designated as a geothermal leasing priority area under this section, and, if appropriate, remove such designation.
-> - **(e)** *Programmatic environmental impact statement*
->   - **(1)** *Initial designations* Not later than one year after the initial designation of a geothermal leasing priority area, the Secretary shall prepare a supplement to any final programmatic environmental impact statement for geothermal leasing that is the most recently finalized such statement with respect to covered land designated as a geothermal leasing priority area under subsection (b).
->   - **(2)** *Subsequent designations* Each designation of a geothermal leasing priority area under subsection (b) shall be included in a programmatic environmental impact statement for geothermal leasing or in a supplement to such a statement.
->   - **(3)** *Consultations* In developing any programmatic environmental impact statement for geothermal leasing or supplement to such a statement under this section, the Secretary shall consult, on an ongoing basis, with appropriate State, Tribal, and local governments, transmission infrastructure owners and operators, developers, and other appropriate entities.
->   - **(4)** *Procedure* The Secretary may not delay issuing a permit or holding a lease sale under this Act because the supplement required under paragraph (1) has not been finalized by the Secretary.
-> - **(f)** *Compliance with NEPA* If the designation of a geothermal leasing priority area has been analyzed by a programmatic environmental document—
->   - **(1)** during the period of 10 years that begins on the date such programmatic environmental document is issued, the Secretary shall not prepare any additional analysis under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) with respect to geothermal lease sales for such geothermal leasing priority area unless the Secretary determines there are substantial new circumstances or information about the significance of adverse effects that bear on the analysis; and
->   - **(2)** after such period of 10 years, the Secretary shall not prepare any additional analysis under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) with respect to geothermal lease sales for such geothermal leasing priority area if the Secretary reevaluates the analysis in the programmatic environmental document and any underlying assumption to ensure reliance on the analysis remains valid.
-
-## § 4. Findings
+## § 3. Findings
 
 Congress finds that—
 
