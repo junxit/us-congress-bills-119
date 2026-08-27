@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 741
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -25,7 +25,9 @@ This Act may be cited as the “Stronger Engagement for Indian Health Needs Act 
   - **(3)** in paragraph (3), by striking “date of enactment of the Indian Health Care Improvement Reauthorization and Extension Act of 2009 shall serve as Director” and inserting “date of enactment of the Stronger Engagement for Indian Health Needs Act of 2025 shall serve as Assistant Secretary”;
   - **(4)** in paragraph (4), in the matter before subparagraph (A), by striking “Director” and inserting “Assistant Secretary”; and
   - **(5)** by adding at the end the following new paragraph:
-    > - **(5)** *Deputy Assistant Secretary* The Assistant Secretary, with the approval of the Secretary, may appoint a Deputy Assistant Secretary and may employ and prescribe the functions of such officers and employees, including attorneys, as are necessary to administer the activities of the Service.
+    > - **(5)** *Deputy Assistant Secretary* The Assistant Secretary may—
+    >   - **(A)** with the approval of the Secretary, appoint a Deputy Assistant Secretary; and
+    >   - **(B)** consistent with applicable law, utilize officers and employees of the Department as necessary to administer the activities of the Service.
 
 - **(b)** *Duties* Section 601(c) of the Indian Health Care Improvement Act (25 U.S.C. 1661(c)) is amended—
   - **(1)** in the matter before paragraph (1), by striking “Director” and inserting “Assistant Secretary”; and
