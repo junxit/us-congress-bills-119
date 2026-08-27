@@ -42,4 +42,4 @@ This Act may be cited as the “Stopping Foreign Influence in Elections Act of 2
   >   - **(3)** *Disqualified political committee contributions* For purposes of this subsection, the term “disqualified political committee contributions” has the meaning given such term in section 6720D(b).
 
 - **(c)** *Clerical amendment* The table of sections for part I of subchapter B of chapter 68 of such Code is amended by adding at the end the following new item:
-- **(d)** *Effective date* The amendment made by this section shall apply with respect to contributions made after the date which is 1 year after the date of the enactment of this Act.
+- **(d)** *Effective date* The amendments made by this section shall apply with respect to contributions made after the date which is 1 year after the date of the enactment of this Act.
