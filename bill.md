@@ -15,32 +15,33 @@ This Act may be cited as the “Rural Jobs and Hydropower Expansion Act”.
 
 ## § 2. Amendments to Reclamation Project Act
 
-Section 9(c) of the Reclamation Project Act of 1939 (53 Stat. 1194) is amended—
+Section 9(c) of the Reclamation Project Act of 1939 (43 U.S.C. 485h(c); 53 Stat. 1194) is amended—
 
-- **(1)** by striking “(1) The Secretary is authorized” and inserting “The Secretary is authorized”;
-- **(2)** by striking “small conduit hydropower using Bureau of Reclamation facilities and pumped storage hydropower exclusively using Bureau of Reclamation reservoirs” and inserting “hydropower using all Bureau of Reclamation facilities”;
-- **(3)** by striking “No contract relating to municipal water supply” and inserting the following:
-  > - **(1)** No contract relating to municipal water supply
+- **(1)** by striking the subsection designation and inserting the following:
+  > - **(c)** *Furnishing water to municipalities; sale of electric power; lease of power privileges*
 
-- **(4)** in paragraph (2)(A)—
+- **(2)** in paragraph (1), by striking “small conduit hydropower using Bureau of Reclamation facilities and pumped storage hydropower exclusively using Bureau of Reclamation reservoirs” and inserting “hydropower using all Bureau of Reclamation facilities”;
+- **(3)** in paragraph (2)(A)—
   - **(A)** by striking “applicable transferred conduit” and inserting “applicable transferred works facility”;
   - **(B)** by striking “applicable reserved conduit” and inserting “applicable reserved works facility”; and
   - **(C)** by striking “power privilege offer for a small conduit” and inserting “power privilege offer for the”;
-- **(5)** in paragraph (3), by striking “small conduit” and inserting “applicable”;
-- **(6)** in paragraph (4), by striking “small conduit hydropower”;
-- **(7)** in paragraph (6)—
-  - **(A)** by striking “conduit” before “hydropower generation”; and
-  - **(B)** by striking “transferred conduit” and inserting “transferred works facility”;
-- **(8)** in paragraph (7), by striking “conduit”;
-- **(9)** in paragraph (8)—
+- **(4)** in paragraph (3), by striking “small conduit” and inserting “applicable”;
+- **(5)** in paragraph (4), by striking “small conduit hydropower”;
+- **(6)** in paragraph (6)—
+  - **(A)** by inserting “, or the management of Bureau of Reclamation facilities specially authorized for hydropower generation” before “, as water used”;
+  - **(B)** by striking “conduit” before “hydropower generation”;
+  - **(C)** by striking “shall be deemed incidental to” inserting “shall be deemed secondary to”; and
+  - **(D)** by striking “transferred conduit” and inserting “transferred works facility”;
+- **(7)** in paragraph (7), by striking “conduit”;
+- **(8)** in paragraph (8)—
   - **(A)** by inserting “(referred to in this section as an “authorization”)” before “issued by the Federal Energy Regulatory Commission”;
   - **(B)** by striking “August 9, 2013,” and inserting “the date of the enactment of the Rural Jobs and Hydropower Expansion Act”; and
   - **(C)** by adding at the end “Any authorization issued by the Federal Energy Regulatory Commission with respect to a project shall remain in place until such authorization becomes inactive. As allowed by the Federal Energy Regulatory Commission, an authorization may be renewed and remain active. Once the authorization becomes inactive, project site jurisdiction shall shift to the Bureau of Reclamation exclusively.”;
-- **(10)** by redesignating paragraph (9) as paragraph (10);
-- **(11)** by inserting after paragraph (8) the following:
+- **(9)** by redesignating paragraph (9) as paragraph (10);
+- **(10)** by inserting after paragraph (8) the following:
   > - **(9)** Nothing in this section shall expand or otherwise amend the Bureau of Reclamation lease of power privilege authorities outside the project boundary.
 
-- **(12)** in paragraph (10), as so redesignated—
+- **(11)** in paragraph (10), as so redesignated—
   - **(A)** by striking subparagraphs (A), (C), (D), and (E);
   - **(B)** by redesignating subparagraph (B) as subparagraph (A); and
   - **(C)** by adding at the end the following:
