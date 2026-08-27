@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 625
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Local Access to Courts Act” or “LACA”.
+This Act may be cited as the “Local Access to Courts Act of 2026” or “LACA of 2026”.
 
 ## § 2. Organization of Texas district courts
 

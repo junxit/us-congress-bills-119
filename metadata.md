@@ -1,7 +1,7 @@
 ---
 measure: H.R. 625
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 625
@@ -29,3 +29,8 @@ LACA of 2026
 - 2025-01-22 — Introduced in House
 - 2025-01-22 — Introduced in House
 - 2025-01-22 — Referred to the House Committee on the Judiciary.
+- 2026-07-15 — Committee Consideration and Mark-up Session Held
+- 2026-07-15 — Ordered to be Reported (Amended) by the Yeas and Nays: 23 - 0.
+- 2026-08-27 — Placed on the Union Calendar, Calendar No. 685.
+- 2026-08-27 — Reported (Amended) by the Committee on Judiciary. H. Rept. 119-784.
+- 2026-08-27 — Reported (Amended) by the Committee on Judiciary. H. Rept. 119-784.
