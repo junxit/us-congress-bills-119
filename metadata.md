@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9772
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 9772
@@ -16,6 +16,10 @@ Foreign Funding Transparency Act
 
 - Rep. Schweikert, David [R-AZ-1] (S001183)
 
+## Cosponsors (1)
+
+- Rep. Fine, Randy [R-FL-6] (F000484)
+
 ## Committees (1)
 
 - House — Ways and Means Committee
@@ -25,3 +29,8 @@ Foreign Funding Transparency Act
 - 2026-07-18 — Introduced in House
 - 2026-07-18 — Introduced in House
 - 2026-07-18 — Referred to the House Committee on Ways and Means.
+- 2026-07-22 — Committee Consideration and Mark-up Session Held
+- 2026-07-22 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 23 - 18.
+- 2026-08-27 — Placed on the Union Calendar, Calendar No. 666.
+- 2026-08-27 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-765.
+- 2026-08-27 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-765.

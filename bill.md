@@ -23,10 +23,10 @@ This Act may be cited as the “Foreign Funding Transparency Act”.
   >   - **(2)** *Identification of foreign country of contribution* For purposes of this subsection, the foreign country with respect to which a contribution is received is—
   >     - **(A)** in the case of a contribution made by an individual, each foreign country of which such individual is a citizen, and
   >     - **(B)** in the case of any other contribution, the foreign country under the laws of which the person making such contribution was created or organized.
-  >   - **(3)** *Specified tax exempt organization* For purposes of this subsection, the term “specified tax exempt organization” means, with respect to any taxable year, any organization described in section 501(c) if—
+  >   - **(3)** *Specified tax exempt organization* For purposes of this subsection, the term specified tax exempt organization means, with respect to any taxable year, any organization described in section 501(c) if—
   >     - **(A)** the gross receipts of such organization for the preceding taxable year equal or exceed $200,000, or
   >     - **(B)** the assets of such organization (determined as of the close of such preceding taxable year) equal or exceed $500,000.
   >   - **(4)** *Reliance on representation* For purposes of this subsection, an organization may rely on the representation of a donor as to the nationality of such donor unless such organization knows or should have known that such representation is false.
   >   - **(5)** *Regulations* The Secretary may require specified tax exempt organizations to collect such information from foreign nationals who make contributions to such organizations at such time and in such manner as the Secretary determines appropriate for the purposes of this subsection.
 
-- **(b)** *Effective date* The amendments made by this section shall apply to returns filed for taxable years beginning after the date that is 1 year after the date of the enactment of this Act.
+- **(b)** *Effective date* The amendments made by subsection (a) shall apply to returns filed for taxable years beginning after the date that is 1 year after the date of the enactment of this Act.
