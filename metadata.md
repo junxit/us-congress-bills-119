@@ -1,7 +1,7 @@
 ---
 measure: H.R. 726
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 726
@@ -29,3 +29,8 @@ Crow Tribe Water Rights Settlement Amendments Act of 2025
 - 2025-01-24 — Introduced in House
 - 2025-01-24 — Introduced in House
 - 2025-01-24 — Referred to the House Committee on Natural Resources.
+- 2026-07-15 — Committee Consideration and Mark-up Session Held
+- 2026-07-15 — Ordered to be Reported in the Nature of a Substitute (Amended) by Voice Vote.
+- 2026-08-27 — Placed on the Union Calendar, Calendar No. 670.
+- 2026-08-27 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-769.
+- 2026-08-27 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-769.
