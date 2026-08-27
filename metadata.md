@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9436
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 9436
@@ -29,3 +29,8 @@ Northeast Lobsterman Protection Act of 2026
 - 2026-06-24 — Introduced in House
 - 2026-06-24 — Introduced in House
 - 2026-06-24 — Referred to the House Committee on Natural Resources.
+- 2026-07-15 — Committee Consideration and Mark-up Session Held
+- 2026-07-15 — Ordered to be Reported in the Nature of a Substitute (Amended) by the Yeas and Nays: 22 - 13.
+- 2026-08-27 — Placed on the Union Calendar, Calendar No. 667.
+- 2026-08-27 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-766.
+- 2026-08-27 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-766.
