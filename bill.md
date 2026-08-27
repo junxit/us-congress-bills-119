@@ -17,13 +17,6 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 - **(b)** *Corrections*
   - **(1)** *Minor adjustments* The Secretary of Agriculture and the Secretary of the Interior may, by mutual agreement, make minor corrections and adjustments to the Federal land transferred under subsection (a) to facilitate land management, including making a correction or adjustment to any applicable survey.
   - **(2)** *Publications* Any correction or adjustment made under paragraph (1) shall be effective on the date of publication of a notice of the correction or adjustment in the Federal Register.
-- **(c)** *Hazardous substances*
-  - **(1)** *Notice* The Secretary of Agriculture and the Secretary of the Interior shall, with respect to the land described in paragraphs (1) and (2) of subsection (a), respectively—
-    - **(A)** identify any known sites containing hazardous substances; and
-    - **(B)** provide to the head of the Federal agency to which the land is being transferred under subsection (a) notice of any site containing hazardous substances, as identified under subparagraph (A).
-  - **(2)** *Cleanup obligations* To the same extent as on the day before the date of enactment of this Act, with respect to any Federal liability—
-    - **(A)** the Secretary of Agriculture shall remain responsible for any cleanup of hazardous substances on the Federal land described in subsection (a)(1); and
-    - **(B)** the Secretary of the Interior shall remain responsible for any cleanup of hazardous substances on the Federal land described in subsection (a)(2).
-- **(d)** *Effect on existing rights and authorizations* Nothing in this section affects—
+- **(c)** *Effect on existing rights and authorizations* Nothing in this section affects—
   - **(1)** any valid existing rights; or
   - **(2)** the validity or terms and conditions of any existing withdrawal, right-of-way, easement, lease, license, or permit on the land to which administrative jurisdiction is transferred under this section, except that beginning on the date of enactment of this Act, the head of the agency to which administrative jurisdiction over the land is transferred shall be responsible for administering the interests or authorizations in accordance with applicable law.

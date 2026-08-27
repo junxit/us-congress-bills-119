@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8454
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 8454
@@ -25,3 +25,11 @@ To provide for the transfer of administrative jurisdiction over certain Federal 
 - 2026-04-22 — Introduced in House
 - 2026-04-22 — Introduced in House
 - 2026-04-22 — Referred to the House Committee on Natural Resources.
+- 2026-06-24 — Referred to the Subcommittee on Federal Lands.
+- 2026-07-01 — Subcommittee Hearings Held
+- 2026-07-22 — Committee Consideration and Mark-up Session Held
+- 2026-07-22 — Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.
+- 2026-07-22 — Subcommittee on Federal Lands Discharged
+- 2026-08-27 — Placed on the Union Calendar, Calendar No. 678.
+- 2026-08-27 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-777.
+- 2026-08-27 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-777.
