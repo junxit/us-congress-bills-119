@@ -1,7 +1,7 @@
 ---
 measure: S. 675
 congress: 119
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 675
@@ -21,9 +21,10 @@ Theodore Roosevelt Presidential Library Act
 - Sen. Blumenthal, Richard [D-CT] (B001277)
 - Sen. Cramer, Kevin [R-ND] (C001096)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Energy and Natural Resources Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -40,3 +41,8 @@ Theodore Roosevelt Presidential Library Act
 - 2026-06-22 — Senate amendment agreed to: Amendment SA 5897 agreed to in Senate by Unanimous Consent.
 - 2026-06-22 — Senate amendment proposed (on the floor): Amendment SA 5897 proposed by Senator Hoeven.
 - 2026-06-22 — Senate amendment submitted
+- 2026-06-23 — Held at the desk.
+- 2026-06-23 — Message on Senate action sent to the House.
+- 2026-06-23 — Received in the House.
+- 2026-08-27 — Referred to the House Committee on Natural Resources.
+- 2026-08-27 — Referred to the Subcommittee on Federal Lands.
