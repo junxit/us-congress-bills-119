@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4219
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,13 +15,12 @@ This Act may be cited as the “National Wildlife Refuge System Invasive Species
 
 ## § 2. National Wildlife Refuge System Invasive Species Strike Team Program
 
-- **(a)** *Purpose* The purpose of this Act is to legislatively authorize the National Wildlife Refuge System Invasive Species Strike Team Program within the United States Fish and Wildlife Service to eradicate, control, and reduce the adverse effects of invasive species on and adjacent to National Wildlife Refuge System lands and waters, primarily through prevention, biosecurity, early detection, and rapid response.
-- **(b)** *Invasive Species Strike Team Program*
-  - **(1)** *In general* The Secretary shall carry out a program to identify and respond to priority invasive species threats within and adjacent to National Wildlife Refuge System lands and waters in coordination with partners, to be known as the “National Wildlife Refuge System Invasive Species Strike Team Program”.
+- **(a)** *Invasive Species Strike Team Program*
+  - **(1)** *In general* The Secretary shall carry out a program to identify and respond to priority invasive species threats within or adjacent to National Wildlife Refuge System lands and waters in coordination with partners, to be known as the “National Wildlife Refuge System Invasive Species Strike Team Program”.
   - **(2)** *Requirements* In carrying out the Program, the Secretary shall—
     - **(A)** establish at least 1 invasive species strike team within each region of the United States Fish and Wildlife Service trained in early detection and rapid response for multiple invasive species taxa to—
-      - **(i)** conserve, manage, and, where appropriate, restore, habitat conditions that help native biological communities flourish on and adjacent to National Wildlife Refuge System lands and waters;
-      - **(ii)** conduct prevention, early detection surveillance, eradication, containment, mapping, monitoring, and active management of invasive species;
+      - **(i)** conserve, manage, and, where appropriate, restore, habitat conditions that help native biological communities flourish within or adjacent to National Wildlife Refuge System lands and waters;
+      - **(ii)** conduct appropriate prevention, early detection, rapid response, and management of invasive species;
       - **(iii)** use integrated pest management techniques and tools;
       - **(iv)** conduct inreach and outreach, including trainings and table-top exercises, including on the use of the Incident Command System, as part of their planning and operations; and
       - **(v)** use risk assessments, research, innovations, management outcomes, monitoring, and evaluation to improve the effectiveness of detection and response activities;
@@ -39,27 +38,30 @@ This Act may be cited as the “National Wildlife Refuge System Invasive Species
       - **(v)** iMapInvasives; and
       - **(vi)** State databases.
   - **(3)** *Provision of assistance* In carrying out the Program, the Secretary is authorized to—
-    - **(A)** conduct outreach to Federal, State, Territorial, local, and Tribal governments, nongovernmental institutions, nonprofit organizations, and private individuals and entities to address the management of property adjacent to a unit of the National Wildlife Refuge System, including providing or entering into, upon request—
+    - **(A)** conduct outreach as appropriate to Federal, State, local, and Tribal governments and institutions, as well as private individuals and organizations, to address the management of invasive species within or adjacent to National Wildlife Refuge System lands and waters, including providing or entering, upon request—
       - **(i)** financial assistance, including direct expenditures;
       - **(ii)** technical assistance;
       - **(iii)** contracts; or
       - **(iv)** grants or cooperative agreements; and
-    - **(B)** upon the request of another Federal department or agency or a State, Tribal, or Territorial agency, enter into an agreement within the mission and authorities of the United States Fish and Wildlife Service with such department or agency to provide the expertise and use of invasive species strike teams established under paragraph (2) to respond to invasive species under the jurisdiction of such department or agency, or to rapidly respond to a newly detected invasive species.
-  - **(4)** *Coordination of management actions* The Secretary shall encourage the National Wildlife Refuge System to coordinate invasive species management actions of each Invasive Species Strike Team with adjacent landowners and the State agencies within the State of which Invasive Species Strike Team activities may occur.
+    - **(B)** upon request of an entity described in subparagraph (A) and as appropriate, enter into an agreement to provide the expertise and use of Invasive Species Strike Teams established under paragraph (2) to respond to existing or newly detected invasive species.
+  - **(4)** *Coordination of management actions* The Secretary shall encourage the National Wildlife Refuge System to coordinate invasive species management actions of each Invasive Species Strike Team with adjacent landowners and the State or Tribal agencies within the State or Tribal lands on which Invasive Species Strike Team activities may occur.
   - **(5)** *Report*
     - **(A)** *In general* The Secretary shall submit to the Committee on Appropriations and the Committee on Natural Resources of the House of Representatives and the Committee on Appropriations and the Committee on Environment and Public Works of the Senate, and make available to the public on the website of the United States Fish and Wildlife Service, a report regarding the Program 2 years after enactment and 5 years after enactment.
     - **(B)** *Contents of report* Each report submitted under subparagraph (A) shall include—
       - **(i)** a summary of each Invasive Species Strike Team’s work to address priority invasive species within the National Wildlife Refuge System; and
       - **(ii)** progress made by the Program toward the prevention, detection, control, or eradication of each priority invasive species.
-- **(c)** *Authorization of appropriations* There is authorized to be appropriated to the Secretary to carry out this section $15,000,000 for each of fiscal years 2026 through 2030.
-- **(d)** *Definitions* In this section:
-  - **(1)** *Invasive species* The term invasive species means, with regard to a particular ecosystem, a non-native organism whose introduction causes or is likely to cause economic or environmental harm or harm to human, animal, or plant health.
-  - **(2)** *Early detection* The term early detection means a process of surveying for, reporting, and verifying the presence of a non-native species before the founding population becomes established or spreads so widely that eradication is no longer feasible.
-  - **(3)** *Priority invasive species* The term priority invasive species means an invasive species that is a major concern and necessary to map, monitor, and manage based on the following factors:
+- **(b)** *Authorization of appropriations* There is authorized to be appropriated to the Secretary to carry out this section $10,000,000 for each of fiscal years 2027 through 2033.
+- **(c)** *Definitions* In this section:
+  - **(1)** *Early detection* The term early detection means a process of surveying for, reporting, and verifying the presence of an invasive species before the founding population becomes established or spreads so widely that eradication is no longer feasible.
+  - **(2)** *Eradication* The term “eradication” means the removal or destruction of an entire population of specific invasive species, or removal of a group of invasive species at a pre-defined geographic scale, confirmed through species-specific post-treatment monitoring with no or little chance of reinvasion.
+  - **(3)** *Invasive species* The term invasive species means, with regard to a particular ecosystem, a non-native organism whose introduction causes or is likely to cause economic or environmental harm or harm to human, animal, or plant health.
+  - **(4)** *Prevention* The term “prevention” means actions, such as outreach, education, or inspection stations, associated with stopping invasive species from being introduced or spreading into a new location or ecosystem through various pathways.
+  - **(5)** *Priority invasive species* The term priority invasive species means an invasive species that is a major concern and necessary to map, monitor, and manage based on the following factors:
     - **(A)** Potential impact on other native species.
     - **(B)** Ability to alter habitats.
     - **(C)** Ability to harm human health.
     - **(D)** Severity of economic impact.
-  - **(4)** *Program* The term Program means the National Wildlife Refuge System Invasive Species Strike Team Program authorized under subsection (b)(1).
-  - **(5)** *Secretary* The term Secretary means the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service.
-  - **(6)** *State* The term State means each of the several States, the District of Columbia, and each territory and possession of the United States.
+  - **(6)** *Program* The term Program means the National Wildlife Refuge System Invasive Species Strike Team Program authorized under subsection (a)(1).
+  - **(7)** *Rapid response* The term “rapid response” means a process that is employed to eradicate or contain the founding or incipient population of an invasive species from a specific location.
+  - **(8)** *Secretary* The term Secretary means the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service.
+  - **(9)** *State* The term State means each of the several States, the District of Columbia, and each territory and possession of the United States.
