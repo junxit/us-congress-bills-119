@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1869
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Protecting American Industry and Labor from International Trade Crimes Act of 2025”.
+This Act may be cited as the “Protecting American Industry and Labor from International Trade Crimes Act of 2026”.
 
 ## § 2. Trade-related crimes defined
 
@@ -62,9 +62,3 @@ The Attorney General, in consultation with the Secretary of Homeland Security, s
 - **(2)** include annual statistics on the volume of publicly charged trade-related crimes and indictments;
 - **(3)** include a summary on how the funds appropriated for trade-related crimes were utilized in the prior reporting period, including staff and operating expenses; and
 - **(4)** provide an estimate of any additional funding needed to combat trade-related crimes.
-
-## § 6. Authorization of appropriations
-
-- **(a)** *In general* There are authorized to be appropriated to the Attorney General $20,000,000 for fiscal year 2026 to carry out this Act. Of sums appropriated, at least 80 percent shall be used by the Criminal Division to support criminal prosecution of trade crimes as defined in this Act, including salaries and expenses necessary to hire and train investigatory and prosecutorial personnel, develop multijurisdictional and multiagency partnerships, and conduct enforcement actions.
-- **(b)** *Other criminal prosecution and civil enforcement* Remaining sums may be used by the Department of Justice to support criminal prosecution of trade crimes by other components and civil enforcement.
-- **(c)** *Availability of amounts* Amounts appropriated pursuant to the authorization of appropriations under subsection (a) shall remain available until expended.

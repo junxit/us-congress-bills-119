@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1869
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 1869
@@ -16,7 +16,7 @@ Protecting American Industry and Labor from International Trade Crimes Act of 20
 
 - Rep. Hinson, Ashley [R-IA-2] (H001091)
 
-## Cosponsors (33)
+## Cosponsors (44)
 
 - Rep. Moolenaar, John R. [R-MI-2] (M001194)
 - Rep. Krishnamoorthi, Raja [D-IL-8] (K000391)
@@ -51,6 +51,17 @@ Protecting American Industry and Labor from International Trade Crimes Act of 20
 - Rep. Deluzio, Christopher R. [D-PA-17] (D000530)
 - Rep. Torres, Ritchie [D-NY-15] (T000486)
 - Rep. Tokuda, Jill N. [D-HI-2] (T000487)
+- Rep. Bishop, Sanford D. [D-GA-2] (B000490)
+- Rep. Mrvan, Frank J. [D-IN-1] (M001214)
+- Rep. Bonamici, Suzanne [D-OR-1] (B001278)
+- Rep. Timmons, William R. [R-SC-4] (T000480)
+- Rep. Budzinski, Nikki [D-IL-13] (B001315)
+- Rep. Conaway, Herbert C. [D-NJ-3] (C001136)
+- Rep. Stefanik, Elise M. [R-NY-21] (S001196)
+- Rep. Vindman, Eugene Simon [D-VA-7] (V000138)
+- Rep. Stanton, Greg [D-AZ-4] (S001211)
+- Rep. Nehls, Troy E. [R-TX-22] (N000026)
+- Rep. Riley, Josh [D-NY-19] (R000622)
 
 ## Committees (1)
 
@@ -61,3 +72,8 @@ Protecting American Industry and Labor from International Trade Crimes Act of 20
 - 2025-03-05 — Introduced in House
 - 2025-03-05 — Introduced in House
 - 2025-03-05 — Referred to the House Committee on the Judiciary.
+- 2026-06-03 — Committee Consideration and Mark-up Session Held
+- 2026-06-03 — Ordered to be Reported (Amended) by the Yeas and Nays: 23 - 0.
+- 2026-08-27 — Placed on the Union Calendar, Calendar No. 683.
+- 2026-08-27 — Reported (Amended) by the Committee on Judiciary. H. Rept. 119-782.
+- 2026-08-27 — Reported (Amended) by the Committee on Judiciary. H. Rept. 119-782.
