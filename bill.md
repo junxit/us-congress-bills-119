@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6021
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,39 +11,34 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Archie Cavanaugh Migratory Bird Treaty Amendment Act”.
+This Act may be cited as the “Archie Cavanaugh Migratory Bird Treaty Clarification Act”.
 
 ## § 2. Purpose
 
--  The purpose of this Act is to clarify the treatment of authentic Alaska Native articles of handicraft (as defined in subsection (c)(1) of section 2 of the Migratory Bird Treaty Act (16 U.S.C. 703)) under—
-  - **(1)** the Convention between the United States and Great Britain for the Protection of Migratory Birds, signed at Washington August 16, 1916 (39 Stat. 1702; USTS 628);
-  - **(2)** the Convention between the United States and Mexico for the Protection of Migratory Birds and Game Mammals, signed at Mexico City February 7, 1936 (50 Stat. 1311; USTS 912);
-  - **(3)** the Convention between the United States and Japan for the Protection of Migratory Birds and Birds in Danger of Extinction and Their Environment, signed at Tokyo March 4, 1974 (TIAS 7990); and
-  - **(4)** the Convention between the United States and the Soviet Union Concerning the Conservation of Migratory Birds and Their Environment, signed at Moscow November 19, 1976 (TIAS 9073).
+-  The purpose of this Act is to clarify the treatment of authentic Alaska Native articles of handicraft offered for sale under the Convention between the United States and Japan for the Protection of Migratory Birds and Birds in Danger of Extinction and Their Environment, signed at Tokyo March 4, 1974 (TIAS 7990).
 
-## § 3. Clarification for Alaska Native articles containing migratory bird parts
+## § 3. Clarification for authentic Alaska Native articles of handicraft containing migratory bird parts
 
-- **(a)** *In general* Section 2 of the Migratory Bird Treaty Act (16 U.S.C. 703) is amended by adding at the end the following:
-  > - **(c)** *Clarification for authentic alaska native articles of handicraft*
-  >   - **(1)** *Definitions* In this subsection:
-  >     - **(A)** *Alaska native* The term Alaska Native means a member of any Indian Tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304)) that is based in the State of Alaska, as verified through issuance of—
-  >       - **(i)** a Tribal enrollment card;
-  >       - **(ii)** a Certificate of Degree of Indian Blood (commonly known as a “CDIB”) by the Bureau of Indian Affairs; or
-  >       - **(iii)** a permit under the Silver Hand program of the Alaska State Council on the Arts.
-  >     - **(B)** *Authentic alaska native article of handicraft*
-  >       - **(i)** *In general* The term authentic Alaska Native article of handicraft means any item that is—
-  >         - **(I)** composed, wholly or in a significant respect, of natural materials that were found, foraged, or gifted; and
-  >         - **(II)** produced, decorated, or fashioned in significant part—
-  >           - **(aa)** by an Alaska Native;
-  >           - **(bb)** in the exercise of traditional Alaska Native handicrafts; and
-  >           - **(cc)** without the use of any mass copying device.
-  >       - **(ii)** *Inclusions* The term authentic Alaska Native article of handicraft includes—
-  >         - **(I)** any weaving, carving, stitching, sewing, lacing, beading, drawing, or painting that meets the criteria described in clause (i); and
-  >         - **(II)** any item, including clothing, described in subclause (I) that combines the techniques described in that subclause.
-  >   - **(2)** *Clarification for certain authentic alaska native articles of handicraft* Subject to paragraph (3) and notwithstanding any other provision of this Act, nothing in this Act prohibits the possession, offering for sale, sale, offering to barter, barter, offering to purchase, purchase, delivery for shipment, shipment, causing to be shipped or delivered for transportation, transport, causing to be transported, carrying, causing to be carried, or receiving for shipment, transportation, or carriage of any authentic Alaska Native article of handicraft on the basis that the authentic Alaska Native article of handicraft contains a nonedible migratory bird part.
-  >   - **(3)** *Limitation* This subsection does not apply to an authentic Alaska Native article of handicraft containing a part of a migratory bird that was taken in a wasteful or illegal manner.
-
-- **(b)** *Administration* Not later than 180 days after the date of enactment of this Act—
-  - **(1)** the Secretary of State shall work with the Secretary of the Interior to enter into appropriate bilateral procedures, as necessary, with countries that are parties to the treaties described in paragraphs (1) through (4) of section 2 to clarify the treatment of authentic Alaska Native articles of handicraft (as defined in subsection (c)(1) of section 2 of the Migratory Bird Treaty Act (16 U.S.C. 703)) containing nonedible migratory bird parts from the species of migratory birds listed in those treaties in accordance with the amendments made by subsection (a); and
-  - **(2)** the Secretary of the Interior shall modify any regulations implementing the Migratory Bird Treaty Act (16 U.S.C. 703 et seq.), as appropriate, to implement the amendments made by this Act.
-- **(c)** *Technical amendment* Section 2(a) of the Migratory Bird Treaty Act (16 U.S.C. 703) is amended by inserting a comma after “March 4, 1972”.
+- **(a)** *In general* Not later than 180 days after the date of the enactment of this Act—
+  - **(1)** the Secretary of State shall work with the Secretary of the Interior to enter into appropriate bilateral procedures, as necessary, with the foreign country that is party to the treaty described in section 2 to clarify the treatment of authentic Alaska Native articles of handicraft to be offered for sale containing nonedible migratory bird parts from the species of migratory birds listed in the treaty; and
+  - **(2)** the Secretary of the Interior may modify any regulations implementing the Migratory Bird Treaty Act (16 U.S.C. 703 et seq.), as appropriate, consistent with the treaty described in section 2, in consultation with the foreign country that is party to the treaty, the Alaska Migratory Bird Co-Management Council, and the Pacific Flyway Council, and in coordination with the Law Enforcement Office of the United States Fish and Wildlife Service, to implement any necessary clarifications resulting from the procedures described in paragraph (1), including conditions for consignment and re-sale, certification of authenticity, and provisions pertaining to species of conservation concern.
+- **(b)** *Modification of regulations* If the Secretary of the Interior determines that any of the species used under this section show significant population declines or is determined to be a Bird of Conservation Concern pursuant to section 13 of the Fish and Wildlife Conservation Act of 1980 (16 U.S.C. 2912), the Secretary may modify regulations to remove the species from application under this section.
+- **(c)** *Outreach* The Secretary of the Interior shall work in collaboration with the Alaska Migratory Bird Co-Management Council and other appropriate stakeholders to develop outreach and communication resources and means to communicate rules pertaining to the sale of authentic Alaska Native articles of handicraft including parts of migratory birds.
+- **(d)** *Technical amendment* Section 2(a) of the Migratory Bird Treaty Act (16 U.S.C. 703) is amended by inserting a comma after “March 4, 1972”.
+- **(e)** *Definitions* In this Act:
+  - **(1)** *Alaska Native* The term Alaska Native means a member of any Indian Tribe that is based in the State of Alaska, as verified through issuance of—
+    - **(A)** a Tribal enrollment card;
+    - **(B)** a Certificate of Degree of Indian Blood (commonly known as a “CDIB”) by the Bureau of Indian Affairs; or
+    - **(C)** a permit under the Silver Hand program of the Alaska State Council on the Arts.
+  - **(2)** *Authentic Alaska Native article of handicraft* The term authentic Alaska Native article of handicraft—
+    - **(A)** means any item that is—
+      - **(i)** composed, wholly or in a significant respect, of natural materials that were found, foraged, or gifted; and
+      - **(ii)** produced, decorated, or fashioned in significant part—
+        - **(I)** by an Alaska Native;
+        - **(II)** in the exercise of traditional Alaska Native handicrafts; and
+        - **(III)** without the use of any mass copying device;
+    - **(B)** includes—
+      - **(i)** any weaving, carving, stitching, sewing, lacing, beading, drawing, or painting that meets the criteria described in clause (i); and
+      - **(ii)** any item, including clothing, described in subclause (I) that combines the techniques described in that subclause; and
+    - **(C)** does not include any item that contains a part of a migratory bird that was taken in a wasteful or illegal manner.
+  - **(3)** *Indian Tribe* The term “Indian Tribe” has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304).

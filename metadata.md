@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6021
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 6021
@@ -25,3 +25,10 @@ Archie Cavanaugh Migratory Bird Treaty Clarification Act
 - 2025-11-12 — Introduced in House
 - 2025-11-12 — Introduced in House
 - 2025-11-12 — Referred to the House Committee on Natural Resources.
+- 2026-01-28 — Referred to the Subcommittee on Water, Wildlife and Fisheries.
+- 2026-02-04 — Subcommittee Hearings Held
+- 2026-07-22 — Ordered to be Reported in the Nature of a Substitute (Amended) by Unanimous Consent.
+- 2026-07-22 — Subcommittee on Water, Wildlife and Fisheries Discharged
+- 2026-08-27 — Placed on the Union Calendar, Calendar No. 675.
+- 2026-08-27 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-774.
+- 2026-08-27 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-774.
