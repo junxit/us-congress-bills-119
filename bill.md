@@ -20,4 +20,4 @@ This Act may be cited as the “Fair Treatment of Religious Organizations Act of
   >   - **(1)** a religious belief or practice concerning marriage, sexuality, or gender identity shall not be treated as being inconsistent with law or public policy, and
   >   - **(2)** a belief shall not fail to be treated as a religious belief merely because such belief is not compelled by or central to a system of religion.
 
-- **(b)** *Effective date* The amendments made by this section shall apply to taxable years beginning after December 31, 2025.
+- **(b)** *Effective date* The amendment made by this section shall apply to taxable years beginning after December 31, 2025.

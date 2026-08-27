@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9722
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 9722
@@ -16,7 +16,7 @@ Fair Treatment of Religious Organizations Act of 2026
 
 - Rep. Moore, Blake D. [R-UT-1] (M001213)
 
-## Cosponsors (7)
+## Cosponsors (11)
 
 - Rep. Cline, Ben [R-VA-6] (C001118)
 - Rep. Tenney, Claudia [R-NY-24] (T000478)
@@ -25,6 +25,10 @@ Fair Treatment of Religious Organizations Act of 2026
 - Rep. Grothman, Glenn [R-WI-6] (G000576)
 - Rep. Kennedy, Mike [R-UT-3] (K000403)
 - Rep. Maloy, Celeste [R-UT-2] (M001228)
+- Rep. Mann, Tracey [R-KS-1] (M000871)
+- Rep. Steube, W. Gregory [R-FL-17] (S001214)
+- Rep. Gooden, Lance [R-TX-5] (G000589)
+- Rep. Calvert, Ken [R-CA-41] (C000059)
 
 ## Committees (1)
 
@@ -35,3 +39,8 @@ Fair Treatment of Religious Organizations Act of 2026
 - 2026-07-16 — Introduced in House
 - 2026-07-16 — Introduced in House
 - 2026-07-16 — Referred to the House Committee on Ways and Means.
+- 2026-07-22 — Committee Consideration and Mark-up Session Held
+- 2026-07-22 — Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 23 - 16.
+- 2026-08-27 — Placed on the Union Calendar, Calendar No. 680.
+- 2026-08-27 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-779.
+- 2026-08-27 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-779.
