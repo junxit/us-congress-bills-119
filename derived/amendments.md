@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4523
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 

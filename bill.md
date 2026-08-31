@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4523
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -17,7 +17,7 @@ The table of contents for this Act is as follows:
 
 The purpose of this Act is to make technical amendments to title 49, United States Code, as necessary to improve the Code.
 
-## § 3. TECHNICAL AMENDmeNTS to chapter 224 of title 49, united states code
+## § 3. TECHNICAL AMENDMENTS to chapter 224 of title 49, united states code
 
 - **(a)** *Definitions* Section 22401 of title 49, United States Code, is amended—
   - **(1)** in paragraph (1)—
