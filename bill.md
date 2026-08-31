@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6048
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “NDO Fairness Act”.
+This Act may be cited as the “NDO Fairness Act of 2025”.
 
 ## § 2. Preclusion of notice
 
@@ -20,10 +20,10 @@ This Act may be cited as the “NDO Fairness Act”.
   >   - **(1)** *Application*
   >     - **(A)** *In general* A governmental entity that is seeking a warrant, order, or subpoena under section 2703, when it is not required to notify the customer or subscriber, or to the extent that it may delay such notice pursuant to subsection (a), may apply to a court for an order, subject to paragraph (6), directing a provider of electronic communications service or remote computing service to which a warrant, order, or subpoena under section 2703 is directed not to notify any other person of the existence of the warrant, order, or subpoena.
   >     - **(B)** *Length* An order granted under subparagraph (A) shall be in effect—
-  >       - **(i)** for a period of not more than one year if the governmental entity notifies the court of a material change in circumstances, as set forth in paragraph (4), if the nature of the offense pertains to child pornography, as defined in section 2256, or sexual exploitation of children, as described in section 2251, or any Federal, including military, State, or tribal offense that is the substantial equivalent; or
+  >       - **(i)** for a period of not more than 1 year if the nature of the offense for which the governmental entity is seeking a warrant, order, or subpoena pertains to child pornography, as defined in section 2256, sexual exploitation of children under section 2251, or any Federal, State, Tribal, or military offense that is the substantial equivalent; or
   >       - **(ii)** for a period of not more than 90 days for all other investigations.
   >     - **(C)** *Other requirements*
-  >       - **(i)** *In general* A application for an order under subparagraph (A) shall state, to the best of the applicant’s knowledge, whether the named customer or subscriber whose information is sought by the warrant, order, or subpoena under section 2703—
+  >       - **(i)** *In general* An application for an order under subparagraph (A) shall state, to the best of the applicant’s knowledge, whether the named customer or subscriber whose information is sought by the warrant, order, or subpoena under section 2703—
   >         - **(I)** is aware of the warrant, order, subpoena, or underlying investigation; and
   >         - **(II)** is suspected of involvement in the commission of the crime under investigation.
   >       - **(ii)** *Orders* An order granted under this paragraph may not direct, or otherwise require, a provider of electronic communications service or remote computing service to provide notification of the expiration of order to the court or government entity that sought the order.
@@ -40,21 +40,21 @@ This Act may be cited as the “NDO Fairness Act”.
   >     - **(B)** *Nature of the offense*
   >       - **(i)** *In general* Subject to clause (ii), the court may consider the nature of the offense in issuing a determination under subparagraph (A).
   >       - **(ii)** *Presumption* If the court determines there is a reasonable belief the nature of the offense pertains to child pornography, as defined in section 2256, or sexual exploitation of children, as described in section 2251, or any Federal, including military, State, or tribal offense that is the substantial equivalent, the court may presume that one or more of the adverse results described in subclauses (I) through (V) of subparagraph (A)(i) are met and may issue an order consistent with this subsection without a written decision under subparagraph (A)(i).
-  >   - **(3)** *Extension* A governmental entity may request one or more extensions of an order granted under paragraph (2) of not more than 90 days for each such extension. The court may only grant such an extension if the court makes a written determination required under paragraph (2)(A).
-  >   - **(4)** *Notification of changed circumstances* If the need for the order issued under paragraph (2) changes materially, the governmental entity that requested the order shall notify the court within a reasonable period of time (not to exceed 14 days) of the changed circumstances, and the court shall reassess the order and modify or vacate as appropriate.
+  >   - **(3)** *Extension* A governmental entity may request one or more extensions of an order granted under paragraph (1) of not more than 90 days for each such extension. The court may only grant such an extension if the court makes a written determination required under paragraph (2)(A).
+  >   - **(4)** *Notification of changed circumstances* If the need for the order issued under paragraph (1) changes materially, the governmental entity that requested the order shall notify the court within a reasonable period of time (not to exceed 14 days) of the changed circumstances, and the court shall reassess the order and modify or vacate as appropriate.
   >   - **(5)** *Opportunity to be heard*
-  >     - **(A)** *In general* Upon an application, petition, or motion by a provider of electronic communications service or remote computing service or person acting on behalf of the provider to which an order under paragraph (2) (or an extension under paragraph (3)) has been issued, the court may modify or vacate the order if—
+  >     - **(A)** *In general* Upon an application, petition, or motion by a provider of electronic communications service or remote computing service or person acting on behalf of the provider to which an order under paragraph (1) (or an extension under paragraph (3)) has been issued, the court may modify or vacate the order if—
   >       - **(i)** the order does not meet requirements provided in paragraph (2) or (3); or
   >       - **(ii)** compliance with the order is unreasonable or otherwise unlawful.
-  >     - **(B)** *Stay of disclosure of named customer or subscriber communications or records* A provider's obligation to disclose the information requested in the warrant, order, or subpoena to which the order in paragraph (1) applies is stayed upon the filing of the application, petition, or motion under this paragraph pending resolution of the application, petition, or motion, unless the court with jurisdiction over the challenge determines based on a showing by the governmental entity that the stay should be lifted in whole or in part prior to resolution.
+  >     - **(B)** *Stay of disclosure of named customer or subscriber communications or records* A provider's obligation to disclose the information requested in the warrant, order, or subpoena to which the order in paragraph (1) applies is stayed for a period of 72 hours upon the filing of the application, petition, or motion under this paragraph, unless the court with jurisdiction over the challenge determines, based on a showing by the provider or the governmental entity, that the stay should be extended or lifted in whole or in part prior to resolution of the application, petition, or motion.
   >     - **(C)** *Finality of order* The decision of the court resolving an application, petition, or motion under this paragraph shall constitute a final, appealable order.
-  >   - **(6)** *Exception* A provider of electronic communications service or remote computing service to which an order under paragraph (2) applies, or an officer, employee, or agent thereof, may disclose information otherwise subject to any applicable nondisclosure requirement to—
+  >   - **(6)** *Exception* A provider of electronic communications service or remote computing service to which an order under paragraph (1) applies, or an officer, employee, or agent thereof, may disclose information otherwise subject to any applicable nondisclosure requirement to—
   >     - **(A)** those persons to whom disclosure is necessary in order to comply with the warrant, order, or subpoena;
-  >     - **(B)** an attorney in order to obtain legal advice or assistance regarding the order issued under paragraph (2) or the warrant, order, or subpoena to which the order applies; and
+  >     - **(B)** an attorney in order to obtain legal advice or assistance regarding the order issued under paragraph (1) or the warrant, order, or subpoena to which the order applies; and
   >     - **(C)** any person the court determines can be notified of the warrant, order, or subpoena.
   >   - **(7)** *Scope of nondisclosure* Any person to whom disclosure is made under paragraph (6) (other than the governmental entity) shall be subject to the nondisclosure requirements applicable to the person to whom the order is issued. Any recipient authorized under this subsection to disclose to a person information otherwise subject to a nondisclosure requirement shall notify the person of the applicable nondisclosure requirement.
-  >   - **(8)** *Supporting documentation* Upon serving a provider of electronic communications service or remote computing service with an order granted under paragraph (2), or an extension of such order granted under paragraph (3), the governmental entity shall include a copy of the warrant, order, or subpoena to which the nondisclosure order applies.
-  >   - **(9)** *Expiration of order precluding notice* Upon expiration of an order issued under paragraph (2) or, if an extension has been granted under paragraph (3), expiration of the extension, the governmental entity shall deliver to the named customer or subscriber, by at least 2 methods, which shall be personal service, registered or first-class mail, electronic mail, or other means approved by the court as reasonably calculated to reach the named customer or subscriber within 5 business days of the expiration of the order—
+  >   - **(8)** *Supporting documentation* Upon serving a provider of electronic communications service or remote computing service with an order granted under paragraph (1), or an extension of such order granted under paragraph (3), the governmental entity shall include a copy of the warrant, order, or subpoena to which the nondisclosure order applies.
+  >   - **(9)** *Expiration of order precluding notice* Upon expiration of an order issued under paragraph (1) or, if an extension has been granted under paragraph (3), expiration of the extension, the governmental entity shall deliver to the named customer or subscriber, by at least 2 methods, which shall be personal service, registered or first-class mail, electronic mail, or other means approved by the court as reasonably calculated to reach the named customer or subscriber within 5 business days of the expiration of the order—
   >     - **(A)** a copy of the warrant, order, or subpoena; and
   >     - **(B)** notice that informs the named customer or subscriber—
   >       - **(i)** of the nature of the law enforcement inquiry with reasonable specificity;
@@ -62,11 +62,11 @@ This Act may be cited as the “NDO Fairness Act”.
   >       - **(iii)** that notification of such customer or subscriber was precluded by court order;
   >       - **(iv)** of the identity of the court authorizing the preclusion of notice;
   >       - **(v)** of the provision of this chapter under which the preclusion of notice was authorized; and
-  >       - **(vi)** that the government will, upon request by the customer or subscriber made within 180 days after receiving notification under this paragraph, provide the named customer or subscriber with a copy of the information that was disclosed in response to the warrant, order, or subpoena, or in the event that no information was disclosed, a written certification that no information was disclosed.
-  >   - **(10)** *Copy of information disclosed* Upon expiration of the order precluding notice issued under paragraph (2) or (3) of this subsection, and at the request of the named customer or subscriber made within 180 days of receiving notification under paragraph (9), the governmental entity shall promptly provide the named customer or subscriber—
-  >     - **(A)** with a copy of the information that was disclosed in response to the warrant, order, or subpoena except—
+  >       - **(vi)** that the government will, upon request by the customer or subscriber made within 180 days after receiving notification under this paragraph, provide the named customer or subscriber with a copy of the information that was disclosed in response to the warrant, order or subpoena, or in the event that no information was disclosed, a written certification that no information was disclosed.
+  >   - **(10)** *Copy of information disclosed* Upon expiration of the order precluding notice issued under paragraph (1) or (3) of this subsection, and at the request of the named customer or subscriber made within 180 days of receiving notification under paragraph (9), the governmental entity shall promptly provide the named customer or subscriber—
+  >     - **(A)** with a copy of the information that was disclosed in response to the warrant, order or subpoena except—
   >       - **(i)** illicit records;
-  >       - **(ii)** records or materials pertaining to child pornography, as defined in section 2256, or sexual exploitation of children, as described in section 2251, or any Federal, including military, State, or tribal offense that is the substantial equivalent; or
+  >       - **(ii)** records or materials pertaining to child pornography, as defined in section 2256, or sexual exploitation of children, as described in section 2251, or any Federal, including military, State, tribal, or offense that is the substantial equivalent; or
   >       - **(iii)** other illegal material; or
   >     - **(B)** in the event that no information was disclosed, a written certification that no information was disclosed.
   >   - **(11)** *Redactions* Any information disclosed pursuant to paragraphs (9) and (10) may be redacted only if a court finds such redactions necessary to preserve the secrecy or integrity of an investigation.
