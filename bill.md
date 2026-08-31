@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4465
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -675,7 +675,7 @@ The table of contents for this Act is as follows:
     - **(D)** Section 501 of division N of the Consolidated Appropriations Act, 2021 (15 U.S.C. 9058a) is amended—
       - **(i)** in subsection (b)(1)(A)(ii), by striking “subsection (a) of this Act” and inserting “subsection (a) of this section”;
       - **(ii)** in subsection (i)(4), by striking “the Inspector General Act of 1978 (5 U.S.C. App.)” and inserting “chapter 4 of title 5, United States Code.”; and
-      - **(ii)** in subsection (k)(3)(A)(i), by striking “has” and inserting “has—”.
+      - **(iii)** in subsection (k)(3)(A)(i), by striking “has” and inserting “has—”.
   - **(6)** *Title 22*
     - **(A)** Section 5(p)(4) of the Peace Corps Act (22 U.S.C. 2504(p)(4)) is amended by striking “the Inspector General Act of 1978 (5 U.S.C. App.),” and inserting “chapter 4 of title 5, United States Code,”.
     - **(B)** Section 309A(h)(3) of the United States International Broadcasting Act of 1994 (22 U.S.C. 6208a(h)(3)) is amended by striking “the Inspector General Act of 1978” and inserting “chapter 4 of title 5, United States Code,”.
@@ -719,7 +719,7 @@ The table of contents for this Act is as follows:
     - **(E)** Section 3(g)(2) of the K–12 Cybersecurity Act of 2021 (Public Law 117–47, 6 U.S.C. 652 note) is amended—
       - **(i)** in the paragraph heading, by striking “faca” and inserting “chapter 10 of title 5, united states code”; and
       - **(ii)** in the paragraph text, “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
-    - **(F)** Section 101(c)(2) of the Strenghtening and Enhancing Cyber-capabilities by Utilizing Risk Exposure Technology Act (Public Law 115–390, 6 U.S.C. 663 note) is amended—
+    - **(F)** Section 101(c)(2) of the Strengthening and Enhancing Cyber-capabilities by Utilizing Risk Exposure Technology Act (Public Law 115–390, 6 U.S.C. 663 note) is amended—
       - **(i)** in the paragraph heading, by striking “faca” and inserting “chapter 10 of title 5, united states code”; and
       - **(ii)** in the paragraph text, by striking “The Federal Advisory Committee Act (5 U.S.C. App.)” and inserting “Chapter 10 of title 5, United States Code,”.
     - **(G)** Section 2220D(a)(4)(B) of the Homeland Security Act of 2002 (6 U.S.C. 665k(a)(4)(B)) is amended—
