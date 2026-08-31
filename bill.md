@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 4499
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -47,7 +47,7 @@ Section 2002(c)(1) of the Homeland Security Act of 2002 (6 U.S.C. 603(c)(1)) is 
 
 ## § 6. title 18, united states code
 
-- **(1)** Section 798(d)(4) of title 18, United States Code, is amended by striking “(42 U.S.C. 10601)” and inserting “(34 U.S.C. 20101)”.
+- **(1)** Section 798(d)(4) of title 18, United States Code, is amended by striking “(42 U.S.C. 10601)” and inserting“(34 U.S.C. 20101)”.
 - **(2)** Section 2250(b)(1) of title 18, United States Code, is amended by striking “(42 U.S.C. 16901 et seq.)” and inserting “(34 U.S.C. 20901 et seq.)”.
 - **(3)** Section 2258 of title 18, United States Code, is amended by inserting “(34 U.S.C. 20341(b))” after “subsection (b) of section 226 of the Victims of Child Abuse Act of 1990”.
 - **(4)** Section 3014 of title 18, United States Code, is amended as follows:
@@ -73,7 +73,7 @@ Section 2002(c)(1) of the Homeland Security Act of 2002 (6 U.S.C. 603(c)(1)) is 
 
 ## § 7. title 20, united states code
 
-- **(1)** Section 485(f) of the Jeanne Clery Disclosure of Campus Security Policy and Campus Crime Statistics Act (20 U.S.C. 1092(f)) is amended as follows:
+- **(1)** The Jeanne Clery Campus Safety Act (20 U.S.C. 1092(f)) is amended as follows:
   - **(A)** Paragraph (6)(A)(i) is amended by striking “(42 U.S.C. 13925(a))” and inserting “(34 U.S.C. 12291(a))”.
   - **(B)** Paragraph (7) is amended by—
     - **(i)** inserting “(34 U.S.C. 41305, 41305 note)” after “Hate Crime Statistics Act”; and
@@ -378,7 +378,7 @@ Section 590(f)(2) of title 40, United States Code, is amended by striking “(42
   - **(A)** Paragraph (5)(C) is amended by striking “(42 U.S.C. 5701 et seq.)” and inserting “(34 U.S.C. 11201 et seq.)”.
   - **(B)** Paragraph (12)(A)(v) is amended by striking “(42 U.S.C. 5701 et seq.)” and inserting “(34 U.S.C. 11201 et seq.)”.
 - **(5)** Section 161A(c) of the Atomic Energy Act of 1954 (42 U.S.C. 2201a(c)) is amended by striking “(Public Law 103–159; 18 U.S.C. 922 note)” and inserting “(Public Law 103–159; 34 U.S.C. 40901(b))”.
-- **(6)** Section 203(b)(18) of the Older Americans Act of 1965 (42 U.S.C. 3013(b)(18)) is amended by striking “42 U.S.C. 3750–3766b))” and inserting “(34 U.SC. 10151 et seq.)”
+- **(6)** Section 203(b)(18) of the Older Americans Act of 1965 (42 U.S.C. 3013(b)(18)) is amended by striking “42 U.S.C. 3750–3766b))” and inserting “(34 U.S.C. 10151 et seq.)”
 - **(7)** Section 106(b)(2)(B)(xvi)(VI) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5106a(b)(2)(B)(xvi)(VI)) is amended by striking “(42 U.S.C. 16913(a))” and inserting “(34 U.S.C. 20913(a))”.
 - **(8)** Section 107(f) of the Child Abuse Prevention and Treatment Act (42 U.S.C. 5106c(f)) is amended by striking “(42 U.S.C. 10603a)” and inserting “(34 U.S.C. 20104)”.
 - **(9)** Section 327(h)(4) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5165f(h)(4)) is amended by—

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4499
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -134,7 +134,7 @@ to guess them.
 
 ### 42 U.S.C. § 10601
 
-> Section 798(d)(4) of title 18, United States Code, is amended by striking “(42 U.S.C. 10601)” and inserting “(34 U.S.C. 20101)”.
+> Section 798(d)(4) of title 18, United States Code, is amended by striking “(42 U.S.C. 10601)” and inserting“(34 U.S.C. 20101)”.
 
 | | |
 |---|---|
@@ -1349,12 +1349,12 @@ to guess them.
 
 ### 42 U.S.C. § 3013
 
-> Section 203(b)(18) of the Older Americans Act of 1965 (42 U.S.C. 3013(b)(18)) is amended by striking “42 U.S.C. 3750–3766b))” and inserting “(34 U.SC. 10151 et seq.)”
+> Section 203(b)(18) of the Older Americans Act of 1965 (42 U.S.C. 3013(b)(18)) is amended by striking “42 U.S.C. 3750–3766b))” and inserting “(34 U.S.C. 10151 et seq.)”
 
 | | |
 |---|---|
 | Removed | `42 U.S.C. 3750–3766b))` |
-| Inserted | `(34 U.SC. 10151 et seq.)` |
+| Inserted | `(34 U.S.C. 10151 et seq.)` |
 
 ### 42 U.S.C. § 5106a
 
