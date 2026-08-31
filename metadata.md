@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1869
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 1869
@@ -77,3 +77,9 @@ Protecting American Industry and Labor from International Trade Crimes Act of 20
 - 2026-08-27 — Placed on the Union Calendar, Calendar No. 683.
 - 2026-08-27 — Reported (Amended) by the Committee on Judiciary. H. Rept. 119-782.
 - 2026-08-27 — Reported (Amended) by the Committee on Judiciary. H. Rept. 119-782.
+- 2026-08-31 — Considered under suspension of the rules. (consideration: CR H5273-5275)
+- 2026-08-31 — DEBATE - The House proceeded with forty minutes of debate on H.R. 1869.
+- 2026-08-31 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-08-31 — Mr. Schmidt moved to suspend the rules and pass the bill, as amended.
+- 2026-08-31 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5273-5274)
+- 2026-08-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
