@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9330
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,12 +26,12 @@ to guess them.
 
 ### 15 U.S.C. § 1602
 
-> in subsection (f), by striking “defer its payment” and inserting “defer its payment, but does not include earned wage access services as defined in the Earned Wage Access Consumer Protection Act.”; and
+> in subsection (f), by striking “defer its payment” and inserting “defer its payment, but does not include earned wage access services as defined in the Earned Wage Access Consumer Protection Act”; and
 
 | | |
 |---|---|
 | Removed | `defer its payment` |
-| Inserted | `defer its payment, but does not include earned wage access services as defined in the Earned Wage Access Consumer Protection Act.` |
+| Inserted | `defer its payment, but does not include earned wage access services as defined in the Earned Wage Access Consumer Protection Act` |
 
 ## Stated, not applied
 

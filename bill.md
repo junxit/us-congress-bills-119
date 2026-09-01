@@ -16,12 +16,18 @@ This Act may be cited as the “Earned Wage Access Consumer Protection Act”.
 ## § 2. Earned wage access services
 
 - **(a)** *Provision of earned wage access services*
-  - **(1)** *No-cost option required* If an earned wage access provider offers a consumer the option to receive earned wages in exchange for a fee, such earned wage access provider shall also offer such consumer the option to obtain the same amount of earned wages at no cost to the consumer.
+  - **(1)** *No-cost option required*
+    - **(A)** *In general* If an earned wage access provider offers a consumer the option to receive earned wages in exchange for a fee, such earned wage access provider shall also offer such consumer the option to obtain the same amount of earned wages at no cost to the consumer.
+    - **(B)** *Transfer time period* If a consumer elects the no-cost option described in subparagraph (A), the earned wage access provider shall initiate the transfer of earned wages to the consumer within one business day of such election.
+    - **(C)** *No effect on earned wages* A consumer’s election of the no-cost option described in subparagraph (A) may not impact—
+      - **(i)** the amount of earned wages disbursed to such consumer;
+      - **(ii)** the frequency with which such earned wages are disbursed to such consumer; or
+      - **(iii)** the consumer’s eligibility to use the provider’s earned wage access services.
   - **(2)** *Required disclosures*
     - **(A)** *Disclosures preceding agreement* Each earned wage access provider shall disclose the following before entering into an agreement with a consumer:
       - **(i)** Any limits on access to the earned wages a consumer may request from such provider, including—
         - **(I)** any limits on the amount of earned wages a consumer may request from the provider each day, pay period, or other time period;
-        - **(II)** any limits on the frequency or number of disbursements of earned wages a consumer may request from the provider each day, pay period, or other time period;
+        - **(II)** any limits on the frequency or number of disbursements of earned wages a consumer may request from the provider each day, pay period, or other time period; and
         - **(III)** any limits on the amount of earned wages a consumer may request from the provider that are based on a determination by the provider of the ratio between the amount of earned wages requested by the consumer and the total wages earned by the consumer, and how such determination is made.
       - **(ii)** Any fees that such provider may apply, and the amount of such fees.
       - **(iii)** A clear and conspicuous description of how the consumer may obtain earned wages without paying a fee or tip.
@@ -44,46 +50,55 @@ This Act may be cited as the “Earned Wage Access Consumer Protection Act”.
         - **(III)** will not impact—
           - **(aa)** the amount of such earned wages;
           - **(bb)** the frequency with which such earned wages are disbursed to such consumer; or
-          - **(cc)** the consumer’s eligibility to use the provider’s earned wage access services; and
-      - **(ii)** may not state that such tip will benefit any specific individual or group of individuals other than the provider itself, unless the statement is true.
+          - **(cc)** the consumer’s eligibility to use the provider’s earned wage access services;
+      - **(ii)** may not state that such tip will benefit—
+        - **(I)** any specific individual; or
+        - **(II)** any group of individuals other than the provider itself; and
+      - **(iii)** may describe, in general terms, the benefits or services offered by such provider to consumers.
     - **(E)** *Changes to terms* Each earned wage access provider shall notify each consumer with which such earned wage access provider has entered an agreement to offer earned wage access services of any material changes to the terms and conditions of service used by such provider not less than—
       - **(i)** 30 days before such material changes take effect; or
       - **(ii)** a shorter amount of time before such material changes take effect, if the consumer has consented to such shorter amount of time.
-  - **(3)** *Cancellation of services* If an earned wage access provider makes earned wage access services available to a consumer on a recurring basis, such earned wage access provider—
+  - **(3)** *Consumer attestation before receiving earned wages* Each earned wage access provider shall require a consumer, prior to the first disbursement of earned wages during each applicable pay period, to attest that the consumer has not requested disbursement of the same earned wages from another earned wage access provider during that pay period.
+  - **(4)** *Cancellation of services* If an earned wage access provider makes earned wage access services available to a consumer on a recurring basis, such earned wage access provider—
     - **(A)** shall allow such consumer to discontinue such services if such consumer provides notice to such earned wage access provider that such consumer desires to discontinue such services; and
     - **(B)** may not impose any financial penalty or cancellation charge on such consumer as a result of any discontinuation of services.
-  - **(4)** *Dispute process required* Each earned wage access provider shall develop and implement policies and procedures to respond to questions and complaints from consumers relating to—
+  - **(5)** *Dispute process required* Each earned wage access provider shall develop and implement policies and procedures to respond to questions and complaints from consumers relating to—
     - **(A)** unauthorized disbursement of earned wages;
     - **(B)** disbursement of earned wages in an incorrect amount;
     - **(C)** disbursed earned wages that were not received;
     - **(D)** payment of disbursed earned wages that was not received or was made in an incorrect amount; and
     - **(E)** fees or tips that were not authorized or were made in an incorrect amount.
-  - **(5)** *Compelling payment for disbursed earned wages*
+  - **(6)** *Compelling payment for disbursed earned wages*
     - **(A)** *In general* An earned wage access provider may not seek payment for earned wages disbursed by such provider to a consumer, including such disbursed earned wages, or any related fees or tips, by—
       - **(i)** filing a civil suit against the consumer;
       - **(ii)** initiating arbitration proceedings against the consumer;
       - **(iii)** using the services of a debt collector (as such term is defined in section 803 of the Fair Debt Collection Practices Act) to collect amounts from the consumer; or
       - **(iv)** selling expected payment to a third-party debt buyer for purposes of debt collection from the consumer.
     - **(B)** *Exception* Subparagraph (A) shall not apply if an earned wage access provider is seeking payment for earned wages disbursed to a consumer based on information provided by the consumer that the consumer knew was false.
-  - **(6)** *Reimbursement required* If an earned wage access provider seeks payment of disbursed earned wages, a fee, or a tip directly from a deposit account of a consumer, on a date earlier than, or in an amount different from, what was disclosed at the time of authorization and such attempt triggers an overdraft fee or non-sufficient funds fee from the consumer’s financial institution (as defined in section 509 of the Gramm-Leach-Bliley Act), the earned wage access provider shall reimburse such consumer for such fee.
-  - **(7)** *Additional limitations* An earned wage access provider may not—
+  - **(7)** *Reimbursement required* If an earned wage access provider seeks payment of disbursed earned wages, a fee, or a tip directly from a deposit account of a consumer, on a date earlier than, or in an amount different from, what was disclosed at the time of authorization and such attempt triggers an overdraft fee or non-sufficient funds fee from the consumer’s financial institution (as defined in section 509 of the Gramm-Leach-Bliley Act (15 U.S.C. 6809)), the earned wage access provider shall reimburse such consumer for such fee.
+  - **(8)** *Additional limitations* An earned wage access provider may not—
     - **(A)** share any fees or tips that were received from or charged to a consumer for earned wage access services with the employer of such consumer;
     - **(B)** accept payment of disbursed earned wages, fees, or tips from a consumer through a credit card of the consumer, unless such credit card is provided to the consumer as a part of the earned wage access service;
     - **(C)** require a consumer to pay a late fee, deferral fee, interest, or any other penalty or charge as a result of a failure by the consumer to pay disbursed earned wages, fees, or tips requested or applied by such provider; or
     - **(D)** furnish information to a consumer reporting agency (as defined in section 603 of the Fair Credit Reporting Act (15 U.S.C. 1681a)) about a consumer’s earned wage access services activities.
-  - **(8)** *Disclosure to employer* An earned wage access provider may disclose to an employer with which such provider has a contract relating to earned wage access services the date and amount of a consumer’s earned wage access transactions associated with the earned wage access services. Subject to applicable privacy laws, a provider may disclose information necessary to perform under a contract with an employer relating to additional products or services.
-  - **(9)** *Non-discrimination*
+  - **(9)** *Disclosure to employer* An earned wage access provider may disclose to an employer with which such provider has a contract relating to earned wage access services the date and amount of a consumer’s earned wage access transactions associated with the earned wage access services. Subject to applicable privacy laws, a provider may disclose information necessary to perform under a contract with an employer relating to additional products or services.
+  - **(10)** *Non-discrimination*
     - **(A)** *In general* It shall be unlawful for any earned wage access provider to discriminate against any consumer on the basis of race, color, religion, national origin, sex (including on the basis of pregnancy, childbirth, or related medical conditions), marital status, or age when offering earned wage access services.
     - **(B)** *Definitions* In this paragraph—
-      - **(i)** the terms race, color, religion, national origin, sex, marital status, and age have the same meaning, respectively, as used in section 701 of the Equal Credit Opportunity Act (15 U.S.C. 1691) and rules issued thereunder; and
-      - **(ii)** the terms pregnancy, childbirth, and related medical conditions have the same meaning, respectively, as used in section 701(k) of the Civil Rights Act of 1964 (42 U.S.C. 2000e(k).
-  - **(10)** *Consumer data protections* Each earned wage access provider shall be deemed a “financial institution” for purposes of subtitle A of title V of the Gramm-Leach-Bliley Act.
+      - **(i)** the terms race, color, religion, national origin, sex, marital status, and age have the same meanings, respectively, as used in section 701 of the Equal Credit Opportunity Act (15 U.S.C. 1691) and rules issued thereunder; and
+      - **(ii)** the terms pregnancy, childbirth, and related medical conditions have the same meanings, respectively, as used in section 701(k) of the Civil Rights Act of 1964 (42 U.S.C. 2000e(k)).
+  - **(11)** *Consumer data protections* Each earned wage access provider shall be deemed a “financial institution” for purposes of subtitle A of title V of the Gramm-Leach-Bliley Act (15 U.S.C. 6801 et seq.).
+  - **(12)** *Default tip amount*
+    - **(A)** *In general* An earned wage access provider may not set any default tip amount greater than $0 in connection with earned wage access services.
+    - **(B)** *Selection of $0 tip* If a consumer selects a tip amount of $0, the earned wage access provider may not require the consumer to confirm, reconfirm, or otherwise take any additional action with respect to such tip selection as a condition of completing the transaction.
+    - **(C)** *Rule of construction* Nothing in this paragraph may be construed to prohibit the provider from requiring the consumer to confirm the final transaction on a completion screen.
+  - **(13)** *Earned Wage Access Provider Attestation* Before each requested disbursement of earned wages for a consumer, an earned wage access provider shall verify and attest to the consumer that the amount to be disbursed, together with any prior disbursements during the applicable pay period, does not exceed the amount of earned wages actually earned and available to the consumer for that applicable pay period.
 - **(b)** *Relation to State laws*
   - **(1)** *Preservation of State law* Except as provided in paragraph (2), nothing in this Act may be construed as annulling, altering, affecting, or exempting any person from complying with any State law, except to the extent that a State law is inconsistent with the provisions of this Act, and then only to the extent of the inconsistency.
   - **(2)** *Preemption* No State or political subdivision thereof may impose, maintain, or enforce any laws, constitutions, statutes, regulations, orders, or interpretations with respect to earned wage access services that comply with this Act that—
     - **(A)** treat such services as credit, a loan, debt, or a substantially similar product or service;
     - **(B)** treat a provider of such services as a creditor, lender, or provider of a substantially similar product or service; or
-    - **(C)** prohibits or substantially restricts the offering or provision of earned wage access services that comply with this Act.
+    - **(C)** prevent or significantly interfere with the offering or provision of earned wage access services that comply with this Act.
   - **(3)** *Savings clause* Nothing in this Act may be construed to preempt, displace, or limit the authority of a State or political subdivision thereof to enforce laws of general applicability, including laws relating to fraud, deceit, unfair or deceptive acts or practices, contracts, property, or taxation.
 - **(c)** *Rulemaking* Not later than 180 days after the date of enactment of this Act, the Bureau shall issue such rules as are necessary to carry out this Act.
 - **(d)** *Rule of construction* Earned wage access services provided in compliance with this Act, and any fees or tips received in connection with such services, may not be considered credit, a loan, debt, an obligation, liability, or consumer credit, and a person providing such services shall not be considered a creditor or lender, and such fees or tips shall not be considered interest or a finance charge, under Federal law.
@@ -136,5 +151,5 @@ This Act may be cited as the “Earned Wage Access Consumer Protection Act”.
       > - **(x)** providing earned wage access services, as defined in section 2 of the Earned Wage Access Consumer Protection Act;
 
 - **(b)** *Truth in Lending Act* Section 103 of the Truth in Lending Act (15 U.S.C. 1602) is amended—
-  - **(1)** in subsection (f), by striking “defer its payment” and inserting “defer its payment, but does not include earned wage access services as defined in the Earned Wage Access Consumer Protection Act.”; and
+  - **(1)** in subsection (f), by striking “defer its payment” and inserting “defer its payment, but does not include earned wage access services as defined in the Earned Wage Access Consumer Protection Act”; and
   - **(2)** in subsection (g), by adding at the end the following: “The term creditor does not include earned wage access providers as such term is defined in the Earned Wage Access Consumer Protection Act.”.

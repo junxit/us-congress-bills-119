@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9330
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 9330
@@ -25,3 +25,8 @@ Earned Wage Access Consumer Protection Act
 - 2026-06-18 — Introduced in House
 - 2026-06-18 — Introduced in House
 - 2026-06-18 — Referred to the House Committee on Financial Services.
+- 2026-06-30 — Committee Consideration and Mark-up Session Held
+- 2026-06-30 — Ordered to be Reported (Amended) by the Yeas and Nays: 29 - 22.
+- 2026-09-01 — Placed on the Union Calendar, Calendar No. 690.
+- 2026-09-01 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-790.
+- 2026-09-01 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-790.
