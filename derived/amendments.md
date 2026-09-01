@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1640
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `12 U.S.C. § 1701x` | add-at-end | Section 106(g) of the Housing and Urban Development Act of 1968 (12 U.S.C. 1701x(g)) is amended by adding at the end the following new paragraph: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 1701x` | add-at-end | Section 106(g) of the Housing and Urban Development Act of 1968 (12 U.S.C. 1701x(g)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
