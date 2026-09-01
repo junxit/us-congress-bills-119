@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5402
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5402
@@ -16,9 +16,10 @@ Credit Access and Inclusion Act of 2026
 
 - Rep. Kim, Young [R-CA-40] (K000397)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Rep. Bynum, Janelle S. [D-OR-5] (B001326)
+- Rep. Vindman, Eugene Simon [D-VA-7] (V000138)
 
 ## Committees (1)
 
@@ -29,3 +30,8 @@ Credit Access and Inclusion Act of 2026
 - 2025-09-16 — Introduced in House
 - 2025-09-16 — Introduced in House
 - 2025-09-16 — Referred to the House Committee on Financial Services.
+- 2026-06-30 — Committee Consideration and Mark-up Session Held
+- 2026-06-30 — Ordered to be Reported (Amended) by the Yeas and Nays: 28 - 23.
+- 2026-09-01 — Placed on the Union Calendar, Calendar No. 688.
+- 2026-09-01 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-788.
+- 2026-09-01 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-788.

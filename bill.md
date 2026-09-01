@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5402
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Credit Access and Inclusion Act of 2025”.
+This Act may be cited as the “Credit Access and Inclusion Act of 2026”.
 
 ## § 2. Full-file reporting permitted
 
@@ -27,7 +27,6 @@ This Act may be cited as the “Credit Access and Inclusion Act of 2025”.
   >   - **(4)** *Payment plan* An energy utility firm may not report payment information to a consumer reporting agency with respect to an outstanding balance of a consumer as late if—
   >     - **(A)** the energy utility firm and the consumer have entered into a payment plan (including a deferred payment agreement, an arrearage management program, or a debt forgiveness program) with respect to such outstanding balance; and
   >     - **(B)** the consumer is meeting the obligations of the payment plan, as determined by the energy utility firm.
-  >   - **(5)** *Opt-out* A consumer may opt-out of the furnishing of the information described in paragraph (2) by submitting a written request to the furnisher of such information.
 
 - **(b)** *Limitation on liability* Section 623(c) of the Fair Credit Reporting Act (15 U.S.C. 1681s–2(c)) is amended—
   - **(1)** in paragraph (2), by striking “or” at the end;
