@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9331
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-10 amendatory instructions. 3 executed, 7 stated and not applied.
+10 amendatory instructions. 4 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -24,18 +24,18 @@ to guess them.
 
 ## Executed
 
-### 12 U.S.C. § 4001
+### 12 U.S.C. § 4002
 
-> in section 604(a)(1)(D), by striking “subparagraph (A), (B), or (C)” and inserting “subparagraph (A) or (B)”.
+> by striking “shall” and inserting “may”; and
 
 | | |
 |---|---|
-| Removed | `subparagraph (A), (B), or (C)` |
-| Inserted | `subparagraph (A) or (B)` |
+| Removed | `shall` |
+| Inserted | `may` |
 
 ### 12 U.S.C. § 4003
 
-> in paragraph (1), in the heading of the paragraph, by striking “In general” and inserting “Collectability”;
+> in the heading of the paragraph, by striking “In general” and inserting “Collectability”; and
 
 | | |
 |---|---|
@@ -51,6 +51,15 @@ to guess them.
 | Removed | `paragraph (1)` |
 | Inserted | `paragraph (1) or (2)` |
 
+### 12 U.S.C. § 4003
+
+> Section 604(f)(2)(C) of the Expedited Funds Availability Act (12 U.S.C. 4003(f)(2)(C)) is amended by striking “subsection (d) or (e)” and inserting “subsection (c)(2), (d), (e) or (h)”.
+
+| | |
+|---|---|
+| Removed | `subsection (d) or (e)` |
+| Inserted | `subsection (c)(2), (d), (e) or (h)` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -60,10 +69,9 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `12 U.S.C. § 4002` | strike | by striking subparagraphs (A) and (F); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 4002` | redesignate | by redesignating subparagraphs (B) through (E) as subparagraphs (A) through (D), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 4002` | redesignate | in subparagraph (C), as so redesignated, by adding “and” at the end; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `12 U.S.C. § 4002` | strike | in subsection (d), by striking paragraph (1) and the heading to paragraph (2); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 4002` | strike | by striking “to as short a time as possible and equal”; and | the bill quotes the text struck but describes what replaces it |
+| `12 U.S.C. § 4002` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `12 U.S.C. § 4003` | insert | by inserting after “subsections (a)(2), (b), (c), and (e) of section 603” the following: “and paragraphs (1) and (3) of subsection (a) of this section”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 4003` | redesignate | by redesignating paragraphs (2) through (4) as paragraphs (3) through (5), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 4003` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `12 U.S.C. § 4003` | add-at-end | Section 604 of the Expedited Funds Availability Act (12 U.S.C. 4003) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
