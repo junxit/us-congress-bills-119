@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9497
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 9497
@@ -31,3 +31,10 @@ Water Resources Development Act of 2026
 - 2026-06-29 — Introduced in House
 - 2026-06-29 — Introduced in House
 - 2026-06-29 — Referred to the House Committee on Transportation and Infrastructure.
+- 2026-06-30 — Referred to the Subcommittee on Water Resources and Environment.
+- 2026-07-14 — Committee Consideration and Mark-up Session Held
+- 2026-07-14 — Ordered to be Reported (Amended) by the Yeas and Nays: 66 - 0.
+- 2026-07-14 — Subcommittee on Water Resources and Environment Discharged
+- 2026-09-03 — Placed on the Union Calendar, Calendar No. 695.
+- 2026-09-03 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 119-795.
+- 2026-09-03 — Reported (Amended) by the Committee on Transportation and Infrastructure. H. Rept. 119-795.
