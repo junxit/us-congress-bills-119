@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9329
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-70 amendatory instructions. 24 executed, 46 stated and not applied.
+89 amendatory instructions. 32 executed, 57 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -35,39 +35,39 @@ to guess them.
 
 ### 15 U.S.C. § 7211
 
-> by striking “the Board” each place it appears and inserting “the Office”;
+> by striking “the Board” each place it appears and inserting “the Commission”;
 
 | | |
 |---|---|
 | Removed | `the Board` |
-| Inserted | `the Office` |
+| Inserted | `the Commission` |
 
 ### 15 U.S.C. § 7211
 
-> by striking “The Board” each place it appears and inserting “The Office”; and
+> by striking “The Board” each place it appears and inserting “The Commission”; and
 
 | | |
 |---|---|
 | Removed | `The Board` |
-| Inserted | `The Office` |
+| Inserted | `The Commission` |
 
 ### 15 U.S.C. § 7211
 
-> by striking “the Board’s” each place it appears and inserting “the Office’s”.
+> by striking “the Board’s” each place it appears and inserting “the Commission’s”.
 
 | | |
 |---|---|
 | Removed | `the Board’s` |
-| Inserted | `the Office’s` |
+| Inserted | `the Commission’s` |
 
 ### 15 U.S.C. § 7211
 
-> in the heading, by striking “the Board” and inserting “the Office”;
+> in the heading, by striking “the Board” and inserting “the Commission”;
 
 | | |
 |---|---|
 | Removed | `the Board` |
-| Inserted | `the Office` |
+| Inserted | `the Commission` |
 
 ### 15 U.S.C. § 7211
 
@@ -116,12 +116,12 @@ to guess them.
 
 ### 15 U.S.C. § 7211
 
-> by striking “270 days after the date of enactment of this Act” and inserting “1 year after the date of the enactment of the Streamlining Public Company Accounting Oversight Act”; and
+> by striking “270 days after the date of enactment of this Act” and inserting “1 year after the date of the enactment of the SEC Reform and Restructuring Act”; and
 
 | | |
 |---|---|
 | Removed | `270 days after the date of enactment of this Act` |
-| Inserted | `1 year after the date of the enactment of the Streamlining Public Company Accounting Oversight Act` |
+| Inserted | `1 year after the date of the enactment of the SEC Reform and Restructuring Act` |
 
 ### 15 U.S.C. § 7212
 
@@ -131,6 +131,15 @@ to guess them.
 |---|---|
 | Removed | `the Board` |
 | Inserted | `the Office` |
+
+### 15 U.S.C. § 7212
+
+> by striking “Applications.—” and all that follows through “The Board” and inserting “Applications.—The Board”; and
+
+| | |
+|---|---|
+| Removed | `Applications.—” and all that follows through “The Board` |
+| Inserted | `Applications.—The Board` |
 
 ### 15 U.S.C. § 7213
 
@@ -152,16 +161,16 @@ to guess them.
 
 ### 15 U.S.C. § 7213
 
-> in subsection (d), by striking “101(h)” and inserting “101(g)”.
+> in subsection (d), by striking “The Board shall include in the annual report required by section 101(h)” and inserting “The Commission shall include in the Commission’s annual performance report to Congress”.
 
 | | |
 |---|---|
-| Removed | `101(h)` |
-| Inserted | `101(g)` |
+| Removed | `The Board shall include in the annual report required by section 101(h)` |
+| Inserted | `The Commission shall include in the Commission’s annual performance report to Congress` |
 
 ### 15 U.S.C. § 7216
 
-> in the heading of subsection (a)(2), by striking “Board” and inserting “Office”; and
+> in the heading of subsection (a)(2), by striking “Board” and inserting “Office”;
 
 | | |
 |---|---|
@@ -206,12 +215,66 @@ to guess them.
 
 ### 15 U.S.C. § 7201
 
-> Section 2(a)(9)(C) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7201) is amended by striking “, 101(c), 105, and 107(c) and the rules of the Board and Commission issued thereunder” and inserting “and 101(c) and the rules of the Commission thereunder”.
+> in paragraph (2), by striking “the Board or the Commission (or, for the period preceding the adoption of applicable rules of the Board under section 103, in accordance with then-applicable generally accepted auditing and related standards for such purposes)” and inserting “the Commission”;
+
+| | |
+|---|---|
+| Removed | `the Board or the Commission (or, for the period preceding the adoption of applicable rules of the Board under section 103, in accordance with then-applicable generally accepted auditing and related standards for such purposes)` |
+| Inserted | `the Commission` |
+
+### 15 U.S.C. § 7201
+
+> in subparagraph (B), by striking “Board” each place such term appears and inserting “Commission”; and
+
+| | |
+|---|---|
+| Removed | `Board` |
+| Inserted | `Commission` |
+
+### 15 U.S.C. § 7201
+
+> by striking “, 101(c), 105, and 107(c) and the rules of the Board and Commission issued thereunder” and inserting “and 101(c) and the rules of the Commission thereunder”; and
 
 | | |
 |---|---|
 | Removed | `, 101(c), 105, and 107(c) and the rules of the Board and Commission issued thereunder` |
 | Inserted | `and 101(c) and the rules of the Commission thereunder` |
+
+### 15 U.S.C. § 7201
+
+> in clause (ii)(II), by striking “Board” and inserting “Commission”;
+
+| | |
+|---|---|
+| Removed | `Board` |
+| Inserted | `Commission` |
+
+### 15 U.S.C. § 7201
+
+> in clause (ii), by striking “Board” and inserting “Commission”;
+
+| | |
+|---|---|
+| Removed | `Board` |
+| Inserted | `Commission` |
+
+### 15 U.S.C. § 7201
+
+> in subparagraph (B) of paragraph (10), as so redesignated, by striking “Board” and inserting “Commission”; and
+
+| | |
+|---|---|
+| Removed | `Board` |
+| Inserted | `Commission` |
+
+### 15 U.S.C. § 7201
+
+> in paragraph (11), as so redesignated, by striking “Board” and inserting “Commission”.
+
+| | |
+|---|---|
+| Removed | `Board` |
+| Inserted | `Commission` |
 
 ### 15 U.S.C. § 7231
 
@@ -221,6 +284,15 @@ to guess them.
 |---|---|
 | Removed | `The Board may` |
 | Inserted | `The Commission may` |
+
+### 15 U.S.C. § 7262
+
+> Section 404(b) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7262(b)) is amended by striking “Board” and inserting “Commission”.
+
+| | |
+|---|---|
+| Removed | `Board` |
+| Inserted | `Commission` |
 
 ### 15 U.S.C. § 7201
 
@@ -263,14 +335,17 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 7211` | replace | by striking “; and” and inserting a period; and | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 7211` | strike | by striking paragraph (7); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 7211` | strike | by striking the last sentence; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 7211` | strike | by striking subsections (e), (f), and (g); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 7211` | strike | by striking subsections (e), (f), (g), and (h); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 7211` | insert | by inserting after subsection (d) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 7211` | strike | by striking subsection (h). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 7212` | strike | in subsection (b)(2)(H), by striking “the Board or”; and | the bill quotes the text struck but describes what replaces it |
-| `15 U.S.C. § 7212` | strike | in subsection (c)(2), by striking “for purposes of sections 105(d) and 107(c)”. | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 7212` | strike | in subsection (b)(2)(H), by striking “the Board or”; | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 7212` | strike | by striking paragraph (2); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 7212` | strike | in subsection (d), by striking “the Board or”; and | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 7212` | strike | in subsection (e), by striking “the Board or”. | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 7213` | strike | in subparagraph (A)(i), by striking “, subject to the terms of section 107,”; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 7213` | strike | by striking subparagraph (B); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 7213` | redesignate | by redesignating subparagraph (C) as subparagraph (B); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 7216` | strike | by striking “or the Board” each place such term appears; | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 7216` | strike | in subsection (a), by striking “the Board and”; and | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 7216` | strike | by striking “and the Board, subject to the approval of the Commission, may,”; and | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 7216` | strike | by striking “(or Board)”. | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 7219` | amend | by amending subsection (b) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
@@ -279,12 +354,20 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 7219` | strike | by striking “either the Board,”; and | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 7219` | strike | by striking “, or both,”; and | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 7219` | strike | by striking subsection (k). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 7220` | redesignate | by redesignating paragraphs (5) and (6) as paragraphs (6) and (7); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 7220` | strike | in paragraph (1), by striking “the Board or”; | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 7220` | redesignate | by redesignating paragraphs (5) and (6) as paragraphs (6) and (7); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 7220` | insert | by inserting after paragraph (4) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 7220` | redesignate | in subparagraph (B) of paragraph (6), as so redesignated, by striking “the Board or”. | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 7201` | strike | by striking paragraphs (5) and (13); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 7201` | redesignate | by redesignating paragraphs (6) through (12) and (14) through (17) as paragraphs (5) through (15), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 7201` | strike | by striking “the Board or”; | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 7202` | strike | in subsection (b), by striking “or any rule of the Board”; and | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 7202` | strike | in subsection (c), by striking “or the rules of the Board”. | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 7231` | strike | by striking “in the same manner as for rules of the Board under section 107”. | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 1681a` | strike | Section 603(y)(3) of the Consumer Credit Protection Act (15 U.S.C. 1681a(y)(3)) is amended by striking “any entity established under title I of the Sarbanes-Oxley Act of 2002,”. | the bill quotes the text struck but describes what replaces it |
+| `15 U.S.C. § 7201` | replace | by striking the item relating to title I and inserting the following new item: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 7201` | strike | by striking the items relating to sections 104, 105, and 107. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `15 U.S.C. § 78d` | add-at-end | Section 4 of the Securities Exchange Act of 1934 (15 U.S.C. 78d), as amended by section 401, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 78d` | add-at-end | Section 4 of the Securities Exchange Act of 1934 (15 U.S.C. 78d), as amended by section 201, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 78d` | add-at-end | Section 4 of the Securities Exchange Act of 1934 (15 U.S.C. 78d), as amended by section 601, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 77h-1` | add-at-end | in section 8A(g) (15 U.S.C. 77h–1(g)), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 77t` | add-at-end | in section 20(d) (15 U.S.C. 77t(d)), by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
