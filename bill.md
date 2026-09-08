@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Title IX Clarification Act of 2026”.
 
-## § 2. Amendments
+## § 2. Title IX amendments
 
 Section 901(c) of the Education Amendments of 1972 (20 U.S.C. 1681(c)) is amended—
 

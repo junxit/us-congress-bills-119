@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8781
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 8781
@@ -16,7 +16,7 @@ Title IX Clarification Act of 2026
 
 - Rep. Arrington, Jodey C. [R-TX-19] (A000375)
 
-## Cosponsors (22)
+## Cosponsors (44)
 
 - Rep. Downing, Troy [R-MT-2] (D000634)
 - Rep. McCormick, Richard [R-GA-7] (M001218)
@@ -40,6 +40,28 @@ Title IX Clarification Act of 2026
 - Rep. McDowell, Addison P. [R-NC-6] (M001240)
 - Rep. Fedorchak, Julie [R-ND-At Large] (F000482)
 - Rep. Mann, Tracey [R-KS-1] (M000871)
+- Rep. Allen, Rick W. [R-GA-12] (A000372)
+- Rep. Palmer, Gary J. [R-AL-6] (P000609)
+- Rep. Miller, Mary E. [R-IL-15] (M001211)
+- Rep. Webster, Daniel [R-FL-11] (W000806)
+- Rep. Fry, Russell [R-SC-7] (F000478)
+- Rep. Finstad, Brad [R-MN-1] (F000475)
+- Rep. Rose, John W. [R-TN-6] (R000612)
+- Rep. Harrigan, Pat [R-NC-10] (H001101)
+- Rep. Moran, Nathaniel [R-TX-1] (M001224)
+- Rep. Williams, Roger [R-TX-25] (W000816)
+- Rep. Balderson, Troy [R-OH-12] (B001306)
+- Rep. Davidson, Warren [R-OH-8] (D000626)
+- Rep. Goldman, Craig A. [R-TX-12] (G000601)
+- Rep. Fallon, Pat [R-TX-4] (F000246)
+- Rep. Sessions, Pete [R-TX-17] (S000250)
+- Rep. Aderholt, Robert B. [R-AL-4] (A000055)
+- Rep. Moore, Tim [R-NC-14] (M001236)
+- Rep. Higgins, Clay [R-LA-3] (H001077)
+- Rep. Taylor, David J. [R-OH-2] (T000490)
+- Rep. Van Duyne, Beth [R-TX-24] (V000134)
+- Rep. Jackson, Ronny [R-TX-13] (J000304)
+- Rep. Hageman, Harriet M. [R-WY-At Large] (H001096)
 
 ## Committees (1)
 
@@ -50,3 +72,8 @@ Title IX Clarification Act of 2026
 - 2026-05-13 — Introduced in House
 - 2026-05-13 — Introduced in House
 - 2026-05-13 — Referred to the House Committee on Education and Workforce.
+- 2026-07-21 — Committee Consideration and Mark-up Session Held
+- 2026-07-21 — Ordered to be Reported (Amended) by the Yeas and Nays: 18 - 15.
+- 2026-09-08 — Placed on the Union Calendar, Calendar No. 698.
+- 2026-09-08 — Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-798.
+- 2026-09-08 — Reported (Amended) by the Committee on Education and Workforce. H. Rept. 119-798.
