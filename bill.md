@@ -20,4 +20,4 @@ This Act may be cited as the “Taxpayer Advocate Participation Act”.
   >   - **(i)** *In general* The National Taxpayer Advocate may appear as amicus curiae in any action brought in a court of the United States related to Federal tax law. In any such action, the National Taxpayer Advocate may present the views of the National Taxpayer Advocate only with respect to an issue which may broadly affect the rights of taxpayers, particularly the rights described in subsection (a)(3).
   >   - **(ii)** *Federal courts* A court of the United States shall grant the application of the National Taxpayer Advocate to appear in any action described in clause (i) for the purposes described in such clause.
 
-- **(b)** *Effective date* The amendment made by this subsection shall take effect on the date of the enactment of this Act.
+- **(b)** *Effective date* The amendment made by this section shall take effect on the date of the enactment of this Act.
