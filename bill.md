@@ -11,9 +11,9 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Congressional Records Protection Act”.
+This Act may be cited as the “Congressional Records Protection Act of 2026”.
 
 ## § 2. Prohibition on obtaining records for Members of Congress
 
-- **(a)** *In general* Title 18, United States Code, is amended by adding at the end the following:
-- **(b)** *Clerical amendment* The table of chapters at the beginning of part I of title 18, United States Code, is amended by inserting after the item relating to chapter 238 the following new item:
+- **(a)** *In general* Title 18, United States Code, is amended by adding at the end of part II the following:
+- **(b)** *Clerical amendment* The table of chapters at the beginning of part II of title 18, United States Code, is amended by inserting after the item relating to chapter 238 the following new item:

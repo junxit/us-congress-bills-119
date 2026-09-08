@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9098
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Title 18, United States Code, is amended by adding at the end the following: | the bill names no machine-readable US Code section |
-| — | insert | The table of chapters at the beginning of part I of title 18, United States Code, is amended by inserting after the item relating to chapter 238 the following new item: | the bill names no machine-readable US Code section |
+| — | add-at-end | Title 18, United States Code, is amended by adding at the end of part II the following: | the bill names no machine-readable US Code section |
+| — | insert | The table of chapters at the beginning of part II of title 18, United States Code, is amended by inserting after the item relating to chapter 238 the following new item: | the bill names no machine-readable US Code section |
