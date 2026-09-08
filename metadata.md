@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7972
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7972
@@ -25,3 +25,8 @@ Taxpayer Workforce Modernization Act
 - 2026-03-18 — Introduced in House
 - 2026-03-18 — Introduced in House
 - 2026-03-18 — Referred to the House Committee on Ways and Means.
+- 2026-07-01 — Committee Consideration and Mark-up Session Held
+- 2026-07-01 — Ordered to be Reported in the Nature of a Substitute by the Yeas and Nays: 24 - 16.
+- 2026-09-08 — Placed on the Union Calendar, Calendar No. 706.
+- 2026-09-08 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-807.
+- 2026-09-08 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-807.
