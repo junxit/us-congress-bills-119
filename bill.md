@@ -29,7 +29,7 @@ This Act may be cited as the “Safe Cloud Storage Act”.
   >   - **(3)** *Child obscenity* The term child obscenity has the meaning given that term in section 21101(2) of title 34, United States Code.
   >   - **(4)** *Covered agency* The term covered agency means a United States Federal, State, or local law enforcement or prosecutorial agency.
   >   - **(5)** *Local* The term local means any political subdivision of a State.
-  >   - **(6)** *State* The term State means any of the 50 States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, Guam, American Samoa, or the Commonwealth of the Northern Mariana Islands.
+  >   - **(6)** *State* The term State means any of the 50 States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, or the Commonwealth of the Northern Mariana Islands.
   > - **(b)** *Limited liability for approved vendors*
   >   - **(1)** *Limited liability for law enforcement approved vendors* Except as provided in paragraph (2), a civil claim or criminal charge may not be brought in any Federal or State court against an approved vendor relating to the approved vendor's performance of any contractual obligation or service described in subsection (a)(1).
   >   - **(2)** *Intentional, reckless, or other misconduct* A civil claim or criminal charge may be brought in any Federal or State court against an approved vendor if the approved vendor—
@@ -47,7 +47,7 @@ This Act may be cited as the “Safe Cloud Storage Act”.
   >   - **(4)** employ end-to-end encryption for data storage and transfer functions, or an equivalent technological standard;
   >   - **(5)** undergo an independent annual cybersecurity audit to determine whether such child pornography or child obscenity is secured as required by paragraph (1), including by assessing compliance with the National Institute of Standards and Technology Special Publication 800–53, Revision 5 (relating to security and privacy controls for information systems and organizations) or any successor documents or revisions; and
   >   - **(6)** promptly address all issues identified by an audit described in paragraph (5).
-  > - **(d)** *Evidence storage* Any covered agency that stores child pornography and child obscenity pursuant to a contract with an approved vendor shall retain such evidence—
+  > - **(d)** *Evidence storage* Any covered agency that stores child pornography and child obscenity pursuant to a contract with an approved vendor shall ensure that such evidence is retained—
   >   - **(1)** in compliance with the security policy of the Criminal Justice Information Services Division of the Federal Bureau of Investigation, or any other similar and appropriate division within the Federal Bureau of Investigation;
   >   - **(2)** for a period consistent with the evidence retention requirements applicable to the investigating or prosecuting covered agency under the relevant Federal, State, or local law, rule of criminal procedure, or prosecutorial policy; or
   >   - **(3)** in the absence of such law, rule, or policy, for a period not less than the applicable statute of limitations or the duration of any sentence imposed, including the period of post-conviction review.
@@ -61,8 +61,9 @@ This Act may be cited as the “Safe Cloud Storage Act”.
   >   - **(3)** *Breach of contract*
   >     - **(A)** *In general* If a covered agency fails to make required payment under a contract, breaches any material term of such contract, or otherwise terminates such contract without establishing lawful transfer of the evidence, the approved vendor shall, not later than 30 days after the failure, breach, or termination, notify the Criminal Division of the Department of Justice in the case of a breach by a Federal agency, or the appropriate State attorney general in the case of a breach by a State or local agency.
   >     - **(B)** *Maintenance of evidence* Upon making a notification under subparagraph (A), the approved vendor shall continue to preserve and maintain the integrity of the evidence until a prompt and lawful transfer of custody occurs to the Criminal Division of the Department of Justice or another Federal, State, or local law enforcement agency with jurisdiction.
-  > - **(f)** *Rule of construction* Nothing in this section shall be construed to limit—
-  >   - **(1)** bona fide use by the contracting covered agency of child pornography or child obscenity being stored by the approved vendor, which includes providing such child pornography or child obscenity to any other party as necessary for an investigation or prosecution; or
-  >   - **(2)** the obligation of the contracting covered agency to comply with a constitutional or statutory obligation, court order, or request from a victim made pursuant to section 3509(m)(3) of title 18, United States Code.
+  > - **(f)** *Rule of construction* Nothing in this section shall be construed to—
+  >   - **(1)** limit bona fide use by the contracting covered agency of child pornography or child obscenity being stored by the approved vendor, which includes providing such child pornography or child obscenity to any other party as necessary for an investigation or prosecution;
+  >   - **(2)** limit the obligation of the contracting covered agency to comply with a constitutional or statutory obligation, court order, or request from a victim made pursuant to section 3509(m)(3) of title 18, United States Code; or
+  >   - **(3)** authorize or require the audit, assessment, or compliance verification of a governmental entity or any system administered by a governmental entity.
 
 - **(b)** *Clerical amendment* Section 1(b) of the PROTECT Our Children Act of 2008 (Public Law 110–401; 122 Stat. 4229) is amended by inserting after the item relating to section 201 the following:
