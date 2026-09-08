@@ -64,4 +64,4 @@ This Act may be cited as the “End Tax Penalties on American Hostages Act”.
   >     - **(A)** beginning on January 1, 2021, and
   >     - **(B)** ending on the date of the enactment of this subsection.
 
-- **(b)** *Effective date* The amendment made by this subsection shall apply to taxable years ending on or before the date of the enactment of this Act.
+- **(b)** *Effective date* The amendment made by this section shall apply to taxable years ending on or before the date of the enactment of this Act.
