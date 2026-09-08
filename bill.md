@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 5267
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -54,7 +54,7 @@ Congress finds the following:
   >         - **(I)** are limited and routine; and
   >         - **(II)** consist primarily of telling a franchisee’s employees what work to perform, or where and when to perform the work, but not how to perform the work;
   >       - **(ii)** setting brand standards for the performance of the work;
-  >       - **(iii)** offering training materials (including training demonstrations) for a franchisee to use to train the employees of the franchisee; or
+  >       - **(iii)** offering training materials (including training demonstrations) for a franchisee to use in training the employees of the franchisee; or
   >       - **(iv)** establishing minimum training requirements for the employees of a franchisee.
   >     - **(H)** *Direction* A franchisor exercises direct and immediate control over direction by assigning particular employees of a franchisee their individual work schedules, positions, and tasks. Such direct and immediate control does not include offering resources and tools for a franchisee to consider using to direct the work schedules, positions, and tasks of the employees of the franchisee.
   >   - **(2)** *Essential terms and conditions of employment* The term essential terms and conditions of employment means wages, benefits, hours of work, hiring, discharge, discipline, supervision, and direction.
