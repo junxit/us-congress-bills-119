@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9342
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -67,33 +67,33 @@ complete account of the bill's effect, which it is not.
 | — | strike | Section 1707 of such title is amended by striking “, subject to the approval of the Secretary or head of the department in which the public document originated”. | the bill names no machine-readable US Code section |
 | — | amend | Section 1708 of such title is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | Section 1720 of such title is amended by striking “distribution or sale” and inserting “distribution, sale, or disposal in accordance with requirements established by the Superintendent of Documents”. | the bill names no machine-readable US Code section |
-| — | insert | Chapter 19 of title 44, United States Code, is amended by inserting before section 1901 the following new section: | the bill names no machine-readable US Code section |
-| — | amend | Section 1901 of title 44, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | Section 1902 of such title is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | Section 1904 of such title is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | insert | Chapter 19 of title 44, United States Code, is amended by inserting before section 1901 the following new section (and by conforming the table of sections of such chapter accordingly): | the bill names no machine-readable US Code section |
+| — | amend | Section 1901 of title 44, United States Code, is amended to read as follows (and by conforming the table of sections of chapter 19 accordingly): | the bill names no machine-readable US Code section |
+| — | amend | Section 1902 of such title is amended to read as follows (and by conforming the table of sections of chapter 19 accordingly): | the bill names no machine-readable US Code section |
+| — | amend | Section 1904 of such title is amended to read as follows (and by conforming the table of sections of chapter 19 accordingly): | the bill names no machine-readable US Code section |
 | — | amend | Section 1905 of title 44, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | in the first sentence, by striking “Government publications” and inserting “Government public information”; and | the bill names no machine-readable US Code section |
 | — | replace | in the last sentence, by striking “Library of Congress and the Archivist of the United States” and inserting “Superintendent of Documents”. | the bill names no machine-readable US Code section |
-| — | amend | Section 1909 of title 44, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | Section 1911 of title 44, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | amend | Section 1912 of title 44, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
-| — | add-at-end | Chapter 19 of title 44, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
-| — | repeal | Chapter 17 of such title is amended by repealing sections 1710 and 1711. | the bill names no machine-readable US Code section |
-| — | add-at-end | Chapter 19 of title 44, United States Code, is amended by adding at the end the following new section: | the bill names no machine-readable US Code section |
+| — | amend | Section 1909 of title 44, United States Code, is amended to read as follows (and by conforming the table of sections of chapter 19 accordingly): | the bill names no machine-readable US Code section |
+| — | amend | Section 1911 of title 44, United States Code, is amended to read as follows (and by conforming the table of sections of chapter 19 accordingly): | the bill names no machine-readable US Code section |
+| — | amend | Section 1912 of title 44, United States Code, is amended to read as follows (and by conforming the table of sections of chapter 19 accordingly): | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 19 of title 44, United States Code, is amended by adding at the end the following new section (and by conforming the table of sections of such chapter accordingly): | the bill names no machine-readable US Code section |
+| — | repeal | Chapter 17 of such title is amended by repealing sections 1710 and 1711 (and by conforming the table of sections of such chapter accordingly). | the bill names no machine-readable US Code section |
+| — | add-at-end | Chapter 19 of title 44, United States Code, is amended by adding at the end the following new section (and by conforming the table of sections of such chapter accordingly): | the bill names no machine-readable US Code section |
 | — | amend | Section 721 of title 44, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | `16 U.S.C. § 825k` | amend | Chapter 1 of title 44, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 825k` | strike | Section 1108 of title 44, United States Code, is amended by striking “, subject to regulation by the Joint Committee on Printing,”. | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 825k` | strike | Section 1301 of title 44, United States Code, is amended by striking “in accordance with directions of the Joint Committee on Printing,”. | the bill quotes the text struck but describes what replaces it |
-| `16 U.S.C. § 825k` | strike | Section 1320A of title 44, United States Code, is amended by striking “and with the approval of the Joint Committee on Printing”. | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 825k` | strike | Section 1320A of title 44, United States Code, is amended by striking “and with the approval of the Joint Committee on Printing,”. | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 825k` | strike | Section 312 of the Federal Power Act (16 U.S.C. 825k) is amended by striking “All printing for the Federal Power Commission” and all that follows through “providing for interdepartmental work.”. | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 954` | strike | Section 5(c) of the National Foundation on the Arts and the Humanities Act of 1965 (20 U.S.C. 954(c)) is amended by striking “In the case of publications under paragraph (10) of this subsection such publications may be supported without … | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 956` | strike | Section 7(c) of the National Foundation on the Arts and the Humanities Act of 1965 (20 U.S.C. 956) is amended by striking “In the case of publications under clause (8) of this subsection such publications may be supported without regard … | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 825k` | strike | Section 411(a) of title 28, United States Code, is amended by striking the last sentence. | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `16 U.S.C. § 825k` | amend | Section 1121 of title 44, United States Code, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 825k` | amend | Section 1121 of title 44, United States Code, is amended to read as follows (and by conforming the table of sections of chapter 11 accordingly): | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | — | insert | in the section heading, by inserting “, publishing” after “binding”; | the bill names no machine-readable US Code section |
 | — | insert | in the text, by inserting “, publishing” after “binding”; and | the bill names no machine-readable US Code section |
 | — | replace | by striking “Joint Committee on Printing” and inserting “Joint Committee on Publishing”. | the bill names no machine-readable US Code section |
-| — | repeal | Sections 503, 504, 1104, 1105, and 1112 of title 44, United States Code, are repealed. | the bill names no machine-readable US Code section |
+| — | repeal | Sections 503, 504, 1104, 1105, and 1112 of title 44, United States Code, are repealed (and by conforming the table of sections for the applicable chapters accordingly). | the bill names no machine-readable US Code section |
 | — | replace | Sections 505, 508 through 515, 517, 702, 703, 707, 709, 714, 717, 718, 722 through 724, 728, 738, and 901 through 905 of title 44, United States Code, are amended by striking “Joint Committee on Printing” in each place it appears and ins… | the bill names no machine-readable US Code section |
 | — | amend | Section 701 of title 44, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | amend | Section 706 of title 44, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
@@ -108,11 +108,11 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking the period at the end of paragraph (2) and inserting “; and”; and | the bill names no machine-readable US Code section |
 | — | add-at-end | by adding at the end the following new paragraph: | the bill names no machine-readable US Code section |
 | — | add-at-end | Section 318 of such title is amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
-| — | amend | The heading of section 318 of such title is amended by adding “; gift acceptance” at the end. | the bill names no machine-readable US Code section |
-| — | replace | in the section heading, by striking “small purchase” and inserting “simplified acquisition”; | the bill names no machine-readable US Code section |
+| — | amend | The heading of section 318 of such title is amended by adding “; gift acceptance” at the end (and by conforming the table of sections of chapter 3 accordingly). | the bill names no machine-readable US Code section |
+| — | replace | in the section heading, by striking “small purchase” and inserting “simplified acquisition” (and by conforming the table of sections of chapter 3 accordingly); | the bill names no machine-readable US Code section |
 | — | amend | by amending subsection (b) to read as follows: | the bill names no machine-readable US Code section |
 | — | replace | in subsection (c), by striking “$100,000” and inserting “$350,000”. | the bill names no machine-readable US Code section |
-| — | replace | in the section heading, by striking “Inks, glues, and other supplies” and inserting “Supplies or services”; | the bill names no machine-readable US Code section |
+| — | replace | in the section heading, by striking “Inks, glues, and other supplies” and inserting “Supplies or services”(and by conforming the table of sections of chapter 3 accordingly); | the bill names no machine-readable US Code section |
 | — | replace | by striking “Inks, glues, and other supplies manufactured” and inserting “Supplies manufactured or services performed”; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting “publishing” after “in connection with its”. | the bill names no machine-readable US Code section |
 | — | replace | Section 316 of title 44, United States Code, is amended by striking “and binding” and inserting “, binding, and publishing”. | the bill names no machine-readable US Code section |

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9342
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 9342
@@ -27,3 +27,10 @@ GPO Modernization Act of 2026
 - 2026-06-18 — Introduced in House
 - 2026-06-18 — Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
 - 2026-06-18 — Referred to the Committee on House Administration, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.
+- 2026-06-24 — Committee Consideration and Mark-up Session Held
+- 2026-06-24 — Ordered to be Reported (Amended) by Voice Vote.
+- 2026-09-10 — Committee on Oversight and Gov Reform discharged.
+- 2026-09-10 — Committee on Oversight and Gov Reform discharged.
+- 2026-09-10 — Placed on the Union Calendar, Calendar No. 708.
+- 2026-09-10 — Reported (Amended) by the Committee on House Administration. H. Rept. 119-809, Part I.
+- 2026-09-10 — Reported (Amended) by the Committee on House Administration. H. Rept. 119-809, Part I.
