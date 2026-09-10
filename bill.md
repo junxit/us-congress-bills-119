@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2317
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,5 +11,5 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title; table of contents
 
-- **(a)** *Short title* This Act may be cited as the “Northern Nevada Economic Development and Conservation Act of 2025”.
+- **(a)** *Short title* This Act may be cited as the “Northern Nevada Economic Development and Conservation Act of 2026”.
 - **(b)** *Table of contents* The table of contents of this Act is as follows:
