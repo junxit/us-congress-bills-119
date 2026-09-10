@@ -1,7 +1,7 @@
 ---
 measure: S. 1377
 congress: 119
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1377
@@ -20,9 +20,10 @@ Theodore Roosevelt National Park Wild Horses Protection Act
 
 - Sen. Kaine, Tim [D-VA] (K000384)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Energy and Natural Resources Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -34,3 +35,8 @@ Theodore Roosevelt National Park Wild Horses Protection Act
 - 2026-06-11 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (consideration: CR S2747-2748; text: CR S2748)
 - 2026-06-11 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
 - 2026-06-11 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
+- 2026-06-12 — Message on Senate action sent to the House.
+- 2026-06-15 — Held at the desk.
+- 2026-06-15 — Received in the House.
+- 2026-09-10 — Referred to the House Committee on Natural Resources.
+- 2026-09-10 — Referred to the Subcommittee on Federal Lands.

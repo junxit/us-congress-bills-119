@@ -1,7 +1,7 @@
 ---
 measure: S. 1377
 congress: 119
-version: Engrossed in Senate
+version: Referred in House
 derived: true
 ---
 
