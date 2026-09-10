@@ -1,7 +1,7 @@
 ---
 measure: S. 1051
 congress: 119
-version: Engrossed in Senate
+version: Referred in House
 ---
 
 # S. 1051
@@ -20,9 +20,10 @@ Historic Greenwood District—Black Wall Street National Monument Establishment 
 
 - Sen. Booker, Cory A. [D-NJ] (B001288)
 
-## Committees (1)
+## Committees (2)
 
 - Senate — Energy and Natural Resources Committee
+- House — Natural Resources Committee
 
 ## Actions
 
@@ -32,3 +33,8 @@ Historic Greenwood District—Black Wall Street National Monument Establishment 
 - 2025-05-22 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
 - 2025-05-22 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
 - 2025-05-22 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
+- 2025-05-23 — Message on Senate action sent to the House.
+- 2025-05-26 — Held at the desk.
+- 2025-05-26 — Received in the House.
+- 2026-09-10 — Referred to the House Committee on Natural Resources.
+- 2026-09-10 — Referred to the Subcommittee on Federal Lands.
