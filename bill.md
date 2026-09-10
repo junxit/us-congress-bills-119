@@ -1,0 +1,48 @@
+---
+legis-num: H.R. 10334
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 10334
+
+> To require validation of electronic filing identification numbers used to electronically file tax returns and other documents.
+
+## § 1. Short title
+
+This Act may be cited as the “EFIN Verification Act of 2026”.
+
+## § 2. Validation of electronic filing identification numbers
+
+- **(a)** *Definitions* For purposes of this section:
+  - **(1)** *EFIN* The term EFIN or electronic filing identification number means the unique identifier issued by the Secretary to authorize a person or entity to electronically file returns or other documents with the Secretary on behalf of taxpayers.
+  - **(2)** *Return or other document* The term return or other document means—
+    - **(A)** any return of Federal tax, and
+    - **(B)** except as provided by the Secretary, any other document required to be filed with the Secretary under the Internal Revenue Code of 1986.
+  - **(3)** *Specified validator* The term “specified validator” means any entity (including software providers, State tax agencies, and financial institutions) if the Secretary determines that such entity having access to the program established under subsection (c) (and the information available through such program) is consistent with the purposes of this section.
+  - **(4)** *Secretary* The term Secretary means the Secretary of the Treasury or the Secretary's delegate.
+- **(b)** *Validation required*
+  - **(1)** *In general* An EFIN may not be used to electronically file any return or other document unless the Secretary has confirmed that such EFIN has been validated by the Secretary or a specified validator as active and authorized in accordance with the program established under subsection (c).
+  - **(2)** *Validation through electronic filing software* Software which enables the electronic filing of returns or other documents with the Secretary—
+    - **(A)** shall require validation of an EFIN through such software prior to the electronic filing of any return or other document, and
+    - **(B)** shall not permit such electronic filing unless such EFIN has been validated under the program established under subsection (c).
+- **(c)** *Validation program*
+  - **(1)** *In general* The Secretary shall develop a program for the validation of EFINs.
+  - **(2)** *Timing and frequency of validation* The Secretary shall validate an EFIN—
+    - **(A)** prior to the initial use of such EFIN for electronic filing, and
+    - **(B)** at such intervals, or upon such events, as the Secretary determines appropriate, to ensure the continued validity and integrity of such EFIN.
+  - **(3)** *Real-time validation system*
+    - **(A)** *In general* The program established under this subsection shall provide a real-time system for the validation of EFINs.
+    - **(B)** *System requirements* The system provided under subparagraph (A) shall—
+      - **(i)** provide immediate confirmation of the validity status of an EFIN at the time a validation request is made,
+      - **(ii)** confirm whether an EFIN is active and authorized or has been suspended, revoked, or otherwise identified as compromised or ineligible, and
+      - **(iii)** be designed to support secure, automated, and high-volume validation requests, including usage by large-scale tax preparation software systems.
+    - **(C)** *Access* The Secretary shall make such system available in a secure and standardized manner to persons authorized to submit validation requests.
+- **(d)** *Authority To disclose information to specified validators*
+  - **(1)** *In general* Section 6103(k) of the Internal Revenue Code of 1986 is amended by adding at the end the following new paragraph:
+    > - **(16)** *Disclosures for EFIN verification* The Secretary may disclose to specified validators (as defined in section 2(a)(3) of the EFIN Verification Act of 2026) such information from the program established under section 2(c) of such Act as may be necessary for such validators to validate an EFIN as active and authorized.
+
+  - **(2)** *Safeguards* Section 6103(p)(4) of such Code is amended by striking “(k)(10) or (15)” each place it appears and inserting “(k)(10), (15), or (16)”.
+  - **(3)** *Effective date* The amendments made by this section shall apply to disclosures made after the date that is 2 years after the date of the enactment of this Act.
+- **(e)** *Effective date* Except as provided in subsection (d), this section shall apply to returns and other documents filed with respect to taxable years beginning after the date that is 2 years after the date of the enactment of this Act.
