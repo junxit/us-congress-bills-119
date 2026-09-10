@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9360
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 9360
@@ -25,3 +25,8 @@ Advisory Committee on the Records of Congress Sunset Act
 - 2026-06-18 — Introduced in House
 - 2026-06-18 — Introduced in House
 - 2026-06-18 — Referred to the House Committee on House Administration.
+- 2026-06-24 — Committee Consideration and Mark-up Session Held
+- 2026-06-24 — Ordered to be Reported (Amended) by Voice Vote.
+- 2026-09-10 — Placed on the Union Calendar, Calendar No. 707.
+- 2026-09-10 — Reported (Amended) by the Committee on House Administration. H. Rept. 119-808.
+- 2026-09-10 — Reported (Amended) by the Committee on House Administration. H. Rept. 119-808.

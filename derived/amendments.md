@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9360
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | strike | by striking chapter 27; | the bill names no machine-readable US Code section |
-| — | strike | by striking the table of sections relating to chapter 27; and | the bill names no machine-readable US Code section |
+| — | strike | by striking chapter 27; and | the bill names no machine-readable US Code section |
 | — | strike | in the table of chapters, by striking the item relating to chapter 27. | the bill names no machine-readable US Code section |

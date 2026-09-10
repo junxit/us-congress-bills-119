@@ -15,10 +15,9 @@ This Act may be cited as the “Advisory Committee on the Records of Congress Su
 
 ## § 2. Management and preservation of the records of Congress
 
-- **(a)** *Sunset of Advisory Committee on the Records of Congress* Effective on the date that is 60 days after the date of the enactment of this Act, title 44 of the United States Code is amended—
-  - **(1)** by striking chapter 27;
-  - **(2)** by striking the table of sections relating to chapter 27; and
-  - **(3)** in the table of chapters, by striking the item relating to chapter 27.
+- **(a)** *Sunset of Advisory Committee on the Records of Congress* Effective on the date that is 60 days after the date of the enactment of this Act, title 44, United States Code, is amended—
+  - **(1)** by striking chapter 27; and
+  - **(2)** in the table of chapters, by striking the item relating to chapter 27.
 - **(b)** *Report* Not later than February 1 of the year beginning after the date of enactment of this Act, and annually thereafter, the Director shall submit a report on the management and preservation of the records of Congress during the previous year to—
   - **(1)** the Archivist;
   - **(2)** the Secretary;
