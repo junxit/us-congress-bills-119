@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9394
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 9394
@@ -16,6 +16,10 @@ Civil Preparedness for Agroterrorism Exercise Act of 2026
 
 - Rep. Strong, Dale W. [R-AL-5] (S001220)
 
+## Cosponsors (1)
+
+- Rep. Kennedy, Timothy M. [D-NY-26] (K000402)
+
 ## Committees (1)
 
 - House — Homeland Security Committee
@@ -25,3 +29,8 @@ Civil Preparedness for Agroterrorism Exercise Act of 2026
 - 2026-06-23 — Introduced in House
 - 2026-06-23 — Introduced in House
 - 2026-06-23 — Referred to the House Committee on Homeland Security.
+- 2026-06-24 — Committee Consideration and Mark-up Session Held
+- 2026-06-24 — Ordered to be Reported by the Yeas and Nays: 30 - 0.
+- 2026-09-10 — Placed on the Union Calendar, Calendar No. 712.
+- 2026-09-10 — Reported by the Committee on Homeland Security. H. Rept. 119-813.
+- 2026-09-10 — Reported by the Committee on Homeland Security. H. Rept. 119-813.
