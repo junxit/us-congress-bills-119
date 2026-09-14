@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8481
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8481
@@ -40,9 +40,10 @@ Kayleigh’s Law Act of 2026
 - Rep. Gill, Brandon [R-TX-26] (G000603)
 - Rep. Calvert, Ken [R-CA-41] (C000059)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -60,3 +61,4 @@ Kayleigh’s Law Act of 2026
 - 2026-08-31 — Ms. Lee (FL) moved to suspend the rules and pass the bill, as amended.
 - 2026-08-31 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5270-5271)
 - 2026-08-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5270-5271)
+- 2026-09-14 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
