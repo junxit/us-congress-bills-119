@@ -16,13 +16,23 @@ This Act may be cited as the “Battery Recycling for America’s Competitive Ec
 ## § 2. End of life lithium-ion battery management
 
 - **(a)** *Definitions* In this Act:
-  - **(1)** *Destination facility* The term destination facility has the meaning given such term in section 273.9 of title 40, Code of Federal Regulations (or any successor regulations).
-  - **(2)** *Large quantity handler of universal waste* The term large quantity handler of universal waste has the meaning given such term in section 273.9 of title 40, Code of Federal Regulations (or any successor regulations).
-  - **(3)** *Lithium-ion battery* The term lithium-ion battery means a battery that uses the movement of lithium ions between two electrodes to store and release energy.
-- **(b)** *Universal waste regulations for lithium-Ion batteries* In lieu of the requirements described in section 273.60(a) of title 40, Code of Federal Regulations (or any successor regulations), a destination facility that stores lithium-ion batteries prior to recycling such lithium-ion batteries shall comply with—
-  - **(1)** the requirements described in sections 273.33(a)(1), 273.35, 273.36, and 272.37 of title 40, Code of Federal Regulations (or any successor regulations), which would apply if the destination facility were a large quantity handler of universal waste; and
-  - **(2)** the requirements described in section 273.60(b) of title 40, Code of Federal Regulations (or any successor regulations), which would apply if the destination facility did not store the lithium-ion batteries prior to recycling such lithium-ion batteries.
+  - **(1)** *Administrator* The term Administrator means the Administrator of the Environmental Protection Agency.
+  - **(2)** *Battery* The term battery has the meaning given such term in section 273.9 of title 40, Code of Federal Regulations (or any successor regulations).
+  - **(3)** *Destination facility* The term destination facility has the meaning given such term in section 273.9 of title 40, Code of Federal Regulations (or any successor regulations).
+  - **(4)** *Large quantity handler of universal waste* The term large quantity handler of universal waste has the meaning given such term in section 273.9 of title 40, Code of Federal Regulations (or any successor regulations).
+  - **(5)** *Lithium-ion battery* The term lithium-ion battery means a battery that uses the movement of lithium ions between two electrodes to store and release energy.
+- **(b)** *Interim requirements for lithium-ion batteries* Until the date on which the Administrator issues the rule pursuant to subsection (c), in lieu of the requirements described in section 273.60(a) of title 40, Code of Federal Regulations (or any successor regulations), a destination facility that stores lithium-ion batteries prior to recycling such lithium-ion batteries shall comply with—
+  - **(1)** the requirements described in sections 273.33(a)(1), 273.35, 273.36, and 273.37 of title 40, Code of Federal Regulations (or any successor regulations), which shall apply as if the destination facility were a large quantity handler of universal waste; and
+  - **(2)** the requirements described in section 273.60(b) of title 40, Code of Federal Regulations (or any successor regulations), which shall apply as if the destination facility did not store the lithium-ion batteries prior to recycling such lithium-ion batteries.
+- **(c)** *Universal waste rulemaking for lithium-ion batteries*
+  - **(1)** *In general* Not later than 18 months after the date of enactment of this Act, the Administrator shall issue a rule regarding the management of lithium-ion batteries as universal waste.
+  - **(2)** *Contents* In issuing the rule pursuant to paragraph (1), the Administrator shall consider including in such rule, in addition to any other issue that arises as part of the notice and comment period for such rule, the following:
+    - **(A)** Universal waste requirements specially tailored for lithium-ion batteries.
+    - **(B)** Elements of the interim requirements for lithium-ion batteries specified in subsection (b), as appropriate.
+    - **(C)** Any additional regulatory changes to support the recycling of lithium-ion batteries and recovery of critical minerals, while maintaining protections for health and the environment.
+    - **(D)** Additional safety requirements needed to address gaps in existing protections.
+  - **(3)** *Rule of construction* Nothing in this subsection shall be construed to limit any future rulemaking of the Environmental Protection Agency regarding lithium-ion batteries.
 
 ## § 3. Technical updates to the Mercury-Containing and Rechargeable Battery Management Act
 
-Section 104(a) of the Mercury-Containing and Rechargeable Battery Management Act (42 U.S.C. 14323(a)) is amended by striking “60 Fed. Reg. 25492 (May 11, 1995), as effective on May 11, 1995”, and inserting “part 273 of title 40, Code of Federal Regulations (or any successor regulations)”.
+Section 104(a) of the Mercury-Containing and Rechargeable Battery Management Act (42 U.S.C. 14323(a)) is amended by striking “the regulations promulgated by the Environmental Protection Agency at 60 Fed. Reg. 25492 (May 11, 1995), as effective on May 11, 1995” and inserting “part 273 of title 40, Code of Federal Regulations (or any successor regulations)”.
