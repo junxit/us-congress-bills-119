@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6048
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6048
@@ -20,9 +20,10 @@ NDO Fairness Act of 2025
 
 - Rep. Nadler, Jerrold [D-NY-12] (N000002)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -38,3 +39,4 @@ NDO Fairness Act of 2025
 - 2026-08-31 — Mr. Fitzgerald moved to suspend the rules and pass the bill, as amended.
 - 2026-08-31 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5266-5267)
 - 2026-08-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2026-09-14 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
