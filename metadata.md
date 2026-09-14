@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4662
 congress: 119
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 4662
@@ -86,3 +86,7 @@ To designate the facility of the United States Postal Service located at 6444 Sa
 - 2026-06-29 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4279)
 - 2026-06-29 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4279)
 - 2026-07-13 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2026-08-06 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2026-09-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Paul without amendment. Without written report.
+- 2026-09-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Paul without amendment. Without written report.
+- 2026-09-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 603.
