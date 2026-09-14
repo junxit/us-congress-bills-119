@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2004
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2004
@@ -16,7 +16,7 @@ Tyler’s Law
 
 - Rep. Lieu, Ted [D-CA-36] (L000582)
 
-## Cosponsors (19)
+## Cosponsors (65)
 
 - Rep. Latta, Robert E. [R-OH-5] (L000566)
 - Rep. Kamlager-Dove, Sydney [D-CA-37] (K000400)
@@ -37,6 +37,52 @@ Tyler’s Law
 - Rep. Dingell, Debbie [D-MI-6] (D000624)
 - Rep. Bacon, Don [R-NE-2] (B001298)
 - Rep. Peters, Scott H. [D-CA-50] (P000608)
+- Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
+- Rep. Yakym, Rudy [R-IN-2] (Y000067)
+- Rep. Gottheimer, Josh [D-NJ-5] (G000583)
+- Rep. Landsman, Greg [D-OH-1] (L000601)
+- Rep. Nunn, Zachary [R-IA-3] (N000193)
+- Rep. Miller-Meeks, Mariannette [R-IA-1] (M001215)
+- Rep. Craig, Angie [D-MN-2] (C001119)
+- Rep. Bilirakis, Gus M. [R-FL-12] (B001257)
+- Rep. Kelly, Robin L. [D-IL-2] (K000385)
+- Rep. Miller, Carol D. [R-WV-1] (M001205)
+- Rep. Kim, Young [R-CA-40] (K000397)
+- Rep. Ocasio-Cortez, Alexandria [D-NY-14] (O000172)
+- Rep. De La Cruz, Monica [R-TX-15] (D000594)
+- Rep. Tonko, Paul [D-NY-20] (T000469)
+- Rep. Evans, Gabe [R-CO-8] (E000300)
+- Rep. Weber, Randy K. Sr. [R-TX-14] (W000814)
+- Rep. Trahan, Lori [D-MA-3] (T000482)
+- Rep. Schrier, Kim [D-WA-8] (S001216)
+- Rep. McClellan, Jennifer L. [D-VA-4] (M001227)
+- Rep. Schakowsky, Janice D. [D-IL-9] (S001145)
+- Rep. Ruiz, Raul [D-CA-25] (R000599)
+- Rep. Obernolte, Jay [R-CA-23] (O000019)
+- Rep. Soto, Darren [D-FL-9] (S001200)
+- Rep. Budzinski, Nikki [D-IL-13] (B001315)
+- Rep. Bresnahan, Robert P. [R-PA-8] (B001327)
+- Rep. Dean, Madeleine [D-PA-4] (D000631)
+- Rep. Kennedy, Timothy M. [D-NY-26] (K000402)
+- Rep. Houlahan, Chrissy [D-PA-6] (H001085)
+- Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
+- Rep. Mackenzie, Ryan [R-PA-7] (M001230)
+- Rep. Pfluger, August [R-TX-11] (P000048)
+- Rep. Pappas, Chris [D-NH-1] (P000614)
+- Rep. Wasserman Schultz, Debbie [D-FL-25] (W000797)
+- Rep. Rutherford, John H. [R-FL-5] (R000609)
+- Rep. Fry, Russell [R-SC-7] (F000478)
+- Rep. Fine, Randy [R-FL-6] (F000484)
+- Rep. Mills, Cory [R-FL-7] (M001216)
+- Rep. Dunn, Neal P. [R-FL-2] (D000628)
+- Rep. Alford, Mark [R-MO-4] (A000379)
+- Rep. Vasquez, Gabe [D-NM-2] (V000136)
+- Rep. Menendez, Robert [D-NJ-8] (M001226)
+- Rep. Neguse, Joe [D-CO-2] (N000191)
+- Rep. Wilson, Joe [R-SC-2] (W000795)
+- Rep. Beatty, Joyce [D-OH-3] (B001281)
+- Rep. Meuser, Daniel [R-PA-9] (M001204)
+- Rep. Moore, Tim [R-NC-14] (M001236)
 
 ## Committees (1)
 
@@ -48,3 +94,11 @@ Tyler’s Law
 - 2025-03-10 — Introduced in House
 - 2025-03-10 — Referred to the House Committee on Energy and Commerce.
 - 2025-03-10 — Referred to the Subcommittee on Health.
+- 2026-06-25 — Forwarded by Subcommittee to Full Committee by Voice Vote.
+- 2026-06-25 — Subcommittee Consideration and Mark-up Session Held
+- 2026-07-20 — Committee Consideration and Mark-up Session Held
+- 2026-07-21 — Committee Consideration and Mark-up Session Held
+- 2026-07-21 — Ordered to be Reported by the Yeas and Nays: 46 - 0.
+- 2026-09-14 — Placed on the Union Calendar, Calendar No. 716.
+- 2026-09-14 — Reported by the Committee on Energy and Commerce. H. Rept. 119-817.
+- 2026-09-14 — Reported by the Committee on Energy and Commerce. H. Rept. 119-817.
