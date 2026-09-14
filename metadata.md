@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6332
 congress: 119
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 6332
@@ -49,3 +49,7 @@ To designate the facility of the United States Postal Service located at 10660 P
 - 2026-07-13 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4386)
 - 2026-07-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H4386)
 - 2026-07-14 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2026-08-06 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2026-09-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Paul without amendment. Without written report.
+- 2026-09-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Paul without amendment. Without written report.
+- 2026-09-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 612.
