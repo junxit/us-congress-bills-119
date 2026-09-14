@@ -13,6 +13,10 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 This Act may be cited as the “No Fentanyl on Social Media Act”.
 
+## § 1. Short title
+
+This Act may be cited as the “No Fentanyl on Social Media Act of 2026”.
+
 ## § 2. Report on the ability of minors to access fentanyl through social media platforms
 
 - **(a)** *Report required* Not later than 1 year after the date of the enactment of this Act, the Commission, in coordination with the Secretary of Health and Human Services, acting through the Commissioner of Food and Drugs, and the Administrator of the Drug Enforcement Administration, shall submit to the relevant congressional committees and make publicly available on the website of the Commission a report on the ability of minors to access fentanyl, including through pressed pills, on social media platforms that includes the following:
@@ -21,9 +25,9 @@ This Act may be cited as the “No Fentanyl on Social Media Act”.
   - **(3)** How drug sellers use social media platforms to market, sell, deliver, distribute, dispense, and engage in other transactions related to the provision of fentanyl to minors.
   - **(4)** How design features and other characteristics of social media platforms affect the ability of minors to access fentanyl.
   - **(5)** Practices, policies, and other measures taken by social media platforms to address the ability of drug sellers to use social media platforms and the effectiveness of those practices, policies, and measures.
-  - **(6)** Other measures taken by law enforcement, the medical community, and others to address the issues described in paragraphs (1) through (4).
+  - **(6)** Other measures taken by law enforcement, the medical community, treatment providers, and others to address the issues described in paragraphs (1) through (4).
   - **(7)** Recommendations for Congress to eliminate the prevalence and ability for minors to access fentanyl on social media platforms.
-- **(b)** *Consultation required* In developing the report required under subsection (a), the Commission shall consult with stakeholders including parents, social media platforms, law enforcement, medical professionals, and other relevant experts.
+- **(b)** *Consultation required* In developing the report required under subsection (a), the Commission shall consult with stakeholders including parents, social media platforms, law enforcement, medical professionals, licensed or certified substance use treatment providers, substance use researchers, and other relevant experts.
 - **(c)** *Redaction permitted* In publishing the report required under subsection (a), the Commission, in consultation with the Attorney General, may redact any information relating to paragraphs (3) and (6) of such subsection that may compromise any law enforcement tactic, strategy, or technique.
 - **(d)** *Definitions* In this section:
   - **(1)** *Commission* The term Commission means the Federal Trade Commission.
@@ -38,3 +42,14 @@ This Act may be cited as the “No Fentanyl on Social Media Act”.
     - **(B)** does not include—
       - **(i)** a provider of broadband internet access service (as described in section 8.1(b) of title 47, Code of Federal Regulations, or successor regulation); or
       - **(ii)** electronic mail.
+  - **(6)** *Social Media Platform*
+    - **(A)** *In general* The term social media platform means a website, online service, online application, or mobile application that—
+      - **(i)** serves the public; and
+      - **(ii)** primarily provides a forum for user-generated content, including messages, videos, images, games, and audio files.
+    - **(B)** *Exclusions* The term social media platform shall not include the following:
+      - **(i)** A provider of broadband internet access service (as described in section 8.1(b) of title 47, Code of Federal Regulations, or any successor regulation).
+      - **(ii)** Electronic mail.
+      - **(iii)** A website, online service, online application, or mobile application—
+        - **(I)** that consists primarily of content that is not user generated but is preselected by the provider of such website, online service, online application, or mobile application; and
+        - **(II)** for which any chat, comment, or interactive functionality is incidental to, directly related to, or dependent on the provision of the content described in subclause (I).
+    - **(C)** *Rule of construction* Nothing in subparagraph (B)(iii) shall be construed to prohibit the Commission from including within the report required by subsection (a) the ability of minors to access fentanyl, including through pressed pills, through a website, online service, online application, or mobile application described in subparagraph (B)(iii).
