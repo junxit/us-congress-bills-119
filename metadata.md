@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 849
 congress: 119
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 849
@@ -28,3 +28,7 @@ A resolution expressing support for the designation of the week of September 11 
 
 - 2026-08-08 — Referred to the Committee on the Judiciary. (text: CR S4571)
 - 2026-08-08 — Submitted in Senate
+- 2026-09-14 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2026-09-14 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4690)
+- 2026-09-14 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2026-09-14 — Senate Committee on the Judiciary discharged by Unanimous Consent.
