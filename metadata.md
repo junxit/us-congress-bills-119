@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2317
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2317
@@ -34,3 +34,9 @@ Northern Nevada Economic Development and Conservation Act of 2026
 - 2026-09-10 — Placed on the Union Calendar, Calendar No. 710.
 - 2026-09-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-811, Part I.
 - 2026-09-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-811, Part I.
+- 2026-09-14 — Considered under suspension of the rules. (consideration: CR H5586-5598)
+- 2026-09-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2317.
+- 2026-09-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-09-14 — Mr. Amodei (NV) moved to suspend the rules and pass the bill, as amended.
+- 2026-09-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5586-5596)
+- 2026-09-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
