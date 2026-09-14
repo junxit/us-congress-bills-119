@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4795
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4795
@@ -20,9 +20,10 @@ Protect Economic and Academic Freedom Act of 2026
 
 - Rep. Gottheimer, Josh [D-NJ-5] (G000583)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Recorded votes (1)
 
@@ -51,3 +52,4 @@ Protect Economic and Academic Freedom Act of 2026
 - 2026-09-03 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 237 - 169 (Roll no. 295).
 - 2026-09-03 — Rule provides for consideration of H.R. 1501, H.R. 9436, H. Res. 1490 and H.R. 4795. The resolution provides for consideration of H.R. 1501, H.R. 9436, H.Res. 1490, and H.R. 4795 under a closed rule with one hour of general debate on each measure. The resolution provides for a motion to recommit on H.R. 1501, H.R. 9436, and H.R. 4795.
 - 2026-09-03 — The previous question was ordered pursuant to the rule.
+- 2026-09-14 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
