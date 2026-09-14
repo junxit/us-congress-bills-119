@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2388
 congress: 119
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2388
@@ -45,3 +45,6 @@ Lower Elwha Klallam Tribe Project Lands Restoration Act
 - 2026-09-14 — Committee on Indian Affairs. Reported by Senator Armstrong for Senator Murkowski without amendment. With written report No. 119-137.
 - 2026-09-14 — Committee on Indian Affairs. Reported by Senator Armstrong for Senator Murkowski without amendment. With written report No. 119-137.
 - 2026-09-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 556.
+- 2026-09-24 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5020)
+- 2026-09-24 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (consideration: CR S5020)
+- 2026-09-28 — Message on Senate action sent to the House.
