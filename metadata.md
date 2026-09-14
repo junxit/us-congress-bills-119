@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8658
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 8658
@@ -41,3 +41,9 @@ Indian Health Service Emergency Claims Parity Act
 - 2026-08-27 — Placed on the Union Calendar, Calendar No. 679.
 - 2026-08-27 — Reported by the Committee on Natural Resources. H. Rept. 119-778, Part I.
 - 2026-08-27 — Reported by the Committee on Natural Resources. H. Rept. 119-778, Part I.
+- 2026-09-14 — Considered under suspension of the rules. (consideration: CR H5576-5578)
+- 2026-09-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 8658.
+- 2026-09-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-09-14 — Mr. Westerman moved to suspend the rules and pass the bill.
+- 2026-09-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5576)
+- 2026-09-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5576)
