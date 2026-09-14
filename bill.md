@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1266
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,13 +11,13 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This title may be cited as the “Combating Illicit Xylazine Act”.
+This Act may be cited as the “Combating Illicit Xylazine Act”.
 
 ## § 2. Definitions
 
-- **(a)** *In general* In this title, the term xylazine has the meaning given the term in paragraph (60) of section 102 of the Controlled Substances Act, as added by subsection (b) of this section.
+- **(a)** *In general* In this Act, the term xylazine has the meaning given the term in paragraph (61) of section 102 of the Controlled Substances Act, as added by subsection (b) of this section.
 - **(b)** *Controlled substances act* Section 102 of the Controlled Substances Act (21 U.S.C. 802) is amended by adding at the end the following:
-  > - **(60)** The term xylazine means the substance xylazine, including its salts, isomers, and salts of isomers whenever the existence of such salts, isomers, and salts of isomers is possible.
+  > - **(61)** The term xylazine means the substance xylazine, including its salts, isomers, and salts of isomers whenever the existence of such salts, isomers, and salts of isomers is possible.
 
 ## § 3. Adding xylazine to schedule III
 
@@ -48,7 +48,7 @@ Schedule III of section 202(c) of the Controlled Substances Act (21 U.S.C. 812) 
 - **(c)** *Labeling* The requirements related to labeling, packaging, and distribution logistics of a controlled substance in schedule III of section 202(c) of the Controlled Substances Act (21 U.S.C. 812(c)) shall not take effect for xylazine until the date that is 1 year after the date of enactment of this Act.
 - **(d)** *Practitioner registration* The requirements related to practitioner registration, inventory, and recordkeeping of a controlled substance in schedule III of section 202(c) of the Controlled Substances Act (21 U.S.C. 812(c)) shall not take effect for xylazine until the date that is 60 days after the date of enactment of this Act. A practitioner that has applied for registration during the 60-day period beginning on the date of enactment of this Act may continue their lawful activities until such application is approved or denied.
 - **(e)** *Manufacturer transition* The Food and Drug Administration and the Drug Enforcement Administration shall facilitate and expedite the relevant manufacturer submissions or applications required by the placement of xylazine on schedule III of section 202(c) of the Controlled Substances Act (21 U.S.C. 812(c)).
-- **(f)** *Clarification* Nothing in this title, or the amendments made by this title, shall be construed to require the registration of an ultimate user of xylazine under the Controlled Substances Act (21 U.S.C. 801 et seq.) in order to possess xylazine in accordance with subparagraph (B) of section 102(27) of that Act (21 U.S.C. 802(27)), as added by subsection (a) of this section.
+- **(f)** *Clarification* Nothing in this Act, or the amendments made by this Act, shall be construed to require the registration of an ultimate user of xylazine under the Controlled Substances Act (21 U.S.C. 801 et seq.) in order to possess xylazine in accordance with subparagraph (B) of section 102(27) of that Act (21 U.S.C. 802(27)), as added by subsection (a) of this section.
 
 ## § 5. Arcos tracking
 
@@ -62,7 +62,7 @@ Section 307(i) of the Controlled Substances Act (21 U.S.C. 827(i)) is amended—
 
 ## § 6. Sentencing Commission
 
-Pursuant to its authority under section 994(p) of title 28, United States Code, the United States Sentencing Commission shall review and, if appropriate, amend its sentencing guidelines, policy statements, and official commentary applicable to persons convicted of an offense under section 401 of the Controlled Substances Act (21 U.S.C. 841) or section 1010 of the Controlled Substances Import and Export Act (21 U.S.C. 960) to provide appropriate penalties for offenses involving xylazine that are consistent with the amendments made by this title. In carrying out this section, the Commission should consider the common forms of xylazine as well as its use alongside other scheduled substances.
+Pursuant to its authority under section 994(p) of title 28, United States Code, the United States Sentencing Commission shall review and, if appropriate, amend its sentencing guidelines, policy statements, and official commentary applicable to persons convicted of an offense under section 401 of the Controlled Substances Act (21 U.S.C. 841) or section 1010 of the Controlled Substances Import and Export Act (21 U.S.C. 960) to provide appropriate penalties for offenses involving xylazine that are consistent with the amendments made by this Act. In carrying out this section, the Commission should consider the common forms of xylazine as well as its use alongside other scheduled substances.
 
 ## § 7. Report to Congress on xylazine
 
