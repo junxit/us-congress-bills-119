@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6633
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,23 +13,36 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “High-Capacity Grid Act”.
 
-## § 2. Best-available transmission conductor standard
+## § 2. Best-available transmission conductor class
 
-Section 205 of the Federal Power Act (16 U.S.C. 824d) is amended by adding at the end the following:
+The Federal Power Act is amended by inserting after section 223 (16 U.S.C. 824w) the following:
 
-> - **(h)** *Best-Available transmission conductor standard*
->   - **(1)** *Definitions* In this subsection:
->     - **(A)** *Best-available transmission conductor* The term best-available transmission conductor means a transmission conductor that, as determined by the Commission by rule under paragraph (5)—
->       - **(i)** provides the greatest feasible and commercially available energy-carrying capacity at a given voltage level;
->       - **(ii)** provides the highest feasible and commercially available electrical efficiency at that voltage level; and
->       - **(iii)** mitigates thermal sag at the maximum rated transmission-carrying capacity of the facility.
->     - **(B)** *Covered project* The term covered project means—
->       - **(i)** the construction of a new transmission facility subject to the jurisdiction of the Commission under section 201(b); and
->       - **(ii)** any modification, upgrade, replacement, or reconductoring of an existing transmission line subject to such jurisdiction.
->   - **(2)** *Presumption of prudence for best-available transmission conductors* In any filing seeking to recover the cost of a transmission conductor for a covered project, and in any proceeding to determine whether such cost may be recovered through rates, the Commission shall presume that the use of a best-available transmission conductor is a prudent practice and that the associated costs are just and reasonable.
->   - **(3)** *Presumption against recovery of costs for non-best-available conductors* In any filing seeking to recover the cost of a transmission conductor for a covered project, and in any proceeding to determine whether such cost may be recovered through rates, the Commission shall presume that the use of a transmission conductor that is not a best-available transmission conductor is not prudent and that the associated costs are not just and reasonable.
->   - **(4)** *Applicability* The requirements of this subsection apply only to public utilities and only with respect to covered projects that are subject to the jurisdiction of the Commission under section 201(b).
->   - **(5)** *Rulemaking* Not later than 180 days after the date of enactment of this subsection, the Commission shall promulgate regulations to implement this subsection. In promulgating such regulations, the Commission shall—
->     - **(A)** establish a methodology for determining whether a transmission conductor is a best-available transmission conductor for purposes of this subsection;
->     - **(B)** ensure that such methodology is consistent with the criteria set forth in paragraph (1)(A); and
->     - **(C)** provide for periodic review and updating of the methodology to reflect improvements in technology, materials, and system performance.
+> ## § 224. Use of best-available transmission conductors
+>
+> - **(a)** *Use of best-available transmission conductors* In exercising its authority under sections 205 and 206, the Commission shall require that public utilities use transmission conductors that are designated as part of the best-available transmission conductor class when carrying out covered projects.
+> - **(b)** *Regulations*
+>   - **(1)** *In general* Not later than 1 year after the date of enactment of this section, the Commission shall issue regulations to carry out this section.
+>   - **(2)** *Inclusions* In issuing regulations under paragraph (1), the Commission shall—
+>     - **(A)** establish, in consultation with the Secretary of Energy, a methodology to designate, as part of the best-available transmission conductors class, transmission conductors that—
+>       - **(i)** provide the greatest feasible and commercially available energy-carrying capacity at a given voltage level;
+>       - **(ii)** provide the highest feasible and commercially available electrical efficiency at that voltage level; and
+>       - **(iii)** provide the greatest feasible and commercially available level of mechanical performance, taking into account relevant factors, including reliability, safety, and affordability;
+>     - **(B)** using such methodology, designate transmission conductors as part of the best-available transmission conductor class;
+>     - **(C)** establish filing requirements for public utilities to demonstrate compliance with the regulations, including (as applicable) such information and data the Commission determines necessary to demonstrate project-specific impacts described in subparagraph (D); and
+>     - **(D)** provide that the requirement to use transmission conductors that are designated as part of the best-available transmission conductor class not apply—
+>       - **(i)** to carrying out any covered project for which a public utility, prior to the date of enactment of this section, has—
+>         - **(I)** filed for any State or Federal permit required to carry out the covered project; or
+>         - **(II)** procured any transmission conductors;
+>       - **(ii)** to the emergency replacement or repair of transmission facilities necessary to restore service following a natural disaster, act of terrorism, or other event designated as an emergency by a relevant Federal or State authority;
+>       - **(iii)** if such use would negatively impact safety or violate a reliability standard; or
+>       - **(iv)** if the public utility carrying out the covered project demonstrates such use would significantly increase the cost per kilowatt-hour of electricity without providing a material and commensurate increase to capacity, efficiency, or mechanical performance.
+> - **(c)** *Periodic review and updates* The Commission may, to reflect improvements in technology, periodically review and update—
+>   - **(1)** the methodology for designating transmission conductors as part of the best-available transmission conductor class; and
+>   - **(2)** the designation of transmission conductors as part of the best-available transmission conductor class.
+> - **(d)** *Definitions* In this section:
+>   - **(1)** *Best-available transmission conductor class* The term best-available transmission conductor class means a class of transmission conductors that are designated as part of the class pursuant to this section.
+>   - **(2)** *Commission* The term Commission means the Federal Energy Regulatory Commission.
+>   - **(3)** *Covered project* The term covered project means—
+>     - **(A)** the construction of a new transmission facility subject to the jurisdiction of the Commission under section 201(b) that includes a transmission conductor; or
+>     - **(B)** any major (as determined by the Commission) modification, upgrade, replacement, or reconductoring of an existing transmission conductor subject to such jurisdiction.
+>   - **(4)** *Reliability standard* The term reliability standard has the meaning given such term in section 215.
