@@ -1,7 +1,7 @@
 ---
 measure: S. 5163
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 5163
@@ -28,3 +28,7 @@ No Bonuses for Bad Service Act
 
 - 2026-07-29 — Introduced in Senate
 - 2026-07-29 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2026-08-06 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2026-09-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Paul with an amendment in the nature of a substitute. Without written report.
+- 2026-09-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Paul with an amendment in the nature of a substitute. Without written report.
+- 2026-09-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 570.

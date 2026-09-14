@@ -1,7 +1,7 @@
 ---
 measure: S. 5163
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,4 +33,7 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | — | add-at-end | in subsection (c), by adding at the end the following new sentence: “The Governors shall not approve any bonus, award, or other monetary compensation beyond basic pay for the Postmaster General for any fiscal year in which the Postal Ser… | the bill names no machine-readable US Code section |
 | — | add-at-end | in subsection (d), by adding at the end the following new sentence: “The Governors shall not approve any bonus, award, or other monetary compensation beyond basic pay for the Deputy Postmaster General for any fiscal year in which the Pos… | the bill names no machine-readable US Code section |
+| — | insert | Section 2804(a) of title 39, United States Code, is amended by inserting “and submitted to the Postal Regulatory Commission” before the period. | the bill names no machine-readable US Code section |
+| — | add-at-end | in subsection (c), by adding at the end the following new sentence: “The Governors shall not approve any bonus, award, or other monetary compensation beyond basic pay for the Postmaster General for any fiscal year in which— | the bill names no machine-readable US Code section |
+| — | add-at-end | in subsection (d), by adding at the end the following new sentence: “The Governors shall not approve any bonus, award, or other monetary compensation beyond basic pay for the Deputy Postmaster General for any fiscal year in which— | the bill names no machine-readable US Code section |
 | — | insert | Section 2804(a) of title 39, United States Code, is amended by inserting “and submitted to the Postal Regulatory Commission” before the period. | the bill names no machine-readable US Code section |
