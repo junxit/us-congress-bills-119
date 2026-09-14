@@ -1,7 +1,7 @@
 ---
 measure: S. 3175
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3175
@@ -16,6 +16,10 @@ CIPZIP Act of 2025
 
 - Sen. Lankford, James [R-OK] (L000575)
 
+## Cosponsors (1)
+
+- Sen. Ernst, Joni [R-IA] (E000295)
+
 ## Committees (1)
 
 - Senate — Homeland Security and Governmental Affairs Committee
@@ -24,3 +28,7 @@ CIPZIP Act of 2025
 
 - 2025-11-18 — Introduced in Senate
 - 2025-11-18 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2026-08-06 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2026-09-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Paul with an amendment in the nature of a substitute. Without written report.
+- 2026-09-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Paul with an amendment in the nature of a substitute. Without written report.
+- 2026-09-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 578.
