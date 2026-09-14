@@ -1,7 +1,7 @@
 ---
 measure: S. 3211
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3211
@@ -16,7 +16,7 @@ Recognizing the Role of Direct Support Professionals Act
 
 - Sen. Hassan, Margaret Wood [D-NH] (H001076)
 
-## Cosponsors (6)
+## Cosponsors (10)
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 - Sen. Murkowski, Lisa [R-AK] (M001153)
@@ -24,6 +24,10 @@ Recognizing the Role of Direct Support Professionals Act
 - Sen. King, Angus S., Jr. [I-ME] (K000383)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
 - Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Blunt Rochester, Lisa [D-DE] (B001303)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Kim, Andy [D-NJ] (K000394)
 
 ## Committees (1)
 
@@ -33,3 +37,7 @@ Recognizing the Role of Direct Support Professionals Act
 
 - 2025-11-19 — Introduced in Senate
 - 2025-11-19 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2026-08-06 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2026-09-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Paul with an amendment in the nature of a substitute. Without written report.
+- 2026-09-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Paul with an amendment in the nature of a substitute. Without written report.
+- 2026-09-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 567.
