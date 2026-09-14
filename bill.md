@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 741
 
-> To elevate the position of Director of the Indian Health Service within the Department of Health and Human Services to Assistant Secretary for Indian Health, and for other purposes.
+> To redesignate the position of Director of the Indian Health Service within the Department of Health and Human Services as Assistant Secretary for Indian Health, and for other purposes.
 
 ## § 1. Short title
 
