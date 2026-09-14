@@ -1,7 +1,7 @@
 ---
 measure: S. 4079
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4079
@@ -16,11 +16,13 @@ PEARL Act
 
 - Sen. Gallego, Ruben [D-AZ] (G000574)
 
-## Cosponsors (3)
+## Cosponsors (5)
 
 - Sen. Cornyn, John [R-TX] (C001056)
 - Sen. Kelly, Mark [D-AZ] (K000377)
 - Sen. McCormick, David [R-PA] (M001243)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Curtis, John R. [R-UT] (C001114)
 
 ## Committees (1)
 
@@ -30,3 +32,7 @@ PEARL Act
 
 - 2026-03-12 — Introduced in Senate
 - 2026-03-12 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2026-08-06 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported with an amendment favorably.
+- 2026-09-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Paul with an amendment. Without written report.
+- 2026-09-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Paul with an amendment. Without written report.
+- 2026-09-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 569.
