@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5174
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5174
@@ -16,9 +16,10 @@ To make revisions in title 51, United States Code, as necessary to keep the titl
 
 - Rep. Crockett, Jasmine [D-TX-30] (C001130)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -33,3 +34,4 @@ To make revisions in title 51, United States Code, as necessary to keep the titl
 - 2026-08-31 — Mr. Schmidt moved to suspend the rules and pass the bill.
 - 2026-08-31 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5319-5335)
 - 2026-08-31 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2026-09-14 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
