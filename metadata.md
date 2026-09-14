@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9436
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 9436
@@ -20,9 +20,10 @@ Northeast Lobsterman Protection Act of 2026
 
 - Rep. Golden, Jared F. [D-ME-2] (G000592)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Recorded votes (2)
 
@@ -56,3 +57,4 @@ Northeast Lobsterman Protection Act of 2026
 - 2026-09-01 — Rule provides for consideration of H.R. 1501, H.R. 9436, H. Res. 1490 and H.R. 4795. The resolution provides for consideration of H.R. 1501, H.R. 9436, H.Res. 1490, and H.R. 4795 under a closed rule with one hour of general debate on each measure. The resolution provides for a motion to recommit on H.R. 1501, H.R. 9436, and H.R. 4795.
 - 2026-09-01 — The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.
 - 2026-09-01 — The previous question was ordered pursuant to the rule.
+- 2026-09-14 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
