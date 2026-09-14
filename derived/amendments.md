@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7889
 congress: 119
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -47,4 +47,4 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 10303` | replace | in paragraph (2), by striking “(2) Research funds” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 10303` | replace | in the third sentence, by striking “Funds made” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 10303` | replace | by striking “by institutes which focuses” in the first sentence and all that follows through “Such funds when appropriated” in the second sentence and inserting the following: | the bill quotes the text struck but describes what replaces it |
-| `42 U.S.C. § 10303` | replace | by striking the subsection designation and all that follows through “2025” in the first sentence of paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 10303` | replace | by striking the subsection designation and all that follows through “only” in the first sentence of paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

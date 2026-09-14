@@ -25,7 +25,7 @@ Section 104 of the Water Resources Research Act of 1984 (42 U.S.C. 10303) is ame
   - **(A)** in paragraph (2), by striking “subsection 104(g) of this Act” and inserting “subsection (g)”; and
   - **(B)** by striking the subsection designation and all that follows through “Any sums” in paragraph (2) and inserting the following:
     > - **(f)** *General authorization of appropriations*
-    >   - **(1)** *In general* Except as provided in paragraph (2) and subject to subsection (g)(1), there is authorized to be appropriated to carry out this section $16,000,000 for each of fiscal years 2026 through 2029.
+    >   - **(1)** *In general* Except as provided in paragraph (2), there is authorized to be appropriated to carry out this section $16,000,000 for each of fiscal years 2026 through 2029.
     >   - **(2)** *Failure to obligate* Any amounts
 
 - **(2)** in subsection (g)—
@@ -43,6 +43,6 @@ Section 104 of the Water Resources Research Act of 1984 (42 U.S.C. 10303) is ame
       > - **(C)** Research that relates to water problems identified by Congress as being of an interstate nature.
       > - **(2)** *Federal cost-share* Funds made available under this subsection
 
-  - **(C)** by striking the subsection designation and all that follows through “2025” in the first sentence of paragraph (1) and inserting the following:
+  - **(C)** by striking the subsection designation and all that follows through “only” in the first sentence of paragraph (1) and inserting the following:
     > - **(g)** *Additional funds for research focused on water problems of interstate nature*
-    >   - **(1)** *In general* Of the amounts made available under subsection (f)(1) for each of fiscal years 2026 through 2029, 20 percent shall be used
+    >   - **(1)** *In general* Of the amounts authorized under subsection (f)(1) for each of fiscal years 2026 through 2029, not more than 20 percent is authorized to be used
