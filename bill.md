@@ -49,5 +49,5 @@ In this Act:
   - **(1)** Information relating to the amount of grant funds obligated or expended for the preceding fiscal year.
   - **(2)** Information relating to any purposes for which such funds were obligated or expended.
   - **(3)** Information relating to the progress in delivering public education, community outreach, and officer safety and wellness programming using funds provided under this section.
-  - **(3)** Any other information the Secretary may require to effectively administer the program under this section, as determined by the Secretary, if not later than the last day of the fiscal year the Secretary notified the Fund of such requested information.
+  - **(4)** Any other information the Secretary may require to effectively administer the program under this section, as determined by the Secretary, if not later than the last day of the fiscal year the Secretary notified the Fund of such requested information.
 - **(h)** *No additional funds authorized* No additional funds are authorized to carry out the requirements of this section, and the activities authorized by this section are subject to the availability of appropriations made in advance for such purposes.
