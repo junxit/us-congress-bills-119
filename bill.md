@@ -120,11 +120,10 @@ Section 3552, as redesignated by section 5(a) of this Act, is amended to read as
 
 - **(a)** *Conforming amendments* Subtitle C of title XXXV (33 U.S.C. 894 et seq.) is amended—
   - **(1)** by striking “individuals who work with or conduct business on behalf of the Administration” each place it appears and inserting “covered personnel”; and
-  - **(2)** by striking “National Oceanic and Atmospheric” each place it appears, except—
-    - **(A)** when it appears as “National Oceanic and Atmospheric Administration Sexual Harassment and Assault Prevention Improvements Act of 2025”;
-    - **(B)** in section 3551, in the section heading; and
-    - **(C)** in section 3552(1).
-- **(b)** *Clerical amendment* Each of the tables of contents in section 2(b) and at the beginning of title XXXV are amended by striking the items relating to sections 3548 and 3549 and inserting the following:
+  - **(2)** by striking “National Oceanic and Atmospheric” each place it appears.
+- **(b)** *Clerical amendments*
+  - **(1)** *Global table of contents* The table of contents in section 2(b) is amended by striking the items relating to sections 3548 and 3549 and inserting the following:
+  - **(2)** *Title XXXV table of contents* The table of contents at the beginning of title XXXV is amended by striking the items relating to sections 3546 and 3547 and inserting the following:
 
 ## § 8. Prohibited acts
 
