@@ -1,7 +1,7 @@
 ---
 measure: S. 283
 congress: 119
-version: Engrossed Amendment House
+version: Enrolled Bill
 ---
 
 # S. 283
@@ -46,3 +46,6 @@ Illegal Red Snapper and Tuna Enforcement Act
 - 2026-09-14 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
 - 2026-09-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5557-5558)
 - 2026-09-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2026-09-15 — Message on House action received in Senate and at desk: House amendment to Senate bill.
+- 2026-09-24 — Resolving differences -- Senate actions: Senate agreed to the House amendment to S. 283 by Unanimous Consent.
+- 2026-09-24 — Senate agreed to the House amendment to S. 283 by Unanimous Consent. (consideration: CR S5020)
