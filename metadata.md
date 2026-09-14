@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5235
 congress: 119
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5235
@@ -44,3 +44,5 @@ Skills-Based Federal Contracting Act of 2025
 - 2026-09-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Paul without amendment. Without written report.
 - 2026-09-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Paul without amendment. Without written report.
 - 2026-09-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 571.
+- 2026-09-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5295)
+- 2026-09-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
