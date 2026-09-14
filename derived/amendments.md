@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9615
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -26,9 +26,9 @@ to guess them.
 
 ### 42 U.S.C. § 14323
 
-> Section 104(a) of the Mercury-Containing and Rechargeable Battery Management Act (42 U.S.C. 14323(a)) is amended by striking “60 Fed. Reg. 25492 (May 11, 1995), as effective on May 11, 1995”, and inserting “part 273 of title 40, Code of Federal Regulations (or any successor regulations)”.
+> Section 104(a) of the Mercury-Containing and Rechargeable Battery Management Act (42 U.S.C. 14323(a)) is amended by striking “the regulations promulgated by the Environmental Protection Agency at 60 Fed. Reg. 25492 (May 11, 1995), as effective on May 11, 1995” and inserting “part 273 of title 40, Code of Federal Regulations (or any successor regulations)”.
 
 | | |
 |---|---|
-| Removed | `60 Fed. Reg. 25492 (May 11, 1995), as effective on May 11, 1995` |
+| Removed | `the regulations promulgated by the Environmental Protection Agency at 60 Fed. Reg. 25492 (May 11, 1995), as effective on May 11, 1995` |
 | Inserted | `part 273 of title 40, Code of Federal Regulations (or any successor regulations)` |
