@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2140
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 2140
@@ -32,3 +32,8 @@ Diesel Emissions Reduction Act of 2025
 - 2025-03-14 — Introduced in House
 - 2025-03-14 — Referred to the House Committee on Energy and Commerce.
 - 2025-03-14 — Referred to the Subcommittee on Environment.
+- 2026-07-14 — Forwarded by Subcommittee to Full Committee by Voice Vote.
+- 2026-07-14 — Subcommittee Consideration and Mark-up Session Held
+- 2026-09-14 — Placed on the Union Calendar, Calendar No. 718.
+- 2026-09-14 — Reported by the Committee on Energy and Commerce. H. Rept. 119-819.
+- 2026-09-14 — Reported by the Committee on Energy and Commerce. H. Rept. 119-819.
