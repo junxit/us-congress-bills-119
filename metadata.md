@@ -1,7 +1,7 @@
 ---
 measure: S. 164
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 164
@@ -16,13 +16,14 @@ Midnight Rules Relief Act of 2025
 
 - Sen. Johnson, Ron [R-WI] (J000293)
 
-## Cosponsors (5)
+## Cosponsors (6)
 
 - Sen. Blackburn, Marsha [R-TN] (B001243)
 - Sen. Lummis, Cynthia M. [R-WY] (L000571)
 - Sen. Schmitt, Eric [R-MO] (S001227)
 - Sen. Sheehy, Tim [R-MT] (S001232)
 - Sen. Lankford, James [R-OK] (L000575)
+- Sen. Scott, Rick [R-FL] (S001217)
 
 ## Committees (1)
 
@@ -32,3 +33,7 @@ Midnight Rules Relief Act of 2025
 
 - 2025-01-21 — Introduced in Senate
 - 2025-01-21 — Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
+- 2026-08-06 — Committee on Homeland Security and Governmental Affairs. Ordered to be reported without amendment favorably.
+- 2026-09-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Paul without amendment. Without written report.
+- 2026-09-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Paul without amendment. Without written report.
+- 2026-09-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 564.
