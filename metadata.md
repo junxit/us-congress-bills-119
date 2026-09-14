@@ -1,7 +1,7 @@
 ---
 measure: S. 3404
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3404
@@ -28,3 +28,7 @@ Satellite Cybersecurity Act of 2025
 
 - 2025-12-09 — Introduced in Senate
 - 2025-12-09 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2026-04-14 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2026-09-14 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-141.
+- 2026-09-14 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-141.
+- 2026-09-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 560.
