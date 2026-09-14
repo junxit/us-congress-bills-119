@@ -52,7 +52,7 @@ Section 307 of the National Oceanic and Atmospheric Administration Authorization
 
 - **(3)** by striking subsections (c), (d), and (e); and
 - **(4)** by adding at the end the following:
-  > - **(c)** *Program Activities*
+  > - **(c)** *Program activities*
   >   - **(1)** *In general* The Administrator, acting through the Director, shall implement the program activities authorized by this section to support the activity of the Chesapeake Executive Council and to further the purposes of this section.
   >   - **(2)** *Ensuring scientific and technical merit* The Director shall—
   >     - **(A)** establish and use an effective and transparent mechanism to ensure that projects funded under this section have undergone appropriate peer review; and
@@ -104,9 +104,7 @@ Section 307 of the National Oceanic and Atmospheric Administration Authorization
   >   - **(2)** *Action plan* Each such report shall include an action plan for the 2-year period following submission of the report, consisting of—
   >     - **(A)** a list of recommended research, monitoring, and data collection activities necessary to continue implementation of the strategy under subsection (b)(2); and
   >     - **(B)** recommendations to integrate National Oceanic and Atmospheric Administration activities with the activities of the partners in the Chesapeake Bay Program to meet the commitments of the Chesapeake Bay Agreement and subsequent agreements.
-  > - **(f)** *Agreements*
-  >   - **(1)** *In general* The Administrator, acting through the Director, may enter into and perform such contracts, leases, grants, or cooperative agreements as may be necessary to carry out the purposes of this Act.
-  >   - **(2)** *Use of other resources* For purposes related to the understanding, protection, and restoration of Chesapeake Bay, the Director may use, with consent and with or without reimbursement, the land, services, equipment, personnel, and facilities of any Department, agency, or instrumentality of the United States, or of any State, local government, Indian Tribe, or of any political subdivision thereof.
+  > - **(f)** *Agreements* The Administrator, acting through the Director, may enter into and perform such contracts, leases, grants, or cooperative agreements as may be necessary to carry out the purposes of this Act.
   > - **(g)** *Definitions* In this section:
   >   - **(1)** *Administrator* The term Administrator means the Administrator of the National Oceanic and Atmospheric Administration.
   >   - **(2)** *Chesapeake bay agreement; Chesapeake bay ecosystem; Chesapeake bay program; Chesapeake executive council* The terms Chesapeake Bay Agreement, Chesapeake Bay ecosystem, Chesapeake Bay Program, and Chesapeake Executive Council have the meanings given those terms in section 117(a) of the Federal Water Pollution Control Act (33 U.S.C. 1267(a)).
