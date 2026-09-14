@@ -1,7 +1,7 @@
 ---
 measure: S. 3791
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 2 executed, 4 stated and not applied.
+19 amendatory instructions. 7 executed, 12 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -42,6 +42,51 @@ to guess them.
 | Removed | `2023 through 2027` |
 | Inserted | `2026 through 2031` |
 
+### 16 U.S.C. § 1468
+
+> in subsection (a)(2), by striking “the term Coastal state in section” and inserting “the term coastal state in section”;
+
+| | |
+|---|---|
+| Removed | `the term Coastal state in section` |
+| Inserted | `the term coastal state in section` |
+
+### 16 U.S.C. § 1468
+
+> in subparagraph (A), by striking “Mexico” and inserting “America”; and
+
+| | |
+|---|---|
+| Removed | `Mexico` |
+| Inserted | `America` |
+
+### 16 U.S.C. § 1468
+
+> in subsection (c)(1), by striking “coastal state” each place it appears and inserting “coastal State”;
+
+| | |
+|---|---|
+| Removed | `coastal state` |
+| Inserted | `coastal State` |
+
+### 16 U.S.C. § 1468
+
+> in paragraph (2), by striking “The report” and inserting “Each report”; and
+
+| | |
+|---|---|
+| Removed | `The report` |
+| Inserted | `Each report` |
+
+### 16 U.S.C. § 1468
+
+> in paragraph (3), by striking “2023 through 2027” and inserting “2026 through 2031”; and
+
+| | |
+|---|---|
+| Removed | `2023 through 2027` |
+| Inserted | `2026 through 2031` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -54,4 +99,12 @@ complete account of the bill's effect, which it is not.
 | `16 U.S.C. § 1468` | insert | in paragraph (1), by inserting “and not later than 5 years after the date of enactment of the Regional Ocean Partnerships Reauthorization Act of 2026,” after “this Act,”; and | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 1468` | strike | by striking subparagraphs (A), (B), and (C); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1468` | redesignate | by redesignating subparagraphs (D) and (E) as subparagraphs (A) and (B), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1468` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1468` | insert | in paragraph (2)(D), by inserting “or enforcement” after “regulatory”; and | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 1468` | strike | in subparagraph (B), by striking “Vermont,”; | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 1468` | strike | in subsection (f)(2)(B), by striking “natural and human-induced”; | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 1468` | insert | in paragraph (1), by inserting “and not later than 5 years after the date of enactment of the Regional Ocean Partnerships Reauthorization Act,” after “this Act,”; and | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 1468` | strike | by striking subparagraphs (A), (B), and (C); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1468` | redesignate | by redesignating subparagraphs (D) and (E) as subparagraphs (A) and (B), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1468` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1468` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
