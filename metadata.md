@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1501
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1501
@@ -21,9 +21,10 @@ Protecting Domestic Mining Act of 2025
 - Rep. Moore, Blake D. [R-UT-1] (M001213)
 - Rep. Griffith, H. Morgan [R-VA-9] (G000568)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Recorded votes (1)
 
@@ -56,3 +57,4 @@ Protecting Domestic Mining Act of 2025
 - 2026-09-02 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 218 - 201 (Roll no. 294). (text: CR H5452)
 - 2026-09-02 — Rule provides for consideration of H.R. 1501, H.R. 9436, H. Res. 1490 and H.R. 4795. The resolution provides for consideration of H.R. 1501, H.R. 9436, H.Res. 1490, and H.R. 4795 under a closed rule with one hour of general debate on each measure. The resolution provides for a motion to recommit on H.R. 1501, H.R. 9436, and H.R. 4795.
 - 2026-09-02 — The previous question was ordered pursuant to the rule.
+- 2026-09-14 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
