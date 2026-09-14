@@ -7,7 +7,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 # H.R. 6021
 
-> To amend the Migratory Bird Treaty Act to clarify the treatment of authentic Alaska Native articles of handicraft containing nonedible migratory bird parts, and for other purposes.
+> To clarify the treatment of authentic Alaska Native articles of handicraft containing nonedible migratory bird parts under the Migratory Bird Treaty Act, and for other purposes.
 
 ## § 1. Short title
 

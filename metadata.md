@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6021
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 6021
@@ -32,3 +32,10 @@ Archie Cavanaugh Migratory Bird Treaty Clarification Act
 - 2026-08-27 — Placed on the Union Calendar, Calendar No. 675.
 - 2026-08-27 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-774.
 - 2026-08-27 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-774.
+- 2026-09-14 — Considered under suspension of the rules. (consideration: CR H5564-5566)
+- 2026-09-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 6021.
+- 2026-09-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-09-14 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
+- 2026-09-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5564-5565)
+- 2026-09-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2026-09-14 — The title of the measure was amended. Agreed to without objection.
