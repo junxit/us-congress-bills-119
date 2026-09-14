@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4931
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4931
@@ -33,3 +33,9 @@ National Park System Long-Term Lease Investment Act
 - 2026-09-10 — Placed on the Union Calendar, Calendar No. 709.
 - 2026-09-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-810.
 - 2026-09-10 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-810.
+- 2026-09-14 — Considered under suspension of the rules. (consideration: CR H5562-5563)
+- 2026-09-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4931.
+- 2026-09-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-09-14 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
+- 2026-09-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5562)
+- 2026-09-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
