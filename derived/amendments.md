@@ -1,7 +1,7 @@
 ---
 measure: H.R. 681
 congress: 119
-version: Referred in Senate
+version: Reported to Senate
 derived: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 681
 congress: 119
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 681
@@ -42,3 +42,7 @@ To amend the Act of August 9, 1955 (commonly known as the “Long-Term Leasing A
 - 2026-03-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2358)
 - 2026-03-03 — The title of the measure was amended. Agreed to without objection.
 - 2026-03-04 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
+- 2026-05-20 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2026-09-14 — Committee on Indian Affairs. Reported by Senator Armstrong for Senator Murkowski without amendment. With written report No. 119-136.
+- 2026-09-14 — Committee on Indian Affairs. Reported by Senator Armstrong for Senator Murkowski without amendment. With written report No. 119-136.
+- 2026-09-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 555.
