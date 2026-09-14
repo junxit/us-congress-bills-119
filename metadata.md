@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8454
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 8454
@@ -33,3 +33,9 @@ To provide for the transfer of administrative jurisdiction over certain Federal 
 - 2026-08-27 — Placed on the Union Calendar, Calendar No. 678.
 - 2026-08-27 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-777.
 - 2026-08-27 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-777.
+- 2026-09-14 — Considered under suspension of the rules. (consideration: CR H5567-5568)
+- 2026-09-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 8454.
+- 2026-09-14 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-09-14 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
+- 2026-09-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5567)
+- 2026-09-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5567)
