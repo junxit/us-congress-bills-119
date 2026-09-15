@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5063
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5063
@@ -16,9 +16,10 @@ Safe Beaches, Safe Swimmers Act
 
 - Rep. Kiggans, Jennifer A. [R-VA-2] (K000399)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Safe Beaches, Safe Swimmers Act
 - 2026-09-14 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
 - 2026-09-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5563)
 - 2026-09-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2026-09-15 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
