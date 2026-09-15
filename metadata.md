@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5517
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5517
@@ -16,7 +16,7 @@ Northern Border Security Enhancement and Review Act
 
 - Rep. Langworthy, Nicholas A. [R-NY-23] (L000600)
 
-## Cosponsors (12)
+## Cosponsors (27)
 
 - Rep. Alford, Mark [R-MO-4] (A000379)
 - Rep. Weber, Randy K. Sr. [R-TX-14] (W000814)
@@ -30,6 +30,21 @@ Northern Border Security Enhancement and Review Act
 - Rep. Luna, Anna Paulina [R-FL-13] (L000596)
 - Rep. Van Drew, Jefferson [R-NJ-2] (V000133)
 - Rep. Begich, Nicholas J. [R-AK-At Large] (B001323)
+- Rep. Grothman, Glenn [R-WI-6] (G000576)
+- Rep. Smith, Christopher H. [R-NJ-4] (S000522)
+- Rep. Fry, Russell [R-SC-7] (F000478)
+- Rep. Huizenga, Bill [R-MI-4] (H001058)
+- Rep. Kelly, Mike [R-PA-16] (K000376)
+- Rep. Malliotakis, Nicole [R-NY-11] (M000317)
+- Rep. Thompson, Glenn [R-PA-15] (T000467)
+- Rep. Newhouse, Dan [R-WA-4] (N000189)
+- Rep. Fleischmann, Charles J. "Chuck" [R-TN-3] (F000459)
+- Rep. Finstad, Brad [R-MN-1] (F000475)
+- Rep. Fulcher, Russ [R-ID-1] (F000469)
+- Rep. Fedorchak, Julie [R-ND-At Large] (F000482)
+- Rep. Franklin, Scott [R-FL-18] (F000472)
+- Rep. Mackenzie, Ryan [R-PA-7] (M001230)
+- Rep. Pappas, Chris [D-NH-1] (P000614)
 
 ## Committees (1)
 
@@ -40,3 +55,10 @@ Northern Border Security Enhancement and Review Act
 - 2025-09-19 — Introduced in House
 - 2025-09-19 — Introduced in House
 - 2025-09-19 — Referred to the House Committee on Homeland Security.
+- 2025-09-22 — Referred to the Subcommittee on Border Security and Enforcement.
+- 2026-06-24 — Committee Consideration and Mark-up Session Held
+- 2026-06-24 — Ordered to be Reported by the Yeas and Nays: 28 - 2.
+- 2026-06-24 — Subcommittee on Border Security and Enforcement Discharged
+- 2026-09-15 — Placed on the Union Calendar, Calendar No. 728.
+- 2026-09-15 — Reported by the Committee on Homeland Security. H. Rept. 119-830.
+- 2026-09-15 — Reported by the Committee on Homeland Security. H. Rept. 119-830.
