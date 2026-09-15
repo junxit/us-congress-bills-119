@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3925
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3925
@@ -16,9 +16,10 @@ Yuhaaviatam of San Manuel Nation Land Exchange Act
 
 - Rep. Obernolte, Jay [R-CA-23] (O000019)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Yuhaaviatam of San Manuel Nation Land Exchange Act
 - 2026-09-14 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
 - 2026-09-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5580)
 - 2026-09-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2026-09-15 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
