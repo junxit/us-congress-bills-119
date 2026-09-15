@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4646
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4646
@@ -31,6 +31,10 @@ Whistleblower Protection Act of 2025
 - House — Oversight and Government Reform Committee
 - House — Financial Services Committee
 
+## Recorded votes (1)
+
+- 2026-09-15 — [House 119-2-303](votes/house-119-2-0303.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (424–0)
+
 ## Actions
 
 - 2025-07-23 — Introduced in House
@@ -45,3 +49,11 @@ Whistleblower Protection Act of 2025
 - 2026-09-01 — Placed on the Union Calendar, Calendar No. 686.
 - 2026-09-01 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-786, Part I.
 - 2026-09-01 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-786, Part I.
+- 2026-09-14 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2026-09-14 — Considered under suspension of the rules. (consideration: CR H5608-5609)
+- 2026-09-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4646.
+- 2026-09-14 — Ms. De La Cruz moved to suspend the rules and pass the bill, as amended.
+- 2026-09-15 — Considered as unfinished business. (consideration: CR H5823-5824)
+- 2026-09-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 424 - 0 (Roll no. 303). (text: CR H5608)
+- 2026-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 424 - 0 (Roll no. 303). (text: CR H5608)
