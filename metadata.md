@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8278
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 8278
@@ -24,6 +24,10 @@ Fostering the Use of Technology to Uphold Regulatory Effectiveness in Supervisio
 
 - House — Financial Services Committee
 
+## Recorded votes (1)
+
+- 2026-09-15 — [House 119-2-302](votes/house-119-2-0302.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (417–7)
+
 ## Actions
 
 - 2026-04-14 — Introduced in House
@@ -34,3 +38,11 @@ Fostering the Use of Technology to Uphold Regulatory Effectiveness in Supervisio
 - 2026-06-24 — Placed on the Union Calendar, Calendar No. 617.
 - 2026-06-24 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-711.
 - 2026-06-24 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-711.
+- 2026-09-14 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2026-09-14 — Considered under suspension of the rules. (consideration: CR H5605-5608)
+- 2026-09-14 — DEBATE - The House proceeded with forty minutes of debate on H.R. 8278.
+- 2026-09-14 — Ms. De La Cruz moved to suspend the rules and pass the bill, as amended.
+- 2026-09-15 — Considered as unfinished business. (consideration: CR H5822-5823)
+- 2026-09-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 7 (Roll no. 302). (text: CR H5605)
+- 2026-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 7 (Roll no. 302). (text: CR H5605)
