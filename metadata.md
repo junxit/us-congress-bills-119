@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2004
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 2004
@@ -102,3 +102,9 @@ Tyler’s Law
 - 2026-09-14 — Placed on the Union Calendar, Calendar No. 716.
 - 2026-09-14 — Reported by the Committee on Energy and Commerce. H. Rept. 119-817.
 - 2026-09-14 — Reported by the Committee on Energy and Commerce. H. Rept. 119-817.
+- 2026-09-15 — Considered under suspension of the rules. (consideration: CR H5673-5674)
+- 2026-09-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 2004.
+- 2026-09-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-09-15 — Mr. Guthrie moved to suspend the rules and pass the bill.
+- 2026-09-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5673)
+- 2026-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
