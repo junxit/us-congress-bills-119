@@ -1,7 +1,7 @@
 ---
 measure: H.R. 10159
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 10159
@@ -32,9 +32,10 @@ To authorize the Secretary of the Army to convey to the State of North Carolina 
 - Rep. Adams, Alma S. [D-NC-12] (A000370)
 - Rep. Moore, Tim [R-NC-14] (M001236)
 
-## Committees (1)
+## Committees (2)
 
 - House — Armed Services Committee
+- Senate — Armed Services Committee
 
 ## Actions
 
@@ -47,3 +48,4 @@ To authorize the Secretary of the Army to convey to the State of North Carolina 
 - 2026-09-14 — Mr. Harrigan moved to suspend the rules and pass the bill.
 - 2026-09-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5544)
 - 2026-09-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2026-09-15 — Received in the Senate and Read twice and referred to the Committee on Armed Services.
