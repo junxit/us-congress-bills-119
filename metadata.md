@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8454
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 8454
@@ -39,3 +39,4 @@ To provide for the transfer of administrative jurisdiction over certain Federal 
 - 2026-09-14 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
 - 2026-09-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5567)
 - 2026-09-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5567)
+- 2026-09-15 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 617.
