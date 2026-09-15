@@ -31,7 +31,7 @@ This Act may be cited as the “I&A Mission Reorientation Act of 2026”.
   > - **(24)** To ensure the Office of Intelligence and Analysis’s operational mission of providing timely and efficient intelligence support to State, local, Tribal, and territorial governments and private sector entities is equally prioritized and resourced relevant to support provided to elements of the intelligence community by carrying out the following:
   >   - **(A)** Identifying and addressing emerging threats through forward-deployed intelligence capabilities.
   >   - **(B)** Facilitating two-way information sharing characterized by both the receipt of intelligence from such governments and entities, and the dissemination of actionable intelligence to such governments and entities.
-  >   - **(C)** Maintaining robust and sustained engagement with fusion centers (as such term is defined in section 210A).
+  >   - **(C)** Maintaining robust, proficient, and sustained engagement with fusion centers (as such term is defined in section 210A).
   >   - **(D)** Ensuring intelligence support from the Office provided to departmental leadership, including the Secretary, does not hinder or deprioritize broader responsibilities of the Office to State, local, Tribal, and territorial governments and private sector entities.
 
 - **(b)** *Report* Not later than 180 days after the date of the enactment of this Act, the Under Secretary for Intelligence and Analysis of the Department of Homeland Security shall submit to the Committee on Homeland Security and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Select Committee on Intelligence of the Senate a report detailing the following:
