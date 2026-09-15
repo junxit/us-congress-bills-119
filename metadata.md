@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6893
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6893
@@ -26,9 +26,10 @@ Chesapeake Bay Watershed Advancement for Training, Education, Restoration, and S
 - Rep. McClellan, Jennifer L. [D-VA-4] (M001227)
 - Rep. McClain Delaney, April [D-MD-6] (M001232)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ Chesapeake Bay Watershed Advancement for Training, Education, Restoration, and S
 - 2026-09-14 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
 - 2026-09-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5584-5585)
 - 2026-09-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2026-09-15 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
