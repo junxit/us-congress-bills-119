@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 204
 congress: 119
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 204
@@ -16,9 +16,10 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Sen. Schiff, Adam B. [D-CA] (S001150)
 
-## Cosponsors (1)
+## Cosponsors (2)
 
 - Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Wyden, Ron [D-OR] (W000779)
 
 ## Committees (1)
 
@@ -28,3 +29,6 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - 2026-08-03 — Introduced in Senate
 - 2026-08-03 — Read twice and referred to the Committee on Environment and Public Works.
+- 2026-09-15 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 618.
+- 2026-09-15 — Senate Committee on Environment and Public Works discharged, by petition, pursuant to 5 U.S.C. 802(c).
+- 2026-09-15 — Senate Committee on Environment and Public Works discharged, by petition, pursuant to 5 U.S.C. 802(c).
