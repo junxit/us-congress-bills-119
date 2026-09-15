@@ -1,7 +1,7 @@
 ---
 measure: H.R. 10159
 congress: 119
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 10159
@@ -49,3 +49,7 @@ To authorize the Secretary of the Army to convey to the State of North Carolina 
 - 2026-09-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5544)
 - 2026-09-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
 - 2026-09-15 — Received in the Senate and Read twice and referred to the Committee on Armed Services.
+- 2026-09-29 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5186)
+- 2026-09-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (consideration: CR S5186)
+- 2026-09-29 — Senate Committee on Armed Services discharged by Unanimous Consent.
+- 2026-09-29 — Senate Committee on Armed Services discharged by Unanimous Consent.
