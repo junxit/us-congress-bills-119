@@ -1,0 +1,33 @@
+---
+legis-num: S. 5395
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 5395
+
+> To amend the Internal Revenue Code of 1986 to exclude from gross income any compensatory damages with respect to sexual assault claims, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Survivor Justice Tax Prevention Act”.
+
+## § 2. Exclusion from gross income of any damages, other than punitive damages, received on account of sexual acts or sexual contact
+
+- **(a)** *In general* Section 104(a)(2) of the Internal Revenue Code of 1986 is amended by striking “on account of personal physical injuries or physical sickness;” and inserting
+  > on account of—
+  > - **(A)** personal physical injuries or physical sickness, or
+  > - **(B)** any sexual act (as defined in paragraph (2) of section 2246 of title 18, United States Code, as in effect on the date of the enactment of this subparagraph) or sexual contact (as defined in paragraph (3) of such section, as so in effect), whether or not there are medical records or observable injuries of such act or contact;
+
+- **(b)** *Burden of proof with respect to whether damages are on account of sexual act or sexual contact* Section 104 of such Code is amended by redesignating subsection (d) as subsection (e) and by inserting after subsection (c) the following new subsection:
+  > - **(d)** *Burden of proof with respect to whether damages are on account of sexual act or sexual contact* For purposes of subsection (a)(2), if a decision or agreement states that any damages received therefrom are on account of a sexual act or sexual contact referred to in subsection (a)(2)(B)—
+  >   - **(1)** such statement shall be treated as credible evidence that such damages are so on account for purposes of section 7491(a), and
+  >   - **(2)** the taxpayer shall be treated as having met the requirements of section 7491(a)(2) with respect to the issue of whether such damages are so on account.
+
+- **(c)** *Effective date*
+  - **(1)** *In general* The amendments made by this section shall apply to amounts received pursuant to decisions made, and agreements entered into, after the date of the enactment of this Act.
+  - **(2)** *Special rule for decisions* For purposes of paragraph (1), a decision shall be treated as made after the date of the enactment of this Act if the first payment pursuant to such decision is received after such date.
+  - **(3)** *Special rule for agreements* For purposes of paragraph (1), an agreement shall not be treated as entered into after the date of the enactment of this Act if such agreement replaces, supersedes, or revises an agreement entered into on or before such date.
+- **(d)** *No inference with respect to effect of medical records or observable injuries on determinations with respect to personal physical injuries or physical sickness* No inference may be drawn from the amendment made by subsection (a) (or from section 104(a)(2)(B) of the Internal Revenue Code of 1986, as amended by subsection (a)) with respect to whether the term personal physical injuries or physical sickness as used in section 104(a)(2) of such Code includes injuries or sickness with respect to which there are no medical records or observable injuries.
+- **(e)** *Promotion of public awareness of exclusion* The Secretary of the Treasury (or the Secretary’s delegate), in consultation with the Department of Justice Office on Violence Against Women and other relevant Federal agencies, shall conduct a program to promote public awareness of the exclusion from gross income provided by section 104(a)(2)(B) of the Internal Revenue Code of 1986, as amended by this section.
