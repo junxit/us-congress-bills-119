@@ -1,7 +1,7 @@
 ---
 measure: H.R. 10167
 congress: 119
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 10167
@@ -37,3 +37,7 @@ Common Cents Act
 - 2026-09-14 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5599-5601)
 - 2026-09-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
 - 2026-09-15 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
+- 2026-09-28 — Passed Senate without amendment by Unanimous Consent.
+- 2026-09-28 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2026-09-28 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S5120)
+- 2026-09-28 — Senate Committee on Banking, Housing, and Urban Affairs discharged by Unanimous Consent. (consideration: CR S5120)
