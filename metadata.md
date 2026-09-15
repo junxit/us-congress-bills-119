@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4219
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4219
@@ -20,9 +20,10 @@ National Wildlife Refuge System Invasive Species Strike Team Act of 2025
 
 - Del. Moylan, James C. [R-GU-At Large] (M001219)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (1)
 
@@ -50,3 +51,4 @@ National Wildlife Refuge System Invasive Species Strike Team Act of 2025
 - 2026-09-14 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
 - 2026-09-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 371 - 33 (Roll no. 296). (text: CR H5560-5561)
 - 2026-09-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 371 - 33 (Roll no. 296).
+- 2026-09-15 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
