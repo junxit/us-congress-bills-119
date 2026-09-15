@@ -1,7 +1,7 @@
 ---
 measure: H.R. 741
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 741
@@ -22,10 +22,11 @@ Stronger Engagement for Indian Health Needs Act of 2025
 - Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
 - Rep. Lofgren, Zoe [D-CA-18] (L000397)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Natural Resources Committee
+- Senate — Indian Affairs Committee
 
 ## Actions
 
@@ -50,3 +51,4 @@ Stronger Engagement for Indian Health Needs Act of 2025
 - 2026-09-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5568)
 - 2026-09-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2026-09-14 — The title of the measure was amended. Agreed to without objection.
+- 2026-09-15 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
