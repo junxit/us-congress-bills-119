@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9496
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 9496
@@ -35,3 +35,9 @@ End Tax Penalties on American Hostages Act
 - 2026-09-08 — Placed on the Union Calendar, Calendar No. 697.
 - 2026-09-08 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-797.
 - 2026-09-08 — Reported (Amended) by the Committee on Ways and Means. H. Rept. 119-797.
+- 2026-09-15 — Considered under suspension of the rules. (consideration: CR H5683-5685)
+- 2026-09-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 9496.
+- 2026-09-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-09-15 — Mr. Smith (MO) moved to suspend the rules and pass the bill, as amended.
+- 2026-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5683-5684)
+- 2026-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
