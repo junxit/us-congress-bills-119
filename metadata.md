@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2317
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 2317
@@ -16,10 +16,11 @@ Northern Nevada Economic Development and Conservation Act of 2026
 
 - Rep. Amodei, Mark E. [R-NV-2] (A000369)
 
-## Committees (2)
+## Committees (3)
 
 - House — Agriculture Committee
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Northern Nevada Economic Development and Conservation Act of 2026
 - 2026-09-14 — Mr. Amodei (NV) moved to suspend the rules and pass the bill, as amended.
 - 2026-09-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5586-5596)
 - 2026-09-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2026-09-15 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
