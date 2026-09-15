@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Health Data Access, Transparency, and Affordability Act of 2026”.
+This Act may be cited as the “Health Data Access, Transparency, and Affordability Act of 2026” or the “Health DATA Act of 2026”.
 
 ## § 2. Increasing group health plan access to health data
 
@@ -25,7 +25,7 @@ This Act may be cited as the “Health Data Access, Transparency, and Affordabil
 
   - **(2)** *In general* Section 408(b)(2) of such Act (29 U.S.C. 1108(b)(2)) is amended by adding at the end the following:
     > - **(D)** No contract or arrangement for services, whether direct or indirect, and no extension or renewal of such contract or arrangement, between a group health plan (as defined in section 733(a)) and any other person or entity, including a network service provider, is reasonable within the meaning of this paragraph unless such contract or arrangement—
-    >   - **(i)** allows the responsible plan fiduciary (as that term is defined in subparagraph (B)(ii)(I)) and the designated agent (which may include the plan sponsor, the plan administrator, or a business associate (other than such other party or entity (or its subsidiaries or affiliates))) of such fiduciary access to all claims and encounter information described in section 724(a)(1)(B), and any documentation, including medical records and policy documents, supporting claim payments; and
+    >   - **(i)** allows the responsible plan fiduciary (as that term is defined in subparagraph (B)(ii)(I)) and the designated agent (which may include the plan sponsor, the plan administrator, or a business associate (other than such other party or entity (or its subsidiaries or affiliates)) of such fiduciary access to all claims and encounter information described in section 724(a)(1)(B), and any documentation, including medical records and policy documents, supporting claim payments; and
     >   - **(ii)** does not—
     >     - **(I)** limit or delay access by the responsible plan fiduciary or designated agent to claims and encounter information or data for longer than 15 days or a period determined appropriate by the Secretary, whichever is shorter;
     >     - **(II)** limit the amount of claims and encounter information or data that the responsible plan fiduciary or designated agent may access pursuant to any request for such information or data;
@@ -69,7 +69,7 @@ This Act may be cited as the “Health Data Access, Transparency, and Affordabil
   - **(5)** *Prohibition on indemnification of service providers for civil penalties* Section 410(a) of such Act (29 U.S.C. 1110(a)) is amended—
     - **(A)** by striking “Except” and inserting “(1) Except”; and
     - **(B)** by adding at the end the following:
-      > - **(2)** Except as provided in subsection 410(b)(2), no person or entity subject to a civil enforcement penalty under section 502(a)(13), 502(a)(14), 502(a)(15) or section 727(d) may be indemnified, directly or indirectly, or otherwise relieved from liability for any penalty, responsibility, obligation, or duty of such person or entity under this title.
+      > - **(2)** Except as provided in subsection 410(b)(2), no person or entity subject to a civil enforcement penalty under section 502(c)(13) or 502(c)(14) may be indemnified, directly or indirectly, or otherwise relieved from liability for any penalty, responsibility, obligation, or duty of such person or entity under this title.
       > - **(3)** Any provision of a contract or agreement in violation of paragraph (2) shall be void as against public policy.
 
 - **(b)** *Updated attestation for price and quality information* Section 724(a)(3) of such Act (29 U.S.C. 1185m(a)(3)) is amended to read as follows:
