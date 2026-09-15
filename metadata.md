@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3276
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 3276
@@ -40,9 +40,10 @@ Local Communities & Bird Habitat Stewardship Act of 2026
 - Rep. Deluzio, Christopher R. [D-PA-17] (D000530)
 - Rep. Khanna, Ro [D-CA-17] (K000389)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Environment and Public Works Committee
 
 ## Recorded votes (1)
 
@@ -69,3 +70,4 @@ Local Communities & Bird Habitat Stewardship Act of 2026
 - 2026-09-14 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
 - 2026-09-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 345 - 60 (Roll no. 297). (text: CR H5578-5579)
 - 2026-09-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 345 - 60 (Roll no. 297).
+- 2026-09-15 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
