@@ -1,0 +1,36 @@
+---
+measure: H.R. 10380
+congress: 119
+version: Introduced in House
+---
+
+# H.R. 10380
+
+Problem Solvers Independent Commissions Act
+
+> Recorded as of this version. Later cosponsors and actions are
+> omitted, so this file is the state of the measure at this point in
+> its progress, not its final record.
+
+## Sponsor
+
+- Rep. Fitzpatrick, Brian K. [R-PA-1] (F000466)
+
+## Cosponsors (6)
+
+- Rep. Dingell, Debbie [D-MI-6] (D000624)
+- Rep. Hurd, Jeff [R-CO-3] (H001100)
+- Rep. Carbajal, Salud O. [D-CA-24] (C001112)
+- Rep. Lawler, Michael [R-NY-17] (L000599)
+- Rep. Case, Ed [D-HI-1] (C001055)
+- Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
+
+## Committees (1)
+
+- House — Judiciary Committee
+
+## Actions
+
+- 2026-09-15 — Introduced in House
+- 2026-09-15 — Introduced in House
+- 2026-09-15 — Referred to the House Committee on the Judiciary.
