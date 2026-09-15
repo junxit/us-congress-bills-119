@@ -1,7 +1,7 @@
 ---
 measure: H.R. 979
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 979
@@ -360,3 +360,9 @@ AM Radio for Every Vehicle Act of 2025
 - 2025-11-12 — Placed on the Union Calendar, Calendar No. 330.
 - 2025-11-12 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-379, Part I.
 - 2025-11-12 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-379, Part I.
+- 2026-09-15 — Considered under suspension of the rules. (consideration: CR H5667-5670)
+- 2026-09-15 — DEBATE - The House proceeded with forty minutes of debate on H.R. 979.
+- 2026-09-15 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-09-15 — Mr. Guthrie moved to suspend the rules and pass the bill, as amended.
+- 2026-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5668-5669)
+- 2026-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
