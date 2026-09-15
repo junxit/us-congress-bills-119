@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6021
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6021
@@ -16,9 +16,10 @@ Archie Cavanaugh Migratory Bird Treaty Clarification Act
 
 - Rep. Begich, Nicholas J. [R-AK-At Large] (B001323)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Archie Cavanaugh Migratory Bird Treaty Clarification Act
 - 2026-09-14 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5564-5565)
 - 2026-09-14 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2026-09-14 — The title of the measure was amended. Agreed to without objection.
+- 2026-09-15 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
