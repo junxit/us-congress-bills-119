@@ -38,12 +38,21 @@ This Act may be cited as the “Tax Relief for Fraud Victims Act”.
 - **(d)** *Cross reference* Section 6511(i) of such Code is amended by adding at the end the following new paragraph:
   > - **(8)** For a period of limitations for credit or refund in the case of theft losses involving fraud, deceit, or misrepresentation, see sections 72(t)(2)(O)(iii) and 165(h)(4)(F).
 
-- **(e)** *Effective dates*
-  - **(1)** *In general* Except as provided in this subsection, the amendments made by this subsection shall apply to losses sustained in taxable years beginning after December 31, 2025.
-  - **(2)** *Distributions relating to theft losses involving fraud, deceit, or misrepresentation* The amendment made by subsection (c) shall apply to distributions made after December 31, 2025.
-  - **(3)** *Pyrrhotite-related personal casualty losses*
-    - **(A)** *In general* In the case of any pyrrhotite-related personal casualty loss, paragraph (1) shall be applied by substituting “December 31, 2020” for “December 31, 2025”.
-    - **(B)** *Pyrrhotite-related personal casualty loss* For purposes of this paragraph, the term pyrrhotite-related personal casualty loss means any personal casualty loss (as defined in section 165(h)(3)(B) of the Internal Revenue Code of 1986) arising in connection with damage to a principal residence (within the meaning of section 121 of such Code) by reason of deterioration of a concrete foundation adversely impacted by pyrrhotite.
-    - **(C)** *Extension of period of limitation for credit or refund claims for pyrrhotite-related personal casualty losses* In the case of a claim for credit or refund with respect to a deduction allowed under section 165(a) of the Internal Revenue Code of 1986 by reason of subparagraph (A) for any pyrrhotite-related personal casualty loss—
+- **(e)** *Claim processing deadline* In the case of a claim for credit or refund with respect to a deduction allowed under section 165(a) of such Code for any specified personal casualty loss (as defined in subsection (f)(5)) or with respect to any distribution described in section 72(t)(2)(O)(i) of such Code (as added by this section), the Secretary of the Treasury (or the Secretary’s delegate) shall process such claim not later than 2 years after the date on which such claim is filed.
+- **(f)** *Effective dates*
+  - **(1)** *In general* Except as otherwise provided in this subsection, the amendments made by this section shall apply to losses sustained in taxable years beginning after December 31, 2025.
+  - **(2)** *Specified personal casualty losses* In the case of any specified personal casualty loss, paragraph (1) shall be applied by substituting “December 31, 2020” for “December 31, 2025”.
+  - **(3)** *Distributions relating to theft losses involving fraud, deceit, or misrepresentation* The amendment made by subsection (c) shall apply to distributions made after December 31, 2020.
+  - **(4)** *Extension of period of limitation for credit or refund claims for specified personal casualty losses*
+    - **(A)** *Fraud-related personal casualty losses* In the case of any fraud-related personal casualty loss, if the taxpayer discovers such loss before the date of the enactment of this section—
+      - **(i)** section 165(h)(4)(F)(i) of the Internal Revenue Code of 1986 (as added by this section) shall be applied by substituting “the date of the enactment of this subparagraph” for “the date on which the taxpayer discovers such loss”, and
+      - **(ii)** section 72(t)(2)(O)(iii)(I) of such Code (as added by this section) shall be applied by substituting “the date of the enactment of this subparagraph” for “the date on which the taxpayer discovers the loss described in clause (i)”.
+    - **(B)** *Pyrrhotite-related personal casualty losses* In the case of a claim for credit or refund with respect to a deduction allowed under section 165(a) of the Internal Revenue Code of 1986 for any pyrrhotite-related personal casualty loss—
       - **(i)** the period of limitation prescribed by section 6511(a) of such Code for the filing of such claim shall be treated as not expiring earlier than the date that is 1 year after the date of the enactment of this section, and
       - **(ii)** section 6511(b)(2) of such Code shall not apply with respect to the filing of such claim.
+  - **(5)** *Specified personal casualty loss* For purposes of this subsection—
+    - **(A)** *Specified personal casualty loss* The term specified personal casualty loss means—
+      - **(i)** any fraud-related personal casualty loss, and
+      - **(ii)** any pyrrhotite-related personal casualty loss.
+    - **(B)** *Fraud-related personal casualty loss* The term fraud-related personal casualty loss means any personal casualty loss (as defined in section 165(h)(3)(B) of the Internal Revenue Code of 1986) sustained after December 31, 2020, and before January 1, 2026, arising from theft involving fraud, deceit, or misrepresentation (as defined by the Secretary).
+    - **(C)** *Pyrrhotite-related personal casualty loss* The term pyrrhotite-related personal casualty loss means any personal casualty loss (as defined in section 165(h)(3)(B) of the Internal Revenue Code of 1986) sustained after December 31, 2020, and before January 1, 2026, in connection with damage to a principal residence (within the meaning of section 121 of such Code) by reason of deterioration of a concrete foundation adversely impacted by pyrrhotite.
