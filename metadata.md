@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5109
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5109
@@ -26,9 +26,10 @@ Transportation Worker Identification Credential Efficiency Act
 - Rep. Pfluger, August [R-TX-11] (P000048)
 - Rep. Fletcher, Lizzie [D-TX-7] (F000468)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Commerce, Science, and Transportation Committee
 
 ## Actions
 
@@ -42,3 +43,11 @@ Transportation Worker Identification Credential Efficiency Act
 - 2026-09-15 — Placed on the Union Calendar, Calendar No. 725.
 - 2026-09-15 — Reported by the Committee on Homeland Security. H. Rept. 119-827.
 - 2026-09-15 — Reported by the Committee on Homeland Security. H. Rept. 119-827.
+- 2026-09-16 — Considered under suspension of the rules. (consideration: CR H5896-5898)
+- 2026-09-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5109.
+- 2026-09-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-09-16 — Mr. Van Epps moved to suspend the rules and pass the bill, as amended.
+- 2026-09-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5896)
+- 2026-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2026-09-16 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2026-09-16 — The title of the measure was amended. Agreed to without objection.
