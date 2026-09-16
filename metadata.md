@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 847
 congress: 119
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 847
@@ -28,3 +28,7 @@ A resolution commending and congratulating the Pennsylvania State University Nit
 
 - 2026-08-08 — Referred to the Committee on Commerce, Science, and Transportation. (text: CR S4570)
 - 2026-08-08 — Submitted in Senate
+- 2026-09-16 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2026-09-16 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S4762)
+- 2026-09-16 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2026-09-16 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
