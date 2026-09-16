@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9498
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 9498
@@ -20,9 +20,10 @@ Taxpayer Advocate Participation Act
 
 - Rep. DelBene, Suzan K. [D-WA-1] (D000617)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Taxpayer Advocate Participation Act
 - 2026-09-15 — Mr. Smith (MO) moved to suspend the rules and pass the bill, as amended.
 - 2026-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5685)
 - 2026-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2026-09-16 — Received in the Senate and Read twice and referred to the Committee on Finance.
