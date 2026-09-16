@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2846
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2846
@@ -46,3 +46,4 @@ To amend title II of the Public Health Service Act to include as an additional r
 - 2026-09-15 — Mr. Guthrie moved to suspend the rules and pass the bill.
 - 2026-09-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5661)
 - 2026-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2026-09-16 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 626.
