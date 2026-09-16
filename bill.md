@@ -29,12 +29,16 @@ This Act may be cited as the “Fit Future Act”.
     - **(A)** advise the President and Secretary of Health and Human Services concerning progress made in carrying out the provisions of this section; and
     - **(B)** recommend to the President and Secretary of Health and Human Services actions to accelerate such progress.
   - **(2)** *Recommendations* In carrying out this section, the Council shall recommend—
-    - **(A)** strategies for reestablishing and implementing the Presidential Fitness Test, with any appropriate improvements, as the main assessment tool for a Presidential Fitness Award;
-    - **(B)** strategies for the promotion of Presidential challenges and school-based programs that reward excellence in physical education;
-    - **(C)** bold and innovative fitness goals for American youth with the aim of fostering a new generation of healthy, active citizens;
-    - **(D)** campaigns and events that elevate American sports, military readiness, and health traditions;
-    - **(E)** actions and opportunities at the global, national, State, and local levels that expand participation in sports and engagement in physical fitness and that emphasize the importance of an active lifestyle and good nutrition, including partnerships with professional athletes, sports organizations, player’s associations, influential figures, nonprofit organizations, and community groups to inspire all Americans, among other initiatives; and
-    - **(F)** strategies to address the growing national security threat posed by the increasing rates of childhood obesity, chronic diseases, and sedentary lifestyles, which threaten the future readiness of the United States workforce and military.
+    - **(A)** strategies for implementing the Presidential Fitness Test, with any appropriate improvements, as the main assessment tool for a Presidential Fitness Award;
+    - **(B)** strategies for the development and promotion of adaptive physical fitness measures and programs to help students develop lifelong physically active habits;
+    - **(C)** strategies for the promotion of Presidential challenges and school-based programs that reward excellence in physical education;
+    - **(D)** bold and innovative fitness goals for American youth with the aim of fostering a new generation of healthy, active citizens;
+    - **(E)** campaigns and events that elevate American sports, military readiness, and health traditions;
+    - **(F)** actions and opportunities at the global, national, State, and local levels that expand participation in sports and engagement in physical fitness and that emphasize the importance of an active lifestyle and good nutrition, including partnerships with professional athletes, sports organizations, players associations, influential figures, nonprofit organizations, and community groups to inspire all Americans;
+    - **(G)** strategies to address the rising costs associated with youth sports by expanding access to nonprofit recreational and athletic opportunities;
+    - **(H)** opportunities to increase participation in sports and physical activities with the goal of increasing availability of and access to recreational sports and other physical activities, including for youth with barriers to access, including youth with disabilities;
+    - **(I)** strategies to encourage participation in a wide range of sports and physical activities that support an active lifestyle to minimize burnout, injuries, and early specialization in a particular sport or activity; and
+    - **(J)** strategies to address the growing national security threat posed by the increasing rates of childhood obesity, chronic diseases, and sedentary lifestyles, which threaten the future readiness of the United States workforce and military.
 - **(d)** *Administration*
   - **(1)** *Executive director* The President shall designate an Executive Director of the Council who shall—
     - **(A)** manage day-to-day operations;
