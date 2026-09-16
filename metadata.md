@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9496
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 9496
@@ -21,9 +21,10 @@ End Tax Penalties on American Hostages Act
 - Rep. Titus, Dina [D-NV-1] (T000468)
 - Rep. Beyer, Donald S. [D-VA-8] (B001292)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ End Tax Penalties on American Hostages Act
 - 2026-09-15 — Mr. Smith (MO) moved to suspend the rules and pass the bill, as amended.
 - 2026-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5683-5684)
 - 2026-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2026-09-16 — Received in the Senate and Read twice and referred to the Committee on Finance.
