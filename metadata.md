@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9499
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 9499
@@ -16,9 +16,10 @@ Protecting Taxpayers from Ghost Preparers Act
 
 - Rep. Malliotakis, Nicole [R-NY-11] (M000317)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Actions
 
@@ -36,3 +37,4 @@ Protecting Taxpayers from Ghost Preparers Act
 - 2026-09-15 — Mr. Smith (MO) moved to suspend the rules and pass the bill, as amended.
 - 2026-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5686)
 - 2026-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2026-09-16 — Received in the Senate and Read twice and referred to the Committee on Finance.
