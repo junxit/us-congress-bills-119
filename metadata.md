@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5517
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 5517
@@ -62,3 +62,10 @@ Northern Border Security Enhancement and Review Act
 - 2026-09-15 — Placed on the Union Calendar, Calendar No. 728.
 - 2026-09-15 — Reported by the Committee on Homeland Security. H. Rept. 119-830.
 - 2026-09-15 — Reported by the Committee on Homeland Security. H. Rept. 119-830.
+- 2026-09-16 — Considered under suspension of the rules. (consideration: CR H5898-5899)
+- 2026-09-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 5517.
+- 2026-09-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-09-16 — Mr. Van Epps moved to suspend the rules and pass the bill, as amended.
+- 2026-09-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5898)
+- 2026-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2026-09-16 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 628.
