@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7730
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7730
@@ -39,3 +39,9 @@ Bankruptcy Threshold Adjustment Act
 - 2026-08-27 — Placed on the Union Calendar, Calendar No. 684.
 - 2026-08-27 — Reported (Amended) by the Committee on Judiciary. H. Rept. 119-783.
 - 2026-08-27 — Reported (Amended) by the Committee on Judiciary. H. Rept. 119-783.
+- 2026-09-16 — Considered under suspension of the rules.
+- 2026-09-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7730.
+- 2026-09-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-09-16 — Mr. Cline moved to suspend the rules and pass the bill, as amended.
+- 2026-09-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2026-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
