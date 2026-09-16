@@ -2,7 +2,7 @@
 legis-num: H.R. 9339
 congress: 119th CONGRESS
 session: 2d Session
-chamber: IN THE HOUSE OF REPRESENTATIVES
+chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
 # H.R. 9339
@@ -23,4 +23,4 @@ This Act may be cited as the “Affordable Innovation for the Grid Act”.
 - **(c)** *Report* Not later than one year after the date of enactment of this Act, the Secretary of Energy shall submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate a report on the assessment conducted under subsection (a), including recommendations to—
   - **(1)** overcome any limitation assessed under subsection (b)(3); and
   - **(2)** facilitate the adoption and integration of artificial intelligence and high-performance computing technologies with respect to the operation of the bulk-power system.
-- **(d)** *Definitions* In this section, the terms “bulk-power system”, “Electric Reliability Organization”, and “reliable operation” have the meanings given those terms in section 215(a) of the Federal Power Act (16 U.S.C. 824o(a)).
+- **(d)** *Definitions* In this section, the terms “bulk-power system”, “Electric Reliability Organization”, and “reliable operation” have the meanings given those termsin section 215(a) of the Federal Power Act (16 U.S.C. 824o(a)).
