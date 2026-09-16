@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9616
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 9616
@@ -20,9 +20,10 @@ EMRTAI Authorization Act of 2026
 
 - Rep. Landsman, Greg [D-OH-1] (L000601)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ EMRTAI Authorization Act of 2026
 - 2026-09-15 — Mr. Guthrie moved to suspend the rules and pass the bill.
 - 2026-09-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5682)
 - 2026-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2026-09-16 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
