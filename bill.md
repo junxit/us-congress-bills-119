@@ -28,7 +28,7 @@ This Act may be cited as the “I&A Mission Reorientation Act of 2026”.
 ## § 3. Realignment of mission of DHS Office of Intelligence and Analysis
 
 - **(a)** *In general* Subsection (d) of section 201 of the Homeland Security Act of 2002 (6 U.S.C. 121) is amended by adding at the end the following new paragraph:
-  > - **(24)** To ensure the Office of Intelligence and Analysis’s operational mission of providing timely and efficient intelligence support to State, local, Tribal, and territorial governments and private sector entities is equally prioritized and resourced relevant to support provided to elements of the intelligence community by carrying out the following:
+  > - **(24)** To ensure the Office of Intelligence and Analysis’s operational mission of providing timely and efficient intelligence support to State, local, Tribal, and territorial governments and private sector entities is sufficiently prioritized and resourced relevant to support provided to elements of the intelligence community by carrying out the following:
   >   - **(A)** Identifying and addressing emerging threats through forward-deployed intelligence capabilities.
   >   - **(B)** Facilitating two-way information sharing characterized by both the receipt of intelligence from such governments and entities, and the dissemination of actionable intelligence to such governments and entities.
   >   - **(C)** Maintaining robust, proficient, and sustained engagement with fusion centers (as such term is defined in section 210A).
@@ -37,6 +37,6 @@ This Act may be cited as the “I&A Mission Reorientation Act of 2026”.
 - **(b)** *Report* Not later than 180 days after the date of the enactment of this Act, the Under Secretary for Intelligence and Analysis of the Department of Homeland Security shall submit to the Committee on Homeland Security and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on Homeland Security and Governmental Affairs and the Select Committee on Intelligence of the Senate a report detailing the following:
   - **(1)** Steps taken to implement the mission realignment of the Office of Intelligence and Analysis of the Department in accordance with paragraph (24) of section 201(d) of the Homeland Security Act of 2002, as added by subsection (a).
   - **(2)** Progress in enhancing two-way information sharing between the Office and State, local, Tribal, and territorial governments and private sector entities, in accordance with such paragraph (24).
-  - **(3)** Metrics used to evaluate the effectiveness of the Office’s intelligence activitiese in support of State, local, Tribal, and territorial governments and private sector entities.
+  - **(3)** Metrics used to evaluate the effectiveness of the Office’s intelligence activities in support of State, local, Tribal, and territorial governments and private sector entities.
   - **(4)** Any resource or organizational changes to the Office required to sustain such realignment.
 - **(c)** *Rule of construction* Nothing in this section may be construed to alter or otherwise change the watchlisting functions of the Office of Intelligence and Analysis.
