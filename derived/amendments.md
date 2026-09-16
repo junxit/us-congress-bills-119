@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5517
 congress: 119
-version: Reported in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -31,5 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section (a) of the Northern Border Security Review Act (Public Law 114–267) is amended, the matter preceding paragraph (1), by striking “180 days after the date of enactment of this Act” and inserting “September 2, 2026, and biennially t… | the bill names no machine-readable US Code section |
-| — | add-at-end | The Northern Border Security Review Act, as amended by subsection (b), is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
+| — | replace | Subsection (a) of section 3 of the Northern Border Security Review Act (Public Law 114–267) is amended, the matter preceding paragraph (1), by striking “180 days after the date of enactment of this Act” and inserting “September 2, 2026, … | the bill names no machine-readable US Code section |
+| — | add-at-end | Section 3 of the Northern Border Security Review Act, as amended by subsection (b), is further amended by adding at the end the following new subsection: | the bill names no machine-readable US Code section |
