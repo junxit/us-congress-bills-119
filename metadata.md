@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2978
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2978
@@ -100,3 +100,4 @@ GUARD Act
 - 2026-09-15 — Motion to reconsider laid on the table Agreed to without objection.
 - 2026-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 7 (Roll no. 301). (text: CR H5602-5603)
 - 2026-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 414 - 7 (Roll no. 301). (text: CR H5602-5603)
+- 2026-09-16 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 627.
