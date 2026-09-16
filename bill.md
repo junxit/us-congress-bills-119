@@ -16,5 +16,5 @@ This Act may be cited as the “Ending Predator Access to Union Power Act”.
 ## § 2. Prohibition on holding office
 
 - **(a)** *In general* Section 504(a) of the Labor-Management Reporting and Disclosure Act of 1959 (29 U.S.C. 504(a)) is amended by inserting after “grievous bodily injury,” the following: “a sex offense against a minor,”.
-- **(b)** *Technical amendment* Section 504(a) of the Labor-Management Reporting and Disclosure Act of 1959 (29 U.S.C. 504(a)) is further amended by striking “Act any” and inserting “Act, any”.
+- **(b)** *Technical amendment* Section 504(a) of such Act is further amended by striking “Act any” and inserting “Act, any”.
 - **(c)** *Effective date* The amendments made by this Act shall take effect 30 days after the date of enactment of this Act.
