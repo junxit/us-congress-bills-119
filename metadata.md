@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8005
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8005
@@ -16,10 +16,11 @@ Stop Pills That Kill Act
 
 - Rep. Evans, Gabe [R-CO-8] (E000300)
 
-## Committees (2)
+## Committees (3)
 
 - House — Energy and Commerce Committee
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -40,3 +41,4 @@ Stop Pills That Kill Act
 - 2026-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5674-5675)
 - 2026-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2026-09-15 — The title of the measure was amended. Agreed to without objection.
+- 2026-09-16 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
