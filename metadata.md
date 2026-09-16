@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9327
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 9327
@@ -40,3 +40,10 @@ PEARL Act
 - 2026-09-10 — Placed on the Union Calendar, Calendar No. 711.
 - 2026-09-10 — Reported by the Committee on Homeland Security. H. Rept. 119-812.
 - 2026-09-10 — Reported by the Committee on Homeland Security. H. Rept. 119-812.
+- 2026-09-16 — Considered under suspension of the rules. (consideration: CR H5895-5896)
+- 2026-09-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 9327.
+- 2026-09-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-09-16 — Mr. Van Epps moved to suspend the rules and pass the bill, as amended.
+- 2026-09-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5895)
+- 2026-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2026-09-16 — Received in the Senate.
