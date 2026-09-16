@@ -1,7 +1,7 @@
 ---
 measure: H.Con.Res. 93
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.Con.Res. 93
@@ -33,9 +33,10 @@ Directing the President, pursuant to section 5(c) of the War Powers Resolution, 
 - Rep. Golden, Jared F. [D-ME-2] (G000592)
 - Rep. Quigley, Mike [D-IL-5] (Q000023)
 
-## Committees (1)
+## Committees (2)
 
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Recorded votes (1)
 
@@ -57,3 +58,4 @@ Directing the President, pursuant to section 5(c) of the War Powers Resolution, 
 - 2026-09-15 — Motion to reconsider laid on the table Agreed to without objection.
 - 2026-09-15 — On agreeing to the resolution Agreed to by the Yeas and Nays: 220 - 204 (Roll no. 307). (text: CR H5609)
 - 2026-09-15 — Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 220 - 204 (Roll no. 307). (text: CR H5609)
+- 2026-09-16 — Received in the Senate and referred to the Committee on Foreign Relations.
