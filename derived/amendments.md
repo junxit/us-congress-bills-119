@@ -1,7 +1,7 @@
 ---
 measure: S. 5249
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-11 amendatory instructions. 2 executed, 9 stated and not applied.
+22 amendatory instructions. 4 executed, 18 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,24 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 42 U.S.C. § 2243
+
+> by striking “The Commission shall conduct a single adjudicatory hearing on the record” and inserting “In accordance with section 189 a.(1)(A), the Commission shall grant a hearing”;
+
+| | |
+|---|---|
+| Removed | `The Commission shall conduct a single adjudicatory hearing on the record` |
+| Inserted | `In accordance with section 189 a.(1)(A), the Commission shall grant a hearing` |
+
+### 42 U.S.C. § 2243
+
+> in paragraph (2) (as so redesignated), in the paragraph heading, by striking “Single proceeding” and inserting “No further action required”;
+
+| | |
+|---|---|
+| Removed | `Single proceeding` |
+| Inserted | `No further action required` |
 
 ### 42 U.S.C. § 2243
 
@@ -56,6 +74,15 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 2243` | strike | by striking “construction and”; | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 2243` | strike | by striking “construction and”; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 2243` | insert | by inserting “on the request of any person whose interest is affected by the operation of the uranium enrichment facility and shall admit that person as a party to the proceeding” after “and 63”; | the bill quotes the text inserted but describes where it goes |
+| `42 U.S.C. § 2243` | strike | by striking paragraph (2); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 2243` | redesignate | by redesignating paragraph (3) as paragraph (2); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 2243` | strike | in subsection (c), by striking “construction and”; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 2243` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 2243` | strike | in paragraph (1), by striking “construction and”; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 2243` | strike | by striking “the hearing on”; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 2243` | strike | by striking “construction and”; | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 2243` | strike | by striking “construction and”; and | the bill quotes the text struck but describes what replaces it |
+| `42 U.S.C. § 2243` | insert | by inserting “on the request of any person whose interest may be affected by the operation of the uranium enrichment facility and shall admit that person as a party to the proceeding” after “and 63”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 2243` | strike | by striking paragraph (2); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 2243` | redesignate | by redesignating paragraph (3) as paragraph (2); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 2243` | strike | in subsection (c), by striking “construction and”; and | the bill quotes the text struck but describes what replaces it |
