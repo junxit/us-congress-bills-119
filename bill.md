@@ -17,3 +17,4 @@ This Act may be cited as the “Providing Emotional Assistance with Relief and L
 
 - **(a)** *In general* Not later than 60 days after the date of the enactment of this Act, the Secretary of Homeland Security, acting through the Commissioner of U.S. Customs and Border Protection (CBP), shall establish in CBP a pilot program to adopt dogs from local animal shelters to be trained as support dogs for CBP’s Support Canine Program.
 - **(b)** *Duration* The pilot program under subsection (a) shall terminate three years after the date of its establishment.
+- **(c)** *No additional funds* No additional funds are authorized to be appropriated to carry out this section.
