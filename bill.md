@@ -1,0 +1,31 @@
+---
+legis-num: H. CON. RES. 118
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H. CON. RES. 118
+
+> Designating September 2026, as “Gynecologic Cancers Awareness Month”.
+
+## Preamble
+
+- Whereas gynecologic cancers include cervical, ovarian, endometrial/uterine, vaginal, and vulvar cancers with the first 3 being the most common;
+- Whereas there are approximately 117,660 new cases of these cancers diagnosed and approximately 34,570 deaths from gynecologic cancers annually;
+- Whereas endometrial cancer is one of the few cancers with rising incidence and mortality rates;
+- Whereas endometrial and ovarian cancer rank fourth and sixth in cancer deaths among women, respectively;
+- Whereas symptoms are often vague or misunderstood and there are no screening tests to identify endometrial and ovarian cancers before they progress to later stages;
+- Whereas cervical cancer is the only gynecologic cancer with a reliable screening test and is vaccine-preventable;
+- Whereas increased awareness of gynecologic cancers can lead to earlier diagnosis, follow-up with appropriate health professionals, and improved outcomes; and
+- Whereas the Foundation for Women’s Cancer and other organizations celebrate September 2026 as “Gynecologic Cancers Awareness Month”: Now, therefore, be it
+
+That Congress—
+
+- **(1)** supports the designation of “Gynecologic Cancers Awareness Month”;
+- **(2)** supports the goals and ideals of “Gynecologic Cancers Awareness Month”;
+- **(3)** recognizes and affirms the commitment of the United States to reducing the burden of these cancers on women by—
+  - **(A)** promoting awareness about the causes, risks, and prevention of gynecologic cancers;
+  - **(B)** supporting research on gynecologic cancers; and
+  - **(C)** taking other steps to improve health outcomes associated with these cancers and reduce associated mortality; and
+- **(4)** encourages every person in the United States to learn about the risk for gynecologic cancers.
