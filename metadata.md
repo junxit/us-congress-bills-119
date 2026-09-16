@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8278
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8278
@@ -20,9 +20,10 @@ Fostering the Use of Technology to Uphold Regulatory Effectiveness in Supervisio
 
 - Rep. Foster, Bill [D-IL-11] (F000454)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -46,3 +47,4 @@ Fostering the Use of Technology to Uphold Regulatory Effectiveness in Supervisio
 - 2026-09-15 — Motion to reconsider laid on the table Agreed to without objection.
 - 2026-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 7 (Roll no. 302). (text: CR H5605)
 - 2026-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 7 (Roll no. 302). (text: CR H5605)
+- 2026-09-16 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
