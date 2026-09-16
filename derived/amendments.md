@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9086
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-55 amendatory instructions. 2 executed, 53 stated and not applied.
+54 amendatory instructions. 2 executed, 52 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -102,5 +102,4 @@ complete account of the bill's effect, which it is not.
 | `22 U.S.C. § 4021` | add-at-end | Chapter 7 of title I (22 U.S.C. 4021 et seq.), as amended by sections 608, 609, 610, 611, 612, 613, 614, and 615, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 4021` | add-at-end | Chapter 7 of title I (22 U.S.C. 4021 et seq.), as amended by sections 608, 609, 610, 611, 612, 613, 614, 615, and 616, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 4021` | add-at-end | Chapter 7 of title I (22 U.S.C. 4021 et seq.), as amended by sections 608, 609, 610, 611, 612, 613, 614, 615, 616, and 617, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `22 U.S.C. § 4081` | insert | Chapter 9 of title I (22 U.S.C. 4081 et seq.) is amended by inserting after section 906 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `22 U.S.C. § 4141a` | amend | by adding at end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
