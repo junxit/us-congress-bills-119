@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8775
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 derived: true
 ---
 
@@ -26,7 +26,7 @@ to guess them.
 
 ### 29 U.S.C. § 504
 
-> Section 504(a) of the Labor-Management Reporting and Disclosure Act of 1959 (29 U.S.C. 504(a)) is further amended by striking “Act any” and inserting “Act, any”.
+> Section 504(a) of such Act is further amended by striking “Act any” and inserting “Act, any”.
 
 | | |
 |---|---|
