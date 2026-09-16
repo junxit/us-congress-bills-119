@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9617
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 9617
@@ -20,9 +20,10 @@ CHARM Act
 
 - Rep. Tonko, Paul [D-NY-20] (T000469)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -44,3 +45,4 @@ CHARM Act
 - 2026-09-15 — Mr. Guthrie moved to suspend the rules and pass the bill.
 - 2026-09-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5676-5677)
 - 2026-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2026-09-16 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
