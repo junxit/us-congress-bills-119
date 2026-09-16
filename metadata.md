@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5109
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5109
