@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9615
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 9615
@@ -22,9 +22,10 @@ BRACE Act
 - Rep. Menendez, Robert [D-NJ-8] (M001226)
 - Rep. Harshbarger, Diana [R-TN-1] (H001086)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -43,3 +44,4 @@ BRACE Act
 - 2026-09-15 — Mr. Guthrie moved to suspend the rules and pass the bill, as amended.
 - 2026-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5678)
 - 2026-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2026-09-16 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
