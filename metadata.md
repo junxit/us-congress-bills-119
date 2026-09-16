@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1266
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 1266
@@ -161,3 +161,4 @@ Combating Illicit Xylazine Act
 - 2026-09-15 — Mr. Guthrie moved to suspend the rules and pass the bill, as amended.
 - 2026-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5671-5672)
 - 2026-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2026-09-16 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 623.
