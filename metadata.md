@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9570
 congress: 119
-version: Introduced in House
+version: Engrossed in House
 ---
 
 # H.R. 9570
@@ -40,3 +40,11 @@ To designate the facility of the United States Postal Service located at 117 Wes
 - 2026-07-02 — Introduced in House
 - 2026-07-02 — Introduced in House
 - 2026-07-02 — Referred to the House Committee on Oversight and Government Reform.
+- 2026-07-22 — Committee Consideration and Mark-up Session Held
+- 2026-07-22 — Ordered to be Reported by Voice Vote.
+- 2026-09-16 — Considered under suspension of the rules. (consideration: CR H5935-5936)
+- 2026-09-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 9570.
+- 2026-09-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-09-16 — Mr. Comer moved to suspend the rules and pass the bill.
+- 2026-09-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5935)
+- 2026-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
