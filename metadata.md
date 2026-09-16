@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9394
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 9394
