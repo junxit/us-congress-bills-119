@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9496
 congress: 119
-version: Referred in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 9496
@@ -43,3 +43,7 @@ End Tax Penalties on American Hostages Act
 - 2026-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5683-5684)
 - 2026-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2026-09-16 — Received in the Senate and Read twice and referred to the Committee on Finance.
+- 2026-09-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5238-5239)
+- 2026-09-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2026-09-30 — Senate Committee on Finance discharged by Unanimous Consent.
+- 2026-09-30 — Senate Committee on Finance discharged by Unanimous Consent.
