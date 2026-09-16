@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4646
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 4646
@@ -26,10 +26,11 @@ Whistleblower Protection Act of 2025
 - Rep. Davidson, Warren [R-OH-8] (D000626)
 - Rep. Lawler, Michael [R-NY-17] (L000599)
 
-## Committees (2)
+## Committees (3)
 
 - House — Oversight and Government Reform Committee
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -57,3 +58,4 @@ Whistleblower Protection Act of 2025
 - 2026-09-15 — Motion to reconsider laid on the table Agreed to without objection.
 - 2026-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 424 - 0 (Roll no. 303). (text: CR H5608)
 - 2026-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 424 - 0 (Roll no. 303). (text: CR H5608)
+- 2026-09-16 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
