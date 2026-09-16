@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7436
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7436
@@ -22,9 +22,10 @@ Department of Homeland Security Intelligence and Analysis Training Act
 - Rep. Thompson, Bennie G. [D-MS-2] (T000193)
 - Rep. Pou, Nellie [D-NJ-9] (P000621)
 
-## Committees (1)
+## Committees (2)
 
 - House — Homeland Security Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -39,3 +40,10 @@ Department of Homeland Security Intelligence and Analysis Training Act
 - 2026-09-14 — Placed on the Union Calendar, Calendar No. 714.
 - 2026-09-14 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 119-815.
 - 2026-09-14 — Reported (Amended) by the Committee on Homeland Security. H. Rept. 119-815.
+- 2026-09-16 — Considered under suspension of the rules.
+- 2026-09-16 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7436.
+- 2026-09-16 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-09-16 — Mr. Van Epps moved to suspend the rules and pass the bill, as amended.
+- 2026-09-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2026-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2026-09-16 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
