@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2140
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2140
@@ -49,3 +49,4 @@ Diesel Emissions Reduction Act of 2025
 - 2026-09-15 — Mr. Guthrie moved to suspend the rules and pass the bill.
 - 2026-09-15 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 343 - 79 (Roll no. 304). (text: CR H5679)
 - 2026-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 343 - 79 (Roll no. 304).
+- 2026-09-16 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 624.
