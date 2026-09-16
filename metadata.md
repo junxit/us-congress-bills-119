@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9500
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 9500
@@ -21,9 +21,10 @@ Tax Relief for Fraud Victims Act
 - Rep. Suozzi, Thomas R. [D-NY-3] (S001201)
 - Rep. Buchanan, Vern [R-FL-16] (B001260)
 
-## Committees (1)
+## Committees (2)
 
 - House — Ways and Means Committee
+- Senate — Finance Committee
 
 ## Recorded votes (1)
 
@@ -44,3 +45,4 @@ Tax Relief for Fraud Victims Act
 - 2026-09-15 — Mr. Smith (MO) moved to suspend the rules and pass the bill, as amended.
 - 2026-09-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 17 (Roll no. 305). (text: CR H5687-5688)
 - 2026-09-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 408 - 17 (Roll no. 305).
+- 2026-09-16 — Received in the Senate and Read twice and referred to the Committee on Finance.
