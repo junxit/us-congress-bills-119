@@ -1,0 +1,47 @@
+---
+legis-num: H.R. 10463
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 10463
+
+> To amend title 10, United States Code, to provide for concurrent receipt of veterans’ disability compensation and retired pay for disability retirees with combat-related disabilities, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Combat Veterans Retirement Restoration Act”.
+
+## § 2. Concurrent receipt of veterans’ disability compensation and retired pay for disability retirees with combat-related disabilities
+
+- **(a)** *Concurrent receipt generally* Section 1414(b) of title 10, United States Code, is amended by striking paragraph (2) and inserting the following new paragraphs:
+  > - **(2)** *Combat-related disability retirees*
+  >   - **(A)** *In general* A member retired under chapter 61 of this title with a combat-related disability who is entitled for any month to retired pay under chapter 61 of this title and is also entitled for that month to veterans’ disability compensation under title 38, is entitled to be paid both without regard to sections 5304 and 5305 of title 38, as provided by subparagraphs (B) and (C).
+  >   - **(B)** *Career retirees* In the case of a member retired under chapter 61 of this title who has a combat-related disability that is not a qualifying service-connected disability (as defined in subsection (a)(2)) and who, at the time of the member's retirement, had 20 years or more of service otherwise creditable under section 1405 of this title or at least 20 years of qualifying and equivalent service computed under sections 12732 and 12733 of this title, the member may receive, without regard to sections 5304 and 5305 of title 38, both—
+  >     - **(i)** the amount of retired pay to which the member would have been entitled under any other provision of law based on the member’s service in the uniformed services if the member had not been retired under chapter 61 of this title; and
+  >     - **(ii)** veterans’ disability compensation under title 38.
+  >   - **(C)** *Disability retirees with less than 20 years of service* In the case of a member retired under chapter 61 of this title with a combat-related disability and who, at the time of the member's retirement, had less than 20 years of service otherwise creditable under section 1405 of this title or less than 20 years of qualifying and equivalent service computed under sections 12732 and 12733 of this title, the member may receive, without regard to sections 5304 and 5305 of title 38, the lesser of—
+  >     - **(i)** both—
+  >       - **(I)** the retired pay for which the member is eligible under chapter 61 of this title; and
+  >       - **(II)** veterans’ disability compensation under title 38; or
+  >     - **(ii)** both—
+  >       - **(I)** an amount equal to the product of the retired pay base computed under section 1406(b) or 1407 of this title and the retired pay multiplier determined under section 1409 of this title, as such base pay and multiplier would be computed if the member had 20 years of service creditable under section 1405 of this title; and
+  >       - **(II)** veterans’ disability compensation under title 38.
+  >   - **(D)** *Combat-related disability defined* In this paragraph, the term combat-related disability has the meaning given that term in subsection (e) of section 1413a of this title and as determined under the criteria and procedures used for purposes of such section.
+  > - **(3)** *Exclusion of other retirees* Subsection (a) does not apply to a member retired under chapter 61 of this title if the member is not covered by paragraph (1) or (2).
+
+- **(b)** *Technical and conforming amendments*
+  - **(1)** *Coordination with combat-related special compensation program* Section 1414(d) of title 10, United States Code, is amended by striking “qualified retiree under this section” and inserting “qualified retiree under subsection (a) or is entitled to a payment under subsection (b)(2)”.
+  - **(2)** *Amendments reflecting end of concurrent receipt phase-in period* Section 1414 of title 10, United States Code, is further amended—
+    - **(A)** in subsection (a)(1)—
+      - **(i)** by striking the second sentence; and
+      - **(ii)** by striking subparagraphs (A) and (B);
+    - **(B)** by striking subsection (c) and redesignating subsections (d) and (e) as subsections (c) and (d), respectively; and
+    - **(C)** in subsection (d), as redesignated, by striking paragraphs (3) and (4).
+  - **(3)** *Section heading* The heading of section 1414 of such title is amended to read as follows:
+    > ## § 1414. Members eligible for retired pay who are also eligible for veterans’ disability compensation: concurrent receipt
+
+  - **(4)** *Conforming amendment* Section 1413a(f) of such title is amended by striking “Subsection (d)” and inserting “Subsection (c)”.
+- **(c)** *Authorization of appropriations* There is authorized to be appropriated to the Secretary of Defense $9,400,000,000 to carry out the amendments made by this section, to remain available until expended.
+- **(d)** *Effective date* The amendments made by this section shall apply to payments for months beginning on or after January 1, 2027, and shall apply to payments for months beginning on or after that date.
