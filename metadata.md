@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5254
 congress: 119
-version: Reported to Senate
+version: Enrolled Bill
 ---
 
 # H.R. 5254
@@ -51,3 +51,9 @@ Gateway Partnership Act
 - 2026-09-17 — Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. Without written report.
 - 2026-09-17 — Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. Without written report.
 - 2026-09-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 662.
+- 2026-11-10 — Star Print ordered on the reported bill, by unanimous consent.
+- 2026-11-17 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5709)
+- 2026-11-17 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2026-11-18 — Message on Senate action sent to the House.
+- 2026-11-24 — Presented to President.
+- 2026-11-24 — Presented to President.
