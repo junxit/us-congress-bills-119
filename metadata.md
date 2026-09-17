@@ -1,7 +1,7 @@
 ---
 measure: S. 91
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 91
@@ -28,3 +28,8 @@ Western Wildfire Support Act of 2026
 
 - 2025-01-14 — Introduced in Senate
 - 2025-01-14 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2025-12-02 — Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held. With printed Hearing: S.Hrg. 119-237.
+- 2026-02-04 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2026-09-17 — Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment in the nature of a substitute. Without written report.
+- 2026-09-17 — Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment in the nature of a substitute. Without written report.
+- 2026-09-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 629.
