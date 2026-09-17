@@ -1,7 +1,7 @@
 ---
 measure: S. 291
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 291
@@ -16,12 +16,13 @@ Lower Colorado River Multi-Species Conservation Program Amendment Act of 2025
 
 - Sen. Padilla, Alex [D-CA] (P000145)
 
-## Cosponsors (4)
+## Cosponsors (5)
 
 - Sen. Cortez Masto, Catherine [D-NV] (C001113)
 - Sen. Schiff, Adam B. [D-CA] (S001150)
 - Sen. Rosen, Jacky [D-NV] (R000608)
 - Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Gallego, Ruben [D-AZ] (G000574)
 
 ## Committees (1)
 
@@ -31,3 +32,7 @@ Lower Colorado River Multi-Species Conservation Program Amendment Act of 2025
 
 - 2025-01-29 — Introduced in Senate
 - 2025-01-29 — Read twice and referred to the Committee on Energy and Natural Resources. (Sponsor introductory remarks on measure: CR S482)
+- 2026-02-04 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2026-09-17 — Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. Without written report.
+- 2026-09-17 — Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. Without written report.
+- 2026-09-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 630.
