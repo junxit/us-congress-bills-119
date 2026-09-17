@@ -1,7 +1,7 @@
 ---
 measure: S. 2767
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2767
@@ -16,6 +16,11 @@ Gateway Partnership Act
 
 - Sen. Schmitt, Eric [R-MO] (S001227)
 
+## Cosponsors (2)
+
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Hawley, Josh [R-MO] (H001089)
+
 ## Committees (1)
 
 - Senate — Energy and Natural Resources Committee
@@ -24,3 +29,8 @@ Gateway Partnership Act
 
 - 2025-09-11 — Introduced in Senate
 - 2025-09-11 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2026-07-21 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.
+- 2026-07-29 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2026-09-17 — Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment in the nature of a substitute. Without written report.
+- 2026-09-17 — Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment in the nature of a substitute. Without written report.
+- 2026-09-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 642.
