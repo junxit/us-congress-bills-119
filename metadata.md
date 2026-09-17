@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7831
 congress: 119
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 7831
@@ -47,3 +47,8 @@ License to Drill Act
 - 2026-06-02 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3757)
 - 2026-06-02 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H3757)
 - 2026-06-03 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2026-07-15 — Committee on Energy and Natural Resources Subcommittee on Public Lands, Forests, and Mining. Hearings held.
+- 2026-07-29 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2026-09-17 — Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. Without written report.
+- 2026-09-17 — Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. Without written report.
+- 2026-09-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 665.
