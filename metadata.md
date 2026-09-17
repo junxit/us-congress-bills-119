@@ -1,7 +1,7 @@
 ---
 measure: S. 2753
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2753
@@ -28,3 +28,8 @@ Urban Canal Modernization Act
 
 - 2025-09-10 — Introduced in Senate
 - 2025-09-10 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2026-03-17 — Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held.
+- 2026-06-10 — Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.
+- 2026-09-17 — Committee on Energy and Natural Resources. Reported by Senator Lee with amendments. Without written report.
+- 2026-09-17 — Committee on Energy and Natural Resources. Reported by Senator Lee with amendments. Without written report.
+- 2026-09-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 640.

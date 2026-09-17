@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2753
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -42,3 +42,7 @@ This Act may be cited as the “Urban Canal Modernization Act”.
 
   - **(3)** by adding at the end the following:
     > - **(e)** *Reimbursable funds* Any reimbursable funds provided under this section shall be considered to be a non-Federal source of funds for purposes of any cost-sharing requirement for a Federal grant.
+
+  - **(“(3)** *Urban canals of concern* Except in the case of emergency extraordinary operation and maintenance work carried out under subsection (c), of the total costs of extraordinary operation and maintenance work on an urban canal of concern conducted under subsection (a)(2)—
+    - **(A)** 25 percent shall be provided by the Secretary on a nonreimbursable basis; and
+    - **(B)** the remaining amounts shall be advanced by the Secretary in accordance with paragraph (2), to be repaid by the transferred works operating entity in accordance with that paragraph.”.
