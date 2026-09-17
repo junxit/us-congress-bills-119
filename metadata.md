@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6365
 congress: 119
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 6365
@@ -51,3 +51,8 @@ Wintergreen Emergency Egress Act
 - 2026-03-03 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2347)
 - 2026-03-03 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2347)
 - 2026-03-04 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2026-07-21 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.
+- 2026-07-29 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2026-09-17 — Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment in the nature of a substitute. Without written report.
+- 2026-09-17 — Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment in the nature of a substitute. Without written report.
+- 2026-09-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 664.
