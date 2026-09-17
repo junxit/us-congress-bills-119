@@ -1,7 +1,7 @@
 ---
 measure: H.R. 837
 congress: 119
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 837
@@ -33,3 +33,7 @@ To require the Secretary of Agriculture to convey the Pleasant Valley Ranger Dis
 - 2025-02-05 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H480)
 - 2025-02-05 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H480)
 - 2025-02-06 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2026-02-04 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2026-09-17 — Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. Without written report.
+- 2026-09-17 — Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. Without written report.
+- 2026-09-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 660.
