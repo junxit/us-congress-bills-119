@@ -1,7 +1,7 @@
 ---
 measure: S.J.Res. 213
 congress: 119
-version: Introduced in Senate
+version: Placed on Calendar Senate
 ---
 
 # S.J.Res. 213
@@ -16,7 +16,7 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - Sen. Durbin, Richard J. [D-IL] (D000563)
 
-## Cosponsors (11)
+## Cosponsors (13)
 
 - Sen. Blumenthal, Richard [D-CT] (B001277)
 - Sen. Padilla, Alex [D-CA] (P000145)
@@ -29,6 +29,8 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 - Sen. King, Angus S., Jr. [I-ME] (K000383)
 - Sen. Kaine, Tim [D-VA] (K000384)
 - Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Reed, Jack [D-RI] (R000122)
 
 ## Committees (1)
 
@@ -38,3 +40,6 @@ A joint resolution providing for congressional disapproval under chapter 8 of ti
 
 - 2026-09-14 — Introduced in Senate
 - 2026-09-14 — Read twice and referred to the Committee on the Judiciary. (text: CR S4674)
+- 2026-09-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 668.
+- 2026-09-17 — Senate Committee on the Judiciary discharged, by petition, pursuant to 5 U.S.C. 802(c).
+- 2026-09-17 — Senate Committee on the Judiciary discharged, by petition, pursuant to 5 U.S.C. 802(c).
