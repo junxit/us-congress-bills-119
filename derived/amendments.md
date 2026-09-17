@@ -1,7 +1,7 @@
 ---
 measure: S. 2554
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-8 amendatory instructions. 0 executed, 8 stated and not applied.
+16 amendatory instructions. 0 executed, 16 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,6 +31,14 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| `43 U.S.C. § 1615` | add-at-end | Section 16 of the Alaska Native Claims Settlement Act (43 U.S.C. 1615) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1607` | add-at-end | Section 8 of the Alaska Native Claims Settlement Act (43 U.S.C. 1607) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1606` | replace | in the third sentence, by striking “In the case” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `43 U.S.C. § 1606` | replace | in the second sentence, by striking “Not less” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `43 U.S.C. § 1606` | replace | by striking “(j) During” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `43 U.S.C. § 1606` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1606` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1601` | add-at-end | The Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 1615` | add-at-end | Section 16 of the Alaska Native Claims Settlement Act (43 U.S.C. 1615) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 1607` | add-at-end | Section 8 of the Alaska Native Claims Settlement Act (43 U.S.C. 1607) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 1606` | replace | in the third sentence, by striking “In the case” and inserting the following: | the bill quotes the text struck but describes what replaces it |
