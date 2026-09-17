@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9191
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 9191
@@ -28,9 +28,10 @@ National Fossil Act of 2026
 - Rep. Onder, Robert F. [R-MO-3] (O000177)
 - Rep. Van Duyne, Beth [R-TX-24] (V000134)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Actions
 
@@ -48,3 +49,4 @@ National Fossil Act of 2026
 - 2026-09-16 — Ms. Lee (FL) moved to suspend the rules and pass the bill, as amended.
 - 2026-09-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5938)
 - 2026-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2026-09-17 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
