@@ -1,7 +1,7 @@
 ---
 measure: S. 3738
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-15 amendatory instructions. 4 executed, 11 stated and not applied.
+26 amendatory instructions. 9 executed, 17 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -60,6 +60,51 @@ to guess them.
 | Removed | `in` |
 | Inserted | `under` |
 
+### 43 U.S.C. § 3205
+
+> in the matter preceding paragraph (1), by striking “to an eligible project” and inserting “for an eligible project, or for a feasibility study for an eligible project,”; and
+
+| | |
+|---|---|
+| Removed | `to an eligible project` |
+| Inserted | `for an eligible project, or for a feasibility study for an eligible project,` |
+
+### 43 U.S.C. § 3205
+
+> in paragraph (4), by striking “30” and inserting “60”; and
+
+| | |
+|---|---|
+| Removed | `30` |
+| Inserted | `60` |
+
+### 43 U.S.C. § 3205
+
+> by striking “5” and inserting “10”; and
+
+| | |
+|---|---|
+| Removed | `5` |
+| Inserted | `10` |
+
+### 43 U.S.C. § 390b
+
+> in paragraph (2), by striking “in” and inserting “under”;
+
+| | |
+|---|---|
+| Removed | `in` |
+| Inserted | `under` |
+
+### 43 U.S.C. § 390h-13
+
+> Section 1631(d)(1) of the Reclamation Wastewater and Groundwater Study and Facilities Act (43 U.S.C. 390h–13(d)(1)) is amended by striking “$20,000,000 (October 1996 prices)” and inserting “$50,000,000 (in December 2025 prices, as automatically adjusted each January based on the percentage increase in the consumer price index for all urban consumers (United States city average) over the previous year, as published by the Bureau of Labor Statistics)”.
+
+| | |
+|---|---|
+| Removed | `$20,000,000 (October 1996 prices)` |
+| Inserted | `$50,000,000 (in December 2025 prices, as automatically adjusted each January based on the percentage increase in the consumer price index for all urban consumers (United States city average) over the previous year, as published by the Bureau of Labor Statistics)` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -80,3 +125,9 @@ complete account of the bill's effect, which it is not.
 | `43 U.S.C. § 390b` | strike | in paragraph (1), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
 | `43 U.S.C. § 390b` | redesignate | by redesignating paragraph (2) as paragraph (3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 390b` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 3205` | insert | in subsection (b), by inserting “feasibility studies for and” before “the planning”; | the bill quotes the text inserted but describes where it goes |
+| `43 U.S.C. § 3205` | insert | by inserting “, except for any project under construction as of that date” before the period at the end. | the bill quotes the text inserted but describes where it goes |
+| `43 U.S.C. § 390b` | strike | in paragraph (1), by striking “and” at the end; | the bill quotes the text struck but describes what replaces it |
+| `43 U.S.C. § 390b` | redesignate | by redesignating paragraph (2) as paragraph (3); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 390b` | insert | by inserting after paragraph (1) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1531` | replace | Section 4010(b) of the Water Infrastructure Improvements for the Nation Act (Public Law 114–322; 130 Stat. 1872) is amended by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
