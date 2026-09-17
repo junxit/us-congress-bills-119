@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8193
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 8193
@@ -33,9 +33,10 @@ To designate the facility of the United States Postal Service located at 189 Eas
 - Rep. Sykes, Emilia Strong [D-OH-13] (S001223)
 - Rep. Taylor, David J. [R-OH-2] (T000490)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -51,3 +52,4 @@ To designate the facility of the United States Postal Service located at 189 Eas
 - 2026-09-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2026-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2026-09-16 — The title of the measure was amended. Agreed to without objection.
+- 2026-09-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
