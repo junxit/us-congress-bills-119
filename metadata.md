@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7365
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7365
@@ -29,9 +29,10 @@ To designate the facility of the United States Postal Service located at 1225 Ke
 - Rep. McClellan, Jennifer L. [D-VA-4] (M001227)
 - Rep. Walkinshaw, James R. [D-VA-11] (W000831)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -46,3 +47,4 @@ To designate the facility of the United States Postal Service located at 1225 Ke
 - 2026-09-16 — Mr. Comer moved to suspend the rules and pass the bill.
 - 2026-09-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5931)
 - 2026-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2026-09-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
