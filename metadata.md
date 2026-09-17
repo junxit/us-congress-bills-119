@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7834
 congress: 119
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 7834
@@ -44,3 +44,4 @@ Safe Cloud Storage Act
 - 2026-09-16 — Ms. Lee (FL) moved to suspend the rules and pass the bill, as amended.
 - 2026-09-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5936-5937)
 - 2026-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5936-5937)
+- 2026-09-17 — Received in the Senate, read twice.
