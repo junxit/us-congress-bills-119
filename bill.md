@@ -17,7 +17,7 @@ This Act may be cited as the “Water Project Navigators Act”.
 
 In this Act:
 
-- **(1)** *Disadvantaged community* Except as otherwise defined by the Secretary of the Interior based on current methodologies, the term disadvantaged community means a community (including a city, town, county, or reasonably isolated and divisible segment of a larger municipality) with an annual median income that is less than the statewide annual median income for the State in which the community is located, according to the most recent decennial census.
+- **(1)** *Disadvantaged community* Except as otherwise defined by the Secretary of the Interior based on current methodologies, theThe term disadvantaged community means a community (including a city, town, county, or reasonably isolated and divisible segment of a larger municipality) with an annual median income that is less than the statewide annual median income for the State in which the community is located, according to the most recent decennial census.
 - **(2)** *Eligible entity* The term eligible entity means—
   - **(A)** a State;
   - **(B)** an Indian Tribe;
@@ -39,7 +39,7 @@ In this Act:
     - **(iv)** to reduce water supply-demand imbalances;
     - **(v)** to promote water recycling and other advanced water treatments to augment water supplies;
     - **(vi)** to improve management or delivery of water resources;
-    - **(vii)** to address risks to water infrastructure from weather-related events and climate change;
+    - **(vii)** to address risks to water infrastructure from weather-related events and climate changeweather- and climate-related events;
     - **(viii)** to provide or improve access to safe drinking water in communities that lack reliable access to adequate clean water supplies;
     - **(ix)** to promote investment in the economies of rural communities, Tribal communities, or disadvantaged communities through water projects;
     - **(x)** to enhance water-based recreational opportunities for the benefit of community members and the local recreational economy; or
@@ -77,6 +77,11 @@ In this Act:
       - **(iii)** that may promote job creation and retention in Tribal communities, disadvantaged communities, and rural communities; and
       - **(iv)** with the capability to work in coordination with other projects that have been funded under, or help advance the objectives of, other Department of the Interior programs, including programs focused on drought resilience and watershed health; and
     - **(B)** applications that address any other priorities that the Secretary determines to be appropriate.
+  - **(2)** *Priority* In awarding grants or cooperative agreements under the Program, the Secretary shall prioritize applications from eligible entities that would directly serve Indian Tribes, disadvantaged communities, rural communities, and other eligible entities with limited resources and capacity to develop multi-benefit water projects, including applications from eligible entities—
+    - **(A)** with a demonstrated intent and ability to incorporate improvements to the condition of a natural feature or nature-based feature in multi-benefit water projects designed under the Program;
+    - **(B)** with demonstrated support from multiple stakeholders, including Indian Tribes, representatives of irrigated agricultural production, hydroelectric production, municipal and industrial water users, local governments, community-based organizations, and nonprofit conservation organizations;
+    - **(C)** that may promote job creation and retention in Tribal communities, disadvantaged communities, and rural communities; and
+    - **(D)** with the capability to work in coordination with other projects that have been funded under, or help advance the objectives of, other Department of the Interior programs, including programs focused on drought resilience and watershed health.
   - **(3)** *Prohibition* The Secretary may not award a grant or cooperative agreement under the Program that would fund activities to meet existing environmental mitigation or compliance obligations under Federal or State law.
 - **(d)** *Duties of navigators* A multi-benefit water project navigator funded under the Program shall assist the eligible entity in planning, developing, and implementing multi-benefit water projects, including—
   - **(1)** grant writing;
@@ -90,7 +95,7 @@ In this Act:
 - **(g)** *Cost share*
   - **(1)** *In general* Except as provided in paragraph (3), the Federal share of the cost of any activity awarded a grant or cooperative agreement under the Program shall not exceed 75 percent of the cost of the activity carried out under the grant or cooperative agreement.
   - **(2)** *Form of non-Federal cost share* The non-Federal share of the cost of an activity awarded a grant or cooperative agreement under the Program may be in the form of cash or in-kind contributions.
-  - **(3)** *Reduction; waiver* With respect to a grant or cooperative agreement awarded to an Indian Tribe, acequia, land grant-merced, disadvantaged community, or any other eligible entity working in partnership with or on behalf of those entities, the Secretary may reduce or waive the non-Federal share of the cost of any activity that is the subject of the grant or cooperative agreement if the Secretary determines that contribution of the non-Federal share would result in a financial hardship for the entity.
+  - **(3)** *Reduction; waiver* With respect to a grant or cooperative agreement awarded to an Indian Tribe, acequia, land grant-merced, disadvantaged community, or any other eligible entity working in partnership with or on behalf of those entities, the Secretary may reduce or waive the non-Federal share of the cost of any activity that is the subject of the grant or cooperative agreement if the Secretary determines that contribution of the non-Federal share would result in a financial hardship for the entity and submits to the appropriate committees of Congress a report on such determination.
 - **(h)** *Coordination* In administering the Program, the Secretary shall coordinate, to the maximum extent practicable, with other Federal, Tribal, State, and local government technical assistance programs to enhance multi-benefit water project development.
 - **(i)** *Compliance* A multi-benefit water project navigator funded under the Program shall comply with all applicable Federal and State laws in carrying out the duties of the multi-benefit water project navigator under the Program.
 - **(j)** *Report to Congress* Not later than 5 years after the date of enactment of this Act, the Secretary shall submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report that describes—
@@ -103,3 +108,7 @@ In this Act:
 ## § 4. Authorization of appropriations
 
 There is authorized to be appropriated to carry out this Act $15,000,000 for each of fiscal years 2027 through 2032, to remain available until expended.
+
+## § 4. Limitation on expenditures
+
+Not more than $15,000,000 of Federal funds may be expended in any 1 fiscal year to carry out this Act.
