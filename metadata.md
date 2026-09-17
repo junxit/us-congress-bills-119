@@ -1,7 +1,7 @@
 ---
 measure: S. 1288
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1288
@@ -24,3 +24,7 @@ Finger Lakes National Heritage Area Act
 
 - 2025-04-03 — Introduced in Senate
 - 2025-04-03 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2026-06-10 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2026-09-17 — Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. Without written report.
+- 2026-09-17 — Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. Without written report.
+- 2026-09-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 632.
