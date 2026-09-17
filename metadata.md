@@ -1,7 +1,7 @@
 ---
 measure: H.R. 10326
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 10326
@@ -16,9 +16,10 @@ PROOF Act
 
 - Rep. Van Drew, Jefferson [R-NJ-2] (V000133)
 
-## Committees (1)
+## Committees (2)
 
 - House — Judiciary Committee
+- Senate — Judiciary Committee
 
 ## Recorded votes (1)
 
@@ -39,3 +40,4 @@ PROOF Act
 - 2026-09-16 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 217 - 207 (Roll no. 310).
 - 2026-09-16 — Rule provides for consideration of H.R. 9576, H.R. 10326, H.J. Res. 210 and H.J. Res. 213. The resolution provides for consideration of H.R. 9576, H.R. 10326, H.J.Res. 210, and H.J.Res. 213 under a closed rule with one hour of debate and one motion to recommit on each measure. The resolution provides for a motion to concur in the Senate amendments to H.R. 5334.
 - 2026-09-16 — The previous question was ordered pursuant to the rule.
+- 2026-09-17 — Received in the Senate and Read twice and referred to the Committee on the Judiciary.
