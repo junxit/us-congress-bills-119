@@ -25,7 +25,7 @@ In this Act:
   - **(C)** any other building administered or managed by the Secretary as part of the Park that is open to the public.
 - **(4)** *Secretary* The term Secretary means the Secretary of the Interior.
 
-## § 3. Gateway Arch National Park Partner Agreement Pilot Project
+## § 3. Gateway Arch National Park partner agreement pilot project
 
 - **(a)** *In general* The Secretary, in accordance with subsection (b), may enter into a one-time agreement for a period not to exceed five years with the Foundation to host private events at the Park, which may include the use of Park buildings.
 - **(b)** *Terms and conditions* An agreement entered into under subsection (a) shall include terms and conditions to protect the resources and values of the Park, including—
