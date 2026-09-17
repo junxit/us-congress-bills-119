@@ -1,7 +1,7 @@
 ---
 measure: S. 1257
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1257
@@ -28,3 +28,7 @@ A bill to amend the Infrastructure Investment and Jobs Act to authorize the use 
 
 - 2025-04-02 — Introduced in Senate
 - 2025-04-02 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2026-07-29 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2026-09-17 — Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. Without written report.
+- 2026-09-17 — Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. Without written report.
+- 2026-09-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 631.
