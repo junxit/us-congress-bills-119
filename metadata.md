@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5254
 congress: 119
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 5254
@@ -46,3 +46,8 @@ Gateway Partnership Act
 - 2026-03-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2519-2520)
 - 2026-03-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2519-2520)
 - 2026-03-17 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2026-07-21 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.
+- 2026-07-29 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2026-09-17 — Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment in the nature of a substitute. Without written report.
+- 2026-09-17 — Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment in the nature of a substitute. Without written report.
+- 2026-09-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 662.
