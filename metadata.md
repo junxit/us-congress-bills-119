@@ -1,7 +1,7 @@
 ---
 measure: S. 1413
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1413
@@ -28,3 +28,7 @@ A bill to authorize additional funding for the San Joaquin River Restoration Set
 
 - 2025-04-10 — Introduced in Senate
 - 2025-04-10 — Read twice and referred to the Committee on Energy and Natural Resources. (Sponsor introductory remarks on measure: CR S2565)
+- 2026-07-16 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2026-09-17 — Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. Without written report.
+- 2026-09-17 — Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. Without written report.
+- 2026-09-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 634.
