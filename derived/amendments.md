@@ -1,7 +1,7 @@
 ---
 measure: S. 4041
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-16 amendatory instructions. 2 executed, 14 stated and not applied.
+30 amendatory instructions. 4 executed, 26 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -42,6 +42,24 @@ to guess them.
 | Removed | `$100,000` |
 | Inserted | `$150,000 each year for a period of not less than 3 years, subject to the sufficiency of applications submitted and the availability of appropriations.` |
 
+### 16 U.S.C. § 1015a
+
+> in clause (i), by striking “interests; or” and inserting “interests, including Indian tribes;”;
+
+| | |
+|---|---|
+| Removed | `interests; or` |
+| Inserted | `interests, including Indian tribes;` |
+
+### 16 U.S.C. § 1015a
+
+> in subparagraph (A)(i), by striking “$100,000” and inserting “$150,000”;
+
+| | |
+|---|---|
+| Removed | `$100,000` |
+| Inserted | `$150,000` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -53,6 +71,18 @@ complete account of the bill's effect, which it is not.
 |---|---|---|---|
 | `16 U.S.C. § 1015` | redesignate | by redesignating paragraphs (4) through (7) as paragraphs (5) through (8), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `25 U.S.C. § 5304` | insert | by inserting after paragraph (3) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1015` | strike | in subclause (I), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 1015` | insert | in subclause (II), by inserting “or” after the semicolon; and | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 1015` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1015a` | redesignate | by redesignating clause (ii) as clause (iii); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1015a` | insert | by inserting after clause (i) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1015a` | strike | by striking clause (iii); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1015a` | redesignate | by redesignating clauses (iv) and (v) as clauses (iii) and (iv), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1015a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1015a` | replace | in paragraph (3)(B)(ii), by striking “quantity.” and inserting the following: “quantity, including— | the bill quotes the text struck but describes what replaces it |
+| `16 U.S.C. § 1015a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `16 U.S.C. § 1015a` | insert | in subsection (f), in the matter preceding paragraph (1), by inserting “, and make available to the public,” after “House of Representatives”; and | the bill quotes the text inserted but describes where it goes |
+| `16 U.S.C. § 1015a` | replace | by striking subsection (g) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1015` | strike | in subclause (I), by striking “or” at the end; | the bill quotes the text struck but describes what replaces it |
 | `16 U.S.C. § 1015` | insert | in subclause (II), by inserting “or” after the semicolon; and | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 1015` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
