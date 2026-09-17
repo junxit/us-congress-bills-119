@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3857
 congress: 119
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 3857
@@ -48,3 +48,8 @@ Snow Water Supply Forecasting Program Reauthorization Act of 2026
 - 2025-12-10 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2025-12-10 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2025-12-11 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2026-03-17 — Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held.
+- 2026-06-10 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2026-09-17 — Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment in the nature of a substitute. Without written report.
+- 2026-09-17 — Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment in the nature of a substitute. Without written report.
+- 2026-09-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 661.
