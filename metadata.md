@@ -1,7 +1,7 @@
 ---
 measure: S. 3736
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3736
@@ -28,3 +28,8 @@ Dakota Mainstem Water Supply Project Feasibility Study Act
 
 - 2026-01-29 — Introduced in Senate
 - 2026-01-29 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2026-03-17 — Committee on Energy and Natural Resources Subcommittee on Water and Power. Hearings held.
+- 2026-06-10 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2026-09-17 — Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment in the nature of a substitute. Without written report.
+- 2026-09-17 — Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment in the nature of a substitute. Without written report.
+- 2026-09-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 651.
