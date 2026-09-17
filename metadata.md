@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9086
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 9086
@@ -22,10 +22,11 @@ Foreign Service Modernization Act
 - Rep. Mackenzie, Ryan [R-PA-7] (M001230)
 - Rep. Goldman, Craig A. [R-TX-12] (G000601)
 
-## Committees (2)
+## Committees (3)
 
 - House — Ways and Means Committee
 - House — Foreign Affairs Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -39,3 +40,4 @@ Foreign Service Modernization Act
 - 2026-09-16 — Mr. Lawler moved to suspend the rules and pass the bill, as amended.
 - 2026-09-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5913-5922)
 - 2026-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2026-09-17 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
