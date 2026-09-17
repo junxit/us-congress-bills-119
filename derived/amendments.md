@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3857
 congress: 119
-version: Referred in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-15 amendatory instructions. 7 executed, 8 stated and not applied.
+18 amendatory instructions. 8 executed, 10 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,25 +26,43 @@ to guess them.
 
 ### 43 U.S.C. § 1477
 
-> in subparagraph (A), by striking “culminating in the report required under subsection (d)(3)” and inserting “with an emphasis on deployment of technologies that provide integration of snowpack measuring and modeling”; and
+> by striking “develop” and inserting “continue developing”; and
+
+| | |
+|---|---|
+| Removed | `develop` |
+| Inserted | `continue developing` |
+
+### 43 U.S.C. § 1477
+
+> by striking “culminating in the report required under subsection (d)(3)” and inserting “with an emphasis on development and deployment of more accurate, timely, and cost-effective snow monitoring technologies and water supply forecasting, including technologies that integrate snowpack measuring and modeling”; and
 
 | | |
 |---|---|
 | Removed | `culminating in the report required under subsection (d)(3)` |
-| Inserted | `with an emphasis on deployment of technologies that provide integration of snowpack measuring and modeling` |
+| Inserted | `with an emphasis on development and deployment of more accurate, timely, and cost-effective snow monitoring technologies and water supply forecasting, including technologies that integrate snowpack measuring and modeling` |
 
 ### 43 U.S.C. § 1477
 
-> by striking “emerging technologies for snowpack measurement, such as” and inserting “technologies that provide complete integration of accurate, timely, and spatially complete snowpack measurements and models, including the integration of”; and
+> in the matter preceding subparagraph (A), by striking “emerging technologies for snowpack measurement, such as” and inserting “technologies for snowpack measurements and methods to forecast water supply, including”;
 
 | | |
 |---|---|
 | Removed | `emerging technologies for snowpack measurement, such as` |
-| Inserted | `technologies that provide complete integration of accurate, timely, and spatially complete snowpack measurements and models, including the integration of` |
+| Inserted | `technologies for snowpack measurements and methods to forecast water supply, including` |
 
 ### 43 U.S.C. § 1477
 
-> in paragraph (1), by striking “After submitting the report required under subsection (d)(3), the” and inserting “The”; and
+> in paragraph (2), by striking “emerging technologies for snowpack measurement” and inserting “technologies for snowpack measurement and models, including the Department of Agriculture and the National Oceanic and Atmospheric Administration”; and
+
+| | |
+|---|---|
+| Removed | `emerging technologies for snowpack measurement` |
+| Inserted | `technologies for snowpack measurement and models, including the Department of Agriculture and the National Oceanic and Atmospheric Administration` |
+
+### 43 U.S.C. § 1477
+
+> by striking “After submitting the report required under subsection (d)(3), the” and inserting “The”; and
 
 | | |
 |---|---|
@@ -53,30 +71,21 @@ to guess them.
 
 ### 43 U.S.C. § 1477
 
-> by striking “of this Act” and inserting “of the Snow Water Supply Forecasting Reauthorization Act of 2025”;
+> by striking “in particular watersheds” and inserting “and water supply forecasts in particular watersheds and to explore new statistical, machine learning, or physical models to generate improved water supply forecasts utilizing snowpack data”; and
 
 | | |
 |---|---|
-| Removed | `of this Act` |
-| Inserted | `of the Snow Water Supply Forecasting Reauthorization Act of 2025` |
+| Removed | `in particular watersheds` |
+| Inserted | `and water supply forecasts in particular watersheds and to explore new statistical, machine learning, or physical models to generate improved water supply forecasts utilizing snowpack data` |
 
 ### 43 U.S.C. § 1477
 
-> by striking “technologies” and inserting “and integrated modeling technologies”; and
+> in the matter preceding paragraph (1), by striking “this Act” and inserting “the Snow Water Supply Forecasting Program Reauthorization Act of 2026”;
 
 | | |
 |---|---|
-| Removed | `technologies` |
-| Inserted | `and integrated modeling technologies` |
-
-### 43 U.S.C. § 1477
-
-> by striking “technology used” and inserting “application, outcome, and data resources used”; and
-
-| | |
-|---|---|
-| Removed | `technology used` |
-| Inserted | `application, outcome, and data resources used` |
+| Removed | `this Act` |
+| Inserted | `the Snow Water Supply Forecasting Program Reauthorization Act of 2026` |
 
 ### 43 U.S.C. § 1477
 
@@ -96,11 +105,13 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `43 U.S.C. § 1477` | strike | in subparagraph (B), by striking “after submitting the report required by subsection (d)(3),”; | the bill quotes the text struck but describes what replaces it |
-| `43 U.S.C. § 1477` | amend | in the heading, by adding “with integrated modeling” after “data”; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 1477` | replace | by striking subparagraphs (A) through (C) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 1477` | insert | in paragraph (2) by inserting “, including the National Oceanic and Atmospheric Administration and the Natural Resources Conservation Service,” after “other Federal agencies”; and | the bill quotes the text inserted but describes where it goes |
+| `43 U.S.C. § 1477` | strike | by striking “after submitting the report required by subsection (d)(3),”; and | the bill quotes the text struck but describes what replaces it |
+| `43 U.S.C. § 1477` | insert | by inserting “and to improve water supply forecasting” after “watersheds”; | the bill quotes the text inserted but describes where it goes |
+| `43 U.S.C. § 1477` | insert | in the paragraph heading, by inserting “and water supply forecasting” after “data”; | the bill quotes the text inserted but describes where it goes |
+| `43 U.S.C. § 1477` | strike | in subparagraph (B), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
+| `43 U.S.C. § 1477` | replace | by striking subparagraph (C) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 1477` | strike | by striking paragraph (3); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 1477` | replace | by striking paragraph (2) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `43 U.S.C. § 1477` | strike | by striking “and sub-basins”; | the bill quotes the text struck but describes what replaces it |
-| `43 U.S.C. § 1477` | strike | in paragraph (2), by striking “or sub-basin”; and | the bill quotes the text struck but describes what replaces it |
+| `43 U.S.C. § 1477` | strike | in paragraph (2), by striking “or sub-basin”; | the bill quotes the text struck but describes what replaces it |
+| `43 U.S.C. § 1477` | redesignate | by redesignating paragraph (2) as paragraph (4); and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 1477` | replace | by striking paragraph (1) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
