@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7890
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 7890
@@ -22,9 +22,10 @@ Science of Reading Act of 2026
 - Rep. Kiley, Kevin [R-CA-3] (K000401)
 - Rep. Foxx, Virginia [R-NC-5] (F000450)
 
-## Committees (1)
+## Committees (2)
 
 - House — Education and Workforce Committee
+- Senate — Health, Education, Labor, and Pensions Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Science of Reading Act of 2026
 - 2026-09-16 — Mr. Walberg moved to suspend the rules and pass the bill, as amended.
 - 2026-09-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5911)
 - 2026-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2026-09-17 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
