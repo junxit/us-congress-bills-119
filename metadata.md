@@ -1,7 +1,7 @@
 ---
 measure: H.R. 6006
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 6006
@@ -32,9 +32,10 @@ To designate the facility of the United States Postal Service located at 401 Nor
 - Rep. Cohen, Steve [D-TN-9] (C001068)
 - Rep. Krishnamoorthi, Raja [D-IL-8] (K000391)
 
-## Committees (1)
+## Committees (2)
 
 - House — Oversight and Government Reform Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -49,3 +50,4 @@ To designate the facility of the United States Postal Service located at 401 Nor
 - 2026-09-16 — Mr. Comer moved to suspend the rules and pass the bill.
 - 2026-09-16 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5933)
 - 2026-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2026-09-17 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
