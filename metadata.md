@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7730
 congress: 119
-version: Received in Senate
+version: Enrolled Bill
 ---
 
 # H.R. 7730
@@ -46,3 +46,5 @@ Bankruptcy Threshold Adjustment Act
 - 2026-09-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5939-5940)
 - 2026-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2026-09-17 — Received in the Senate, read twice.
+- 2026-09-28 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5123)
+- 2026-09-28 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (consideration: CR S5123)
