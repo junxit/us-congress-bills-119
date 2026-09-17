@@ -13,7 +13,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 This Act may be cited as the “Wintergreen Emergency Egress Act”.
 
-## § 2. Right-of-way for emergency exit, blue ridge parkway
+## § 2. Right-of-way for emergency exit, Blue Ridge Parkway
 
 Section 2 of the Act of June 30, 1936 (49 Stat. 2041, chapter 883; 54 Stat. 250, chapter 277; 16 U.S.C. 460a–3), is amended—
 
