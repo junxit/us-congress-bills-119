@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9576
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 9576
@@ -50,3 +50,5 @@ National Fraud Enforcement Division Act of 2026
 - 2026-09-16 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 352 - 72 (Roll no. 309).
 - 2026-09-16 — Rule provides for consideration of H.R. 9576, H.R. 10326, H.J. Res. 210 and H.J. Res. 213. The resolution provides for consideration of H.R. 9576, H.R. 10326, H.J.Res. 210, and H.J.Res. 213 under a closed rule with one hour of debate and one motion to recommit on each measure. The resolution provides for a motion to concur in the Senate amendments to H.R. 5334.
 - 2026-09-16 — The previous question was ordered pursuant to the rule.
+- 2026-09-17 — Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2026-09-22 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 679.
