@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2302
 congress: 119
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2302
@@ -41,3 +41,7 @@ Shingle Springs Band of Miwok Indians Land Transfer Act of 2025
 - 2025-12-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5071)
 - 2025-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5071)
 - 2025-12-10 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
+- 2026-05-20 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2026-09-22 — Committee on Indian Affairs. Reported by Senator Murkowski without amendment. With written report No. 119-150.
+- 2026-09-22 — Committee on Indian Affairs. Reported by Senator Murkowski without amendment. With written report No. 119-150.
+- 2026-09-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 675.
