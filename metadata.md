@@ -1,7 +1,7 @@
 ---
 measure: S. 1514
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 1514
@@ -28,3 +28,8 @@ Quinault Indian Nation Land Transfer Act
 
 - 2025-04-29 — Introduced in Senate
 - 2025-04-29 — Read twice and referred to the Committee on Indian Affairs.
+- 2026-06-03 — Committee on Indian Affairs. Hearings held.
+- 2026-08-05 — Committee on Indian Affairs. Ordered to be reported with amendments favorably.
+- 2026-09-22 — Committee on Indian Affairs. Reported by Senator Murkowski with amendments. With written report No. 119-148.
+- 2026-09-22 — Committee on Indian Affairs. Reported by Senator Murkowski with amendments. With written report No. 119-148.
+- 2026-09-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 673.
