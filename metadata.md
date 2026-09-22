@@ -1,7 +1,7 @@
 ---
 measure: S. 2735
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2735
@@ -28,3 +28,8 @@ Shingle Springs Band of Miwok Indians Land Transfer Act of 2025
 
 - 2025-09-08 — Introduced in Senate
 - 2025-09-08 — Referred to the Committee on Indian Affairs. (Sponsor introductory remarks on measure: CR S6403)
+- 2025-12-17 — Committee on Indian Affairs. Hearings held.
+- 2026-05-20 — Committee on Indian Affairs. Ordered to be reported without amendment favorably.
+- 2026-09-22 — Committee on Indian Affairs. Reported by Senator Murkowski without amendment. With written report No. 119-149.
+- 2026-09-22 — Committee on Indian Affairs. Reported by Senator Murkowski without amendment. With written report No. 119-149.
+- 2026-09-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 674.
