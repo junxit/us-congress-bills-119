@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2400
 congress: 119
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2400
@@ -41,3 +41,8 @@ Pit River Land Transfer Act of 2026
 - 2025-12-15 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5886-5887)
 - 2025-12-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5886-5887)
 - 2025-12-16 — Received in the Senate and Read twice and referred to the Committee on Indian Affairs.
+- 2026-06-03 — Committee on Indian Affairs. Hearings held.
+- 2026-08-05 — Committee on Indian Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2026-09-22 — Committee on Indian Affairs. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 119-147.
+- 2026-09-22 — Committee on Indian Affairs. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 119-147.
+- 2026-09-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 676.
