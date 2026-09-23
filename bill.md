@@ -19,7 +19,7 @@ In this Act:
 
 - **(1)** *Community user* The term community user means an heir (as defined under the laws of the State) of a qualified land grant-merced.
 - **(2)** *Federal land*
-  - **(A)** *In general* The term Federal land means any land or interest in land owned by the United Statesunder the jurisdiction of the Secretary concerned.
+  - **(A)** *In general* The term Federal land means any land under the jurisdiction of the Secretary concerned.
   - **(B)** *Exclusions* The term Federal land does not include—
     - **(i)** land within the boundary of an Indian reservation;
     - **(ii)** land held in trust or in restricted status by the United States for the benefit of—
