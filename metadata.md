@@ -1,7 +1,7 @@
 ---
 measure: S. 1962
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1962
@@ -32,3 +32,5 @@ Secure Space Act of 2026
 - 2026-09-14 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute and an amendment to the title. With written report No. 119-138.
 - 2026-09-14 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute and an amendment to the title. With written report No. 119-138.
 - 2026-09-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 557.
+- 2026-09-23 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent. (consideration: CR S4956; text of amendment in the nature of a substitute: CR S4956)
+- 2026-09-23 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent. (consideration: CR S4956; text of amendment in the nature of a substitute: CR S4956)

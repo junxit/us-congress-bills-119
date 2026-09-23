@@ -7,11 +7,11 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 # S. 1962
 
-> To amend the Secure and Trusted Communications Networks Act of 2019 to prohibit the Federal Communications Commission from granting a license or United States market access for a geostationary orbit satellite system or a nongeostationary orbit satellite system, or an authorization to use an individually licensed earth station or a blanket-licensed earth station, if the license, grant of market access, or authorization would be held or controlled by an entity that produces or provides any covered communications equipment or service or an affiliate of such an entity, and for other purposes.
+> To amend the Secure and Trusted Communications Networks Act of 2019 to prohibit the Federal Communications Commission from granting a license or United States market access for a geostationary orbit satellite system or a nongeostationary orbit satellite system, or an authorization to use an individually licensed earth station or a blanket-licensed earth station, if the license, grant of market access, or authorization would be held or controlled by an entity identified on the Covered List or an affiliate of such an entity, and for other purposes.
 
 ## § 1. Short title
 
-This Act may be cited as the “Secure Space Act of 2025”.
+This Act may be cited as the “Secure Space Act of 2026”.
 
 ## § 2. Prohibition on grant of certain satellite licenses, United States market access, or earth station authorizations
 
@@ -34,8 +34,11 @@ This Act may be cited as the “Secure Space Act of 2025”.
     >     - **(A)** an earth station (other than a blanket-licensed earth station) that sends a signal to, and receives a signal from, a geostationary orbit satellite system or a nongeostationary orbit satellite system; or
     >     - **(B)** a gateway station.
     > - **(b)** *Prohibition* The Commission may not grant a license for, or a petition for a declaratory ruling to access the United States market using, a geostationary orbit satellite system or a nongeostationary orbit satellite system, or an authorization to use an individually licensed earth station or a blanket-licensed earth station, if the license, grant of market access, or authorization would be held or controlled by—
-    >   - **(1)** an entity that produces or provides any covered communications equipment or service; or
+    >   - **(1)** an entity identified on the list published by the Commission under section 2(a); or
     >   - **(2)** an affiliate of an entity described in paragraph (1).
+    > - **(c)** *Further consideration for secured networks*
+    >   - **(1)** *In general* The Commission may issue a report assessing supply chain security risks associated with any earth station licensee, geostationary orbit satellite system licensee, nongeostationary orbit satellite system licensee, or entity granted a declaratory ruling to access the United States market using a geostationary orbit satellite system or nongeostationary orbit satellite system, or an affiliate of such a licensee or entity, that provides communications equipment designed, developed, manufactured, or assembled by an entity identified on the list published by the Commission under section 2(a).
+    >   - **(2)** *Rule of construction* Nothing in paragraph (1) shall be construed to expand or contract the authority of the Commission.
 
 - **(b)** *Applicability* Section 10 of the Secure and Trusted Communications Networks Act of 2019, as added by subsection (a), shall apply with respect to the grant of a license, petition, or authorization on or after the date of enactment of this Act.
 - **(c)** *Rules* Not later than 1 year after the date of enactment of this Act, the Federal Communications Commission shall issue rules to implement section 10 of the Secure and Trusted Communications Networks Act of 2019, as added by subsection (a).
