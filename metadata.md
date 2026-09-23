@@ -1,7 +1,7 @@
 ---
 measure: S. 3404
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3404
@@ -32,3 +32,5 @@ Satellite Cybersecurity Act of 2025
 - 2026-09-14 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-141.
 - 2026-09-14 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-141.
 - 2026-09-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 560.
+- 2026-09-23 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S4956-4958; text of amendment in the nature of a substitute: CR S4957-4958)
+- 2026-09-23 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent. (consideration: CR S4956-4958; text of amendment in the nature of a substitute: CR S4957-4958)
