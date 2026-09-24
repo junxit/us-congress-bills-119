@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9340
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 derived: true
 ---
 

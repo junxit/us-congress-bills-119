@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9340
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 9340
@@ -91,3 +91,6 @@ Ratepayer Protection Act
 - 2026-09-16 — Motion to reconsider laid on the table Agreed to without objection.
 - 2026-09-16 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 3 (Roll no. 312). (text: CR H5656-5657)
 - 2026-09-16 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 417 - 3 (Roll no. 312). (text: CR H5656-5657)
+- 2026-09-17 — Received in the Senate.
+- 2026-09-23 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
+- 2026-09-24 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 684.
