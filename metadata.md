@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5436
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5436
@@ -29,3 +29,12 @@ End Transcript Withholding for Veterans Act
 - 2025-09-17 — Introduced in House
 - 2025-09-17 — Introduced in House
 - 2025-09-17 — Referred to the House Committee on Veterans' Affairs.
+- 2025-10-01 — Referred to the Subcommittee on Economic Opportunity.
+- 2026-01-21 — Subcommittee Hearings Held
+- 2026-02-24 — Forwarded by Subcommittee to Full Committee by Voice Vote.
+- 2026-02-24 — Subcommittee Consideration and Mark-up Session Held
+- 2026-05-14 — Committee Consideration and Mark-up Session Held
+- 2026-05-14 — Ordered to be Reported in the Nature of a Substitute by Voice Vote.
+- 2026-09-24 — Placed on the Union Calendar, Calendar No. 732.
+- 2026-09-24 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-835.
+- 2026-09-24 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-835.

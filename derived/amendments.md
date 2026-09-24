@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5436
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | add-at-end | Subchapter III of chapter 33 of such title is amended by adding at the end the following new section (and amending the table of sections at the beginning of such chapter accordingly): | the bill names no machine-readable US Code section |
+| — | add-at-end | Subchapter III of chapter 33 of title 38, United States Code, is amended by adding at the end the following new section (and amending the table of sections at the beginning of such chapter accordingly): | the bill names no machine-readable US Code section |
