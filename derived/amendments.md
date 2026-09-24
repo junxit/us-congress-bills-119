@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4986
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -51,6 +51,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `20 U.S.C. § 1232h` | insert | by inserting before the period at the end the following: “, for such specific survey, analysis, or evaluation”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `20 U.S.C. § 1232h` | insert | by inserting before the period at the end the following: “, with respect to each such specific survey, analysis, or evaluation”; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1232h` | strike | by striking “and” at the end of clause (i); | the bill quotes the text struck but describes what replaces it |
 | `20 U.S.C. § 1232h` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
