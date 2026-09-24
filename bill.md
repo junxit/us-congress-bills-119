@@ -11,26 +11,40 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Aviation Medication Transparency Act of 2025”.
+This Act may be cited as the “Aviation Medication Transparency Act of 2026”.
 
 ## § 2. Aviation medication transparency; list of approved medications
 
-- **(a)** *Purpose* The purpose of this Act is to ensure that aviation stakeholders, including airmen, air traffic control specialists, and individuals training to become airmen or air traffic control specialists, who are applicants for medical certification are informed, in a user-friendly and accessible manner, of the medications they may be safely prescribed.
+- **(a)** *Purpose* The purpose of this Act is to ensure that aviation stakeholders, including airmen, air traffic control specialists, and individuals training to become airmen or air traffic control specialists, who are applicants for medical certification or medical clearance, are informed, in a user-friendly and accessible manner, of—
+  - **(1)** the medications on the “Do Not Issue” or “Do Not Fly” lists;
+  - **(2)** the medications they may safely purchase over-the-counter or be prescribed; and
+  - **(3)** under what conditions the medications described in paragraph (2) may be safely used in the aviation environment, consistent with the information provided in the Guide for Aviation Medical Examiners (including any update to such Guide), which is updated monthly, or successor documents issued by the Federal Air Surgeon.
 - **(b)** *In general* Not later than 1 year after the date of enactment of this Act, the Administrator of the Federal Aviation Administration (in this section referred to as the “Administrator”) shall publish and maintain on a publicly available website of the Federal Aviation Administration (in this section referred to as the “FAA”) a list of medications that the Administrator, as of the date of publication, has—
-  - **(1)** determined may be safely prescribed to an applicant for medical certification to treat certain medical conditions; and
-  - **(2)** approved for purposes of the issuance of a medical certification to an airman or air traffic control specialist.
-- **(c)** *Requirements* To ensure medical appropriateness, user-friendliness, and appropriate dissemination, the list required under subsection (b) shall—
-  - **(1)** be drafted in consultation with—
+  - **(1)** determined may be safely prescribed to or purchased over-the-counter by an applicant for medical certification or medical clearance to treat medical conditions; and
+  - **(2)** approved for purposes of the issuance of a medical certification or medical clearance to—
+    - **(A)** an airman who requires a medical certificate or a medical clearance; or
+    - **(B)** an air traffic control specialist who requires medical clearance.
+- **(c)** *Requirements* To ensure information transparency, user-friendliness, and appropriate dissemination, the list required under subsection (b) shall—
+  - **(1)** incorporate, prior to dissemination, consultation with—
     - **(A)** the Aeromedical Innovation and Modernization Working Group (established under section 411(a) of the FAA Reauthorization Act of 2024 (49 U.S.C. 44703 note)) (in this section referred to as the “Working Group”);
-    - **(B)** institutions of higher education that are accredited by the Aviation Accreditation Board International;
+    - **(B)** organizations representing collective bargaining representatives of airline pilots;
     - **(C)** the certified exclusive bargaining representatives of air traffic controllers of the FAA certified under section 7111 of title 5, United States Code;
-    - **(D)** organizations representing certified collective bargaining representative of airline pilots; and
-    - **(E)** any other stakeholder determined relevant by the Working Group;
-  - **(2)** cover all medications approved by the Administrator, including prescription medications and over-the-counter medications;
-  - **(3)** be drafted in a user-friendly and accessible manner and provided to airmen, air traffic control specialists, and individuals training to become airmen or air traffic control specialists at the time when any such individual first seeks a medical certification;
-  - **(4)** if applicable, indicate the minimum and average period of time an airman or air traffic control specialist is required to have limited or no duties to stabilize on an approved medication;
-  - **(5)** include the list of medications that the Administrator has designated as “Do Not Issue”;
-  - **(6)** include information for doctors or medical providers to contact the FAA regarding questions related to such list, including through a new or existing mechanism that is accessible to such doctors and medical providers;
-  - **(7)** include any additional information that the Administrator determines is appropriate to provide with respect to what conditions a certain medication may or may not be used to treat, as well as any information to explain why a medication is allowed or prohibited by the FAA; and
-  - **(8)** include any other information or clarification that the Administrator determines appropriate.
-- **(d)** *Annual update* Not later than 1 year after the date of publication of the list required under subsection (b), and annually thereafter, the Administrator shall update such list, as appropriate.
+    - **(D)** institutions of higher education that are accredited by the Aviation Accreditation Board International;
+    - **(E)** professional pilot flight training schools certified under part 141 of title 14, Code of Federal Regulations;
+    - **(F)** the Civil Aviation Medical Association;
+    - **(G)** organizations representing general aviation operators and pilots; and
+    - **(H)** any other stakeholder determined relevant by the Administrator;
+  - **(2)** regarding treatment of medical conditions that may impact the performance of duties or the exercise of privileges of an airman certificate, include—
+    - **(A)** medications allowed by the Administrator, including prescription medications and over-the-counter medications;
+    - **(B)** contra-indications associated with the medications described in subparagraph (A); and
+    - **(C)** whether such medications may require review by the FAA;
+  - **(3)** be drafted in a user-friendly and accessible manner and, in addition to being made publicly available pursuant to subsection (b), made available on MedXPress for airmen, air traffic control specialists, and individuals training to become airmen or air traffic control specialists at the time when any such individual first seeks a medical certification or medical clearance;
+  - **(4)** if practicable, indicate the minimum period of time an airman, air traffic control specialist, or individual training to become an airman or air traffic control specialist is required to have limited or no duties to stabilize on a medication allowed by the Administrator;
+  - **(5)** include the list of medications that the Administrator has designated as “Do Not Issue” or “Do Not Fly”;
+  - **(6)** include information for doctors or medical providers to contact the FAA regarding questions related to the list published under subsection (b), including through a new or existing mechanism that is accessible to such doctors and medical providers; and
+  - **(7)** include any other information or clarification that the Administrator determines appropriate.
+- **(d)** *List update* Not later than 1 year after the date of publication of the list required under subsection (b), and when relevant information in the Guide for Aviation Medical Examiners (or any successor document) or other relevant FAA medical certification policy is updated, the Administrator shall update such list, as appropriate.
+- **(e)** *Savings clause* The publication of the list described in subsection (b) shall not be construed as assigning liability to the Administrator for any situation in which an airman, air traffic control specialist, or applicant relies on such list in deciding whether to use a medication on the list and—
+  - **(1)** experiences an adverse medical reaction from the use of such medication;
+  - **(2)** causes harm or injury to persons or property after using such medication; or
+  - **(3)** is deemed by an aviation medical examiner or the FAA to be ineligible for a medical certification or medical clearance.
