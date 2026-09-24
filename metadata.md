@@ -1,7 +1,7 @@
 ---
 measure: S. 3257
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3257
@@ -16,7 +16,7 @@ John A. Hauser Mental Health in Aviation Act
 
 - Sen. Hoeven, John [R-ND] (H001061)
 
-## Cosponsors (29)
+## Cosponsors (34)
 
 - Sen. Duckworth, Tammy [D-IL] (D000622)
 - Sen. Britt, Katie Boyd [R-AL] (B001319)
@@ -47,6 +47,11 @@ John A. Hauser Mental Health in Aviation Act
 - Sen. Wyden, Ron [D-OR] (W000779)
 - Sen. Cassidy, Bill [R-LA] (C001075)
 - Sen. Slotkin, Elissa [D-MI] (S001208)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
 
 ## Committees (1)
 
@@ -60,3 +65,13 @@ John A. Hauser Mental Health in Aviation Act
 - 2026-09-14 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-139.
 - 2026-09-14 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-139.
 - 2026-09-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 558.
+- 2026-09-24 — 
+- 2026-09-24 — Amendment SA 6834 agreed to in Senate by Unanimous Consent. In the nature of a substitute.
+- 2026-09-24 — Amendment SA 6834 proposed by Senator Husted for Senator Hoeven. In the nature of a substitute. (consideration: CR S5018-5019)
+- 2026-09-24 — Measure laid before Senate by unanimous consent. (consideration: CR S5017-5019)
+- 2026-09-24 — Passed Senate with an amendment by Unanimous Consent. (text of amendment in the nature of a substitute: CR S5018-5019)
+- 2026-09-24 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2026-09-24 — Senate amendment agreed to: Amendment SA 6834 agreed to in Senate by Unanimous Consent.
+- 2026-09-24 — Senate amendment proposed (on the floor): Amendment SA 6834 proposed by Senator Husted for Senator Hoeven.
+- 2026-09-24 — Senate amendment submitted
+- 2026-09-24 — The committee substitute withdrawn by Unanimous Consent.
