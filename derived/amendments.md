@@ -1,7 +1,7 @@
 ---
 measure: S. 3923
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-297 amendatory instructions. 52 executed, 245 stated and not applied.
+407 amendatory instructions. 91 executed, 316 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,24 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 33 U.S.C. § 3203
+
+> in subsection (a), by striking “the Pacific and Arctic Ocean regions and for the Atlantic Ocean region, including the Caribbean Sea and the Gulf of Mexico” and inserting “the United States and its territories”;
+
+| | |
+|---|---|
+| Removed | `the Pacific and Arctic Ocean regions and for the Atlantic Ocean region, including the Caribbean Sea and the Gulf of Mexico` |
+| Inserted | `the United States and its territories` |
+
+### 33 U.S.C. § 3203
+
+> in paragraph (1), by striking “subsection (d)” and inserting “subsection (e)”;
+
+| | |
+|---|---|
+| Removed | `subsection (d)` |
+| Inserted | `subsection (e)` |
 
 ### 33 U.S.C. § 3203
 
@@ -35,12 +53,39 @@ to guess them.
 
 ### 33 U.S.C. § 3203
 
+> by striking “graphical warning products, to at-risk States, territories, and tsunami communities” and inserting “graphical warning products and decision support tools, to communities at risk of tsunami”; and
+
+| | |
+|---|---|
+| Removed | `graphical warning products, to at-risk States, territories, and tsunami communities` |
+| Inserted | `graphical warning products and decision support tools, to communities at risk of tsunami` |
+
+### 33 U.S.C. § 3203
+
+> by striking “utilization” and inserting “use”;
+
+| | |
+|---|---|
+| Removed | `utilization` |
+| Inserted | `use` |
+
+### 33 U.S.C. § 3203
+
 > by striking “the Atlantic Ocean, including the Caribbean Sea and Gulf of Mexico, that are determined—” and inserting “the Pacific, Arctic, and Atlantic Oceans, including the Caribbean Sea and Gulf of Mexico, that are determined to pose significant risks of tsunami for States and United States territories along the coastal areas of such regions; and”; and
 
 | | |
 |---|---|
 | Removed | `the Atlantic Ocean, including the Caribbean Sea and Gulf of Mexico, that are determined—` |
 | Inserted | `the Pacific, Arctic, and Atlantic Oceans, including the Caribbean Sea and Gulf of Mexico, that are determined to pose significant risks of tsunami for States and United States territories along the coastal areas of such regions; and` |
+
+### 33 U.S.C. § 3203
+
+> in the matter preceding subparagraph (A), by striking “Centers shall” and inserting “centers shall”;
+
+| | |
+|---|---|
+| Removed | `Centers shall` |
+| Inserted | `centers shall` |
 
 ### 33 U.S.C. § 3203
 
@@ -71,6 +116,15 @@ to guess them.
 
 ### 33 U.S.C. § 3203
 
+> in subparagraph (F), by striking “Federal, State, tribal, and local government officials” and inserting “Federal, State, and local government officials, Indian Tribes, Tribal organizations, Native Hawaiian organizations,”;
+
+| | |
+|---|---|
+| Removed | `Federal, State, tribal, and local government officials` |
+| Inserted | `Federal, State, and local government officials, Indian Tribes, Tribal organizations, Native Hawaiian organizations,` |
+
+### 33 U.S.C. § 3203
+
 > in the paragraph heading, by striking “Uniform” and inserting “Standardized”;
 
 | | |
@@ -98,6 +152,24 @@ to guess them.
 
 ### 33 U.S.C. § 3203
 
+> in clause (i), as so redesignated, by striking “uniform” and inserting “standardized”;
+
+| | |
+|---|---|
+| Removed | `uniform` |
+| Inserted | `standardized` |
+
+### 33 U.S.C. § 3203
+
+> in clause (iii)(II), as so redesignated, by striking “uniform” and inserting “standardized”;
+
+| | |
+|---|---|
+| Removed | `uniform` |
+| Inserted | `standardized` |
+
+### 33 U.S.C. § 3203
+
 > in subparagraph (C), by striking “and the Advanced National Seismic System;” and inserting “the Advanced National Seismic System, and the global navigation satellite system; and”; and
 
 | | |
@@ -113,6 +185,96 @@ to guess them.
 |---|---|
 | Removed | `accuracy of the tsunami model used` |
 | Inserted | `timeliness and accuracy of the forecast used to issue the warning` |
+
+### 33 U.S.C. § 3203
+
+> in subparagraph (A), by striking “accuracy of the tsunami model used” and inserting “accuracy and timeliness of the tsunami model and forecast used”; and
+
+| | |
+|---|---|
+| Removed | `accuracy of the tsunami model used` |
+| Inserted | `accuracy and timeliness of the tsunami model and forecast used` |
+
+### 33 U.S.C. § 3203
+
+> by striking “local, and tribal partners” and inserting “and local partners, Indian Tribes, Tribal organizations, and Native Hawaiian organizations”.
+
+| | |
+|---|---|
+| Removed | `local, and tribal partners` |
+| Inserted | `and local partners, Indian Tribes, Tribal organizations, and Native Hawaiian organizations` |
+
+### 33 U.S.C. § 3204
+
+> by striking “Federal, State, local, and tribal government officials” and inserting “Federal, State, local, and Tribal government officials and representatives of Native Hawaiian organizations”; and
+
+| | |
+|---|---|
+| Removed | `Federal, State, local, and tribal government officials` |
+| Inserted | `Federal, State, local, and Tribal government officials and representatives of Native Hawaiian organizations` |
+
+### 42 U.S.C. § 5195c
+
+> in paragraph (1), by striking “tribes,” and inserting “Indian Tribes, Tribal organizations, Native Hawaiian organizations,”;
+
+| | |
+|---|---|
+| Removed | `tribes,` |
+| Inserted | `Indian Tribes, Tribal organizations, Native Hawaiian organizations,` |
+
+### 42 U.S.C. § 5195c
+
+> in paragraph (4), by striking “tribal, and local governments” and inserting “and local governments, Indian Tribes, Tribal organizations, Native Hawaiian organizations,”;
+
+| | |
+|---|---|
+| Removed | `tribal, and local governments` |
+| Inserted | `and local governments, Indian Tribes, Tribal organizations, Native Hawaiian organizations,` |
+
+### 42 U.S.C. § 5195c
+
+> in subparagraph (A), by striking “in the region, including paleotsunami data” and inserting “and tsunamigenic events in the region”;
+
+| | |
+|---|---|
+| Removed | `in the region, including paleotsunami data` |
+| Inserted | `and tsunamigenic events in the region` |
+
+### 33 U.S.C. § 3204
+
+> in paragraph (3), by striking “tribal” and inserting “Tribal”; and
+
+| | |
+|---|---|
+| Removed | `tribal` |
+| Inserted | `Tribal` |
+
+### 33 U.S.C. § 3204
+
+> in paragraph (6), by striking “tribal, and territorial governments and agencies,” and inserting “and territorial governments and agencies, Indian Tribes, Tribal organizations, Native Hawaiian organizations,”; and
+
+| | |
+|---|---|
+| Removed | `tribal, and territorial governments and agencies,` |
+| Inserted | `and territorial governments and agencies, Indian Tribes, Tribal organizations, Native Hawaiian organizations,` |
+
+### 33 U.S.C. § 3204
+
+> in subsection (e), by striking “tribes,” and inserting “Indian Tribes, Tribal organizations, Native Hawaiian organizations,”.
+
+| | |
+|---|---|
+| Removed | `tribes,` |
+| Inserted | `Indian Tribes, Tribal organizations, Native Hawaiian organizations,` |
+
+### 33 U.S.C. § 3205
+
+> by striking “State, tribal, and territorial governments, and academic institutions” and inserting “State and territorial governments, Indian Tribes, Tribal organizations, Native Hawaiian organizations, and academic institutions (including Tribal Colleges or Universities)”;
+
+| | |
+|---|---|
+| Removed | `State, tribal, and territorial governments, and academic institutions` |
+| Inserted | `State and territorial governments, Indian Tribes, Tribal organizations, Native Hawaiian organizations, and academic institutions (including Tribal Colleges or Universities)` |
 
 ### 33 U.S.C. § 3205
 
@@ -131,6 +293,51 @@ to guess them.
 |---|---|
 | Removed | `social science research` |
 | Inserted | `social and behavioral science research, including data collection,` |
+
+### 33 U.S.C. § 3206
+
+> in the matter preceding paragraph (1), by striking “Pacific Ocean nations participating in the International Tsunami Warning System of the Pacific,” and inserting “Pacific Ocean and Caribbean Sea nations participating in the International Tsunami Warning and Mitigation System,”;
+
+| | |
+|---|---|
+| Removed | `Pacific Ocean nations participating in the International Tsunami Warning System of the Pacific,` |
+| Inserted | `Pacific Ocean and Caribbean Sea nations participating in the International Tsunami Warning and Mitigation System,` |
+
+### 33 U.S.C. § 3206
+
+> in paragraph (2), by striking “national warning systems, and make information” and inserting “, maintaining, and strengthening the capacities of their national warning systems, by making information”;
+
+| | |
+|---|---|
+| Removed | `national warning systems, and make information` |
+| Inserted | `, maintaining, and strengthening the capacities of their national warning systems, by making information` |
+
+### 33 U.S.C. § 3206
+
+> by striking “maintain a library of materials” and inserting “serve as an information source”; and
+
+| | |
+|---|---|
+| Removed | `maintain a library of materials` |
+| Inserted | `serve as an information source` |
+
+### 33 U.S.C. § 3206
+
+> by striking “tsunami in general” and inserting “tsunamis and tsunami hazard-related risks to the public”; and
+
+| | |
+|---|---|
+| Removed | `tsunami in general` |
+| Inserted | `tsunamis and tsunami hazard-related risks to the public` |
+
+### 33 U.S.C. § 3208
+
+> in paragraph (1), by striking “and emergency managers” and inserting “, emergency managers, Indian Tribes, Tribal organizations, and Native Hawaiian organizations”.
+
+| | |
+|---|---|
+| Removed | `and emergency managers` |
+| Inserted | `, emergency managers, Indian Tribes, Tribal organizations, and Native Hawaiian organizations` |
 
 ### 15 U.S.C. § 8517
 
@@ -492,6 +699,150 @@ to guess them.
 | Removed | `State, a Tribe` |
 | Inserted | `State, Indian tribe, Tribal organization, Native Hawaiian organization,` |
 
+### 33 U.S.C. § 3601
+
+> by striking “Council” and inserting “Ocean Policy Committee”;
+
+| | |
+|---|---|
+| Removed | `Council` |
+| Inserted | `Ocean Policy Committee` |
+
+### 33 U.S.C. § 3601
+
+> by striking “and ocean observation” and inserting “, ocean, and meteorological observations”; and
+
+| | |
+|---|---|
+| Removed | `and ocean observation` |
+| Inserted | `, ocean, and meteorological observations` |
+
+### 33 U.S.C. § 3601
+
+> by striking “and coastal information” and inserting “, coastal, and meteorological information”; and
+
+| | |
+|---|---|
+| Removed | `and coastal information` |
+| Inserted | `, coastal, and meteorological information` |
+
+### 33 U.S.C. § 3602
+
+> in paragraph (2), as so redesignated, by striking “Council” and inserting “Ocean Policy Committee”;
+
+| | |
+|---|---|
+| Removed | `Council` |
+| Inserted | `Ocean Policy Committee` |
+
+### 33 U.S.C. § 3602
+
+> in paragraph (10), as redesignated by paragraph (6), by striking “Council” and inserting “Ocean Policy Committee”.
+
+| | |
+|---|---|
+| Removed | `Council` |
+| Inserted | `Ocean Policy Committee` |
+
+### 33 U.S.C. § 3603
+
+> in subparagraph (A), by striking “national” and inserting “regional, national,”;
+
+| | |
+|---|---|
+| Removed | `national` |
+| Inserted | `regional, national,` |
+
+### 33 U.S.C. § 3603
+
+> in the paragraph heading, by striking “Council” and inserting “Ocean Policy Committee”; and
+
+| | |
+|---|---|
+| Removed | `Council` |
+| Inserted | `Ocean Policy Committee` |
+
+### 33 U.S.C. § 3603
+
+> in the matter preceding subparagraph (A), by striking “Council” each place it appears and inserting “Ocean Policy Committee”;
+
+| | |
+|---|---|
+| Removed | `Council` |
+| Inserted | `Ocean Policy Committee` |
+
+### 33 U.S.C. § 3603
+
+> in subparagraph (A), by striking “The Council” and inserting “The Ocean Policy Committee”; and
+
+| | |
+|---|---|
+| Removed | `The Council` |
+| Inserted | `The Ocean Policy Committee` |
+
+### 33 U.S.C. § 3603
+
+> by striking “and harmful algal bloom forecasting” and inserting “harmful algal bloom forecasting, and resource and coastal management”;
+
+| | |
+|---|---|
+| Removed | `and harmful algal bloom forecasting` |
+| Inserted | `harmful algal bloom forecasting, and resource and coastal management` |
+
+### 33 U.S.C. § 3603
+
+> by striking “the Council” each place it appears and inserting “the Ocean Policy Committee”.
+
+| | |
+|---|---|
+| Removed | `the Council` |
+| Inserted | `the Ocean Policy Committee` |
+
+### 33 U.S.C. § 3606
+
+> by striking “the Council” each place it appears and inserting “the Ocean Policy Committee”.
+
+| | |
+|---|---|
+| Removed | `the Council` |
+| Inserted | `the Ocean Policy Committee` |
+
+### 33 U.S.C. § 3610
+
+> by striking “fiscal year 2025” and inserting “each of fiscal years 2026 through 2030”; and
+
+| | |
+|---|---|
+| Removed | `fiscal year 2025` |
+| Inserted | `each of fiscal years 2026 through 2030` |
+
+### 33 U.S.C. § 3604
+
+> Section 12305(b) of the Integrated Coastal and Ocean Observation System Act of 2009 (33 U.S.C. 3604(b)) is amended by striking “the Council” and inserting “the Ocean Policy Committee”.
+
+| | |
+|---|---|
+| Removed | `the Council` |
+| Inserted | `the Ocean Policy Committee` |
+
+### 33 U.S.C. § 3607
+
+> Section 12308 of the Integrated Coastal and Ocean Observation System Act of 2009 (33 U.S.C. 3607) is amended by striking “Council” each place it appears and inserting “Ocean Policy Committee”.
+
+| | |
+|---|---|
+| Removed | `Council` |
+| Inserted | `Ocean Policy Committee` |
+
+### 33 U.S.C. § 3609
+
+> Section 12310 of the Integrated Coastal and Ocean Observation System Act of 2009 (33 U.S.C. 3609) is amended by striking “the Council” each place it appears and inserting “the Ocean Policy Committee”.
+
+| | |
+|---|---|
+| Removed | `the Council` |
+| Inserted | `the Ocean Policy Committee` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -508,33 +859,53 @@ complete account of the bill's effect, which it is not.
 | `15 U.S.C. § 8513` | amend | Section 103 of the Weather Research and Forecasting Innovation Act of 2017 (15 U.S.C. 8513) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 8513` | amend | The table of contents in section 1(b) of the Weather Research and Forecasting Innovation Act of 2017 is amended by amending the item relating to section 103 to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `15 U.S.C. § 8514` | amend | Section 104 of the Weather Research and Forecasting Innovation Act of 2017 (15 U.S.C. 8514) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 3202` | insert | The Tsunami Warning and Education Act (enacted as title VIII of the Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006 (Public Law 109–479)) is amended in the title heading, by inserting “, Research,” after … | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 3201` | insert | The Tsunami Warning and Education Act (enacted as title VIII of the Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006 (Public Law 109–479)) is amended in the title heading, by inserting “, Research,” after … | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 3201` | add-at-end | Section 802 of the Tsunami Warning and Education Act (33 U.S.C. 3201) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3202` | insert | in paragraph (2), by inserting “timeliness and” before “accuracy”; | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 3202` | strike | in paragraph (7), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 3202` | replace | in paragraph (8), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 3202` | amend | by amending paragraph (8) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3202` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3203` | insert | in paragraph (4), by inserting “, using industry and scientific best practices,” after “operational condition”; | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 3203` | insert | in paragraph (2), by inserting “, or a successor system,” after “buoy array”; | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 3203` | insert | in paragraph (4), by inserting “, using industry and scientific best practices,” after “operational condition”; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 3203` | redesignate | by redesignating subparagraphs (D), (E), (F), and (G), as subparagraphs (E), (F), (G), and (H), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3203` | redesignate | by redesignating subparagraphs (D) through (F) and subparagraph (G) as subparagraphs (E) through (G) and subparagraph (I), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3203` | insert | by inserting after subparagraph (C) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3203` | redesignate | in subparagraph (G), as so redesignated, by striking “; and” and inserting a semicolon; and | the bill quotes the text struck but describes what replaces it |
+| `33 U.S.C. § 3203` | redesignate | by inserting after subparagraph (G), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3203` | amend | by amending paragraph (6) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3203` | amend | by amending the matter preceding subparagraph (A) to read as follows: “include a cooperative effort among the Administration, the United States Geological Survey, the National Aeronautics and Space Administration, and the National Scienc… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3203` | strike | in subparagraph (A), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
+| `33 U.S.C. § 3203` | amend | by amending subparagraph (B) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3203` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3203` | redesignate | by redesignating paragraphs (8) through (10) as paragraphs (9) through (11), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3203` | insert | by inserting after paragraph (7) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3203` | insert | by inserting “and decision support aides” after “graphical warning products,”; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 3203` | insert | by inserting “-prone” after “tsunami”; | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 3203` | strike | in paragraph (9), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 3203` | replace | in paragraph (10), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 3203` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3203` | redesignate | in paragraph (10), as so redesignated, by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
+| `33 U.S.C. § 3203` | redesignate | in paragraph (11), as so redesignated, by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 3203` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3203` | redesignate | by striking paragraph (1) and redesignating paragraphs (2) and (3) as paragraphs (1) and (2), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3203` | strike | by striking subparagraphs (A) and (B); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3203` | redesignate | by amending paragraph (1), as so redesignated, to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3203` | redesignate | by redesignating subsections (d), (e), (f), and (g) as subsections (e), (f), (g), and (h), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3203` | insert | by inserting after subsection (c) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3203` | insert | in the matter preceding subparagraph (A), by inserting “responsible for Alaska, the continental United States, Hawaii, United States territories, and international entities the Administrator determines appropriate” before the period; | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 3203` | strike | in subparagraph (A), by striking “, which is primarily responsible for Alaska and the continental United States”; and | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 3203` | strike | in subparagraph (B), by striking “, which is primarily responsible for Hawaii, the Caribbean, and other areas of the Pacific not covered by the National Center”; | the bill quotes the text struck but describes what replaces it |
-| `33 U.S.C. § 3203` | insert | in subparagraph (A), by inserting “current,” after “sea level,”; | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 3203` | insert | in subparagraph (A), by inserting “current,current, surface and ground water level,” after “sea level,”; | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 3203` | amend | by amending subparagraph (B) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3203` | insert | in subparagraph (H), by inserting “monitoring needs,” after “response,”; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 3203` | amend | by amending subparagraph (I) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3203` | redesignate | by redesignating subparagraphs (G) and (H) and subparagraphs (I) and (J) as subparagraphs (H) and (I) and subparagraphs (K) and (L), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3203` | insert | by inserting after subparagraph (F) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3203` | redesignate | in subparagraph (I), as so redesignated, by inserting “monitoring needs,” after “response,”; and | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 3203` | redesignate | by inserting after subparagraph (I), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3203` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3203` | amend | by amending paragraph (3) to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3203` | amend | by amending the matter preceding subparagraph (A) to read as follows: “The Administrator shall coordinate with the weather forecast offices of the National Weather Service, the centers supported or maintained under paragraph (1), and suc… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3203` | strike | in subparagraph (B), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
@@ -543,17 +914,37 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 3203` | strike | in subparagraph (D), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 3203` | replace | in subparagraph (E), by striking the period and inserting “; and”; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 3203` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3203` | redesignate | in subparagraph (B), by redesignating clauses (i) through (iii) as subclauses (I) through (III), respectively, and adjusting the margins accordingly; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3203` | redesignate | in subparagraph (C), by redesignating clauses (i) and (ii) as subclauses (I) and (II), respectively, and adjusting the margins accordingly; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3203` | redesignate | by redesignating subparagraphs (A) through (E) as clauses (i) through (v), respectively, and adjusting the margins accordingly; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3203` | replace | by striking “The Administrator” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `33 U.S.C. § 3203` | redesignate | in clause (iv), as so redesignated, by striking “; and” and inserting a semicolon; | the bill quotes the text struck but describes what replaces it |
+| `33 U.S.C. § 3203` | redesignate | in clause (v), as so redesignated, by striking the period and inserting “; and”; | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 3203` | redesignate | by adding after clause (v), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3203` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `33 U.S.C. § 3203` | insert | in the matter preceding subparagraph (A), by inserting “detect, measure, and” after “used to”; | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 3203` | amend | by adding | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3203` | insert | in paragraph (6), in the first sentence, by inserting “, including personnel,” after “resources”; and | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 3203` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3203` | insert | in the matter preceding subparagraph (A), by inserting “detect, measure, and” after “used to”; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 3203` | strike | in subparagraph (B), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
 | `33 U.S.C. § 3203` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3203` | insert | in paragraph (3), by inserting “according to industry best practices” before the period; and | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 3203` | insert | by inserting “and timeliness” after “effectiveness”; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 3203` | insert | The Tsunami Warning and Education Act (enacted as title VIII of the Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006 (Public Law 109–479)) is amended by inserting after section 804 (33 U.S.C. 3203) the fol… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3203` | insert | The table of contents for the Tsunami Warning and Education Act (enacted as title VIII of the Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006 (Public Law 109–479)) is amended by inserting after the item r… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 5195c` | redesignate | by redesignating subparagraphs (B), (C), (D), (E), (F), and (G) as subparagraphs (C), (D), (E), (F), (G), and (H), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3204` | redesignate | by redesignating subparagraphs (B), (C), (D), (E), (F), and (G) as subparagraphs (C), (D), (E), (F), (G), and (H), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3204` | insert | by inserting after subparagraph (A) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3204` | insert | by inserting “and maintain” after “establish” each place it appears; and | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 3204` | insert | in paragraph (3), by inserting before the semicolon “, such as vertical evacuation structures, sirens, and other potentially life-saving measures to ensure that communities designated as TsunamiReady have sufficient tsunami response opti… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5195c` | redesignate | by redesignating subparagraph (B) and subparagraphs (C) through (G) as subparagraph (C) and subparagraphs (E) through (I), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5195c` | insert | by inserting after subparagraph (A) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 5195c` | redesignate | by inserting after subparagraph (C), as so redesignated, the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 5195c` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3204` | insert | in paragraph (7)(C), by inserting “and behavioral” after “social”. | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 3204` | insert | in subparagraph (C), by inserting “and behavioral” after “social”; and | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 3204` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3204` | redesignate | by redesignating clauses (ii) and (iii) as clauses (iii) and (iv), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3204` | insert | by inserting after clause (i) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3205` | insert | by inserting “and management” after “data collection”; | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 3205` | insert | in paragraph (1), by inserting “deployment and” after “may include”; | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 3205` | strike | in paragraph (4), by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
@@ -561,9 +952,18 @@ complete account of the bill's effect, which it is not.
 | `33 U.S.C. § 3205` | insert | by inserting after paragraph (4) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3205` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3206` | insert | Section 807(d) of the Tsunami Warning and Education Act (33 U.S.C. 3206(d)) is amended by inserting “and management” after “data sharing”. | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 3206` | redesignate | by redesignating paragraphs (3) and (4) as paragraphs (4) and (5), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3206` | insert | by inserting after paragraph (2) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3206` | redesignate | in paragraph (5), as so redesignated, by inserting “, tools,” after “materials”; and | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 3206` | insert | in subsection (d), by inserting “and management” after “data sharing”. | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 3206a` | insert | in subsection (b)(1), by inserting “and behavioral” after “social”; and | the bill quotes the text inserted but describes where it goes |
 | `33 U.S.C. § 3206a` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `33 U.S.C. § 3207` | amend | Section 809 of the Tsunami Warning and Education Act (33 U.S.C. 3207) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3201` | redesignate | by redesignating section 809 as section 811; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3201` | insert | by inserting after section 808 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3201` | replace | The table of contents in section 1(b) of the Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006 (Public Law 109–479; 120 Stat. 3575) is amended by striking the item relating to section 809 and inserting the … | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3201` | redesignate | Section 811 of the Tsunami Warning and Education Act, as so redesignated, is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3201` | insert | in the matter preceding paragraph (1), by inserting “and Indian Tribes, Tribal organizations, and Native Hawaiian organizations (for purposes of this section, as such terms are defined in section 802 of the Tsunami Warning and Education … | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 8516` | insert | by inserting “Federal” before “observing capabilities”; and | the bill quotes the text inserted but describes where it goes |
 | `15 U.S.C. § 8516` | strike | by striking “and” after the semicolon; | the bill quotes the text struck but describes what replaces it |
 | `15 U.S.C. § 8516` | insert | by inserting “, including private sector partnerships or commercial acquisition,” after “options”; and | the bill quotes the text inserted but describes where it goes |
@@ -746,3 +1146,25 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 10367` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `16 U.S.C. § 1854` | insert | by inserting “(A)” after “(1)”; and | the bill quotes the text inserted but describes where it goes |
 | `16 U.S.C. § 1854` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3601` | insert | by inserting “data management systems and cyber infrastructure,” after “data gaps,”; and | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 3601` | strike | by striking “global climate change,”. | the bill quotes the text struck but describes what replaces it |
+| `33 U.S.C. § 3602` | strike | by striking paragraph (2); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3602` | redesignate | by redesignating paragraphs (3), (4), and (5) as paragraphs (2), (3), and (4), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3602` | redesignate | by inserting after paragraph (4), as redesignated by paragraph (2), the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3602` | insert | in paragraph (6), by inserting “conduct operational oceanography measurements and” after “systems in order to”; | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 3602` | redesignate | by redesignating paragraphs (8) and (9) as paragraphs (9) and (10), respectively; | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3602` | insert | by inserting after paragraph (7) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3603` | insert | in subparagraph (C), by inserting “and ocean” after “weather”; and | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 3603` | insert | in clause (iv), by inserting “and ocean” after “weather” each place it appears; and | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 3603` | insert | in clause (v), by inserting “and ocean” after “weather”; | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 3603` | redesignate | by redesignating clauses (vi) through (x) as clauses (vii) through (xi), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3603` | insert | by inserting after clause (v) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3603` | insert | in clause (iii)(I), by inserting “as operational entities” after “associations”; | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 3603` | insert | in clause (x), by inserting “, cyber infrastructure,” after “data management”; and | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 3603` | insert | by inserting “and ocean” after “weather”; and | the bill quotes the text inserted but describes where it goes |
+| `33 U.S.C. § 3603` | amend | in subsection (d)(1), by adding a period at the end; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3606` | redesignate | by redesignating paragraphs (8) and (9) as paragraphs (9) and (10), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3606` | insert | by inserting after paragraph (7) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `33 U.S.C. § 3610` | replace | by striking “There are” and inserting the following: | the bill quotes the text struck but describes what replaces it |
+| `33 U.S.C. § 3610` | strike | by striking “—” and all that follows through “(5)”; | the bill quotes the text struck but describes what replaces it |
+| `33 U.S.C. § 3610` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
