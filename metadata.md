@@ -1,7 +1,7 @@
 ---
 measure: S. 4668
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 4668
@@ -16,15 +16,96 @@ Protect College Sports Act of 2026
 
 - Sen. Cruz, Ted [R-TX] (C001098)
 
-## Cosponsors (3)
+## Cosponsors (70)
 
 - Sen. Cantwell, Maria [D-WA] (C000127)
 - Sen. Schmitt, Eric [R-MO] (S001227)
 - Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Ricketts, Pete [R-NE] (R000618)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Luján, Ben Ray [D-NM] (L000570)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Britt, Katie Boyd [R-AL] (B001319)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Tuberville, Tommy [R-AL] (T000278)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Blunt Rochester, Lisa [D-DE] (B001303)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Murphy, Christopher [D-CT] (M001169)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Blunt Rochester, Lisa [D-DE] (B001303)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Reed, Jack [D-RI] (R000122)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Schmitt, Eric [R-MO] (S001227)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Scott, Tim [R-SC] (S001184)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Tuberville, Tommy [R-AL] (T000278)
+- Sen. Banks, Jim [R-IN] (B001299)
+- Sen. Marshall, Roger [R-KS] (M001198)
+- Sen. Risch, James E. [R-ID] (R000584)
+- Sen. Paul, Rand [R-KY] (P000603)
 
 ## Committees (1)
 
 - Senate — Commerce, Science, and Transportation Committee
+
+## Recorded votes (11)
+
+- 2026-09-15 — [Senate 119-2-235](votes/senate-119-2-0235.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (74–24)
+- 2026-09-17 — [Senate 119-2-236](votes/senate-119-2-0236.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (77–22)
+- 2026-09-22 — [Senate 119-2-240](votes/senate-119-2-0240.md) — On the Cloture Motion — **Cloture Motion Agreed to** (70–21)
+- 2026-09-24 — [Senate 119-2-242](votes/senate-119-2-0242.md) — On the Amendment — **Amendment Agreed to** (77–23)
+- 2026-09-24 — [Senate 119-2-243](votes/senate-119-2-0243.md) — On the Cloture Motion — **Cloture Motion Agreed to** (74–25)
+- 2026-09-28 — [Senate 119-2-245](votes/senate-119-2-0245.md) — On the Amendment — **Amendment Agreed to** (96–1)
+- 2026-09-28 — [Senate 119-2-246](votes/senate-119-2-0246.md) — On the Amendment — **Amendment Rejected** (1–94)
+- 2026-09-28 — [Senate 119-2-247](votes/senate-119-2-0247.md) — On the Amendment — **Amendment Rejected** (42–54)
+- 2026-09-28 — [Senate 119-2-248](votes/senate-119-2-0248.md) — On the Amendment — **Amendment Rejected** (49–50)
+- 2026-09-28 — [Senate 119-2-249](votes/senate-119-2-0249.md) — On the Amendment — **Amendment Rejected** (47–52)
+- 2026-09-28 — [Senate 119-2-250](votes/senate-119-2-0250.md) — On Passage of the Bill — **Bill Passed** (77–22)
 
 ## Actions
 
@@ -34,3 +115,251 @@ Protect College Sports Act of 2026
 - 2026-06-24 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. Without written report.
 - 2026-06-24 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. Without written report.
 - 2026-06-24 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 449.
+- 2026-08-05 — 
+- 2026-08-05 — Cloture motion on the motion to proceed to the measure presented in Senate. (CR S4449)
+- 2026-08-05 — Motion to proceed to consideration of measure made in Senate. (CR S4449)
+- 2026-08-05 — Senate amendment submitted
+- 2026-08-06 — 
+- 2026-08-06 — 
+- 2026-08-06 — 
+- 2026-08-06 — 
+- 2026-08-06 — Senate amendment submitted
+- 2026-08-06 — Senate amendment submitted
+- 2026-08-06 — Senate amendment submitted
+- 2026-08-06 — Senate amendment submitted
+- 2026-08-07 — 
+- 2026-08-07 — 
+- 2026-08-07 — 
+- 2026-08-07 — 
+- 2026-08-07 — 
+- 2026-08-07 — 
+- 2026-08-07 — 
+- 2026-08-07 — 
+- 2026-08-07 — 
+- 2026-08-07 — Senate amendment submitted
+- 2026-08-07 — Senate amendment submitted
+- 2026-08-07 — Senate amendment submitted
+- 2026-08-07 — Senate amendment submitted
+- 2026-08-07 — Senate amendment submitted
+- 2026-08-07 — Senate amendment submitted
+- 2026-08-07 — Senate amendment submitted
+- 2026-08-07 — Senate amendment submitted
+- 2026-08-07 — Senate amendment submitted
+- 2026-09-14 — 
+- 2026-09-14 — Senate amendment submitted
+- 2026-09-15 — Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 74 - 24. Record Vote Number: 235. (CR S4715-4716)
+- 2026-09-15 — Motion to proceed to measure considered in Senate.
+- 2026-09-16 — 
+- 2026-09-16 — 
+- 2026-09-16 — Motion to proceed to measure considered in Senate. (CR S4743)
+- 2026-09-16 — Senate amendment submitted
+- 2026-09-16 — Senate amendment submitted
+- 2026-09-17 — 
+- 2026-09-17 — 
+- 2026-09-17 — 
+- 2026-09-17 — 
+- 2026-09-17 — 
+- 2026-09-17 — 
+- 2026-09-17 — 
+- 2026-09-17 — 
+- 2026-09-17 — 
+- 2026-09-17 — 
+- 2026-09-17 — 
+- 2026-09-17 — 
+- 2026-09-17 — 
+- 2026-09-17 — 
+- 2026-09-17 — 
+- 2026-09-17 — 
+- 2026-09-17 — 
+- 2026-09-17 — 
+- 2026-09-17 — 
+- 2026-09-17 — Amendment SA 6776 proposed by Senator Thune for Senator Cruz. (consideration: CR S4789) In the nature of a substitute.
+- 2026-09-17 — Amendment SA 6777 proposed by Senator Thune to Amendment SA 6776. To improve the bill. (consideration: CR S4789)
+- 2026-09-17 — Amendment SA 6778 proposed by Senator Thune to Amendment SA 6777. To improve the bill.
+- 2026-09-17 — Amendment SA 6779 proposed by Senator Thune to language proposed to be stricken by amendment no. 6776. To improve the bill. (consideration: CR S4789)
+- 2026-09-17 — Amendment SA 6780 proposed by Senator Thune to Amendment SA 6779. To improve the bill.
+- 2026-09-17 — Amendment SA 6781 proposed by Senator Thune. (consideration: CR S4789) To improve the bill.
+- 2026-09-17 — Amendment SA 6782 proposed by Senator Thune to Amendment SA 6781 (the instructions of the motion to recommit). To improve the bill. (consideration: CR S4789)
+- 2026-09-17 — Amendment SA 6783 proposed by Senator Thune to Amendment SA 6782. To improve the bill. (consideration: CR S4789)
+- 2026-09-17 — Cloture motion on amendment SA 6776 presented in Senate.
+- 2026-09-17 — Cloture motion on the measure presented in Senate. (CR S4789)
+- 2026-09-17 — Measure laid before Senate by motion. (consideration: CR S4777-4790)
+- 2026-09-17 — Motion by Senator Thune to recommit to Senate Committee on Commerce, Science, and Transportation with instructions to report back forthwith with the following amendment (SA 6781) made in Senate. (CR S4789)
+- 2026-09-17 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 77 - 22. Record Vote Number: 236. (CR S4773-4774)
+- 2026-09-17 — Motion to proceed to measure considered in Senate. (CR S4773-4774)
+- 2026-09-17 — Senate amendment proposed (on the floor): Amendment SA 6776 proposed by Senator Thune for Senator Cruz.
+- 2026-09-17 — Senate amendment proposed (on the floor): Amendment SA 6777 proposed by Senator Thune to Amendment SA 6776.
+- 2026-09-17 — Senate amendment proposed (on the floor): Amendment SA 6778 proposed by Senator Thune to Amendment SA 6777.
+- 2026-09-17 — Senate amendment proposed (on the floor): Amendment SA 6779 proposed by Senator Thune to language proposed to be stricken by amendment no. 6776.
+- 2026-09-17 — Senate amendment proposed (on the floor): Amendment SA 6780 proposed by Senator Thune to Amendment SA 6779.
+- 2026-09-17 — Senate amendment proposed (on the floor): Amendment SA 6781 proposed by Senator Thune.
+- 2026-09-17 — Senate amendment proposed (on the floor): Amendment SA 6782 proposed by Senator Thune to Amendment SA 6781 (the instructions of the motion to recommit).
+- 2026-09-17 — Senate amendment proposed (on the floor): Amendment SA 6783 proposed by Senator Thune to Amendment SA 6782.
+- 2026-09-17 — Senate amendment submitted
+- 2026-09-17 — Senate amendment submitted
+- 2026-09-17 — Senate amendment submitted
+- 2026-09-17 — Senate amendment submitted
+- 2026-09-17 — Senate amendment submitted
+- 2026-09-17 — Senate amendment submitted
+- 2026-09-17 — Senate amendment submitted
+- 2026-09-17 — Senate amendment submitted
+- 2026-09-17 — Senate amendment submitted
+- 2026-09-17 — Senate amendment submitted
+- 2026-09-17 — Senate amendment submitted
+- 2026-09-17 — Senate amendment submitted
+- 2026-09-17 — Senate amendment submitted
+- 2026-09-17 — Senate amendment submitted
+- 2026-09-17 — Senate amendment submitted
+- 2026-09-17 — Senate amendment submitted
+- 2026-09-17 — Senate amendment submitted
+- 2026-09-17 — Senate amendment submitted
+- 2026-09-17 — Senate amendment submitted
+- 2026-09-22 — 
+- 2026-09-22 — 
+- 2026-09-22 — 
+- 2026-09-22 — 
+- 2026-09-22 — 
+- 2026-09-22 — 
+- 2026-09-22 — 
+- 2026-09-22 — 
+- 2026-09-22 — 
+- 2026-09-22 — 
+- 2026-09-22 — 
+- 2026-09-22 — 
+- 2026-09-22 — 
+- 2026-09-22 — 
+- 2026-09-22 — 
+- 2026-09-22 — 
+- 2026-09-22 — 
+- 2026-09-22 — 
+- 2026-09-22 — 
+- 2026-09-22 — 
+- 2026-09-22 — 
+- 2026-09-22 — 
+- 2026-09-22 — 
+- 2026-09-22 — 
+- 2026-09-22 — 
+- 2026-09-22 — 
+- 2026-09-22 — 
+- 2026-09-22 — 
+- 2026-09-22 — 
+- 2026-09-22 — Cloture on amendment SA 6776 invoked in Senate by Yea-Nay Vote. 70 - 21. Record Vote Number: 240. In the nature of a substitute. (CR S4850-4851)
+- 2026-09-22 — Considered by Senate. (consideration: CR S4851)
+- 2026-09-22 — Considered by Senate. In the nature of a substitute. (consideration: CR S4851)
+- 2026-09-22 — Considered by Senate. To improve the bill. (consideration: CR S4851)
+- 2026-09-22 — Considered by Senate. To improve the bill. (consideration: CR S4851)
+- 2026-09-22 — Considered by Senate. To improve the bill. (consideration: CR S4851)
+- 2026-09-22 — Considered by Senate. To improve the bill. (consideration: CR S4851)
+- 2026-09-22 — Considered by Senate. To improve the bill. (consideration: CR S4851)
+- 2026-09-22 — Considered by Senate. To improve the bill. (consideration: CR S4851)
+- 2026-09-22 — Motion by Senator Thune to recommit to Senate Committee on Commerce, Science, and Transportation with instructions to report back forthwith with the following amendment (SA 6781) fell when cloture was invoked on amendment SA 6776 in Senate.
+- 2026-09-22 — Roll call votes on amendments in Senate: Cloture on amendment SA 6776 invoked in Senate by Yea-Nay Vote. 70 - 21. Record Vote Number: 240.
+- 2026-09-22 — SA 6781 (the instructions of the motion to commit) fell when cloture was invoked on amendment SA 6776.
+- 2026-09-22 — SA 6782 fell when SA 6781 fell.
+- 2026-09-22 — SA 6783 fell when SA 6782 fell.
+- 2026-09-22 — Senate amendment submitted
+- 2026-09-22 — Senate amendment submitted
+- 2026-09-22 — Senate amendment submitted
+- 2026-09-22 — Senate amendment submitted
+- 2026-09-22 — Senate amendment submitted
+- 2026-09-22 — Senate amendment submitted
+- 2026-09-22 — Senate amendment submitted
+- 2026-09-22 — Senate amendment submitted
+- 2026-09-22 — Senate amendment submitted
+- 2026-09-22 — Senate amendment submitted
+- 2026-09-22 — Senate amendment submitted
+- 2026-09-22 — Senate amendment submitted
+- 2026-09-22 — Senate amendment submitted
+- 2026-09-22 — Senate amendment submitted
+- 2026-09-22 — Senate amendment submitted
+- 2026-09-22 — Senate amendment submitted
+- 2026-09-22 — Senate amendment submitted
+- 2026-09-22 — Senate amendment submitted
+- 2026-09-22 — Senate amendment submitted
+- 2026-09-22 — Senate amendment submitted
+- 2026-09-22 — Senate amendment submitted
+- 2026-09-22 — Senate amendment submitted
+- 2026-09-22 — Senate amendment submitted
+- 2026-09-22 — Senate amendment submitted
+- 2026-09-22 — Senate amendment submitted
+- 2026-09-22 — Senate amendment submitted
+- 2026-09-22 — Senate amendment submitted
+- 2026-09-22 — Senate amendment submitted
+- 2026-09-22 — Senate amendment submitted
+- 2026-09-23 — 
+- 2026-09-23 — 
+- 2026-09-23 — 
+- 2026-09-23 — 
+- 2026-09-23 — 
+- 2026-09-23 — Considered by Senate. (consideration: CR S4885)
+- 2026-09-23 — Considered by Senate. In the nature of a substitute. (consideration: CR S4885)
+- 2026-09-23 — Considered by Senate. To improve the bill. (consideration: CR S4885)
+- 2026-09-23 — Considered by Senate. To improve the bill. (consideration: CR S4885)
+- 2026-09-23 — Considered by Senate. To improve the bill. (consideration: CR S4885)
+- 2026-09-23 — Considered by Senate. To improve the bill. (consideration: CR S4885)
+- 2026-09-23 — Considered by Senate. To improve the bill. (consideration: CR S4885)
+- 2026-09-23 — Considered by Senate. To improve the bill. (consideration: CR S4885)
+- 2026-09-23 — Senate amendment submitted
+- 2026-09-23 — Senate amendment submitted
+- 2026-09-23 — Senate amendment submitted
+- 2026-09-23 — Senate amendment submitted
+- 2026-09-23 — Senate amendment submitted
+- 2026-09-24 — 
+- 2026-09-24 — 
+- 2026-09-24 — 
+- 2026-09-24 — Amendment SA 6776 agreed to in Senate by Yea-Nay Vote. 77 - 23. Record Vote Number: 242.
+- 2026-09-24 — Cloture on the measure, as amended, invoked in Senate by Yea-Nay Vote. 74 - 25. Record Vote Number: 243.
+- 2026-09-24 — Considered by Senate. (consideration: CR S4959-4962)
+- 2026-09-24 — Considered by Senate. In the nature of a substitute. (consideration: CR S4959-4962)
+- 2026-09-24 — Considered by Senate. To improve the bill. (consideration: CR S4959)
+- 2026-09-24 — Considered by Senate. To improve the bill. (consideration: CR S4959)
+- 2026-09-24 — Considered by Senate. To improve the bill. (consideration: CR S4959-4962)
+- 2026-09-24 — Considered by Senate. To improve the bill. (consideration: CR S4959-4962)
+- 2026-09-24 — Motion to table amendment SA 6777 agreed to in Senate by Voice Vote.
+- 2026-09-24 — Motion to table amendment SA 6779 agreed to in Senate by Voice Vote.
+- 2026-09-24 — Roll call votes on amendments in Senate: Amendment SA 6776 agreed to in Senate by Yea-Nay Vote. 77 - 23. Record Vote Number: 242.
+- 2026-09-24 — SA 6778 fell when SA 6777 was tabled.
+- 2026-09-24 — SA 6780 fell when SA 6779 was tabled.
+- 2026-09-24 — Senate amendment agreed to: Amendment SA 6776 agreed to in Senate by Yea-Nay Vote. 77 - 23. Record Vote Number: 242.
+- 2026-09-24 — Senate amendment submitted
+- 2026-09-24 — Senate amendment submitted
+- 2026-09-24 — Senate amendment submitted
+- 2026-09-24 — The committee substitute tabled by Voice Vote.
+- 2026-09-28 — 
+- 2026-09-28 — Amendment SA 6758 proposed by Senator Paul to Amendment SA 6776. To improve the bill. (consideration: CR S5040-5041)
+- 2026-09-28 — Amendment SA 6760 proposed by Senator Kennedy to Amendment SA 6776. To limit price increases for college athletics tickets. (consideration: CR S5041-5042)
+- 2026-09-28 — Amendment SA 6805 proposed by Senator Booker to Amendment SA 6776. To increase the limitation on funding for post-eligibility insurance and catastrophic injury for student athletes. (consideration: CR S5042-5043)
+- 2026-09-28 — Amendment SA 6828 proposed by Senator Baldwin to Amendment SA 6776. To modify the provision relating to the relationship of this Act to existing law. (consideration: CR S5039)
+- 2026-09-28 — Amendment SA 6830 proposed by Senator Scott SC to Amendment SA 6776. To require the disclosure of foreign financing of intercollegiate athletics.
+- 2026-09-28 — Amendment SA 6831 proposed by Senator Moody to Amendment SA 6776. To modify the prohibition on certain conference mergers and acquisitions. (consideration: CR S5042)
+- 2026-09-28 — Amendment SA 6835 proposed by Senator Booker to Amendment SA 6776. To establish certain standards with respect to coaches of varsity sports teams. (consideration: CR S5043-5044)
+- 2026-09-28 — Considered by Senate. (consideration: CR S5021-5064)
+- 2026-09-28 — Passed Senate with an amendment by Yea-Nay Vote. 77 - 22. Record Vote Number: 250. (text: CR S5044-5063)
+- 2026-09-28 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 77 - 22. Record Vote Number: 250. (text: CR S5044-5063)
+- 2026-09-28 — Roll call votes on amendments in Senate: Under the order of 9/28/26, amendment SA 6758 not agreed to in Senate by Yea-Nay Vote. 1 - 94. Record Vote Number: 246.
+- 2026-09-28 — Roll call votes on amendments in Senate: Under the order of 9/28/26, amendment SA 6760, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 42 - 54. Record Vote Number: 247.
+- 2026-09-28 — Roll call votes on amendments in Senate: Under the order of 9/28/26, amendment SA 6805 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 248.
+- 2026-09-28 — Roll call votes on amendments in Senate: Under the order of 9/28/26, amendment SA 6828, notwithstanding the adoption of amendment SA 6776, agreed to in Senate by Yea-Nay Vote. 96 - 1. Record Vote Number: 245.
+- 2026-09-28 — Roll call votes on amendments in Senate: Under the order of 9/28/26, amendment SA 6835 not agreed to in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 249.
+- 2026-09-28 — Senate amendment agreed to: Under the order of 9/28/26, amendment SA 6828, notwithstanding the adoption of amendment SA 6776, agreed to in Senate by Yea-Nay Vote. 96 - 1. Record Vote Number: 245.
+- 2026-09-28 — Senate amendment agreed to: Under the order of 9/28/26, amendment SA 6830, notwithstanding the adoption of amendment SA 6776, agreed to in Senate by Voice Vote.
+- 2026-09-28 — Senate amendment agreed to: Under the order of 9/28/26, amendment SA 6831, notwithstanding the adoption of amendment SA 6776, agreed to in Senate by Voice Vote.
+- 2026-09-28 — Senate amendment not agreed to: Under the order of 9/28/26, amendment SA 6758 not agreed to in Senate by Yea-Nay Vote. 1 - 94. Record Vote Number: 246.
+- 2026-09-28 — Senate amendment not agreed to: Under the order of 9/28/26, amendment SA 6760, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 42 - 54. Record Vote Number: 247.
+- 2026-09-28 — Senate amendment not agreed to: Under the order of 9/28/26, amendment SA 6805 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 248.
+- 2026-09-28 — Senate amendment not agreed to: Under the order of 9/28/26, amendment SA 6835 not agreed to in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 249.
+- 2026-09-28 — Senate amendment proposed (on the floor): Amendment SA 6758 proposed by Senator Paul to Amendment SA 6776.
+- 2026-09-28 — Senate amendment proposed (on the floor): Amendment SA 6760 proposed by Senator Kennedy to Amendment SA 6776.
+- 2026-09-28 — Senate amendment proposed (on the floor): Amendment SA 6805 proposed by Senator Booker to Amendment SA 6776.
+- 2026-09-28 — Senate amendment proposed (on the floor): Amendment SA 6828 proposed by Senator Baldwin to Amendment SA 6776.
+- 2026-09-28 — Senate amendment proposed (on the floor): Amendment SA 6830 proposed by Senator Scott SC to Amendment SA 6776.
+- 2026-09-28 — Senate amendment proposed (on the floor): Amendment SA 6831 proposed by Senator Moody to Amendment SA 6776.
+- 2026-09-28 — Senate amendment proposed (on the floor): Amendment SA 6835 proposed by Senator Booker to Amendment SA 6776.
+- 2026-09-28 — Senate amendment submitted
+- 2026-09-28 — Under the order of 9/28/26, amendment SA 6758 not agreed to in Senate by Yea-Nay Vote. 1 - 94. Record Vote Number: 246.
+- 2026-09-28 — Under the order of 9/28/26, amendment SA 6760, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 42 - 54. Record Vote Number: 247.
+- 2026-09-28 — Under the order of 9/28/26, amendment SA 6805 not agreed to in Senate by Yea-Nay Vote. 49 - 50. Record Vote Number: 248.
+- 2026-09-28 — Under the order of 9/28/26, amendment SA 6828, notwithstanding the adoption of amendment SA 6776, agreed to in Senate by Yea-Nay Vote. 96 - 1. Record Vote Number: 245.
+- 2026-09-28 — Under the order of 9/28/26, amendment SA 6830, notwithstanding the adoption of amendment SA 6776, agreed to in Senate by Voice Vote.
+- 2026-09-28 — Under the order of 9/28/26, amendment SA 6831, notwithstanding the adoption of amendment SA 6776, agreed to in Senate by Voice Vote.
+- 2026-09-28 — Under the order of 9/28/26, amendment SA 6835 not agreed to in Senate by Yea-Nay Vote. 47 - 52. Record Vote Number: 249.
