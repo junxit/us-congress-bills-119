@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2332
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “States Handling Access to Reciprocity for Employment Act of 2025” or the “SHARE Act of 2025”.
+This Act may be cited as the “States Handling Access to Reciprocity for Employment Act of 2026” or the “SHARE Act of 2026”.
 
 ## § 2. Sharing and use of criminal history record information
 
@@ -19,7 +19,7 @@ Subtitle E of title VI of the Intelligence Reform and Terrorism Prevention Act o
 
 > ## § 6404. Sharing and use of criminal history record information
 >
-> - **(a)** *Requirement for Federal Bureau of Investigation To provide certain criminal history record information* Subject to the restrictions in subsection (b), the Director of the Federal Bureau of Investigation shall furnish or otherwise make available to a State licensing authority, through an agreement with a State law enforcement agency or State identification bureau, criminal history record information to the extent required by an interstate compact, or the regulations duly promulgated thereunder, for the purpose of conducting a criminal history background check of any individual seeking a license or privilege to practice an occupation or profession in a compact member State.
+> - **(a)** *Requirement for Federal Bureau of Investigation to provide certain criminal history record information* Subject to the restrictions in subsection (b), the Director of the Federal Bureau of Investigation shall furnish or otherwise make available to a State licensing authority, through an agreement with a State law enforcement agency or State identification bureau, criminal history record information to the extent required by an interstate compact, or the regulations duly promulgated thereunder, for the purpose of conducting a criminal history background check of any individual seeking a license or privilege to practice an occupation or profession in a compact member State.
 > - **(b)** *State licensing authority use of criminal history record information*
 >   - **(1)** *Prohibition* A State licensing authority that is a member of an interstate compact that requires completion of a criminal history background check for an individual for the purpose of acting upon a license or privilege of that individual to practice an occupation or profession in a State shall use such information solely for that purpose and may not share criminal history record information or any part thereof with the compact’s Commission, any other State entity or State Licensing Authority, or the public.
 >   - **(2)** *Sharing fact of completion of criminal history background check expressly permitted* A State licensing authority informing a compact Commission of the completion of the criminal history background check, including a binary determination of whether or not the criminal history background check of an applicant was satisfactory, is expressly permitted under this section and shall not constitute the sharing of criminal history record information under paragraph (1).
