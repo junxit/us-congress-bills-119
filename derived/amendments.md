@@ -1,7 +1,7 @@
 ---
 measure: S. 2339
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 2 executed, 0 stated and not applied.
+1 amendatory instruction. 1 executed, 0 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,15 +23,6 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
-
-### 42 U.S.C. § 280m
-
-> Section 399NN(h) of the Public Health Service Act (42 U.S.C. 280m(h)) is amended by striking “2026” and inserting “2031”.
-
-| | |
-|---|---|
-| Removed | `2026` |
-| Inserted | `2031` |
 
 ### 42 U.S.C. § 280m
 

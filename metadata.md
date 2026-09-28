@@ -1,7 +1,7 @@
 ---
 measure: S. 2339
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2339
@@ -32,3 +32,5 @@ EARLY Act Reauthorization of 2025
 - 2026-07-16 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy with an amendment in the nature of a substitute. Without written report.
 - 2026-07-16 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy with an amendment in the nature of a substitute. Without written report.
 - 2026-07-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 460.
+- 2026-09-28 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5120; text: CR S5120)
+- 2026-09-28 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5120; text: CR S5120)
