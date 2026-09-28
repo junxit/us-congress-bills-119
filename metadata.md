@@ -1,7 +1,7 @@
 ---
 measure: S. 239
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 239
@@ -28,3 +28,7 @@ Crow Revenue Act
 
 - 2025-01-24 — Introduced in Senate
 - 2025-01-24 — Read twice and referred to the Committee on Indian Affairs.
+- 2026-08-05 — Committee on Indian Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2026-09-28 — Committee on Indian Affairs. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 119-155.
+- 2026-09-28 — Committee on Indian Affairs. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 119-155.
+- 2026-09-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 686.
