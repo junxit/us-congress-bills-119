@@ -1,7 +1,7 @@
 ---
 measure: S. 4974
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 4974
@@ -33,3 +33,5 @@ Making America's Food Safer Act
 - 2026-07-28 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy with an amendment in the nature of a substitute. Without written report.
 - 2026-07-28 — Committee on Health, Education, Labor, and Pensions. Reported by Senator Cassidy with an amendment in the nature of a substitute. Without written report.
 - 2026-07-28 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 530.
+- 2026-09-28 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5121-5122; text: CR S5121-5122)
+- 2026-09-28 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5121-5122; text: CR S5121-5122)
