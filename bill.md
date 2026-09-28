@@ -1,0 +1,33 @@
+---
+legis-num: S. RES. 911
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. RES. 911
+
+> Expressing support for the recognition of September 27, 2026, to October 3, 2026, as “Asian American and Native American Pacific Islander-Serving Institutions Week”.
+
+## Preamble
+
+- Whereas 2026 marks the 19th anniversary of the formal recognition and funding of Asian American and Native American Pacific Islander-serving institutions by Congress on September 27, 2007, in an amendment to the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.), as added by section 802 of the College Cost Reduction and Access Act (Public Law 110–84; 121 Stat. 817);
+- Whereas the Asian American and Native American Pacific Islander-Serving Institutions Program was officially authorized on August 14, 2008, through section 307 of the Higher Education Opportunity Act (Public Law 110–315; 122 Stat. 3175), which added section 320 to the Higher Education Act of 1965 (20 U.S.C. 1059g);
+- Whereas under section 320 of the Higher Education Act of 1965, Asian American and Native American Pacific Islander-serving institutions are defined as degree-granting postsecondary institutions that have an undergraduate enrollment of no less than 10 percent Asian American, Native Hawaiian, and Pacific Islander students;
+- Whereas the purpose of the Asian American and Native American Pacific Islander-Serving Institutions Program is to improve the availability and quality of postsecondary education programs that serve Asian American, Native Hawaiian, and Pacific Islander students;
+- Whereas, since 2007, over 280 colleges and universities throughout the United States, including the United States territories in the Pacific, have been eligible for funding as Asian American and Native American Pacific Islander-serving institutions under the Higher Education Act of 1965;
+- Whereas based on available institutional data and the statutory eligibility criteria established in the Higher Education Act of 1965—(1)in academic year 2025–2026, an estimated 194 colleges and universities in the United States, including the United States territories in the Pacific, met the criteria as an eligible Asian American and Native American Pacific Islander-serving institution;(2)Asian American and Native American Pacific Islander-serving institutions comprise approximately 7.2 percent of all institutions of higher education, yet enroll 45.5 percent of all Asian American, Native Hawaiian, and Pacific Islander undergraduate students in the United States, including the United States territories in the Pacific;(3)Asian American and Native American Pacific Islander-serving institutions award approximately 50.9 percent of the associate’s degrees and 42.2 percent of the bachelor’s degrees attained by all Asian American, Native Hawaiian, and Pacific Islander college students in the United States, including the United States territories in the Pacific; and(4)nearly one-third of Asian American and Native American Pacific Islander-serving institutions maintain an Asian American, Native Hawaiian, and Pacific Islander enrollment of more than 20 percent;
+- Whereas, since 2007, 69 Asian American and Native American Pacific Islander-serving institutions in the United States, including the United States territories in the Pacific, have received grant funding through the Asian American and Native American Pacific Islander-serving institutions program;
+- Whereas Asian American and Native American Pacific Islander-serving institutions are of critical importance, as they enroll, support, and graduate large proportions of Asian American, Native Hawaiian, and Pacific Islander college students, the overwhelming majority of whom are from families with low incomes and are first-generation college students;
+- Whereas Asian American and Native American Pacific Islander-serving institutions employ many Asian American, Native Hawaiian, and Pacific Islander faculty, staff, and administrators;
+- Whereas Asian American and Native American Pacific Islander-serving institutions play a vital role in preserving the diverse culture, experiences, heritage, and history of Asian Americans, Native Hawaiians, and Pacific Islanders;
+- Whereas Asian American and Native American Pacific Islander-serving institutions create culturally relevant academic and co-curricular programs, research, and services which increase retention, transfer, and graduation rates, while also enhancing the overall educational experiences of Asian American, Native Hawaiian, and Pacific Islander students;
+- Whereas celebrating the vast contributions of Asian American and Native American Pacific Islander-serving institutions strengthens the culture of the United States; and
+- Whereas the achievements and goals of Asian American and Native American Pacific Islander-serving institutions deserve national recognition: Now, therefore, be it
+
+That the Senate—
+
+- **(1)** recognizes the achievements and goals of Asian American and Native American Pacific Islander-serving institutions in providing quality educational opportunities to Asian American, Native Hawaiian, Pacific Islander, and other students who attend these institutions;
+- **(2)** encourages Asian American and Native American Pacific Islander-serving institutions to obtain funding and establish programs to serve the unique needs of Asian American, Native Hawaiian, and Pacific Islander students, families, and communities;
+- **(3)** recognizes the 19th anniversary of the formal recognition and funding by Congress of Asian American and Native American Pacific Islander-serving institutions and expresses support for the designation of “Asian American and Native American Pacific Islander-Serving Institutions Week”; and
+- **(4)** calls on the people of the United States, including the United States territories in the Pacific, and interested groups to observe Asian American and Native American Pacific Islander-Serving Institutions Week with appropriate activities, ceremonies, and programs to demonstrate support for Asian American and Native American Pacific Islander-serving institutions.
