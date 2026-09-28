@@ -1,7 +1,7 @@
 ---
 measure: S. 4395
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 4395
@@ -16,7 +16,7 @@ Terrorism Risk Insurance Program Reauthorization Act of 2026
 
 - Sen. McCormick, David [R-PA] (M001243)
 
-## Cosponsors (40)
+## Cosponsors (42)
 
 - Sen. Smith, Tina [D-MN] (S001203)
 - Sen. Tillis, Thomas [R-NC] (T000476)
@@ -58,6 +58,8 @@ Terrorism Risk Insurance Program Reauthorization Act of 2026
 - Sen. Kaine, Tim [D-VA] (K000384)
 - Sen. Fischer, Deb [R-NE] (F000463)
 - Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Budd, Ted [R-NC] (B001305)
+- Sen. Luján, Ben Ray [D-NM] (L000570)
 
 ## Committees (1)
 
@@ -71,3 +73,5 @@ Terrorism Risk Insurance Program Reauthorization Act of 2026
 - 2026-09-22 — Committee on Banking, Housing, and Urban Affairs. Reported by Senator Scott SC, without amendment. Without written report.
 - 2026-09-22 — Committee on Banking, Housing, and Urban Affairs. Reported by Senator Scott SC, without amendment. Without written report.
 - 2026-09-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 672.
+- 2026-09-28 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5122-5123; text: CR S5123)
+- 2026-09-28 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (consideration: CR S5122-5123; text: CR S5123)
