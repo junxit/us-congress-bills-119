@@ -1,7 +1,7 @@
 ---
 measure: S. 4009
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 4009
@@ -16,7 +16,7 @@ Falun Gong and Victims of Forced Organ Harvesting Protection Act
 
 - Sen. Cruz, Ted [R-TX] (C001098)
 
-## Cosponsors (6)
+## Cosponsors (11)
 
 - Sen. Merkley, Jeff [D-OR] (M001176)
 - Sen. Schiff, Adam B. [D-CA] (S001150)
@@ -24,6 +24,11 @@ Falun Gong and Victims of Forced Organ Harvesting Protection Act
 - Sen. Johnson, Ron [R-WI] (J000293)
 - Sen. Wyden, Ron [D-OR] (W000779)
 - Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Marshall, Roger [R-KS] (M001198)
+- Sen. McCormick, David [R-PA] (M001243)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Lankford, James [R-OK] (L000575)
 
 ## Committees (1)
 
@@ -37,3 +42,5 @@ Falun Gong and Victims of Forced Organ Harvesting Protection Act
 - 2026-07-27 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
 - 2026-07-27 — Committee on Foreign Relations. Reported by Senator Risch with an amendment in the nature of a substitute. Without written report.
 - 2026-07-27 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 506.
+- 2026-09-28 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5120-5121; text: CR S5120-5121)
+- 2026-09-28 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5120-5121; text: CR S5120-5121)

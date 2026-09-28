@@ -18,12 +18,29 @@ This Act may be cited as the “Falun Gong and Victims of Forced Organ Harvestin
 In this Act:
 
 - **(1)** *Appropriate congressional committees* The term “appropriate congressional committees” means—
-  - **(A)** the Committee on Foreign Affairs of the House of Representatives; and
-  - **(B)** the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+  - **(A)** the Committee on Foreign Affairs and the Permanent Select Committee on Intelligence of the House of Representatives; and
+  - **(B)** the Committee on Foreign Relations, the Committee on Banking, Housing, and Urban Affairs, and the Select Committee on Intelligence of the Senate.
 - **(2)** *Forced organ harvesting* The term forced organ harvesting means the removal of one or more organs from an individual by means of coercion, abduction, deception, fraud, or abuse of power or a position of vulnerability.
-- **(3)** *Organ* The term organ has the meaning given the term human organ in section 301(c)(1) of the National Organ Transplant Act (42 U.S.C. 274e(c)(1)).
+- **(3)** *Intelligence community* The term intelligence community has the meaning given the term in section 3 of the National Security Act of 1947 (50 U.S.C. 3003).
+- **(4)** *Organ* The term organ has the meaning given the term human organ in section 301(c)(1) of the National Organ Transplant Act (42 U.S.C. 274e(c)(1)).
 
-## § 3. Imposition of sanctions with respect to forced organ harvesting within the People’s Republic of China
+## § 3. Findings
+
+Congress makes the following findings:
+
+- **(1)** Public and private organizations have persistently expressed concerns regarding organ transplant policies and practices in the People’s Republic of China, including allegations of forced organ harvesting of those targeted by authorities of the People's Republic of China based on religious beliefs, ethnic background, or other affiliations.
+- **(2)** The 2023 International Religious Freedom Report of the Department of State stated, “Civil society organizations continued to express concern over reports that authorities [of the People's Republic of China] forced members of religious organizations, in particular Falun Gong members and ethnic Uyghurs, to serve as organ donors.”.
+- **(3)** The Government of the People’s Republic of China has failed to provide a full, credible, and independently verifiable response to repeated international calls for increased accountability and transparency for its organ transplant policies and practices, particularly allegations related to forced organ harvesting.
+- **(4)** The United States Government, including the intelligence community, has yet to provide its formal assessment of allegations related to systemic organ harvesting practices by the Government of the People’s Republic of China, including against Falun Gong practitioners.
+
+## § 4. Sense of Congress
+
+It is the sense of Congress that the United States Government should—
+
+- **(1)** investigate allegations of systemic forced organ harvesting in the People’s Republic of China, including incidents involving Falun Gong practitioners; and
+- **(2)** condemn illegal, coercive, non-consensual, or non-transparent organ procurement and transplantation practices, including forced organ harvesting from prisoners of conscience.
+
+## § 5. Imposition of sanctions with respect to forced organ harvesting within the People’s Republic of China
 
 - **(a)** *Imposition of sanctions* The President shall impose the sanctions described in subsection (c) with respect to each foreign person included in the most recent list submitted under subsection (b).
 - **(b)** *List of persons*
@@ -32,7 +49,7 @@ In this Act:
     - **(A)** as new information becomes available;
     - **(B)** not later than one year after the date of the enactment of this Act; and
     - **(C)** annually thereafter until the date of termination under subsection (h).
-  - **(3)** *Form* The list required by paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
+  - **(3)** *Form* The list required by paragraph (1), and any updates to the list required by paragraph (2), shall be submitted in unclassified form, but may include a classified annex.
 - **(c)** *Sanctions described* The sanctions described in this subsection are the following:
   - **(1)** *Blocking of property* The President shall exercise all of the powers granted to the President by the International Emergency Economic Powers Act (50 U.S.C. 1701 et seq.) (except that the requirements of section 202 of such Act (50 U.S.C. 1701) shall not apply) to the extent necessary to block and prohibit all transactions in property and interests in property of a foreign person on the most recent list submitted under subsection (b) if such property and interests in property are in the United States, come within the United States, or are or come within the possession or control of a United States person.
   - **(2)** *Inadmissibility of certain individuals*
@@ -68,21 +85,22 @@ In this Act:
     - **(B)** an entity organized under the laws of the United States or any jurisdiction within the United States, including a foreign branch of such an entity; or
     - **(C)** any person located in the United States.
 
-## § 4. Report on organ transplant policies and practices of the People’s Republic of China
+## § 6. Report on organ transplant policies and practices of the People’s Republic of China
 
-- **(a)** *In general* Not later than one year after the date of the enactment of this Act, the Secretary of State, in consultation with the Secretary of Health and Human Services and the Director of the National Institutes of Health, shall submit to the appropriate congressional committees a report on the organ transplant policies and practices of the People’s Republic of China.
+- **(a)** *In general* Not later than one year after the date of the enactment of this Act, the Secretary of State, in consultation with the Secretary of Health and Human Services, the Director of the National Institutes of Health, and the heads of relevant elements of the intelligence community, shall submit to the appropriate congressional committees a report on the organ transplant policies and practices of the People’s Republic of China.
 - **(b)** *Matters To be included* The report required under subsection (a) shall include—
-  - **(1)** a summary of de jure and de facto policies toward organ transplantation in the People's Republic of China, including with respect to prisoners of conscience (including practitioners of Falun Gong), other prisoners, and victims of forced organ harvesting;
-  - **(2)**
+  - **(1)** a formal determination as to whether the Government of the People’s Republic of China engages, or formerly engaged, in systemic forced organ harvesting practices and policies;
+  - **(2)** a summary of de jure and de facto policies toward organ transplantation in the People's Republic of China, including with respect to prisoners of conscience (including practitioners of Falun Gong), other prisoners, and victims of forced organ harvesting;
+  - **(3)**
     - **(A)** the number of organ transplants that are known to occur or are estimated to occur on an annual basis in the People's Republic of China;
     - **(B)** the number of known or estimated voluntary organ donors in the People's Republic of China;
     - **(C)** an assessment of the sources of organs for transplant in the People's Republic of China; and
-    - **(D)** an assessment of the time, in days, that it takes to procure an organ for transplant within the Chinese medical system and an assessment of whether such timetable is possible based on the number of known or estimated organ donors in the People's Republic of China;
-  - **(3)** a list of all United States grants during the 10 years before the date of the enactment of this Act that have supported research on organ transplantation in the People's Republic of China or in collaboration between a Chinese entity and a United States entity; and
-  - **(4)** a determination as to whether forced organ harvesting within the People’s Republic of China constitutes an “atrocity” (as such term is defined in section 6 of the Elie Wiesel Genocide and Atrocities Prevention Act of 2018 (Public Law 115–441; 22 U.S.C. 2656 note)).
+    - **(D)** an assessment of the time, in days, that it takes to procure an organ for transplant within the medical system of the People's Republic of China and an assessment of whether such timetable is possible based on the number of known or estimated voluntary organ donors in the People's Republic of China;
+  - **(4)** a list of all United States grants during the 10 years before the date of the enactment of this Act that have supported research on organ transplantation in the People's Republic of China or in collaboration between an entity of the People's Republic of China and a United States entity; and
+  - **(5)** if the determination made under paragraph (1) is that the Government of the People’s Republic of China engages, or formerly engaged, in systemic forced organ harvesting practices and policies, a determination as to whether forced organ harvesting within the People’s Republic of China constitutes an “atrocity” (as such term is defined in section 6 of the Elie Wiesel Genocide and Atrocities Prevention Act of 2018 (Public Law 115–441; 22 U.S.C. 2656 note)).
 - **(c)** *Form* The report required under subsection (a) shall be submitted in unclassified form, but may include a classified annex.
 
-## § 5. Exception relating to importation of goods
+## § 7. Exception relating to importation of goods
 
 - **(a)** *In general* The authorities and requirements to impose sanctions authorized under this Act shall not include the authority or requirement to impose sanctions on the importation of goods.
 - **(b)** *Good defined* In this section, the term good means any article, natural or man-made substance, material, supply or manufactured product, including inspection and test equipment, and excluding technical data.
