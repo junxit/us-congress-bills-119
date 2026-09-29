@@ -16,7 +16,7 @@ This Act may be cited as the “Unlocking Native Lands and Opportunities for Com
 ## § 2. Modification of tribal leases and rights-of-way across Indian land
 
 - **(a)** *Leases of trust or restricted lands* The first section of the Act of August 9, 1955 (69 Stat. 539, chapter 615; 25 U.S.C. 415) (commonly known as the “Long-Term Leasing Act”), is amended—
-  - **(1)** in subsection (a), in the second sentence, by inserting “, land held in trust for any other Indian tribe, band, pueblo, village, community, component hand, or component reservation individually included (including parenthetically) on the most recent list published by the Secretary pursuant to section 104(a) of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 5131(a))” after “Chehalis Reservation”;
+  - **(1)** in subsection (a), in the second sentence, by inserting “, land held in trust for any other Indian tribe included on the most recent list published by the Secretary pursuant to section 104(a) of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 5131(a))” after “Chehalis Reservation”;
   - **(2)** by striking “That (a) any” and inserting the following:
     > ## § 1. Leases of trust or restricted lands
     >

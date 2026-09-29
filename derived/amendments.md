@@ -1,7 +1,7 @@
 ---
 measure: S. 3383
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -31,7 +31,7 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `25 U.S.C. § 5131` | insert | in subsection (a), in the second sentence, by inserting “, land held in trust for any other Indian tribe, band, pueblo, village, community, component hand, or component reservation individually included (including parenthetically) on the… | the bill quotes the text inserted but describes where it goes |
+| `25 U.S.C. § 5131` | insert | in subsection (a), in the second sentence, by inserting “, land held in trust for any other Indian tribe included on the most recent list published by the Secretary pursuant to section 104(a) of the Federally Recognized Indian Tribe List… | the bill quotes the text inserted but describes where it goes |
 | `25 U.S.C. § 415` | replace | by striking “That (a) any” and inserting the following: | the bill quotes the text struck but describes what replaces it |
 | `25 U.S.C. § 415` | replace | in the matter preceding subparagraph (A), by striking “and the term of the lease does not exceed—” and inserting a period; and | the bill quotes the text struck but describes what replaces it |
 | `25 U.S.C. § 415` | strike | by striking subparagraphs (A) and (B). | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
