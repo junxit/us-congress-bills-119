@@ -1,7 +1,7 @@
 ---
 legis-num: S. 528
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,13 +11,10 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Great Lakes Restoration Initiative Act of 2025” or the “GLRI Act of 2025”.
+This Act may be cited as the “Great Lakes Restoration Initiative Act of 2026” or the “GLRI Act of 2026”.
 
-## § 2. Great lakes restoration initiative reauthorization
+## § 2. Great Lakes Restoration Initiative
 
-Section 118(c)(7)(J)(i) of the Federal Water Pollution Control Act (33 U.S.C. 1268(c)(7)(J)(i)) is amended—
+Section 118(c)(7)(J) of the Federal Water Pollution Control Act (33 U.S.C. 1268(c)(7)(J)) is amended by striking clause (i) and inserting the following:
 
-- **(1)** in subclause (V), by striking “and” at the end;
-- **(2)** in subclause (VI), by striking the period at the end and inserting “; and”; and
-- **(3)** by adding at the end the following:
-  > - **(VII)** $500,000,000 for each of fiscal years 2027 through 2031.
+> - **(i)** *In general* There is authorized to be appropriated to carry out this paragraph $475,000,000 for each of fiscal years 2027 through 2030.
