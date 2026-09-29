@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 662
 congress: 119
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 662
@@ -16,6 +16,10 @@ A resolution honoring the life and service of United States Marine Corps veteran
 
 - Sen. Kelly, Mark [D-AZ] (K000377)
 
+## Cosponsors (1)
+
+- Sen. Gallego, Ruben [D-AZ] (G000574)
+
 ## Committees (1)
 
 - Senate — Judiciary Committee
@@ -24,3 +28,7 @@ A resolution honoring the life and service of United States Marine Corps veteran
 
 - 2026-03-26 — Referred to the Committee on the Judiciary. (text: CR S1673-1674)
 - 2026-03-26 — Submitted in Senate
+- 2026-09-29 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S5186)
+- 2026-09-29 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S5186)
+- 2026-09-29 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2026-09-29 — Senate Committee on the Judiciary discharged by Unanimous Consent.
