@@ -1,7 +1,7 @@
 ---
 measure: S. 5045
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 5045
@@ -38,3 +38,5 @@ Wildfire Emissions Prevention Act of 2026
 - 2026-09-16 — Committee on Environment and Public Works. Reported by Senator Capito without amendment. Without written report.
 - 2026-09-16 — Committee on Environment and Public Works. Reported by Senator Capito without amendment. Without written report.
 - 2026-09-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 620.
+- 2026-09-29 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5148-5150; text: CR S5149-5150)
+- 2026-09-29 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent. (consideration: CR S5148-5150; text: CR S5149-5150)
