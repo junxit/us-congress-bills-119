@@ -1,7 +1,7 @@
 ---
 measure: S. 3219
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3219
@@ -33,3 +33,5 @@ Albuquerque Indian School Act of 2026
 - 2026-09-23 — Committee on Indian Affairs. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 119-153.
 - 2026-09-23 — Committee on Indian Affairs. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 119-153.
 - 2026-09-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 682.
+- 2026-09-29 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5145-5146; text: CR S5145-5146)
+- 2026-09-29 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5145-5146; text: CR S5145-5146)

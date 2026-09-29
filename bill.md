@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Albuquerque Indian School Act of 2025”.
+This Act may be cited as the “Albuquerque Indian School Act of 2026”.
 
 ## § 2. Transfer of land into trust for the 19 Pueblos
 
@@ -36,23 +36,33 @@ This Act may be cited as the “Albuquerque Indian School Act of 2025”.
     - **(Q)** Tesuque;
     - **(R)** Zia; and
     - **(S)** Zuni.
-  - **(2)** *Secretary* The term Secretary means the Secretary of the Interior.
-  - **(3)** *Survey* Except as provided in subsection (e), the term survey means the survey plat entitled “Plat of Tracts 1 Thru 3 Lands of US Indian Service and Bureau of Indian Affairs”, prepared by Surv-Tek, Inc., and dated May 2023.
-- **(b)** *Land into trust* Not later than 90 days after the date of enactment of this Act and the relocation of all Federal tenants—
-  - **(1)** the Administrator of General Services shall transfer administrative jurisdiction over the Federal land described in paragraphs (1), (2), and (3) of subsection (c) to the Secretary; and
-  - **(2)** on completion of the transfer of administrative jurisdiction under paragraph (1), the Secretary shall receive the transfer and hold in trust all right, title, and interest of the United States in and to the Federal land described in paragraphs (1), (2), and (3) of that subsection for the benefit of the 19 Pueblos.
-- **(c)** *Federal land described* The Federal land referred to in this section is the 3 tracts of Federal land, the combined acreage of which is approximately 9.89 acres, that were historically part of the Albuquerque Indian School and, as of the date of enactment of this Act, are under the custody and accountability of the General Services Administration, more particularly described as follows:
-  - **(1)** *Tract 1* The approximately 3.57 acres located in secs. 7 and 8 of T. 10 N., R. 3 E., of the New Mexico Principal Meridian in Albuquerque, New Mexico, on which stands a 76,682 square foot warehouse, as identified on the survey.
+  - **(2)** *Indian Pueblo Cultural Center* The term Indian Pueblo Cultural Center means the nonprofit organization wholly owned and operated by the 19 Pueblos (or any successor corporate or administrative entity designated by the 19 Pueblos).
+  - **(3)** *Secretary* The term Secretary means the Secretary of the Interior.
+  - **(4)** *Survey* Except as provided in subsection (e), the term survey means the survey plat entitled “Plat of Tracts 1 Thru 3 Lands of US Indian Service and Bureau of Indian Affairs”, prepared by Surv-Tek, Inc., and dated May 2023.
+- **(b)** *Transfer of jurisdiction* Not later than 90 days after the date of enactment of this Act, the Administrator of General Services shall transfer to the Secretary administrative jurisdiction over the Federal land described in subsection (d).
+- **(c)** *Land into trust* Not later than 90 days after the transfer of administrative jurisdiction under subsection (b), the Secretary shall take into trust all right, title, and interest of the United States in and to the Federal land described in subsection (d) for the benefit of the 19 Pueblos.
+- **(d)** *Federal land* The Federal land referred to in this section is the 3 tracts of Federal land, the combined acreage of which is approximately 9.89 acres, that were historically part of the Albuquerque Indian School and, as of the date of enactment of this Act, are under the administrative jurisdiction of the General Services Administration, more particularly described as follows:
+  - **(1)** *Tract 1* The approximately 3.57 acres located in secs. 7 and 8 of T. 10 N., R. 3 E., of the New Mexico Principal Meridian in Albuquerque, New Mexico, as identified on the survey.
   - **(2)** *Tract 2* The approximately 5.78 acres located in secs. 7 and 8 of T. 10 N., R. 3 E., of the New Mexico Principal Meridian in Albuquerque, New Mexico, as identified on the survey.
   - **(3)** *Tract 3* The approximately .54 acres located in secs. 7 and 8 of T. 10 N., R. 3 E., of the New Mexico Principal Meridian in Albuquerque, New Mexico, as identified on the survey.
-- **(d)** *Easement on tract 1* The Federal land transferred into trust under subsection (b)(2) shall be subject to a right-of-way easement, as determined by the Administrator of General Services, on the Federal land described in subsection (c)(1) for purposes of retrieving or relocating Federal property from that Federal land to another location.
 - **(e)** *Survey*
   - **(1)** *In general* The Secretary—
-    - **(A)** shall obtain a survey of the land to be transferred into trust under subsection (b)(2); and
-    - **(B)** may make minor corrections to the survey and legal description of the Federal land described in subsection (c) as the Secretary determines to be necessary to correct clerical, typographical, and surveying land title errors.
-  - **(2)** *Availability* The survey obtained under paragraph (1) shall be recorded in the public records of the County Clerk Office of Bernalillo County, New Mexico.
-- **(f)** *Use of land* The Federal land transferred into trust under subsection (b)(2) shall be—
+    - **(A)** shall obtain, with respect to the Federal land taken into trust under subsection (c)—
+      - **(i)** a survey; and
+      - **(ii)** from the Administrator of General Services, a copy of all encumbrances on that land; and
+    - **(B)** may make minor corrections to the survey and legal description of the Federal land described in subsection (d) as the Secretary determines to be necessary to correct clerical, typographical, and surveying land title errors.
+  - **(2)** *Availability* The survey and all applicable transfer documents, including copies of all encumbrances, obtained under paragraph (1)(A) shall be recorded in—
+    - **(A)** the public records of the County Clerk Office of Bernalillo County, New Mexico; and
+    - **(B)** the appropriate Land Titles and Records Office of the Bureau of Indian Affairs.
+- **(f)** *Use of land* The Federal land taken into trust under subsection (c) shall be—
   - **(1)** used for the educational, health, cultural, business, and economic development of the 19 Pueblos; and
-  - **(2)** subject to Federal laws applicable to Indian trust land in the State of New Mexico.
-- **(g)** *Limitations and conditions* The Federal land transferred into trust under subsection (b)(2) shall remain subject to any private or municipal encumbrance, right-of-way, restriction, easement of record, or utility service agreement in effect on the date of enactment of this Act.
-- **(h)** *Gaming prohibition* Class I gaming, class II gaming, and class III gaming (as those terms are defined in section 4 of the Indian Gaming Regulatory Act (25 U.S.C. 2703)) are prohibited on the Federal land transferred into trust under subsection (b)(2).
+  - **(2)** subject to Federal laws applicable to Indian trust land.
+- **(g)** *Limitations and conditions* The Federal land taken into trust under subsection (c) shall remain subject to any private or municipal encumbrance, right-of-way, restriction, easement of record, or utility service agreement in effect on the date of enactment of this Act.
+- **(h)** *Conveyance of buildings and other improvements*
+  - **(1)** *In general* Not later than 90 days after the transfer of administrative jurisdiction under subsection (b), the Secretary shall convey all ownership interests of the United States in all buildings, structures, improvements, and appurtenances located on the Federal land described in subsection (d) to the Indian Pueblo Cultural Center, to own in fee.
+  - **(2)** *Lease*
+    - **(A)** *In general* As part of the conveyance of buildings and other improvements under paragraph (1), the Federal Government shall enter into a lease with the Indian Pueblo Cultural Center for the continued occupancy and use of Tract 2 of the Federal land, as described in subsection (d)(2), by each Federal tenant located on that tract of Federal land as of the date described in that paragraph.
+    - **(B)** *Requirement* The lease entered into under subparagraph (A) shall permit the Federal tenants described in that subparagraph to remain on Tract 2 of the Federal land, as described in subsection (d)(2), for an initial term not to exceed 24 months.
+    - **(C)** *Extension* The parties to the lease entered into under subparagraph (A) may, by mutual written agreement, extend the term of the lease for 1 or more additional terms if the parties determine that additional time is necessary.
+    - **(D)** *Termination* At the option of a Federal tenant described in subparagraph (A), the Federal tenant may terminate its participation in the lease entered into under that subparagraph prior to the expiration of the initial or any extended lease term by providing notice in accordance with the terms of the lease.
+- **(i)** *Gaming prohibition* The Federal land taken into trust under subsection (c) shall not be used for any class II gaming or class III gaming under the Indian Gaming Regulatory Act (25 U.S.C. 2701 et seq.) (as those terms are defined in section 4 of that Act (25 U.S.C. 2703)).
