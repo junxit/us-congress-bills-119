@@ -1,7 +1,7 @@
 ---
 legis-num: S. 1574
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -18,10 +18,11 @@ This Act may be cited as the “Tribal Access to Electronic Evidence Act”.
 - **(a)** *Definitions* Section 2711 of title 18, United States Code, is amended—
   - **(1)** in paragraph (3)—
     - **(A)** in subparagraph (B), by striking “or” at the end;
-    - **(B)** by redesignating subparagraph (C) as subparagraph (D); and
+    - **(B)** by redesignating subparagraph (C) as subparagraph (D);
     - **(C)** by inserting after subparagraph (B) the following:
       > - **(C)** a Tribal court; or
 
+    - **(D)** in subparagraph (D), as so redesignated, by striking “and” at the end; and
   - **(2)** by striking paragraph (4) and inserting the following:
     > - **(4)** the term governmental entity means a department or agency of—
     >   - **(A)** the United States;
@@ -31,22 +32,24 @@ This Act may be cited as the “Tribal Access to Electronic Evidence Act”.
     > - **(6)** the term Tribal court means a court of general criminal jurisdiction of an Indian Tribe authorized by the law of that Indian Tribe to issue search warrants.
 
 - **(b)** *Required disclosure of customer communications or records* Section 2703 of title 18, United States Code, is amended—
-  - **(1)** in subsection (a), by striking the first sentence and inserting the following:
-    > - **(1)** *In storage 180 days or less* A governmental entity may require the disclosure by a provider of electronic communication service of the contents of a wire or electronic communication, that is in electronic storage in an electronic communications system for 180 days or less, only pursuant to a warrant issued by a court of competent jurisdiction—
-    >   - **(A)** issued using the procedures described in the Federal Rules of Criminal Procedure;
-    >   - **(B)** in the case of a State court, issued using State warrant procedures;
-    >   - **(C)** in the case of a court-martial or other proceeding under chapter 47 of title 10 (the Uniform Code of Military Justice), issued under section 846 of that title, in accordance with regulations prescribed by the President); or
-    >   - **(D)** in the case of a Tribal court, issued using the warrant procedures described in section 202(a)(2) of Public Law 90–284 (commonly known as the “Indian Civil Rights Act of 1968”) (25 U.S.C. 1302(a)(2)).
-    > - **(2)** *In storage more than 180 days*
+  - **(1)** in subsection (a)—
+    - **(A)** by striking the first sentence and inserting the following:
+      > - **(1)** *In storage 180 days or less* A governmental entity may require the disclosure by a provider of electronic communication service of the contents of a wire or electronic communication, that is in electronic storage in an electronic communications system for 180 days or less, only pursuant to a warrant issued by a court of competent jurisdiction—
+      >   - **(A)** issued using the procedures described in the Federal Rules of Criminal Procedure;
+      >   - **(B)** in the case of a State court, issued using State warrant procedures;
+      >   - **(C)** in the case of a court-martial or other proceeding under chapter 47 of title 10 (the Uniform Code of Military Justice), issued under section 846 of that title, in accordance with regulations prescribed by the President); or
+      >   - **(D)** in the case of a Tribal court, issued using warrant procedures that comply with section 202(a)(2) of Public Law 90–284 (commonly known as the “Indian Civil Rights Act of 1968”) (25 U.S.C. 1302(a)(2)).
+      > - **(2)** *In storage more than 180 days*
 
+    - **(B)** in paragraph (2), as so designated, by striking “one hundred and eighty days” and inserting “180 days”;
   - **(2)** in subsection (b)(1)—
     - **(A)** in subparagraph (A), by striking “using the procedures described in the Federal Rules of Criminal Procedure” and all that follows through “prescribed by the President)” and inserting “in accordance with subsection (a)(1)”; and
-    - **(B)** in subparagraph (B)(i), by inserting “, Tribal,” after “a Federal” each place it appears; and
+    - **(B)** in subparagraph (B)(i), by striking “or State” each place it appears and inserting “, State, or Tribal”; and
   - **(3)** in subsection (c)—
     - **(A)** in paragraph (1)(A), by striking “using the procedures described in the Federal Rules of Criminal Procedure” and all that follows through “prescribed by the President)” and inserting “in accordance with subsection (a)(1)”; and
-    - **(B)** in paragraph (2), in the undesignated matter following subparagraph (F), by inserting “, Tribal,” after “a Federal” each place it appears.
-- **(c)** *Delayed notice* Section 2705(a)(1)(B) of title 18, United States Code, is amended by inserting “, Tribal,” after “a Federal” each place it appears.
+    - **(B)** in paragraph (2), in the undesignated matter following subparagraph (F), by striking “or State” each place it appears and inserting “, State, or Tribal”.
+- **(c)** *Delayed notice* Section 2705(a)(1)(B) of title 18, United States Code, is amended by striking “or State” each place it appears and inserting “, State, or Tribal”.
 - **(d)** *Civil action* Section 2707(g) of title 18, United States Code, is amended, in the second sentence, by inserting “Tribal,” after “State,”.
 - **(e)** *Wrongful disclosure of video tape rental or sale records* Section 2710 of title 18, United States Code, is amended—
-  - **(1)** in subsection (b)(2)(C), by inserting after “an equivalent State warrant,” the following: “a warrant issued by a Tribal court using the warrant procedures described in section 202(a)(2) of Public Law 90–284 (commonly known as the “Indian Civil Rights Act of 1968”) (25 U.S.C. 1302(a)(2)),”; and
-  - **(2)** in subsection (d), by striking “or a political subdivision of a State” and inserting “a political subdivision of a State, or an Indian Tribe”.
+  - **(1)** in subsection (b)(2)(C), by inserting after “an equivalent State warrant,” the following: “a warrant issued by a Tribal court using warrant procedures that comply with section 202(a)(2) of Public Law 90–284 (commonly known as the “Indian Civil Rights Act of 1968”) (25 U.S.C. 1302(a)(2)),”; and
+  - **(2)** in subsection (d), by striking “a State, or a political subdivision of a State” and inserting “a State or a political subdivision thereof, or an Indian Tribe or a political subdivision thereof”.
