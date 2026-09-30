@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2400
 congress: 119
-version: Reported to Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2400
@@ -46,3 +46,5 @@ Pit River Land Transfer Act of 2026
 - 2026-09-22 — Committee on Indian Affairs. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 119-147.
 - 2026-09-22 — Committee on Indian Affairs. Reported by Senator Murkowski with an amendment in the nature of a substitute. With written report No. 119-147.
 - 2026-09-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 676.
+- 2026-09-30 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5297-5298)
+- 2026-09-30 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
