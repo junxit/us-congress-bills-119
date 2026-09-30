@@ -1,7 +1,7 @@
 ---
 measure: S. 5249
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 5249
@@ -34,3 +34,5 @@ MORE American Fuel Act of 2026
 - 2026-09-16 — Committee on Environment and Public Works. Reported by Senator Capito with an amendment in the nature of a substitute. Without written report.
 - 2026-09-16 — Committee on Environment and Public Works. Reported by Senator Capito with an amendment in the nature of a substitute. Without written report.
 - 2026-09-16 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 621.
+- 2026-09-30 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5295-5296; text: CR S5295-5296)
+- 2026-09-30 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
