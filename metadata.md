@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 866
 congress: 119
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 866
@@ -28,3 +28,7 @@ A resolution supporting the designation of October 2026 as "Substance Use & Misu
 
 - 2026-09-17 — Referred to the Committee on Health, Education, Labor, and Pensions. (text: CR S4802)
 - 2026-09-17 — Submitted in Senate
+- 2026-09-30 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2026-09-30 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S5299)
+- 2026-09-30 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2026-09-30 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
