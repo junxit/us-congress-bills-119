@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2400
 congress: 119
-version: Engrossed Amendment Senate
+version: Enrolled Bill
 ---
 
 # H.R. 2400
@@ -48,3 +48,11 @@ Pit River Land Transfer Act of 2026
 - 2026-09-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 676.
 - 2026-09-30 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5297-5298)
 - 2026-09-30 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2026-11-16 — Message on Senate action sent to the House.
+- 2026-11-17 — DEBATE - The House proceeded with 40 minutes of debate on the motion to suspend the rules and agree to the Senate amendment to H.R. 2400.
+- 2026-11-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-11-17 — Mr. Westerman moved that the House suspend the rules and agree to the Senate amendment. (consideration: CR H6247-6248)
+- 2026-11-17 — On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (text: CR H6247-6248)
+- 2026-11-17 — Resolving differences -- House actions: On motion that the House suspend the rules and agree to the Senate amendment Agreed to by voice vote. (text: CR H6247-6248)
+- 2026-11-24 — Presented to President.
+- 2026-11-24 — Presented to President.
