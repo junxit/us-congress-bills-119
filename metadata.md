@@ -1,7 +1,7 @@
 ---
 measure: S. 2437
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 2437
@@ -33,3 +33,5 @@ Snow Water Supply Forecasting Program Reauthorization Act of 2026
 - 2026-09-17 — Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment in the nature of a substitute. Without written report.
 - 2026-09-17 — Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment in the nature of a substitute. Without written report.
 - 2026-09-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 637.
+- 2026-09-30 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5296-5297; text: CR S5296)
+- 2026-09-30 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
