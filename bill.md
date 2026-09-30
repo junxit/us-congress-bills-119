@@ -1,0 +1,22 @@
+---
+legis-num: S. 5646
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 5646
+
+> To amend the Fair Labor Standards Act of 1938 to clarify the definition of employee as it relates to direct sellers and real estate agents, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Direct Seller and Real Estate Agent Harmonization Act”.
+
+## § 2. Definition of employee
+
+Section 3(e) of the Fair Labor Standards Act of 1938 (29 U.S.C. 203(e)) is amended—
+
+- **(1)** in paragraph (1), by striking “paragraphs (2), (3), and (4),” and inserting “paragraphs (2), (3), (4), (5), and (6),”; and
+- **(2)** by inserting after paragraph (5) the following:
+  > - **(6)** The term employee does not include any direct seller or qualified real estate agent (as such terms are defined in section 3508(b) of the Internal Revenue Code of 1986).
