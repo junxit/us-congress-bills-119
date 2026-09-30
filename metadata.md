@@ -1,7 +1,7 @@
 ---
 measure: S. 3798
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3798
@@ -33,3 +33,5 @@ Safe Access to Cash Act of 2026
 - 2026-03-05 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
 - 2026-03-05 — Committee on the Judiciary. Reported by Senator Grassley with an amendment in the nature of a substitute. Without written report.
 - 2026-03-05 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 350.
+- 2026-09-30 — Passed Senate with an amendment by Voice Vote. (consideration: CR S5207; text: CR S5207)
+- 2026-09-30 — Passed/agreed to in Senate: Passed Senate with an amendment by Voice Vote.

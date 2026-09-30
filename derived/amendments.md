@@ -1,7 +1,7 @@
 ---
 measure: S. 3798
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 0 executed, 6 stated and not applied.
+2 amendatory instructions. 0 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -31,9 +31,5 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `18 U.S.C. § 2113` | insert | Chapter 103 of title 18, United States Code, is amended by inserting after section 2113 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `18 U.S.C. § 2113` | insert | The table of sections for chapter 103 of title 18, United States Code, is amended by inserting after the item relating to section 2113 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| — | replace | in the first paragraph, by striking “force and violence” and inserting “force or violence”; and | the bill names no machine-readable US Code section |
-| — | insert | by inserting “or conspires to take,” before “from the person or presence of another,”. | the bill names no machine-readable US Code section |
 | `18 U.S.C. § 2113` | insert | Chapter 103 of title 18, United States Code, is amended by inserting after section 2113 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `18 U.S.C. § 2113` | insert | The table of sections for chapter 103 of title 18, United States Code, is amended by inserting after the item relating to section 2113 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
