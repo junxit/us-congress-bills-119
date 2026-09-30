@@ -1,7 +1,7 @@
 ---
 measure: S. 1514
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1514
@@ -33,3 +33,5 @@ Quinault Indian Nation Land Transfer Act
 - 2026-09-22 — Committee on Indian Affairs. Reported by Senator Murkowski with amendments. With written report No. 119-148.
 - 2026-09-22 — Committee on Indian Affairs. Reported by Senator Murkowski with amendments. With written report No. 119-148.
 - 2026-09-22 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 673.
+- 2026-09-30 — Passed Senate with amendments by Unanimous Consent. (consideration: CR S5297; text: CR S5297)
+- 2026-09-30 — Passed/agreed to in Senate: Passed Senate with amendments by Unanimous Consent.
