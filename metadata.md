@@ -1,7 +1,7 @@
 ---
 measure: S. 1055
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1055
@@ -33,3 +33,5 @@ Indian Health Service Emergency Claims Parity Act
 - 2026-09-23 — Committee on Indian Affairs. Reported by Senator Murkowski without amendment. With written report No. 119-152.
 - 2026-09-23 — Committee on Indian Affairs. Reported by Senator Murkowski without amendment. With written report No. 119-152.
 - 2026-09-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 681.
+- 2026-09-30 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5298; text: CR S5298)
+- 2026-09-30 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
