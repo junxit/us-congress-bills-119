@@ -1,0 +1,168 @@
+---
+legis-num: H.R. 10686
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 10686
+
+> To direct the Secretary of Homeland Security, acting through the Administrator of the Federal Emergency Management Agency, to establish a pilot program to award grants to covered entities to support the design, development, facilitation, or implementation of community-based catastrophe insurance.
+
+## § 1. Short title
+
+This Act may be cited as the “Community Disaster Protection Act”.
+
+## § 2. Community-based catastrophe insurance pilot program
+
+- **(a)** *In general* Not later than 1 year after the date of enactment of this Act, the Secretary, acting through the Administrator, shall establish a pilot program to award grants to covered entities for the design, development, or implementation of community-based catastrophe insurance programs to—
+  - **(1)** facilitate or offer community-based catastrophe insurance for properties with high financial exposure to losses from natural hazards or disasters, where such losses—
+    - **(A)** are not covered under traditional property insurance products offered on public or private markets and available to members of the community; or
+    - **(B)** present material and growing risks to existing property insurance carriers or other members of the insurance or risk transfer community;
+  - **(2)** help stabilize the traditional private property insurance market through innovative risk transfer approaches; and
+  - **(3)** promote or incentivize community-wide or individual measures to reduce potential losses from, or increase resilience to, natural hazards or disasters covered by such program.
+- **(b)** *Eligible uses of funds* A covered entity receiving a grant under this section may use such funds to carry out 1 or more of the following activities in furtherance of a community-based catastrophe insurance program pursuant to subsection (a):
+  - **(1)** Conducting consumer research, including assessments of the financial exposure of households to natural hazards or disasters, anticipated or potential household recovery needs, insurance literacy, property insurance coverage gaps, affordability constraints, and preferred insurance delivery channels.
+  - **(2)** Conducting consumer outreach, education, and enrollment activities targeted to community members, including through community-based organizations, local governments, housing providers, insurers or reinsurers, insurance or reinsurance producers, financial institutions, or other entities.
+  - **(3)** Utilizing or configuring catastrophe risk models, hazard assessments, exposure data, or other analytical tools to better understand or help identify the magnitude, nature, or geographic scope of natural hazard or disaster risks in the community.
+  - **(4)** Designing and evaluating program features, including with respect to parametric programs—
+    - **(A)** evaluating, testing, and validating parametric triggers based on objective, independently verifiable hazard data, including meteorological, hydrological, geological, or other available data sources; or
+    - **(B)** evaluating and reducing basis risk, including through an analysis of the correlation between proposed parametric triggers and expected recovery costs and losses.
+  - **(5)** Developing regulatory, actuarial, and operational frameworks or modifications necessary for the approval, administration, and oversight of community-based catastrophe insurance products.
+  - **(6)** Establishing systems for delivery of insurance claims or benefit payments within a reasonable period following a triggering event.
+  - **(7)** Conducting program evaluation and collecting data on participation rates, payout timeliness, recovery outcomes, consumer satisfaction, and cost-effectiveness with respect to the program.
+  - **(8)** Securing non-Federal financial support for a community-based catastrophe insurance program, including—
+    - **(A)** identifying, evaluating, soliciting, or negotiating potential sources of non-Federal premium assistance or risk capital, including State and local appropriations, philanthropic contributions, community development financial institutions, insurance-linked securities, or other sources;
+    - **(B)** establishing and administering accounts, trusts, or other vehicles necessary to receive, hold, and disburse non-Federal funds for the payment of premiums or the provision of risk capital;
+    - **(C)** designing premium assistance mechanisms to be funded with non-Federal sources, including eligibility criteria and contribution structures; and
+    - **(D)** developing plans for the long-term financial sustainability of the program, including identification of sources of premium assistance and risk capital following the conclusion of the pilot program.
+  - **(9)** Entering into partnerships with 1 or more entities identified in subsection (d).
+- **(c)** *Program features*
+  - **(1)** *Policy requirements* A community-based catastrophe insurance product designed, developed, facilitated, or implemented with funds awarded under this section shall—
+    - **(A)** supplement traditional property insurance products on existing public or private markets and not be designed to replace or displace available private market insurance coverage;
+    - **(B)** limit coverage to losses attributable to specified natural hazards or disasters that present high financial risk to the community or the stability of the private property insurance market pursuant to subsection (a)(1);
+    - **(C)** to the extent possible, provide clear and conspicuous consumer disclosures, in plain language and in the languages commonly used in the community, before enrollment and upon each renewal, regarding—
+      - **(i)** the perils covered, the perils excluded, and any coverage limits, deductibles, or waiting periods applicable to the product;
+      - **(ii)** the manner in which coverage under the product interacts with traditional property insurance products held by the participant, including whether recovery under the product affects any claim, premium, or renewal under such products;
+      - **(iii)** the effect, if any, that receipt of a payout under the product may have on eligibility for, or the amount of, Federal, State, or local disaster assistance, including assistance subject to section 312 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5155);
+      - **(iv)** whether the product satisfies any Federal or State requirement to obtain and maintain insurance, including any requirement under section 311 of such Act (42 U.S.C. 5154) or under the Flood Disaster Protection Act of 1973 (42 U.S.C. 4002 et seq.);
+      - **(v)** the identity of the entity bearing the risk of loss, any financial strength rating of such entity, and whether obligations under the product are covered by any State insurance guaranty association or similar mechanism;
+      - **(vi)** the amount of the premium, the portion of the premium paid by any party other than the participant, the expected duration of any such assistance, and the effect on the participant if such assistance is reduced or discontinued;
+      - **(vii)** the term of coverage, the conditions under which coverage may be cancelled, nonrenewed, or terminated, and the effect on participants if the community-based catastrophe insurance program is discontinued;
+      - **(viii)** whether participation is voluntary and the process by which a member of the community may decline or withdraw from participation;
+      - **(ix)** the process for submitting questions, claims, and complaints, including contact information for the applicable State insurance regulator; and
+      - **(x)** any other disclosure applicable under State law or regulatory requirements;
+    - **(D)** ensure any premiums are actuarially sound, transparent, and designed to support program sustainability while promoting broad participation;
+    - **(E)** promote or incentivize community-wide or individual measures to reduce potential losses from, or increase resilience to, natural hazards or disasters covered by such product, including through, to the extent possible—
+      - **(i)** reinvestment of any excess funds of the community-based catastrophe insurance program to mitigate natural hazard or disaster risks covered under the product; or
+      - **(ii)** disclosure of community-wide or individual measures that may reduce the risk of losses covered under the product;
+    - **(F)** provide for streamlined enrollment and claims disbursement processes to the extent practicable;
+    - **(G)** in instances where such a program is a parametric program pursuant to paragraph (3)(B)—
+      - **(i)** utilize an objective and predetermined trigger condition or conditions for payout of benefits, and provide for distribution of benefits in a timely manner after verification that such condition or conditions have been met;
+      - **(ii)** include a strategy to minimize basis risk and regularly evaluate trigger performance; and
+      - **(iii)** in addition to the disclosures required under subparagraph (C), provide clear consumer disclosures regarding the differences between indemnity insurance and parametric products, trigger conditions, payout amounts and limitations, potential effects of payouts on other Federal assistance, potential basis risk, and other relevant details; and
+    - **(H)** comply with all applicable State insurance laws and regulatory requirements, including any applicable licensing, form filing, rate filing, and market conduct requirements, and in furtherance of such compliance—
+      - **(i)** prior to offering the product, seek from the insurance regulator of each State in which the product will be offered a determination or written confirmation as to whether the product constitutes insurance under the laws of such State and, if so, the licensing and filing requirements applicable to the product and to the covered entity;
+      - **(ii)** place coverage with an insurer authorized or eligible to transact such business in each such State, or with a risk-bearing entity established and operating in accordance with the laws of such State;
+      - **(iii)** ensure that any sale, solicitation, negotiation, or enrollment activity conducted by the covered entity, or by any partner of the covered entity, is performed by persons licensed as insurance producers under applicable State law or pursuant to an exemption available under such law; and
+      - **(iv)** provide the insurance regulator of each such State with notice of the program prior to implementation and with reasonable access to program data for regulatory and oversight purposes.
+  - **(2)** *Program requirements* A covered entity administering a community-based catastrophe insurance program designed, developed, or implemented with funds awarded under this section shall—
+    - **(A)** to the extent feasible, facilitate or provide access to financial incentives, technical assistance, or guidance to members of the community to promote investments, best practices, or other actions to reduce potential losses from, or increase resilience to, natural hazards or disasters risks covered by such program;
+    - **(B)** assess and communicate, publicly and to the property insurance community, changes in the natural hazard or disaster risk of policyholders or the region served by such program, including changes resulting from participation in community-based catastrophe insurance and risk reduction investments undertaken by property owners, renters, businesses, and other members pursuant to such program, for the purposes of negotiating insurance product terms that are actuarially justified;
+    - **(C)** comply with all applicable State insurance laws and regulatory requirements, including securing appropriate authorization from each State in which the product will be offered with respect to covered entities seeking to offer, issue, underwrite, or administer community-based catastrophe insurance pursuant to subparagraph (D)(iii); and
+    - **(D)** utilize 1 or a mixture of the following community-based insurance frameworks:
+      - **(i)** The covered entity facilitates the purchase of insurance between insurers and members of the community, where such members contract directly with the insurer and the covered entity oversees community outreach and education and conducts premium negotiation with the insurer.
+      - **(ii)** The covered entity arranges a community-based catastrophe insurance product on behalf of members of a community, where the covered entity facilitates enrollment of such members in the insurance product, payment to the insurer, and payout of claims to such members.
+      - **(iii)** The covered entity establishes a risk-bearing entity to offer, issue, underwrite, or administer community-based catastrophe insurance for members of the community, including purchasing reinsurance, managing the payment of insurance claims, setting insurance product terms, and other functions necessary to administer such insurance.
+  - **(3)** *Authorized activities* A covered entity administering a community-based catastrophe insurance program designed, developed, or implemented with funds awarded under this section may—
+    - **(A)** utilize mobile-based technologies or other technologies for insurance delivery, consumer information, and other purposes; or
+    - **(B)** operate such program as a parametric risk transfer model through which fixed or graduated payments are provided to enrolled members of the community when predetermined trigger conditions are met following specified natural hazard or disaster events.
+- **(d)** *Coordination* In designing, developing, or implementing a community-based catastrophe insurance program pursuant to subsection (a), a covered entity receiving a grant under this section shall coordinate with—
+  - **(1)** members of the community, including property owners, renters, businesses, and other entities targeted for participation in the community-based catastrophe insurance product;
+  - **(2)** the insurance regulator of each State in which the community-based catastrophe insurance program will operate;
+  - **(3)** private industry, including insurers and reinsurers; and
+  - **(4)** other relevant entities with expertise in natural hazard and disaster risk assessment, mitigation, recovery, or insurability, or in the delivery of financial assistance or benefits, including—
+    - **(A)** other covered entities;
+    - **(B)** insurance or reinsurance producers;
+    - **(C)** nonprofit organizations;
+    - **(D)** catastrophe risk modeling firms;
+    - **(E)** academic and research institutions; or
+    - **(F)** financial technology providers.
+- **(e)** *Prioritization of applicants* In awarding grants under this section, the Administrator shall conduct a competitive process for considering and identifying applications from covered entities to ensure grant recipients—
+  - **(1)** represent broad geographic conditions, demographics, unmet natural hazard or disaster resiliency or recovery needs, and other factors to produce a wide range of data to evaluate program performance and viability;
+  - **(2)** target communities with high potential financial exposure to losses from natural hazards or disasters covered under the proposed community-based catastrophe insurance program for participation in such program; and
+  - **(3)** identify sufficient capital sources and public-private partnerships to ensure the long-term sustainability and effectiveness of the community-based catastrophe insurance program developed with funds under this section.
+- **(f)** *Guidance*
+  - **(1)** *In general* Not later than 180 days after the date of enactment of this Act, the Administrator shall issue guidance for the implementation of the pilot program established under subsection (a), including with respect to—
+    - **(A)** application requirements and evaluation criteria;
+    - **(B)** the minimum requirements described in subsection (c)(1);
+    - **(C)** allowable uses of funds under subsection (b), including any limitation on administrative costs;
+    - **(D)** coordination with State insurance regulators regarding the requirements of subsection (c)(1)(H), including model approaches to determining whether a community-based catastrophe insurance product constitutes insurance under the laws of a State; and
+    - **(E)** the data reporting required under subsection (h)(5).
+  - **(2)** *Consultation* In developing guidance under paragraph (1), the Administrator shall consult with—
+    - **(A)** the National Association of Insurance Commissioners;
+    - **(B)** State insurance regulators;
+    - **(C)** the Federal Insurance Office of the Department of the Treasury;
+    - **(D)** covered entities and organizations representing covered entities; and
+    - **(E)** insurers, reinsurers, and other participants in the private risk transfer market, including insurance and reinsurance producers.
+- **(g)** *Termination* The authorization to carry out the community-based catastrophe insurance pilot program established under subsection (a) shall terminate on September 30, 2031.
+- **(h)** *GAO reports*
+  - **(1)** *Reports required* The Comptroller General of the United States shall, with respect to community-based catastrophe insurance programs designed, developed, or implemented pursuant to this section, conduct and submit to Congress—
+    - **(A)** a study not later than 1 year after at least 3 covered entities utilized such programs to address a natural hazard or disaster event or not later than 3 years after establishment of the pilot program under subsection (a), whichever occurs earlier; and
+    - **(B)** a study not later than 1 year after the conclusion of the pilot program established under subsection (a).
+  - **(2)** *Evaluation criteria* Each study conducted under paragraph (1) shall contain an evaluation of the effectiveness of programs designed, developed, or implemented pursuant to this section with respect to—
+    - **(A)** the timeliness of insurance claim, benefit determinations, and payout delivery;
+    - **(B)** the extent to which claim and benefit payments addressed immediate natural hazard or disaster-related financial losses and recovery expenses;
+    - **(C)** the extent to which risk reduction investments undertaken through the program were reflected in premium, terms, or capacity;
+    - **(D)** participation rates among eligible households and communities, including demographic, geographic, and income-based characteristics of participating and nonparticipating households;
+    - **(E)** affordability of coverage and the effectiveness of any premium assistance mechanisms, including the sources, sufficiency, and durability of any non-Federal premium assistance or risk capital secured pursuant to subsection (b)(8);
+    - **(F)** administrative costs relative to benefits delivered;
+    - **(G)** impacts of the program on—
+      - **(i)** post-disaster financial stability, recovery outcomes, and reliance on other forms of public assistance; and
+      - **(ii)** awareness, assessment, mitigation, and reduction of natural hazard or disaster risks covered under such program;
+    - **(H)** with respect to members of the community—
+      - **(i)** understanding of program terms, trigger conditions, and payout expectations, and the effectiveness of outreach, education, and enrollment strategies; and
+      - **(ii)** satisfaction with program administration and benefit delivery; and
+    - **(I)** any statutory, regulatory, operational, actuarial, or data-related barriers to broader implementation of community-based catastrophe insurance.
+  - **(3)** *Recommendations* The study required under paragraph (1)(B) shall include recommendations regarding—
+    - **(A)** opportunities for Congress, the Department of Homeland Security, and other Federal agencies to support covered entities in the design, development, and implementation of community-based catastrophe insurance programs; and
+    - **(B)** whether Congress should authorize, expand, modify, or make permanent the pilot program established under subsection (a).
+  - **(4)** *Evaluation of non-traditional risk transfer* The study required under paragraph (1)(B) shall include—
+    - **(A)** an examination of what the Federal Emergency Management Agency considers to be insurance under section 311 of the Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5154);
+    - **(B)** a review of recent developments and advancements in the private risk transfer market, including—
+      - **(i)** the creation of risk transfer mechanisms and instruments beyond traditional property insurance since 1988; and
+      - **(ii)** the efficacy of other community-based catastrophe insurance demonstrations or policies implemented in the United States; and
+    - **(C)** an evaluation of—
+      - **(i)** whether community-based catastrophe insurance would adequately encourage individuals, States, local governments, and other covered entities to reduce exposure to losses from natural hazards or disasters by obtaining private coverage to supplement and replace governmental assistance;
+      - **(ii)** the design parameters and contract terms required for non-traditional insurance risk transfer mechanisms and instruments to be considered by the Federal Emergency Management Agency as insurance for purposes of any requirements to obtain and maintain insurance coverage under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.); and
+      - **(iii)** the impact that denial of recognition of non-traditional insurance risk transfer mechanisms and instruments by the Federal Emergency Management Agency has on the utilization of such products by States, local governments, and other covered entities to supplement or replace government assistance through private options.
+  - **(5)** *Data sharing requirement* A covered entity receiving grant funding under this section shall be required to provide appropriate and reasonable data to the Comptroller General on the performance of the community-based catastrophe insurance product designed, developed, facilitated, or implemented with funds from this section to support reporting requirements under this subsection. Nothing in this section shall require disclosure of proprietary, trade secret, or confidential insurer, reinsurer, or catastrophe-modeling information.
+  - **(6)** *Consultation* In conducting each study required under paragraph (1), the Comptroller General shall consult with—
+    - **(A)** the National Association of Insurance Commissioners;
+    - **(B)** State insurance regulators;
+    - **(C)** the Federal Insurance Office of the Department of the Treasury; and
+    - **(D)** recipients of grants awarded under this section.
+- **(i)** *Definitions* In this section:
+  - **(1)** *Administrator* The term Administrator means the Administrator of the Federal Emergency Management Agency.
+  - **(2)** *Alaska Native Corporation* The term Alaska Native Corporation has the meaning given the term Native Corporation in section 3 of the Alaska Native Claims Settlement Act (42 U.S.C. 1602).
+  - **(3)** *Basis risk* The term basis risk means the potential difference between the actual loss from a natural hazard or disaster event and the payout from a parametric program.
+  - **(4)** *Community* The term community means a defined geographic region encompassing a group of properties, including those owned or utilized by homeowners, renters, businesses, and other relevant stakeholders.
+  - **(5)** *Community-based catastrophe insurance* The term community-based catastrophe insurance means natural hazard or disaster insurance that is arranged by a covered entity to provide coverage to a community.
+  - **(6)** *Covered entities* The term covered entities—
+    - **(A)** means—
+      - **(i)** States, Tribal governments, or any political subdivision thereof;
+      - **(ii)** Native Hawaiian organizations;
+      - **(iii)** Alaska Native Corporations;
+      - **(iv)** community-based, nonprofit organizations; or
+      - **(v)** other relevant stakeholders as identified by the Administrator with sufficient authority to facilitate or offer coverage of catastrophe insurance for a group of properties; and
+    - **(B)** shall, to the extent a covered entity offers, issues, underwrites, administers, or otherwise bears insurance risk, only include entities described in subparagraph (a) that are authorized to do so under applicable State insurance laws and regulatory requirements.
+  - **(7)** *Native Hawaiian organization* The term Native Hawaiian organization—
+    - **(A)** means an organization that—
+      - **(i)** serves and represents the interests of Native Hawaiians;
+      - **(ii)** provides services to Native Hawaiians; and
+      - **(iii)** has expertise in Native Hawaiian affairs; and
+    - **(B)** includes Native Hawaiian organizations registered with Office of Native Hawaiian Relations of the Department of the Interior.
+  - **(8)** *Secretary* The term Secretary means the Secretary of Homeland Security.
+  - **(9)** *Tribal government* The term Tribal government means the recognized governing body of an Indian Tribe.
+- **(j)** *Preservation of State authority* Nothing in this Act, including any grant condition, guidance, program requirement, or other action taken pursuant to this Act, shall be construed to preempt, supersede, impair, or otherwise affect the application of State insurance laws or the authority of a State insurance regulator to regulate the business of insurance. To the extent any provision of this Act relates to the business of insurance, the Act of March 9, 1945 (commonly known as the “McCarran-Ferguson Act”) shall apply. No provision of this Act shall be construed to authorize any Federal department, agency, officer, employee, contractor, grantee, or program administrator to approve insurance products, establish insurance rates, license insurers or producers, approve policy forms, regulate claims handling, establish market conduct standards, or otherwise exercise authority reserved to State insurance regulators under applicable State laws and regulatory requirements.
+- **(k)** *Authorization of appropriations* There is authorized to be appropriated to the Secretary $20,000,000 for each of fiscal years 2027 through 2031 to carry out the grant program established under subsection (a).
