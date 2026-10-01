@@ -1,0 +1,27 @@
+---
+legis-num: H.R. 10690
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 10690
+
+> To amend the Internal Revenue Code of 1986 to increase the limitation on capital losses and index the limitation to inflation.
+
+## § 1. Short title
+
+This Act may be cited as the “Capital Loss Inflation Fairness Act”.
+
+## § 2. Increased limitation on capital losses
+
+- **(a)** *In general* Section 1211(b) of the Internal Revenue Code of 1986 is amended to read as follows:
+  > - **(b)** *Other taxpayers*
+  >   - **(1)** *In general* In the case of a taxpayer other than a corporation, losses from sales or exchanges of capital assets shall be allowed only to the extent of the gains from such sales or exchanges, plus (if such losses exceed such gains) the lower of—
+  >     - **(A)** $14,250 ($7,125 in the case of a married individual filing a separate return), or
+  >     - **(B)** the excess of such losses over such gains.
+  >   - **(2)** *Inflation adjustment* In the case of any taxable year beginning in a calendar year after 2026, the dollar amounts in paragraph (1)(A) shall be increased by an amount equal to—
+  >     - **(A)** such dollar amount, multiplied by
+  >     - **(B)** the cost-of-living adjustment under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2025” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+
+- **(b)** *Effective date* The amendment made by this section shall apply to losses in taxable years beginning after December 31, 2025.
