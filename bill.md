@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2283
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,33 +13,71 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Recognizing Community Organizations for Veteran Engagement and Recovery Act” of the “RECOVER Act” .
 
-## § 2. Department of Veterans Affairs pilot program to provide grants to medical facilities for the provision of culturally competent, evidence-based mental health care for veterans
+## § 2. Department of Veterans Affairs pilot program to provide grants to mental health care providers for the provision of mental health care for veterans
 
-- **(a)** *Establishment* The Secretary of Veterans Affairs shall carry out a three-year pilot program under which the Secretary shall make grants to eligible mental health care providers for the provision of culturally competent, evidence-based mental health care for veterans.
+- **(a)** *Establishment* The Secretary of Veterans Affairs shall carry out a three-year pilot program under which the Secretary shall make grants to eligible mental health care providers for the provision of mental health care to veterans, including evidence-based mental health care delivered in person or via telehealth, by providers who have—
+  - **(1)** documented experience serving veterans and their families; and
+  - **(2)** training in behavioral health conditions related to military service.
 - **(b)** *Eligibility* To be eligible to receive a grant under the pilot program, a mental health care provider shall—
-  - **(1)** be a non-profit organization;
-  - **(2)** have operated at least one outpatient mental health facility in the United States for a continuous period of at least three years; and
-  - **(3)** submit to the Secretary an application that includes such information and assurances as the Secretary may require, including—
-    - **(A)** an identification of the outpatient facility or facilities where the provider will provide mental health care to veterans using the grant funds;
-    - **(B)** a plan under which at least one clinician employed by the provider at each facility for which a grant is made is trained to provide culturally competent veterans mental health care pursuant to the requirements established by the Secretary under subsection (f); and
+  - **(1)** have operated at least one outpatient mental health facility in the United States for a continuous period of at least three years;
+  - **(2)** be licensed or certified under applicable state law to provide outpatient mental health services;
+  - **(3)** be accredited by—
+    - **(A)** the Joint Commission on Accreditation of Healthcare Organizations;
+    - **(B)** the Commission on Accreditation of Rehabilitation Facilities; or
+    - **(C)** any other nationally recognized accrediting body the Secretary determines appropriate; and
+  - **(4)** submit to the Secretary an application that includes such information and assurances as the Secretary may require, including—
+    - **(A)** an identification of the outpatient facility or facilities where the mental health care services will be provided;
+    - **(B)** a plan under which at least one clinician at each facility that receives grant funds has completed training or continuing education in the diagnosis and treatment of mental health conditions specific to veterans, including the effect of military service on behavioral health; and
     - **(C)** an identification of the percentage of the operating budget for each such facility that was provided through Federal grants during the fiscal year preceding the year during which the application is submitted.
 - **(c)** *Use of funds*
   - **(1)** *In general* The recipient of a grant under the pilot program shall use the grant—
-    - **(A)** to provide culturally competent, evidence-based mental health care for veterans;
-    - **(B)** to operate an existing outpatient mental health facility or establish a new outpatient mental health facility for the purpose of providing such care; and
-    - **(C)** to encourage veterans who are eligible for enrollment in the patient enrollment system under section 1705 of title 38, United States Code, to enroll in such system and to receive medical services furnished by the Department of Veterans Affairs.
-  - **(2)** *Limitations* The recipient of a grant under the pilot program may not—
-    - **(A)** charge any veteran a fee associated with the receipt of mental health care; or
-    - **(B)** refuse to provide mental health care to any veteran on the basis that the veteran is not eligible for reimbursement for such care under a health plan contract or any Federal, State, or local government program.
-  - **(3)** *Reimbursement* Nothing in this subsection shall prevent the recipient of a grant under the pilot program from seeking or receiving reimbursement for all, or a portion, of the mental health care provided to a veteran, including reimbursement under a health plan contract, the Community Care Program of the Department under section 1703 of title 38, United States Care, or any other Federal, State, or local government program.
-- **(d)** *Selection of facilities* In selecting outpatient mental health facilities for the receipt of grants under the pilot program, the Secretary—
-  - **(1)** shall ensure that grants are distributed evenly among outpatient mental health facilities located in rural and urban areas;
-  - **(2)** may consider the proportion of veterans historically served by the outpatient mental health facilities; and
+    - **(A)** to deliver mental health care described in subsection (a);
+    - **(B)** to operate or expand an existing outpatient mental health facility or establish a new outpatient mental health facility for the purpose of providing such care;
+    - **(C)** to encourage veterans who are eligible for enrollment in the patient enrollment system under section 1705 of title 38, United States Code, to enroll in such system and to receive medical services furnished by the Department of Veterans Affairs;
+    - **(D)** to support activities necessary to deliver or sustain care, including—
+      - **(i)** outreach;
+      - **(ii)** care coordination;
+      - **(iii)** veteran engagement;
+      - **(iv)** clinician training;
+      - **(v)** implementation support; and
+      - **(vi)** program evaluation; and
+    - **(E)** to support continuous quality improvement and outcomes measurement activities, including the collection and reporting of clinical outcomes and operational metrics;
+    - **(F)** to support activities of the program that are not billable, reimbursable, or otherwise authorized by law, including—
+      - **(i)** outreach;
+      - **(ii)** care coordination;
+      - **(iii)** engagement;
+      - **(iv)** implementation support; and
+      - **(v)** program evaluation; and
+    - **(G)** to provide services to individuals for which reimbursement is not otherwise available, including such individuals who are—
+      - **(i)** uninsured;
+      - **(ii)** ineligible for health care furnished by the Department of Veterans Affairs; or
+      - **(iii)** in receipt of health care that is not reimbursable as of the date of the enactment of this Act.
+  - **(2)** *Limitations on use of grant funds* The recipient of a grant under the pilot program may not—
+    - **(A)** charge an eligible veteran a fee associated with the receipt of mental health care funded by such grant;
+    - **(B)** refuse to provide mental health care to an eligible veteran on the basis that the veteran is not eligible for reimbursement for such care under another payer source; or
+    - **(C)** use grant funds to—
+      - **(i)** duplicate payments made under any contract or agreement to which the Department is a party as of the date of the enactment of this Act; or
+      - **(ii)** pay for the same clinical services or service units that are otherwise billable to a Federal payer, including the Veterans Community Care Program under section 1703 of title 38, United States Code, or any other public or private health plan.
+  - **(3)** *Rules of construction* Nothing in this subsection may be construed to—
+    - **(A)** prohibit a grant recipient from seeking reimbursement from non-Department payers for mental health services provided by the grant recipient, except that grant funds shall not be used to supplant or duplicate a reimbursement otherwise available under Federal law; or
+    - **(B)** authorize double billing or duplicate payments for the same clinical service or unit of service.
+  - **(4)** *Spouse and dependent care* A recipient may use grant funds to provide care to spouses and dependent children of a veteran when such services are integral to achieving a successful clinical outcome. Permissible services include—
+    - **(A)** family therapy;
+    - **(B)** couples therapy;
+    - **(C)** group therapy;
+    - **(D)** family psychoeducation; and
+    - **(E)** other counseling services the Secretary determines are clinically necessary.
+- **(d)** *Selection of facilities* In awarding grants under the pilot program, the Secretary—
+  - **(1)** shall ensure that grants are distributed geographically evenly among rural and urban areas;
+  - **(2)** may consider the proportion of veterans historically served by the grant recipient;
   - **(3)** may prioritize outpatient mental health facilities located in areas that the Secretary determines—
     - **(A)** are medically underserved;
     - **(B)** have large veteran populations;
     - **(C)** are located near military installations; or
-    - **(D)** have large numbers of veterans at high risk of suicide.
+    - **(D)** have large numbers of veterans at high risk of suicide; and
+  - **(4)** shall prioritize a provider that—
+    - **(A)** demonstrates a primary mission of serving veterans or military-connected populations; or
+    - **(B)** demonstrates that grant funds will be used to expand veterans’ access to care and to improve patient outcomes.
 - **(e)** *Amount of grant*
   - **(1)** *In general*
     - **(A)** *In general* Except as provided in subparagraph (B), no grant under the pilot program for a facility for any fiscal year may exceed $1,500,000.
@@ -49,16 +87,26 @@ This Act may be cited as the “Recognizing Community Organizations for Veteran 
   - **(2)** *Multiple grants* The recipient of a grant under the pilot program—
     - **(A)** may apply for, and receive, grants for more than one facility of the recipient for any fiscal year; and
     - **(B)** may apply for, and receive, a grant for a facility that has already received a grant under the pilot program.
-- **(f)** *Training requirement* The Secretary shall establish the requirements for the training referred to in subsection (b)(2)(A).
-- **(g)** *Regulations* The Secretary shall prescribe regulations to carry out this section, which shall include a requirement that each recipient of a grant under the pilot program shall—
+- **(f)** *Regulations; accountability* The Secretary shall prescribe regulations to carry out this section, which shall include a requirement that each recipient of a grant under the pilot program shall—
   - **(1)** demonstrate the capacity to provide accountability;
-  - **(2)** demonstrate clinical outcomes; and
-  - **(3)** justify the effective use of any private investment funds or Federal grant funds through data collection and reporting metrics.
+  - **(2)** demonstrate clinical outcomes;
+  - **(3)** justify the effective use of any private investment funds or Federal grant funds through data collection and reporting metrics; and
+  - **(4)** collect standardized outcome measures including symptom improvement and program completion.
+- **(g)** *Continuity of care* A recipient of a grant under the pilot program shall adhere to the continuity of care model established by the Secretary to the Veterans Community Care Program.
 - **(h)** *Report* Not later than 180 days after the completion of the pilot program under this section, the Secretary shall submit to Congress a report on the pilot program that includes the following:
   - **(1)** The number of veterans who received mental health care under the program.
-  - **(2)** The demographics of the veterans served.
-  - **(3)** An identification of the types of mental health care provided and the time period for which such care was provided.
-  - **(4)** An identification of program outcomes.
-  - **(5)** The number of veterans who received mental health care under the program and subsequently enrolled in the patient enrollment system under section 1705 of title 38, United States Code.
-  - **(6)** An identification of any obstacles faced by grant recipients in providing mental health care under the program.
-- **(i)** *Authorization of appropriations* There is authorized to be appropriated to the Secretary to carry out the pilot program under this section $20,000,000 for each of fiscal years 2025 through 2027.
+  - **(2)** An identification of the types of mental health care provided and the time period for which such care was provided.
+  - **(3)** An identification and summary of program outcomes.
+  - **(4)** The number of veterans who received mental health care under the program and subsequently enrolled in the patient enrollment system under section 1705 of title 38, United States Code.
+  - **(5)** An identification of any obstacles faced by grant recipients in providing mental health care under the program.
+  - **(6)** A summary of clinical outcomes based on pre- and post-client functioning—
+    - **(A)** the number of veterans who improved clinically based on relevant clinical evaluation metrics that the Secretary determines appropriate;
+    - **(B)** the degree of clinical improvement based on such relevant clinical evaluation metrics;
+    - **(C)** the total number of veterans participating in the program; and
+    - **(D)** any other outcome metrics as the Secretary determines appropriate.
+  - **(7)** Findings with respect to the sustainability of the program.
+- **(i)** *Authorization of appropriations* There is authorized to be appropriated to the Secretary to carry out the pilot program under this section $20,000,000 for each of fiscal years 2027 through 2029.
+
+## § 3. Modification of certain housing loan fees
+
+The loan fee table in section 3729(b)(2) of title 38, United States Code, is amended by striking “June 9, 2034” each place it appears and inserting “July 24, 2034”.
