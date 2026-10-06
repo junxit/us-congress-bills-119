@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7260
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7260
@@ -29,3 +29,12 @@ National Cemetery Administration Annual Report Act of 2026
 - 2026-01-27 — Introduced in House
 - 2026-01-27 — Introduced in House
 - 2026-01-27 — Referred to the House Committee on Veterans' Affairs.
+- 2026-01-30 — Referred to the Subcommittee on Disability Assistance and Memorial Affairs.
+- 2026-02-03 — Subcommittee Hearings Held
+- 2026-03-26 — Forwarded by Subcommittee to Full Committee (Amended) by Voice Vote.
+- 2026-03-26 — Subcommittee Consideration and Mark-up Session Held
+- 2026-05-14 — Committee Consideration and Mark-up Session Held
+- 2026-05-14 — Ordered to be Reported (Amended) by Voice Vote.
+- 2026-10-06 — Placed on the Union Calendar, Calendar No. 738.
+- 2026-10-06 — Reported by the Committee on Veterans' Affairs. H. Rept. 119-841.
+- 2026-10-06 — Reported by the Committee on Veterans' Affairs. H. Rept. 119-841.
