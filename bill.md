@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6698
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -22,3 +22,14 @@ Section 7101(d) of title 38, United States Code, is amended—
 - **(3)** in paragraph (2) by adding at the end the following:
   > - **(H)** with respect to cases pending before the Board under the new appeals system (as defined in section 6 of the Veterans Appeals Improvement and Modernization Act of 2017 (Public Law 115–55; 131 Stat. 1127)) during that year that were not disposed of in a timely manner (as required by section 7101(a) of this title) by the end of that year, an identification by the Chairman of the factors contributing to the untimely disposition of such cases and, for each factor so identified, the number and percentage of such cases to which that factor contributed; and
   > - **(I)** with respect to cases pending before the Board (whether under the new or legacy appeals system) during that year that were remanded during that year, an identification by the Chairman of the factors contributing to the remand of such cases and, for each factor so identified, the number and percentage of such cases to which that factor contributed.
+
+## § 3. Board of Veterans’ Appeals publication of dates of docket activity
+
+Section 7107 of title 38, United States Code, is amended by adding at the end the following new subsection:
+
+> - **(f)** *Publication of expected actions*
+>   - **(1)** On a weekly basis, for each docket, the Board shall publish, on a website of the Department, notice of the docket dates of the cases assigned to a Board member for a decision for that week.
+>   - **(2)** Each notice published under paragraph (1) shall include a statement that an assignment described in such paragraph does not require the Board to issue a decision regarding the case during such week.
+>   - **(3)** Paragraph (1) shall not apply to a case—
+>     - **(A)** that has been advanced under subsection (b); or
+>     - **(B)** remanded by the United States Court of Appeals for Veterans Claims.
