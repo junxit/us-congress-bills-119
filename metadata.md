@@ -1,7 +1,7 @@
 ---
 measure: H.R. 10375
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 10375
@@ -16,9 +16,11 @@ version: Introduced in House
 
 - Rep. Velázquez, Nydia M. [D-NY-7] (V000081)
 
-## Cosponsors (1)
+## Cosponsors (3)
 
 - Rep. Williams, Roger [R-TX-25] (W000816)
+- Rep. Tran, Derek [D-CA-45] (T000491)
+- Rep. Cisneros, Gilbert Ray [D-CA-31] (C001123)
 
 ## Committees (1)
 
@@ -29,3 +31,8 @@ version: Introduced in House
 - 2026-09-14 — Introduced in House
 - 2026-09-14 — Introduced in House
 - 2026-09-14 — Referred to the House Committee on Small Business.
+- 2026-09-16 — Committee Consideration and Mark-up Session Held
+- 2026-09-16 — Ordered to be Reported by the Yeas and Nays: 23 - 0.
+- 2026-10-09 — Placed on the Union Calendar, Calendar No. 745.
+- 2026-10-09 — Reported by the Committee on Small Business. H. Rept. 119-848.
+- 2026-10-09 — Reported by the Committee on Small Business. H. Rept. 119-848.
