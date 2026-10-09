@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4615
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,13 +14,24 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 0 executed, 2 stated and not applied.
+3 amendatory instructions. 1 executed, 2 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
 document alone. Where a bill says *strike subsection (k)*, the words it
 removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
+
+## Executed
+
+### 15 U.S.C. § 644
+
+> Paragraph (2) of section 15(y) of the Small Business Act, as redesignated by subsection (a), is amended by striking “(as defined in subsection (y))” and inserting “(as defined in subsection (z))”.
+
+| | |
+|---|---|
+| Removed | `(as defined in subsection (y))` |
+| Inserted | `(as defined in subsection (z))` |
 
 ## Stated, not applied
 
