@@ -1,7 +1,7 @@
 ---
 measure: H.R. 10329
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 10329
@@ -29,3 +29,8 @@ Combating Foreign Threats to Main Street Act of 2026
 - 2026-09-10 — Introduced in House
 - 2026-09-10 — Introduced in House
 - 2026-09-10 — Referred to the House Committee on Small Business.
+- 2026-09-16 — Committee Consideration and Mark-up Session Held
+- 2026-09-16 — Ordered to be Reported by the Yeas and Nays: 22 - 0.
+- 2026-10-09 — Placed on the Union Calendar, Calendar No. 741.
+- 2026-10-09 — Reported by the Committee on Small Business. H. Rept. 119-844.
+- 2026-10-09 — Reported by the Committee on Small Business. H. Rept. 119-844.
