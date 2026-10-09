@@ -13,41 +13,56 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “VA Fiscal Management Modernization Act”.
 
-## § 2. Clarification and expansion of authority of the Assistant Secretary for Management of the Department of Veterans Affairs
+## § 2. Assistant Secretary for Management of the Department of Veterans Affairs: change in title; clarification and expansion of authority
 
-- **(a)** *In general* Section 309 of title 38, United States Code, is amended to read as follows (and the table of sections at the beginning of chapter 3 of such title is amended accordingly):
-  > ## § 309. Chief Financial Officer; Office of Management
+- **(a)** *Change in title* Section 308 of title 38, United States Code, is amended, in subsection (a)(3)(A), by striking “Assistant Secretary for Management” and inserting “Assistant Secretary for Planning and Budget”.
+- **(b)** *Increase to number of Deputy Assistant Secretaries* Such section is further amended, in subsection (d)(1), by striking “19” and inserting “21”.
+- **(c)** *Duties and office* Section 309 of such title is amended to read as follows (and the table of sections at the beginning of chapter 3 of such title is amended accordingly):
+  > ## § 309. Chief Financial Officer; Office of Planning and Budget
   >
-  > - **(a)** *Designation* The Secretary shall designate the Assistant Secretary for Management, whose functions include budgetary and financial functions, as the Chief Financial Officer of the Department.
+  > - **(a)** *Designation* The Secretary shall designate the Assistant Secretary for Planning and Budget, whose functions include budgetary and financial functions, as the Chief Financial Officer of the Department.
   > - **(b)** *Duties* The duties of the Chief Financial Officer include the following:
   >   - **(1)** To advise the Secretary on financial management of the Department.
   >   - **(2)** To formulate, justify, and execute the budget of the Department.
   >   - **(3)** To control, account for, audit, and report on the finances of the Department.
-  >   - **(4)** To exercise the authority and carry out the functions specified in section 902 of title 31.
-  >   - **(5)** To ensure compliance with sections 1341, 1342, 1349, 1350, and 1511 through 1519 of title 31 (commonly referred to as “the Antideficiency Act”).
-  >   - **(6)** To provide to Congress (or a congressional committee), upon request, information regarding the budget and finances of the Department.
-  >   - **(7)** To serve as the head of the Office of Management of the Department.
+  >   - **(4)** To manage the life cycle of major acquisition programs of the Department.
+  >   - **(5)** To exercise the authority and carry out the functions specified in section 902 of title 31.
+  >   - **(6)** To ensure compliance with sections 1341, 1342, 1349, 1350, and 1511 through 1519 of title 31 (commonly referred to as “the Antideficiency Act”).
+  >   - **(7)** To provide to Congress (or a congressional committee), upon request, information regarding the budget and finances of the Department.
+  >   - **(8)** To serve as the head of the Office of Planning and Budget of the Department.
   > - **(c)** *Deputy Assistant Secretaries*
-  >   - **(1)** There is in the Department of Management a Deputy Assistant Secretary for Management for Financial Strategy and Budget.
-  >   - **(2)** There is in the Department of Management a Deputy Assistant Secretary for Management for Financial Operations and Internal Controls. Such Deputy Assistant Secretary shall be a career appointee (as that term is defined in section 3132(a) of title 5) within the Senior Executive Service of the Department.
-  > - **(d)** *Office of Management* There is in the Department an Office of Management.
+  >   - **(1)** There is in the Department a Deputy Assistant Secretary for Planning and Budget.
+  >   - **(2)** There is in the Department a Deputy Assistant Secretary for Planning and Budget for Financial Operations and Internal Controls. Such Deputy Assistant Secretary shall be a career appointee (as that term is defined in section 3132(a) of title 5) within the Senior Executive Service of the Department.
+  > - **(d)** *Office of Planning and Budget* There is in the Department an Office of Planning and Budget.
   > - **(e)** *Legislative and Congressional Budget Information Office*
-  >   - **(1)** There is within the Office of Management a Legislative and Congressional Budget Information Office (in this subsection referred to as the “LCBI Office”). The Chief Financial Officer shall appoint a head of the LCBI Office who shall report exclusively to the Chief Financial Officer.
+  >   - **(1)** There is within the Office of Planning and Budget a Legislative and Congressional Budget Information Office (in this section referred to as the “LCBI Office”). The Chief Financial Officer shall appoint a head of the LCBI Office who shall report exclusively to the Chief Financial Officer.
   >   - **(2)** The sole function of the LCBI Office is to provide to Congress (or a congressional committee), accurate, timely, and certified information regarding the finances and budget of the Department.
-  >   - **(3)** Not more than 15 full-time equivalent employees, including supervisors, may be assigned to the LCBI Office.
+  >   - **(3)** Congress or a congressional committee may submit a request for information described in paragraph (2) directly to the LCBI Office.
+  >   - **(4)** Paragraphs (2) and (3) notwithstanding, the Assistant Secretary for Congressional and Legislative Affairs shall respond to a request described in paragraph (3) submitted to the Office of Congressional and Legislative Affairs.
+  >   - **(5)** Not more than six full-time equivalent employees, including supervisors, may be assigned to the LCBI Office.
+  > - **(f)** *Sunset* On the day that is five years after the date of the enactment of the VA Fiscal Management Modernization Act, the following shall terminate:
+  >   - **(1)** The designation of the Chief Financial Officer under subsection (a).
+  >   - **(2)** The duties of the Chief Financial Officer under subsection (b).
+  >   - **(3)** The positions of the Deputy Assistant Secretaries for Planning and Budget under subsection (c).
+  >   - **(4)** The Office of Planning and Budget under subsection (d).
+  >   - **(5)** The LCBI Office under subsection (e).
 
-- **(b)** *Increase to number of Deputy Assistant Secretaries* Section 308(d)(1) of such title is amended by striking “19” and inserting “21”.
-- **(c)** *Financial employees* Subchapter I of chapter 7 of such title is amended by inserting after section 728 the following new section (and the table of sections at the beginning of such chapter is amended accordingly):
+- **(d)** *Financial employees* Subchapter I of chapter 7 of such title is amended by inserting after section 728 the following new section (and the table of sections at the beginning of such chapter is amended accordingly):
   > ## § 729. Employees with certain financial authority: management; limitation on authority to appoint
   >
   > - **(a)** *Management*
   >   - **(1)** An employee described in paragraph (2) shall report exclusively to the Chief Financial Officer of the Department designated under section 309 of this title.
   >   - **(2)** An employee described in this paragraph is an employee of the Department—
-  >     - **(A)** whose position is that of chief financial officer of an Administration of the Department or Veterans Integrated Service Network; or
+  >     - **(A)** whose position is that of chief financial officer of an Administration of the Department or a Veterans Integrated Service Network; or
   >     - **(B)** whose duties are substantially similar to a position described in subparagraph (A).
   >   - **(3)** An employee described in paragraph (2) may not perform a programmatic or operational function in the Department.
   > - **(b)** *Limitation on authority To appoint* The Secretary may not establish a employee position—
   >   - **(1)** that performs a function substantially similar to the function of the Legislative and Congressional Budget Information Office of the Department established under section 309(d) of this title; and
   >   - **(2)** that is not within the Legislative and Congressional Budget Information Office.
+  > - **(c)** *Sunset* This section shall terminate on the day that is five years after the date of the enactment of the VA Fiscal Management Modernization Act.
 
-- **(d)** *Implementation* The Secretary of Veterans Affairs shall carry out the amendments made by this section not later than 180 days after the date of the enactment of this Act.
+- **(e)** *Implementation* The Secretary of Veterans Affairs shall carry out the amendments made by this section not later than 180 days after the date of the enactment of this Act.
+
+## § 3. Extension of certain limits on payments of pension
+
+Section 5503(d)(7) of title 38, United States Code, is amended by striking “January 31, 2033” and inserting “December 31, 2033”.
