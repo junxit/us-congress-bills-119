@@ -1,0 +1,37 @@
+---
+legis-num: S. 5682
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE SENATE OF THE UNITED STATES
+---
+
+# S. 5682
+
+> To amend the Foreign Agents Registration Act of 1938, as amended to clarify that foreign government-owned media operating in the United States must register as a foreign agent.
+
+## § 1. Short title
+
+This Act may be cited as the “Foreign Government-Owned Media FARA Registration Act”.
+
+## § 2. Definition
+
+Section 1 of the Foreign Agents Registration Act of 1938, as amended (22 U.S.C. 611) is amended by striking subsection (d) and inserting the following:
+
+> - **(d)** The term agent of a foreign principal—
+>   - **(1)** includes any news or press service or association operating in the United States that is owned, controlled, or financed directly or indirectly, in whole or in part, by a government of a foreign country, unless that news or press service or association—
+>     - **(A)** has the freedom, pursuant to the law of that foreign country, to take any position adverse to the foreign government owning, controlling, or financing the news or press service or association; and
+>     - **(B)** can demonstrate to the satisfaction of the Attorney General that the news or press service or association is independent in all matters relating to the editorial decisions of the news or press service or association; and
+>   - **(2)** does not include any news or press service or association organized under the laws of the United States or of any State or other place subject to the jurisdiction of the United States, or any newspaper, magazine, periodical, digital media, or other publication for which there is on file with the United States Postal Service information in compliance with section 3685 of title 39, United States Code, published in the United States, solely by virtue of any bona fide news or journalistic activities, including the solicitation or acceptance of advertisements, subscriptions, or other compensation therefor, so long as it is at least 80 per centum beneficially owned by, and its officers and directors, if any are citizens of the United States, and such news or press service or association, newspaper, magazine, periodical, digital media, or other publication, is not owned, directed, supervised, controlled, subsidized, or financed, and none of its policies are determined by any foreign principal defined in subsection (b) of this section, or by any agent of a foreign principal required to register under this Act.
+
+## § 3. Reports to the Congress
+
+The Foreign Agents Registration Act of 1938, as amended (22 U.S.C. 611 et seq.) is amended by striking section 11 (22 U.S.C. 621) and inserting the following:
+
+> ## § 11. Reports to the Congress
+>
+> - **(a)** The Attorney General shall provide an annual report to the Congress concerning administration of this Act, including registrations filed pursuant to this Act, and the nature, sources and content of political propaganda disseminated and distributed.
+> - **(b)** In each report submitted under subsection (a), the Attorney General shall include in the report—
+>   - **(1)** a list of each foreign media outlet operating in the United States that is owned, controlled, or financed directly or indirectly, in whole or in part, by a government of a foreign country; and
+>   - **(2)** with respect to each foreign media outlet described in paragraph (1)—
+>     - **(A)** a statement of whether the foreign media outlet is registered under this Act; and
+>     - **(B)** if the foreign media outlet is not registered under this Act, an explanation of why the foreign media outlet is not registered under this Act.
