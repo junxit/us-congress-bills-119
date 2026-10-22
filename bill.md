@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1382
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -9,18 +9,18 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To amend the Federal Water Pollution Control Act with respect to San Francisco Bay restoration, and for other purposes.
 
-## § 1. San Francisco Bay Restoration Program
+## § 1. San Francisco Bay restoration program
 
 Section 125 of the Federal Water Pollution Control Act (33 U.S.C. 1276a) is amended—
 
-- **(1)** in the section heading, by striking “GRANT”; and
-- **(2)** by amending subsection (e) to read as follows:
-  > - **(e)** *Program implementation*
-  >   - **(1)** *In general* The Director may provide funding through cooperative agreements, grants, interagency agreements, contracts, or other funding mechanisms to Federal, State, and local agencies, special districts, public or nonprofit agencies, and other public or private entities, institutions, and organizations, including the Estuary Partnership, for projects, activities, and studies identified on the annual priority list compiled under subsection (c).
-  >   - **(2)** *Agreements with non-federal entities*
-  >     - **(A)** *Maximum amount* Amounts provided in the form of a grant, under a cooperative agreement, or through other funding mechanisms to any non-Federal entity under this section for a fiscal year shall not exceed an amount equal to 75 percent of the total cost of any projects, activities, and studies that are to be carried out using those amounts.
-  >     - **(B)** *Non-federal share* Not less than 25 percent of the cost of any project, activity, or study carried out using amounts provided in the form of a grant, under a cooperative agreement, or through other funding mechanisms under this section shall be provided from non-Federal sources.
-  >     - **(C)** *Limitations on non-federal recipients* No non-Federal entity may receive Federal funding under this section if that entity—
-  >       - **(i)** is domiciled in, headquartered in, organized under the laws of, or whose principal place of business is located in a foreign country of concern (as defined in 42 U.S.C. 19237); or
-  >       - **(ii)** has in place any agreement, partnership, or relationship with a foreign country of concern.
-  >   - **(3)** *Federal interagency agreements* Amounts provided to Federal agencies entities under interagency agreements under this section may be used to carry out activities described in subsection (c).
+- **(1)** in the section heading, by striking “grant”; and
+- **(2)** in subsection (e)—
+  - **(A)** in the subsection heading, by striking “Grant program” and inserting “Program implementation”;
+  - **(B)** in paragraph (1), by striking “or other means to State and local agencies, special districts, and public or nonprofit agencies” and inserting “interagency agreements, contracts, or other funding mechanisms to Federal, State, and local agencies, special districts, public or nonprofit agencies, and other public or private entities”; and
+  - **(C)** by striking paragraph (2) and inserting the following:
+    > - **(2)** *Maximum amount* Amounts provided for a project, activity, or study under this section shall not exceed an amount that is equal to 75 percent of the total cost of such project, activity, or study.
+    > - **(3)** *Assistance to non-Federal entities*
+    >   - **(A)** *Non-Federal share* Not less than 25 percent of the cost of any project, activity, or study carried out using amounts provided to a non-Federal entity under this section shall be provided from non-Federal sources.
+    >   - **(B)** *Limitation* No Federal funds may be provided under this section to any non-Federal entity—
+    >     - **(i)** that is domiciled in, headquartered in, or organized under the laws of, or the principal place of business of which is located in, a foreign country of concern (as defined in section 10638 of the Research and Development, Competition, and Innovation Act (42 U.S.C. 19237)); or
+    >     - **(ii)** that has in place any agreement or partnership with a foreign country of concern.
