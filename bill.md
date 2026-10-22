@@ -1,0 +1,21 @@
+---
+legis-num: H.R. 10893
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 10893
+
+> To prohibit the use of personally identifiable information collected by the Federal Emergency Management Agency for enforcement of the immigration laws, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Emergency Assistance Privacy Protection Act of 2026”.
+
+## § 2. Prohibition on the use of personally identifiable information
+
+- **(a)** *In general* The Secretary of Homeland Security may not use any personally identifiable information collected by the Federal Emergency Management Agency to provide assistance pursuant to the declaration of a major disaster or emergency under section 401 or 501 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170; 5191) for the purpose of enforcing the immigration laws (as such term is defined under section 101(a) of the Immigration and Nationality Act (8 U.S.C. 1101(a)).
+- **(b)** *Personally identifiable information* The term personally identifiable information means any information that—
+  - **(1)** can be used to distinguish or trace the identity of an individual, such as a name, residential address, a social security number, an alien registration number, a date and place of birth, or a parent's maiden name; or
+  - **(2)** any item, collection, or grouping of information about an individual that is maintained by an agency, including their education, financial transactions, medical history, criminal history, or employment history that contains a name, or the identifying number, symbol, or other identifying particular assigned to the individual, such as a fingerprint, voice print, or photograph.
