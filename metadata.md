@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4598
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 4598
@@ -25,3 +25,8 @@ Technical Corrections to the Northwestern New Mexico Rural Water Projects Act, T
 - 2025-07-22 — Introduced in House
 - 2025-07-22 — Introduced in House
 - 2025-07-22 — Referred to the House Committee on Natural Resources.
+- 2026-09-15 — Committee Consideration and Mark-up Session Held
+- 2026-09-15 — Ordered to be Reported in the Nature of a Substitute by Unanimous Consent.
+- 2026-10-29 — Placed on the Union Calendar, Calendar No. 751.
+- 2026-10-29 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-854.
+- 2026-10-29 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-854.
