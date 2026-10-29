@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3331
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -23,9 +23,10 @@ Section 7510 of title 46, United States Code, is amended—
     - **(i)** by striking “90 days” and inserting “180 days”;
     - **(ii)** by striking “Coast Guard Authorization Act of 2016” and insert “Mariner Exam Modernization Act”;
     - **(iii)** by striking “new questions for inclusion in” and inserting “questions, content, and relevancy of”;
-    - **(iv)** by redesignating subparagraphs (E), (F), and (G) as subparagraphs (F), (G), and (H), respectively; and
+    - **(iv)** by redesignating subparagraphs (E), (F), and (G) as subparagraphs (G), (H), and (I), respectively; and
     - **(v)** by inserting after subparagraph (D) the following:
       > - **(E)** at least 2 individuals that have taken and passed the examination in the 5 years before the commissioning of the working group;
+      > - **(F)** at least 1 representative from the United States Merchant Marine Academy;
 
   - **(C)** in paragraph (4)—
     - **(i)** in the paragraph heading by striking “Baseline review” and inserting “Review”;

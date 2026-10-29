@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3331
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -35,7 +35,7 @@ complete account of the bill's effect, which it is not.
 | — | replace | by striking “90 days” and inserting “180 days”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “Coast Guard Authorization Act of 2016” and insert “Mariner Exam Modernization Act”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “new questions for inclusion in” and inserting “questions, content, and relevancy of”; | the bill names no machine-readable US Code section |
-| — | redesignate | by redesignating subparagraphs (E), (F), and (G) as subparagraphs (F), (G), and (H), respectively; and | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subparagraphs (E), (F), and (G) as subparagraphs (G), (H), and (I), respectively; and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subparagraph (D) the following: | the bill names no machine-readable US Code section |
 | — | replace | in the paragraph heading by striking “Baseline review” and inserting “Review”; | the bill names no machine-readable US Code section |
 | — | replace | by striking “Within 1 year” and inserting “Not later than 270 days”; | the bill names no machine-readable US Code section |
