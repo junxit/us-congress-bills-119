@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9785
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 9785
@@ -25,3 +25,8 @@ South Dakota Water Feasibility Studies Act
 - 2026-07-20 — Introduced in House
 - 2026-07-20 — Introduced in House
 - 2026-07-20 — Referred to the House Committee on Natural Resources.
+- 2026-09-15 — Committee Consideration and Mark-up Session Held
+- 2026-09-15 — Ordered to be Reported in the Nature of a Substitute by Unanimous Consent.
+- 2026-10-29 — Placed on the Union Calendar, Calendar No. 760.
+- 2026-10-29 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-863.
+- 2026-10-29 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-863.
