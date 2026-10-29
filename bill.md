@@ -1,0 +1,26 @@
+---
+legis-num: H.R. 10927
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 10927
+
+> To amend the Voting Rights Act of 1965 to prohibit destroying or damaging ballot boxes, and for other purposes.
+
+## § 1. Short title
+
+This Act may be cited as the “Ballot Box Protection Act”.
+
+## § 2. Destruction of ballot boxes prohibited
+
+Section 12 of the Voting Rights Act of 1965 (52 U.S.C. 10308) is amended—
+
+- **(1)** by redesignating subsection (c) through (f) as subsections (d) through (g), respectively;
+- **(2)** by inserting after subsection (b) the following:
+  > - **(c)** Whoever destroys or damages an in-person, secured, and clearly labeled boxes at which individuals may drop off voted ballots in an election for Federal office with the intent to destroy or damage a voted ballot—
+  >   - **(1)** if no voted ballot is damaged or destroyed, shall be fined not more than $20,000 for each such box, or imprisoned not more than 20 years, or both; or
+  >   - **(2)** if a voted ballot is damaged or destroyed, shall be fined not more than $20,000 for each such voted ballot, or imprisoned not more than 20 years, or both.
+
+- **(3)** in subsection (d), as so redesignated, is amended by adding at the end the following: “Whoever conspires to violate the provisions of subsection (c) of this section shall be punished as provided under such subsection.”.
