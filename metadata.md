@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7254
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7254
@@ -39,3 +39,11 @@ To amend the National Trails System Act to direct the Secretary of the Interior 
 - 2026-01-27 — Introduced in House
 - 2026-01-27 — Introduced in House
 - 2026-01-27 — Referred to the House Committee on Natural Resources.
+- 2026-06-24 — Referred to the Subcommittee on Federal Lands.
+- 2026-07-01 — Subcommittee Hearings Held
+- 2026-09-15 — Committee Consideration and Mark-up Session Held
+- 2026-09-15 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2026-09-15 — Subcommittee on Federal Lands Discharged
+- 2026-10-29 — Placed on the Union Calendar, Calendar No. 752.
+- 2026-10-29 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-855.
+- 2026-10-29 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-855.
