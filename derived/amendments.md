@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9640
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 0 executed, 5 stated and not applied.
+6 amendatory instructions. 0 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -36,3 +36,4 @@ complete account of the bill's effect, which it is not.
 | `43 U.S.C. § 31l` | strike | in paragraph (4), by striking “and” at the end; and | the bill quotes the text struck but describes what replaces it |
 | `43 U.S.C. § 31l` | insert | by inserting after paragraph (4) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 31l` | insert | Section 40201(h) of the Infrastructure Investment and Jobs Act (43 U.S.C.31l(h)) is amended by inserting “and $84,000,000 for the period of fiscal years 2027 through 2031” after “2022 through 2026”. | the bill quotes the text inserted but describes where it goes |
+| `43 U.S.C. § 31l` | add-at-end | Section 40201 of the Infrastructure Investment and Jobs Act (43 U.S.C.31l) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
