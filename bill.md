@@ -15,36 +15,49 @@ This Act may be cited as the “Responsible Cormorant Management and Control Act
 
 ## § 2. Regional management frameworks for take of double-crested cormorants
 
-- **(a)** *In general* Not later than 180 days after the date of the enactment of this section, the Secretary, in coordination with the applicable Regional Flyway Council, shall develop a regional management framework for the take of double-crested cormorants for each region covered by a Regional Flyway Council based on existing information.
-- **(b)** *Requirements* Each regional management framework developed under subsection (a) shall—
-  - **(1)** ensure the breeding population of double-crested cormorants is maintained at a sustainable level—
-    - **(A)** in accordance with the Migratory Bird Treaty Act (16 U.S.C. 703 et seq.); and
-    - **(B)** beginning with the first update required by subsection (e), as informed by the most recent survey carried out under subsection (d);
+- **(a)** *In general* Not later than 1 year after the date of the enactment of this section, the Secretary, in coordination with the Regional Flyway Councils and in accordance with section 3 of the Migratory Bird Treaty Act (16 U.S.C. 704), shall issue regulations for the development of regional management frameworks for the management of double-crested cormorants based on the best available scientific information.
+- **(b)** *Requirements* Each regional management framework developed pursuant to subsection (a) shall—
+  - **(1)** ensure that each breeding population of double-crested cormorants is managed at a level that is sufficient to ensure the conservation of double-crested cormorants, and that cumulative authorized take of double-crested cormorants does not exceed a biologically sustainable level using the best available scientific information—
+    - **(A)** consistent with the Migratory Bird Treaty Act (16 U.S.C. 703 et seq.) and compatible with the applicable conventions; and
+    - **(B)** as informed by the most recent population-level survey of double-crested cormorants;
   - **(2)** include, with respect to double-crested cormorants—
-    - **(A)** allowed methods of take; and
+    - **(A)** allowable methods of take;
     - **(B)** allowed time periods of take;
-  - **(3)** identify entities that may take double-crested cormorants, which shall include—
-    - **(A)** State and Tribal agencies; and
-    - **(B)** entities licensed or otherwise authorized in a manner the Secretary determines appropriate, which shall include—
-      - **(i)** State licensed or otherwise authorized hunters;
-      - **(ii)** lake managers; and
-      - **(iii)** pond managers;
+    - **(C)** required annual reporting of total take, including target and non-target birds, which shall be made publicly available;
+    - **(D)** measures to avoid the take of non-target birds and other species;
+    - **(E)** documented conflicts at an identified location that authorized take can feasibly resolve; and
+    - **(F)** non-lethal measures that shall be implemented;
+  - **(3)** identify entities that may conduct authorized take of double-crested cormorants, which may include—
+    - **(A)** State and Tribal fish and wildlife agencies; and
+    - **(B)** entities permitted, trained, or otherwise authorized in a manner the Secretary determines appropriate, which shall include—
+      - **(i)** lake managers; and
+      - **(ii)** pond managers;
   - **(4)** provide for—
     - **(A)** States and Indian Tribes to take specific management actions with respect to double-crested cormorants in accordance with the regional management framework; and
-    - **(B)** the implementation of management actions identified under subsection (c); and
-  - **(5)** account for the effects of an overabundant population of double-crested cormorants on—
+    - **(B)** the implementation of management actions identified under subsection (c);
+  - **(5)** consider the documented effects of double-crested cormorants within the applicable region on—
     - **(A)** fisheries;
     - **(B)** sensitive vegetation;
     - **(C)** populations of other migratory birds;
     - **(D)** human health and safety;
     - **(E)** water quality; and
-    - **(F)** species listed as threatened species or endangered species under section 4 of the Endangered Species Act of 1973 (16 U.S.C. 1533).
-- **(c)** *Incorporation of National Wildlife Refuge System* In developing each regional management framework under subsection (a), the Secretary, in cooperation with the heads of State and Tribal game and fish agencies and the applicable Regional Flyway Council, shall identify appropriate management actions that can be taken within units of the National Wildlife Refuge System to meet management objectives of States, Indian Tribes, the Regional Flyway Councils, and such units with respect to double-crested cormorants while fulfilling the primary purposes of such units.
+    - **(F)** species listed as threatened species or endangered species under section 4 of the Endangered Species Act of 1973 (16 U.S.C. 1533);
+  - **(6)** include a long-term plan for identifying and monitoring the effects of the regional management framework on the effects identified under paragraph (5);
+  - **(7)** consider the effects of take authorized under the regional management framework on non-target birds, species that are listed as birds of conservation concern pursuant to the Fish and Wildlife Conservation Act of 1980 (16 U.S.C. 2901 et seq.), and species listed as threatened species or endangered species under section 4 of the Endangered Species Act of 1973 (16 U.S.C. 1533); and
+  - **(8)** develop best practices for additional measures, including—
+    - **(A)** non-lethal deterrents;
+    - **(B)** exclusion and habitat modifications;
+    - **(C)** habitat restoration; and
+    - **(D)** other non-lethal methods to rebuild or stabilize the populations of fauna and flora that have suffered detrimental effects because of double-crested cormorants.
+- **(c)** *Incorporation of National Wildlife Refuge System* In developing each regional management framework under subsection (a), the Secretary, in cooperation with the heads of State and Tribal game and fish agencies and the applicable Regional Flyway Council, shall make recommendations that can be taken within units of the National Wildlife Refuge System that are in compliance with the National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd et seq.) and meet the management objectives of States, Indian Tribes, the Regional Flyway Councils, and such units with respect to double-crested cormorants while fulfilling the primary purposes of such units.
 - **(d)** *Population surveys* Not later than 5 years after the date of the enactment of this section and every 5 years thereafter, the Secretary, in coordination with the Regional Flyway Councils, shall carry out a survey of the population of double-crested cormorants.
 - **(e)** *Updates*
   - **(1)** *In general* Not later than 5 years after the date of the enactment of this section and every 5 years thereafter, the Secretary, in coordination with the applicable Regional Flyway Council, shall review and update each regional management framework developed under subsection (a).
   - **(2)** *Incorporation of population surveys* In reviewing and updating a regional management framework under paragraph (1), the Secretary shall incorporate the results of the most recent survey carried out under subsection (d).
-- **(f)** *Definitions* In this section:
+- **(f)** *Report* Not later than 90 days after the date of the enactment of this section, the Secretary shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate a report regarding the feasibility of issuing licenses to hunt double-crested cormorants to meet the requirements of the regional management frameworks developed pursuant to subsection (a).
+- **(g)** *Sunset* This Act shall have no force or effect beginning on January 1, 2034.
+- **(h)** *Regulations* The Secretary may issue such regulations to carry out this section as the Secretary determines necessary and appropriate.
+- **(i)** *Definitions* In this section:
   - **(1)** *Double-crested cormorant* The term double-crested cormorant means the species Nannopterum auritum.
   - **(2)** *Regional Flyway Council* The term Regional Flyway Council means—
     - **(A)** the Atlantic Flyway Council;
