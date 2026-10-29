@@ -16,26 +16,36 @@ This Act may be cited as the “Barona Group of Capitan Grande Band of Mission I
 ## § 2. Land to be taken into trust for the Barona Group of Capitan Grande Band of Mission Indians
 
 - **(a)** *In general* Subject to valid existing rights and the conditions described in subsections (c) and (d)—
-  - **(1)** administrative jurisdiction of Parcel 2 and Parcel 3 is transferred to the Secretary; and
-  - **(2)** the covered land is taken into trust for the benefit of an Indian Tribe.
-- **(b)** *Administration* The land taken into trust under subsection (a) shall be—
-  - **(1)** part of the reservation of the Tribe; and
-  - **(2)** administered in accordance with the laws and regulations generally applicable to property held in trust by the United States for the benefit of an Indian Tribe.
-- **(c)** *Conditions* The land taken into trust under subsection (a) shall be subject to—
-  - **(1)** all valid liens, rights-of-way, reciprocal road rights-of-way agreements, licenses, leases, permits, and easements existing on the date of the enactment of this Act;
-  - **(2)** the continuing right of the public to access the land for recreational, scenic, scientific, and conservation uses, to motorized access to roads, and to recreational access to trails, including Bureau of Land Management and Forest Service trails codesignated for public passage, existing on the date of the enactment of this Act, subject to reasonable rules and regulations promulgated by the Tribe in consultation with the Secretary; and
-  - **(3)** such rights-of-way as the Secretary, in consultation with the Secretary of Agriculture, considers necessary to provide employees of the Bureau of Land Management and the Forest Service access for emergency purposes, including search and rescue, wildfire suppression, and health and safety evacuation operations.
-- **(d)** *Gaming prohibited* The land taken into trust under subsection (a) shall not be used for any class II gaming or class III gaming under the Indian Gaming Regulatory Act (as those terms are defined in section 4 of that Act (25 U.S.C. 2703)).
-- **(e)** *Water rights and agreements* Nothing in this Act shall alter, or require the alteration of, any existing water rights or service agreements.
-- **(f)** *Definitions* In this Act:
-  - **(1)** *Covered land* The term covered land means all right, title, and interest of the United States in and to Parcel 1, Parcel 2, and Parcel 3.
-  - **(2)** *Parcel 1* The term Parcel 1 means the approximately 160 acres of land administered by the Bureau of Land Management generally depicted as “3310810100” on the map titled “BLM Lands into Trust for the Barona Band of Mission Indians” dated July 24, 2025.
-  - **(3)** *Parcel 2* The term Parcel 2 means the approximately 160 acres of land identified on the San Diego County Assessor’s Map as APN 331–081–02, comprised of the Southeast Quarter of Section 8, Township 14 South, Range 2 East, San Bernardino Meridian (as delineated in the Official Survey accepted on February 26, 1944).
-  - **(4)** *Parcel 3* The term Parcel 3 means the approximately 516.21 acres of land identified as APN 331–090–12 on the San Diego County Assessor’s Map, comprised of the following portions of Section 9, Township 14 South, Range 2 East, San Bernardino Meridian (documented in Record of Survey No. 13180, dated May 9, 1991):
-    - **(A)** The South Half.
-    - **(B)** The Southeast Quarter of the Northwest Quarter.
-    - **(C)** The South Half of the Northeast Quarter.
-    - **(D)** The Northeast Quarter of the Northeast Quarter.
-  - **(5)** *Secretary* The term Secretary means the Secretary of the Interior.
+  - **(1)** administrative jurisdiction of Parcels 2 and 3 is transferred to the Secretary; and
+  - **(2)** the covered land is taken into trust for the benefit of the Tribe.
+- **(b)** *Administration*
+  - **(1)** *In general* The land taken into trust under subsection (a) shall be—
+    - **(A)** part of the reservation of the Tribe; and
+    - **(B)** administered in accordance with the laws and regulations generally applicable to property held in trust by the United States for the benefit of an Indian Tribe.
+  - **(2)** *Forest Service access* The Forest Service shall retain administrative vehicular access across the land transferred under this Act.
+  - **(3)** *Minor adjustments* The Secretary and the Secretary of Agriculture may, by mutual agreement, make minor corrections and adjustments to the land transfer under this Act to facilitate land management, including corrections and adjustments to any applicable maps or surveys.
+- **(c)** *Maps and boundaries*
+  - **(1)** *Official map* Before the transfer of administrative jurisdiction under subsection (a), the Secretary and the Secretary of Agriculture shall jointly prepare, review, approve, and maintain an official map depicting the covered land taken into trust.
+  - **(2)** *Map on file* The official map prepared under paragraph (1) shall be on file and available for public inspection in the appropriate offices of the Department of the Interior and Department of Agriculture.
+- **(d)** *Access* The land taken into trust under subsection (a) shall be subject to—
+  - **(1)** all valid liens, rights-of-way, reciprocal road rights-of-way agreements, licenses, leases, permits, special use permits, and easements existing on the date of the enactment of this Act;
+  - **(2)** the continuing right of the public to access the land for recreational, scenic, scientific, and conservation uses, to motorized access to roads, and to recreational access to trails, including Bureau of Land Management and Forest Service trails codesignated for public passage, existing on the date of the enactment of this Act, subject to rules and regulations in effect on the date of the enactment of this Act;
+  - **(3)** such rights-of-way as the Secretary, in consultation with the Secretary of Agriculture, considers necessary to provide employees of the Bureau of Land Management and the Forest Service access for operational and emergency purposes, including—
+    - **(A)** search and rescue;
+    - **(B)** wildfire suppression;
+    - **(C)** health safety evacuation operations; and
+    - **(D)** necessary administration purposes such as resource management, maintenance, fuels management, monitoring, and law enforcement activities;
+  - **(4)** the authority of the Secretary and the Secretary of Agriculture, in consultation and coordination with the Tribe, to carry out fuels reduction or other landscape restoration activities on the land, including the maintenance of any fuel break existing on the date of the enactment of this Act; and
+  - **(5)** upon request of the Secretary of Agriculture, the grant by the Tribe or the Bureau of Indian Affairs, as appropriate, without consideration, of such easements and rights-of-way as are necessary to provide the Forest Service continued access to the land for the purposes described in paragraphs (3) and (4).
+- **(e)** *Maintenance of fuel break* The Tribe shall be responsible for maintaining the fuel break within Parcels 2 and 3 in accordance with applicable Forest Service standards.
+- **(f)** *Gaming prohibited* The land taken into trust under subsection (a) shall not be used for any class II gaming or class III gaming under the Indian Gaming Regulatory Act (as those terms are defined in section 4 of that Act (25 U.S.C. 2703)).
+- **(g)** *Water rights; Access* Nothing in this Act shall be construed to—
+  - **(1)** alter, or require the alteration of, any existing water rights or service agreements; or
+  - **(2)** diminish existing Forest Service administrative access across lands transferred under this Act.
+- **(h)** *Definitions* In this Act:
+  - **(1)** *Covered land* The term covered land means all right, title, and interest of the United States in and to Parcel 1 and Parcels 2 and 3.
+  - **(2)** *Parcel 1* The term “Parcel 1” means the approximately 164 acres of land generally depicted as “Bureau of Land Management Parcel 1 (164 Acres)” on the Transfer Map.
+  - **(3)** *Parcels 2 and 3* The term “Parcels 2 and 3” means the approximately 683 acres of land generally depicted as “Forest Service Parcels 2 (168 acres) & 3 (515 acres)” on the Transfer Map, including the area depicted as “Fuel Break” within the boundary of that area.
+  - **(4)** *Secretary* The term Secretary means the Secretary of the Interior.
+  - **(5)** *Transfer Map* The term “Transfer Map” means the map titled “Barona Land Transfer Proposal” prepared by the Forest Service.
   - **(6)** *Tribe* The term Tribe means the Barona Group of Capitan Grande Band of Mission Indians of the Barona Reservation, California.
-  - **(7)** *Secretary* The term Secretary means the Secretary of the Interior.

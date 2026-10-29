@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8483
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 8483
@@ -25,3 +25,10 @@ Barona Group of Capitan Grande Band of Mission Indians Land Transfer Act of 2026
 - 2026-04-23 — Introduced in House
 - 2026-04-23 — Introduced in House
 - 2026-04-23 — Referred to the House Committee on Natural Resources.
+- 2026-05-12 — Referred to the Subcommittee on Indian and Insular Affairs.
+- 2026-05-21 — Subcommittee Hearings Held
+- 2026-09-15 — Ordered to be Reported in the Nature of a Substitute by Unanimous Consent.
+- 2026-09-15 — Subcommittee on Indian and Insular Affairs Discharged
+- 2026-10-29 — Placed on the Union Calendar, Calendar No. 755.
+- 2026-10-29 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-858.
+- 2026-10-29 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-858.
