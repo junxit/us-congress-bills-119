@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9269
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | replace | Section 308404 of title 54, United States Code, is amended by striking “7 years after the date of enactment of this chapter” and inserting “10 years after the date of the enactment of the Renewing the African American Civil Rights Networ… | the bill names no machine-readable US Code section |
+| — | replace | Section 308404 of title 54, United States Code, is amended by striking “7 years after the date of enactment of this chapter” and inserting “7 years after the date of the enactment of the Renewing the African American Civil Rights Network… | the bill names no machine-readable US Code section |

@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9269
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 9269
@@ -16,7 +16,7 @@ Renewing the African American Civil Rights Network Act
 
 - Rep. Clyburn, James E. [D-SC-6] (C000537)
 
-## Cosponsors (8)
+## Cosponsors (10)
 
 - Rep. Carey, Mike [R-OH-15] (C001126)
 - Rep. Sewell, Terri A. [D-AL-7] (S001185)
@@ -26,6 +26,8 @@ Renewing the African American Civil Rights Network Act
 - Rep. Bell, Wesley [D-MO-1] (B001324)
 - Rep. Cohen, Steve [D-TN-9] (C001068)
 - Rep. McCormick, Richard [R-GA-7] (M001218)
+- Rep. Lawler, Michael [R-NY-17] (L000599)
+- Rep. Stansbury, Melanie A. [D-NM-1] (S001218)
 
 ## Committees (1)
 
@@ -36,3 +38,11 @@ Renewing the African American Civil Rights Network Act
 - 2026-06-11 — Introduced in House
 - 2026-06-11 — Introduced in House
 - 2026-06-11 — Referred to the House Committee on Natural Resources.
+- 2026-08-26 — Referred to the Subcommittee on Federal Lands.
+- 2026-09-02 — Subcommittee Hearings Held
+- 2026-09-15 — Committee Consideration and Mark-up Session Held
+- 2026-09-15 — Ordered to be Reported (Amended) by Unanimous Consent.
+- 2026-09-15 — Subcommittee on Federal Lands Discharged
+- 2026-10-29 — Placed on the Union Calendar, Calendar No. 756.
+- 2026-10-29 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-859.
+- 2026-10-29 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-859.

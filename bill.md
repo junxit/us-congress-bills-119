@@ -15,4 +15,4 @@ This Act may be cited as the “Renewing the African American Civil Rights Netwo
 
 ## § 2. Extension of authorization
 
-Section 308404 of title 54, United States Code, is amended by striking “7 years after the date of enactment of this chapter” and inserting “10 years after the date of the enactment of the Renewing the African American Civil Rights Network Act”.
+Section 308404 of title 54, United States Code, is amended by striking “7 years after the date of enactment of this chapter” and inserting “7 years after the date of the enactment of the Renewing the African American Civil Rights Network Act”.
