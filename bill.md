@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Valuing Employee Stock Today Act”.
+This Act may be cited as the “Valuing Employee Stock Today Act” or the “VEST Act”.
 
 ## § 2. Findings
 
@@ -28,4 +28,9 @@ Congress finds the following:
 - **(a)** *Clarification* Section 7(e)(8) of the Fair Labor Standards Act of 1938 (29 U.S.C. 207(e)(8)) is amended—
   - **(1)** in the matter preceding subparagraph (A), by striking “or bona fide employee stock purchase program” and inserting “bona fide employee stock purchase program, or restricted stock unit program”; and
   - **(2)** in subparagraph (C), by striking “exercise” and inserting “exercise or acceptance”.
-- **(b)** *Effective date* The amendments made by this section shall take effect on the date that is 90 days after the date of enactment of this Act.
+- **(b)** *Effective date; Liability of employers*
+  - **(1)** *Effective date* The amendments made by this section shall take effect on the date that is 90 days after the date of enactment of this Act.
+  - **(2)** *Liability of employers* No employer shall be liable under the Fair Labor Standards Act of 1938 (29 U.S.C. 201 et seq.), as amended by subsection (a), for any failure to include in an employee’s regular rate (as defined for purposes of such Act) any income or value derived from employer-provided grants or rights obtained pursuant to any restricted stock unit program if—
+    - **(A)** the grants or rights were obtained before the effective date described in paragraph (1);
+    - **(B)** the grants or rights were obtained within the 12-month period beginning on the effective date described in paragraph (1), so long as such program was in existence on the date of enactment of this Act and will require shareholder approval to modify such program to comply with section 7(e)(8) of the Fair Labor Standards Act of 1938 (29 U.S.C. 207(e)(8)), as amended by subsection (a); or
+    - **(C)** such program is provided under a collective bargaining agreement that is in effect on the effective date described in paragraph (1).
