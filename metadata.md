@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5723
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 5723
@@ -25,3 +25,12 @@ FRAUD in VA Disability Exams Act
 - 2025-10-08 — Introduced in House
 - 2025-10-08 — Introduced in House
 - 2025-10-08 — Referred to the House Committee on Veterans' Affairs.
+- 2026-01-30 — Referred to the Subcommittee on Disability Assistance and Memorial Affairs.
+- 2026-02-03 — Subcommittee Hearings Held
+- 2026-03-26 — Forwarded by Subcommittee to Full Committee by Voice Vote.
+- 2026-03-26 — Subcommittee Consideration and Mark-up Session Held
+- 2026-05-14 — Committee Consideration and Mark-up Session Held
+- 2026-05-14 — Ordered to be Reported (Amended) by Voice Vote.
+- 2026-11-05 — Placed on the Union Calendar, Calendar No. 766.
+- 2026-11-05 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-869.
+- 2026-11-05 — Reported (Amended) by the Committee on Veterans' Affairs. H. Rept. 119-869.
