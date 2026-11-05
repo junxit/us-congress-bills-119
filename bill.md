@@ -1,0 +1,19 @@
+---
+legis-num: H.R. 10955
+congress: 119th CONGRESS
+session: 2d Session
+chamber: IN THE HOUSE OF REPRESENTATIVES
+---
+
+# H.R. 10955
+
+> To amend the Internal Revenue Code of 1986 to modify the age limitations on eligibility for the earned income tax credit.
+
+## § 1. Short title
+
+This Act may be cited as the “EITC Age Parity Act of 2026”.
+
+## § 2. Modification of age limitations on eligibility for the earned income tax credit
+
+- **(a)** *In general* Section 32(c)(1)(A)(ii)(II) of the Internal Revenue Code of 1986 is amended by striking “has attained age 25 but not attained age 65” and inserting “has attained age 18”.
+- **(b)** *Effective date* The amendment made by this section shall apply to taxable years beginning after December 31, 2026.
