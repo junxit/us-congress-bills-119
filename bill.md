@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3100
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -9,7 +9,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 > To amend the National Child Protection Act of 1993 to ensure that businesses and organizations that work with vulnerable populations are able to request background checks for their contractors who work with those populations, as well as for individuals that the businesses or organizations license or certify to provide care for those populations.
 
-## § 1. Defining “covered individual” for purposes of background checks under the National Child Protection Act of 1993
+## § 1. Short title
+
+This Act may be cited as the “Comprehensive Health and Integrity in Licensing and Documentation Act of 2026” or the “CHILD Act of 2026”.
+
+## § 2. Defining “covered individual” for purposes of background checks under the National Child Protection Act of 1993
 
 Section 5(9)(B) of the National Child Protection Act of 1993 (34 U.S.C. 40104(9)(B)) is amended—
 
