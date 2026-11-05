@@ -27,33 +27,30 @@ This Act may be cited as the “Nuclear Advisory Committee Reform Act”.
     >   - **(1)** *In general* Except as provided in paragraph (2), the Commission may appoint a member of the Committee for not more than 2 terms of 4 years each.
     >   - **(2)** *Exception* The Commission may appoint a member of the Committee for more than 2 terms if the Commission determines that there is a compelling need for the member’s continued service.
     >   - **(3)** *Applicability* This subsection shall apply with respect to members appointed after the date of enactment of the Nuclear Advisory Committee Reform Act.
-    > - **(d)** *Committee actions* The Committee shall take the following actions:
-    >   - **(1)** Review applications and submit reports in accordance with section 182 b.
-    >   - **(2)** Advise the Commission, as specifically requested by the Commission, with respect to—
+    > - **(d)** *Committee actions* The Committee shall—
+    >   - **(1)** review safety studies and facility license applications referred to it and make reports thereon;
+    >   - **(2)** advise the Commission with regard to—
     >     - **(A)** the hazards of proposed or existing reactor facilities; and
-    >     - **(B)** the adequacy of proposed reactor safety standards.
-    >   - **(3)** Perform such other duties as the Commission may specifically request.
+    >     - **(B)** the adequacy of proposed reactor safety standards; and
+    >   - **(3)** perform such other duties as the Commission may request.
     > - **(e)** *Focus of Committee* In taking an action pursuant to paragraph (1), (2), or (3) of subsection (d), the Committee shall, to the extent practicable, focus on issues that—
-    >   - **(1)** directly relate to reactor design;
+    >   - **(1)** directly relate to facility design;
     >   - **(2)** are safety significant;
-    >   - **(3)** are novel; and
+    >   - **(3)** are unique, novel, or noteworthy; and
     >   - **(4)** have not been previously acted on by the Committee.
     > - **(f)** *Policies for efficient and timely action* The Commission shall maintain and, if necessary, modify policies to ensure efficient and timely action by the Committee, including efficient and timely coordination between the Committee and staff of the Commission.
-    > - **(g)** *Proposals from the Committee*
-    >   - **(1)** *In general* The Committee may propose to the Commission that the Committee take an action pursuant to subsection (d).
-    >   - **(2)** *Commission request required* The Committee may not take an action proposed under paragraph (1) unless the Commission specifically requests the Committee take the action pursuant to subsection (d).
-    > - **(h)** *Chairperson* The Commission shall designate 1 member of the Committee as the Chairperson of the Committee.
-    > - **(i)** *Per diem* The members of the Committee shall receive—
+    > - **(g)** *Chairperson* The Commission shall designate 1 member of the Committee as the Chairperson of the Committee.
+    > - **(h)** *Per diem* The members of the Committee shall receive—
     >   - **(1)** a per diem compensation for each day spent in meetings, conferences, or other work of the Committee; and
     >   - **(2)** compensation for necessary traveling or other expenses while engaged in the work of the Committee.
-    > - **(j)** *Applicability* Section 163 shall apply to the Committee.
+    > - **(i)** *Applicability* Section 163 shall apply to the Committee.
 
-- **(b)** *License application review* Section 182 b. of the Atomic Energy Act of 1954 (42 U.S.C. 2232(b)) is amended to read as follows:
-  > - **(b)** *Review by Advisory Committee on Reactor Safeguards* The Advisory Committee on Reactor Safeguards established under section 29 shall—
-  >   - **(1)** if the Commission specifically requests, review—
-  >     - **(A)** an application for a license under section 103 or subsection a., b., or c. of section 104; and
-  >     - **(B)** an application for an amendment to a license issued under section 103 or subsection a., b., or c. of section 104; and
-  >   - **(2)** submit to the Commission a report with respect to a review carried out under paragraph (1), which shall be made part of the record of the applicable application and available to the public, except to the extent that security classification prevents disclosure.
+- **(b)** *License application review* Section 182 b. of the Atomic Energy Act of 1954 (42 U.S.C. 2232(b)) is amended—
+  - **(1)** by striking “The Advisory Committee on Reactor Safeguards” and inserting “(1) Except as provided in paragraph (2), the Advisory Committee on Reactor Safeguards”; and
+  - **(2)** by adding at the end the following:
+    > - **(2)** The Advisory Committee on Reactor Safeguards may decline to review an application referenced in paragraph (1) if it determines that such application does not—
+    >   - **(A)** contain issues that are unique, novel, or noteworthy; or
+    >   - **(B)** raise issues that warrant review by the Advisory Committee on Reactor Safeguards.
 
 - **(c)** *Conforming amendments*
   - **(1)** *Advisory Committees* Section 163 of the Atomic Energy Act of 1954 (42 U.S.C. 2203) is amended—
