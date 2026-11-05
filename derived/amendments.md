@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3978
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-1 amendatory instruction. 1 executed, 0 stated and not applied.
+2 amendatory instructions. 1 executed, 1 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -26,9 +26,20 @@ to guess them.
 
 ### 42 U.S.C. § 2014
 
-> Section 11 v. of the Atomic Energy Act of 1954 (42 U.S.C. 2014(v)) is amended by striking “separating the isotopes of uranium or enriching uranium in the isotope 235” and inserting “(A) separating isotopes of uranium or enriching uranium in the isotope 235; or (B) reprocessing spent nuclear fuel in a manner that does not separate plutonium from other transuranic elements”.
+> by striking “separating the isotopes of uranium or enriching uranium in the isotope 235” and inserting “(A) separating isotopes of uranium or enriching uranium in the isotope 235; or (B) reprocessing spent nuclear fuel in a manner that does not isolate plutonium”.
 
 | | |
 |---|---|
 | Removed | `separating the isotopes of uranium or enriching uranium in the isotope 235` |
-| Inserted | `(A) separating isotopes of uranium or enriching uranium in the isotope 235; or (B) reprocessing spent nuclear fuel in a manner that does not separate plutonium from other transuranic elements` |
+| Inserted | `(A) separating isotopes of uranium or enriching uranium in the isotope 235; or (B) reprocessing spent nuclear fuel in a manner that does not isolate plutonium` |
+
+## Stated, not applied
+
+Each of these is reproduced as the bill writes it, with the reason
+it was not executed. They are listed rather than dropped: an
+instruction that vanished would leave this file reading as a
+complete account of the bill's effect, which it is not.
+
+| Target | Operation | Instruction | Why not applied |
+|---|---|---|---|
+| `42 U.S.C. § 2014` | insert | by inserting “or reprocessing” after “uranium enrichment”; and | the bill quotes the text inserted but describes where it goes |
