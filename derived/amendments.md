@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9613
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-9 amendatory instructions. 3 executed, 6 stated and not applied.
+10 amendatory instructions. 4 executed, 6 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,15 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 42 U.S.C. § 2232
+
+> by striking “The Advisory Committee on Reactor Safeguards” and inserting “(1) Except as provided in paragraph (2), the Advisory Committee on Reactor Safeguards”; and
+
+| | |
+|---|---|
+| Removed | `The Advisory Committee on Reactor Safeguards` |
+| Inserted | `(1) Except as provided in paragraph (2), the Advisory Committee on Reactor Safeguards` |
 
 ### 42 U.S.C. § 2203
 
@@ -64,5 +73,5 @@ complete account of the bill's effect, which it is not.
 | `42 U.S.C. § 2039` | insert | by inserting “(referred to in this section as the Committee).” after “Reactor Safeguards”; | the bill quotes the text inserted but describes where it goes |
 | `42 U.S.C. § 2039` | strike | by striking “consisting of” and all that follows; and | the bill quotes the text struck but describes what replaces it |
 | `42 U.S.C. § 2039` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `42 U.S.C. § 2232` | amend | Section 182 b. of the Atomic Energy Act of 1954 (42 U.S.C. 2232(b)) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `42 U.S.C. § 2232` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `42 U.S.C. § 2203` | strike | by striking “members of the General Advisory committee established pursuant to section 26 and the”; and | the bill quotes the text struck but describes what replaces it |
