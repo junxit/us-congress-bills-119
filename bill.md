@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 3978
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -15,4 +15,7 @@ This Act may be cited as the “Nuclear REFUEL (Recycling Efficient Fuels Utiliz
 
 ## § 2. Exclusion from definition of production facility
 
-Section 11 v. of the Atomic Energy Act of 1954 (42 U.S.C. 2014(v)) is amended by striking “separating the isotopes of uranium or enriching uranium in the isotope 235” and inserting “(A) separating isotopes of uranium or enriching uranium in the isotope 235; or (B) reprocessing spent nuclear fuel in a manner that does not separate plutonium from other transuranic elements”.
+Section 11 v. of the Atomic Energy Act of 1954 (42 U.S.C. 2014(v)) is amended—
+
+- **(1)** by inserting “or reprocessing” after “uranium enrichment”; and
+- **(2)** by striking “separating the isotopes of uranium or enriching uranium in the isotope 235” and inserting “(A) separating isotopes of uranium or enriching uranium in the isotope 235; or (B) reprocessing spent nuclear fuel in a manner that does not isolate plutonium”.
