@@ -1,7 +1,7 @@
 ---
 measure: S. 3589
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-18 amendatory instructions. 11 executed, 7 stated and not applied.
+13 amendatory instructions. 9 executed, 4 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,24 +23,6 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
-
-### 20 U.S.C. § 1003
-
-> Section 103(6) of the Higher Education Act of 1965 (20 U.S.C. 1003(6)) is amended by striking “section 3(2)” and inserting “section 3”.
-
-| | |
-|---|---|
-| Removed | `section 3(2)` |
-| Inserted | `section 3` |
-
-### 20 U.S.C. § 1140q
-
-> in paragraph (1), by striking “From amounts appropriated under section 778,” and inserting “From amounts appropriated under paragraph (5),”; and
-
-| | |
-|---|---|
-| Removed | `From amounts appropriated under section 778,` |
-| Inserted | `From amounts appropriated under paragraph (5),` |
 
 ### 20 U.S.C. § 1003
 
@@ -132,9 +114,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `20 U.S.C. § 1094` | add-at-end | Section 487(a) of the Higher Education Act of 1965 (20 U.S.C. 1094(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1140q` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
-| `20 U.S.C. § 1094` | add-at-end | Section 487(a) of the Higher Education Act of 1965 (20 U.S.C. 1094(a)), as amended by section 3, is further amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1094` | add-at-end | Section 487(a) of the Higher Education Act of 1965 (20 U.S.C. 1094(a)) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1140q` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `20 U.S.C. § 1094` | redesignate | by redesignating paragraphs (18) through (30) as paragraphs (19) through (31), respectively; and | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

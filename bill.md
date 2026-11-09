@@ -24,15 +24,15 @@ Section 487(a) of the Higher Education Act of 1965 (20 U.S.C. 1094(a)) is amende
 > - **(30)**
 >   - **(A)** The institution will carry out the following:
 >     - **(i)** Adopt policies that make any of the following documentation submitted by an individual sufficient to establish that such individual is an individual with a disability:
->       - **(I)** Documentation that the individual has had an individualized education program (referred to in this paragraph as an “IEP”) in accordance with section 614(d) of the Individuals with Disabilities Education Act, if the IEP for the student was utilized in high school.
->       - **(II)** Documentation describing services or accommodations provided to the individual pursuant to section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794) (referred to in this paragraph as a “Section 504 plan”), if the Section 504 plan for the student was utilized in high school.
+>       - **(I)** Documentation that the individual has had an individualized education program (referred to in this paragraph as an “IEP”) in accordance with section 614(d) of the Individuals with Disabilities Education Act, if the IEP for the student was utilized at any point in high school (without regard as to whether the date of the student’s most recent evaluation or reevaluation occurred before the student entered high school).
+>       - **(II)** Documentation describing services or accommodations provided to the individual pursuant to section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794) (referred to in this paragraph as a “Section 504 plan”), if the Section 504 plan for the student was utilized at any point in high school (without regard as to whether the date of the student’s most recent evaluation or reevaluation occurred before the student entered high school).
 >       - **(III)** A plan or record of service for the individual from a private high school, a local educational agency, a State educational agency, or an institution of higher education provided in accordance with the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.).
 >       - **(IV)** A record or evaluation from a relevant licensed professional finding that the individual has a disability.
 >       - **(V)** A plan or record of disability from another institution of higher education.
 >       - **(VI)** Documentation of a disability due to service in the uniformed services, as defined in section 484C(a).
->     - **(ii)** Adopt policies that are transparent and explicit regarding information about the process by which the institution determines eligibility for accommodations.
+>     - **(ii)** Adopt policies that are transparent and explicit regarding information about the process by which the institution determines eligibility for reasonable accommodations or modifications consistent with section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794) and the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.).
 >     - **(iii)** Disseminate such information to students, parents, and faculty in an accessible format, including during any student orientation and making such information readily available on a public website of the institution.
->   - **(B)** Nothing in this paragraph shall be construed to preclude an institution from establishing less burdensome criteria than that described in subparagraph (A) to establish an individual as an individual with a disability and therefore eligible for accommodations.
+>   - **(B)** Nothing in this paragraph shall be construed to preclude an institution from establishing less burdensome criteria than that described in subparagraph (A) to establish an individual as an individual with a disability who may be eligible for reasonable accommodations or modifications.
 
 ## § 4. Authorization of funds for the national center for information and technical support for postsecondary students with disabilities
 
@@ -40,20 +40,36 @@ Section 777(a) of the Higher Education Act of 1965 (20 U.S.C. 1140q(a)) is amend
 
 - **(1)** in paragraph (1), by striking “From amounts appropriated under section 778,” and inserting “From amounts appropriated under paragraph (5),”; and
 - **(2)** by adding at the end the following:
-  > - **(5)** *Authorization of appropriations* There is authorized to be appropriated to carry out this subsection a total of $10,000,000 for fiscal years 2027 through 2031.
+  > - **(5)** *Authorization of appropriations* There is authorized to be appropriated to carry out this subsection $10,000,000 for the period of fiscal years 2027 through 2031.
 
 ## § 5. Inclusion of information on students with disabilities
 
-Section 487(a) of the Higher Education Act of 1965 (20 U.S.C. 1094(a)), as amended by section 3, is further amended by adding at the end the following:
+- **(a)** *In general* Section 487(a) of the Higher Education Act of 1965 (20 U.S.C. 1094(a)), as amended by section 3, is further amended—
+  - **(1)** by redesignating paragraphs (18) through (30) as paragraphs (19) through (31), respectively; and
+  - **(2)** by inserting after paragraph (17) the following:
+    > - **(18)**
+    >   - **(A)** The institution will submit, for inclusion in the Integrated Postsecondary Education Data System (IPEDS) or any other Federal postsecondary institution data collection effort, key data related to undergraduate and graduate students enrolled in the institution who are formally registered as students with disabilities with the institution’s office of disability services (which, for purposes of this paragraph, includes an equivalent office), including—
+    >     - **(i)** the total number of undergraduate and graduate students registered with the institution's office of disability services;
+    >     - **(ii)** the number of undergraduate and graduate students accessing or receiving reasonable accommodations or modifications, as voluntarily reported to the institution’s office of disability services;
+    >     - **(iii)** the percentage of undergraduate and graduate students enrolled in the institution who are registered with the institution's office of disability services; and
+    >     - **(iv)** the total number of undergraduate and graduate certificates or degrees awarded to students registered with the institution's office of disability services.
+    >   - **(B)** Notwithstanding subparagraph (A), an institution shall not be required to submit information under this paragraph if the number of such students would reveal personally identifiable information about an individual student.
 
-> - **(31)**
->   - **(A)** The institution will submit, for inclusion in the Integrated Postsecondary Education Data System (IPEDS) or any other Federal postsecondary institution data collection effort, key data related to undergraduate students enrolled in the institution who are formally registered as students with disabilities with the institution’s office of disability services (which, for purposes of this paragraph, includes an equivalent office), including—
->     - **(i)** the total number of students registered with the institution's office of disability services;
->     - **(ii)** the number of students accessing or receiving accommodations, as voluntarily reported to the institution’s office of disability services;
->     - **(iii)** the percentage of undergraduate students enrolled in the institution who are registered with the institution's office of disability services; and
->     - **(iv)** the total number of undergraduate certificates or degrees awarded to students registered with the institution's office of disability services.
->   - **(B)** Notwithstanding subparagraph (A), an institution shall not be required to submit information under this paragraph if the number of such students would reveal personally identifiable information about an individual student.
+- **(b)** *Conforming amendments*
+  - **(1)** *Higher Education Act of 1965* The Higher Education Act of 1965 (20 U.S.C. 1001 et seq.) is amended—
+    - **(A)** in the matter preceding clause (i) of section 152(a)(1)(A) (20 U.S.C. 1019a(a)(1)(A)), by striking “(a)(27)” and inserting “(a)(28)”;
+    - **(B)** in section 153(c)(3) (20 U.S.C. 1019b(c)(3)), by striking “section 487(a)(25)” each place the term appears and inserting “section 487(a)(26)”; and
+    - **(C)** in section 487 (20 U.S.C. 1094)—
+      - **(i)** in subsection (d), by striking “subsection (a)(24)” each place the term appears and inserting “subsection (a)(25)”;
+      - **(ii)** in the matter preceding paragraph (1) of subsection (e), by striking “subsection (a)(25)” and inserting “subsection (a)(26)”; and
+      - **(iii)** in the matter preceding subparagraph (A) of subsection (h)(1), by striking “subsection (a)(27)” and inserting “subsection (a)(28)”.
+  - **(2)** *Title 38, United States Code* Title 38, United States Code, is amended—
+    - **(A)** in section 3679(f)(2)(C), by striking “section 487(a)(20) of the Higher Education Act of 1965 (20 U.S.C. 1094(a)(20))” and inserting “section 487(a)(21) of the Higher Education Act of 1965 (20 U.S.C. 1094(a)(21))”; and
+    - **(B)** in section 3696(c)(2), by striking “section 487(a)(20) of the Higher Education Act of 1965 (20 U.S.C. 1094(a)(20))” and inserting “section 487(a)(21) of the Higher Education Act of 1965 (20 U.S.C. 1094(a)(21))”.
 
-## § 6. Rule of construction
+## § 6. Rules of construction
 
-None of the amendments made by this Act shall be construed to affect the meaning of the terms reasonable accommodation or record of impairment under the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.) or the rights or remedies provided under such Act.
+None of the amendments made by this Act shall be construed to affect—
+
+- **(1)** the meanings of the terms reasonable accommodation, reasonable modification, and record of impairment under the Americans with Disabilities Act of 1990 (42 U.S.C. 12101 et seq.) or section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794); or
+- **(2)** the rights or remedies provided under such Acts.
