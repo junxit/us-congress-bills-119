@@ -1,7 +1,7 @@
 ---
 measure: S. 2378
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-3 amendatory instructions. 0 executed, 3 stated and not applied.
+8 amendatory instructions. 0 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -34,3 +34,8 @@ complete account of the bill's effect, which it is not.
 | — | amend | Section 44923(h) of title 49, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
 | — | redesignate | by redesignating subsection (i) as subsection (j); and | the bill names no machine-readable US Code section |
 | — | insert | by inserting after subsection (h) the following new subsection (i): | the bill names no machine-readable US Code section |
+| — | amend | Section 44923(h) of title 49, United States Code, is amended to read as follows: | the bill names no machine-readable US Code section |
+| — | redesignate | by redesignating subsection (i) as subsection (j); and | the bill names no machine-readable US Code section |
+| — | insert | by inserting after subsection (h) the following new subsection (i): | the bill names no machine-readable US Code section |
+| — | replace | in paragraph (1), by striking “section 44923(h)” and inserting “subsections (h) and (i) of section 44923”; and | the bill names no machine-readable US Code section |
+| — | redesignate | in paragraph (4), by redesignating subparagraphs (M) and (N) as subparagraphs (I) and (J), respectively. | the bill names no machine-readable US Code section |
