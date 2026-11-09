@@ -1,7 +1,7 @@
 ---
 measure: S. 4691
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4691
@@ -28,3 +28,7 @@ Disaster Communications Coordination and Preparedness Act
 
 - 2026-06-04 — Introduced in Senate
 - 2026-06-04 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2026-07-22 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2026-11-09 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-159.
+- 2026-11-09 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. With written report No. 119-159.
+- 2026-11-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 692.
