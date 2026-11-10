@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8552
 congress: 119
-version: Engrossed in House
+version: Received in Senate
 ---
 
 # H.R. 8552
@@ -43,3 +43,4 @@ Veterans’ Compensation Cost-of-Living Adjustment Act of 2026
 - 2026-11-09 — Mr. Hamadeh (AZ) moved to suspend the rules and pass the bill.
 - 2026-11-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6105-6106)
 - 2026-11-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6105-6106)
+- 2026-11-10 — Received in the Senate, read twice.
