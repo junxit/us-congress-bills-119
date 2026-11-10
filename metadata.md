@@ -1,7 +1,7 @@
 ---
 measure: S. 2434
 congress: 119
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 2434
@@ -28,3 +28,7 @@ A bill to amend the Dayton Aviation Heritage Preservation Act of 1992 to adjust 
 
 - 2025-07-24 — Introduced in Senate
 - 2025-07-24 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2026-11-10 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5562; text: CR S5562)
+- 2026-11-10 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
+- 2026-11-10 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
+- 2026-11-10 — Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.
