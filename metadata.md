@@ -1,7 +1,7 @@
 ---
 measure: S. 3720
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3720
@@ -33,3 +33,5 @@ Bay Area Ridge National Scenic Trail Feasibility Study Act
 - 2026-09-17 — Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment in the nature of a substitute. Without written report.
 - 2026-09-17 — Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment in the nature of a substitute. Without written report.
 - 2026-09-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 666.
+- 2026-11-10 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5562; text: CR S5562)
+- 2026-11-10 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
