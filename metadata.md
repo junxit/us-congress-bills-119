@@ -1,7 +1,7 @@
 ---
 measure: H.R. 3978
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 3978
@@ -74,3 +74,4 @@ Nuclear REFUEL (Recycling Efficient Fuels Utilizing Expedited Licensing) Act
 - 2026-11-09 — Mr. Latta moved to suspend the rules and pass the bill, as amended.
 - 2026-11-09 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 2 (Roll no. 315). (text: CR H6096)
 - 2026-11-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 397 - 2 (Roll no. 315). (text: CR H6096)
+- 2026-11-10 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 695.
