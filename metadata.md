@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9614
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 9614
@@ -16,9 +16,10 @@ NRC Staff Pay Alignment Act
 
 - Rep. Menendez, Robert [D-NJ-8] (M001226)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Homeland Security and Governmental Affairs Committee
 
 ## Actions
 
@@ -37,3 +38,4 @@ NRC Staff Pay Alignment Act
 - 2026-11-09 — Mr. Latta moved to suspend the rules and pass the bill.
 - 2026-11-09 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6104)
 - 2026-11-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6104)
+- 2026-11-10 — Received in the Senate and Read twice and referred to the Committee on Homeland Security and Governmental Affairs.
