@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 472
 congress: 119
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 472
@@ -29,3 +29,7 @@ A resolution supporting the designation of October 30 as the "International Day 
 
 - 2025-10-29 — Introduced in Senate
 - 2025-10-29 — Referred to the Committee on Foreign Relations. (text: CR S7829)
+- 2026-11-10 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2026-11-10 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S5525)
+- 2026-11-10 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
+- 2026-11-10 — Senate Committee on Foreign Relations discharged by Unanimous Consent.
