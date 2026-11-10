@@ -1,7 +1,7 @@
 ---
 measure: S.Res. 950
 congress: 119
-version: Introduced in Senate
+version: Agreed to Senate
 ---
 
 # S.Res. 950
@@ -36,3 +36,7 @@ A resolution designating the week of September 14 through September 18, 2026, as
 
 - 2026-10-15 — Referred to the Committee on the Judiciary under authority of the order of the Senate of 09/30/2026. (text: CR S5358)
 - 2026-10-15 — Submitted in Senate
+- 2026-11-10 — Passed/agreed to in Senate: Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent.
+- 2026-11-10 — Resolution agreed to in Senate without amendment and with a preamble by Unanimous Consent. (consideration: CR S5525)
+- 2026-11-10 — Senate Committee on the Judiciary discharged by Unanimous Consent.
+- 2026-11-10 — Senate Committee on the Judiciary discharged by Unanimous Consent.
