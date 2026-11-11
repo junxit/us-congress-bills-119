@@ -1,7 +1,7 @@
 ---
 measure: H.R. 10238
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 10238
@@ -36,3 +36,9 @@ Cybersecurity for Small Businesses Act of 2026
 - 2026-10-13 — Placed on the Union Calendar, Calendar No. 748.
 - 2026-10-13 — Reported (Amended) by the Committee on Small Business. H. Rept. 119-851.
 - 2026-10-13 — Reported (Amended) by the Committee on Small Business. H. Rept. 119-851.
+- 2026-11-11 — Considered under suspension of the rules.
+- 2026-11-11 — DEBATE - The House proceeded with forty minutes of debate on H.R. 10238.
+- 2026-11-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-11-11 — Mr. Williams (TX) moved to suspend the rules and pass the bill, as amended.
+- 2026-11-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2026-11-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
