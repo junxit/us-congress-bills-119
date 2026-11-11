@@ -68,12 +68,11 @@ Title V of the Small Business Investment Act of 1958 (15 U.S.C. 695 et seq.) is 
 
 ## § 4. SBA marketing and outreach
 
-- **(a)** *In general* Title V of the Small Business Investment Act of 1958 (15 U.S.C. 695 et seq.), as amended by this Act, is further amended by adding at the end the following:
-  > ## § 512. SBA marketing and outreach
-  >
-  > The Administrator shall develop and implement a marketing and outreach plan with respect to the availability of loans available under this title and may partner with 1 or more resource partners to implement such plan.
+Title V of the Small Business Investment Act of 1958 (15 U.S.C. 695 et seq.), as amended by this Act, is further amended by adding at the end the following:
 
-- **(b)** *Initial plan* The Administrator of the Small Business Administration shall begin implementing the plan required under section 512 of title V of the Small Business Investment Act of 1958 (15 U.S.C. 695 et seq.), as added by subsection (a), not later than 1 year after the date of the enactment of this Act.
+> ## § 512. SBA marketing and outreach
+>
+> The Administrator shall develop and implement a marketing and outreach plan with respect to the availability of loans available under this title and may partner with 1 or more resource partners to implement such plan.
 
 ## § 5. Leasing rules for new facilities and existing buildings
 
@@ -98,7 +97,7 @@ Title V of the Small Business Investment Act of 1958 (15 U.S.C. 695 et seq.) is 
   >         - **(bb)** files with the Administrator an anti-investor certification signed by the development company and the assisted small business concern.
   >   - **(C)** *Lease term* Any residential lease made under this paragraph shall be for a term of not more than 1 year, and any commercial lease made under this paragraph shall be for a term of not more than 5 years.
 
-- **(b)** *Report* Not later than 5 years after the date of enactment of this Act, the Administrator of the Small Business Administration shall submit to Congress a report analyzing the impact of the amendments made by this section on access to capital for small business concerns (as defined in section 3 of the Small Business Act (15 U.S.C. 632)).
+- **(b)** *Report* Not later than 5 years after the date of enactment of this Act, the Administrator of the Small Business Administration shall submit to Congress a report analyzing the effect of the amendments made by this section on access to capital for small business concerns (as defined in section 3 of the Small Business Act (15 U.S.C. 632)).
 
 ## § 6. Credit elsewhere exemption
 
@@ -107,3 +106,7 @@ Section 7(a)(1)(A) of the Small Business Act (15 U.S.C. 636(a)(1)(A)) is amended
 - **(1)** in clause (i), by striking “The Administrator” and inserting “Except as provided in clause (iii), the Administrator”; and
 - **(2)** by adding at the end the following:
   > - **(iii)** *Exemption* Clause (i) shall not apply to loans under paragraph (13) of this subsection, loans or other financings under the Small Business Investment Act of 1958 (15 U.S.C. 661 et seq.), or any other loan made by the Administrator to a certified development company.
+
+## § 7. Applicability
+
+This Act and the amendments made by this Act shall apply with respect to a loan made or guaranteed under title V of the Small Business Investment Act of 1958 (15 U.S.C. 695 et seq.) on or after October 1, 2027.
