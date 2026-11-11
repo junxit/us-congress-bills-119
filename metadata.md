@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9084
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 9084
@@ -35,3 +35,11 @@ Department of Energy Nuclear Transparency Act
 - 2026-11-05 — Placed on the Union Calendar, Calendar No. 771.
 - 2026-11-05 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-874.
 - 2026-11-05 — Reported (Amended) by the Committee on Energy and Commerce. H. Rept. 119-874.
+- 2026-11-09 — At the conclusion of debate, the chair put the question on the motion to suspend the rules. Mr. Latta objected to the vote on the grounds that a quorum was not present. Further proceedings on the motion were postponed. The point of no quorum was considered as withdrawn.
+- 2026-11-09 — Considered under suspension of the rules. (consideration: CR H6099-6100; text: CR H6099)
+- 2026-11-09 — DEBATE - The House proceeded with forty minutes of debate on H.R. 9084.
+- 2026-11-09 — Mr. Latta moved to suspend the rules and pass the bill, as amended.
+- 2026-11-11 — Considered as unfinished business. (consideration: CR H6171)
+- 2026-11-11 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-11-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2026-11-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
