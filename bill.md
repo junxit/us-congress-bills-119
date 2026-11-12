@@ -29,7 +29,7 @@ Section 615 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17194
 - **(1)** in subsection (a), by inserting “the milestone-based geothermal demonstration program for projects in low permeability and impermeable reservoirs described in subsection (e) and” after “including”;
 - **(2)** in subsection (d), by striking paragraph (3); and
 - **(3)** by adding at the end the following:
-  > - **(e)** *Milestone-Based geothermal demonstration program*
+  > - **(e)** *Milestone-Based Geothermal Demonstration Program*
   >   - **(1)** *Definitions* In this subsection:
   >     - **(A)** *Innovative financing* The term innovative financing means financial instruments used to support geothermal energy project development, including transactions that the Secretary may enter into under section 646 of the Department of Energy Organization Act (42 U.S.C. 7256).
   >     - **(B)** *Program* The term Program means the Milestone-Based Geothermal Demonstration Program established under paragraph (2).
@@ -46,3 +46,7 @@ Section 615 of the Energy Independence and Security Act of 2007 (42 U.S.C. 17194
   >     - **(C)** *Staffing* The Secretary shall maintain staffing levels sufficient to administer innovative financing under paragraph (2).
   >   - **(4)** *Authority* The Secretary shall carry out a project under this subsection as a milestone-based demonstration project under section 9005 of the Energy Act of 2020 (42 U.S.C. 7256c).
   > - **(f)** *Authorization of appropriations* There are authorized to be appropriated to the Secretary such sums as are necessary to carry out subsections (d) and (e).
+
+  > - **(f)** *Authorization of appropriations and limitations* There is authorized to be appropriated to the Secretary to carry out subsections (d) and (e) $800,000,000, to remain available until expended, of which—
+  >   - **(1)** not more than $750,000,000 shall be made available for the milestone-based demonstration projects under subsection (e)(2), including not fewer than 3 projects; and
+  >   - **(2)** not more than $50,000,000 shall be made available for direction and administrative oversight of the program established under subsection (e)(2).
