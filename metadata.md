@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9718
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 9718
@@ -25,9 +25,10 @@ Reshoring American Manufacturing Act of 2026
 - Rep. James, John [R-MI-10] (J000307)
 - Rep. Olszewski, Johnny [D-MD-2] (O000176)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -45,3 +46,4 @@ Reshoring American Manufacturing Act of 2026
 - 2026-11-11 — Mr. Williams (TX) moved to suspend the rules and pass the bill, as amended.
 - 2026-11-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2026-11-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2026-11-12 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
