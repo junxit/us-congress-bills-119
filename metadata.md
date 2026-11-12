@@ -1,7 +1,7 @@
 ---
 measure: S. 3371
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3371
@@ -28,3 +28,8 @@ National Museum of the Blind People’s Movement Act
 
 - 2025-12-04 — Introduced in Senate
 - 2025-12-04 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2026-07-21 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.
+- 2026-09-30 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.
+- 2026-11-12 — Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment. Without written report.
+- 2026-11-12 — Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment. Without written report.
+- 2026-11-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 703.

@@ -1,7 +1,7 @@
 ---
 legis-num: S. 3371
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -28,3 +28,7 @@ This Act may be cited as the “National Museum of the Blind People’s Movement
   - **(10)** This will be the first museum owned and operated by the blind of America.
   - **(11)** The museum, as well as the existing archive which is currently available to researchers, will serve as a national platform to explore the struggles and successes of the blind as individuals, as collectives, and as a movement. and to encourage understanding of the past, and facilitate awareness and evoke dialogue in the present, while inspiring respect, determination, and action for an equitable future.
 - **(b)** *Designation* The museum known as the Museum of the Blind People’s Movement, located at 200 East Wells Street in Baltimore, Maryland, is designated as the “National Museum of the Blind People’s Movement”.
+
+## § 2. Designation of National Museum of the Blind People’s Movement
+
+The museum known as the Museum of the Blind People’s Movement, located at 200 East Wells Street in Baltimore, Maryland, is designated as the “National Museum of the Blind People’s Movement”.
