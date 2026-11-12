@@ -1,7 +1,7 @@
 ---
 measure: S. 2262
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-2 amendatory instructions. 1 executed, 1 stated and not applied.
+5 amendatory instructions. 2 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -33,6 +33,15 @@ to guess them.
 | Removed | `citizens` |
 | Inserted | `citizens of the United States, in accordance with section 310(d), as applicable,` |
 
+### 43 U.S.C. § 1702
+
+> in subsection (d), by striking “citizens” and inserting “citizens of the United States, in accordance with section 310(d), as applicable,”; and
+
+| | |
+|---|---|
+| Removed | `citizens` |
+| Inserted | `citizens of the United States, in accordance with section 310(d), as applicable,` |
+
 ## Stated, not applied
 
 Each of these is reproduced as the bill writes it, with the reason
@@ -42,4 +51,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
+| `43 U.S.C. § 1740` | amend | Section 310 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1740) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `8 U.S.C. § 1421` | add-at-end | by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 1740` | amend | Section 310 of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1740) is amended to read as follows: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
