@@ -1,7 +1,7 @@
 ---
 measure: H.R. 331
 congress: 119
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 331
@@ -45,3 +45,7 @@ To amend the Aquifer Recharge Flexibility Act to clarify a provision relating to
 - 2025-05-13 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1969)
 - 2025-05-13 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H1969)
 - 2025-05-14 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
+- 2026-09-30 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2026-11-12 — Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. Without written report.
+- 2026-11-12 — Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. Without written report.
+- 2026-11-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 712.
