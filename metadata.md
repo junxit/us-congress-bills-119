@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2306
 congress: 119
-version: Referred in Senate
+version: Reported to Senate
 ---
 
 # H.R. 2306
@@ -53,3 +53,8 @@ Adams Memorial-Great American Heroes Act
 - 2025-12-09 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H5083-5084)
 - 2025-12-10 — Received in the Senate.
 - 2026-07-13 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2026-07-21 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held.
+- 2026-09-30 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2026-11-12 — Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment in the nature of a substitute. Without written report.
+- 2026-11-12 — Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment in the nature of a substitute. Without written report.
+- 2026-11-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 713.
