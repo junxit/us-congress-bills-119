@@ -1,7 +1,7 @@
 ---
 measure: S. 1353
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1353
@@ -33,3 +33,5 @@ A bill to extend the authority for modifications to the Second Division Memorial
 - 2026-07-23 — Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment. Without written report.
 - 2026-07-23 — Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment. Without written report.
 - 2026-07-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 475.
+- 2026-11-12 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5666-5667; text: CR S5667)
+- 2026-11-12 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
