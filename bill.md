@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 2102
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -13,34 +13,20 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Major Richard Star Act”.
 
-## § 2. Eligibility of disability retirees with combat-related disabilities for concurrent receipt of veterans' disability compensation and retired pay
+## § 2. Expansions of eligibility to certain military retirees for concurrent receipt of veterans’ disability compensation and retired pay or combat-related special compensation
 
-- **(a)** *Concurrent receipt in connection with CRSC* Section 1413a(b)(3) of title 10, United States Code, is amended—
-  - **(1)** in subparagraph (A)—
-    - **(A)** by striking “of this title, the amount” and inserting “of this title—
-      > - **(i)** the retired pay of the retiree is not subject to reduction under sections 5304 and 5305 of title 38; and
-      > - **(ii)** the amount
+- **(a)** *Inclusion of chapter 61 disability retirees with fewer than 20 years of service who are eligible for combat-Related special compensation* Section 1413a(b)(3) of title 10, United States Code, is amended—
+  - **(1)** in subparagraph (A), by striking “In” and inserting “Subject to subparagraph (B), in”; and
+  - **(2)** in subparagraph (B), by striking “In the case of” and all that follows and inserting “The retired pay of an eligible combat-related disabled uniformed services retiree, who is retired under chapter 61 of this title with fewer than 20 years of creditable service, is not subject to reduction under sections 5304 and 5305 of title 38.”.
+- **(b)** *Technical and conforming amendments*
+  - **(1)** *Section heading* The heading of section 1414 of such title is amended to read as follows:
+    > ## § 1414. Members eligible for retired pay who are also eligible for veterans’ disability compensation: concurrent receipt
 
-    - **(B)** by striking “after any such reduction under sections 5304 and 5305 of title 38”; and
-  - **(2)** in subparagraph (B)—
-    - **(A)** by striking “creditable service, the amount” and inserting the following: “creditable service—
-      > - **(i)** the retired pay of the retiree is not subject to reduction under sections 5304 and 5305 of title 38; and
-      > - **(ii)** the amount
-
-    - **(B)** by striking “after any such reduction under sections 5304 and 5305 of title 38”.
-- **(b)** *Concurrent receipt generally* Section 1414(b) of title 10, United States Code, is amended to read as follows:
-  > - **(b)** *Special rule for chapter 61 disability retirees* A member or former member of the uniformed services who is entitled to retired pay under chapter 61 of this title for any month and who is also entitled for that month to veterans' disability compensation for a combat-related disability (as that term is defined in section 1413a(e) of this title) is entitled to be paid both for that month without regard to sections 5304 and 5305 of title 38.
-
-- **(c)** *Technical and conforming amendments*
-  - **(1)** *Amendments reflecting end of concurrent receipt phase-in period* Section 1414 of title 10, United States Code, is further amended—
+  - **(2)** *Table of sections* The item relating to such section 1414 in the table of sections at the beginning of chapter 71 of such title is amended to read as follows:
+  - **(3)** *Conforming amendments reflecting end of concurrent receipt phase-in period* Such section 1414 is further amended—
     - **(A)** in subsection (a)(1)—
       - **(i)** by striking the second sentence; and
       - **(ii)** by striking subparagraphs (A) and (B);
     - **(B)** by striking subsection (c) and redesignating subsections (d) and (e) as subsections (c) and (d), respectively; and
     - **(C)** in subsection (d), as redesignated, by striking paragraphs (3) and (4).
-  - **(2)** *Section heading* The heading of such section 1414 is amended to read as follows:
-    > ## § 1414. Members eligible for retired pay who are also eligible for veterans’ disability compensation: concurrent receipt.
-
-  - **(3)** *Table of sections* The table of sections at the beginning of chapter 71 of such title is amended by striking the item relating to section 1414 and inserting the following new item:
-  - **(4)** *Conforming amendment* Section 1413a(f) of such title is amended by striking “Subsection (d)” and inserting “Subsection (c)”.
-- **(d)** *Effective date* The amendments made by this section shall take effect on the first day of the first month beginning after the date of the enactment of this Act and shall apply to payments for months beginning on or after that date.
+- **(c)** *Effective date* The amendments made by this section shall take effect on the first day of the first month beginning after the date of the enactment of this Act and shall apply to payments for months beginning on or after such date.
