@@ -1,7 +1,7 @@
 ---
 measure: S. 4846
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4846
@@ -28,3 +28,8 @@ TAAP Act
 
 - 2026-06-22 — Introduced in Senate
 - 2026-06-22 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2026-09-16 — Committee on Energy and Natural Resources. Hearings held.
+- 2026-09-30 — Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.
+- 2026-11-12 — Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. Without written report.
+- 2026-11-12 — Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. Without written report.
+- 2026-11-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 708.
