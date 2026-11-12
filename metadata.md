@@ -1,7 +1,7 @@
 ---
 measure: H.R. 10355
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 10355
@@ -21,9 +21,10 @@ Disaster Loan Outreach Consistency Act
 - Del. King-Hinds, Kimberlyn [R-MP-At Large] (K000404)
 - Rep. Cisneros, Gilbert Ray [D-CA-31] (C001123)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -41,3 +42,4 @@ Disaster Loan Outreach Consistency Act
 - 2026-11-11 — Mr. Williams (TX) moved to suspend the rules and pass the bill.
 - 2026-11-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote.
 - 2026-11-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2026-11-12 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
