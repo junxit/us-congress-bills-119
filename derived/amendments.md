@@ -1,7 +1,7 @@
 ---
 measure: S. 3493
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-6 amendatory instructions. 1 executed, 5 stated and not applied.
+4 amendatory instructions. 1 executed, 3 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -42,8 +42,6 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| — | insert | Section 2601(b)(4) of the Omnibus Public Land Management Act of 2009 (Public Law 111–11; 123 Stat. 1111) is amended by inserting after subparagraph (D), the following: | the bill names no machine-readable US Code section |
-| — | replace | Section 2601(d) of the Omnibus Public Land Management Act of 2009 (Public Law 111–11; 123 Stat. 1112) is amended by striking paragraph (6) and inserting the following: | the bill names no machine-readable US Code section |
 | `43 U.S.C. § 869` | replace | Section 2601(b)(4) of the Omnibus Public Land Management Act of 2009 (Public Law 111–11; 123 Stat. 1110) is amended by striking subparagraph (C) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 869` | add-at-end | Section 2601(b)(4) of the Omnibus Public Land Management Act of 2009 (Public Law 111–11; 123 Stat. 1110) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 869` | replace | Section 2601(d) of the Omnibus Public Land Management Act of 2009 (Public Law 111–11; 123 Stat. 1112) is amended by striking paragraph (6) and inserting the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

@@ -1,7 +1,7 @@
 ---
 measure: S. 3493
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3493
@@ -29,3 +29,5 @@ Carson City Public Land Correction Act
 - 2026-07-23 — Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment in the nature of a substitute. Without written report.
 - 2026-07-23 — Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment in the nature of a substitute. Without written report.
 - 2026-07-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 488.
+- 2026-11-12 — Passed Senate with an amendment by Unanimous Consent. (consideration: CR S5666-5667; text: CR S5667-5668)
+- 2026-11-12 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
