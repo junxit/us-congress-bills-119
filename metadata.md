@@ -1,7 +1,7 @@
 ---
 measure: H.R. 10238
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 10238
@@ -22,9 +22,10 @@ Cybersecurity for Small Businesses Act of 2026
 - Rep. Van Duyne, Beth [R-TX-24] (V000134)
 - Rep. Latimer, George [D-NY-16] (L000606)
 
-## Committees (1)
+## Committees (2)
 
 - House — Small Business Committee
+- Senate — Small Business and Entrepreneurship Committee
 
 ## Actions
 
@@ -42,3 +43,4 @@ Cybersecurity for Small Businesses Act of 2026
 - 2026-11-11 — Mr. Williams (TX) moved to suspend the rules and pass the bill, as amended.
 - 2026-11-11 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
 - 2026-11-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote.
+- 2026-11-12 — Received in the Senate and Read twice and referred to the Committee on Small Business and Entrepreneurship.
