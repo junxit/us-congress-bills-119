@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1013
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 1013
@@ -43,9 +43,10 @@ Retirement Fairness for Charities and Educational Institutions Act of 2025
 - Rep. Horsford, Steven [D-NV-4] (H001066)
 - Rep. Courtney, Joe [D-CT-2] (C001069)
 
-## Committees (1)
+## Committees (2)
 
 - House — Financial Services Committee
+- Senate — Banking, Housing, and Urban Affairs Committee
 
 ## Recorded votes (1)
 
@@ -73,3 +74,4 @@ Retirement Fairness for Charities and Educational Institutions Act of 2025
 - 2026-11-11 — On passage Passed by the Yeas and Nays: 295 - 128 (Roll no. 321). (text of amendment in the nature of a substitute: CR H6166)
 - 2026-11-11 — Passed/agreed to in House: On passage Passed by the Yeas and Nays: 295 - 128 (Roll no. 321). (text of amendment in the nature of a substitute: CR H6166)
 - 2026-11-11 — Rule provides for consideration of H.R. 1013 with 1 hour of general debate. Previous question shall be considered as ordered except motion to recommit. Bill is closed to amendments.
+- 2026-11-12 — Received in the Senate and Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.
