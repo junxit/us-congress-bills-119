@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5549
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5549
@@ -44,9 +44,10 @@ Efficient Nuclear Licensing Hearings Act
 - Rep. Kean, Thomas H. [R-NJ-7] (K000398)
 - Rep. Williams, Roger [R-TX-25] (W000816)
 
-## Committees (1)
+## Committees (2)
 
 - House — Energy and Commerce Committee
+- Senate — Environment and Public Works Committee
 
 ## Actions
 
@@ -69,3 +70,4 @@ Efficient Nuclear Licensing Hearings Act
 - 2026-11-11 — Motion to reconsider laid on the table Agreed to without objection.
 - 2026-11-11 — On motion to suspend the rules and pass the bill Agreed to by voice vote.
 - 2026-11-11 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote.
+- 2026-11-12 — Received in the Senate and Read twice and referred to the Committee on Environment and Public Works.
