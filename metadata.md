@@ -1,7 +1,7 @@
 ---
 measure: S. 2970
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 2970
@@ -28,3 +28,8 @@ A bill to authorize the use of off-highway vehicles in certain areas of the Capi
 
 - 2025-10-03 — Introduced in Senate
 - 2025-10-03 — Read twice and referred to the Committee on Energy and Natural Resources.
+- 2025-12-09 — Committee on Energy and Natural Resources Subcommittee on National Parks. Hearings held. With printed Hearing: S.Hrg. 119-238.
+- 2026-09-30 — Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2026-11-12 — Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment in the nature of a substitute. Without written report.
+- 2026-11-12 — Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment in the nature of a substitute. Without written report.
+- 2026-11-12 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 702.
