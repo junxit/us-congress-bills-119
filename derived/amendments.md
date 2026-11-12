@@ -1,7 +1,7 @@
 ---
 measure: S. 4870
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 derived: true
 ---
 
@@ -14,7 +14,7 @@ derived: true
 > should be relied on; read `bill.md` beside it, and the US Code for the
 > text being amended.
 
-5 amendatory instructions. 1 executed, 4 stated and not applied.
+10 amendatory instructions. 2 executed, 8 stated and not applied.
 
 An instruction is executed here only when the bill states **both** the
 text removed and the text inserted, so the result follows from this
@@ -23,6 +23,15 @@ removes are in the US Code and not in the bill, and no attempt is made
 to guess them.
 
 ## Executed
+
+### 43 U.S.C. § 31l
+
+> Section 40201(h) of the Infrastructure Investment and Jobs Act (43 U.S.C.31l(h)) is amended by striking “2022 through 2026” and inserting “2027 through 2031”.
+
+| | |
+|---|---|
+| Removed | `2022 through 2026` |
+| Inserted | `2027 through 2031` |
 
 ### 43 U.S.C. § 31l
 
@@ -43,6 +52,10 @@ complete account of the bill's effect, which it is not.
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
 | `43 U.S.C. § 31l` | replace | Section 40201(c)(1) of the Infrastructure Investment and Jobs Act (43 U.S.C. 31l(c)(1)) is amended by striking the semicolon at the end and inserting the following: “, which may include data derived from modern sensing technologies, incl… | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 31l` | redesignate | by redesignating paragraph (5) as paragraph (6); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 31l` | strike | in paragraph (4), by striking “and” after the semicolon; and | the bill quotes the text struck but describes what replaces it |
+| `43 U.S.C. § 31l` | insert | by inserting after paragraph (4) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `43 U.S.C. § 31l` | insert | Section 40201(c)(1) of the Infrastructure Investment and Jobs Act (43 U.S.C. 31l(c)(1)) is amended by inserting “, which may include data derived from modern sensing technologies, including advanced geophysical data acquisition approache… | the bill quotes the text inserted but describes where it goes |
 | `43 U.S.C. § 31l` | redesignate | by redesignating paragraph (5) as paragraph (6); | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
 | `43 U.S.C. § 31l` | strike | in paragraph (4), by striking “and” after the semicolon; and | the bill quotes the text struck but describes what replaces it |
 | `43 U.S.C. § 31l` | insert | by inserting after paragraph (4) the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
