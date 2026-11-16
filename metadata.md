@@ -1,7 +1,7 @@
 ---
 measure: S. 3296
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 3296
@@ -16,7 +16,7 @@ Improving Access to Workers’ Compensation for Injured Federal Workers Act of 2
 
 - Sen. Collins, Susan M. [R-ME] (C001035)
 
-## Cosponsors (6)
+## Cosponsors (10)
 
 - Sen. Blumenthal, Richard [D-CT] (B001277)
 - Sen. Fetterman, John [D-PA] (F000479)
@@ -24,6 +24,10 @@ Improving Access to Workers’ Compensation for Injured Federal Workers Act of 2
 - Sen. Coons, Christopher A. [D-DE] (C001088)
 - Sen. Shaheen, Jeanne [D-NH] (S001181)
 - Sen. Moreno, Bernie [R-OH] (M001242)
+- Sen. Boozman, John [R-AR] (B001236)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Merkley, Jeff [D-OR] (M001176)
 
 ## Committees (1)
 
@@ -37,3 +41,5 @@ Improving Access to Workers’ Compensation for Injured Federal Workers Act of 2
 - 2026-09-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Paul without amendment. Without written report.
 - 2026-09-14 — Committee on Homeland Security and Governmental Affairs. Reported by Senator Paul without amendment. Without written report.
 - 2026-09-14 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 568.
+- 2026-11-16 — Passed Senate without amendment by Unanimous Consent. (consideration: CR S5701; text: CR S5701)
+- 2026-11-16 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
