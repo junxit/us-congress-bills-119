@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2876
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 2876
@@ -45,3 +45,5 @@ University of Utah Research Park Act
 - 2025-12-15 — Mr. Stauber moved to suspend the rules and pass the bill.
 - 2025-12-15 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5873-5874)
 - 2025-12-15 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H5873-5874)
+- 2025-12-16 — Received in the Senate.
+- 2026-11-16 — Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 717.
