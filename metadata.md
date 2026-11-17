@@ -1,7 +1,7 @@
 ---
 measure: H.R. 8195
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 8195
@@ -42,3 +42,9 @@ Responsible Cormorant Management and Control Act of 2026
 - 2026-10-29 — Placed on the Union Calendar, Calendar No. 754.
 - 2026-10-29 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-857.
 - 2026-10-29 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-857.
+- 2026-11-17 — Considered under suspension of the rules. (consideration: CR H6238-6240)
+- 2026-11-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 8195.
+- 2026-11-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-11-17 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
+- 2026-11-17 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6238-6239)
+- 2026-11-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6238-6239)

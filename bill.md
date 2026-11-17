@@ -69,4 +69,12 @@ This Act may be cited as the “Responsible Cormorant Management and Control Act
   - **(5)** *Migratory bird* The term migratory bird has the meaning given the term migratory birds in section 11 of the Migratory Bird Conservation Act (16 U.S.C. 715j).
   - **(6)** *Pond manager* The term pond manager means a person that is licensed or otherwise authorized by a State regulatory agency to manage a private pond.
   - **(7)** *Secretary* The term Secretary means the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service.
-  - **(8)** *Take* The term take has the meaning given the term in section 10.12 of title 50, Code of Federal Regulations (as in effect on the date of the enactment of this section).
+  - **(8)** *State* The term “State” means—
+    - **(A)** each of the several States;
+    - **(B)** the District of Columbia;
+    - **(C)** the Commonwealth of Puerto Rico;
+    - **(D)** Guam;
+    - **(E)** American Samoa;
+    - **(F)** the Commonwealth of the Northern Mariana Islands; and
+    - **(G)** the United States Virgin Islands.
+  - **(9)** *Take* The term take has the meaning given the term in section 10.12 of title 50, Code of Federal Regulations (as in effect on the date of the enactment of this section).
