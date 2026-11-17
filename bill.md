@@ -23,5 +23,5 @@ This Act may be cited as the “DC Rejecting Oppressive Automotive Driving Surch
     > - **(11)** enact any act, resolution, regulation or other requirement which imposes a congestion toll (as such term is defined in the DC ROADS Act).
 
 - **(c)** *Definitions* In this Act:
-  - **(1)** *Congestion toll defined* The term congestion toll means any charge for entry into or passing through a congestion tolling zone.
-  - **(2)** *Congestion tolling zone* The term congestion tolling zone means any roadways, bridges, tunnels, approaches, or ramps that are located within, or enter to, the geographic area of the District of Columbia.
+  - **(1)** *Congestion toll defined* The term “congestion toll” means any charge for entry into or passing through a congestion tolling zone.
+  - **(2)** *Congestion tolling zone* The term “congestion tolling zone” means any roadways, bridges, tunnels, approaches, or ramps that are located within, or enter to, the geographic area of the District of Columbia.
