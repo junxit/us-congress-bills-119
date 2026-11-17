@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7954
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 7954
@@ -51,3 +51,9 @@ Don Young Doug LaMalfa Indian Buffalo Management Act
 - 2026-10-29 — Placed on the Union Calendar, Calendar No. 753.
 - 2026-10-29 — Reported by the Committee on Natural Resources. H. Rept. 119-856.
 - 2026-10-29 — Reported by the Committee on Natural Resources. H. Rept. 119-856.
+- 2026-11-17 — Considered under suspension of the rules. (consideration: CR H6236-6238)
+- 2026-11-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 7954.
+- 2026-11-17 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-11-17 — Mr. Westerman moved to suspend the rules and pass the bill.
+- 2026-11-17 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6236-6237)
+- 2026-11-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H6236-6237)
