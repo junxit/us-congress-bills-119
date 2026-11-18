@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9640
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 9640
@@ -31,6 +31,10 @@ Earth MRI Reauthorization Act of 2026
 
 - House — Natural Resources Committee
 
+## Recorded votes (1)
+
+- 2026-11-18 — [House 119-2-326](votes/house-119-2-0326.md) — On Motion to Suspend the Rules and Pass, as Amended — **Passed** (396–14)
+
 ## Actions
 
 - 2026-07-09 — Introduced in House
@@ -44,3 +48,11 @@ Earth MRI Reauthorization Act of 2026
 - 2026-10-29 — Placed on the Union Calendar, Calendar No. 759.
 - 2026-10-29 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-862.
 - 2026-10-29 — Reported (Amended) by the Committee on Natural Resources. H. Rept. 119-862.
+- 2026-11-17 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2026-11-17 — Considered under suspension of the rules. (consideration: CR H6244-6246; text: CR H6244-6245)
+- 2026-11-17 — DEBATE - The House proceeded with forty minutes of debate on H.R. 9640.
+- 2026-11-17 — Mr. Westerman moved to suspend the rules and pass the bill, as amended.
+- 2026-11-18 — Considered as unfinished business. (consideration: CR H6261-6262)
+- 2026-11-18 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-11-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 396 - 14 (Roll no. 326).
+- 2026-11-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 396 - 14 (Roll no. 326).
