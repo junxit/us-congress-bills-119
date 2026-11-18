@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9600
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 9600
@@ -20,9 +20,10 @@ Common Sense 250 Act of 2026
 
 - Rep. Spartz, Victoria [R-IN-5] (S000929)
 
-## Committees (1)
+## Committees (2)
 
 - House — Natural Resources Committee
+- Senate — Energy and Natural Resources Committee
 
 ## Recorded votes (1)
 
@@ -49,3 +50,4 @@ Common Sense 250 Act of 2026
 - 2026-11-17 — Mr. Westerman moved to suspend the rules and pass the bill.
 - 2026-11-17 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 365 - 36 (Roll no. 325). (text: CR H6242)
 - 2026-11-17 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 365 - 36 (Roll no. 325). (text: CR H6242)
+- 2026-11-18 — Received in the Senate and Read twice and referred to the Committee on Energy and Natural Resources.
