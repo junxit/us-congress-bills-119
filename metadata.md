@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9624
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 9624
@@ -25,3 +25,8 @@ Intelligence Authorization Act for Fiscal Year 2027
 - 2026-07-09 — Introduced in House
 - 2026-07-09 — Introduced in House
 - 2026-07-09 — Referred to the House Permanent Select Committee on Intelligence.
+- 2026-07-20 — Committee Consideration and Mark-up Session Held
+- 2026-07-20 — Ordered to be Reported (Amended) by Voice Vote.
+- 2026-11-18 — Placed on the Union Calendar, Calendar No. 781.
+- 2026-11-18 — Reported (Amended) by the Committee on Intelligence. H. Rept. 119-886.
+- 2026-11-18 — Reported (Amended) by the Committee on Intelligence. H. Rept. 119-886.
