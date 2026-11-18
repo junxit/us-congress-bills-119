@@ -13,7 +13,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 This Act may be cited as the “Civics and History Advancement to Restore Learning, Integrity, and Education Act” or the “CHARLIE Act”.
 
-## § 2. Prohibiting American history and civics funds for radical indoctrination
+## § 2. Prohibiting the use of American history and civics funds for radical indoctrination
 
 Section 2231 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6661) is amended by adding at the end the following:
 
