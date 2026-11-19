@@ -1,7 +1,7 @@
 ---
 measure: S. 4538
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 4538
@@ -37,3 +37,5 @@ Washington’s Trail—1753 National Historic Trail Feasibility Study Act of 202
 - 2026-09-17 — Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. Without written report.
 - 2026-09-17 — Committee on Energy and Natural Resources. Reported by Senator Lee without amendment. Without written report.
 - 2026-09-17 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 658.
+- 2026-11-19 — Passed Senate without amendment by Unanimous Consent.
+- 2026-11-19 — Passed/agreed to in Senate: Passed Senate without amendment by Unanimous Consent.
