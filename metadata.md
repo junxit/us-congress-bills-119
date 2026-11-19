@@ -1,7 +1,7 @@
 ---
 measure: H.R. 9640
 congress: 119
-version: Engrossed in House
+version: Placed on Calendar Senate
 ---
 
 # H.R. 9640
@@ -56,3 +56,4 @@ Earth MRI Reauthorization Act of 2026
 - 2026-11-18 — Motion to reconsider laid on the table Agreed to without objection.
 - 2026-11-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 396 - 14 (Roll no. 326).
 - 2026-11-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by the Yeas and Nays: (2/3 required): 396 - 14 (Roll no. 326).
+- 2026-11-19 — Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 721.
