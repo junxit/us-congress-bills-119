@@ -1,7 +1,7 @@
 ---
 measure: S. 1135
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 1135
@@ -33,3 +33,5 @@ A bill to amend the National Trails System Act to direct the Secretary of Agricu
 - 2026-07-23 — Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment in the nature of a substitute and an amendment to the title. Without written report.
 - 2026-07-23 — Committee on Energy and Natural Resources. Reported by Senator Lee with an amendment in the nature of a substitute and an amendment to the title. Without written report.
 - 2026-07-23 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 473.
+- 2026-11-19 — Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
+- 2026-11-19 — Passed/agreed to in Senate: Passed Senate with an amendment and an amendment to the Title by Unanimous Consent.
