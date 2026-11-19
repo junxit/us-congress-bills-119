@@ -1,7 +1,7 @@
 ---
 measure: S. 4448
 congress: 119
-version: Reported to Senate
+version: Engrossed in Senate
 ---
 
 # S. 4448
@@ -33,3 +33,5 @@ Accelerating Broadband Permits Act of 2026
 - 2026-11-09 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-158.
 - 2026-11-09 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-158.
 - 2026-11-09 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 691.
+- 2026-11-19 — Passed Senate with an amendment by Unanimous Consent.
+- 2026-11-19 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
