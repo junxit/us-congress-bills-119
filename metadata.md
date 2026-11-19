@@ -1,7 +1,7 @@
 ---
 measure: H.R. 2347
 congress: 119
-version: Placed on Calendar Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 2347
@@ -16,15 +16,256 @@ Bipartisan American Affordability and Jobs Act of 2026
 
 - Rep. Smucker, Lloyd [R-PA-11] (S001199)
 
-## Cosponsors (3)
+## Cosponsors (234)
 
 - Rep. Moore, Gwen [D-WI-4] (M001160)
 - Rep. Meeks, Gregory W. [D-NY-5] (M001137)
 - Rep. Tenney, Claudia [R-NY-24] (T000478)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Capito, Shelley Moore [R-WV] (C001047)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Schmitt, Eric [R-MO] (S001227)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Young, Todd [R-IN] (Y000064)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Schmitt, Eric [R-MO] (S001227)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Gallego, Ruben [D-AZ] (G000574)
+- Sen. Luján, Ben Ray [D-NM] (L000570)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Gallego, Ruben [D-AZ] (G000574)
+- Sen. Luján, Ben Ray [D-NM] (L000570)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Murkowski, Lisa [R-AK] (M001153)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Schmitt, Eric [R-MO] (S001227)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Gallego, Ruben [D-AZ] (G000574)
+- Sen. Moody, Ashley [R-FL] (M001244)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Tillis, Thomas [R-NC] (T000476)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Grassley, Chuck [R-IA] (G000386)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Luján, Ben Ray [D-NM] (L000570)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Luján, Ben Ray [D-NM] (L000570)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Luján, Ben Ray [D-NM] (L000570)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Luján, Ben Ray [D-NM] (L000570)
+- Sen. Luján, Ben Ray [D-NM] (L000570)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Gallego, Ruben [D-AZ] (G000574)
+- Sen. Luján, Ben Ray [D-NM] (L000570)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Gallego, Ruben [D-AZ] (G000574)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Blunt Rochester, Lisa [D-DE] (B001303)
+- Sen. Fetterman, John [D-PA] (F000479)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Durbin, Richard J. [D-IL] (D000563)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Rounds, Mike [R-SD] (R000605)
+- Sen. Cramer, Kevin [R-ND] (C001096)
+- Sen. Graham, Darline [R-SC] (G000608)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Luján, Ben Ray [D-NM] (L000570)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Luján, Ben Ray [D-NM] (L000570)
+- Sen. Blunt Rochester, Lisa [D-DE] (B001303)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Luján, Ben Ray [D-NM] (L000570)
+- Sen. Blunt Rochester, Lisa [D-DE] (B001303)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Luján, Ben Ray [D-NM] (L000570)
+- Sen. Slotkin, Elissa [D-MI] (S001208)
+- Sen. Blunt Rochester, Lisa [D-DE] (B001303)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. King, Angus S., Jr. [I-ME] (K000383)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Hoeven, John [R-ND] (H001061)
+- Sen. Cassidy, Bill [R-LA] (C001075)
+- Sen. Lee, Mike [R-UT] (L000577)
+- Sen. Whitehouse, Sheldon [D-RI] (W000802)
+- Sen. Heinrich, Martin [D-NM] (H001046)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Merkley, Jeff [D-OR] (M001176)
+- Sen. Luján, Ben Ray [D-NM] (L000570)
+- Sen. Blumenthal, Richard [D-CT] (B001277)
+- Sen. Markey, Edward J. [D-MA] (M000133)
+- Sen. Alsobrooks, Angela D. [D-MD] (A000382)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Kaine, Tim [D-VA] (K000384)
+- Sen. Blunt Rochester, Lisa [D-DE] (B001303)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Warner, Mark R. [D-VA] (W000805)
+- Sen. Smith, Tina [D-MN] (S001203)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Duckworth, Tammy [D-IL] (D000622)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Kelly, Mark [D-AZ] (K000377)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Murray, Patty [D-WA] (M001111)
+- Sen. Slotkin, Elissa [D-MI] (S001208)
+- Sen. Peters, Gary C. [D-MI] (P000595)
+- Sen. Gallego, Ruben [D-AZ] (G000574)
+- Sen. Van Hollen, Chris [D-MD] (V000128)
+- Sen. Gillibrand, Kirsten E. [D-NY] (G000555)
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+- Sen. Warren, Elizabeth [D-MA] (W000817)
+- Sen. Kim, Andy [D-NJ] (K000394)
+- Sen. Hickenlooper, John W. [D-CO] (H000273)
+- Sen. Welch, Peter [D-VT] (W000800)
+- Sen. Coons, Christopher A. [D-DE] (C001088)
+- Sen. Klobuchar, Amy [D-MN] (K000367)
+- Sen. Fetterman, John [D-PA] (F000479)
+- Sen. Warnock, Raphael G. [D-GA] (W000790)
+- Sen. Ossoff, Jon [D-GA] (O000174)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Bennet, Michael F. [D-CO] (B001267)
+- Sen. Booker, Cory A. [D-NJ] (B001288)
+- Sen. Cortez Masto, Catherine [D-NV] (C001113)
+- Sen. Fetterman, John [D-PA] (F000479)
+- Sen. Luján, Ben Ray [D-NM] (L000570)
+- Sen. Schiff, Adam B. [D-CA] (S001150)
+- Sen. Gallego, Ruben [D-AZ] (G000574)
+- Sen. Hirono, Mazie K. [D-HI] (H001042)
+- Sen. Wyden, Ron [D-OR] (W000779)
+- Sen. Schatz, Brian [D-HI] (S001194)
+- Sen. Gallego, Ruben [D-AZ] (G000574)
+- Sen. Cantwell, Maria [D-WA] (C000127)
+- Sen. Luján, Ben Ray [D-NM] (L000570)
+- Sen. Padilla, Alex [D-CA] (P000145)
+- Sen. Fetterman, John [D-PA] (F000479)
 
 ## Committees (1)
 
 - House — Ways and Means Committee
+
+## Recorded votes (7)
+
+- 2026-11-09 — [Senate 119-2-257](votes/senate-119-2-0257.md) — On Cloture on the Motion to Proceed — **Cloture on the Motion to Proceed Agreed to** (73–25)
+- 2026-11-10 — [Senate 119-2-258](votes/senate-119-2-0258.md) — On the Motion to Proceed — **Motion to Proceed Agreed to** (62–21)
+- 2026-11-16 — [Senate 119-2-264](votes/senate-119-2-0264.md) — On the Cloture Motion — **Cloture Motion Agreed to** (70–27)
+- 2026-11-18 — [Senate 119-2-266](votes/senate-119-2-0266.md) — On the Motion — **Motion Agreed to** (70–26)
+- 2026-11-18 — [Senate 119-2-267](votes/senate-119-2-0267.md) — On the Amendment — **Amendment Agreed to** (69–27)
+- 2026-11-18 — [Senate 119-2-268](votes/senate-119-2-0268.md) — On the Cloture Motion — **Cloture Motion Agreed to** (65–31)
+- 2026-11-19 — [Senate 119-2-270](votes/senate-119-2-0270.md) — On Passage of the Bill — **Bill Passed** (62–33)
 
 ## Actions
 
@@ -45,3 +286,430 @@ Bipartisan American Affordability and Jobs Act of 2026
 - 2026-04-28 — Received in the Senate.
 - 2026-07-13 — Read the first time. Placed on Senate Legislative Calendar under Read the First Time.
 - 2026-07-14 — Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 453.
+- 2026-09-30 — Cloture motion on the motion to proceed to the measure presented in Senate. (CR S5241)
+- 2026-09-30 — Motion to proceed to consideration of measure made in Senate. (CR S5241)
+- 2026-11-09 — Cloture on the motion to proceed to the measure invoked in Senate by Yea-Nay Vote. 73 - 25. Record Vote Number: 257. (CR S5343-5344)
+- 2026-11-09 — Motion to proceed to measure considered in Senate. (CR S5337)
+- 2026-11-10 — 
+- 2026-11-10 — 
+- 2026-11-10 — 
+- 2026-11-10 — 
+- 2026-11-10 — 
+- 2026-11-10 — 
+- 2026-11-10 — 
+- 2026-11-10 — 
+- 2026-11-10 — 
+- 2026-11-10 — 
+- 2026-11-10 — 
+- 2026-11-10 — 
+- 2026-11-10 — 
+- 2026-11-10 — 
+- 2026-11-10 — 
+- 2026-11-10 — 
+- 2026-11-10 — 
+- 2026-11-10 — 
+- 2026-11-10 — 
+- 2026-11-10 — 
+- 2026-11-10 — 
+- 2026-11-10 — 
+- 2026-11-10 — 
+- 2026-11-10 — 
+- 2026-11-10 — 
+- 2026-11-10 — 
+- 2026-11-10 — 
+- 2026-11-10 — 
+- 2026-11-10 — 
+- 2026-11-10 — 
+- 2026-11-10 — 
+- 2026-11-10 — 
+- 2026-11-10 — 
+- 2026-11-10 — 
+- 2026-11-10 — 
+- 2026-11-10 — 
+- 2026-11-10 — 
+- 2026-11-10 — 
+- 2026-11-10 — 
+- 2026-11-10 — 
+- 2026-11-10 — 
+- 2026-11-10 — Amendment SA 6883 proposed by Senator Thune for Senator Capito. In the nature of a substitute. (consideration: CR S5392)
+- 2026-11-10 — Amendment SA 6884 proposed by Senator Thune to Amendment SA 6883. To improve the bill. (consideration: CR S5392)
+- 2026-11-10 — Amendment SA 6885 proposed by Senator Thune to Amendment SA 6884. To improve the bill. (consideration: CR S5392)
+- 2026-11-10 — Amendment SA 6886 proposed by Senator Thune to language proposed to be stricken by amendment no. 6883. To improve the bill. (consideration: CR S5392)
+- 2026-11-10 — Amendment SA 6887 proposed by Senator Thune to Amendment SA 6886. To improve the bill. (consideration: CR S5392)
+- 2026-11-10 — Amendment SA 6888 proposed by Senator Thune. To improve the bill. (consideration: CR S5392)
+- 2026-11-10 — Amendment SA 6889 proposed by Senator Thune to Amendment SA 6888 (the instructions of the motion to commit). To improve the bill. (consideration: CR S5392)
+- 2026-11-10 — Amendment SA 6890 proposed by Senator Thune to Amendment SA 6889. To improve the bill. (consideration: CR S5393)
+- 2026-11-10 — Measure laid before Senate by motion. (CR S5383-5393)
+- 2026-11-10 — Motion by Senator Thune to commit to Senate Committee on Finance with instructions to report back forthwith with the following amendment (SA 6888) made in Senate.
+- 2026-11-10 — Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 62 - 21. Record Vote Number: 258. (CR S5383-5393)
+- 2026-11-10 — Senate amendment proposed (on the floor): Amendment SA 6883 proposed by Senator Thune for Senator Capito.
+- 2026-11-10 — Senate amendment proposed (on the floor): Amendment SA 6884 proposed by Senator Thune to Amendment SA 6883.
+- 2026-11-10 — Senate amendment proposed (on the floor): Amendment SA 6885 proposed by Senator Thune to Amendment SA 6884.
+- 2026-11-10 — Senate amendment proposed (on the floor): Amendment SA 6886 proposed by Senator Thune to language proposed to be stricken by amendment no. 6883.
+- 2026-11-10 — Senate amendment proposed (on the floor): Amendment SA 6887 proposed by Senator Thune to Amendment SA 6886.
+- 2026-11-10 — Senate amendment proposed (on the floor): Amendment SA 6888 proposed by Senator Thune.
+- 2026-11-10 — Senate amendment proposed (on the floor): Amendment SA 6889 proposed by Senator Thune to Amendment SA 6888 (the instructions of the motion to commit).
+- 2026-11-10 — Senate amendment proposed (on the floor): Amendment SA 6890 proposed by Senator Thune to Amendment SA 6889.
+- 2026-11-10 — Senate amendment submitted
+- 2026-11-10 — Senate amendment submitted
+- 2026-11-10 — Senate amendment submitted
+- 2026-11-10 — Senate amendment submitted
+- 2026-11-10 — Senate amendment submitted
+- 2026-11-10 — Senate amendment submitted
+- 2026-11-10 — Senate amendment submitted
+- 2026-11-10 — Senate amendment submitted
+- 2026-11-10 — Senate amendment submitted
+- 2026-11-10 — Senate amendment submitted
+- 2026-11-10 — Senate amendment submitted
+- 2026-11-10 — Senate amendment submitted
+- 2026-11-10 — Senate amendment submitted
+- 2026-11-10 — Senate amendment submitted
+- 2026-11-10 — Senate amendment submitted
+- 2026-11-10 — Senate amendment submitted
+- 2026-11-10 — Senate amendment submitted
+- 2026-11-10 — Senate amendment submitted
+- 2026-11-10 — Senate amendment submitted
+- 2026-11-10 — Senate amendment submitted
+- 2026-11-10 — Senate amendment submitted
+- 2026-11-10 — Senate amendment submitted
+- 2026-11-10 — Senate amendment submitted
+- 2026-11-10 — Senate amendment submitted
+- 2026-11-10 — Senate amendment submitted
+- 2026-11-10 — Senate amendment submitted
+- 2026-11-10 — Senate amendment submitted
+- 2026-11-10 — Senate amendment submitted
+- 2026-11-10 — Senate amendment submitted
+- 2026-11-10 — Senate amendment submitted
+- 2026-11-10 — Senate amendment submitted
+- 2026-11-10 — Senate amendment submitted
+- 2026-11-10 — Senate amendment submitted
+- 2026-11-10 — Senate amendment submitted
+- 2026-11-10 — Senate amendment submitted
+- 2026-11-10 — Senate amendment submitted
+- 2026-11-10 — Senate amendment submitted
+- 2026-11-10 — Senate amendment submitted
+- 2026-11-10 — Senate amendment submitted
+- 2026-11-10 — Senate amendment submitted
+- 2026-11-10 — Senate amendment submitted
+- 2026-11-11 — 
+- 2026-11-11 — 
+- 2026-11-11 — 
+- 2026-11-11 — 
+- 2026-11-11 — 
+- 2026-11-11 — 
+- 2026-11-11 — 
+- 2026-11-11 — 
+- 2026-11-11 — 
+- 2026-11-11 — 
+- 2026-11-11 — Cloture motion on amendment SA 6883 presented in Senate. (CR S5568)
+- 2026-11-11 — Cloture motion on the measure presented in Senate. (CR S5568)
+- 2026-11-11 — Considered by Senate. (consideration: CR S5567)
+- 2026-11-11 — Considered by Senate. (consideration: CR S5567)
+- 2026-11-11 — Considered by Senate. (consideration: CR S5567)
+- 2026-11-11 — Considered by Senate. (consideration: CR S5567)
+- 2026-11-11 — Considered by Senate. (consideration: CR S5567)
+- 2026-11-11 — Considered by Senate. (consideration: CR S5567)
+- 2026-11-11 — Considered by Senate. (consideration: CR S5567)
+- 2026-11-11 — Considered by Senate. (consideration: CR S5567)
+- 2026-11-11 — Considered by Senate. (consideration: CR S5567-5568)
+- 2026-11-11 — Senate amendment submitted
+- 2026-11-11 — Senate amendment submitted
+- 2026-11-11 — Senate amendment submitted
+- 2026-11-11 — Senate amendment submitted
+- 2026-11-11 — Senate amendment submitted
+- 2026-11-11 — Senate amendment submitted
+- 2026-11-11 — Senate amendment submitted
+- 2026-11-11 — Senate amendment submitted
+- 2026-11-11 — Senate amendment submitted
+- 2026-11-11 — Senate amendment submitted
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — 
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-12 — Senate amendment submitted
+- 2026-11-16 — 
+- 2026-11-16 — 
+- 2026-11-16 — 
+- 2026-11-16 — 
+- 2026-11-16 — 
+- 2026-11-16 — 
+- 2026-11-16 — 
+- 2026-11-16 — 
+- 2026-11-16 — 
+- 2026-11-16 — 
+- 2026-11-16 — 
+- 2026-11-16 — 
+- 2026-11-16 — Cloture on amendment SA 6883 invoked in Senate by Yea-Nay Vote. 70 - 27. Record Vote Number: 264. (CR S5679)
+- 2026-11-16 — Considered by Senate. (consideration: CR S5679)
+- 2026-11-16 — Considered by Senate. (consideration: CR S5679)
+- 2026-11-16 — Considered by Senate. (consideration: CR S5679)
+- 2026-11-16 — Considered by Senate. (consideration: CR S5679)
+- 2026-11-16 — Considered by Senate. (consideration: CR S5679)
+- 2026-11-16 — Considered by Senate. (consideration: CR S5679)
+- 2026-11-16 — Motion by Senator Thune to commit to Senate Committee on Finance with instructions to report back forthwith with the following amendment (SA 6888) fell when cloture was invoked on amendment SA 6883 in Senate.
+- 2026-11-16 — Roll call votes on amendments in Senate: Cloture on amendment SA 6883 invoked in Senate by Yea-Nay Vote. 70 - 27. Record Vote Number: 264.
+- 2026-11-16 — SA 6888 (the instructions of the motion to commit) fell when cloture invoked on amendment SA 6883.
+- 2026-11-16 — SA 6889 fell when SA 6888 (the instructions of the motion to commit) fell.
+- 2026-11-16 — SA 6890 fell when SA 6889 fell.
+- 2026-11-16 — Senate amendment submitted
+- 2026-11-16 — Senate amendment submitted
+- 2026-11-16 — Senate amendment submitted
+- 2026-11-16 — Senate amendment submitted
+- 2026-11-16 — Senate amendment submitted
+- 2026-11-16 — Senate amendment submitted
+- 2026-11-16 — Senate amendment submitted
+- 2026-11-16 — Senate amendment submitted
+- 2026-11-16 — Senate amendment submitted
+- 2026-11-16 — Senate amendment submitted
+- 2026-11-16 — Senate amendment submitted
+- 2026-11-16 — Senate amendment submitted
+- 2026-11-17 — 
+- 2026-11-17 — 
+- 2026-11-17 — Considered by Senate. (consideration: CR S5705)
+- 2026-11-17 — Considered by Senate. (consideration: CR S5705)
+- 2026-11-17 — Considered by Senate. (consideration: CR S5705)
+- 2026-11-17 — Considered by Senate. (consideration: CR S5705)
+- 2026-11-17 — Considered by Senate. (consideration: CR S5705)
+- 2026-11-17 — Considered by Senate. (consideration: CR S5705)
+- 2026-11-17 — Senate amendment submitted
+- 2026-11-17 — Senate amendment submitted
+- 2026-11-18 — 
+- 2026-11-18 — 
+- 2026-11-18 — 
+- 2026-11-18 — 
+- 2026-11-18 — Amendment SA 6883 agreed to in Senate by Yea-Nay Vote. 69 - 27. Record Vote Number: 267.
+- 2026-11-18 — Cloture on the measure invoked in Senate by Yea-Nay Vote. 65 - 31. Record Vote Number: 268. (CR S5736)
+- 2026-11-18 — Considered by Senate. (consideration: CR S5729)
+- 2026-11-18 — Considered by Senate. (consideration: CR S5729)
+- 2026-11-18 — Considered by Senate. (consideration: CR S5729, S5736)
+- 2026-11-18 — Considered by Senate. (consideration: CR S5729, S5736)
+- 2026-11-18 — Considered by Senate. (consideration: CR S5729, S5736)
+- 2026-11-18 — Considered by Senate. (consideration: CR S5729-5730, S5735-5736)
+- 2026-11-18 — Motion to table amendment SA 6884 agreed to in Senate by Voice Vote.
+- 2026-11-18 — Motion to table amendment SA 6886 agreed to in Senate by Voice Vote.
+- 2026-11-18 — Motion to waive all applicable budgetary discipline with respect to H.R. 2347 agreed to in Senate by Yea-Nay Vote. 70 - 26. Record Vote Number: 266. (CR S5735-5736)
+- 2026-11-18 — Point of order that the amendment violates section 4106 of H.Con.Res.71, 115th Congress raised in Senate with respect to amendment SA 6883.
+- 2026-11-18 — Roll call votes on amendments in Senate: Amendment SA 6883 agreed to in Senate by Yea-Nay Vote. 69 - 27. Record Vote Number: 267.
+- 2026-11-18 — SA 6885 fell when SA 6884 tabled.
+- 2026-11-18 — SA 6887 fell when SA 6886 tabled.
+- 2026-11-18 — Senate amendment agreed to: Amendment SA 6883 agreed to in Senate by Yea-Nay Vote. 69 - 27. Record Vote Number: 267.
+- 2026-11-18 — Senate amendment submitted
+- 2026-11-18 — Senate amendment submitted
+- 2026-11-18 — Senate amendment submitted
+- 2026-11-18 — Senate amendment submitted
+- 2026-11-19 — 
+- 2026-11-19 — Considered by Senate.
+- 2026-11-19 — Passed Senate with an amendment by Yea-Nay Vote. 62 - 33. Record Vote Number: 270.
+- 2026-11-19 — Passed/agreed to in Senate: Passed Senate with an amendment by Yea-Nay Vote. 62 - 33. Record Vote Number: 270.
+- 2026-11-19 — Senate amendment submitted
