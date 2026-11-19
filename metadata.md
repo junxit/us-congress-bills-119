@@ -1,7 +1,7 @@
 ---
 measure: H.R. 5490
 congress: 119
-version: Engrossed in House
+version: Referred in Senate
 ---
 
 # H.R. 5490
@@ -93,10 +93,11 @@ Dismantle Foreign Scam Syndicates Act
 - Rep. Moore, Tim [R-NC-14] (M001236)
 - Rep. Cuellar, Henry [D-TX-28] (C001063)
 
-## Committees (2)
+## Committees (3)
 
 - House — Foreign Affairs Committee
 - House — Judiciary Committee
+- Senate — Foreign Relations Committee
 
 ## Actions
 
@@ -112,3 +113,4 @@ Dismantle Foreign Scam Syndicates Act
 - 2026-11-18 — Mr. Mast moved to suspend the rules and pass the bill, as amended.
 - 2026-11-18 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6262-6264)
 - 2026-11-18 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H6262-6264)
+- 2026-11-19 — Received in the Senate and Read twice and referred to the Committee on Foreign Relations.
