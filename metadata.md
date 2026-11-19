@@ -1,7 +1,7 @@
 ---
 measure: H.R. 1520
 congress: 119
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 1520
@@ -16,7 +16,7 @@ Charlotte Woodward Organ Transplant Discrimination Prevention Act
 
 - Rep. Cammack, Kat [R-FL-3] (C001039)
 
-## Cosponsors (28)
+## Cosponsors (29)
 
 - Rep. Dingell, Debbie [D-MI-6] (D000624)
 - Rep. Issa, Darrell [R-CA-48] (I000056)
@@ -46,6 +46,7 @@ Charlotte Woodward Organ Transplant Discrimination Prevention Act
 - Rep. Magaziner, Seth [D-RI-2] (M001223)
 - Rep. Bacon, Don [R-NE-2] (B001298)
 - Rep. Garbarino, Andrew R. [R-NY-2] (G000597)
+- Sen. Hassan, Margaret Wood [D-NH] (H001076)
 
 ## Committees (2)
 
@@ -69,3 +70,14 @@ Charlotte Woodward Organ Transplant Discrimination Prevention Act
 - 2025-06-23 — On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2858-2859)
 - 2025-06-23 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by voice vote. (text: CR H2858-2859)
 - 2025-06-24 — Received in the Senate and Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2026-11-19 — 
+- 2026-11-19 — Amendment SA 7028 agreed to in Senate by Unanimous Consent.
+- 2026-11-19 — Amendment SA 7028 proposed by Senator Moody. (consideration: CR S5788-5789) In the nature of a substitute.
+- 2026-11-19 — Measure laid before Senate by unanimous consent.
+- 2026-11-19 — Passed Senate with an amendment by Unanimous Consent.
+- 2026-11-19 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2026-11-19 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2026-11-19 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2026-11-19 — Senate amendment agreed to: Amendment SA 7028 agreed to in Senate by Unanimous Consent.
+- 2026-11-19 — Senate amendment proposed (on the floor): Amendment SA 7028 proposed by Senator Moody.
+- 2026-11-19 — Senate amendment submitted
