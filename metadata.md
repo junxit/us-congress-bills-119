@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4624
 congress: 119
-version: Referred in Senate
+version: Engrossed Amendment Senate
 ---
 
 # H.R. 4624
@@ -16,7 +16,7 @@ Muhammad Ali American Boxing Revival Act of 2026
 
 - Rep. Jack, Brian [R-GA-3] (J000311)
 
-## Cosponsors (13)
+## Cosponsors (15)
 
 - Rep. Davids, Sharice [D-KS-3] (D000629)
 - Rep. McDowell, Addison P. [R-NC-6] (M001240)
@@ -31,6 +31,8 @@ Muhammad Ali American Boxing Revival Act of 2026
 - Rep. McGarvey, Morgan [D-KY-3] (M001220)
 - Rep. Jackson, Jonathan L. [D-IL-1] (J000309)
 - Rep. Titus, Dina [D-NV-1] (T000468)
+- Sen. Rosen, Jacky [D-NV] (R000608)
+- Sen. Rosen, Jacky [D-NV] (R000608)
 
 ## Committees (3)
 
@@ -58,3 +60,17 @@ Muhammad Ali American Boxing Revival Act of 2026
 - 2026-03-24 — On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2641-2643)
 - 2026-03-24 — Passed/agreed to in House: On motion to suspend the rules and pass the bill, as amended Agreed to by voice vote. (text: CR H2641-2643)
 - 2026-03-25 — Received in the Senate and Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2026-09-24 — 
+- 2026-09-24 — Referred to the Committee on Commerce, Science, and Transportation.
+- 2026-09-24 — Senate amendment submitted
+- 2026-11-19 — 
+- 2026-11-19 — Amendment SA 7029 agreed to in Senate by Unanimous Consent.
+- 2026-11-19 — Amendment SA 7029 proposed by Senator Gillibrand for Senator Cruz. (consideration: CR S5793) In the nature of a substitute.
+- 2026-11-19 — Measure laid before Senate by unanimous consent.
+- 2026-11-19 — Passed Senate with an amendment by Unanimous Consent.
+- 2026-11-19 — Passed/agreed to in Senate: Passed Senate with an amendment by Unanimous Consent.
+- 2026-11-19 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2026-11-19 — Senate Committee on Commerce, Science, and Transportation discharged by Unanimous Consent.
+- 2026-11-19 — Senate amendment agreed to: Amendment SA 7029 agreed to in Senate by Unanimous Consent.
+- 2026-11-19 — Senate amendment proposed (on the floor): Amendment SA 7029 proposed by Senator Gillibrand for Senator Cruz.
+- 2026-11-19 — Senate amendment submitted
