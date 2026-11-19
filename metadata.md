@@ -1,7 +1,7 @@
 ---
 measure: S. 3321
 congress: 119
-version: Introduced in Senate
+version: Engrossed in Senate
 ---
 
 # S. 3321
@@ -28,3 +28,7 @@ FAIR Leave Act
 
 - 2025-12-03 — Introduced in Senate
 - 2025-12-03 — Read twice and referred to the Committee on Health, Education, Labor, and Pensions.
+- 2026-11-19 — Passed Senate without amendment by Voice Vote.
+- 2026-11-19 — Passed/agreed to in Senate: Passed Senate without amendment by Voice Vote.
+- 2026-11-19 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
+- 2026-11-19 — Senate Committee on Health, Education, Labor, and Pensions discharged by Unanimous Consent.
