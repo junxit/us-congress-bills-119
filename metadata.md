@@ -1,7 +1,7 @@
 ---
 measure: H.R. 4464
 congress: 119
-version: Reported in House
+version: Engrossed in House
 ---
 
 # H.R. 4464
@@ -44,9 +44,14 @@ Preventive Health Savings Act
 - Rep. Stutzman, Marlin A. [R-IN-3] (S001188)
 - Rep. Edwards, Chuck [R-NC-11] (E000246)
 
-## Committees (1)
+## Committees (2)
 
 - House — Budget Committee
+- Senate — Budget Committee
+
+## Recorded votes (1)
+
+- 2026-11-19 — [House 119-2-327](votes/house-119-2-0327.md) — On Motion to Suspend the Rules and Pass — **Passed** (401–0)
 
 ## Actions
 
@@ -58,3 +63,12 @@ Preventive Health Savings Act
 - 2026-11-17 — Placed on the Union Calendar, Calendar No. 777.
 - 2026-11-17 — Reported by the Committee on Budget. H. Rept. 119-882.
 - 2026-11-17 — Reported by the Committee on Budget. H. Rept. 119-882.
+- 2026-11-18 — At the conclusion of debate, the Yeas and Nays were demanded and ordered. Pursuant to the provisions of clause 8, rule XX, the Chair announced that further proceedings on the motion would be postponed.
+- 2026-11-18 — Considered under suspension of the rules. (consideration: CR H6266-6270; text: CR H6266-6267)
+- 2026-11-18 — DEBATE - The House proceeded with forty minutes of debate on H.R. 4464.
+- 2026-11-18 — Mr. Arrington moved to suspend the rules and pass the bill.
+- 2026-11-19 — Considered as unfinished business. (consideration: CR H6294-6295)
+- 2026-11-19 — Motion to reconsider laid on the table Agreed to without objection.
+- 2026-11-19 — On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 0 (Roll no. 327).
+- 2026-11-19 — Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by the Yeas and Nays: (2/3 required): 401 - 0 (Roll no. 327).
+- 2026-11-19 — Received in the Senate and Read twice and referred to the Committee on the Budget.
