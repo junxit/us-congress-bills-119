@@ -1,7 +1,7 @@
 ---
 legis-num: S. 2479
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE SENATE OF THE UNITED STATES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE SENATE OF THE UNITED STATES
 
 ## § 1. Short title
 
-This Act may be cited as the “Reserve Organization of America Charter Amendments Act of 2025”.
+This Act may be cited as the “Reserve Organization of America Charter Amendments Act of 2026”.
 
 ## § 2. Amendments to charter of Reserve Organization of the United States
 
