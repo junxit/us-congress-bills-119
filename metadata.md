@@ -1,7 +1,7 @@
 ---
 measure: S. 3954
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 3954
@@ -16,6 +16,10 @@ No Lifeline for Dead People Act
 
 - Sen. Ernst, Joni [R-IA] (E000295)
 
+## Cosponsors (1)
+
+- Sen. Shaheen, Jeanne [D-NH] (S001181)
+
 ## Committees (1)
 
 - Senate — Commerce, Science, and Transportation Committee
@@ -24,3 +28,7 @@ No Lifeline for Dead People Act
 
 - 2026-02-26 — Introduced in Senate
 - 2026-02-26 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2026-11-18 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2026-11-20 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. Without written report.
+- 2026-11-20 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. Without written report.
+- 2026-11-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 733.
