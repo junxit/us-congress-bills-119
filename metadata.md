@@ -1,7 +1,7 @@
 ---
 measure: S. 4802
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 4802
@@ -32,3 +32,7 @@ Hurricane Hunter Aircraft Recapitalization Act
 
 - 2026-06-17 — Introduced in Senate
 - 2026-06-17 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2026-07-22 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2026-11-20 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-167.
+- 2026-11-20 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. With written report No. 119-167.
+- 2026-11-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 723.
