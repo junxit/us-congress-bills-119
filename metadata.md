@@ -1,7 +1,7 @@
 ---
 measure: S. 69
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 69
@@ -24,3 +24,7 @@ COLLUDE Act
 
 - 2025-01-09 — Introduced in Senate
 - 2025-01-09 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2026-11-18 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2026-11-20 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. Without written report.
+- 2026-11-20 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. Without written report.
+- 2026-11-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 724.
