@@ -1,7 +1,7 @@
 ---
 measure: S. 5251
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 5251
@@ -24,3 +24,7 @@ ACPAC Modernization Act
 
 - 2026-08-05 — Introduced in Senate
 - 2026-08-05 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2026-11-18 — Committee on Commerce, Science, and Transportation. Ordered to be reported without amendment favorably.
+- 2026-11-20 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. Without written report.
+- 2026-11-20 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz without amendment. Without written report.
+- 2026-11-20 — Placed on Senate Legislative Calendar under General Orders. Calendar No. 730.
