@@ -1,7 +1,7 @@
 ---
 measure: S. 5332
 congress: 119
-version: Introduced in Senate
+version: Reported to Senate
 ---
 
 # S. 5332
@@ -30,3 +30,6 @@ Cooperative Institute Act of 2026
 
 - 2026-08-06 — Introduced in Senate
 - 2026-08-06 — Read twice and referred to the Committee on Commerce, Science, and Transportation.
+- 2026-11-18 — Committee on Commerce, Science, and Transportation. Ordered to be reported with an amendment in the nature of a substitute favorably.
+- 2026-11-20 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. Without written report.
+- 2026-11-20 — Committee on Commerce, Science, and Transportation. Reported by Senator Cruz with an amendment in the nature of a substitute. Without written report.
