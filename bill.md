@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 6213
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Heat Workforce Standards Act of 2025”.
+This Act may be cited as the “Heat Workforce Standards Act of 2026”.
 
 ## § 2. Prohibition against finalizing, implementing, or enforcing a proposed standard with respect to heat injury and illness prevention
 
