@@ -1,7 +1,7 @@
 ---
 measure: H.R. 10234
 congress: 119
-version: Introduced in House
+version: Reported in House
 derived: true
 ---
 
@@ -31,4 +31,4 @@ complete account of the bill's effect, which it is not.
 
 | Target | Operation | Instruction | Why not applied |
 |---|---|---|---|
-| `15 U.S.C. § 77a` | add-at-end | The Securities Act of 1933 (15 U.S.C. 77a et seq.) is amended by adding at the end the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |
+| `15 U.S.C. § 77a` | insert | The Securities Act of 1933 (15 U.S.C. 77a et seq.) is amended by inserting after section 6 the following: | the instruction refers to the law by structure rather than quoting it, so the words it changes are in the US Code and not in this bill |

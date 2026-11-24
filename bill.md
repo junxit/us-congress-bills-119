@@ -11,11 +11,11 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Consumer-Led Enhancement of Annuity and Insurance Registration Forms Act” or the “CLEAR Forms Act”.
+This Act may be cited as the “Consumer-Led Enhancement of Annuity and insurance Registration Forms Act” or the “CLEAR Forms Act”.
 
 ## § 2. Registration forms for RILU, CDA, and other registered non-variable insurance contracts
 
-- **(a)** *In general* The Securities Act of 1933 (15 U.S.C. 77a et seq.) is amended by adding at the end the following:
+- **(a)** *In general* The Securities Act of 1933 (15 U.S.C. 77a et seq.) is amended by inserting after section 6 the following:
   > ## § 6A. Registration forms for RILU, CDA, and other registered non-variable insurance contracts
   >
   > - **(a)** *Definitions* In this section:
@@ -66,20 +66,17 @@ This Act may be cited as the “Consumer-Led Enhancement of Annuity and Insuranc
   >       - **(v)** any other factor the Commission determines appropriate;
   >     - **(B)** engage in investor testing for contingent deferred annuity; and
   >     - **(C)** incorporate the results of the testing required under subparagraph (B) in the design of the forms for contingent deferred annuities, with the goal of ensuring that key information is conveyed in terms that a purchaser is able to understand.
-  >   - **(3)** *Limitations* In establishing the forms described in paragraph (1), the Commission shall—
-  >     - **(A)** limit the disclosures requested by such forms with respect to an insurance company to the disclosures requested by the forms described in section 239.17b or 239.17c of title 17, Code of Federal Regulations, as appropriate, or any successor regulation; and
-  >     - **(B)** specify that the financial statements requested by such forms with respect to an insurance company are those called for by the instructions for the financial statements in the forms described in sections 239.17b and 239.17c of title 17, Code of Federal Regulations, or any successor regulation.
-  >   - **(4)** *Rule 12h-7 exemption* In issuing the rules required by paragraph (1), the Commission may not impede the availability of an exemption to issuers described in section 240.12h-7 of title 17, Code of Federal Regulations, with regard to covered insurance contracts, that meet the qualifications for such exemption.
-  >   - **(5)** *Other related rules* To the greatest extent possible, the Commission shall promulgate an overall regulatory and filing framework that is consistent with the forms described in sections 239.17b and 239.17c of title 17, Code of Federal Regulations, in order to enable issuing insurance companies to offer all of the insurance company’s registered insurance product offerings on a consistent basis, including the availability of—
+  >   - **(3)** *Rule 12h-7 exemption* In issuing the rules required by paragraph (1), the Commission may not impede the availability of an exemption to issuers described in section 240.12h-7 of title 17, Code of Federal Regulations, with regard to covered insurance contracts, that meet the qualifications for such exemption.
+  >   - **(4)** *Other related rules* To the greatest extent possible, the Commission shall promulgate an overall regulatory and filing framework that is consistent with the forms described in sections 239.17b and 239.17c of title 17, Code of Federal Regulations, in order to enable issuing insurance companies to offer all of the insurance company’s registered insurance product offerings on a consistent basis, including the availability of—
   >     - **(A)** section 230.498A of title 17, Code of Federal Regulations (permitting and prescribing the use of summary prospectuses for separate accounts offering variable annuity and variable life insurance contracts, and for the offering of registered non-variable annuity contracts);
   >     - **(B)** section 270.24f-2 of title 17, Code of Federal Regulations (requiring issuers of certain investment company securities and registered non-variable annuity contracts to pay registration fees under the Securities Act of 1933 annually based on the net sales of such securities and contracts); and
   >     - **(C)** sections 230.485 and 230.497 of title 17, Code of Federal Regulations (permitting automatic and immediate effectiveness for post-effective amendments and supplements filed by certain registered investment companies and issuers offering registered non-variable insurance contracts).
   > - **(c)** *Rules of construction* Nothing in this section may be construed to—
-  >   - **(1)** except as described in subsection (b)(3), limit the authority of the Commission to determine the information to be requested in the forms described in subsection (b); or
+  >   - **(1)** limit the authority of the Commission to determine the information to be requested in the forms described in subsection (b); or
   >   - **(2)** preempt any State or Territory law, regulation, rule, or order.
 
 - **(b)** *Treatment if rules not prepared and finalized in a timely manner*
-  - **(1)** *In general* At the end of the 30-month period beginning on the date of enactment of this Act, if the Commission has not finalized the rules required under section 6A(b)(1) of the Securities Act of 1933, any registered index-linked life insurance or contingent deferred annuity may be registered on the forms described in sections 239.17b and 239.17c of title 17, Code of Federal Regulations, or any successor regulation, as appropriate.
+  - **(1)** *In general* At the end of the 36-month period beginning on the date of enactment of this Act, if the Commission has not finalized the rules required under section 6A(b)(1) of the Securities Act of 1933, any registered index-linked life insurance or contingent deferred annuity may be registered on the forms described in sections 239.17b and 239.17c of title 17, Code of Federal Regulations, or any successor regulation, as appropriate.
   - **(2)** *Preparation* A registration described in paragraph (1) shall be prepared pursuant to applicable provisions of the forms described in that paragraph.
   - **(3)** *Definitions* In this section—
     - **(A)** the terms “contingent deferred annuity” and “registered index-linked life insurance” have the meaning given those terms, respectively, in section 6A(a) of the Securities Act of 1933; and
