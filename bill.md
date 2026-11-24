@@ -1,7 +1,7 @@
 ---
 legis-num: H.R. 1653
 congress: 119th CONGRESS
-session: 1st Session
+session: 2d Session
 chamber: IN THE HOUSE OF REPRESENTATIVES
 ---
 
@@ -11,7 +11,7 @@ chamber: IN THE HOUSE OF REPRESENTATIVES
 
 ## § 1. Short title
 
-This Act may be cited as the “Civil Investigative Demand Reform Act of 2025”.
+This Act may be cited as the “Civil Investigative Demand Reform Act of 2026”.
 
 ## § 2. Civil Investigative Demands
 
@@ -25,9 +25,9 @@ This Act may be cited as the “Civil Investigative Demand Reform Act of 2025”
   >     - **(bb)** a period equal to the period beginning on the date of service of the civil investigative demand and ending on the return date specified in the demand.
   >   - **(III)** *Extension of return date and petition deadline* In a case in which questions are submitted under subclause (I), the Bureau may include with the response required under subclause (II) an extension of the return date and the deadline to file a petition with the Bureau for an order modifying or setting aside the demand.
 
-- **(d)** *Confidential treatment of petitions* Section 1052(d)) of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5562(d)) is amended—
+- **(d)** *Confidential treatment of petitions* Section 1052(d) of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5562(d)) is amended—
   - **(1)** in the subsection heading, by inserting “and petitions” after “demand material”; and
-  - **(2)** in paragraph (1), strike “and tangible things” and insert “, tangible things, and the contents of any petition submitted to the Bureau in accordance with subsection (f)”.
+  - **(2)** in paragraph (1), by striking “and tangible things” and inserting “, tangible things, and the contents of any petition submitted to the Bureau in accordance with subsection (f)”.
 - **(e)** *Specific grounds To set aside* Section 1052(f)(3) of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5562(f)(3)) is amended by striking “upon any failure” and all that follows through the period at the end and inserting the following:
   > upon any—
   > - **(A)** failure of the demand to comply with the provisions of this section;
@@ -37,4 +37,4 @@ This Act may be cited as the “Civil Investigative Demand Reform Act of 2025”
   >   - **(ii)** unreasonably cumulative or duplicative, or can be obtained from some other source that is more convenient, less burdensome, or less expensive.
 
 - **(f)** *Judicial review* Section 1052(f) of the Consumer Financial Protection Act of 2010 (12 U.S.C. 5562(f)) is amended by adding at the end the following:
-  > - **(4)** *Judicial review of petition To modify or set aside a demand* In the case that the Bureau denies a petition to modify or set aside a demand, such denial shall be subject to judicial review.
+  > - **(4)** *Judicial review of petition to modify or set aside a demand* In the case that the Bureau denies a petition to modify or set aside a demand, such denial shall be subject to judicial review.
