@@ -19,8 +19,8 @@ This Act may be cited as the “Securing Facilities for Mental Health Services A
   - **(1)** in subparagraph (A), by striking the semicolon at the end and inserting “; and”;
   - **(2)** by striking subparagraph (B); and
   - **(3)** by redesignating subparagraph (C) as subparagraph (B).
-- **(b)** *Effective date* The amendments made by this section shall apply upon the expiration of the 9-month period beginning on the date of enactment of this Act.
+- **(b)** *Effective date* The amendments made by this section shall apply for the period that begins on the date that is 9 months after the date of the enactment of this Act and ends on the date that is 5 years after the date of the enactment of this Act.
 
 ## § 3. Report regarding program expansion
 
-Not later than the expiration of the 2-year period beginning on the date of enactment of this Act, the Secretary of Housing and Urban Development shall submit a report to the Congress assessing the results and effectiveness of the expansion of the hospital mortgage insurance program under section 242 of the National Housing Act pursuant to the amendments made by section 2 of this Act.
+Not later than the expiration of the 5-year period beginning on the date of enactment of this Act, the Secretary of Housing and Urban Development shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report assessing the results and effectiveness of the expansion of the hospital mortgage insurance program under section 242 of the National Housing Act pursuant to the amendments made by section 2 of this Act.

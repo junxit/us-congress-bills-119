@@ -1,7 +1,7 @@
 ---
 measure: H.R. 7030
 congress: 119
-version: Introduced in House
+version: Reported in House
 ---
 
 # H.R. 7030
@@ -29,3 +29,8 @@ Securing Facilities for Mental Health Services Act
 - 2026-01-13 — Introduced in House
 - 2026-01-13 — Introduced in House
 - 2026-01-13 — Referred to the House Committee on Financial Services.
+- 2026-09-16 — Committee Consideration and Mark-up Session Held
+- 2026-09-16 — Ordered to be Reported (Amended) by the Yeas and Nays: 49 - 0.
+- 2026-11-24 — Placed on the Union Calendar, Calendar No. 787.
+- 2026-11-24 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-892.
+- 2026-11-24 — Reported (Amended) by the Committee on Financial Services. H. Rept. 119-892.
